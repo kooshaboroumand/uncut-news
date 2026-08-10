@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-08-10T23:01:59.594062+00:00",
+  "updated_at": "2026-08-10T23:10:54.245795+00:00",
   "count": 24,
   "news": [
     {
       "id": "580b64eded17",
       "title": {
         "en": "Unscripted Producer Rachel Tung Renews ABC & Hulu Development Deal (EXCLUSIVE)",
-        "fa": "Unscripted Producer Rachel Tung Renews ABC & Hulu Development Deal (EXCLUSIVE)"
+        "fa": "راشل تونگ، تهیه‌کننده بدون فیلمنامه، قرارداد توسعه ABC و Hulu را تمدید کرد"
       },
       "excerpt": {
         "en": "Veteran unscripted producer Rachel Tung has renewed her development deal with ABC and Hulu, Variety has learned exclusively. Under the renewed deal, Tung will continue developing original unscripted programming for Disney and serve as showrunner on select projects for ABC and Hulu. Tung, who was formerly a vice president of unscripted at Paramount, developed and […]",
@@ -21,7 +21,7 @@
         "fa": "Variety"
       },
       "link": "https://variety.com/2026/tv/news/rachel-tung-abc-hulu-development-deal-1236831502/",
-      "date": "2026-08-10T23:01:59.385715+00:00",
+      "date": "2026-08-10T23:10:53.987857+00:00",
       "image": "https://variety.com/wp-content/uploads/2023/03/TTN-S2-EP-208_.jpg",
       "important": true,
       "score": 7
@@ -45,7 +45,7 @@
         "fa": "The Wrap"
       },
       "link": "https://www.thewrap.com/creative-content/tv-shows/st-denis-medical-season-3-damon-wayans-guest-star/",
-      "date": "2026-08-10T23:01:59.392046+00:00",
+      "date": "2026-08-10T23:10:53.994331+00:00",
       "image": "https://i0.wp.com/www.thewrap.com/wp-content/uploads/2026/08/st-denis-medical-justin-lubin-nbc.jpg?fit=1280%2C720&quality=89&ssl=1",
       "important": true,
       "score": 6
@@ -69,7 +69,7 @@
         "fa": "Variety"
       },
       "link": "https://variety.com/2026/tv/awards/jean-smart-emmys-history-hacks-sweep-1236831541/",
-      "date": "2026-08-10T23:01:59.388157+00:00",
+      "date": "2026-08-10T23:10:53.990460+00:00",
       "image": "https://variety.com/wp-content/uploads/2026/08/Jean-Smart-Hacks.jpg",
       "important": true,
       "score": 6
@@ -93,7 +93,7 @@
         "fa": "Variety"
       },
       "link": "https://variety.com/2026/tv/news/damon-wayans-in-living-color-st-denis-medical-1236831408/",
-      "date": "2026-08-10T23:01:59.386077+00:00",
+      "date": "2026-08-10T23:10:53.988252+00:00",
       "image": "https://variety.com/wp-content/uploads/2026/08/MixCollage-10-Aug-2026-12-27-PM-9124.jpg",
       "important": true,
       "score": 6
@@ -117,7 +117,7 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/feature/tv-show-based-on-books-this-year-1236035246/",
-      "date": "2026-08-10T23:01:59.385627+00:00",
+      "date": "2026-08-10T23:10:53.987756+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/Book-to-TV-Adaptations-Yeehaw.jpg",
       "important": true,
       "score": 6
@@ -141,7 +141,7 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/damon-wayans-guest-star-st-denis-medical-season-3-photo-1237029097/",
-      "date": "2026-08-10T23:01:59.384516+00:00",
+      "date": "2026-08-10T23:10:53.986531+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/damon-wayans-st-denis-medical.jpg",
       "important": true,
       "score": 6
@@ -165,7 +165,7 @@
         "fa": "The Wrap"
       },
       "link": "https://www.thewrap.com/creative-content/what-to-watch/new-shows-streaming-this-week-august-10-17-prime-video-hbo-max/",
-      "date": "2026-08-10T23:01:59.390876+00:00",
+      "date": "2026-08-10T23:10:53.993182+00:00",
       "image": "https://www.thewrap.com/wp-content/uploads/2026/08/lanterns-kyle-chandler.jpg",
       "important": false,
       "score": 3
@@ -189,7 +189,7 @@
         "fa": "The Hollywood Reporter"
       },
       "link": "https://www.hollywoodreporter.com/business/business-news/kat-and-deja-clark-caa-1236670414/",
-      "date": "2026-08-10T23:01:59.389794+00:00",
+      "date": "2026-08-10T23:10:53.992119+00:00",
       "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/Clarks-Headshot.png?crop=0px%2C0px%2C1537px%2C860px&#038;resize=1440%2C810",
       "important": false,
       "score": 3
@@ -206,14 +206,14 @@
       },
       "content": {
         "en": "Moura explains how the most prestigious day of his career — winning a top Cannes honor — collided with one of the least glamorous days on set, in which he picked up dog excrement on camera.",
-        "fa": "Moura explains how the most prestigious day of his career — winning a top Cannes honor — collided with one of the least glamorous days on set, in which he picked up dog excrement on camera."
+        "fa": "مورا توضیح می‌دهد که چگونه معتبرترین روز زندگی حرفه‌ای‌اش - برنده شدن برترین افتخار جشنواره کن - با یکی از کم زرق و برق‌ترین روزهای فیلمبرداری که در آن مدفوع سگ را جلوی دوربین برد، برخورد کرد."
       },
       "source": {
         "en": "The Hollywood Reporter",
         "fa": "The Hollywood Reporter"
       },
       "link": "https://www.hollywoodreporter.com/movies/movie-features/the-last-house-star-wagner-moura-1236670385/",
-      "date": "2026-08-10T23:01:59.388908+00:00",
+      "date": "2026-08-10T23:10:53.991222+00:00",
       "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/Wagner-Moura-Last-House-Premiere-Main-2026.jpg?w=1296&#038;h=730&#038;crop=1",
       "important": false,
       "score": 3
@@ -237,7 +237,7 @@
         "fa": "Variety"
       },
       "link": "https://variety.com/2026/music/news/suno-unveils-download-caps-for-free-paid-tiers-generator-1236831589/",
-      "date": "2026-08-10T23:01:59.387275+00:00",
+      "date": "2026-08-10T23:10:53.989549+00:00",
       "image": "https://variety.com/wp-content/uploads/2026/06/Suno_1-1.png",
       "important": false,
       "score": 3
@@ -261,7 +261,7 @@
         "fa": "Variety"
       },
       "link": "https://variety.com/2026/artisans/news/euphoria-makeup-jules-rue-cassie-1236831354/",
-      "date": "2026-08-10T23:01:59.386388+00:00",
+      "date": "2026-08-10T23:10:53.988604+00:00",
       "image": "https://variety.com/wp-content/uploads/2026/08/hunter-schafer_5.jpg",
       "important": false,
       "score": 3
@@ -278,14 +278,14 @@
       },
       "content": {
         "en": "Hannah Einbinder is optimistic about the future of queer cinema after starring in writer/director Jane Schoenbrun’s latest film, “Teenage Sex and Death at Camp Miasma.” “I hope that with the hopeful success of films like this, that [Hollywood] is able to trust queer filmmakers and showrunners more,” Einbinder told Variety at the U.S. premiere of […]",
-        "fa": "Hannah Einbinder is optimistic about the future of queer cinema after starring in writer/director Jane Schoenbrun’s latest film, “Teenage Sex and Death at Camp Miasma.” “I hope that with the hopeful success of films like this, that [Hollywood] is able to trust queer filmmakers and showrunners more,” Einbinder told Variety at the U.S. premiere of […]"
+        "fa": "هانا اینبیندر پس از بازی در آخرین فیلم جین شوئنبرون، نویسنده/کارگردان، «سکس نوجوانان و مرگ در کمپ میاسما»، به آینده سینمای دگرباش خوشبین است. اینبیندر در اولین اکران فیلم در ایالات متحده به ورایتی گفت: \"امیدوارم با موفقیت امیدوارکننده فیلم هایی مانند این، بتواند به فیلمسازان و مجریان نمایش عجیب و غریب اعتماد بیشتری داشته باشد.\""
       },
       "source": {
         "en": "Variety",
         "fa": "Variety"
       },
       "link": "https://variety.com/2026/film/news/hannah-einbinder-jane-schoenbrun-teenage-sex-death-camp-miasma-1236824641/",
-      "date": "2026-08-10T23:01:59.385971+00:00",
+      "date": "2026-08-10T23:10:53.988136+00:00",
       "image": "https://variety.com/wp-content/uploads/2026/08/P107EJEP.jpg",
       "important": false,
       "score": 3
@@ -309,7 +309,7 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/a-twink-and-a-redhead-signs-caa-1237030348/",
-      "date": "2026-08-10T23:01:59.385437+00:00",
+      "date": "2026-08-10T23:10:53.987528+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/Talent-Headshot.jpeg",
       "important": false,
       "score": 3
@@ -333,7 +333,7 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/jacob-elordi-ari-aster-scapegoat-scarlett-johansson-a24-1237030322/",
-      "date": "2026-08-10T23:01:59.385097+00:00",
+      "date": "2026-08-10T23:10:53.987178+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/Elordi2-Ari-Aster-Scarjo.jpg",
       "important": false,
       "score": 3
@@ -357,7 +357,7 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/louisa-krause-dakota-fanning-apple-tv-alex-cary-thriller-1237030351/",
-      "date": "2026-08-10T23:01:59.384189+00:00",
+      "date": "2026-08-10T23:10:53.986201+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/Louisa-Krause-2-Apple.jpg",
       "important": false,
       "score": 3
@@ -366,11 +366,11 @@
       "id": "91f3f69d5a70",
       "title": {
         "en": "Sony Pre-Empts ‘The Ballad Of The Ember Knight’; 14th Century-Set Spec By First-Time Scribes Lands Near 7-Figures",
-        "fa": "Sony Pre-Empts ‘The Ballad Of The Ember Knight’; 14th Century-Set Spec By First-Time Scribes Lands Near 7-Figures"
+        "fa": "سونی از «The Ballad Of The Ember Knight» پیشی گرفت. مشخصات مجموعه قرن چهاردهم توسط کاتبان اولین بار نزدیک به 7 رقم می رسد"
       },
       "excerpt": {
         "en": "EXCLUSIVE: After Christopher Nolan turned Homer’s ancient poem into gold with The Odyssey, maybe Hollywood is ready to take more chances on literate period fare. How else to explain the high level of interest when CAA and Kaplan Perrone went out with the spec script The Ballad of the Ember Knight, a 14th century-set drama […]",
-        "fa": "EXCLUSIVE: After Christopher Nolan turned Homer’s ancient poem into gold with The Odyssey, maybe Hollywood is ready to take more chances on literate period fare. How else to explain the high level of interest when CAA and Kaplan Perrone went out with the spec script The Ballad of the Ember Knight, a 14th century-set drama […]"
+        "fa": "انحصاری: پس از اینکه کریستوفر نولان شعر باستانی هومر را با ادیسه به طلا تبدیل کرد، شاید هالیوود آماده باشد تا شانس بیشتری را برای دوره باسواد بپذیرد. دیگر چگونه می توان سطح بالای علاقه را توضیح داد که CAA و کاپلان پرون با فیلمنامه مشخصات The Ballad of the Ember Knight، یک درام قرن چهاردهمی، به صحنه رفتند."
       },
       "content": {
         "en": "EXCLUSIVE: After Christopher Nolan turned Homer’s ancient poem into gold with The Odyssey, maybe Hollywood is ready to take more chances on literate period fare. How else to explain the high level of interest when CAA and Kaplan Perrone went out with the spec script The Ballad of the Ember Knight, a 14th century-set drama […]",
@@ -381,7 +381,7 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/sony-preempts-ballad-of-the-ember-knight-14th-century-spec-1237030382/",
-      "date": "2026-08-10T23:01:59.383983+00:00",
+      "date": "2026-08-10T23:10:53.985982+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/Kieran-ODea-and-Brennan-ODay.jpg",
       "important": false,
       "score": 3
@@ -394,7 +394,7 @@
       },
       "excerpt": {
         "en": "EXCLUSIVE: Alexa Swinton (Behemoth!), David Arquette (Scarpetta), Wyatt Oleff (It) and Sawyer Spielberg (Masters of the Air) are underway on the Minnesota shoot for Wreckless, an indie sports drama marking the directorial debut of Kayla Arend, who’s working from a script she wrote with Mickey Falcone. Set within the male-dominated demolition derby community of rural Minnesota, Wreckless is a […]",
-        "fa": "EXCLUSIVE: Alexa Swinton (Behemoth!), David Arquette (Scarpetta), Wyatt Oleff (It) and Sawyer Spielberg (Masters of the Air) are underway on the Minnesota shoot for Wreckless, an indie sports drama marking the directorial debut of Kayla Arend, who’s working from a script she wrote with Mickey Falcone. Set within the male-dominated demolition derby community of rural Minnesota, Wreckless is a […]"
+        "fa": "انحصاری: الکسا سوئینتون، دیوید آرکت، وایات اولف و سایر اسپیلبرگ در فیلمبرداری فیلم Wreckless در مینه سوتا، یک درام ورزشی مستقل که اولین کارگردانی کایلا آرند را نشان می‌دهد، که بر روی فیلمنامه‌ای که با میکی فالکون نوشته است، کار می‌کند. Wreckless که در جامعه مردانه دربی تخریب روستایی مینه سوتا واقع شده است"
       },
       "content": {
         "en": "EXCLUSIVE: Alexa Swinton (Behemoth!), David Arquette (Scarpetta), Wyatt Oleff (It) and Sawyer Spielberg (Masters of the Air) are underway on the Minnesota shoot for Wreckless, an indie sports drama marking the directorial debut of Kayla Arend, who’s working from a script she wrote with Mickey Falcone. Set within the male-dominated demolition derby community of rural Minnesota, Wreckless is a […]",
@@ -405,7 +405,7 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/alexa-swinton-david-arquette-to-star-wreckless-kayla-arend-1237030529/",
-      "date": "2026-08-10T23:01:59.383329+00:00",
+      "date": "2026-08-10T23:10:53.985313+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/deadline_photo_split.png",
       "important": false,
       "score": 3
@@ -418,7 +418,7 @@
       },
       "excerpt": {
         "en": "Adam Driver, Miles Teller, and Scarlett Johansson star in a gutting Greek tragedy that also shimmers with some of the most precisely calibrated sequences of violence in an American movie since \"No Country for Old Men.\"",
-        "fa": "Adam Driver, Miles Teller, and Scarlett Johansson star in a gutting Greek tragedy that also shimmers with some of the most precisely calibrated sequences of violence in an American movie since \"No Country for Old Men.\""
+        "fa": "آدام درایور، مایلز تلر و اسکارلت جوهانسون در یک تراژدی تلخ یونانی بازی می‌کنند که با برخی از دقیق‌ترین سکانس‌های خشونت در یک فیلم آمریکایی از زمان «کشوری برای پیرمردها نیست» می‌درخشد."
       },
       "content": {
         "en": "Adam Driver, Miles Teller, and Scarlett Johansson star in a gutting Greek tragedy that also shimmers with some of the most precisely calibrated sequences of violence in an American movie since \"No Country for Old Men.\"",
@@ -429,7 +429,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/news/trailers/paper-tiger-teaser-trailer-james-gray-movie-watch-1235208969/",
-      "date": "2026-08-10T23:01:59.393711+00:00",
+      "date": "2026-08-10T23:10:53.996116+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/07/Paper-Tiger.jpg?w=650",
       "important": false,
       "score": 1
@@ -453,7 +453,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/news/box-office/do-movie-sequels-actually-make-more-money-1235207177/",
-      "date": "2026-08-10T23:01:59.393387+00:00",
+      "date": "2026-08-10T23:10:53.995766+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2016/06/star-wars-the-force-awakens.jpg?w=640",
       "important": false,
       "score": 1
@@ -462,7 +462,7 @@
       "id": "2677b9afdb24",
       "title": {
         "en": "‘Spider-Man: Brand New Day’ Second-Fastest Film To Cross $1B At Int’l Box Office, With Global At $1.67B; ‘PAW Patrol: The Dino Movie’ Opens With $25M",
-        "fa": "‘Spider-Man: Brand New Day’ Second-Fastest Film To Cross $1B At Int’l Box Office, With Global At $1.67B; ‘PAW Patrol: The Dino Movie’ Opens With $25M"
+        "fa": "«مرد عنکبوتی: روز کاملاً جدید» دومین فیلم سریع با فروش جهانی از 1 میلیارد دلار در باکس آفیس بین المللی، با قیمت جهانی 1.67 میلیارد دلار؛ «PAW Patrol: The Dino Movie» با ۲۵ میلیون دلار اکران می‌شود"
       },
       "excerpt": {
         "en": "MONDAY WRITETHRU UPDATE: The global box office is humming with Sony/Marvel Studios’ Spider-Man: Brand New Day crossing the $1 billion threshold abroad in 12 days of release, the second-fastest to do so after Avengers: Endgame. The Destin Daniel Cretton movie is now the 12th highest-grossing ever at the worldwide box office with $1.67B ($654.3M domestic, […]",
@@ -477,7 +477,7 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/box-office-global-spider-man-brand-new-day-foreign-record-1237029582/",
-      "date": "2026-08-10T23:01:59.384405+00:00",
+      "date": "2026-08-10T23:10:53.986406+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/MCDSPMA_CO021-e1786292713237.jpg",
       "important": false,
       "score": 1
@@ -494,14 +494,14 @@
       },
       "content": {
         "en": "Definitions, examples, and an earnest attempt to explain the many terms Hollywood loves to use to differentiate what's really just franchise filmmaking.",
-        "fa": "Definitions, examples, and an earnest attempt to explain the many terms Hollywood loves to use to differentiate what's really just franchise filmmaking."
+        "fa": "تعاریف، مثال‌ها و تلاش جدی برای توضیح عباراتی که هالیوود دوست دارد برای متمایز کردن چیزی که واقعاً فیلمسازی فرانچایز است استفاده کند."
       },
       "source": {
         "en": "IndieWire",
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/features/general/movie-sequel-terms-definitions-examples-1235209152/",
-      "date": "2026-08-10T23:01:59.393905+00:00",
+      "date": "2026-08-10T23:10:53.996326+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/MSDGRTW_WB016.jpg?w=650",
       "important": false,
       "score": 0
@@ -525,7 +525,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/news/general-news/end-of-oak-street-ai-dogs-podcast-1235209765/",
-      "date": "2026-08-10T23:01:59.393590+00:00",
+      "date": "2026-08-10T23:10:53.995986+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/03/rev-1-NBR-T1-0019_High_Res_JPEG.jpeg?w=650",
       "important": false,
       "score": 0
@@ -538,7 +538,7 @@
       },
       "excerpt": {
         "en": "David Ellison has repeatedly promised 30 movies per year for three years with a 45-day theatrical window before PVOD.",
-        "fa": "David Ellison has repeatedly promised 30 movies per year for three years with a 45-day theatrical window before PVOD."
+        "fa": "دیوید الیسون بارها قول داده 30 فیلم در سال به مدت سه سال با یک نمایش 45 روزه قبل از PVOD تولید شود."
       },
       "content": {
         "en": "David Ellison has repeatedly promised 30 movies per year for three years with a 45-day theatrical window before PVOD.",
@@ -549,7 +549,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/news/business/paramount-putting-into-writing-commitment-movie-theaters-1235209539/",
-      "date": "2026-08-10T23:01:59.393250+00:00",
+      "date": "2026-08-10T23:10:53.995626+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/07/JABL_00173R.jpg?w=650",
       "important": false,
       "score": 0
@@ -558,7 +558,7 @@
       "id": "f54536b6c319",
       "title": {
         "en": "‘Pluribus’ Star Karolina Wydra on the Vince Gilligan Note That ‘Terrified’ Her and How Rhea Seehorn Saved Her",
-        "fa": "‘Pluribus’ Star Karolina Wydra on the Vince Gilligan Note That ‘Terrified’ Her and How Rhea Seehorn Saved Her"
+        "fa": "کارولینا ویدرا ستاره «پلوریباس» در یادداشت وینس گیلیگان که «او را وحشت زده» کرد و چگونه ریا سیهورن او را نجات داد"
       },
       "excerpt": {
         "en": "The newly-minted Emmy nominee tells IndieWire about her favorite scene in the breakout series — and the show-changing kiss with Rhea Seehorn.",
@@ -573,7 +573,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/awards/consider-this/pluribus-karolina-wydra-vince-gilligan-note-terrified-emmy-1235209427/",
-      "date": "2026-08-10T23:01:59.393071+00:00",
+      "date": "2026-08-10T23:10:53.995415+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/karolina.jpg?w=650",
       "important": false,
       "score": 0
