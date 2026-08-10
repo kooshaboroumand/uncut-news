@@ -100,7 +100,7 @@ def fetch_rss(url: str) -> list[dict]:
                 items.append({
                     "title": _clean(title),
                     "link": link.strip(),
-                    "description": _clean(description)[:450] if description else "",
+                    "description": _clean(description)[:900] if description else "",
                     "pub_date": pub_date,
                     "source": source,
                     "image": image,
@@ -302,17 +302,38 @@ def main():
 
     important.sort(key=lambda x: (x["score"], x["date"]), reverse=True)
 
-    # حذف تکراری
-    seen = set()
+    # حذف اخبار تکراری (قوی‌تر با شباهت عنوان)
+    from difflib import SequenceMatcher
+
+    def normalize_title(t: str) -> str:
+        t = t.lower()
+        for w in ["exclusive", "breaking", "official", "the wrap", "variety",
+                  "deadline", "hollywood reporter", "indiewire", "report",
+                  "says", "reveals", "announces", "unveils", "first-look", "photo"]:
+            t = t.replace(w, " ")
+        t = re.sub(r"[^a-z0-9\s]", " ", t)
+        t = re.sub(r"\s+", " ", t).strip()
+        return t
+
     unique = []
     for item in important:
-        norm = re.sub(r"[^a-z0-9]", "", item["title"].lower())[:55]
-        if norm not in seen:
-            seen.add(norm)
+        norm = normalize_title(item["title"])
+        is_dup = False
+        for existing in unique:
+            exist_norm = normalize_title(existing["title"])
+            ratio = SequenceMatcher(None, norm, exist_norm).ratio()
+            if ratio > 0.72:  # شباهت بالای ۷۲٪ = تکراری
+                is_dup = True
+                # اگر خبر جدید امتیاز بالاتری دارد جایگزین می‌شود
+                if item["score"] > existing["score"]:
+                    unique.remove(existing)
+                    unique.append(item)
+                break
+        if not is_dup:
             unique.append(item)
 
     final = unique[:MAX_NEWS]
-    print(f"\nSelected {len(final)} important news.")
+    print(f"\nSelected {len(final)} unique important news (duplicates removed).")
     print("Fetching images + translating...")
 
     output = {
@@ -323,7 +344,7 @@ def main():
 
     for i, item in enumerate(final):
         title_en = item["title"]
-        excerpt_en = item["description"][:300] + ("..." if len(item["description"]) > 300 else "")
+        excerpt_en = item["description"][:500] + ("..." if len(item["description"]) > 500 else "")
 
         # عکس: اول از RSS، بعد og:image، بعد عکس سینمایی
         image = item.get("image") or ""
@@ -342,10 +363,10 @@ def main():
             "id": item["id"],
             "title": {"en": title_en, "fa": title_fa},
             "excerpt": {"en": excerpt_en, "fa": excerpt_fa},
-            "content": {"en": item["description"] or title_en, "fa": excerpt_fa},
+            "content": {"en": item["description"] or title_en, "fa": translate_to_fa(item["description"][:700]) if item["description"] else excerpt_fa},
             "source": {"en": item["source"], "fa": item["source"]},
             "link": item["link"],
-            "date": item["date"][:10],
+            "date": item["date"],  # تاریخ کامل همراه با ساعت
             "image": image,
             "important": item["score"] >= 4,
             "score": item["score"]
