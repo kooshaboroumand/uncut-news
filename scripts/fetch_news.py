@@ -17,7 +17,7 @@ import html
 import xml.etree.ElementTree as ET
 
 try:
-    from deep_translator import GoogleTranslator
+    from deep_translator import MyMemoryTranslator, GoogleTranslator
     HAS_TRANSLATOR = True
 except ImportError:
     HAS_TRANSLATOR = False
@@ -180,17 +180,25 @@ def parse_date(date_str: str) -> datetime:
 
 
 def translate_to_fa(text: str) -> str:
-    """ترجمه به فارسی با GoogleTranslator (رایگان و بدون کلید)"""
+    """ترجمه به فارسی – اول MyMemory (کیفیت بهتر)، اگر شکست خورد Google"""
     if not text or not HAS_TRANSLATOR:
         return text
+    chunk = text[:4500]
+    # اول MyMemory را امتحان می‌کنیم (معمولاً برای فارسی طبیعی‌تر است)
     try:
-        # محدودیت طول برای جلوگیری از خطا
-        chunk = text[:4500]
+        result = MyMemoryTranslator(source="en", target="fa").translate(chunk)
+        time.sleep(0.35)
+        if result and result.strip() and result.lower() != chunk.lower():
+            return result
+    except Exception as e:
+        print(f"[WARN] MyMemory failed: {e}")
+    # فال‌بک به Google
+    try:
         result = GoogleTranslator(source="en", target="fa").translate(chunk)
-        time.sleep(0.4)  # احترام به rate limit
+        time.sleep(0.35)
         return result or text
     except Exception as e:
-        print(f"[WARN] Translation failed: {e}")
+        print(f"[WARN] Google translate failed: {e}")
         return text
 
 
