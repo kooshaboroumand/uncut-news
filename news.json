@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-10T23:10:54.245795+00:00",
+  "updated_at": "2026-08-10T23:16:53.841911+00:00",
   "count": 24,
   "news": [
     {
@@ -21,58 +21,10 @@
         "fa": "Variety"
       },
       "link": "https://variety.com/2026/tv/news/rachel-tung-abc-hulu-development-deal-1236831502/",
-      "date": "2026-08-10T23:10:53.987857+00:00",
+      "date": "2026-08-10T23:16:53.596928+00:00",
       "image": "https://variety.com/wp-content/uploads/2023/03/TTN-S2-EP-208_.jpg",
       "important": true,
       "score": 7
-    },
-    {
-      "id": "693e9d60acb0",
-      "title": {
-        "en": "‘St. Denis Medical’ Recruits Damon Wayans as Season 3 Premiere Guest Star",
-        "fa": "'سنت دنیس مدیکال دیمون وینز را به عنوان ستاره مهمان در فصل سوم به خدمت می گیرد"
-      },
-      "excerpt": {
-        "en": "The actor will play a pompous new doctor when the NBC medical comedy returns in November The post ‘St. Denis Medical’ Recruits Damon Wayans as Season 3 Premiere Guest Star appeared first on TheWrap .",
-        "fa": "این بازیگر با بازگشت کمدی پزشکی NBC در ماه نوامبر در نقش یک پزشک جدید و باشکوه بازی خواهد کرد"
-      },
-      "content": {
-        "en": "The actor will play a pompous new doctor when the NBC medical comedy returns in November The post ‘St. Denis Medical’ Recruits Damon Wayans as Season 3 Premiere Guest Star appeared first on TheWrap .",
-        "fa": "این بازیگر با بازگشت کمدی پزشکی NBC در ماه نوامبر در نقش یک پزشک جدید و باشکوه بازی خواهد کرد"
-      },
-      "source": {
-        "en": "The Wrap",
-        "fa": "The Wrap"
-      },
-      "link": "https://www.thewrap.com/creative-content/tv-shows/st-denis-medical-season-3-damon-wayans-guest-star/",
-      "date": "2026-08-10T23:10:53.994331+00:00",
-      "image": "https://i0.wp.com/www.thewrap.com/wp-content/uploads/2026/08/st-denis-medical-justin-lubin-nbc.jpg?fit=1280%2C720&quality=89&ssl=1",
-      "important": true,
-      "score": 6
-    },
-    {
-      "id": "59f6f5b0fe25",
-      "title": {
-        "en": "Can Jean Smart Become the First Woman in Emmy History to Sweep Every Season of Her Series?",
-        "fa": "آیا ژان اسمارت می تواند اولین زنی در تاریخ امی باشد که هر فصل از سریال خود را جارو می کند؟"
-      },
-      "excerpt": {
-        "en": "Winning an Emmy is hard. Winning one for every eligible season of a television series is almost impossible, and has never happened for a woman … until now? Jean Smart has won lead comedy actress for every eligible season of HBO Max’s “Hacks,” taking home trophies in 2021, 2022, 2024, and 2025. With the acclaimed […]",
-        "fa": "بردن جایزه امی سخت است. برنده شدن یکی برای هر فصل واجد شرایط یک سریال تلویزیونی تقریباً غیرممکن است و هرگز برای یک زن اتفاق نیفتاده است ... تا به حال؟ ژان اسمارت برای هر فصل واجد شرایط سریال «هک‌ها» از HBO Max برنده جایزه بازیگر نقش اول زن کمدی شده است."
-      },
-      "content": {
-        "en": "Winning an Emmy is hard. Winning one for every eligible season of a television series is almost impossible, and has never happened for a woman … until now? Jean Smart has won lead comedy actress for every eligible season of HBO Max’s “Hacks,” taking home trophies in 2021, 2022, 2024, and 2025. With the acclaimed […]",
-        "fa": "بردن جایزه امی سخت است. برنده شدن یکی برای هر فصل واجد شرایط یک سریال تلویزیونی تقریباً غیرممکن است و هرگز برای یک زن اتفاق نیفتاده است ... تا به حال؟ ژان اسمارت برای هر فصل واجد شرایط سریال «هک‌ها» از HBO Max برنده جایزه بازیگر نقش اول زن کمدی شده است."
-      },
-      "source": {
-        "en": "Variety",
-        "fa": "Variety"
-      },
-      "link": "https://variety.com/2026/tv/awards/jean-smart-emmys-history-hacks-sweep-1236831541/",
-      "date": "2026-08-10T23:10:53.990460+00:00",
-      "image": "https://variety.com/wp-content/uploads/2026/08/Jean-Smart-Hacks.jpg",
-      "important": true,
-      "score": 6
     },
     {
       "id": "de6c80785373",
@@ -93,7 +45,7 @@
         "fa": "Variety"
       },
       "link": "https://variety.com/2026/tv/news/damon-wayans-in-living-color-st-denis-medical-1236831408/",
-      "date": "2026-08-10T23:10:53.988252+00:00",
+      "date": "2026-08-10T23:16:53.597295+00:00",
       "image": "https://variety.com/wp-content/uploads/2026/08/MixCollage-10-Aug-2026-12-27-PM-9124.jpg",
       "important": true,
       "score": 6
@@ -117,7 +69,7 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/feature/tv-show-based-on-books-this-year-1236035246/",
-      "date": "2026-08-10T23:10:53.987756+00:00",
+      "date": "2026-08-10T23:16:53.596838+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/Book-to-TV-Adaptations-Yeehaw.jpg",
       "important": true,
       "score": 6
@@ -141,7 +93,7 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/damon-wayans-guest-star-st-denis-medical-season-3-photo-1237029097/",
-      "date": "2026-08-10T23:10:53.986531+00:00",
+      "date": "2026-08-10T23:16:53.595735+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/damon-wayans-st-denis-medical.jpg",
       "important": true,
       "score": 6
@@ -165,7 +117,7 @@
         "fa": "The Wrap"
       },
       "link": "https://www.thewrap.com/creative-content/what-to-watch/new-shows-streaming-this-week-august-10-17-prime-video-hbo-max/",
-      "date": "2026-08-10T23:10:53.993182+00:00",
+      "date": "2026-08-10T23:16:53.602029+00:00",
       "image": "https://www.thewrap.com/wp-content/uploads/2026/08/lanterns-kyle-chandler.jpg",
       "important": false,
       "score": 3
@@ -189,7 +141,7 @@
         "fa": "The Hollywood Reporter"
       },
       "link": "https://www.hollywoodreporter.com/business/business-news/kat-and-deja-clark-caa-1236670414/",
-      "date": "2026-08-10T23:10:53.992119+00:00",
+      "date": "2026-08-10T23:16:53.600988+00:00",
       "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/Clarks-Headshot.png?crop=0px%2C0px%2C1537px%2C860px&#038;resize=1440%2C810",
       "important": false,
       "score": 3
@@ -213,7 +165,7 @@
         "fa": "The Hollywood Reporter"
       },
       "link": "https://www.hollywoodreporter.com/movies/movie-features/the-last-house-star-wagner-moura-1236670385/",
-      "date": "2026-08-10T23:10:53.991222+00:00",
+      "date": "2026-08-10T23:16:53.600115+00:00",
       "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/Wagner-Moura-Last-House-Premiere-Main-2026.jpg?w=1296&#038;h=730&#038;crop=1",
       "important": false,
       "score": 3
@@ -237,7 +189,7 @@
         "fa": "Variety"
       },
       "link": "https://variety.com/2026/music/news/suno-unveils-download-caps-for-free-paid-tiers-generator-1236831589/",
-      "date": "2026-08-10T23:10:53.989549+00:00",
+      "date": "2026-08-10T23:16:53.598493+00:00",
       "image": "https://variety.com/wp-content/uploads/2026/06/Suno_1-1.png",
       "important": false,
       "score": 3
@@ -261,7 +213,7 @@
         "fa": "Variety"
       },
       "link": "https://variety.com/2026/artisans/news/euphoria-makeup-jules-rue-cassie-1236831354/",
-      "date": "2026-08-10T23:10:53.988604+00:00",
+      "date": "2026-08-10T23:16:53.597599+00:00",
       "image": "https://variety.com/wp-content/uploads/2026/08/hunter-schafer_5.jpg",
       "important": false,
       "score": 3
@@ -285,7 +237,7 @@
         "fa": "Variety"
       },
       "link": "https://variety.com/2026/film/news/hannah-einbinder-jane-schoenbrun-teenage-sex-death-camp-miasma-1236824641/",
-      "date": "2026-08-10T23:10:53.988136+00:00",
+      "date": "2026-08-10T23:16:53.597187+00:00",
       "image": "https://variety.com/wp-content/uploads/2026/08/P107EJEP.jpg",
       "important": false,
       "score": 3
@@ -309,7 +261,7 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/a-twink-and-a-redhead-signs-caa-1237030348/",
-      "date": "2026-08-10T23:10:53.987528+00:00",
+      "date": "2026-08-10T23:16:53.596628+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/Talent-Headshot.jpeg",
       "important": false,
       "score": 3
@@ -326,14 +278,14 @@
       },
       "content": {
         "en": "EXCLUSIVE: After taking a much needed break, Frankenstein Oscar nominee Jacob Elordi has landed on his next project as sources say he is in talks to co-star opposite Scarlett Johansson in the Ari Aster and A24 thriller Scapegoat. Aster is directing the pic from a script he penned. A24, who has released Aster’s past four films, […]",
-        "fa": "انحصاری: پس از استراحت بسیار مورد نیاز، جاکوب الوردی، نامزد اسکار فرانکشتاین، پروژه بعدی خود را آغاز کرد زیرا منابع می گویند او در حال مذاکره برای بازی در کنار اسکارلت جوهانسون در فیلم هیجان انگیز Ari Aster و A24 است. آستر این عکس را بر اساس فیلمنامه ای که خودش نوشته کارگردانی می کند. A24 که چهار فیلم گذشته آستر را منتشر کرده است،"
+        "fa": "EXCLUSIVE: After taking a much needed break, Frankenstein Oscar nominee Jacob Elordi has landed on his next project as sources say he is in talks to co-star opposite Scarlett Johansson in the Ari Aster and A24 thriller Scapegoat. Aster is directing the pic from a script he penned. A24, who has released Aster’s past four films, […]"
       },
       "source": {
         "en": "Deadline",
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/jacob-elordi-ari-aster-scapegoat-scarlett-johansson-a24-1237030322/",
-      "date": "2026-08-10T23:10:53.987178+00:00",
+      "date": "2026-08-10T23:16:53.596305+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/Elordi2-Ari-Aster-Scarjo.jpg",
       "important": false,
       "score": 3
@@ -346,7 +298,7 @@
       },
       "excerpt": {
         "en": "EXCLUSIVE: Louisa Krause (The Girlfriend Experience, Ray Donovan) is set to star alongside Dakota Fanning in the as-yet untitled Apple TV thriller from Alex Cary (A Spy Among Friends, Homeland). In the series, Fanning stars as an undercover Treasury agent in a multi-billion-dollar international conglomerate with world-changing political and criminal tentacles, who becomes conflicted between her mission and a belief […]",
-        "fa": "اختصاصی: لوئیزا کراوز قرار است در کنار داکوتا فانینگ در تریلر تلویزیونی اپل که هنوز عنوان نشده از الکس کری بازی کند. در این سریال، فانینگ در نقش یک مامور مخفی خزانه داری در یک شرکت بین المللی چند میلیارد دلاری با شاخک های سیاسی و جنایی در حال تغییر جهان بازی می کند، که بین ماموریت و باورش در تضاد قرار می گیرد."
+        "fa": "EXCLUSIVE: Louisa Krause (The Girlfriend Experience, Ray Donovan) is set to star alongside Dakota Fanning in the as-yet untitled Apple TV thriller from Alex Cary (A Spy Among Friends, Homeland). In the series, Fanning stars as an undercover Treasury agent in a multi-billion-dollar international conglomerate with world-changing political and criminal tentacles, who becomes conflicted between her mission and a belief […]"
       },
       "content": {
         "en": "EXCLUSIVE: Louisa Krause (The Girlfriend Experience, Ray Donovan) is set to star alongside Dakota Fanning in the as-yet untitled Apple TV thriller from Alex Cary (A Spy Among Friends, Homeland). In the series, Fanning stars as an undercover Treasury agent in a multi-billion-dollar international conglomerate with world-changing political and criminal tentacles, who becomes conflicted between her mission and a belief […]",
@@ -357,32 +309,8 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/louisa-krause-dakota-fanning-apple-tv-alex-cary-thriller-1237030351/",
-      "date": "2026-08-10T23:10:53.986201+00:00",
+      "date": "2026-08-10T23:16:53.595421+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/Louisa-Krause-2-Apple.jpg",
-      "important": false,
-      "score": 3
-    },
-    {
-      "id": "91f3f69d5a70",
-      "title": {
-        "en": "Sony Pre-Empts ‘The Ballad Of The Ember Knight’; 14th Century-Set Spec By First-Time Scribes Lands Near 7-Figures",
-        "fa": "سونی از «The Ballad Of The Ember Knight» پیشی گرفت. مشخصات مجموعه قرن چهاردهم توسط کاتبان اولین بار نزدیک به 7 رقم می رسد"
-      },
-      "excerpt": {
-        "en": "EXCLUSIVE: After Christopher Nolan turned Homer’s ancient poem into gold with The Odyssey, maybe Hollywood is ready to take more chances on literate period fare. How else to explain the high level of interest when CAA and Kaplan Perrone went out with the spec script The Ballad of the Ember Knight, a 14th century-set drama […]",
-        "fa": "انحصاری: پس از اینکه کریستوفر نولان شعر باستانی هومر را با ادیسه به طلا تبدیل کرد، شاید هالیوود آماده باشد تا شانس بیشتری را برای دوره باسواد بپذیرد. دیگر چگونه می توان سطح بالای علاقه را توضیح داد که CAA و کاپلان پرون با فیلمنامه مشخصات The Ballad of the Ember Knight، یک درام قرن چهاردهمی، به صحنه رفتند."
-      },
-      "content": {
-        "en": "EXCLUSIVE: After Christopher Nolan turned Homer’s ancient poem into gold with The Odyssey, maybe Hollywood is ready to take more chances on literate period fare. How else to explain the high level of interest when CAA and Kaplan Perrone went out with the spec script The Ballad of the Ember Knight, a 14th century-set drama […]",
-        "fa": "انحصاری: پس از اینکه کریستوفر نولان شعر باستانی هومر را با ادیسه به طلا تبدیل کرد، شاید هالیوود آماده باشد تا شانس بیشتری را برای دوره باسواد بپذیرد. دیگر چگونه می توان سطح بالای علاقه را توضیح داد که CAA و کاپلان پرون با فیلمنامه مشخصات The Ballad of the Ember Knight، یک درام قرن چهاردهمی، به صحنه رفتند."
-      },
-      "source": {
-        "en": "Deadline",
-        "fa": "Deadline"
-      },
-      "link": "https://deadline.com/2026/08/sony-preempts-ballad-of-the-ember-knight-14th-century-spec-1237030382/",
-      "date": "2026-08-10T23:10:53.985982+00:00",
-      "image": "https://deadline.com/wp-content/uploads/2026/08/Kieran-ODea-and-Brennan-ODay.jpg",
       "important": false,
       "score": 3
     },
@@ -405,7 +333,7 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/alexa-swinton-david-arquette-to-star-wreckless-kayla-arend-1237030529/",
-      "date": "2026-08-10T23:10:53.985313+00:00",
+      "date": "2026-08-10T23:16:53.594576+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/deadline_photo_split.png",
       "important": false,
       "score": 3
@@ -429,32 +357,8 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/news/trailers/paper-tiger-teaser-trailer-james-gray-movie-watch-1235208969/",
-      "date": "2026-08-10T23:10:53.996116+00:00",
+      "date": "2026-08-10T23:16:53.604902+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/07/Paper-Tiger.jpg?w=650",
-      "important": false,
-      "score": 1
-    },
-    {
-      "id": "16599a769c81",
-      "title": {
-        "en": "Do Movie Sequels Really Make More Money? 25 Years of Box Office Data Reveals Mixed Results",
-        "fa": "آیا دنباله های فیلم واقعاً درآمد بیشتری دارند؟ 25 سال داده های باکس آفیس نتایج متفاوتی را نشان می دهد"
-      },
-      "excerpt": {
-        "en": "Over 530 sequels released since 2000 have brought in $74.3 billion at the domestic box office, but it doesn't mean Hollywood should depend on them.",
-        "fa": "بیش از 530 دنباله منتشر شده از سال 2000 تاکنون 74.3 میلیارد دلار در باکس آفیس داخلی به ارمغان آورده است، اما این بدان معنا نیست که هالیوود باید به آنها وابسته باشد."
-      },
-      "content": {
-        "en": "Over 530 sequels released since 2000 have brought in $74.3 billion at the domestic box office, but it doesn't mean Hollywood should depend on them.",
-        "fa": "بیش از 530 دنباله منتشر شده از سال 2000 تاکنون 74.3 میلیارد دلار در باکس آفیس داخلی به ارمغان آورده است، اما این بدان معنا نیست که هالیوود باید به آنها وابسته باشد."
-      },
-      "source": {
-        "en": "IndieWire",
-        "fa": "IndieWire"
-      },
-      "link": "https://www.indiewire.com/news/box-office/do-movie-sequels-actually-make-more-money-1235207177/",
-      "date": "2026-08-10T23:10:53.995766+00:00",
-      "image": "https://www.indiewire.com/wp-content/uploads/2016/06/star-wars-the-force-awakens.jpg?w=640",
       "important": false,
       "score": 1
     },
@@ -477,7 +381,7 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/box-office-global-spider-man-brand-new-day-foreign-record-1237029582/",
-      "date": "2026-08-10T23:10:53.986406+00:00",
+      "date": "2026-08-10T23:16:53.595616+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/MCDSPMA_CO021-e1786292713237.jpg",
       "important": false,
       "score": 1
@@ -501,7 +405,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/features/general/movie-sequel-terms-definitions-examples-1235209152/",
-      "date": "2026-08-10T23:10:53.996326+00:00",
+      "date": "2026-08-10T23:16:53.605096+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/MSDGRTW_WB016.jpg?w=650",
       "important": false,
       "score": 0
@@ -525,7 +429,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/news/general-news/end-of-oak-street-ai-dogs-podcast-1235209765/",
-      "date": "2026-08-10T23:10:53.995986+00:00",
+      "date": "2026-08-10T23:16:53.604781+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/03/rev-1-NBR-T1-0019_High_Res_JPEG.jpeg?w=650",
       "important": false,
       "score": 0
@@ -549,32 +453,128 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/news/business/paramount-putting-into-writing-commitment-movie-theaters-1235209539/",
-      "date": "2026-08-10T23:10:53.995626+00:00",
+      "date": "2026-08-10T23:16:53.604429+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/07/JABL_00173R.jpg?w=650",
       "important": false,
       "score": 0
     },
     {
-      "id": "f54536b6c319",
+      "id": "99f03fba1d96",
       "title": {
-        "en": "‘Pluribus’ Star Karolina Wydra on the Vince Gilligan Note That ‘Terrified’ Her and How Rhea Seehorn Saved Her",
-        "fa": "کارولینا ویدرا ستاره «پلوریباس» در یادداشت وینس گیلیگان که «او را وحشت زده» کرد و چگونه ریا سیهورن او را نجات داد"
+        "en": "Brady Corbet Looks Back on ‘Mysterious Skin,’ Which He Knew Was Destined to Be an ‘Important Movie’",
+        "fa": "بردی کوربت به «پوست اسرارآمیز» نگاه می‌کند، که می‌دانست قرار است فیلمی مهم باشد."
       },
       "excerpt": {
-        "en": "The newly-minted Emmy nominee tells IndieWire about her favorite scene in the breakout series — and the show-changing kiss with Rhea Seehorn.",
-        "fa": "نامزد امی که به تازگی انتخاب شده است، به IndieWire در مورد صحنه مورد علاقه خود در سریال شکست - و بوسه متحول کننده نمایش با Rhea Seehorn می گوید."
+        "en": "The actor-turned-filmmaker reflects on Gregg Araki's 2004 adaptation, how it shaped Corbet's own directing, and what he makes of those Steven Spielberg theories.",
+        "fa": "این بازیگر که تبدیل به فیلم شده است به اقتباس سال 2004 گرگ اراکی، چگونگی شکل دادن به کارگردانی خود کوربت و آنچه او از آن نظریه های استیون اسپیلبرگ می پردازد، منعکس می کند."
       },
       "content": {
-        "en": "The newly-minted Emmy nominee tells IndieWire about her favorite scene in the breakout series — and the show-changing kiss with Rhea Seehorn.",
-        "fa": "نامزد امی که به تازگی انتخاب شده است، به IndieWire در مورد صحنه مورد علاقه خود در سریال شکست - و بوسه متحول کننده نمایش با Rhea Seehorn می گوید."
+        "en": "The actor-turned-filmmaker reflects on Gregg Araki's 2004 adaptation, how it shaped Corbet's own directing, and what he makes of those Steven Spielberg theories.",
+        "fa": "این بازیگر که تبدیل به فیلم شده است به اقتباس سال 2004 گرگ اراکی، چگونگی شکل دادن به کارگردانی خود کوربت و آنچه او از آن نظریه های استیون اسپیلبرگ می پردازد، منعکس می کند."
       },
       "source": {
         "en": "IndieWire",
         "fa": "IndieWire"
       },
-      "link": "https://www.indiewire.com/awards/consider-this/pluribus-karolina-wydra-vince-gilligan-note-terrified-emmy-1235209427/",
-      "date": "2026-08-10T23:10:53.995415+00:00",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/08/karolina.jpg?w=650",
+      "link": "https://www.indiewire.com/features/interviews/brady-corbet-mysterious-skin-interview-1235209735/",
+      "date": "2026-08-10T23:16:53.604034+00:00",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/08/MCDMYSK_EC006.jpg?w=650",
+      "important": false,
+      "score": 0
+    },
+    {
+      "id": "0d1ee13ac8f3",
+      "title": {
+        "en": "‘Big Brother’ Promises Biggest Twist of the Summer for 1,000th Episode Special",
+        "fa": "«برادر بزرگ» بزرگ‌ترین اتفاق تابستان را برای ۱۰۰۰مین قسمت ویژه وعده می‌دهد"
+      },
+      "excerpt": {
+        "en": "The CBS live eviction on Thursday, Aug. 27, marks the first time a primetime series has reached this milestone The post ‘Big Brother’ Promises Biggest Twist of the Summer for 1,000th Episode Special appeared first on TheWrap .",
+        "fa": "اخراج زنده CBS در روز پنجشنبه، 27 اوت، اولین باری است که یک سریال پربیننده به این نقطه عطف رسیده است."
+      },
+      "content": {
+        "en": "The CBS live eviction on Thursday, Aug. 27, marks the first time a primetime series has reached this milestone The post ‘Big Brother’ Promises Biggest Twist of the Summer for 1,000th Episode Special appeared first on TheWrap .",
+        "fa": "اخراج زنده CBS در روز پنجشنبه، 27 اوت، اولین باری است که یک سریال پربیننده به این نقطه عطف رسیده است."
+      },
+      "source": {
+        "en": "The Wrap",
+        "fa": "The Wrap"
+      },
+      "link": "https://www.thewrap.com/media-platforms/tv/big-brother-season-28-episode-1000-special-live-eviction-cbs/",
+      "date": "2026-08-10T23:16:53.603054+00:00",
+      "image": "https://i0.wp.com/www.thewrap.com/wp-content/uploads/2026/08/bb-1000.jpg?fit=1280%2C720&quality=89&ssl=1",
+      "important": false,
+      "score": 0
+    },
+    {
+      "id": "1b1ce23f5e96",
+      "title": {
+        "en": "After Nearly 20 Years, Chris Carter Is Finally Releasing the ‘X-Files’ Movie He Had in Mind",
+        "fa": "پس از نزدیک به 20 سال، کریس کارتر بالاخره فیلم «پرونده های ایکس» را که در ذهن داشت اکران می کند."
+      },
+      "excerpt": {
+        "en": "The creator and filmmaker discusses his director's cut of 'The X-Files: I Want to Believe - Vrach Frankenshteyn,' anticipation for Ryan Coogler's take on his franchise and those congressional hearings about UFOs.",
+        "fa": "خالق و فیلمساز در مورد برش کارگردانش از «پرونده های ایکس: می خواهم باور کنم - وراچ فرانکشتاین»، پیش بینی برداشت رایان کوگلر در مورد فرانچایز خود و آن جلسات کنگره در مورد بشقاب پرنده ها بحث می کند."
+      },
+      "content": {
+        "en": "The creator and filmmaker discusses his director's cut of 'The X-Files: I Want to Believe - Vrach Frankenshteyn,' anticipation for Ryan Coogler's take on his franchise and those congressional hearings about UFOs.",
+        "fa": "خالق و فیلمساز در مورد برش کارگردانش از «پرونده های ایکس: می خواهم باور کنم - وراچ فرانکشتاین»، پیش بینی برداشت رایان کوگلر در مورد فرانچایز خود و آن جلسات کنگره در مورد بشقاب پرنده ها بحث می کند."
+      },
+      "source": {
+        "en": "The Hollywood Reporter",
+        "fa": "The Hollywood Reporter"
+      },
+      "link": "https://www.hollywoodreporter.com/movies/movie-features/x-files-i-want-to-believe-chris-carter-interview-1236668936/",
+      "date": "2026-08-10T23:16:53.600769+00:00",
+      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/XF2_230R_R_1f61a93f4af42cee81221c13c6956f7c0748f02a-e1786119275786.jpg?w=1440&#038;h=810&#038;crop=1",
+      "important": false,
+      "score": 0
+    },
+    {
+      "id": "fd48edc471ba",
+      "title": {
+        "en": "Kidnapping Survivor Turns True Crime Investigator in New Series: How to Watch ‘Somebody Knows Something’",
+        "fa": "فیلم Kidnapping Survivor تبدیل به محقق واقعی جنایات در سری جدید: چگونه \"Somebody Knows Something\" را تماشا کنیم"
+      },
+      "excerpt": {
+        "en": "From surviving a serial killer at 15 to investigating high-profile cases, Kara Robinson Chamberlain hosts a first-of-its-kind true crime eight-parter — here's when and where to watch.",
+        "fa": "کارا رابینسون چمبرلین از زنده ماندن از یک قاتل زنجیره‌ای در 15 سالگی گرفته تا بررسی پرونده‌های پرمخاطب، میزبان اولین جنایتکار واقعی در نوع خود هشت قسمتی است - در اینجا زمان و مکان تماشای آن آمده است."
+      },
+      "content": {
+        "en": "From surviving a serial killer at 15 to investigating high-profile cases, Kara Robinson Chamberlain hosts a first-of-its-kind true crime eight-parter — here's when and where to watch.",
+        "fa": "کارا رابینسون چمبرلین از زنده ماندن از یک قاتل زنجیره‌ای در 15 سالگی گرفته تا بررسی پرونده‌های پرمخاطب، میزبان اولین جنایتکار واقعی در نوع خود هشت قسمتی است - در اینجا زمان و مکان تماشای آن آمده است."
+      },
+      "source": {
+        "en": "The Hollywood Reporter",
+        "fa": "The Hollywood Reporter"
+      },
+      "link": "https://www.hollywoodreporter.com/tv/tv-news/watch-somebody-knows-something-kara-robinson-true-crime-doc-1236670453/",
+      "date": "2026-08-10T23:16:53.599798+00:00",
+      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/Kidnapping-Survivor-Turns-True-Crime-Investigator-in-New-Series-MAIN.jpg?w=1296&#038;h=730&#038;crop=1",
+      "important": false,
+      "score": 0
+    },
+    {
+      "id": "e295d874e12a",
+      "title": {
+        "en": "‘Hearing’ Review: Lê Bảo Continues His Sensory Exploration With an Arresting Study in Silence",
+        "fa": "بررسی \"شنیدن\": ل باو به کاوش حسی خود با یک مطالعه بازداشت کننده در سکوت ادامه می دهد"
+      },
+      "excerpt": {
+        "en": "In Vietnamese director Lê Bảo’s new film, an extended family confronts various rifts and estrangements in its ranks; years of silence must give way, slowly and haltingly, to communication. That the film is called “Hearing” might sound awfully pat, but nothing is so obvious in this sensuous, intuitive mood piece, which consistently surprises with its […]",
+        "fa": "در فیلم جدید کارگردان ویتنامی ل باسو، یک خانواده بزرگ با شکاف ها و بیگانگی های مختلف در صفوف خود مواجه می شوند. سالها سکوت باید به آرامی و با وقفه جای خود را به ارتباطات بدهد. این که فیلم «شنیدن» نام دارد ممکن است به طرز وحشتناکی به نظر برسد، اما هیچ چیز در این قطعه حسی و حسی که به طور مداوم با آن شگفت‌زده می‌کند، آشکار نیست."
+      },
+      "content": {
+        "en": "In Vietnamese director Lê Bảo’s new film, an extended family confronts various rifts and estrangements in its ranks; years of silence must give way, slowly and haltingly, to communication. That the film is called “Hearing” might sound awfully pat, but nothing is so obvious in this sensuous, intuitive mood piece, which consistently surprises with its […]",
+        "fa": "در فیلم جدید کارگردان ویتنامی ل باسو، یک خانواده بزرگ با شکاف ها و بیگانگی های مختلف در صفوف خود مواجه می شوند. سالها سکوت باید به آرامی و با وقفه جای خود را به ارتباطات بدهد. این که فیلم «شنیدن» نام دارد ممکن است به طرز وحشتناکی به نظر برسد، اما هیچ چیز در این قطعه حسی و حسی که به طور مداوم با آن شگفت‌زده می‌کند، آشکار نیست."
+      },
+      "source": {
+        "en": "Variety",
+        "fa": "Variety"
+      },
+      "link": "https://variety.com/2026/film/reviews/hearing-review-1236831250/",
+      "date": "2026-08-10T23:16:53.599153+00:00",
+      "image": "https://variety.com/wp-content/uploads/2026/07/Hearing.jpg",
       "important": false,
       "score": 0
     }
