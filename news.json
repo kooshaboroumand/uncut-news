@@ -1,0 +1,78 @@
+{
+  "updated_at": "2026-08-10T22:06:41.285698+00:00",
+  "count": 3,
+  "news": [
+    {
+      "id": "sample1",
+      "title": {
+        "en": "Outer Banks Season 5 Final Season Premieres August 20",
+        "fa": "فصل پنجم و پایانی Outer Banks ۲۰ اوت منتشر می‌شود"
+      },
+      "excerpt": {
+        "en": "The Pogues return for one last adventure.",
+        "fa": "پوگ‌ها برای آخرین ماجراجویی بازمی‌گردند."
+      },
+      "content": {
+        "en": "Netflix has set August 20 for the final season.",
+        "fa": "نتفلیکس تاریخ ۲۰ اوت را برای فصل نهایی اعلام کرد."
+      },
+      "source": {
+        "en": "Deadline",
+        "fa": "Deadline"
+      },
+      "link": "https://deadline.com",
+      "date": "2026-08-10",
+      "image": "https://picsum.photos/seed/obx5/900/500",
+      "important": true,
+      "score": 9
+    },
+    {
+      "id": "sample2",
+      "title": {
+        "en": "The Last House Now Streaming on Netflix",
+        "fa": "فیلم The Last House روی نتفلیکس اکران شد"
+      },
+      "excerpt": {
+        "en": "Greta Lee and Wagner Moura star in the sci-fi thriller.",
+        "fa": "گریتا لی و واگنر مورا در این تریلر علمی-تخیلی بازی می‌کنند."
+      },
+      "content": {
+        "en": "Directed by Louis Leterrier.",
+        "fa": "به کارگردانی لوئیس لتریر."
+      },
+      "source": {
+        "en": "Variety",
+        "fa": "Variety"
+      },
+      "link": "https://variety.com",
+      "date": "2026-08-07",
+      "image": "https://picsum.photos/seed/lasthouse/900/500",
+      "important": true,
+      "score": 7
+    },
+    {
+      "id": "sample3",
+      "title": {
+        "en": "Mourinho Documentary Series Drops August 11",
+        "fa": "مستند Mourinho از ۱۱ اوت روی نتفلیکس"
+      },
+      "excerpt": {
+        "en": "Three-part series on the Special One.",
+        "fa": "سریال سه‌قسمتی درباره آقای خاص."
+      },
+      "content": {
+        "en": "Features interviews with Ferguson, Drogba and more.",
+        "fa": "با مصاحبه فرگوسن، دروگبا و دیگران."
+      },
+      "source": {
+        "en": "The Hollywood Reporter",
+        "fa": "The Hollywood Reporter"
+      },
+      "link": "https://hollywoodreporter.com",
+      "date": "2026-08-11",
+      "image": "https://picsum.photos/seed/mourinho/900/500",
+      "important": true,
+      "score": 8
+    }
+  ]
+}
