@@ -40,15 +40,26 @@
       max-width: 1280px; margin: 0 auto;
       display: flex; align-items: center; justify-content: space-between; gap: 1rem;
     }
-    .logo { display: flex; align-items: center; gap: 0.7rem; text-decoration: none; color: var(--text); }
-    .logo-mark {
-      width: 42px; height: 42px;
-      background: linear-gradient(135deg, var(--accent), #b20710);
-      border-radius: 10px; display: grid; place-items: center;
-      font-weight: 800; font-size: 1.15rem;
+    .logo { display: flex; align-items: center; gap: 0.85rem; text-decoration: none; color: var(--text); }
+    .logo-text-wrap { display: flex; flex-direction: column; line-height: 1.15; }
+    .logo-main {
+      font-size: 1.55rem;
+      font-weight: 800;
+      letter-spacing: -0.5px;
+      background: linear-gradient(90deg, #fff 0%, #f0f0f5 60%, var(--accent2) 100%);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      background-clip: text;
     }
-    .logo-text { font-size: 1.45rem; font-weight: 800; }
-    .logo-sub { font-size: 0.72rem; color: var(--muted); margin-top: -2px; }
+    .logo-en {
+      font-size: 0.78rem;
+      font-weight: 600;
+      color: var(--accent);
+      letter-spacing: 2.5px;
+      margin-top: 1px;
+      font-family: system-ui, -apple-system, sans-serif;
+    }
+    .logo-sub { font-size: 0.7rem; color: var(--muted); margin-top: 3px; }
     .header-actions { display: flex; align-items: center; gap: 0.75rem; }
     .lang-btn, .refresh-btn {
       background: var(--card); border: 1px solid var(--border); color: var(--text);
@@ -66,30 +77,30 @@
     }
     @keyframes pulse { 0%,100%{opacity:1} 50%{opacity:0.4} }
 
-    .hero { max-width: 1280px; margin: 1.5rem auto 0; padding: 0 1.25rem; }
+    .hero { max-width: 1280px; margin: 1.25rem auto 0; padding: 0 1.25rem; }
     .slider {
-      position: relative; height: 400px; border-radius: var(--radius);
-      overflow: hidden; box-shadow: var(--shadow); background: var(--card);
+      position: relative; height: 280px; border-radius: 12px;
+      overflow: hidden; box-shadow: 0 8px 30px rgba(0,0,0,0.35); background: var(--card);
     }
     .slide {
-      position: absolute; inset: 0; opacity: 0; transition: opacity 0.7s ease; cursor: pointer;
+      position: absolute; inset: 0; opacity: 0; transition: opacity 0.65s ease; cursor: pointer;
     }
     .slide.active { opacity: 1; z-index: 2; }
     .slide img { width: 100%; height: 100%; object-fit: cover; }
     .slide-overlay {
       position: absolute; inset: 0;
-      background: linear-gradient(to top, rgba(0,0,0,0.92) 0%, rgba(0,0,0,0.3) 55%, rgba(0,0,0,0.15) 100%);
+      background: linear-gradient(to top, rgba(0,0,0,0.88) 0%, rgba(0,0,0,0.25) 60%, rgba(0,0,0,0.1) 100%);
     }
-    .slide-content { position: absolute; bottom: 0; right: 0; left: 0; padding: 2rem 2.2rem; z-index: 3; }
+    .slide-content { position: absolute; bottom: 0; right: 0; left: 0; padding: 1.4rem 1.7rem; z-index: 3; }
     .slide-badge {
       display: inline-block; background: var(--accent); color: white;
-      font-size: 0.75rem; font-weight: 600; padding: 0.25rem 0.7rem; border-radius: 6px; margin-bottom: 0.7rem;
+      font-size: 0.7rem; font-weight: 600; padding: 0.2rem 0.6rem; border-radius: 5px; margin-bottom: 0.5rem;
     }
-    .slide-title { font-size: clamp(1.3rem, 3.2vw, 2rem); font-weight: 800; line-height: 1.35; margin-bottom: 0.5rem; max-width: 800px; }
-    .slide-meta { color: var(--muted); font-size: 0.9rem; }
-    .slider-dots { position: absolute; bottom: 1.2rem; left: 2.2rem; display: flex; gap: 0.5rem; z-index: 5; }
-    .dot { width: 10px; height: 10px; border-radius: 50%; background: rgba(255,255,255,0.35); cursor: pointer; transition: all 0.25s; }
-    .dot.active { background: var(--accent); transform: scale(1.25); }
+    .slide-title { font-size: clamp(1.1rem, 2.6vw, 1.55rem); font-weight: 700; line-height: 1.35; margin-bottom: 0.35rem; max-width: 720px; }
+    .slide-meta { color: var(--muted); font-size: 0.82rem; }
+    .slider-dots { position: absolute; bottom: 1rem; left: 1.7rem; display: flex; gap: 0.4rem; z-index: 5; }
+    .dot { width: 8px; height: 8px; border-radius: 50%; background: rgba(255,255,255,0.35); cursor: pointer; transition: all 0.25s; }
+    .dot.active { background: var(--accent); transform: scale(1.2); }
 
     main { max-width: 1280px; margin: 2.5rem auto; padding: 0 1.25rem; }
     .section-title {
@@ -180,11 +191,13 @@
     .error { color: #f87171; }
 
     @media (max-width: 700px) {
-      .slider { height: 300px; }
-      .slide-content { padding: 1.3rem; }
-      .slide-title { font-size: 1.2rem; }
+      .slider { height: 220px; }
+      .slide-content { padding: 1.1rem 1.2rem; }
+      .slide-title { font-size: 1.05rem; }
       .news-grid { grid-template-columns: 1fr; }
       .modal-img { height: 190px; }
+      .logo-main { font-size: 1.35rem; }
+      .logo-en { font-size: 0.7rem; letter-spacing: 2px; }
     }
     html[dir="ltr"] .slider-dots { left: auto; right: 2.2rem; }
     html[dir="ltr"] .modal-close { left: auto; right: 1rem; }
@@ -194,9 +207,9 @@
   <header>
     <div class="header-inner">
       <a href="#" class="logo" onclick="location.reload()">
-        <div class="logo-mark">آن</div>
-        <div>
-          <div class="logo-text" data-i18n="logo">آنکات</div>
+        <div class="logo-text-wrap">
+          <div class="logo-main">آنکات</div>
+          <div class="logo-en">UNCUT</div>
           <div class="logo-sub" data-i18n="tagline">اخبار دنیای فیلم و سریال جهان</div>
         </div>
       </a>
