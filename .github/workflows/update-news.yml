@@ -1,1 +1,46 @@
+name: Update Uncut News (every hour)
 
+on:
+  schedule:
+    # هر ۱ ساعت یک‌بار (دقیقه ۰)
+    - cron: '0 * * * *'
+  workflow_dispatch:  # امکان اجرای دستی از تب Actions
+
+permissions:
+  contents: write
+
+jobs:
+  fetch-and-update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: |
+          pip install --quiet deep-translator feedparser lxml
+
+      - name: Fetch and process news
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: |
+          python scripts/fetch_news.py
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "Uncut Bot"
+          git config user.email "bot@uncut.news"
+          git add news.json
+          if git diff --staged --quiet; then
+            echo "No changes in news.json"
+          else
+            git commit -m "chore: auto-update news $(date -u +%Y-%m-%dT%H:%MZ)"
+            git push
+          fi
