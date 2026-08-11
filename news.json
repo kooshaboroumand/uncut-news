@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-11T09:52:17.565183+00:00",
+  "updated_at": "2026-08-11T10:42:21.950273+00:00",
   "count": 24,
   "news": [
     {
@@ -21,7 +21,7 @@
         "fa": "Variety"
       },
       "link": "https://variety.com/2026/film/global/george-mackay-louisa-harland-nathalie-emmanuel-the-animals-1236831878/",
-      "date": "2026-08-11T09:52:17.232732+00:00",
+      "date": "2026-08-11T10:42:21.675548+00:00",
       "image": "https://variety.com/wp-content/uploads/2026/08/The-Animals.jpg",
       "important": true,
       "score": 6
@@ -45,7 +45,7 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/chris-carter-cut-the-x-files-i-want-to-believe-vrach-frankenshteyn-1237030581/",
-      "date": "2026-08-11T09:52:17.231986+00:00",
+      "date": "2026-08-11T10:42:21.675024+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/the-x-files-i-want-to-belive-chris-carter-cut.jpg",
       "important": true,
       "score": 6
@@ -69,7 +69,7 @@
         "fa": "The Wrap"
       },
       "link": "https://www.thewrap.com/creative-content/movies/taron-egerton-didnt-read-apex-reviews/",
-      "date": "2026-08-11T09:52:17.238237+00:00",
+      "date": "2026-08-11T10:42:21.679472+00:00",
       "image": "https://www.thewrap.com/wp-content/uploads/2026/08/Untitled-design-2026-08-10T193106.287-1.jpg",
       "important": false,
       "score": 3
@@ -93,7 +93,7 @@
         "fa": "The Hollywood Reporter"
       },
       "link": "https://www.hollywoodreporter.com/lifestyle/shopping/best-student-discounts-streaming-services-subscriptions-1236670616/",
-      "date": "2026-08-11T09:52:17.236996+00:00",
+      "date": "2026-08-11T10:42:21.678697+00:00",
       "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/The-Top-10-Student-Discounts-on-Streaming-Services-Subscriptions-and-Tech-MAIN-.jpg?w=1296&#038;h=730&#038;crop=1",
       "important": false,
       "score": 3
@@ -117,7 +117,7 @@
         "fa": "The Hollywood Reporter"
       },
       "link": "https://www.hollywoodreporter.com/movies/movie-news/congo-boy-musical-refugee-drama-film-interview-locarno-2026-1236649374/",
-      "date": "2026-08-11T09:52:17.236221+00:00",
+      "date": "2026-08-11T10:42:21.678114+00:00",
       "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/07/Congo-Boy-Trigon-Film.webp?w=970&#038;h=545&#038;crop=1",
       "important": false,
       "score": 3
@@ -141,8 +141,32 @@
         "fa": "The Hollywood Reporter"
       },
       "link": "https://www.hollywoodreporter.com/business/business-news/rtl-boss-clement-schwebig-on-the-future-of-european-tv-1236670778/",
-      "date": "2026-08-11T09:52:17.235974+00:00",
+      "date": "2026-08-11T10:42:21.677937+00:00",
       "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/Clement_Schwebig_02_Credit-Boris-Breuer-Kopie-resized-1.jpg?w=1440&#038;h=810&#038;crop=1",
+      "important": false,
+      "score": 3
+    },
+    {
+      "id": "717bce1a8461",
+      "title": {
+        "en": "‘The State of Us’: Samuel Bottomley Breaks Callum Scott Howells Out of Hospice for One Final Hurrah in Edinburgh-Bound Indie (Exclusive Clip)",
+        "fa": "\"وضعیت ما\": ساموئل باتملی کالوم اسکات هاولز را از آسایشگاه برای One Final Hurra در Indie-Bound Edinburgh خارج می کند"
+      },
+      "excerpt": {
+        "en": "From British filmmaking duo Jake Harvey and Ollie Gardner, the movie examines the profound fragility — and sanctity — of male friendships in a landscape where the manosphere looms large.",
+        "fa": "این فیلم از دو فیلمساز بریتانیایی جیک هاروی و اولی گاردنر، شکنندگی - و تقدس - دوستی‌های مردانه را در منظره‌ای که مانوسفر بزرگ به نظر می‌رسد، بررسی می‌کند."
+      },
+      "content": {
+        "en": "From British filmmaking duo Jake Harvey and Ollie Gardner, the movie examines the profound fragility — and sanctity — of male friendships in a landscape where the manosphere looms large.",
+        "fa": "این فیلم از دو فیلمساز بریتانیایی جیک هاروی و اولی گاردنر، شکنندگی - و تقدس - دوستی‌های مردانه را در منظره‌ای که مانوسفر بزرگ به نظر می‌رسد، بررسی می‌کند."
+      },
+      "source": {
+        "en": "The Hollywood Reporter",
+        "fa": "The Hollywood Reporter"
+      },
+      "link": "https://www.hollywoodreporter.com/movies/movie-news/the-state-of-us-samuel-bottomley-callum-scott-howells-clip-1236670165/",
+      "date": "2026-08-11T10:42:21.677809+00:00",
+      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/FotoJet-2026-08-10T121435.033.jpg?w=1440&#038;h=810&#038;crop=1",
       "important": false,
       "score": 3
     },
@@ -165,7 +189,7 @@
         "fa": "Variety"
       },
       "link": "https://variety.com/2026/film/global/locarno-piluk-animation-national-film-board-of-canada-1236831733/",
-      "date": "2026-08-11T09:52:17.234631+00:00",
+      "date": "2026-08-11T10:42:21.676800+00:00",
       "image": "https://variety.com/wp-content/uploads/2026/08/EMTC6349-final_Elisapie-Isaac-et-Marc-Seguin_Credit-Eva-Maude-TC_300dpi-2MB-2.jpg",
       "important": false,
       "score": 3
@@ -189,7 +213,7 @@
         "fa": "Variety"
       },
       "link": "https://variety.com/2026/film/global/fabien-frankel-short-film-love-unlimited-1236831857/",
-      "date": "2026-08-11T09:52:17.233758+00:00",
+      "date": "2026-08-11T10:42:21.676200+00:00",
       "image": "https://variety.com/wp-content/uploads/2026/08/GettyImages-2268355704.jpg",
       "important": false,
       "score": 3
@@ -213,7 +237,7 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/telemundo-operacion-triunfo-final-live-show-quake-colombia-1237030655/",
-      "date": "2026-08-11T09:52:17.231265+00:00",
+      "date": "2026-08-11T10:42:21.674527+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/operacion-triunfo-telemundo-temblor-colombia.jpg",
       "important": false,
       "score": 3
@@ -237,7 +261,7 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/linda-cardellini-homage-betsy-palmer-crystal-lake-1237030872/",
-      "date": "2026-08-11T09:52:17.230051+00:00",
+      "date": "2026-08-11T10:42:21.673654+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/07/NUP_211121_00008.jpg",
       "important": false,
       "score": 3
@@ -261,7 +285,7 @@
         "fa": "Variety"
       },
       "link": "https://variety.com/2026/film/box-office/spider-man-brand-new-day-the-odyssey-uk-ireland-box-office-1236831811/",
-      "date": "2026-08-11T09:52:17.234834+00:00",
+      "date": "2026-08-11T10:42:21.676937+00:00",
       "image": "https://variety.com/wp-content/uploads/2026/08/Spider-Man-Odyssey.jpg",
       "important": false,
       "score": 1
@@ -285,7 +309,7 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/tea-leoni-tim-daly-newlyweds-couple-jamie-lee-curtis-boss-1237030834/",
-      "date": "2026-08-11T09:52:17.230647+00:00",
+      "date": "2026-08-11T10:42:21.674050+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/Newlyweds2.jpg",
       "important": false,
       "score": 1
@@ -309,7 +333,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/features/general/movie-sequel-terms-definitions-examples-1235209152/",
-      "date": "2026-08-11T09:52:17.241554+00:00",
+      "date": "2026-08-11T10:42:21.681829+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/MSDGRTW_WB016.jpg?w=650",
       "important": false,
       "score": 0
@@ -333,7 +357,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/news/general-news/end-of-oak-street-ai-dogs-podcast-1235209765/",
-      "date": "2026-08-11T09:52:17.241198+00:00",
+      "date": "2026-08-11T10:42:21.681587+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/03/rev-1-NBR-T1-0019_High_Res_JPEG.jpeg?w=650",
       "important": false,
       "score": 0
@@ -357,7 +381,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/news/business/paramount-putting-into-writing-commitment-movie-theaters-1235209539/",
-      "date": "2026-08-11T09:52:17.240842+00:00",
+      "date": "2026-08-11T10:42:21.681332+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/07/JABL_00173R.jpg?w=650",
       "important": false,
       "score": 0
@@ -381,7 +405,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/awards/consider-this/pluribus-karolina-wydra-vince-gilligan-note-terrified-emmy-1235209427/",
-      "date": "2026-08-11T09:52:17.240645+00:00",
+      "date": "2026-08-11T10:42:21.681186+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/karolina.jpg?w=650",
       "important": false,
       "score": 0
@@ -405,7 +429,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/features/interviews/brady-corbet-mysterious-skin-interview-1235209735/",
-      "date": "2026-08-11T09:52:17.240390+00:00",
+      "date": "2026-08-11T10:42:21.681019+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/MCDMYSK_EC006.jpg?w=650",
       "important": false,
       "score": 0
@@ -429,7 +453,7 @@
         "fa": "The Wrap"
       },
       "link": "https://www.thewrap.com/creative-content/movies/greta-lee-humiliating-scott-rudin-meeting-greta-gerwig/",
-      "date": "2026-08-11T09:52:17.238678+00:00",
+      "date": "2026-08-11T10:42:21.679772+00:00",
       "image": "https://www.thewrap.com/wp-content/uploads/2026/08/Greta-Lee-red-carpet-morning-show.jpg",
       "important": false,
       "score": 0
@@ -453,32 +477,8 @@
         "fa": "The Wrap"
       },
       "link": "https://www.thewrap.com/culture-lifestyle/culture/kristen-stewart-explains-decision-to-buy-historic-movie-theater/",
-      "date": "2026-08-11T09:52:17.237819+00:00",
+      "date": "2026-08-11T10:42:21.679157+00:00",
       "image": "https://www.thewrap.com/wp-content/uploads/2026/08/Untitled-design-2026-08-10T214157.472-1.jpg",
-      "important": false,
-      "score": 0
-    },
-    {
-      "id": "e3a7e463b19c",
-      "title": {
-        "en": "Patina Miller and ‘Raising Kanan’ Boss Sascha Penn on Closing Their Tragic Chapter in the ‘Power’ Universe: “This Ending Always Made Sense to Me”",
-        "fa": "پاتینا میلر و رئیس \"بالا بردن کانان\" ساشا پن در مورد بستن فصل تراژیک خود در جهان \"قدرت\": \"این پایان همیشه برای من معنا داشت\""
-      },
-      "excerpt": {
-        "en": "Miller confirms Raq's fate in the final episode of 'Power Book III: Raising Kanan,' while Penn explains his decisions and wonders why the Emmys haven't yet recognized his cast: \"The work speaks for itself.\"",
-        "fa": "میلر سرنوشت راک را در قسمت آخر «کتاب قدرت III: بالا بردن کانان» تأیید می‌کند، در حالی که پن تصمیمات خود را توضیح می‌دهد و تعجب می‌کند که چرا امی هنوز بازیگران او را نشناخته است: «این کار خودش صحبت می‌کند»."
-      },
-      "content": {
-        "en": "Miller confirms Raq's fate in the final episode of 'Power Book III: Raising Kanan,' while Penn explains his decisions and wonders why the Emmys haven't yet recognized his cast: \"The work speaks for itself.\"",
-        "fa": "میلر سرنوشت راک را در قسمت آخر «کتاب قدرت III: بالا بردن کانان» تأیید می‌کند، در حالی که پن تصمیمات خود را توضیح می‌دهد و تعجب می‌کند که چرا امی هنوز بازیگران او را نشناخته است: «این کار خودش صحبت می‌کند»."
-      },
-      "source": {
-        "en": "The Hollywood Reporter",
-        "fa": "The Hollywood Reporter"
-      },
-      "link": "https://www.hollywoodreporter.com/tv/tv-features/raising-kanan-finale-raq-fate-patina-miller-sascha-penn-1236670642/",
-      "date": "2026-08-11T09:52:17.237502+00:00",
-      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/Raq-and-Kanan-pbk5-508-120924-0177-a-f.jpg?w=1440&#038;h=810&#038;crop=1",
       "important": false,
       "score": 0
     },
@@ -501,7 +501,7 @@
         "fa": "The Hollywood Reporter"
       },
       "link": "https://www.hollywoodreporter.com/movies/movie-news/chris-evans-teases-avengers-doomsday-arc-captain-america-1236670567/",
-      "date": "2026-08-11T09:52:17.237174+00:00",
+      "date": "2026-08-11T10:42:21.678822+00:00",
       "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/Chris-Evans-getty-H-2026.png?w=1296&#038;h=730&#038;crop=1",
       "important": false,
       "score": 0
@@ -525,7 +525,7 @@
         "fa": "Variety"
       },
       "link": "https://variety.com/2026/film/global/gramado-fest-hosts-international-meeting-of-cities-1236831694/",
-      "date": "2026-08-11T09:52:17.235155+00:00",
+      "date": "2026-08-11T10:42:21.677164+00:00",
       "image": "https://variety.com/wp-content/uploads/2026/08/MixCollage-11-Aug-2026-12-08-AM-2089.jpg",
       "important": false,
       "score": 0
@@ -549,7 +549,7 @@
         "fa": "Variety"
       },
       "link": "https://variety.com/2026/tv/news/mobile-suit-gundam-rg-xarx-zero-director-ai-metaphor-1236831178/",
-      "date": "2026-08-11T09:52:17.234502+00:00",
+      "date": "2026-08-11T10:42:21.676716+00:00",
       "image": "https://variety.com/wp-content/uploads/2026/08/Mobile-Suit-Gundam-RG-XARX-ZERO.jpg",
       "important": false,
       "score": 0
@@ -573,7 +573,7 @@
         "fa": "Variety"
       },
       "link": "https://variety.com/2026/film/global/albert-serra-ingrid-caven-16-moments-of-my-life-locarno-1236831563/",
-      "date": "2026-08-11T09:52:17.234104+00:00",
+      "date": "2026-08-11T10:42:21.676454+00:00",
       "image": "https://variety.com/wp-content/uploads/2026/08/16-Moments-of-My-Life.jpeg",
       "important": false,
       "score": 0
