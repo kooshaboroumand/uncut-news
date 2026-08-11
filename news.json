@@ -1,30 +1,54 @@
 {
-  "updated_at": "2026-08-11T17:50:26.986771+00:00",
+  "updated_at": "2026-08-11T18:48:42.039905+00:00",
   "count": 24,
   "news": [
     {
-      "id": "b1e6c6f4555b",
+      "id": "c9406576b1c0",
       "title": {
-        "en": "Looney Tunes Legend Chuck Jones’ Family Reacts to ‘Coyote vs. Acme’ | Exclusive",
-        "fa": "واکنش خانواده چاک جونز، افسانه لونی تونز به «کایوت در برابر آکم» | انحصاری"
+        "en": "‘Gentle Monster’ Teaser: Léa Seydoux Learns the Unimaginable in Marie Kreutzer’s Child Abuse Drama",
+        "fa": "تیزر «هیولا ملایم»: لئا سیدوکس در درام کودک آزاری ماری کروتزر چیزهای غیرقابل تصور را می آموزد."
       },
       "excerpt": {
-        "en": "The formerly canceled film arrives in theaters later this month The post Looney Tunes Legend Chuck Jones’ Family Reacts to ‘Coyote vs. Acme’ | Exclusive appeared first on TheWrap .",
-        "fa": "فیلمی که قبلا لغو شده بود اواخر این ماه وارد سینماها می شود"
+        "en": "The Cannes premiere will screen at TIFF before hitting select theaters and Netflix later this fall.",
+        "fa": "اولین نمایش کن در TIFF قبل از نمایش در سینماهای منتخب و نتفلیکس اواخر پاییز امسال به نمایش در خواهد آمد."
       },
       "content": {
-        "en": "The formerly canceled film arrives in theaters later this month The post Looney Tunes Legend Chuck Jones’ Family Reacts to ‘Coyote vs. Acme’ | Exclusive appeared first on TheWrap .",
-        "fa": "فیلمی که قبلا لغو شده بود اواخر این ماه وارد سینماها می شود"
+        "en": "The Cannes premiere will screen at TIFF before hitting select theaters and Netflix later this fall.",
+        "fa": "اولین نمایش کن در TIFF قبل از نمایش در سینماهای منتخب و نتفلیکس اواخر پاییز امسال به نمایش در خواهد آمد."
+      },
+      "source": {
+        "en": "IndieWire",
+        "fa": "IndieWire"
+      },
+      "link": "https://www.indiewire.com/news/trailers/gentle-monster-teaser-lea-seydoux-1235209804/",
+      "date": "2026-08-11T18:48:41.774828+00:00",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/05/image.webp?w=650",
+      "important": true,
+      "score": 7
+    },
+    {
+      "id": "ab4e277040bc",
+      "title": {
+        "en": "‘Monster’ Blends Axe Murders and Sensuality in First Trailer for Lizzie Borden Season",
+        "fa": "«هیولا» در اولین تریلر فصل لیزی بوردن، قتل با تبر و حس و حال را ترکیب می‌کند."
+      },
+      "excerpt": {
+        "en": "The anthology series from Ryan Murphy and Ian Brennan returns to Netflix next month with star Ella Beatty The post ‘Monster’ Blends Axe Murders and Sensuality in First Trailer for Lizzie Borden Season appeared first on TheWrap .",
+        "fa": "سریال گلچین از رایان مورفی و ایان برنان ماه آینده با ستاره الا بیتی به نتفلیکس باز می گردد."
+      },
+      "content": {
+        "en": "The anthology series from Ryan Murphy and Ian Brennan returns to Netflix next month with star Ella Beatty The post ‘Monster’ Blends Axe Murders and Sensuality in First Trailer for Lizzie Borden Season appeared first on TheWrap .",
+        "fa": "سریال گلچین از رایان مورفی و ایان برنان ماه آینده با ستاره الا بیتی به نتفلیکس باز می گردد."
       },
       "source": {
         "en": "The Wrap",
         "fa": "The Wrap"
       },
-      "link": "https://www.thewrap.com/creative-content/movies/coyote-vs-acme-chuck-jones-family-reacts/",
-      "date": "2026-08-11T17:50:26.640798+00:00",
-      "image": "https://www.thewrap.com/wp-content/uploads/2026/08/Coyote-vs-Acme-1.jpg",
+      "link": "https://www.thewrap.com/creative-content/tv-shows/monster-the-lizzie-borden-story-trailer-netflix/",
+      "date": "2026-08-11T18:48:41.772999+00:00",
+      "image": "https://www.thewrap.com/wp-content/uploads/2026/08/monster.jpg",
       "important": true,
-      "score": 6
+      "score": 7
     },
     {
       "id": "b7a3fb40154d",
@@ -45,7 +69,7 @@
         "fa": "The Wrap"
       },
       "link": "https://www.thewrap.com/culture-lifestyle/sports/ilona-maher-power-hour-wave-digital-series-youtube/",
-      "date": "2026-08-11T17:50:26.640564+00:00",
+      "date": "2026-08-11T18:48:41.773076+00:00",
       "image": "https://www.thewrap.com/wp-content/uploads/2026/08/power-hour-ilona-maher.jpg",
       "important": true,
       "score": 6
@@ -69,7 +93,7 @@
         "fa": "The Wrap"
       },
       "link": "https://www.thewrap.com/creative-content/tv-shows/house-of-the-dragon-book-vs-show-changes-season-3/",
-      "date": "2026-08-11T17:50:26.639179+00:00",
+      "date": "2026-08-11T18:48:41.772031+00:00",
       "image": "https://www.thewrap.com/wp-content/uploads/2026/08/house-of-the-dragon-emma-d-arcy-hbo.jpg",
       "important": true,
       "score": 6
@@ -93,34 +117,10 @@
         "fa": "Variety"
       },
       "link": "https://variety.com/2026/artisans/news/kris-bowers-compose-netflix-animated-feature-steps-1236832210/",
-      "date": "2026-08-11T17:50:26.634533+00:00",
-      "image": "https://variety.com/wp-content/uploads/2023/11/kris-bowers-feature-still-2.jpg",
+      "date": "2026-08-11T18:48:41.769441+00:00",
+      "image": "https://variety.com/wp-content/uploads/2026/08/A001_A052_0731SN_001.00_00_11_16.Still010_R2.jpg",
       "important": true,
       "score": 6
-    },
-    {
-      "id": "7b796d5f33b1",
-      "title": {
-        "en": "‘Monster: The Lizzie Borden Story’ Teaser Trailer Will Shock You",
-        "fa": "تیزر تریلر «Monster: The Lizzie Borden Story» شما را شوکه خواهد کرد"
-      },
-      "excerpt": {
-        "en": "The next installment in Ryan Murphy and Ian Brennan's serial killer anthology launches Sept. 17 on Netflix.",
-        "fa": "قسمت بعدی گلچین قاتل سریالی رایان مورفی و ایان برنان در 17 سپتامبر در نتفلیکس عرضه می شود."
-      },
-      "content": {
-        "en": "The next installment in Ryan Murphy and Ian Brennan's serial killer anthology launches Sept. 17 on Netflix.",
-        "fa": "قسمت بعدی گلچین قاتل سریالی رایان مورفی و ایان برنان در 17 سپتامبر در نتفلیکس عرضه می شود."
-      },
-      "source": {
-        "en": "The Hollywood Reporter",
-        "fa": "The Hollywood Reporter"
-      },
-      "link": "https://www.hollywoodreporter.com/tv/tv-news/monster-the-lizzie-borden-story-trailer-ella-beatty-axe-1236670664/",
-      "date": "2026-08-11T17:50:26.639003+00:00",
-      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/Monster__The_Lizzie_Borden_Story_n_S1_E1_00_04_56_09R_C.jpg?w=1440&#038;h=810&#038;crop=1",
-      "important": true,
-      "score": 5
     },
     {
       "id": "f1c1c0816a6e",
@@ -141,80 +141,8 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/news/trailers/the-influencer-project-trailer-chiara-king-horror-1235209925/",
-      "date": "2026-08-11T17:50:26.641182+00:00",
+      "date": "2026-08-11T18:48:41.773296+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/influence_260312_00140031_aRGB_High_f93b36.jpg?w=650",
-      "important": true,
-      "score": 4
-    },
-    {
-      "id": "748d6a1c8cf3",
-      "title": {
-        "en": "Leah Remini Signs With WME (EXCLUSIVE)",
-        "fa": "لیا ریمینی با WME امضا می کند"
-      },
-      "excerpt": {
-        "en": "Leah Remini has signed with WME for representation, Variety has learned exclusively. She continues to be repped by Del Shaw Moonves Tanaka Finkelstein & Lezcano. WME will work with Remini to further expand her brand across television, film, digital media, podcasting, original content development, and additional platforms. Remini is best known for her work in […]",
-        "fa": "ورایتی به طور انحصاری آموخته است که لی رمینی برای نمایندگی با WME قرارداد امضا کرده است. او همچنان توسط دل شاو مونوز تاناکا فینکلشتاین و لزکانو تکرار می شود. WME با Remini همکاری خواهد کرد تا برند خود را در تلویزیون، فیلم، رسانه های دیجیتال، پادکست، توسعه محتوای اصلی و پلتفرم های اضافی گسترش دهد. ریمینی بیشتر به خاطر کارش در این فیلم شناخته می شود"
-      },
-      "content": {
-        "en": "Leah Remini has signed with WME for representation, Variety has learned exclusively. She continues to be repped by Del Shaw Moonves Tanaka Finkelstein & Lezcano. WME will work with Remini to further expand her brand across television, film, digital media, podcasting, original content development, and additional platforms. Remini is best known for her work in […]",
-        "fa": "ورایتی به طور انحصاری آموخته است که لی رمینی برای نمایندگی با WME قرارداد امضا کرده است. او همچنان توسط دل شاو مونوز تاناکا فینکلشتاین و لزکانو تکرار می شود. WME با Remini همکاری خواهد کرد تا برند خود را در تلویزیون، فیلم، رسانه های دیجیتال، پادکست، توسعه محتوای اصلی و پلتفرم های اضافی گسترش دهد. ریمینی بیشتر به خاطر کارش در این فیلم شناخته می شود"
-      },
-      "source": {
-        "en": "Variety",
-        "fa": "Variety"
-      },
-      "link": "https://variety.com/2026/tv/news/leah-remini-agency-wme-1236832132/",
-      "date": "2026-08-11T17:50:26.636836+00:00",
-      "image": "https://variety.com/wp-content/uploads/2026/08/Leah-Remini-2-e1786464560517.jpeg",
-      "important": true,
-      "score": 4
-    },
-    {
-      "id": "83fdc654377e",
-      "title": {
-        "en": "‘Top Of The World’ Trailer: Documentary From Julie Cohen & Betsy West Explores Stunning Restaurant Atop World Trade Center",
-        "fa": "تریلر «Top Of The World»: مستندی از جولی کوهن و بتسی وست در رستوران خیره کننده بالای مرکز تجارت جهانی"
-      },
-      "excerpt": {
-        "en": "EXCLUSIVE: For 25 years, an international clientele dined in spectacular fashion at Windows on the World, the restaurant at the top of the World Trade Center’s north tower, where guests were served by an equally international staff. On the morning of September 11, 2001, 91 guests and 79 World employees would perish in the devastating […]",
-        "fa": "انحصاری: به مدت 25 سال، یک مشتری بین المللی به شیوه ای تماشایی در Windows on the World، رستورانی در بالای برج شمالی مرکز تجارت جهانی، که در آن کارکنانی به همان اندازه بین المللی از مهمانان پذیرایی می کردند، شام می خوردند. در صبح روز 11 سپتامبر 2001، 91 مهمان و 79 کارمند جهان در این حادثه ویرانگر کشته شدند."
-      },
-      "content": {
-        "en": "EXCLUSIVE: For 25 years, an international clientele dined in spectacular fashion at Windows on the World, the restaurant at the top of the World Trade Center’s north tower, where guests were served by an equally international staff. On the morning of September 11, 2001, 91 guests and 79 World employees would perish in the devastating […]",
-        "fa": "انحصاری: به مدت 25 سال، یک مشتری بین المللی به شیوه ای تماشایی در Windows on the World، رستورانی در بالای برج شمالی مرکز تجارت جهانی، که در آن کارکنانی به همان اندازه بین المللی از مهمانان پذیرایی می کردند، شام می خوردند. در صبح روز 11 سپتامبر 2001، 91 مهمان و 79 کارمند جهان در این حادثه ویرانگر کشته شدند."
-      },
-      "source": {
-        "en": "Deadline",
-        "fa": "Deadline"
-      },
-      "link": "https://deadline.com/2026/08/top-of-the-world-trailer-1237030881/",
-      "date": "2026-08-11T17:50:26.634181+00:00",
-      "image": "https://deadline.com/wp-content/uploads/2026/08/WOTW_0101_S_Windows-Diners-Inside-Restaurant-1976_HI-RES.jpg",
-      "important": true,
-      "score": 4
-    },
-    {
-      "id": "92e06441a404",
-      "title": {
-        "en": "‘Monster: The Lizzie Borden Story’: Ella Beatty Stars As A Madwoman With An Ax In First Trailer",
-        "fa": "«هیولا: داستان لیزی بوردن»: الا بیتی در اولین تریلر نقش یک دیوانه با تبر را بازی می کند"
-      },
-      "excerpt": {
-        "en": "Netflix has released the first trailer for Monster: The Lizzie Borden Story, the latest chapter in Ryan Murphy and Ian Brennan’s anthology series. Watch it above. The haunting 56-second clip begins with a theater curtain opening to reveal a nearly empty stage with just a piano and the C key playing repeatedly by itself. The […]",
-        "fa": "نتفلیکس اولین تریلر فیلم Monster: The Lizzie Borden Story، آخرین فصل مجموعه گلچین رایان مورفی و ایان برنان را منتشر کرد. آن را در بالا تماشا کنید. این کلیپ 56 ثانیه‌ای شگفت‌انگیز با باز شدن پرده تئاتر شروع می‌شود تا صحنه تقریباً خالی را نشان دهد که فقط یک پیانو و کلید C به طور مکرر به خودی خود می‌نوازد. این"
-      },
-      "content": {
-        "en": "Netflix has released the first trailer for Monster: The Lizzie Borden Story, the latest chapter in Ryan Murphy and Ian Brennan’s anthology series. Watch it above. The haunting 56-second clip begins with a theater curtain opening to reveal a nearly empty stage with just a piano and the C key playing repeatedly by itself. The […]",
-        "fa": "نتفلیکس اولین تریلر فیلم Monster: The Lizzie Borden Story، آخرین فصل مجموعه گلچین رایان مورفی و ایان برنان را منتشر کرد. آن را در بالا تماشا کنید. این کلیپ 56 ثانیه‌ای شگفت‌انگیز با باز شدن پرده تئاتر شروع می‌شود تا صحنه تقریباً خالی را نشان دهد که فقط یک پیانو و کلید C به طور مکرر به خودی خود می‌نوازد. این"
-      },
-      "source": {
-        "en": "Deadline",
-        "fa": "Deadline"
-      },
-      "link": "https://deadline.com/2026/08/monster-the-lizzie-borden-story-trailer-ryan-murphy-netflix-1237030567/",
-      "date": "2026-08-11T17:50:26.634039+00:00",
-      "image": "https://deadline.com/wp-content/uploads/2026/08/Monster__The_Lizzie_Borden_Story_n_S1_E1_00_04_56_09R_C_4c568f-e1785860955922.jpg",
       "important": true,
       "score": 4
     },
@@ -237,32 +165,8 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/features/craft/mars-attacks-30th-anniversary-making-of-1235209277/",
-      "date": "2026-08-11T17:50:26.642072+00:00",
+      "date": "2026-08-11T18:48:41.773959+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/MSDMAAT_EC014.jpg?w=650",
-      "important": false,
-      "score": 3
-    },
-    {
-      "id": "a2cc336b6351",
-      "title": {
-        "en": "Rory Scovel Lost His Dad. His Comedy Has Never Been Better.",
-        "fa": "روری اسکاول پدرش را از دست داد. کمدی او هرگز بهتر نبوده است."
-      },
-      "excerpt": {
-        "en": "With a new Netflix special, 'Rory Scovel: Show Must Go On,' the veteran comic turns inward as he explores topics including his own grief.",
-        "fa": "با ویژه‌نامه جدید نتفلیکس، «روری اسکاول: نمایش باید ادامه یابد»، این کمیک کهنه کار به درون می‌چرخد و موضوعاتی از جمله غم و اندوه خود را بررسی می‌کند."
-      },
-      "content": {
-        "en": "With a new Netflix special, 'Rory Scovel: Show Must Go On,' the veteran comic turns inward as he explores topics including his own grief.",
-        "fa": "با ویژه‌نامه جدید نتفلیکس، «روری اسکاول: نمایش باید ادامه یابد»، این کمیک کهنه کار به درون می‌چرخد و موضوعاتی از جمله غم و اندوه خود را بررسی می‌کند."
-      },
-      "source": {
-        "en": "The Hollywood Reporter",
-        "fa": "The Hollywood Reporter"
-      },
-      "link": "https://www.hollywoodreporter.com/tv/tv-features/rory-scovel-show-must-go-on-netflix-special-interview-1236670413/",
-      "date": "2026-08-11T17:50:26.638890+00:00",
-      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/Rory-Scovel-Main-2026.jpg?w=1296&#038;h=730&#038;crop=1",
       "important": false,
       "score": 3
     },
@@ -285,32 +189,56 @@
         "fa": "The Hollywood Reporter"
       },
       "link": "https://www.hollywoodreporter.com/tv/tv-news/reacher-season-4-reviews-critics-1236670970/",
-      "date": "2026-08-11T17:50:26.638043+00:00",
+      "date": "2026-08-11T18:48:41.771526+00:00",
       "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/Reacher-S4-Main-2026.jpg?w=1296&#038;h=730&#038;crop=1",
       "important": false,
       "score": 3
     },
     {
-      "id": "c598ebe54f28",
+      "id": "6357305d8494",
       "title": {
-        "en": "Goya-Nominated Zoe Bonafonte Leads Spain-Argentina Soccer Pioneer Drama ‘Veleta’ (EXCLUSIVE)",
-        "fa": "زوئه بونافونته نامزد گویا درام «ولتا» پیشگام فوتبال اسپانیا و آرژانتین را رهبری می کند"
+        "en": "‘Summer House’ Star Bailey Taylor Signs With Gersh (Exclusive)",
+        "fa": "بیلی تیلور ستاره «خانه تابستانی» با گرش امضا می‌کند"
       },
       "excerpt": {
-        "en": "Goya-nominated actress Zoe Bonafonte (“El 47”) will play Spain’s first female soccer player, Ana “Nita” Carmona Ruiz, in “Veleta,” a Spain-Argentina co-production directed and co-written by Paco Torres (“The Magic of Hope”) and now shooting in Andalusia. Goya winner Dani Rovira and “Vikings” actor Moe Dunford also star. Amaya Muruzábal, creator of “Hernán” and showrunner […]",
-        "fa": "زوئه بونافونته، بازیگر نامزد گویا، نقش اولین فوتبالیست زن اسپانیایی، آنا «نیتا» کارمونا روئیز را در «ولتا»، محصول مشترک اسپانیا و آرژانتین به کارگردانی و نویسندگی پاکو تورس بازی خواهد کرد که اکنون در اندلس فیلمبرداری می‌شود. دنی روویرا، برنده گویا و مو دانفورد، بازیگر \"وایکینگ ها\" نیز در این فیلم ایفای نقش می کنند. Amaya Muruzábal، خالق \"Hernán\" و مجری برنامه"
+        "en": "The reality TV star also hosts iHeartRadio series ‘It Girl Podcast.'",
+        "fa": "این ستاره تلویزیون واقعیت همچنین مجری سریال iHeartRadio \"It Girl Podcast\" است."
       },
       "content": {
-        "en": "Goya-nominated actress Zoe Bonafonte (“El 47”) will play Spain’s first female soccer player, Ana “Nita” Carmona Ruiz, in “Veleta,” a Spain-Argentina co-production directed and co-written by Paco Torres (“The Magic of Hope”) and now shooting in Andalusia. Goya winner Dani Rovira and “Vikings” actor Moe Dunford also star. Amaya Muruzábal, creator of “Hernán” and showrunner […]",
-        "fa": "زوئه بونافونته، بازیگر نامزد گویا، نقش اولین فوتبالیست زن اسپانیایی، آنا «نیتا» کارمونا روئیز را در «ولتا»، محصول مشترک اسپانیا و آرژانتین به کارگردانی و نویسندگی پاکو تورس بازی خواهد کرد که اکنون در اندلس فیلمبرداری می‌شود. دنی روویرا، برنده گویا و مو دانفورد، بازیگر \"وایکینگ ها\" نیز در این فیلم ایفای نقش می کنند. Amaya Muruzábal، خالق \"Hernán\" و مجری برنامه"
+        "en": "The reality TV star also hosts iHeartRadio series ‘It Girl Podcast.'",
+        "fa": "این ستاره تلویزیون واقعیت همچنین مجری سریال iHeartRadio \"It Girl Podcast\" است."
       },
       "source": {
-        "en": "Variety",
-        "fa": "Variety"
+        "en": "The Hollywood Reporter",
+        "fa": "The Hollywood Reporter"
       },
-      "link": "https://variety.com/2026/film/markets-festivals/zoe-bonafonte-veleta-spain-argentina-soccer-drama-1236831557/",
-      "date": "2026-08-11T17:50:26.635905+00:00",
-      "image": "https://variety.com/wp-content/uploads/2026/08/Zoe-Bonafonte-1-e1786389973245.jpg",
+      "link": "https://www.hollywoodreporter.com/movies/movie-news/summer-house-bailey-taylor-signs-gersh-1236671000/",
+      "date": "2026-08-11T18:48:41.771226+00:00",
+      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/Black-and-white.png?crop=0px%2C54px%2C918px%2C514px&#038;resize=1440%2C810",
+      "important": false,
+      "score": 3
+    },
+    {
+      "id": "ead7c68bb532",
+      "title": {
+        "en": "‘Dancing With the Stars: The Next Pro’ Cast: All the Dancers Vying for a Spot on Season 35",
+        "fa": "بازیگران \"Dancing With the Stars: The Next Pro\": All the Dancers Viying for a Spot در فصل 35"
+      },
+      "excerpt": {
+        "en": "Plus, The Hollywood Reporter breaks down all the judges and mentors who will appear on the spinoff.",
+        "fa": "بعلاوه، هالیوود ریپورتر تمام داوران و مربیانی را که در اسپین آف ظاهر می شوند، تجزیه می کند."
+      },
+      "content": {
+        "en": "Plus, The Hollywood Reporter breaks down all the judges and mentors who will appear on the spinoff.",
+        "fa": "بعلاوه، هالیوود ریپورتر تمام داوران و مربیانی را که در اسپین آف ظاهر می شوند، تجزیه می کند."
+      },
+      "source": {
+        "en": "The Hollywood Reporter",
+        "fa": "The Hollywood Reporter"
+      },
+      "link": "https://www.hollywoodreporter.com/lists/dancing-with-the-stars-next-pro-cast-judges/",
+      "date": "2026-08-11T18:48:41.770247+00:00",
+      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/07/181454_3541-e1784082388306.jpg?w=1440&#038;h=810&#038;crop=1",
       "important": false,
       "score": 3
     },
@@ -333,7 +261,7 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/the-odyssey-josh-stewart-signs-gersh-1237031136/",
-      "date": "2026-08-11T17:50:26.633891+00:00",
+      "date": "2026-08-11T18:48:41.768191+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/photo-split-josh-stewart-gersh.png",
       "important": false,
       "score": 3
@@ -357,34 +285,10 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/joseph-gordon-levitt-gaijin-hulu-ivan-orkin-shannon-goss-1237030851/",
-      "date": "2026-08-11T17:50:26.632561+00:00",
+      "date": "2026-08-11T18:48:41.767184+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/Joseph-Gordon-Levitt-Shannon-Goss.jpg",
       "important": false,
       "score": 3
-    },
-    {
-      "id": "3e27539be624",
-      "title": {
-        "en": "Cineplex CEO Says Gen Z Is Ready to Go to the Movies: “They’re Tired of Looking at Small Screens”",
-        "fa": "مدیر عامل Cineplex می گوید Gen Z برای رفتن به سینما آماده است: \"آنها از نگاه کردن به صفحه های کوچک خسته شده اند\""
-      },
-      "excerpt": {
-        "en": "The Canadian exhibitor posted record second quarter revenues as younger audiences embraced 'The Odyssey' and 'Michael' and drove the Hollywood box office rebound.",
-        "fa": "این غرفه‌دار کانادایی درآمد بی‌سابقه‌ای را در سه ماهه دوم به ثبت رساند، زیرا مخاطبان جوان‌تر «اودیسه» و «مایکل» را پذیرفتند و باکس آفیس هالیوود را دوباره به سمت خود بردند."
-      },
-      "content": {
-        "en": "The Canadian exhibitor posted record second quarter revenues as younger audiences embraced 'The Odyssey' and 'Michael' and drove the Hollywood box office rebound.",
-        "fa": "این غرفه‌دار کانادایی درآمد بی‌سابقه‌ای را در سه ماهه دوم به ثبت رساند، زیرا مخاطبان جوان‌تر «اودیسه» و «مایکل» را پذیرفتند و باکس آفیس هالیوود را دوباره به سمت خود بردند."
-      },
-      "source": {
-        "en": "The Hollywood Reporter",
-        "fa": "The Hollywood Reporter"
-      },
-      "link": "https://www.hollywoodreporter.com/business/business-news/cineplex-ceo-says-gen-z-is-ready-to-go-to-the-moviestheyre-tired-of-looking-at-small-screens-1236670910/",
-      "date": "2026-08-11T17:50:26.638325+00:00",
-      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2024/02/Ellis-Jacob-CinemaCon-Speaking-Onstage-GettyImages-951252814-H-2024.jpg?w=1296&#038;h=730&#038;crop=1",
-      "important": false,
-      "score": 1
     },
     {
       "id": "0e4373338631",
@@ -405,7 +309,7 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/verity-trailer-anne-hathaway-dakota-johnson-amazon-mgm-1236873939/",
-      "date": "2026-08-11T17:50:26.633535+00:00",
+      "date": "2026-08-11T18:48:41.767947+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/04/Screenshot-2026-04-27-at-2.21.59 PM.png",
       "important": false,
       "score": 1
@@ -429,7 +333,7 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/possession-remake-release-date-paramount-1237031178/",
-      "date": "2026-08-11T17:50:26.632769+00:00",
+      "date": "2026-08-11T18:48:41.767333+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/callum-turner-margaret-qualley-split.jpg",
       "important": false,
       "score": 1
@@ -453,34 +357,10 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/walt-disney-studios-2026-global-box-office-1237031236/",
-      "date": "2026-08-11T17:50:26.631917+00:00",
+      "date": "2026-08-11T18:48:41.766793+00:00",
       "image": "https://deadline.com/wp-content/uploads/2023/10/Walt-Disney-Studios.jpg",
       "important": false,
       "score": 1
-    },
-    {
-      "id": "2c24b37ff0b1",
-      "title": {
-        "en": "Could ‘Spider-Man: Brand New Day’ Be the First Film to Surpass $1 Billion Domestic?",
-        "fa": "آیا «مرد عنکبوتی: روز کاملاً جدید» می‌تواند اولین فیلمی باشد که از فروش داخلی یک میلیارد دلار عبور می‌کند؟"
-      },
-      "excerpt": {
-        "en": "The film has already surpassed $655 million domestic and made $1.67 billion globally.",
-        "fa": "این فیلم تاکنون از 655 میلیون دلار فروش داخلی عبور کرده و 1.67 میلیارد دلار فروش جهانی داشته است."
-      },
-      "content": {
-        "en": "The film has already surpassed $655 million domestic and made $1.67 billion globally.",
-        "fa": "این فیلم تاکنون از 655 میلیون دلار فروش داخلی عبور کرده و 1.67 میلیارد دلار فروش جهانی داشته است."
-      },
-      "source": {
-        "en": "IndieWire",
-        "fa": "IndieWire"
-      },
-      "link": "https://www.indiewire.com/news/box-office/could-spider-man-brand-new-day-surpass-1-billion-domestic-1235209822/",
-      "date": "2026-08-11T17:50:26.643484+00:00",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/08/MCDSPMA_SP128.jpg?w=650",
-      "important": false,
-      "score": 0
     },
     {
       "id": "f3173ca54bdf",
@@ -501,7 +381,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/news/festivals/tiff-2026-adds-1235209842/",
-      "date": "2026-08-11T17:50:26.643183+00:00",
+      "date": "2026-08-11T18:48:41.774755+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/Carrie-Coon-in-The-Liberation_FINAL-Key-Still-courtesy-Bleecker-Street.jpg?w=650",
       "important": false,
       "score": 0
@@ -525,8 +405,56 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/news/business/free-seminar-documentary-filmmakers-how-to-opt-out-ai-1235209818/",
-      "date": "2026-08-11T17:50:26.641569+00:00",
+      "date": "2026-08-11T18:48:41.773581+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/03/AI_FP_00002.jpg?w=650",
+      "important": false,
+      "score": 0
+    },
+    {
+      "id": "e326968f5ec5",
+      "title": {
+        "en": "Copyright Is for Suckers: A Brief History of Unofficial Movie Sequels",
+        "fa": "حق چاپ برای مکنده ها است: تاریخچه مختصری از دنباله های غیر رسمی فیلم"
+      },
+      "excerpt": {
+        "en": "From \"Never Say Never Again\" to \"Piranha II\" and \"Cruel Jaws,\" unofficial sequels are a major part of movie history.",
+        "fa": "از «دیگر نگو هرگز» تا «پیرانا ۲» و «آرواره‌های بی‌رحمانه»، دنباله‌های غیررسمی بخش عمده‌ای از تاریخ سینما هستند."
+      },
+      "content": {
+        "en": "From \"Never Say Never Again\" to \"Piranha II\" and \"Cruel Jaws,\" unofficial sequels are a major part of movie history.",
+        "fa": "از «دیگر نگو هرگز» تا «پیرانا ۲» و «آرواره‌های بی‌رحمانه»، دنباله‌های غیررسمی بخش عمده‌ای از تاریخ سینما هستند."
+      },
+      "source": {
+        "en": "IndieWire",
+        "fa": "IndieWire"
+      },
+      "link": "https://www.indiewire.com/criticism/movies/history-of-unofficial-movie-sequels-1235209659/",
+      "date": "2026-08-11T18:48:41.773214+00:00",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/08/nsna2.webp?w=650",
+      "important": false,
+      "score": 0
+    },
+    {
+      "id": "95dfbb8b46b5",
+      "title": {
+        "en": "David Ellison’s Threat to Move Paramount Out of California Is ‘Blackmail,’ State AG Rob Bonta Says",
+        "fa": "راب بونتا می گوید تهدید دیوید الیسون برای انتقال پارامونت به خارج از کالیفرنیا \"باج گیری\" است."
+      },
+      "excerpt": {
+        "en": "\"Paramount has lost the plot as it continues to lose in court,\" the California attorney general says The post David Ellison’s Threat to Move Paramount Out of California Is ‘Blackmail,’ State AG Rob Bonta Says appeared first on TheWrap .",
+        "fa": "دادستان کل کالیفرنیا می‌گوید: «پارامونت نقشه را باخت و همچنان در دادگاه شکست می‌خورد"
+      },
+      "content": {
+        "en": "\"Paramount has lost the plot as it continues to lose in court,\" the California attorney general says The post David Ellison’s Threat to Move Paramount Out of California Is ‘Blackmail,’ State AG Rob Bonta Says appeared first on TheWrap .",
+        "fa": "دادستان کل کالیفرنیا می‌گوید: «پارامونت نقشه را باخت و همچنان در دادگاه شکست می‌خورد"
+      },
+      "source": {
+        "en": "The Wrap",
+        "fa": "The Wrap"
+      },
+      "link": "https://www.thewrap.com/industry-news/business/rob-bonta-responds-david-ellison-move-paramount-out-of-california/",
+      "date": "2026-08-11T18:48:41.772915+00:00",
+      "image": "https://www.thewrap.com/wp-content/uploads/2026/07/071325-WB-Paramount-v4.jpg",
       "important": false,
       "score": 0
     },
@@ -549,32 +477,104 @@
         "fa": "The Wrap"
       },
       "link": "https://www.thewrap.com/media-platforms/politics/morning-joe-scarborough-trump-vaccine-order-rfk-jr-video/",
-      "date": "2026-08-11T17:50:26.639562+00:00",
+      "date": "2026-08-11T18:48:41.772311+00:00",
       "image": "https://www.thewrap.com/wp-content/uploads/2026/08/Morning-Joe-8-11-26.jpg",
       "important": false,
       "score": 0
     },
     {
-      "id": "a6b64f9a9b62",
+      "id": "4050f071dda3",
       "title": {
-        "en": "Andrea Gibson: Love Letter From the Afterlife Special Event Set to Embark on 14-Date U.S. Tour",
-        "fa": "آندره‌آ گیبسون: نامه‌ای عاشقانه از رویداد ویژه پس از مرگ برای آغاز تور ۱۴ تاریخه ایالات متحده"
+        "en": "Why ‘Spider-Man 2’ Is Still the Best ‘Spider-Man’ Movie",
+        "fa": "چرا «مرد عنکبوتی 2» همچنان بهترین فیلم «مرد عنکبوتی» است؟"
       },
       "excerpt": {
-        "en": "Tickets go on sale Aug. 14 for a November tour of the multimedia mash-up that will feature Gibson's partner, Megan Falley, the Goosebump Orchestra and \"extremely special guests\" across a 14-date run.",
-        "fa": "فروش بلیت‌ها در تاریخ 14 آگوست برای تور نوامبر در ترکیب چندرسانه‌ای آغاز می‌شود که شریک گیبسون، مگان فالی، ارکستر Goosebump و \"مهمانان بسیار ویژه\" را در یک دوره 14 روزه حضور خواهند داشت."
+        "en": "All due respect to \"Brand New Day\" The post Why ‘Spider-Man 2’ Is Still the Best ‘Spider-Man’ Movie appeared first on TheWrap .",
+        "fa": "با تمام احترام به \"روز کاملا جدید\""
       },
       "content": {
-        "en": "Tickets go on sale Aug. 14 for a November tour of the multimedia mash-up that will feature Gibson's partner, Megan Falley, the Goosebump Orchestra and \"extremely special guests\" across a 14-date run.",
-        "fa": "فروش بلیت‌ها در تاریخ 14 آگوست برای تور نوامبر در ترکیب چندرسانه‌ای آغاز می‌شود که شریک گیبسون، مگان فالی، ارکستر Goosebump و \"مهمانان بسیار ویژه\" را در یک دوره 14 روزه حضور خواهند داشت."
+        "en": "All due respect to \"Brand New Day\" The post Why ‘Spider-Man 2’ Is Still the Best ‘Spider-Man’ Movie appeared first on TheWrap .",
+        "fa": "با تمام احترام به \"روز کاملا جدید\""
+      },
+      "source": {
+        "en": "The Wrap",
+        "fa": "The Wrap"
+      },
+      "link": "https://www.thewrap.com/creative-content/movies/best-spider-man-movie-brand-new-day/",
+      "date": "2026-08-11T18:48:41.771899+00:00",
+      "image": "https://i0.wp.com/www.thewrap.com/wp-content/uploads/2026/08/Spider-Man-2.jpg?fit=1280%2C720&quality=89&ssl=1",
+      "important": false,
+      "score": 0
+    },
+    {
+      "id": "f17e120bcf7c",
+      "title": {
+        "en": "Frank Miller Talks Arguing with Jim Shooter, Why His Doctor Strange Series Never Happened and ‘Sin City’ Future",
+        "fa": "صحبت فرانک میلر در مورد بحث با جیم شوتر، چرا سریال عجیب دکتر او هرگز اتفاق نیفتاد و آینده «شهر گناه»"
+      },
+      "excerpt": {
+        "en": "The 'Dark Knight Returns' creator, already having a banner summer, is seeing the digital release of documentary 'Frank Miller: American Genius' out Tuesday.",
+        "fa": "خالق «بازگشت شوالیه تاریکی» که در حال حاضر یک بنر در تابستان دارد، شاهد انتشار دیجیتال مستند «فرانک میلر: نابغه آمریکایی» در روز سه شنبه است."
+      },
+      "content": {
+        "en": "The 'Dark Knight Returns' creator, already having a banner summer, is seeing the digital release of documentary 'Frank Miller: American Genius' out Tuesday.",
+        "fa": "خالق «بازگشت شوالیه تاریکی» که در حال حاضر یک بنر در تابستان دارد، شاهد انتشار دیجیتال مستند «فرانک میلر: نابغه آمریکایی» در روز سه شنبه است."
       },
       "source": {
         "en": "The Hollywood Reporter",
         "fa": "The Hollywood Reporter"
       },
-      "link": "https://www.hollywoodreporter.com/lifestyle/arts/andrea-gibson-love-letter-from-the-afterlife-tour-dates-1236670319/",
-      "date": "2026-08-11T17:50:26.638727+00:00",
-      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/Andrea-Gibson_7.5.26_Isabel-Faulkner_Red-Rocks_Web-Size-6850.jpg?crop=0px%2C742px%2C1366px%2C764px&#038;resize=1440%2C810",
+      "link": "https://www.hollywoodreporter.com/movies/movie-news/frank-miller-brand-new-day-1236670605/",
+      "date": "2026-08-11T18:48:41.771105+00:00",
+      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/Frank-Miller-Brand-New-Day-Embed-2026.jpg?w=1047&#038;h=590&#038;crop=1",
+      "important": false,
+      "score": 0
+    },
+    {
+      "id": "e88c878def8f",
+      "title": {
+        "en": "Inside ‘Dreams in Nightmares,’ a Vibrant Reinvention of the American Road Movie",
+        "fa": "درون «رویاها در کابوس‌ها»، اختراع دوباره‌ای از فیلم جاده آمریکایی"
+      },
+      "excerpt": {
+        "en": "The sophomore feature from Shatara Michelle Ford features a stellar lead performance from Denée Benton, who connected deeply to the story of queer joy and friendship: “My last four years of chaotically crashing out led to really getting to alchemize it into art.”",
+        "fa": "فیلم دوم شاتارا میشل فورد، اجرای برجسته‌ای از دنی بنتون را به نمایش می‌گذارد که عمیقاً به داستان شادی و دوستی عجیب و غریب مرتبط است: «چهار سال آخر من که به‌طور آشفته‌ای منفجر می‌شدم باعث شد واقعاً آن را به هنر کیمیا کنم.»"
+      },
+      "content": {
+        "en": "The sophomore feature from Shatara Michelle Ford features a stellar lead performance from Denée Benton, who connected deeply to the story of queer joy and friendship: “My last four years of chaotically crashing out led to really getting to alchemize it into art.”",
+        "fa": "فیلم دوم شاتارا میشل فورد، اجرای برجسته‌ای از دنی بنتون را به نمایش می‌گذارد که عمیقاً به داستان شادی و دوستی عجیب و غریب مرتبط است: «چهار سال آخر من که به‌طور آشفته‌ای منفجر می‌شدم باعث شد واقعاً آن را به هنر کیمیا کنم.»"
+      },
+      "source": {
+        "en": "The Hollywood Reporter",
+        "fa": "The Hollywood Reporter"
+      },
+      "link": "https://www.hollywoodreporter.com/movies/movie-features/dreams-in-nightmares-exclusive-shatara-michelle-ford-1236670557/",
+      "date": "2026-08-11T18:48:41.770677+00:00",
+      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/DreamsInNightmares_Digital-Exclusive_6.jpg?w=1440&#038;h=810&#038;crop=1",
+      "important": false,
+      "score": 0
+    },
+    {
+      "id": "f9d23f0664af",
+      "title": {
+        "en": "How Julie Andrews’ Singing Poodle Inspired New Children’s Book With Daughter",
+        "fa": "چگونه پودل آواز جولی اندروز از کتاب جدید کودکان با دختر الهام گرفت؟"
+      },
+      "excerpt": {
+        "en": "The actress and daughter Emma Walton Hamilton talk about how their children’s book celebrates creativity and confidence. Andrews also teases her Disney documentary.",
+        "fa": "بازیگر و دختر اما والتون همیلتون در مورد اینکه چگونه کتاب کودکانشان خلاقیت و اعتماد به نفس را تجلیل می کند صحبت می کنند. اندروز همچنین مستند دیزنی خود را مسخره می کند."
+      },
+      "content": {
+        "en": "The actress and daughter Emma Walton Hamilton talk about how their children’s book celebrates creativity and confidence. Andrews also teases her Disney documentary.",
+        "fa": "بازیگر و دختر اما والتون همیلتون در مورد اینکه چگونه کتاب کودکانشان خلاقیت و اعتماد به نفس را تجلیل می کند صحبت می کنند. اندروز همچنین مستند دیزنی خود را مسخره می کند."
+      },
+      "source": {
+        "en": "The Hollywood Reporter",
+        "fa": "The Hollywood Reporter"
+      },
+      "link": "https://www.hollywoodreporter.com/lifestyle/arts/julie-andrews-shy-childrens-book-daughter-disney-doc-1236670135/",
+      "date": "2026-08-11T18:48:41.770468+00:00",
+      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/AndrewsHamiltonBookSplit.jpg?w=1296&#038;h=730&#038;crop=1",
       "important": false,
       "score": 0
     }
