@@ -1,31 +1,7 @@
 {
-  "updated_at": "2026-08-11T15:51:53.770537+00:00",
+  "updated_at": "2026-08-11T16:48:21.141089+00:00",
   "count": 24,
   "news": [
-    {
-      "id": "59d05e12f2d4",
-      "title": {
-        "en": "Netflix Unveils Premiere Date & First-Look Images For ‘The Body’ Starring Sofia Wyle, Gabby Windey & More",
-        "fa": "نتفلیکس از تاریخ نمایش و تصاویری با نگاه اول فیلم The Body با بازی سوفیا وایل، گابی ویندی و سایرین رونمایی کرد."
-      },
-      "excerpt": {
-        "en": "Netflix has set the release date for The Body, an upcoming eight-episode series created by Quinn Shephard, as November 11. The series follows a group of badly-behaved Catholic school girls, who begin having prophetic visions that set off mass hysteria in town after a dance-team initiation goes wrong. Shephard directs the premiere and serves as showrunner for the gritty […]",
-        "fa": "نتفلیکس تاریخ انتشار سریال هشت قسمتی The Body را که توسط کوین شفارد ساخته می‌شود، 11 نوامبر تعیین کرده است. این سریال گروهی از دختران مدرسه‌ای کاتولیک را دنبال می‌کند که پس از شروع اشتباه یک تیم رقص، رؤیاهای پیشگویانه‌ای دارند که باعث هیستری گسترده در شهر می‌شود. Shephard اولین نمایش را کارگردانی می‌کند و به عنوان مجری برنامه برای فیلم‌های سنگ‌ریزه عمل می‌کند"
-      },
-      "content": {
-        "en": "Netflix has set the release date for The Body, an upcoming eight-episode series created by Quinn Shephard, as November 11. The series follows a group of badly-behaved Catholic school girls, who begin having prophetic visions that set off mass hysteria in town after a dance-team initiation goes wrong. Shephard directs the premiere and serves as showrunner for the gritty […]",
-        "fa": "نتفلیکس تاریخ انتشار سریال هشت قسمتی The Body را که توسط کوین شفارد ساخته می‌شود، 11 نوامبر تعیین کرده است. این سریال گروهی از دختران مدرسه‌ای کاتولیک را دنبال می‌کند که پس از شروع اشتباه یک تیم رقص، رؤیاهای پیشگویانه‌ای دارند که باعث هیستری گسترده در شهر می‌شود. Shephard اولین نمایش را کارگردانی می‌کند و به عنوان مجری برنامه برای فیلم‌های سنگ‌ریزه عمل می‌کند"
-      },
-      "source": {
-        "en": "Deadline",
-        "fa": "Deadline"
-      },
-      "link": "https://deadline.com/2026/08/the-body-release-date-photos-gabby-windey-netflix-1237030605/",
-      "date": "2026-08-11T15:51:53.532690+00:00",
-      "image": "https://deadline.com/wp-content/uploads/2026/08/BODY_103_Instream_00001.jpg",
-      "important": true,
-      "score": 7
-    },
     {
       "id": "bf0bd60af882",
       "title": {
@@ -45,10 +21,58 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/an-open-field-one-last-order-netflix-acquisitions-1237030940/",
-      "date": "2026-08-11T15:51:53.531535+00:00",
+      "date": "2026-08-11T16:48:20.753335+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/an-open-field-One-Last-Order-split.png",
       "important": true,
       "score": 7
+    },
+    {
+      "id": "b1e6c6f4555b",
+      "title": {
+        "en": "Looney Tunes Legend Chuck Jones’ Family Reacts to ‘Coyote vs. Acme’ | Exclusive",
+        "fa": "واکنش خانواده چاک جونز، افسانه لونی تونز به «کایوت در برابر آکم» | انحصاری"
+      },
+      "excerpt": {
+        "en": "The formerly canceled film arrives in theaters later this month The post Looney Tunes Legend Chuck Jones’ Family Reacts to ‘Coyote vs. Acme’ | Exclusive appeared first on TheWrap .",
+        "fa": "فیلمی که قبلا لغو شده بود اواخر این ماه وارد سینماها می شود"
+      },
+      "content": {
+        "en": "The formerly canceled film arrives in theaters later this month The post Looney Tunes Legend Chuck Jones’ Family Reacts to ‘Coyote vs. Acme’ | Exclusive appeared first on TheWrap .",
+        "fa": "فیلمی که قبلا لغو شده بود اواخر این ماه وارد سینماها می شود"
+      },
+      "source": {
+        "en": "The Wrap",
+        "fa": "The Wrap"
+      },
+      "link": "https://www.thewrap.com/creative-content/movies/coyote-vs-acme-chuck-jones-family-reacts/",
+      "date": "2026-08-11T16:48:20.759900+00:00",
+      "image": "https://www.thewrap.com/wp-content/uploads/2026/08/Coyote-vs-Acme-1.jpg",
+      "important": true,
+      "score": 6
+    },
+    {
+      "id": "b7a3fb40154d",
+      "title": {
+        "en": "Ilona Maher Hits the Gym With Celebrity Guests in ‘Power Hour’ Digital Series | Exclusive",
+        "fa": "ایلونا ماهر با مهمانان مشهور در مجموعه دیجیتال «ساعت قدرت» به باشگاه می‌رود | انحصاری"
+      },
+      "excerpt": {
+        "en": "Kylie Kelce, Azzi Fudd and Bretman Rock are set to appear in the Wave series, which will soon premiere on YouTube The post Ilona Maher Hits the Gym With Celebrity Guests in ‘Power Hour’ Digital Series | Exclusive appeared first on TheWrap .",
+        "fa": "کایلی کلسه، آزی فاد و برتمن راک قرار است در سریال Wave حضور داشته باشند که به زودی در یوتیوب پخش خواهد شد."
+      },
+      "content": {
+        "en": "Kylie Kelce, Azzi Fudd and Bretman Rock are set to appear in the Wave series, which will soon premiere on YouTube The post Ilona Maher Hits the Gym With Celebrity Guests in ‘Power Hour’ Digital Series | Exclusive appeared first on TheWrap .",
+        "fa": "کایلی کلسه، آزی فاد و برتمن راک قرار است در سریال Wave حضور داشته باشند که به زودی در یوتیوب پخش خواهد شد."
+      },
+      "source": {
+        "en": "The Wrap",
+        "fa": "The Wrap"
+      },
+      "link": "https://www.thewrap.com/culture-lifestyle/sports/ilona-maher-power-hour-wave-digital-series-youtube/",
+      "date": "2026-08-11T16:48:20.759672+00:00",
+      "image": "https://www.thewrap.com/wp-content/uploads/2026/08/power-hour-ilona-maher.jpg",
+      "important": true,
+      "score": 6
     },
     {
       "id": "5ddd7a57b938",
@@ -69,34 +93,106 @@
         "fa": "The Hollywood Reporter"
       },
       "link": "https://www.hollywoodreporter.com/movies/movie-news/tcm-plot-thickens-stanley-kubrick-podcast-criterion-1236670621/",
-      "date": "2026-08-11T15:51:53.535483+00:00",
+      "date": "2026-08-11T16:48:20.758675+00:00",
       "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/Lolita-everett-H-2026.png?w=1296&#038;h=730&#038;crop=1",
       "important": true,
       "score": 6
     },
     {
-      "id": "573a4663dd6f",
+      "id": "cd7201091317",
       "title": {
-        "en": "Sundance Conversion Therapy Horror Film ‘Leviticus’ Director Adrian Chiarella Signs With Anonymous Content (EXCLUSIVE)",
-        "fa": "آدریان کیارلا، کارگردان فیلم ترسناک درمان تبدیل ساندنس با نام «Leviticus» با محتوای ناشناس امضا می‌کند"
+        "en": "‘Monster: The Lizzie Borden Story’ Trailer: Ella Beatty Is an Axe Murderer in the Fourth Chapter of Ryan Murphy’s Bloody Anthology Series",
+        "fa": "تریلر «Monster: The Lizzie Borden Story»: الا بیتی یک قاتل تبر است در چهارمین فصل از مجموعه گلچین خونین رایان مورفی"
       },
       "excerpt": {
-        "en": "Anonymous Content has signed Melbourne-based writer-director Adrian Chiarella for representation, beating out several other companies that had been courting him. The move comes on the heels of Chiarella’s feature directorial debut, “Leviticus,” a queer horror film that premiered at the Sundance Film Festival earlier this year to strong critical response. The story centers on two […]",
-        "fa": "«محتوای ناشناس» با آدریان چیارلا، نویسنده و کارگردان ساکن ملبورن، برای وکالت قرارداد امضا کرد و چندین شرکت دیگر را که از او خواستگاری کرده بودند، شکست داد. این حرکت پس از اولین کارگردانی بلند سینمایی کیارلا، «Leviticus» انجام شد، یک فیلم ترسناک عجیب و غریب که اوایل امسال در جشنواره فیلم ساندنس به نمایش درآمد و با واکنش شدید منتقدان مواجه شد. داستان بر دو محور است"
+        "en": "Netflix has released the trailer for “Monster: The Lizzie Borden Story,” the fourth chapter in Ryan Murphy and Ian Brennan’s anthology drama series. This time around, the subject is Lizzie Borden, a young woman who was accused of hacking her parents to death with an axe in the late 19th century. The official logline for […]",
+        "fa": "نتفلیکس تریلر «هیولا: داستان لیزی بوردن»، فصل چهارم مجموعه درام آنتولوژی رایان مورفی و ایان برنان را منتشر کرد. این بار، موضوع لیزی بوردن، زن جوانی است که متهم به هک کردن والدینش با تبر در اواخر قرن نوزدهم شد. ورود رسمی برای"
       },
       "content": {
-        "en": "Anonymous Content has signed Melbourne-based writer-director Adrian Chiarella for representation, beating out several other companies that had been courting him. The move comes on the heels of Chiarella’s feature directorial debut, “Leviticus,” a queer horror film that premiered at the Sundance Film Festival earlier this year to strong critical response. The story centers on two […]",
-        "fa": "«محتوای ناشناس» با آدریان چیارلا، نویسنده و کارگردان ساکن ملبورن، برای وکالت قرارداد امضا کرد و چندین شرکت دیگر را که از او خواستگاری کرده بودند، شکست داد. این حرکت پس از اولین کارگردانی بلند سینمایی کیارلا، «Leviticus» انجام شد، یک فیلم ترسناک عجیب و غریب که اوایل امسال در جشنواره فیلم ساندنس به نمایش درآمد و با واکنش شدید منتقدان مواجه شد. داستان بر دو محور است"
+        "en": "Netflix has released the trailer for “Monster: The Lizzie Borden Story,” the fourth chapter in Ryan Murphy and Ian Brennan’s anthology drama series. This time around, the subject is Lizzie Borden, a young woman who was accused of hacking her parents to death with an axe in the late 19th century. The official logline for […]",
+        "fa": "نتفلیکس تریلر «هیولا: داستان لیزی بوردن»، فصل چهارم مجموعه درام آنتولوژی رایان مورفی و ایان برنان را منتشر کرد. این بار، موضوع لیزی بوردن، زن جوانی است که متهم به هک کردن والدینش با تبر در اواخر قرن نوزدهم شد. ورود رسمی برای"
       },
       "source": {
         "en": "Variety",
         "fa": "Variety"
       },
-      "link": "https://variety.com/2026/film/news/leviticus-director-adrian-chiarella-anonymous-content-1236831624/",
-      "date": "2026-08-11T15:51:53.533519+00:00",
-      "image": "https://variety.com/wp-content/uploads/2026/08/P104S2OU.jpg",
+      "link": "https://variety.com/2026/tv/news/monster-lizzie-borden-story-trailer-netflix-ryan-murphy-1236827673/",
+      "date": "2026-08-11T16:48:20.756169+00:00",
+      "image": "https://variety.com/wp-content/uploads/2026/08/Monster__The_Lizzie_Borden_Story_n_S1_E1_00_04_56_09R_C.jpg",
       "important": true,
-      "score": 6
+      "score": 4
+    },
+    {
+      "id": "748d6a1c8cf3",
+      "title": {
+        "en": "Leah Remini Signs With WME (EXCLUSIVE)",
+        "fa": "لیا ریمینی با WME امضا می کند"
+      },
+      "excerpt": {
+        "en": "Leah Remini has signed with WME for representation, Variety has learned exclusively. She continues to be repped by Del Shaw Moonves Tanaka Finkelstein & Lezcano. WME will work with Remini to further expand her brand across television, film, digital media, podcasting, original content development, and additional platforms. Remini is best known for her work in […]",
+        "fa": "ورایتی به طور انحصاری آموخته است که لی رمینی برای نمایندگی با WME قرارداد امضا کرده است. او همچنان توسط دل شاو مونوز تاناکا فینکلشتاین و لزکانو تکرار می شود. WME با Remini همکاری خواهد کرد تا برند خود را در تلویزیون، فیلم، رسانه های دیجیتال، پادکست، توسعه محتوای اصلی و پلتفرم های اضافی گسترش دهد. ریمینی بیشتر به خاطر کارش در این فیلم شناخته می شود"
+      },
+      "content": {
+        "en": "Leah Remini has signed with WME for representation, Variety has learned exclusively. She continues to be repped by Del Shaw Moonves Tanaka Finkelstein & Lezcano. WME will work with Remini to further expand her brand across television, film, digital media, podcasting, original content development, and additional platforms. Remini is best known for her work in […]",
+        "fa": "ورایتی به طور انحصاری آموخته است که لی رمینی برای نمایندگی با WME قرارداد امضا کرده است. او همچنان توسط دل شاو مونوز تاناکا فینکلشتاین و لزکانو تکرار می شود. WME با Remini همکاری خواهد کرد تا برند خود را در تلویزیون، فیلم، رسانه های دیجیتال، پادکست، توسعه محتوای اصلی و پلتفرم های اضافی گسترش دهد. ریمینی بیشتر به خاطر کارش در این فیلم شناخته می شود"
+      },
+      "source": {
+        "en": "Variety",
+        "fa": "Variety"
+      },
+      "link": "https://variety.com/2026/tv/news/leah-remini-agency-wme-1236832132/",
+      "date": "2026-08-11T16:48:20.755536+00:00",
+      "image": "https://variety.com/wp-content/uploads/2026/08/Leah-Remini-2-e1786464560517.jpeg",
+      "important": true,
+      "score": 4
+    },
+    {
+      "id": "83fdc654377e",
+      "title": {
+        "en": "‘Top Of The World’ Trailer: Documentary From Julie Cohen & Betsy West Explores Stunning Restaurant Atop World Trade Center",
+        "fa": "تریلر «Top Of The World»: مستندی از جولی کوهن و بتسی وست در رستوران خیره کننده بالای مرکز تجارت جهانی"
+      },
+      "excerpt": {
+        "en": "EXCLUSIVE: For 25 years, an international clientele dined in spectacular fashion at Windows on the World, the restaurant at the top of the World Trade Center’s north tower, where guests were served by an equally international staff. On the morning of September 11, 2001, 91 guests and 79 World employees would perish in the devastating […]",
+        "fa": "انحصاری: به مدت 25 سال، یک مشتری بین المللی به شیوه ای تماشایی در Windows on the World، رستورانی در بالای برج شمالی مرکز تجارت جهانی، که در آن کارکنانی به همان اندازه بین المللی از مهمانان پذیرایی می کردند، شام می خوردند. در صبح روز 11 سپتامبر 2001، 91 مهمان و 79 کارمند جهان در این حادثه ویرانگر کشته شدند."
+      },
+      "content": {
+        "en": "EXCLUSIVE: For 25 years, an international clientele dined in spectacular fashion at Windows on the World, the restaurant at the top of the World Trade Center’s north tower, where guests were served by an equally international staff. On the morning of September 11, 2001, 91 guests and 79 World employees would perish in the devastating […]",
+        "fa": "انحصاری: به مدت 25 سال، یک مشتری بین المللی به شیوه ای تماشایی در Windows on the World، رستورانی در بالای برج شمالی مرکز تجارت جهانی، که در آن کارکنانی به همان اندازه بین المللی از مهمانان پذیرایی می کردند، شام می خوردند. در صبح روز 11 سپتامبر 2001، 91 مهمان و 79 کارمند جهان در این حادثه ویرانگر کشته شدند."
+      },
+      "source": {
+        "en": "Deadline",
+        "fa": "Deadline"
+      },
+      "link": "https://deadline.com/2026/08/top-of-the-world-trailer-1237030881/",
+      "date": "2026-08-11T16:48:20.752661+00:00",
+      "image": "https://deadline.com/wp-content/uploads/2026/08/WOTW_0101_S_Windows-Diners-Inside-Restaurant-1976_HI-RES.jpg",
+      "important": true,
+      "score": 4
+    },
+    {
+      "id": "92e06441a404",
+      "title": {
+        "en": "‘Monster: The Lizzie Borden Story’: Ella Beatty Stars As A Madwoman With An Ax In First Trailer",
+        "fa": "«هیولا: داستان لیزی بوردن»: الا بیتی در اولین تریلر نقش یک دیوانه با تبر را بازی می کند"
+      },
+      "excerpt": {
+        "en": "Netflix has released the first trailer for the latest chapter in Ryan Murphy and Ian Brennan’s anthology series Monster: The Lizzie Borden Story. The haunting 56-second clip begins with a theater curtain opening to reveal a nearly empty stage with just a piano and the C key playing repeatedly by itself. The scene then shifts […]",
+        "fa": "نتفلیکس اولین تریلر آخرین فصل مجموعه گلچین هیولا: داستان لیزی بوردن رایان مورفی و ایان برنان را منتشر کرد. این کلیپ 56 ثانیه‌ای شگفت‌انگیز با باز شدن پرده تئاتر شروع می‌شود تا صحنه تقریباً خالی را نشان دهد که فقط یک پیانو و کلید C به طور مکرر به خودی خود می‌نوازد. سپس صحنه تغییر می کند"
+      },
+      "content": {
+        "en": "Netflix has released the first trailer for the latest chapter in Ryan Murphy and Ian Brennan’s anthology series Monster: The Lizzie Borden Story. The haunting 56-second clip begins with a theater curtain opening to reveal a nearly empty stage with just a piano and the C key playing repeatedly by itself. The scene then shifts […]",
+        "fa": "نتفلیکس اولین تریلر آخرین فصل مجموعه گلچین هیولا: داستان لیزی بوردن رایان مورفی و ایان برنان را منتشر کرد. این کلیپ 56 ثانیه‌ای شگفت‌انگیز با باز شدن پرده تئاتر شروع می‌شود تا صحنه تقریباً خالی را نشان دهد که فقط یک پیانو و کلید C به طور مکرر به خودی خود می‌نوازد. سپس صحنه تغییر می کند"
+      },
+      "source": {
+        "en": "Deadline",
+        "fa": "Deadline"
+      },
+      "link": "https://deadline.com/2026/08/monster-the-lizzie-borden-story-trailer-ryan-murphy-netflix-1237030567/",
+      "date": "2026-08-11T16:48:20.752517+00:00",
+      "image": "https://deadline.com/wp-content/uploads/2026/08/Monster__The_Lizzie_Borden_Story_n_S1_E1_00_04_56_09R_C_4c568f-e1785860955922.jpg",
+      "important": true,
+      "score": 4
     },
     {
       "id": "d841709d7c08",
@@ -117,7 +213,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/features/interviews/rose-markus-schleinzer-sandra-huller-interview-1235209440/",
-      "date": "2026-08-11T15:51:53.538631+00:00",
+      "date": "2026-08-11T16:48:20.762398+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/GettyImages-2261759273.jpg?w=650",
       "important": false,
       "score": 3
@@ -141,56 +237,32 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/features/craft/mars-attacks-30th-anniversary-making-of-1235209277/",
-      "date": "2026-08-11T15:51:53.538041+00:00",
+      "date": "2026-08-11T16:48:20.761567+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/MSDMAAT_EC014.jpg?w=650",
       "important": false,
       "score": 3
     },
     {
-      "id": "a2810a750ca0",
+      "id": "0a5e9175dee1",
       "title": {
-        "en": "Jeff the Killer Movie in Development From TikTok Creator Savanah Moss and Tongal | Exclusive",
-        "fa": "فیلم جف قاتل در حال ساخت توسط خالق TikTok ساوانا ماس و تونگال | انحصاری"
+        "en": "Tom McCarthy’s ‘A Statement’ to Make World Premiere at New York Film Festival",
+        "fa": "«بیانیه» تام مک کارتی برای اولین بار در جشنواره فیلم نیویورک"
       },
       "excerpt": {
-        "en": "After the success of \"Backrooms,\" the project continues the trend of studios adapting viral creepypasta threads The post Jeff the Killer Movie in Development From TikTok Creator Savanah Moss and Tongal | Exclusive appeared first on TheWrap .",
-        "fa": "پس از موفقیت \"Backrooms\"، این پروژه به روند استودیوهایی ادامه می دهد که رشته های ویروسی creepypasta را تطبیق می دهند."
+        "en": "Jonathan Glazer's \"Joy of Joys\" will also make its debut at the fest, which runs Sept. 25-Oct. 12, 2026 The post Tom McCarthy’s ‘A Statement’ to Make World Premiere at New York Film Festival appeared first on TheWrap .",
+        "fa": "«لذت شادی‌ها» جاناتان گلیزر نیز در این جشنواره که از 25 سپتامبر تا 25 اکتبر برگزار می‌شود، اولین نمایش خود را خواهد داشت. 12، 2026"
       },
       "content": {
-        "en": "After the success of \"Backrooms,\" the project continues the trend of studios adapting viral creepypasta threads The post Jeff the Killer Movie in Development From TikTok Creator Savanah Moss and Tongal | Exclusive appeared first on TheWrap .",
-        "fa": "پس از موفقیت \"Backrooms\"، این پروژه به روند استودیوهایی ادامه می دهد که رشته های ویروسی creepypasta را تطبیق می دهند."
+        "en": "Jonathan Glazer's \"Joy of Joys\" will also make its debut at the fest, which runs Sept. 25-Oct. 12, 2026 The post Tom McCarthy’s ‘A Statement’ to Make World Premiere at New York Film Festival appeared first on TheWrap .",
+        "fa": "«لذت شادی‌ها» جاناتان گلیزر نیز در این جشنواره که از 25 سپتامبر تا 25 اکتبر برگزار می‌شود، اولین نمایش خود را خواهد داشت. 12، 2026"
       },
       "source": {
         "en": "The Wrap",
         "fa": "The Wrap"
       },
-      "link": "https://www.thewrap.com/creative-content/movies/jeff-the-killer-movie-development-savanah-moss-tongal/",
-      "date": "2026-08-11T15:51:53.537359+00:00",
-      "image": "https://www.thewrap.com/wp-content/uploads/2026/08/Untitled-design.jpg",
-      "important": false,
-      "score": 3
-    },
-    {
-      "id": "68a284996e24",
-      "title": {
-        "en": "Zoe Kazan’s ‘East of Eden’ Series, Colin Kaepernick, Padma Lakshmi Join Atlantic Festival Lineup (Exclusive)",
-        "fa": "مجموعه‌های «شرق عدن» زوئی کازان، کالین کپرنیک، پادما لاکشمی به مجموعه جشنواره آتلانتیک می‌پیوندند."
-      },
-      "excerpt": {
-        "en": "The event, taking place in New York from Sept. 17-19, will also feature talks with Richard Linklater, Ben McKenzie and Malcolm Gladwell.",
-        "fa": "این رویداد که از 17 تا 19 سپتامبر در نیویورک برگزار می شود، همچنین با ریچارد لینکلیتر، بن مک کنزی و مالکوم گلدول گفتگو خواهد کرد."
-      },
-      "content": {
-        "en": "The event, taking place in New York from Sept. 17-19, will also feature talks with Richard Linklater, Ben McKenzie and Malcolm Gladwell.",
-        "fa": "این رویداد که از 17 تا 19 سپتامبر در نیویورک برگزار می شود، همچنین با ریچارد لینکلیتر، بن مک کنزی و مالکوم گلدول گفتگو خواهد کرد."
-      },
-      "source": {
-        "en": "The Hollywood Reporter",
-        "fa": "The Hollywood Reporter"
-      },
-      "link": "https://www.hollywoodreporter.com/tv/tv-news/atlantic-festival-2026-east-of-eden-colin-kaepernick-1236670719/",
-      "date": "2026-08-11T15:51:53.535647+00:00",
-      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/Kazan-Kaepernick-Lakshmi-Split-Main-2026.jpg?w=1296&#038;h=730&#038;crop=1",
+      "link": "https://www.thewrap.com/industry-news/awards/tom-mccarthy-a-statement-world-premiere-new-york-film-festival-2026/",
+      "date": "2026-08-11T16:48:20.760539+00:00",
+      "image": "https://i0.wp.com/www.thewrap.com/wp-content/uploads/2026/08/1-1.png?fit=1280%2C720&quality=80&ssl=1",
       "important": false,
       "score": 3
     },
@@ -213,127 +285,127 @@
         "fa": "The Hollywood Reporter"
       },
       "link": "https://www.hollywoodreporter.com/movies/movie-news/la-bola-negra-la-nieve-2027-best-original-song-oscar-race-1236669870/",
-      "date": "2026-08-11T15:51:53.535229+00:00",
+      "date": "2026-08-11T16:48:20.758319+00:00",
       "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/LBN_20250905_0279_carlaoset-1.jpg?w=1440&#038;h=810&#038;crop=1",
       "important": false,
       "score": 3
     },
     {
-      "id": "280d97ba63b8",
+      "id": "a2cc336b6351",
       "title": {
-        "en": "Jessica Reynolds and Charlotte Rampling to Star in Opera Drama ‘Maya Butterfly’ (EXCLUSIVE)",
-        "fa": "جسیکا رینولدز و شارلوت رمپلینگ در اپرای درام «مایا پروانه» بازی خواهند کرد"
+        "en": "Rory Scovel Lost His Dad. His Comedy Has Never Been Better.",
+        "fa": "روری اسکاول پدرش را از دست داد. کمدی او هرگز بهتر نبوده است."
       },
       "excerpt": {
-        "en": "Fast-rising star Jessica Reynolds (“Kneecap,” “A Woman of Substance”) and Oscar-nominated screen icon Charlotte Rampling (“45 Years,” “Under the Sand”) are teaming up for Irish psychological drama “Maya Butterfly,” set in the world of opera and described as “Tár” meets “Sound of Metal.” The project, which comes from Hail Mary Pictures and has been acquired […]",
-        "fa": "جسیکا رینولدز ستاره پرشور و شارلوت رمپلینگ، بازیگر نامزد اسکار، برای درام روان‌شناختی ایرلندی «مایا باترفلای» که در دنیای اپرا اتفاق می‌افتد و با توصیف «تار» با «صدای فلز» توصیف می‌شود، با یکدیگر همکاری می‌کنند. این پروژه که از Hail Mary Pictures می آید و خریداری شده است"
+        "en": "With a new Netflix special, 'Rory Scovel: Show Must Go On,' the veteran comic turns inward as he explores topics including his own grief.",
+        "fa": "با ویژه‌نامه جدید نتفلیکس، «روری اسکاول: نمایش باید ادامه یابد»، این کمیک کهنه کار به درون می‌چرخد و موضوعاتی از جمله غم و اندوه خود را بررسی می‌کند."
       },
       "content": {
-        "en": "Fast-rising star Jessica Reynolds (“Kneecap,” “A Woman of Substance”) and Oscar-nominated screen icon Charlotte Rampling (“45 Years,” “Under the Sand”) are teaming up for Irish psychological drama “Maya Butterfly,” set in the world of opera and described as “Tár” meets “Sound of Metal.” The project, which comes from Hail Mary Pictures and has been acquired […]",
-        "fa": "جسیکا رینولدز ستاره پرشور و شارلوت رمپلینگ، بازیگر نامزد اسکار، برای درام روان‌شناختی ایرلندی «مایا باترفلای» که در دنیای اپرا اتفاق می‌افتد و با توصیف «تار» با «صدای فلز» توصیف می‌شود، با یکدیگر همکاری می‌کنند. این پروژه که از Hail Mary Pictures می آید و خریداری شده است"
+        "en": "With a new Netflix special, 'Rory Scovel: Show Must Go On,' the veteran comic turns inward as he explores topics including his own grief.",
+        "fa": "با ویژه‌نامه جدید نتفلیکس، «روری اسکاول: نمایش باید ادامه یابد»، این کمیک کهنه کار به درون می‌چرخد و موضوعاتی از جمله غم و اندوه خود را بررسی می‌کند."
+      },
+      "source": {
+        "en": "The Hollywood Reporter",
+        "fa": "The Hollywood Reporter"
+      },
+      "link": "https://www.hollywoodreporter.com/tv/tv-features/rory-scovel-show-must-go-on-netflix-special-interview-1236670413/",
+      "date": "2026-08-11T16:48:20.757772+00:00",
+      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/Rory-Scovel-Main-2026.jpg?w=1296&#038;h=730&#038;crop=1",
+      "important": false,
+      "score": 3
+    },
+    {
+      "id": "6bdf6c7775c6",
+      "title": {
+        "en": "RioFilme to Announce New Incentives for International Co-Productions, Unveiling Them at Brazil’s Gramado Fest (EXCLUSIVE)",
+        "fa": "RioFilme مشوق های جدیدی را برای تولید مشترک بین المللی اعلام می کند و از آنها در جشنواره Gramado برزیل رونمایی می کند."
+      },
+      "excerpt": {
+        "en": "RioFilme, the film-TV agency of Rio de Janeiro City, will launch a call for proposals amounting to R$15 million ($3 million) for up to four international co-production projects involving Rio-based companies. Leonardo Edde, president of RioFilme, told Variety that projects of fiction and animated feature films are eligible to apply and that he will provide […]",
+        "fa": "RioFilme، آژانس فیلم-تلویزیون شهر ریودوژانیرو، فراخوانی را برای پیشنهادات به مبلغ 15 میلیون دلار برای حداکثر چهار پروژه بین المللی تولید مشترک با شرکت های مستقر در ریو راه اندازی خواهد کرد. لئوناردو اد، رئیس RioFilme، به Variety گفت که پروژه‌های داستانی و فیلم‌های انیمیشنی واجد شرایط درخواست هستند و او ارائه خواهد کرد."
+      },
+      "content": {
+        "en": "RioFilme, the film-TV agency of Rio de Janeiro City, will launch a call for proposals amounting to R$15 million ($3 million) for up to four international co-production projects involving Rio-based companies. Leonardo Edde, president of RioFilme, told Variety that projects of fiction and animated feature films are eligible to apply and that he will provide […]",
+        "fa": "RioFilme، آژانس فیلم-تلویزیون شهر ریودوژانیرو، فراخوانی را برای پیشنهادات به مبلغ 15 میلیون دلار برای حداکثر چهار پروژه بین المللی تولید مشترک با شرکت های مستقر در ریو راه اندازی خواهد کرد. لئوناردو اد، رئیس RioFilme، به Variety گفت که پروژه‌های داستانی و فیلم‌های انیمیشنی واجد شرایط درخواست هستند و او ارائه خواهد کرد."
       },
       "source": {
         "en": "Variety",
         "fa": "Variety"
       },
-      "link": "https://variety.com/2026/film/global/jessica-reynolds-charlotte-rampling-opera-maya-butterfly-1236831409/",
-      "date": "2026-08-11T15:51:53.534468+00:00",
-      "image": "https://variety.com/wp-content/uploads/2026/08/reynolds-rampling.jpg",
+      "link": "https://variety.com/2026/film/global/riofilme-new-incentives-international-co-productions-1236831604/",
+      "date": "2026-08-11T16:48:20.756632+00:00",
+      "image": "https://variety.com/wp-content/uploads/2026/08/Brazilian-Delegation-at-the-Shanghai-Film-Festival-June-2026.-Courtesy-RioFilme.jpg",
       "important": false,
       "score": 3
     },
     {
-      "id": "2f4bbc551cf7",
+      "id": "7db98e4471f4",
       "title": {
-        "en": "WNBA Trailblazer Sheryl Swoopes on How Roku’s ‘Gamechangers: Mother/Athlete’ Documentary Spotlights That Balancing Act",
-        "fa": "شریل، پیشگام WNBA، درباره اینکه چگونه مستند Roku «Gamechangers: Mother/Athlete» در عمل متعادل کننده تمرکز می کند، می گوید"
+        "en": "Mateo Ybarra’s ‘Small Talk,’ a Locarno Premiere, Takes a Peek Into Switzerland’s Last Remaining Etiquette School for Women",
+        "fa": "«صحبت کوچک» متئو یبارا، اولین نمایش در لوکارنو، نگاهی به آخرین مدرسه آداب معاشرت زنانه سوئیس می اندازد."
       },
       "excerpt": {
-        "en": "The Roku Originals documentary, “Gamechangers: Mother/Athlete,” made its world premiere at the 24th annual Martha’s Vineyard African American Film Festival (MVAAFF) on Sunday afternoon. The intimate film is part of Roku’s “Gamechangers” series and follows WNBA stars Sheryl Swoopes, Skylar Diggins-Smith, Bria Hartley, Natalie Achonwa and Allison Feaster as they reflect on the joys and […]",
-        "fa": "مستند Roku Originals، \"Gamechangers: Mother/Athlete\" اولین نمایش جهانی خود را در بیست و چهارمین جشنواره فیلم آمریکایی آفریقایی آمریکایی در بیست و چهارمین جشنواره سالانه Martha's Vineyard انجام داد. این فیلم صمیمی بخشی از سری بازی‌های Roku است و ستاره‌های WNBA، شریل سوپس، اسکایلار دیگینز اسمیت، بریا هارتلی، ناتالی آچونوا و آلیسون فیستر را دنبال می‌کند که در مورد شادی‌ها و شادی‌ها فکر می‌کنند."
+        "en": "“Small Talk,” directed my Mateo Ybarra (“Over Our Hills,” “Summer Camp”), will have its world premiere at the Locarno Film Festival on Aug. 11. The film stars Hélène Bares (“Evy & Me”) as Charlie, who signs up for a summer course at Switzerland’s only remaining etiquette school for women. Her reason for attending is to […]",
+        "fa": "«صحبت کوچک» به کارگردانی ماتئو یبارای من، اولین نمایش جهانی خود را در جشنواره فیلم لوکارنو در 11 اوت خواهد داشت. در این فیلم هلن بارس در نقش چارلی بازی می کند که برای یک دوره تابستانی در تنها مدرسه آداب معاشرت زنانه باقی مانده در سوئیس ثبت نام می کند. دلیل حضور او این است که"
       },
       "content": {
-        "en": "The Roku Originals documentary, “Gamechangers: Mother/Athlete,” made its world premiere at the 24th annual Martha’s Vineyard African American Film Festival (MVAAFF) on Sunday afternoon. The intimate film is part of Roku’s “Gamechangers” series and follows WNBA stars Sheryl Swoopes, Skylar Diggins-Smith, Bria Hartley, Natalie Achonwa and Allison Feaster as they reflect on the joys and […]",
-        "fa": "مستند Roku Originals، \"Gamechangers: Mother/Athlete\" اولین نمایش جهانی خود را در بیست و چهارمین جشنواره فیلم آمریکایی آفریقایی آمریکایی در بیست و چهارمین جشنواره سالانه Martha's Vineyard انجام داد. این فیلم صمیمی بخشی از سری بازی‌های Roku است و ستاره‌های WNBA، شریل سوپس، اسکایلار دیگینز اسمیت، بریا هارتلی، ناتالی آچونوا و آلیسون فیستر را دنبال می‌کند که در مورد شادی‌ها و شادی‌ها فکر می‌کنند."
+        "en": "“Small Talk,” directed my Mateo Ybarra (“Over Our Hills,” “Summer Camp”), will have its world premiere at the Locarno Film Festival on Aug. 11. The film stars Hélène Bares (“Evy & Me”) as Charlie, who signs up for a summer course at Switzerland’s only remaining etiquette school for women. Her reason for attending is to […]",
+        "fa": "«صحبت کوچک» به کارگردانی ماتئو یبارای من، اولین نمایش جهانی خود را در جشنواره فیلم لوکارنو در 11 اوت خواهد داشت. در این فیلم هلن بارس در نقش چارلی بازی می کند که برای یک دوره تابستانی در تنها مدرسه آداب معاشرت زنانه باقی مانده در سوئیس ثبت نام می کند. دلیل حضور او این است که"
       },
       "source": {
         "en": "Variety",
         "fa": "Variety"
       },
-      "link": "https://variety.com/2026/film/news/sheryl-swoopes-director-christine-turner-motherhood-career-roku-gamechangers-mother-athlete-1236831641/",
-      "date": "2026-08-11T15:51:53.533951+00:00",
-      "image": "https://variety.com/wp-content/uploads/2026/08/P1029WYP.jpg",
+      "link": "https://variety.com/2026/film/global/mateo-ybarra-small-talk-locarno-world-premiere-doc-fiction-1236831189/",
+      "date": "2026-08-11T16:48:20.756295+00:00",
+      "image": "https://variety.com/wp-content/uploads/2026/08/1_Scene_1.1.31.jpg",
       "important": false,
       "score": 3
     },
     {
-      "id": "4d5e8bee92c7",
+      "id": "c598ebe54f28",
       "title": {
-        "en": "Damon Wayans Inks With Verve",
-        "fa": "دیمون وینز جوهر با Verve"
+        "en": "Goya-Nominated Zoe Bonafonte Leads Spain-Argentina Soccer Pioneer Drama ‘Veleta’ (EXCLUSIVE)",
+        "fa": "زوئه بونافونته نامزد گویا درام «ولتا» پیشگام فوتبال اسپانیا و آرژانتین را رهبری می کند"
       },
       "excerpt": {
-        "en": "EXCLUSIVE: Fresh off a guest star role in an upcoming episode of NBC’s St. Denis Medical, Damon Wayans has signed with Verve for representation. A writer, actor, producer, comedian, and patriarch of one of comedy’s most enduring dynasties, Wayans is best known as a co-creator and star of the groundbreaking sketch comedy series In Living Color — the first […]",
-        "fa": "انحصاری: دیمون وینز با تازه‌ترین نقش ستاره مهمان در قسمت آتی سریال St. Denis Medical NBC، برای نمایندگی با Verve قرارداد امضا کرد. نویسنده، بازیگر، تهیه‌کننده، کمدین و پدرسالار یکی از ماندگارترین سلسله‌های کمدی، وینز بیشتر به عنوان یکی از خالقان و ستاره سریال کمدی پیشگامانه In Living Color شناخته می‌شود."
+        "en": "Goya-nominated actress Zoe Bonafonte (“El 47”) will play Spain’s first female soccer player, Ana “Nita” Carmona Ruiz, in “Veleta,” a Spain-Argentina co-production directed and co-written by Paco Torres (“The Magic of Hope”) and now shooting in Andalusia. Goya winner Dani Rovira and “Vikings” actor Moe Dunford also star. Amaya Muruzábal, creator of “Hernán” and showrunner […]",
+        "fa": "زوئه بونافونته، بازیگر نامزد گویا، نقش اولین فوتبالیست زن اسپانیایی، آنا «نیتا» کارمونا روئیز را در «ولتا»، محصول مشترک اسپانیا و آرژانتین به کارگردانی و نویسندگی پاکو تورس بازی خواهد کرد که اکنون در اندلس فیلمبرداری می‌شود. دنی روویرا، برنده گویا و مو دانفورد، بازیگر \"وایکینگ ها\" نیز در این فیلم ایفای نقش می کنند. Amaya Muruzábal، خالق \"Hernán\" و مجری برنامه"
       },
       "content": {
-        "en": "EXCLUSIVE: Fresh off a guest star role in an upcoming episode of NBC’s St. Denis Medical, Damon Wayans has signed with Verve for representation. A writer, actor, producer, comedian, and patriarch of one of comedy’s most enduring dynasties, Wayans is best known as a co-creator and star of the groundbreaking sketch comedy series In Living Color — the first […]",
-        "fa": "انحصاری: دیمون وینز با تازه‌ترین نقش ستاره مهمان در قسمت آتی سریال St. Denis Medical NBC، برای نمایندگی با Verve قرارداد امضا کرد. نویسنده، بازیگر، تهیه‌کننده، کمدین و پدرسالار یکی از ماندگارترین سلسله‌های کمدی، وینز بیشتر به عنوان یکی از خالقان و ستاره سریال کمدی پیشگامانه In Living Color شناخته می‌شود."
+        "en": "Goya-nominated actress Zoe Bonafonte (“El 47”) will play Spain’s first female soccer player, Ana “Nita” Carmona Ruiz, in “Veleta,” a Spain-Argentina co-production directed and co-written by Paco Torres (“The Magic of Hope”) and now shooting in Andalusia. Goya winner Dani Rovira and “Vikings” actor Moe Dunford also star. Amaya Muruzábal, creator of “Hernán” and showrunner […]",
+        "fa": "زوئه بونافونته، بازیگر نامزد گویا، نقش اولین فوتبالیست زن اسپانیایی، آنا «نیتا» کارمونا روئیز را در «ولتا»، محصول مشترک اسپانیا و آرژانتین به کارگردانی و نویسندگی پاکو تورس بازی خواهد کرد که اکنون در اندلس فیلمبرداری می‌شود. دنی روویرا، برنده گویا و مو دانفورد، بازیگر \"وایکینگ ها\" نیز در این فیلم ایفای نقش می کنند. Amaya Muruzábal، خالق \"Hernán\" و مجری برنامه"
       },
       "source": {
-        "en": "Deadline",
-        "fa": "Deadline"
+        "en": "Variety",
+        "fa": "Variety"
       },
-      "link": "https://deadline.com/2026/08/damon-wayans-signs-verve-1237030176/",
-      "date": "2026-08-11T15:51:53.532506+00:00",
-      "image": "https://deadline.com/wp-content/uploads/2026/08/damon-wayans-verve-split.png",
+      "link": "https://variety.com/2026/film/markets-festivals/zoe-bonafonte-veleta-spain-argentina-soccer-drama-1236831557/",
+      "date": "2026-08-11T16:48:20.754612+00:00",
+      "image": "https://variety.com/wp-content/uploads/2026/08/Zoe-Bonafonte-1-e1786389973245.jpg",
       "important": false,
       "score": 3
     },
     {
-      "id": "1d77288d00af",
+      "id": "fde03efa747b",
       "title": {
-        "en": "TIFF Adds Martin McDonagh’s ‘Wild Horse Nine’, Werner Herzog’s ‘Bucking Fastard’, ‘The Idiot(s)’ & More To Lineup",
-        "fa": "TIFF «اسب وحشی نه» از مارتین مک‌دونا، «باکینگ فستارد» ورنر هرتزوگ، «احمق» و موارد دیگر را به ترکیب اضافه می‌کند."
+        "en": "Brandy Sings New Rendition Of ‘A Different World’ Theme Song For Netflix Sequel Series",
+        "fa": "براندی برای سریال دنباله‌دار نتفلیکس نسخه جدیدی از آهنگ تم «دنیای متفاوت» را می‌خواند"
       },
       "excerpt": {
-        "en": "The 51st edition of the Toronto Film Festival rounded out its schedule today with 11 more films bringing this year’s count to 293 titles. Of note, following the world premieres at Venice, Searchlight’s Martin McDonagh film Wild Horse Nine, Werner Herzog’s Rooney and Kate Mara movie Bucking Fastard, and Nanni Moretti’s It Will Happen One […]",
-        "fa": "پنجاه و یکمین دوره جشنواره فیلم تورنتو امروز با 11 فیلم دیگر برنامه خود را تکمیل کرد که تعداد فیلم‌های امسال را به 293 رساند. نکته قابل توجه، پس از نمایش جهانی در ونیز، فیلم «اسب وحشی نه» از مارتین مک‌دونا از سرچ لایت، فیلم «باکینگ فستارد» به کارگردانی ورنر هرتزوگ، رونی و کیت مارا، و «این اتفاق خواهد افتاد یک» ساخته نانی مورتی"
+        "en": "Following in the footsteps of Phoebe Snow, Aretha Franklin and Boys II Men, Brandy will sing the theme song for A Different World. Viewers will hear the new rendition ahead of each new episode of the Netflix sequel series releasing September 24, or by watching an early preview above. “Singing this iconic theme song for […]",
+        "fa": "براندی با پیروی از فیبی اسنو، آرتا فرانکلین و پسران دوم مردان، تم آهنگ A Different World را خواهد خواند. بینندگان اجرای جدید را قبل از هر قسمت جدید از مجموعه دنباله‌ای نتفلیکس که در 24 سپتامبر منتشر می‌شود، یا با تماشای یک پیش‌نمایش اولیه در بالا می‌شنوند. \"خواندن این آهنگ تم نمادین برای"
       },
       "content": {
-        "en": "The 51st edition of the Toronto Film Festival rounded out its schedule today with 11 more films bringing this year’s count to 293 titles. Of note, following the world premieres at Venice, Searchlight’s Martin McDonagh film Wild Horse Nine, Werner Herzog’s Rooney and Kate Mara movie Bucking Fastard, and Nanni Moretti’s It Will Happen One […]",
-        "fa": "پنجاه و یکمین دوره جشنواره فیلم تورنتو امروز با 11 فیلم دیگر برنامه خود را تکمیل کرد که تعداد فیلم‌های امسال را به 293 رساند. نکته قابل توجه، پس از نمایش جهانی در ونیز، فیلم «اسب وحشی نه» از مارتین مک‌دونا از سرچ لایت، فیلم «باکینگ فستارد» به کارگردانی ورنر هرتزوگ، رونی و کیت مارا، و «این اتفاق خواهد افتاد یک» ساخته نانی مورتی"
-      },
-      "source": {
-        "en": "Deadline",
-        "fa": "Deadline"
-      },
-      "link": "https://deadline.com/2026/08/tiff-2026-additional-films-wild-horse-nine-bucking-fastard-1237030965/",
-      "date": "2026-08-11T15:51:53.532279+00:00",
-      "image": "https://deadline.com/wp-content/uploads/2026/08/Wild-Horse-Nine-Bucking-Fastard.jpg",
-      "important": false,
-      "score": 3
-    },
-    {
-      "id": "19f7ca9fc433",
-      "title": {
-        "en": "Brandy Sings New Rendition Of ‘A Different World’ Sequel Series Theme Song",
-        "fa": "براندی اجرای جدید آهنگ تم سری دنباله «دنیای متفاوت» را می خواند"
-      },
-      "excerpt": {
-        "en": "Following in the footsteps of Phoebe Snow, Aretha Franklin and Boys II Men, Brandy will sing the theme song for A Different World. Fans will be able to enjoy hearing the new rendition ahead of each new episode of the Netflix sequel series releasing on September 24, or by watching an early preview above. “Singing […]",
-        "fa": "براندی با پیروی از فیبی اسنو، آرتا فرانکلین و پسران دوم مردان، تم آهنگ A Different World را خواهد خواند. طرفداران می توانند از شنیدن اجرای جدید قبل از هر قسمت جدید از مجموعه دنباله نتفلیکس که در 24 سپتامبر منتشر می شود، یا با تماشای پیش نمایش اولیه در بالا، لذت ببرند. \"آواز خواندن"
-      },
-      "content": {
-        "en": "Following in the footsteps of Phoebe Snow, Aretha Franklin and Boys II Men, Brandy will sing the theme song for A Different World. Fans will be able to enjoy hearing the new rendition ahead of each new episode of the Netflix sequel series releasing on September 24, or by watching an early preview above. “Singing […]",
-        "fa": "براندی با پیروی از فیبی اسنو، آرتا فرانکلین و پسران دوم مردان، تم آهنگ A Different World را خواهد خواند. طرفداران می توانند از شنیدن اجرای جدید قبل از هر قسمت جدید از مجموعه دنباله نتفلیکس که در 24 سپتامبر منتشر می شود، یا با تماشای پیش نمایش اولیه در بالا، لذت ببرند. \"آواز خواندن"
+        "en": "Following in the footsteps of Phoebe Snow, Aretha Franklin and Boys II Men, Brandy will sing the theme song for A Different World. Viewers will hear the new rendition ahead of each new episode of the Netflix sequel series releasing September 24, or by watching an early preview above. “Singing this iconic theme song for […]",
+        "fa": "براندی با پیروی از فیبی اسنو، آرتا فرانکلین و پسران دوم مردان، تم آهنگ A Different World را خواهد خواند. بینندگان اجرای جدید را قبل از هر قسمت جدید از مجموعه دنباله‌ای نتفلیکس که در 24 سپتامبر منتشر می‌شود، یا با تماشای یک پیش‌نمایش اولیه در بالا می‌شنوند. \"خواندن این آهنگ تم نمادین برای"
       },
       "source": {
         "en": "Deadline",
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/brandy-sing-a-different-world-sequel-series-theme-song-1237029653/",
-      "date": "2026-08-11T15:51:53.532185+00:00",
+      "date": "2026-08-11T16:48:20.754237+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/IMG_4035_R.jpg",
       "important": false,
       "score": 3
@@ -357,32 +429,8 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/bugatti-final-race-camille-delamarre-andrea-iervolino-1237031010/",
-      "date": "2026-08-11T15:51:53.531795+00:00",
+      "date": "2026-08-11T16:48:20.753691+00:00",
       "image": "https://deadline.com/wp-content/uploads/2024/10/Ettore-Bugati.jpg",
-      "important": false,
-      "score": 3
-    },
-    {
-      "id": "b33f32de7b2d",
-      "title": {
-        "en": "Tom McCarthy’s ‘A Statement’, Jonathan Glazer Documentary ‘Joy Of Joys’ To World Premiere At New York Film Festival",
-        "fa": "فیلم «یک بیانیه» ساخته تام مک کارتی، مستند «لذت شادی‌ها» جاناتان گلیزر برای اولین بار در جشنواره فیلم نیویورک به نمایش درآمد."
-      },
-      "excerpt": {
-        "en": "Tom McCarthy’s A Statement and a new documentary by Jonathan Glazer, Joy of Joys, join Takashi Yamazaki’s Godzilla Minus Zero as world premieres at this year’s New York Film Festival, as part of the festival’s Spotlight section revealed Tuesday. McCarthy’s A Statement is an ensemble piece set at a beachside resort in Florida in 1980 […]",
-        "fa": "بیانیه ای از تام مک کارتی و مستند جدیدی از جاناتان گلیزر با نام Joy of Joys به گودزیلا منهای صفر ساخته تاکاشی یامازاکی برای اولین بار در جشنواره فیلم نیویورک امسال به عنوان بخشی از بخش Spotlight جشنواره به نمایش در آمدند. McCarthy's A Statement یک قطعه مجموعه ای است که در یک استراحتگاه ساحلی در فلوریدا در سال 1980 تنظیم می شود."
-      },
-      "content": {
-        "en": "Tom McCarthy’s A Statement and a new documentary by Jonathan Glazer, Joy of Joys, join Takashi Yamazaki’s Godzilla Minus Zero as world premieres at this year’s New York Film Festival, as part of the festival’s Spotlight section revealed Tuesday. McCarthy’s A Statement is an ensemble piece set at a beachside resort in Florida in 1980 […]",
-        "fa": "بیانیه ای از تام مک کارتی و مستند جدیدی از جاناتان گلیزر با نام Joy of Joys به گودزیلا منهای صفر ساخته تاکاشی یامازاکی برای اولین بار در جشنواره فیلم نیویورک امسال به عنوان بخشی از بخش Spotlight جشنواره به نمایش در آمدند. McCarthy's A Statement یک قطعه مجموعه ای است که در یک استراحتگاه ساحلی در فلوریدا در سال 1980 تنظیم می شود."
-      },
-      "source": {
-        "en": "Deadline",
-        "fa": "Deadline"
-      },
-      "link": "https://deadline.com/2026/08/new-york-film-festival-tom-mccarthy-jonathan-glazer-world-premieres-1237030698/",
-      "date": "2026-08-11T15:51:53.531404+00:00",
-      "image": "https://deadline.com/wp-content/uploads/2026/08/Screenshot-2026-08-10-at-9.25.16-PM.png",
       "important": false,
       "score": 3
     },
@@ -393,190 +441,142 @@
         "fa": "عنوان تورنتو پیتر هو سان چان «جاده ای که طی نشده است» توسط موبیوس برای فروش انتخاب شد"
       },
       "excerpt": {
-        "en": "Hong Kong-based Moebius Entertainment has acquired international sales rights to Peter Ho-sun Chan’s The Road Not Taken, which is set to receive its world premiere in the Special Presentations section of this year’s Toronto International Film Festival. Chan was previously at TIFF with She Has No Name, starring Zhang Ziyi, which screened at the festival […]",
-        "fa": "Moebius Entertainment مستقر در هنگ کنگ حقوق فروش بین المللی فیلم The Road Not Taken اثر پیتر هو سان چان را به دست آورده است که قرار است اولین نمایش جهانی خود را در بخش ارائه های ویژه جشنواره بین المللی فیلم تورنتو امسال دریافت کند. چان قبلا در TIFF با بازی She Has No Name با بازی ژانگ زییی حضور داشت که در جشنواره نمایش داده شد."
+        "en": "Hong Kong-based Moebius Entertainment has acquired international sales rights to Peter Ho-sun Chan’s The Road Not Taken, which is set to receive its world premiere in the Special Presentations section of this year’s Toronto International Film Festival. Starring Zhou Xun, Wang Xiao and Tian Zhuangzhuang, the film revolves around a middle-aged former TV host whose […]",
+        "fa": "Moebius Entertainment مستقر در هنگ کنگ حقوق فروش بین المللی فیلم The Road Not Taken اثر پیتر هو سان چان را به دست آورده است که قرار است اولین نمایش جهانی خود را در بخش ارائه های ویژه جشنواره بین المللی فیلم تورنتو امسال دریافت کند. این فیلم با بازی ژو ژون، وانگ شیائو و تیان ژوانگ ژوانگ حول محور یک مجری سابق تلویزیونی میانسال می گذرد."
       },
       "content": {
-        "en": "Hong Kong-based Moebius Entertainment has acquired international sales rights to Peter Ho-sun Chan’s The Road Not Taken, which is set to receive its world premiere in the Special Presentations section of this year’s Toronto International Film Festival. Chan was previously at TIFF with She Has No Name, starring Zhang Ziyi, which screened at the festival […]",
-        "fa": "Moebius Entertainment مستقر در هنگ کنگ حقوق فروش بین المللی فیلم The Road Not Taken اثر پیتر هو سان چان را به دست آورده است که قرار است اولین نمایش جهانی خود را در بخش ارائه های ویژه جشنواره بین المللی فیلم تورنتو امسال دریافت کند. چان قبلا در TIFF با بازی She Has No Name با بازی ژانگ زییی حضور داشت که در جشنواره نمایش داده شد."
+        "en": "Hong Kong-based Moebius Entertainment has acquired international sales rights to Peter Ho-sun Chan’s The Road Not Taken, which is set to receive its world premiere in the Special Presentations section of this year’s Toronto International Film Festival. Starring Zhou Xun, Wang Xiao and Tian Zhuangzhuang, the film revolves around a middle-aged former TV host whose […]",
+        "fa": "Moebius Entertainment مستقر در هنگ کنگ حقوق فروش بین المللی فیلم The Road Not Taken اثر پیتر هو سان چان را به دست آورده است که قرار است اولین نمایش جهانی خود را در بخش ارائه های ویژه جشنواره بین المللی فیلم تورنتو امسال دریافت کند. این فیلم با بازی ژو ژون، وانگ شیائو و تیان ژوانگ ژوانگ حول محور یک مجری سابق تلویزیونی میانسال می گذرد."
       },
       "source": {
         "en": "Deadline",
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/toronto-road-not-taken-peter-ho-sun-chan-moebius-1237031100/",
-      "date": "2026-08-11T15:51:53.530355+00:00",
-      "image": "https://deadline.com/wp-content/uploads/2026/08/The-Road-Not-Taken-1.jpg",
+      "date": "2026-08-11T16:48:20.753016+00:00",
+      "image": "https://deadline.com/wp-content/uploads/2026/08/The-Road-Not-Taken-2.jpg",
       "important": false,
       "score": 3
     },
     {
-      "id": "26deb368a7c8",
+      "id": "966a00964f1d",
       "title": {
-        "en": "Ari Emanuel’s Mari Acquires ATG Entertainment, Theater Owner Behind ‘Wicked’ and ‘Harry Potter and the Cursed Child’ Productions",
-        "fa": "ماری به کارگردانی آری امانوئل ATG Entertainment، صاحب تئاتر پشت تولیدات \"Wicked\" و \"Harry Potter and the Cursed Child\" را به دست آورد."
+        "en": "Veronika Slowikowska To Topline Comedy ‘Stephanie, Bride To Be’ From Executive Producer John Wilson; Michael Imperioli & Amy Sedaris Among Others Set",
+        "fa": "ورونیکا اسلوویکوفسکا در تاپ لاین کمدی «استفانی، عروس در آینده» از تهیه کننده اجرایی جان ویلسون؛ مجموعه مایکل ایمپریولی و امی سداریس در میان دیگران"
       },
       "excerpt": {
-        "en": "Mari, Ari Emanuel’s global events and experiences company, has agreed to acquire U.K.-based theater giant ATG Entertainment from Providence Equity Partners in a multibillion-dollar deal. ATG operates a total of 70 venues across the U.K., U.S., Germany and Spain, including 10 on London’s West End and seven on Broadway, with its business also spanning production […]",
-        "fa": "ماری، شرکت رویدادها و تجربیات جهانی آری امانوئل، با خرید غول تئاتر بریتانیایی ATG Entertainment از Providence Equity Partners در قراردادی چند میلیارد دلاری موافقت کرده است. ATG در مجموع 70 مکان را در سراسر بریتانیا، ایالات متحده، آلمان و اسپانیا، از جمله 10 مکان در West End لندن و هفت مکان در برادوی اداره می‌کند و تجارت آن نیز تولید را در بر می‌گیرد."
+        "en": "EXCLUSIVE: SNL‘s Veronika Slowikowska is set to topline Stephanie, Bride to Be, a comedy marking the directorial debut of Allie Viti and the first narrative feature from exec producer John Wilson (How To with John Wilson). Michael Imperioli (The Sopranos), Amy Sedaris (Kevin), Lea DeLaria (Orange Is the New Black), and Reina Hardesty (Butterfly) will co-star, with […]",
+        "fa": "انحصاری: ورونیکا اسلوویکوفسکا از SNL قرار است نقش اصلی فیلم استفانی، عروس برای بودن را داشته باشد، کمدی که اولین کارگردانی آلی ویتی و اولین فیلم داستانی از جان ویلسون تهیه کننده اجرایی است. مایکل ایمپریولی، امی سداریس، لیا دلاریا و رینا هاردستی در این فیلم به ایفای نقش خواهند پرداخت."
       },
       "content": {
-        "en": "Mari, Ari Emanuel’s global events and experiences company, has agreed to acquire U.K.-based theater giant ATG Entertainment from Providence Equity Partners in a multibillion-dollar deal. ATG operates a total of 70 venues across the U.K., U.S., Germany and Spain, including 10 on London’s West End and seven on Broadway, with its business also spanning production […]",
-        "fa": "ماری، شرکت رویدادها و تجربیات جهانی آری امانوئل، با خرید غول تئاتر بریتانیایی ATG Entertainment از Providence Equity Partners در قراردادی چند میلیارد دلاری موافقت کرده است. ATG در مجموع 70 مکان را در سراسر بریتانیا، ایالات متحده، آلمان و اسپانیا، از جمله 10 مکان در West End لندن و هفت مکان در برادوی اداره می‌کند و تجارت آن نیز تولید را در بر می‌گیرد."
-      },
-      "source": {
-        "en": "Variety",
-        "fa": "Variety"
-      },
-      "link": "https://variety.com/2026/biz/global/ari-emanuel-mari-acquires-atg-entertainment-theater-venue-giant-1236832004/",
-      "date": "2026-08-11T15:51:53.534793+00:00",
-      "image": "https://variety.com/wp-content/uploads/2025/09/Ari-Emanuel.jpg",
-      "important": false,
-      "score": 2
-    },
-    {
-      "id": "bdef3322a6b4",
-      "title": {
-        "en": "‘Gentle Monster’ Trailer: Léa Seydoux’s Serene Family Life Is Ripped Apart By Shocking Crimes In Marie Kreutzer’s Film",
-        "fa": "تریلر «هیولای مهربان»: زندگی آرام خانوادگی لئا سیدوکس با جنایات تکان دهنده در فیلم ماری کروتزر از هم می پاشد"
-      },
-      "excerpt": {
-        "en": "At the start of the first teaser trailer for Gentle Monster, we see a montage of home video-style clips of a happy, loving family. That changes when a mother tells her daughter, “Darling, I feel that something is wrong.” In the next scene, the shirtless father/son-in-law answers the door and is told: “We have a […]",
-        "fa": "در شروع اولین تیزر تریلر فیلم Gentle Monster، ما مونتاژی از کلیپ های ویدئویی خانگی از یک خانواده شاد و دوست داشتنی را می بینیم. وقتی مادری به دخترش می‌گوید: «عزیزم، احساس می‌کنم چیزی اشتباه است، این موضوع تغییر می‌کند». در صحنه بعدی، پدر/داماد بدون پیراهن در را پاسخ می دهد و به او می گویند: «ما یک"
-      },
-      "content": {
-        "en": "At the start of the first teaser trailer for Gentle Monster, we see a montage of home video-style clips of a happy, loving family. That changes when a mother tells her daughter, “Darling, I feel that something is wrong.” In the next scene, the shirtless father/son-in-law answers the door and is told: “We have a […]",
-        "fa": "در شروع اولین تیزر تریلر فیلم Gentle Monster، ما مونتاژی از کلیپ های ویدئویی خانگی از یک خانواده شاد و دوست داشتنی را می بینیم. وقتی مادری به دخترش می‌گوید: «عزیزم، احساس می‌کنم چیزی اشتباه است، این موضوع تغییر می‌کند». در صحنه بعدی، پدر/داماد بدون پیراهن در را پاسخ می دهد و به او می گویند: «ما یک"
+        "en": "EXCLUSIVE: SNL‘s Veronika Slowikowska is set to topline Stephanie, Bride to Be, a comedy marking the directorial debut of Allie Viti and the first narrative feature from exec producer John Wilson (How To with John Wilson). Michael Imperioli (The Sopranos), Amy Sedaris (Kevin), Lea DeLaria (Orange Is the New Black), and Reina Hardesty (Butterfly) will co-star, with […]",
+        "fa": "انحصاری: ورونیکا اسلوویکوفسکا از SNL قرار است نقش اصلی فیلم استفانی، عروس برای بودن را داشته باشد، کمدی که اولین کارگردانی آلی ویتی و اولین فیلم داستانی از جان ویلسون تهیه کننده اجرایی است. مایکل ایمپریولی، امی سداریس، لیا دلاریا و رینا هاردستی در این فیلم به ایفای نقش خواهند پرداخت."
       },
       "source": {
         "en": "Deadline",
         "fa": "Deadline"
       },
-      "link": "https://deadline.com/2026/08/gentle-monster-trailer-lea-seydoux-catherine-deneuve-1237030369/",
-      "date": "2026-08-11T15:51:53.532604+00:00",
-      "image": "https://deadline.com/wp-content/uploads/2026/08/Gentle-Monster-2.jpg",
+      "link": "https://deadline.com/2026/08/veronika-slowikowska-to-star-stephanie-bride-to-be-1237031082/",
+      "date": "2026-08-11T16:48:20.752891+00:00",
+      "image": "https://deadline.com/wp-content/uploads/2026/08/deadline_photo_split_06121d.png",
       "important": false,
-      "score": 2
+      "score": 3
     },
     {
-      "id": "7cb3e4e94046",
+      "id": "80712a255cf2",
       "title": {
-        "en": "What Does ‘Spider-Man’ Success Mean for Superhero Fatigue?",
-        "fa": "موفقیت «مرد عنکبوتی» برای خستگی ابرقهرمانی چه معنایی دارد؟"
+        "en": "Gersh Inks Actor Josh Stewart Following Work On Ang Lee’s ‘Gold Mountain’",
+        "fa": "جاش استوارت بازیگر گرش اینکس پس از کار بر روی «کوه طلایی» اثر آنگ لی"
       },
       "excerpt": {
-        "en": "Also in this week's Reel to Real, \"The Odyssey's\" spectacular box office hold, Disney's streaming bet and a surprising new 4K release The post What Does ‘Spider-Man’ Success Mean for Superhero Fatigue? appeared first on TheWrap .",
-        "fa": "همچنین در فیلم Reel to Real این هفته، باکس آفیس تماشایی «اودیسه»، شرط بندی استریم دیزنی و انتشار شگفت انگیز 4K"
+        "en": "EXCLUSIVE: Following work on Ang Lee’s new film Gold Mountain, actor Josh Stewart has inked with Gersh for representation in all areas. Gold Mountain, which recently wrapped production, is an adaptation of C Pam Zhang’s novel How Much of These Hills is Gold, with a script adapted by Pulitzer Prize finalist Chang-Rae Lee. Stewart shares the screen with […]",
+        "fa": "اختصاصی: پس از کار بر روی فیلم جدید آنگ لی، کوه طلایی، جاش استوارت بازیگر با گرش برای نمایندگی در همه زمینه ها جوهر امضا کرده است. کوه طلایی که اخیراً تولید آن به پایان رسیده است، اقتباسی از رمان «چقدر از این تپه‌ها طلاست» نوشته سی پام ژانگ است که فیلمنامه‌ای توسط چانگ رای لی، فینالیست جایزه پولیتزر اقتباس شده است. استوارت صفحه نمایش را با"
       },
       "content": {
-        "en": "Also in this week's Reel to Real, \"The Odyssey's\" spectacular box office hold, Disney's streaming bet and a surprising new 4K release The post What Does ‘Spider-Man’ Success Mean for Superhero Fatigue? appeared first on TheWrap .",
-        "fa": "همچنین در فیلم Reel to Real این هفته، باکس آفیس تماشایی «اودیسه»، شرط بندی استریم دیزنی و انتشار شگفت انگیز 4K"
+        "en": "EXCLUSIVE: Following work on Ang Lee’s new film Gold Mountain, actor Josh Stewart has inked with Gersh for representation in all areas. Gold Mountain, which recently wrapped production, is an adaptation of C Pam Zhang’s novel How Much of These Hills is Gold, with a script adapted by Pulitzer Prize finalist Chang-Rae Lee. Stewart shares the screen with […]",
+        "fa": "اختصاصی: پس از کار بر روی فیلم جدید آنگ لی، کوه طلایی، جاش استوارت بازیگر با گرش برای نمایندگی در همه زمینه ها جوهر امضا کرده است. کوه طلایی که اخیراً تولید آن به پایان رسیده است، اقتباسی از رمان «چقدر از این تپه‌ها طلاست» نوشته سی پام ژانگ است که فیلمنامه‌ای توسط چانگ رای لی، فینالیست جایزه پولیتزر اقتباس شده است. استوارت صفحه نمایش را با"
       },
       "source": {
-        "en": "The Wrap",
-        "fa": "The Wrap"
+        "en": "Deadline",
+        "fa": "Deadline"
       },
-      "link": "https://www.thewrap.com/creative-content/movies/what-spider-man-brand-new-day-box-office-means-superhero-fatigue/",
-      "date": "2026-08-11T15:51:53.537849+00:00",
-      "image": "https://www.thewrap.com/wp-content/uploads/2026/07/Spider-Man_-Brand-New-Day-2.jpg",
+      "link": "https://deadline.com/2026/08/the-odyssey-josh-stewart-signs-gersh-1237031136/",
+      "date": "2026-08-11T16:48:20.752368+00:00",
+      "image": "https://deadline.com/wp-content/uploads/2026/08/photo-split-josh-stewart-gersh.png",
+      "important": false,
+      "score": 3
+    },
+    {
+      "id": "74363d89e631",
+      "title": {
+        "en": "Rosario Dawson Regrets Her ‘Brand New Day’ Cameo Was Cut: “I’m a Reject of Spider-Man”",
+        "fa": "روزاریو داوسون از قطع شدن فیلم «روز کاملاً جدید» خود پشیمان است: «من مرد عنکبوتی هستم»"
+      },
+      "excerpt": {
+        "en": "The MCU actress on how she shot a scene for Marvel's box office hit that was cut out: \"The e-mail was like, 'Yeah, nah.'\"",
+        "fa": "بازیگر MCU درباره نحوه فیلمبرداری صحنه ای برای موفقیت در باکس آفیس مارول که قطع شد: \"ایمیل مانند \"آره، نه\" بود."
+      },
+      "content": {
+        "en": "The MCU actress on how she shot a scene for Marvel's box office hit that was cut out: \"The e-mail was like, 'Yeah, nah.'\"",
+        "fa": "بازیگر MCU درباره نحوه فیلمبرداری صحنه ای برای موفقیت در باکس آفیس مارول که قطع شد: \"ایمیل مانند \"آره، نه\" بود."
+      },
+      "source": {
+        "en": "The Hollywood Reporter",
+        "fa": "The Hollywood Reporter"
+      },
+      "link": "https://www.hollywoodreporter.com/movies/movie-news/rosario-dawson-spider-man-brand-new-day-cameo-cut-1236670939/",
+      "date": "2026-08-11T16:48:20.758029+00:00",
+      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2024/03/GettyImages-1779224930.jpg?w=1296&#038;h=730&#038;crop=1",
       "important": false,
       "score": 1
     },
     {
-      "id": "2a14493390e0",
+      "id": "3e27539be624",
       "title": {
-        "en": "Dave Matthews Band Announces 2026 Fall Tour Dates",
-        "fa": "گروه دیو متیوز تاریخ های تور پاییز 2026 را اعلام کرد"
+        "en": "Cineplex CEO Says Gen Z Is Ready to Go to the Movies: “They’re Tired of Looking at Small Screens”",
+        "fa": "مدیر عامل Cineplex می گوید Gen Z برای رفتن به سینما آماده است: \"آنها از نگاه کردن به صفحه های کوچک خسته شده اند\""
       },
       "excerpt": {
-        "en": "The Dave Matthews Band has announced its 2026 Fall Tour, which will kick off on November 4 at Kohl Center in Madison, WI. The U.S. headline run will include shows at Nashville’s Bridgestone Arena, United Center in Chicago, CFG Bank Arena in Baltimore, and Amica Mutual Pavilion in Providence, concluding with a two-night-stand at Madison […]",
-        "fa": "گروه دیو متیوز تور پاییز 2026 خود را اعلام کرده است که در 4 نوامبر در مرکز Kohl در مدیسون، WI آغاز می شود. پخش سرفصل های ایالات متحده شامل نمایش هایی در نشویل در بریجستون آرنا، یونایتد سنتر در شیکاگو، سی اف جی بانک آرنا در بالتیمور، و غرفه متقابل آمیکا در پراویدنس خواهد بود و با یک استند دو شب در مدیسون به پایان می رسد."
+        "en": "The Canadian exhibitor posted record second quarter revenues as younger audiences embraced 'The Odyssey' and 'Michael' and drove the Hollywood box office rebound.",
+        "fa": "این غرفه‌دار کانادایی درآمد بی‌سابقه‌ای را در سه ماهه دوم به ثبت رساند، زیرا مخاطبان جوان‌تر «اودیسه» و «مایکل» را پذیرفتند و باکس آفیس هالیوود را دوباره به سمت خود بردند."
       },
       "content": {
-        "en": "The Dave Matthews Band has announced its 2026 Fall Tour, which will kick off on November 4 at Kohl Center in Madison, WI. The U.S. headline run will include shows at Nashville’s Bridgestone Arena, United Center in Chicago, CFG Bank Arena in Baltimore, and Amica Mutual Pavilion in Providence, concluding with a two-night-stand at Madison […]",
-        "fa": "گروه دیو متیوز تور پاییز 2026 خود را اعلام کرده است که در 4 نوامبر در مرکز Kohl در مدیسون، WI آغاز می شود. پخش سرفصل های ایالات متحده شامل نمایش هایی در نشویل در بریجستون آرنا، یونایتد سنتر در شیکاگو، سی اف جی بانک آرنا در بالتیمور، و غرفه متقابل آمیکا در پراویدنس خواهد بود و با یک استند دو شب در مدیسون به پایان می رسد."
+        "en": "The Canadian exhibitor posted record second quarter revenues as younger audiences embraced 'The Odyssey' and 'Michael' and drove the Hollywood box office rebound.",
+        "fa": "این غرفه‌دار کانادایی درآمد بی‌سابقه‌ای را در سه ماهه دوم به ثبت رساند، زیرا مخاطبان جوان‌تر «اودیسه» و «مایکل» را پذیرفتند و باکس آفیس هالیوود را دوباره به سمت خود بردند."
       },
       "source": {
-        "en": "Variety",
-        "fa": "Variety"
+        "en": "The Hollywood Reporter",
+        "fa": "The Hollywood Reporter"
       },
-      "link": "https://variety.com/2026/music/news/dave-matthews-band-2026-fall-tour-dates-1236832053/",
-      "date": "2026-08-11T15:51:53.534201+00:00",
-      "image": "https://variety.com/wp-content/uploads/2026/08/DMB_TOUR_2023_press_shot1.jpg",
+      "link": "https://www.hollywoodreporter.com/business/business-news/cineplex-ceo-says-gen-z-is-ready-to-go-to-the-moviestheyre-tired-of-looking-at-small-screens-1236670910/",
+      "date": "2026-08-11T16:48:20.757251+00:00",
+      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2024/02/Ellis-Jacob-CinemaCon-Speaking-Onstage-GettyImages-951252814-H-2024.jpg?w=1296&#038;h=730&#038;crop=1",
       "important": false,
       "score": 1
     },
     {
-      "id": "ba807d7a4ffd",
+      "id": "0e4373338631",
       "title": {
-        "en": "‘Josephine’ Trailer: Channing Tatum and Gemma Chan Star as Struggling Parents in Sundance Award-Winning Psychological Thriller",
-        "fa": "تریلر «جوزفین»: چانینگ تیتوم و جما چان در نقش والدین مبارز در فیلم هیجان‌انگیز روان‌شناختی برنده جایزه ساندنس بازی می‌کنند."
+        "en": "‘Verity’ Trailer: Anne Hathaway Lures Dakota Johnson Into “Darkness” In Colleen Hoover Adaptation From Amazon MGM Studios",
+        "fa": "تریلر «Verity»: آن هاتاوی داکوتا جانسون را به «تاریکی» در اقتباس کالین هوور از استودیوی آمازون MGM می کشاند"
       },
       "excerpt": {
-        "en": "The first trailer for “Josephine,” winner of the top two prizes at this year’s Sundance Film Festival, has been released. Starring Channing Tatum and Gemma Chan, the psychological thriller is a work of autobiographical fiction based on writer-director Beth de Araújo’s lived experiences. Tatum and Chan play parents who struggle to support their eight-year-old daughter, […]",
-        "fa": "اولین تریلر فیلم «جوزفین» برنده دو جایزه برتر جشنواره فیلم ساندنس امسال منتشر شد. این تریلر روان‌شناختی با بازی چانینگ تاتوم و جما چان، اثری داستانی زندگی‌نامه‌ای است که بر اساس تجربیات زندگی‌شده بت دی آرائوخو، نویسنده و کارگردان، ساخته شده است. تیتوم و چان نقش والدینی را بازی می کنند که برای حمایت از دختر هشت ساله خود تلاش می کنند."
+        "en": "UPDATED, August 11: The full trailer for Amazon MGM’s Verity film adaptation is here. Based on Colleen Hoover’s best-selling psychological thriller novel, the film stars Anne Hathaway as the titular author Verity Crawford, who has remained nonverbal and unable to walk since a devastating accident left her in that state. Josh Hartnett’s Jeremy Crawford recruits […]",
+        "fa": "به روز شده، 11 آگوست: تریلر کامل اقتباس فیلم Verity از آمازون MGM در اینجا است. این فیلم که بر اساس رمان هیجان انگیز روانشناختی پرفروش کالین هوور ساخته شده است، آن هاتاوی را در نقش نویسنده اصلی وریتی کرافورد بازی می کند، که پس از یک تصادف ویرانگر که او را در آن وضعیت قرار داده است، بی کلام مانده و قادر به راه رفتن نیست. جرمی کرافورد از جاش هارتنت استخدام می کند"
       },
       "content": {
-        "en": "The first trailer for “Josephine,” winner of the top two prizes at this year’s Sundance Film Festival, has been released. Starring Channing Tatum and Gemma Chan, the psychological thriller is a work of autobiographical fiction based on writer-director Beth de Araújo’s lived experiences. Tatum and Chan play parents who struggle to support their eight-year-old daughter, […]",
-        "fa": "اولین تریلر فیلم «جوزفین» برنده دو جایزه برتر جشنواره فیلم ساندنس امسال منتشر شد. این تریلر روان‌شناختی با بازی چانینگ تاتوم و جما چان، اثری داستانی زندگی‌نامه‌ای است که بر اساس تجربیات زندگی‌شده بت دی آرائوخو، نویسنده و کارگردان، ساخته شده است. تیتوم و چان نقش والدینی را بازی می کنند که برای حمایت از دختر هشت ساله خود تلاش می کنند."
+        "en": "UPDATED, August 11: The full trailer for Amazon MGM’s Verity film adaptation is here. Based on Colleen Hoover’s best-selling psychological thriller novel, the film stars Anne Hathaway as the titular author Verity Crawford, who has remained nonverbal and unable to walk since a devastating accident left her in that state. Josh Hartnett’s Jeremy Crawford recruits […]",
+        "fa": "به روز شده، 11 آگوست: تریلر کامل اقتباس فیلم Verity از آمازون MGM در اینجا است. این فیلم که بر اساس رمان هیجان انگیز روانشناختی پرفروش کالین هوور ساخته شده است، آن هاتاوی را در نقش نویسنده اصلی وریتی کرافورد بازی می کند، که پس از یک تصادف ویرانگر که او را در آن وضعیت قرار داده است، بی کلام مانده و قادر به راه رفتن نیست. جرمی کرافورد از جاش هارتنت استخدام می کند"
       },
       "source": {
-        "en": "Variety",
-        "fa": "Variety"
+        "en": "Deadline",
+        "fa": "Deadline"
       },
-      "link": "https://variety.com/2026/film/news/josephine-trailer-channing-tatum-gemma-chan-sundance-award-winner-1236831673/",
-      "date": "2026-08-11T15:51:53.533854+00:00",
-      "image": "https://variety.com/wp-content/uploads/2026/08/JOSEPHINE_Josephine-2.jpg",
+      "link": "https://deadline.com/2026/08/verity-trailer-anne-hathaway-dakota-johnson-amazon-mgm-1236873939/",
+      "date": "2026-08-11T16:48:20.751973+00:00",
+      "image": "https://deadline.com/wp-content/uploads/2026/04/Screenshot-2026-04-27-at-2.21.59 PM.png",
       "important": false,
       "score": 1
-    },
-    {
-      "id": "a2967bbd4fda",
-      "title": {
-        "en": "Paramount Is Reportedly Putting Into Writing Its Commitment to Movie Theaters — Will It Make a Difference?",
-        "fa": "طبق گزارش‌ها، پارامونت در حال نوشتن تعهد خود به سینماها است - آیا تفاوتی ایجاد خواهد کرد؟"
-      },
-      "excerpt": {
-        "en": "David Ellison has repeatedly promised 30 movies per year for three years with a 45-day theatrical window before PVOD.",
-        "fa": "دیوید الیسون بارها قول داده 30 فیلم در سال به مدت سه سال با یک نمایش 45 روزه قبل از PVOD تولید شود."
-      },
-      "content": {
-        "en": "David Ellison has repeatedly promised 30 movies per year for three years with a 45-day theatrical window before PVOD.",
-        "fa": "دیوید الیسون بارها قول داده 30 فیلم در سال به مدت سه سال با یک نمایش 45 روزه قبل از PVOD تولید شود."
-      },
-      "source": {
-        "en": "IndieWire",
-        "fa": "IndieWire"
-      },
-      "link": "https://www.indiewire.com/news/business/paramount-putting-into-writing-commitment-movie-theaters-1235209539/",
-      "date": "2026-08-11T15:51:53.539637+00:00",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/07/JABL_00173R.jpg?w=650",
-      "important": false,
-      "score": 0
-    },
-    {
-      "id": "f54536b6c319",
-      "title": {
-        "en": "‘Pluribus’ Star Karolina Wydra on the Vince Gilligan Note That ‘Terrified’ Her and How Rhea Seehorn Saved Her",
-        "fa": "کارولینا ویدرا ستاره «پلوریباس» در یادداشت وینس گیلیگان که «او را وحشت زده» کرد و چگونه ریا سیهورن او را نجات داد"
-      },
-      "excerpt": {
-        "en": "The newly-minted Emmy nominee tells IndieWire about her favorite scene in the breakout series — and the show-changing kiss with Rhea Seehorn.",
-        "fa": "نامزد امی که به تازگی انتخاب شده است، به IndieWire در مورد صحنه مورد علاقه خود در سریال شکست - و بوسه متحول کننده نمایش با Rhea Seehorn می گوید."
-      },
-      "content": {
-        "en": "The newly-minted Emmy nominee tells IndieWire about her favorite scene in the breakout series — and the show-changing kiss with Rhea Seehorn.",
-        "fa": "نامزد امی که به تازگی انتخاب شده است، به IndieWire در مورد صحنه مورد علاقه خود در سریال شکست - و بوسه متحول کننده نمایش با Rhea Seehorn می گوید."
-      },
-      "source": {
-        "en": "IndieWire",
-        "fa": "IndieWire"
-      },
-      "link": "https://www.indiewire.com/awards/consider-this/pluribus-karolina-wydra-vince-gilligan-note-terrified-emmy-1235209427/",
-      "date": "2026-08-11T15:51:53.539498+00:00",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/08/karolina.jpg?w=650",
-      "important": false,
-      "score": 0
     }
   ]
 }
