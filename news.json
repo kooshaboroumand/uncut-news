@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-11T20:35:07.298613+00:00",
+  "updated_at": "2026-08-11T21:36:18.079475+00:00",
   "count": 24,
   "news": [
     {
@@ -21,7 +21,7 @@
         "fa": "The Wrap"
       },
       "link": "https://www.thewrap.com/creative-content/tv-shows/house-of-the-dragon-book-vs-show-changes-season-3/",
-      "date": "2026-08-11T20:35:07.047631+00:00",
+      "date": "2026-08-11T21:36:17.818368+00:00",
       "image": "https://www.thewrap.com/wp-content/uploads/2026/08/house-of-the-dragon-emma-d-arcy-hbo.jpg",
       "important": true,
       "score": 6
@@ -45,8 +45,32 @@
         "fa": "The Hollywood Reporter"
       },
       "link": "https://www.hollywoodreporter.com/business/business-news/nicole-sahebi-signs-caa-1236671347/",
-      "date": "2026-08-11T20:35:07.044248+00:00",
+      "date": "2026-08-11T21:36:17.815351+00:00",
       "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/Image-22.jpeg?crop=0px%2C40px%2C1024px%2C573px&#038;resize=1440%2C810",
+      "important": true,
+      "score": 6
+    },
+    {
+      "id": "938e252386e8",
+      "title": {
+        "en": "Nicholas Hoult to Play Gilderoy Lockhart in ‘Harry Potter’ HBO Series Season 2",
+        "fa": "نیکلاس هولت در نقش گیلدرو لاکهارت در فصل دوم سریال HBO «هری پاتر» بازی خواهد کرد."
+      },
+      "excerpt": {
+        "en": "Nicholas Hoult will play Gilderoy Lockhart in the second season of HBO’s “Harry Potter” TV series, Variety has learned from sources. The highly-anticipated series is due to debut on Dec. 25 on HBO and HBO Max, with the first season adapting the first book in the novel series, “Harry Potter and the Philosopher’s Stone.” The […]",
+        "fa": "ورایتی از منابع دریافته است که نیکلاس هولت در فصل دوم سریال تلویزیونی «هری پاتر» شبکه HBO نقش گیلدروی لاکهارت را بازی خواهد کرد. این سریال موردانتظار قرار است در 25 دسامبر از شبکه HBO و HBO Max پخش شود و فصل اول با اقتباس از اولین کتاب این مجموعه رمان، \"هری پاتر و سنگ فیلسوف\" ساخته می شود. را"
+      },
+      "content": {
+        "en": "Nicholas Hoult will play Gilderoy Lockhart in the second season of HBO’s “Harry Potter” TV series, Variety has learned from sources. The highly-anticipated series is due to debut on Dec. 25 on HBO and HBO Max, with the first season adapting the first book in the novel series, “Harry Potter and the Philosopher’s Stone.” The […]",
+        "fa": "ورایتی از منابع دریافته است که نیکلاس هولت در فصل دوم سریال تلویزیونی «هری پاتر» شبکه HBO نقش گیلدروی لاکهارت را بازی خواهد کرد. این سریال موردانتظار قرار است در 25 دسامبر از شبکه HBO و HBO Max پخش شود و فصل اول با اقتباس از اولین کتاب این مجموعه رمان، \"هری پاتر و سنگ فیلسوف\" ساخته می شود. را"
+      },
+      "source": {
+        "en": "Variety",
+        "fa": "Variety"
+      },
+      "link": "https://variety.com/2026/tv/news/nicholas-hoult-gilderoy-lockhart-harry-potter-hbo-1236832274/",
+      "date": "2026-08-11T21:36:17.812195+00:00",
+      "image": "https://variety.com/wp-content/uploads/2026/08/Nicholas-Hoult-Gilderoy-Lockhart.jpg",
       "important": true,
       "score": 6
     },
@@ -69,7 +93,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/news/trailers/the-influencer-project-trailer-chiara-king-horror-1235209925/",
-      "date": "2026-08-11T20:35:07.048930+00:00",
+      "date": "2026-08-11T21:36:17.819231+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/influence_260312_00140031_aRGB_High_f93b36.jpg?w=650",
       "important": true,
       "score": 4
@@ -93,7 +117,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/features/craft/mars-attacks-30th-anniversary-making-of-1235209277/",
-      "date": "2026-08-11T20:35:07.049817+00:00",
+      "date": "2026-08-11T21:36:17.820048+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/MSDMAAT_EC014.jpg?w=650",
       "important": false,
       "score": 3
@@ -117,8 +141,56 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/awards/consider-this/noah-wyle-shawn-hatosy-relationship-the-pitt-interview-emmy-1235209667/",
-      "date": "2026-08-11T20:35:07.048394+00:00",
+      "date": "2026-08-11T21:36:17.818767+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/GettyImages-2254131081.jpg?w=650",
+      "important": false,
+      "score": 3
+    },
+    {
+      "id": "b60b2f54e6ea",
+      "title": {
+        "en": "Kennedy Center Ordered to Pay Musician $250,000 Over Canceled Concert",
+        "fa": "مرکز کندی به پرداخت 250000 دلار به موزیسین برای کنسرت لغو شده محکوم شد"
+      },
+      "excerpt": {
+        "en": "Musician Chuck Redd was accused of breach of contract after he dropped out of a Christmas Eve “Jazz Jam” due to President Trump adding his name to the institution The post Kennedy Center Ordered to Pay Musician $250,000 Over Canceled Concert appeared first on TheWrap .",
+        "fa": "چاک رد، نوازنده، پس از انصراف از حضور در یک «جز جم» در شب کریسمس به دلیل اینکه رئیس جمهور ترامپ نام خود را به مؤسسه اضافه کرد، به نقض قرارداد متهم شد."
+      },
+      "content": {
+        "en": "Musician Chuck Redd was accused of breach of contract after he dropped out of a Christmas Eve “Jazz Jam” due to President Trump adding his name to the institution The post Kennedy Center Ordered to Pay Musician $250,000 Over Canceled Concert appeared first on TheWrap .",
+        "fa": "چاک رد، نوازنده، پس از انصراف از حضور در یک «جز جم» در شب کریسمس به دلیل اینکه رئیس جمهور ترامپ نام خود را به مؤسسه اضافه کرد، به نقض قرارداد متهم شد."
+      },
+      "source": {
+        "en": "The Wrap",
+        "fa": "The Wrap"
+      },
+      "link": "https://www.thewrap.com/industry-news/public-policy-legal/kennedy-center-concert-canceled-chuck-redd-trump-lawsuit/",
+      "date": "2026-08-11T21:36:17.817594+00:00",
+      "image": "https://www.thewrap.com/wp-content/uploads/2026/08/Kennedy-Center-removal.jpg",
+      "important": false,
+      "score": 3
+    },
+    {
+      "id": "8a25db50b363",
+      "title": {
+        "en": "The 3 Best Movies to Watch on Disney+ This Week",
+        "fa": "3 بهترین فیلم برای تماشای دیزنی + این هفته"
+      },
+      "excerpt": {
+        "en": "\"The Life of Chuck\" headlines our picks The post The 3 Best Movies to Watch on Disney+ This Week appeared first on TheWrap .",
+        "fa": "\"زندگی چاک\" تیتر انتخاب های ما است"
+      },
+      "content": {
+        "en": "\"The Life of Chuck\" headlines our picks The post The 3 Best Movies to Watch on Disney+ This Week appeared first on TheWrap .",
+        "fa": "\"زندگی چاک\" تیتر انتخاب های ما است"
+      },
+      "source": {
+        "en": "The Wrap",
+        "fa": "The Wrap"
+      },
+      "link": "https://www.thewrap.com/creative-content/what-to-watch/best-movies-on-disney-plus-this-week-august-11-16/",
+      "date": "2026-08-11T21:36:17.816652+00:00",
+      "image": "https://www.thewrap.com/wp-content/uploads/2026/08/Rachel-McAdams-Send-Help.jpg",
       "important": false,
       "score": 3
     },
@@ -141,7 +213,7 @@
         "fa": "Variety"
       },
       "link": "https://variety.com/2026/film/news/the-last-house-ratings-netflix-views-1236832324/",
-      "date": "2026-08-11T20:35:07.042178+00:00",
+      "date": "2026-08-11T21:36:17.813626+00:00",
       "image": "https://variety.com/wp-content/uploads/2026/08/LastHouse_SG_004R2a.jpg",
       "important": false,
       "score": 3
@@ -165,7 +237,7 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/gerardo-celasco-alex-breaux-cast-prime-video-bishop-1237031301/",
-      "date": "2026-08-11T20:35:07.040057+00:00",
+      "date": "2026-08-11T21:36:17.811550+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/Gerardo-Celasco-Alex-Breaux-Ally-Ioannides-Steven-Yaffee-.jpg",
       "important": false,
       "score": 3
@@ -189,8 +261,32 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/jean-smart-hannah-einbinder-hacks-live-deborah-ava-spinoffs-1237031337/",
-      "date": "2026-08-11T20:35:07.038943+00:00",
+      "date": "2026-08-11T21:36:17.810561+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/Hacks-FYC.jpg",
+      "important": false,
+      "score": 3
+    },
+    {
+      "id": "543b1b5a8269",
+      "title": {
+        "en": "‘Bourbon & Lies’ Series Based On Books In Works At MGM TV From Sophia Stallone’s Callisto Media & Balboa Productions",
+        "fa": "سریال Bourbon & Lies بر اساس کتاب‌های در دست اجرا در تلویزیون MGM از سوفیا استالونه Callisto Media & Balboa Productions"
+      },
+      "excerpt": {
+        "en": "EXCLUSIVE: Sophia Stallone’s Callisto Media and Sylvester Stallone’s Balboa Productions are teaming up on Bourbon & Lies, a romantic suspense series for MGM Television, based on the bestselling book series by Victoria Wilder. Set in Fiasco, Kentucky, Bourbon & Lies follows ex-cop Grant Foxx, a man trying to keep his life quiet after leaving the force, and Laney Young, […]",
+        "fa": "اختصاصی: سوفیا استالونه Callisto Media و سیلوستر استالونه Balboa Productions در Bourbon & Lies، یک سریال عاشقانه تعلیق برای تلویزیون MGM، بر اساس مجموعه کتاب های پرفروش ویکتوریا وایلدر، با هم همکاری می کنند. داستان این فیلم در فیاسکو، کنتاکی، بوربون و دروغ ها اتفاق می افتد و داستان پلیس سابق، گرانت فاکس، مردی است که سعی می کند پس از ترک نیرو، زندگی خود را ساکت نگه دارد، و لین یانگ،"
+      },
+      "content": {
+        "en": "EXCLUSIVE: Sophia Stallone’s Callisto Media and Sylvester Stallone’s Balboa Productions are teaming up on Bourbon & Lies, a romantic suspense series for MGM Television, based on the bestselling book series by Victoria Wilder. Set in Fiasco, Kentucky, Bourbon & Lies follows ex-cop Grant Foxx, a man trying to keep his life quiet after leaving the force, and Laney Young, […]",
+        "fa": "اختصاصی: سوفیا استالونه Callisto Media و سیلوستر استالونه Balboa Productions در Bourbon & Lies، یک سریال عاشقانه تعلیق برای تلویزیون MGM، بر اساس مجموعه کتاب های پرفروش ویکتوریا وایلدر، با هم همکاری می کنند. داستان این فیلم در فیاسکو، کنتاکی، بوربون و دروغ ها اتفاق می افتد و داستان پلیس سابق، گرانت فاکس، مردی است که سعی می کند پس از ترک نیرو، زندگی خود را ساکت نگه دارد، و لین یانگ،"
+      },
+      "source": {
+        "en": "Deadline",
+        "fa": "Deadline"
+      },
+      "link": "https://deadline.com/2026/08/bourbon-and-lies-tv-series-sophia-stallone-mgm-tv-1237031400/",
+      "date": "2026-08-11T21:36:17.809465+00:00",
+      "image": "https://deadline.com/wp-content/uploads/2026/08/BL-Montage-1.png",
       "important": false,
       "score": 3
     },
@@ -202,18 +298,18 @@
       },
       "excerpt": {
         "en": "“Josephine, can you tell me what you saw?” Those seven words solidify the premise for Josephine, sophomore writer-director Beth de Araújo’s drama that has major awards buzz after landing the Grand Jury Award and Audience Award at Sundance in January. Today we got our first trailer for the film — watch it above — along […]",
-        "fa": "\"ژوزفین، می تونی به من بگی چی دیدی؟\" این هفت کلمه فرضیه را برای ژوزفین، نویسنده و کارگردان سال دوم درام بث دی آرائوخو که پس از دریافت جایزه بزرگ هیئت داوران و جایزه تماشاگران در ساندنس در ژانویه، سر و صدای جوایز مهمی را به همراه داشت، محکم می کند. امروز اولین تریلر خود را از این فیلم دریافت کردیم - آن را در بالا تماشا کنید"
+        "fa": "\"ژوزفین، می‌توانی به من بگو چه دیدی؟\" این هفت کلمه فرضیه را برای ژوزفین، نویسنده و کارگردان سال دوم درام بث دی آرائوخو که پس از دریافت جایزه بزرگ هیئت داوران و جایزه تماشاگران در ساندنس در ژانویه، سر و صدای جوایز مهمی را به همراه داشت، محکم می کند. امروز اولین تریلر خود را از این فیلم دریافت کردیم - آن را در بالا تماشا کنید"
       },
       "content": {
         "en": "“Josephine, can you tell me what you saw?” Those seven words solidify the premise for Josephine, sophomore writer-director Beth de Araújo’s drama that has major awards buzz after landing the Grand Jury Award and Audience Award at Sundance in January. Today we got our first trailer for the film — watch it above — along […]",
-        "fa": "\"ژوزفین، می تونی به من بگی چی دیدی؟\" این هفت کلمه فرضیه را برای ژوزفین، نویسنده و کارگردان سال دوم درام بث دی آرائوخو که پس از دریافت جایزه بزرگ هیئت داوران و جایزه تماشاگران در ساندنس در ژانویه، سر و صدای جوایز مهمی را به همراه داشت، محکم می کند. امروز اولین تریلر خود را از این فیلم دریافت کردیم - آن را در بالا تماشا کنید"
+        "fa": "\"ژوزفین، می‌توانی به من بگو چه دیدی؟\" این هفت کلمه فرضیه را برای ژوزفین، نویسنده و کارگردان سال دوم درام بث دی آرائوخو که پس از دریافت جایزه بزرگ هیئت داوران و جایزه تماشاگران در ساندنس در ژانویه، سر و صدای جوایز مهمی را به همراه داشت، محکم می کند. امروز اولین تریلر خود را از این فیلم دریافت کردیم - آن را در بالا تماشا کنید"
       },
       "source": {
         "en": "Deadline",
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/josephine-trailer-release-date-gemma-chan-channing-tatum-1237031226/",
-      "date": "2026-08-11T20:35:07.040394+00:00",
+      "date": "2026-08-11T21:36:17.811878+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/Josephine.jpg",
       "important": false,
       "score": 2
@@ -237,7 +333,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/news/festivals/nyff-2026-spotlight-lineup-1235209826/",
-      "date": "2026-08-11T20:35:07.050173+00:00",
+      "date": "2026-08-11T21:36:17.820371+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/05/204424-2-scaled-1.jpg?w=650",
       "important": false,
       "score": 1
@@ -261,7 +357,7 @@
         "fa": "Variety"
       },
       "link": "https://variety.com/2026/film/news/the-writers-lab-los-angeles-intensive-fall-cohorts-1236831539/",
-      "date": "2026-08-11T20:35:07.041299+00:00",
+      "date": "2026-08-11T21:36:17.812860+00:00",
       "image": "https://variety.com/wp-content/uploads/2026/08/TWL-color-group29.jpg",
       "important": false,
       "score": 1
@@ -274,18 +370,18 @@
       },
       "excerpt": {
         "en": "Cats: The Jellicle Ball and Death of a Salesman ended their Broadway runs on very high notes, posting the biggest grosses of their engagements. Jellicle, closing five months earlier than planned and prompting considerable discussion (and lamentation) within the industry about production costs and the dim odds of scoring a big musical hit these days, […]",
-        "fa": "Cats: The Jellicle Ball و Death of a Salesman به اجراهای خود در برادوی با نت های بسیار بلند پایان دادند و بزرگترین درآمدهای نامزدی خود را منتشر کردند. Jellicle، پنج ماه زودتر از برنامه‌ریزی بسته می‌شود و بحث‌های قابل‌توجهی را در صنعت در مورد هزینه‌های تولید و شانس کم برای به ثمر رساندن یک موفقیت بزرگ موسیقی این روزها برانگیخته است."
+        "fa": "Cats: The Jellicle Ball و Death of a Salesman به اجراهای خود در برادوی با نت های بسیار بلند پایان دادند و بزرگترین درآمدهای نامزدی خود را منتشر کردند. Jellicle، پنج ماه زودتر از زمان برنامه‌ریزی بسته می‌شود و بحث‌های قابل‌توجهی را در صنعت در مورد هزینه‌های تولید و احتمال ضعیف به ثمر رساندن یک موفقیت بزرگ موسیقی این روزها برانگیخته است."
       },
       "content": {
         "en": "Cats: The Jellicle Ball and Death of a Salesman ended their Broadway runs on very high notes, posting the biggest grosses of their engagements. Jellicle, closing five months earlier than planned and prompting considerable discussion (and lamentation) within the industry about production costs and the dim odds of scoring a big musical hit these days, […]",
-        "fa": "Cats: The Jellicle Ball و Death of a Salesman به اجراهای خود در برادوی با نت های بسیار بلند پایان دادند و بزرگترین درآمدهای نامزدی خود را منتشر کردند. Jellicle، پنج ماه زودتر از برنامه‌ریزی بسته می‌شود و بحث‌های قابل‌توجهی را در صنعت در مورد هزینه‌های تولید و شانس کم برای به ثمر رساندن یک موفقیت بزرگ موسیقی این روزها برانگیخته است."
+        "fa": "Cats: The Jellicle Ball و Death of a Salesman به اجراهای خود در برادوی با نت های بسیار بلند پایان دادند و بزرگترین درآمدهای نامزدی خود را منتشر کردند. Jellicle، پنج ماه زودتر از زمان برنامه‌ریزی بسته می‌شود و بحث‌های قابل‌توجهی را در صنعت در مورد هزینه‌های تولید و احتمال ضعیف به ثمر رساندن یک موفقیت بزرگ موسیقی این روزها برانگیخته است."
       },
       "source": {
         "en": "Deadline",
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/death-of-a-salesman-cats-jellicle-ball-broadway-box-office-1237031012/",
-      "date": "2026-08-11T20:35:07.039684+00:00",
+      "date": "2026-08-11T21:36:17.811207+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/04/Sydney-James-Harcourt-as-‘Rumtumtugger-from-CATS_-The-Jellicle-Ball.-Photos-by-Matthew-Murphy-and-Evan-Zimmerman-for-MurphyMade.jpg",
       "important": false,
       "score": 1
@@ -309,8 +405,32 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/news/business/free-seminar-documentary-filmmakers-how-to-opt-out-ai-1235209818/",
-      "date": "2026-08-11T20:35:07.049308+00:00",
+      "date": "2026-08-11T21:36:17.819582+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/03/AI_FP_00002.jpg?w=650",
+      "important": false,
+      "score": 0
+    },
+    {
+      "id": "638c120e10af",
+      "title": {
+        "en": "Paramount Positions ‘Possession’ Remake with Callum Turner and Margaret Qualley as Summer Blockbuster",
+        "fa": "بازسازی «تصرف» پارامونت پوزیشن ها با کالوم ترنر و مارگارت کوالی به عنوان بلاک باستر تابستانی"
+      },
+      "excerpt": {
+        "en": "The film from director Parker Finn based on the 1981 supernatural film will open June 11, 2027.",
+        "fa": "این فیلم از کارگردان پارکر فین بر اساس فیلم ماوراء طبیعی محصول 1981 در 11 ژوئن 2027 اکران خواهد شد."
+      },
+      "content": {
+        "en": "The film from director Parker Finn based on the 1981 supernatural film will open June 11, 2027.",
+        "fa": "این فیلم از کارگردان پارکر فین بر اساس فیلم ماوراء طبیعی محصول 1981 در 11 ژوئن 2027 اکران خواهد شد."
+      },
+      "source": {
+        "en": "IndieWire",
+        "fa": "IndieWire"
+      },
+      "link": "https://www.indiewire.com/news/general-news/possession-remake-release-date-1235209951/",
+      "date": "2026-08-11T21:36:17.819399+00:00",
+      "image": "https://www.indiewire.com/wp-content/uploads/2019/10/possession-1981-03-g.jpg?w=650",
       "important": false,
       "score": 0
     },
@@ -333,56 +453,8 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/features/commentary/history-of-unofficial-movie-sequels-1235209659/",
-      "date": "2026-08-11T20:35:07.048803+00:00",
+      "date": "2026-08-11T21:36:17.819120+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/nsna2.webp?w=650",
-      "important": false,
-      "score": 0
-    },
-    {
-      "id": "d578f5a72e30",
-      "title": {
-        "en": "Joe Scarborough Condemns Trump’s Vaccine Executive Order as ‘So Stupid’ and ‘So Dangerous’",
-        "fa": "جو اسکاربرو دستور اجرایی واکسن ترامپ را محکوم کرد و آن را «خیلی احمقانه» و «خیلی خطرناک» خواند."
-      },
-      "excerpt": {
-        "en": "\"What everybody feared would happen when Bobby Kennedy Jr. was put into that position,\" the \"Morning Joe\" host says The post Joe Scarborough Condemns Trump’s Vaccine Executive Order as ‘So Stupid’ and ‘So Dangerous’ appeared first on TheWrap .",
-        "fa": "مجری برنامه \"Morning Joe\" می گوید: \"آنچه که همه می ترسیدند با قرار گرفتن بابی کندی جونیور در آن موقعیت اتفاق بیفتد.\""
-      },
-      "content": {
-        "en": "\"What everybody feared would happen when Bobby Kennedy Jr. was put into that position,\" the \"Morning Joe\" host says The post Joe Scarborough Condemns Trump’s Vaccine Executive Order as ‘So Stupid’ and ‘So Dangerous’ appeared first on TheWrap .",
-        "fa": "مجری برنامه \"Morning Joe\" می گوید: \"آنچه که همه می ترسیدند با قرار گرفتن بابی کندی جونیور در آن موقعیت اتفاق بیفتد.\""
-      },
-      "source": {
-        "en": "The Wrap",
-        "fa": "The Wrap"
-      },
-      "link": "https://www.thewrap.com/media-platforms/politics/morning-joe-scarborough-trump-vaccine-order-rfk-jr-video/",
-      "date": "2026-08-11T20:35:07.048025+00:00",
-      "image": "https://www.thewrap.com/wp-content/uploads/2026/08/Morning-Joe-8-11-26.jpg",
-      "important": false,
-      "score": 0
-    },
-    {
-      "id": "36c0eca92709",
-      "title": {
-        "en": "Paramount Sets Parker Finn’s ‘Possession’ Starring Callum Turner for June 2027 Release",
-        "fa": "پارامونت فیلم «تصرف» پارکر فین با بازی کالوم ترنر را برای اکران در ژوئن 2027 تنظیم می کند."
-      },
-      "excerpt": {
-        "en": "Margaret Qualley, Diego Calva and Paul Dano also star in the upcoming remake of the 1981 cult supernatural thriller The post Paramount Sets Parker Finn’s ‘Possession’ Starring Callum Turner for June 2027 Release appeared first on TheWrap .",
-        "fa": "مارگارت کوالی، دیگو کالوا و پل دانو نیز در بازسازی آینده تریلر فراطبیعی فرقه ای در سال 1981 بازی می کنند."
-      },
-      "content": {
-        "en": "Margaret Qualley, Diego Calva and Paul Dano also star in the upcoming remake of the 1981 cult supernatural thriller The post Paramount Sets Parker Finn’s ‘Possession’ Starring Callum Turner for June 2027 Release appeared first on TheWrap .",
-        "fa": "مارگارت کوالی، دیگو کالوا و پل دانو نیز در بازسازی آینده تریلر فراطبیعی فرقه ای در سال 1981 بازی می کنند."
-      },
-      "source": {
-        "en": "The Wrap",
-        "fa": "The Wrap"
-      },
-      "link": "https://www.thewrap.com/industry-news/business/paramount-parker-finn-possession-release-date/",
-      "date": "2026-08-11T20:35:07.047877+00:00",
-      "image": "https://www.thewrap.com/wp-content/uploads/2026/08/CallumTurner-e1786467402689.png",
       "important": false,
       "score": 0
     },
@@ -405,7 +477,7 @@
         "fa": "The Wrap"
       },
       "link": "https://www.thewrap.com/creative-content/movies/best-spider-man-movie-brand-new-day/",
-      "date": "2026-08-11T20:35:07.047409+00:00",
+      "date": "2026-08-11T21:36:17.818201+00:00",
       "image": "https://i0.wp.com/www.thewrap.com/wp-content/uploads/2026/08/Spider-Man-2.jpg?fit=1280%2C720&quality=89&ssl=1",
       "important": false,
       "score": 0
@@ -429,7 +501,7 @@
         "fa": "The Hollywood Reporter"
       },
       "link": "https://www.hollywoodreporter.com/movies/movie-news/jonas-brothers-new-generation-disney-stars-camp-rock-3-1236671030/",
-      "date": "2026-08-11T20:35:07.045277+00:00",
+      "date": "2026-08-11T21:36:17.816297+00:00",
       "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/GettyImages-2289942763.jpg?crop=0px%2C186px%2C5000px%2C2797px&#038;resize=1440%2C810",
       "important": false,
       "score": 0
@@ -453,80 +525,8 @@
         "fa": "The Hollywood Reporter"
       },
       "link": "https://www.hollywoodreporter.com/business/business-news/david-ellison-paramount-california-move-1236671417/",
-      "date": "2026-08-11T20:35:07.044089+00:00",
+      "date": "2026-08-11T21:36:17.815207+00:00",
       "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/GettyImages-2263411677-1.jpg?w=1440&#038;h=810&#038;crop=1",
-      "important": false,
-      "score": 0
-    },
-    {
-      "id": "7e70e883de01",
-      "title": {
-        "en": "Kennedy Center Ordered to Pay $250,000 to Jazz Musician It Unsuccessfully Sued for Backing Out of Concert After Trump Rebranding",
-        "fa": "مرکز کندی به پرداخت 250000 دلار به نوازنده جاز محکوم شد که به دلیل انصراف از کنسرت پس از تغییر برند ترامپ شکایت نکرد."
-      },
-      "excerpt": {
-        "en": "A judge has ruled that the Kennedy Center in Washington, D.C. must pay a jazz musician $252,000 in legal fees and costs, following the organization’s unsuccessful lawsuit against him for pulling out of a concert in the wake of a rebranding to include Donald J. Trump’s name. Chuck Redd hosted and performed at the Kennedy […]",
-        "fa": "یک قاضی حکم داد که مرکز کندی در واشنگتن دی سی باید 252000 دلار به عنوان هزینه ها و هزینه های قانونی به یک نوازنده جاز بپردازد، پس از شکایت ناموفق سازمان علیه او به دلیل انصراف از کنسرت در پی تغییر نام تجاری و درج نام دونالد جی ترامپ. چاک رد میزبان و اجرای کندی بود"
-      },
-      "content": {
-        "en": "A judge has ruled that the Kennedy Center in Washington, D.C. must pay a jazz musician $252,000 in legal fees and costs, following the organization’s unsuccessful lawsuit against him for pulling out of a concert in the wake of a rebranding to include Donald J. Trump’s name. Chuck Redd hosted and performed at the Kennedy […]",
-        "fa": "یک قاضی حکم داد که مرکز کندی در واشنگتن دی سی باید 252000 دلار به عنوان هزینه ها و هزینه های قانونی به یک نوازنده جاز بپردازد، پس از شکایت ناموفق سازمان علیه او به دلیل انصراف از کنسرت در پی تغییر نام تجاری و درج نام دونالد جی ترامپ. چاک رد میزبان و اجرای کندی بود"
-      },
-      "source": {
-        "en": "Variety",
-        "fa": "Variety"
-      },
-      "link": "https://variety.com/2026/music/news/kennedy-center-to-pay-jazz-musician-sued-cancel-trump-1236832214/",
-      "date": "2026-08-11T20:35:07.043957+00:00",
-      "image": "https://variety.com/wp-content/uploads/2026/06/Kennedy-Center-removes-Trump-name.jpg",
-      "important": false,
-      "score": 0
-    },
-    {
-      "id": "7acf59eec7be",
-      "title": {
-        "en": "Emmy Predictions: Lead Actor (Comedy) — Matthew Rhys Takes on Two Legends Still Seeking Their First Wins",
-        "fa": "پیش‌بینی‌های امی: بازیگر اصلی - متیو ریس با دو افسانه بازی می‌کند که هنوز به دنبال اولین بردهایشان هستند"
-      },
-      "excerpt": {
-        "en": "Variety Awards Circuit section is the home for all awards news and related content throughout the year, featuring the following: the official predictions for the upcoming Oscars, Emmys, Grammys and Tony Awards ceremonies, curated by Variety chief awards editor Clayton Davis. The prediction pages reflect the current standings in the race and do not reflect personal preferences for any individual […]",
-        "fa": "بخش Variety Awards Circuit خانه همه اخبار جوایز و محتوای مرتبط در طول سال است که شامل موارد زیر است: پیش بینی های رسمی مراسم آتی اسکار، امی، گرمی و جوایز تونی، که توسط سردبیر جوایز Variety، کلیتون دیویس، سرپرستی می شود. صفحات پیش بینی وضعیت فعلی در مسابقه را منعکس می کند و ترجیحات شخصی را برای هیچ فردی منعکس نمی کند"
-      },
-      "content": {
-        "en": "Variety Awards Circuit section is the home for all awards news and related content throughout the year, featuring the following: the official predictions for the upcoming Oscars, Emmys, Grammys and Tony Awards ceremonies, curated by Variety chief awards editor Clayton Davis. The prediction pages reflect the current standings in the race and do not reflect personal preferences for any individual […]",
-        "fa": "بخش Variety Awards Circuit خانه همه اخبار جوایز و محتوای مرتبط در طول سال است که شامل موارد زیر است: پیش بینی های رسمی مراسم آتی اسکار، امی، گرمی و جوایز تونی، که توسط سردبیر جوایز Variety، کلیتون دیویس، سرپرستی می شود. صفحات پیش بینی وضعیت فعلی در مسابقه را منعکس می کند و ترجیحات شخصی را برای هیچ فردی منعکس نمی کند"
-      },
-      "source": {
-        "en": "Variety",
-        "fa": "Variety"
-      },
-      "link": "https://variety.com/lists/2026-emmys-lead-actor-comedy-predictions/",
-      "date": "2026-08-11T20:35:07.043790+00:00",
-      "image": "https://variety.com/wp-content/uploads/2026/04/Matthew-Rhys-Widows-Bay.jpg",
-      "important": false,
-      "score": 0
-    },
-    {
-      "id": "d725803625e1",
-      "title": {
-        "en": "Ann Hui Named Camellia Award Recipient at Busan Film Festival – Global Bulletin",
-        "fa": "آن هوی برنده جایزه کاملیا در جشنواره فیلم بوسان - بولتن جهانی"
-      },
-      "excerpt": {
-        "en": "CAMELLIA CONFERRED Ann Hui, one of Hong Kong cinema’s defining figures, will receive the 2026 Camellia Award at the opening ceremony of the 31st Busan International Film Festival on Oct. 6 at Busan Cinema Center. The award, established by BIFF in partnership with Chanel to honor filmmakers who have advanced the status of women in the industry, goes to […]",
-        "fa": "CAMELLIA CONFERRED آن هوی، یکی از چهره های تعیین کننده سینمای هنگ کنگ، جایزه کاملیا 2026 را در مراسم افتتاحیه سی و یکمین جشنواره بین المللی فیلم بوسان در 6 اکتبر در مرکز سینمایی بوسان دریافت خواهد کرد. این جایزه که توسط BIFF با مشارکت Chanel برای تقدیر از فیلمسازانی که جایگاه زنان را در این صنعت ارتقاء داده اند، ایجاد شده است."
-      },
-      "content": {
-        "en": "CAMELLIA CONFERRED Ann Hui, one of Hong Kong cinema’s defining figures, will receive the 2026 Camellia Award at the opening ceremony of the 31st Busan International Film Festival on Oct. 6 at Busan Cinema Center. The award, established by BIFF in partnership with Chanel to honor filmmakers who have advanced the status of women in the industry, goes to […]",
-        "fa": "CAMELLIA CONFERRED آن هوی، یکی از چهره های تعیین کننده سینمای هنگ کنگ، جایزه کاملیا 2026 را در مراسم افتتاحیه سی و یکمین جشنواره بین المللی فیلم بوسان در 6 اکتبر در مرکز سینمایی بوسان دریافت خواهد کرد. این جایزه که توسط BIFF با مشارکت Chanel برای تقدیر از فیلمسازانی که جایگاه زنان را در این صنعت ارتقاء داده اند، ایجاد شده است."
-      },
-      "source": {
-        "en": "Variety",
-        "fa": "Variety"
-      },
-      "link": "https://variety.com/2026/film/festivals/ann-hui-camellia-award-biff-licchavi-cinema-festival-1236832309/",
-      "date": "2026-08-11T20:35:07.043646+00:00",
-      "image": "https://variety.com/wp-content/uploads/2026/08/Ann-Hui.jpg",
       "important": false,
       "score": 0
     },
@@ -549,7 +549,7 @@
         "fa": "Variety"
       },
       "link": "https://variety.com/2026/artisans/news/the-odyssey-christopher-nolan-book-photos-1236832103/",
-      "date": "2026-08-11T20:35:07.043289+00:00",
+      "date": "2026-08-11T21:36:17.814670+00:00",
       "image": "https://variety.com/wp-content/uploads/2026/08/Filming_Odyssey_Interior_HR-67-2.jpg",
       "important": false,
       "score": 0
@@ -573,7 +573,7 @@
         "fa": "Variety"
       },
       "link": "https://variety.com/2026/film/news/julie-andrews-rejected-princess-diaries-3-offer-retired-1236832252/",
-      "date": "2026-08-11T20:35:07.042592+00:00",
+      "date": "2026-08-11T21:36:17.814008+00:00",
       "image": "https://variety.com/wp-content/uploads/2022/12/MCDPRDI_EC018.jpg",
       "important": false,
       "score": 0
