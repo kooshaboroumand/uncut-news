@@ -1,79 +1,7 @@
 {
-  "updated_at": "2026-08-11T18:48:42.039905+00:00",
+  "updated_at": "2026-08-11T19:55:21.535766+00:00",
   "count": 24,
   "news": [
-    {
-      "id": "c9406576b1c0",
-      "title": {
-        "en": "‘Gentle Monster’ Teaser: Léa Seydoux Learns the Unimaginable in Marie Kreutzer’s Child Abuse Drama",
-        "fa": "تیزر «هیولا ملایم»: لئا سیدوکس در درام کودک آزاری ماری کروتزر چیزهای غیرقابل تصور را می آموزد."
-      },
-      "excerpt": {
-        "en": "The Cannes premiere will screen at TIFF before hitting select theaters and Netflix later this fall.",
-        "fa": "اولین نمایش کن در TIFF قبل از نمایش در سینماهای منتخب و نتفلیکس اواخر پاییز امسال به نمایش در خواهد آمد."
-      },
-      "content": {
-        "en": "The Cannes premiere will screen at TIFF before hitting select theaters and Netflix later this fall.",
-        "fa": "اولین نمایش کن در TIFF قبل از نمایش در سینماهای منتخب و نتفلیکس اواخر پاییز امسال به نمایش در خواهد آمد."
-      },
-      "source": {
-        "en": "IndieWire",
-        "fa": "IndieWire"
-      },
-      "link": "https://www.indiewire.com/news/trailers/gentle-monster-teaser-lea-seydoux-1235209804/",
-      "date": "2026-08-11T18:48:41.774828+00:00",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/05/image.webp?w=650",
-      "important": true,
-      "score": 7
-    },
-    {
-      "id": "ab4e277040bc",
-      "title": {
-        "en": "‘Monster’ Blends Axe Murders and Sensuality in First Trailer for Lizzie Borden Season",
-        "fa": "«هیولا» در اولین تریلر فصل لیزی بوردن، قتل با تبر و حس و حال را ترکیب می‌کند."
-      },
-      "excerpt": {
-        "en": "The anthology series from Ryan Murphy and Ian Brennan returns to Netflix next month with star Ella Beatty The post ‘Monster’ Blends Axe Murders and Sensuality in First Trailer for Lizzie Borden Season appeared first on TheWrap .",
-        "fa": "سریال گلچین از رایان مورفی و ایان برنان ماه آینده با ستاره الا بیتی به نتفلیکس باز می گردد."
-      },
-      "content": {
-        "en": "The anthology series from Ryan Murphy and Ian Brennan returns to Netflix next month with star Ella Beatty The post ‘Monster’ Blends Axe Murders and Sensuality in First Trailer for Lizzie Borden Season appeared first on TheWrap .",
-        "fa": "سریال گلچین از رایان مورفی و ایان برنان ماه آینده با ستاره الا بیتی به نتفلیکس باز می گردد."
-      },
-      "source": {
-        "en": "The Wrap",
-        "fa": "The Wrap"
-      },
-      "link": "https://www.thewrap.com/creative-content/tv-shows/monster-the-lizzie-borden-story-trailer-netflix/",
-      "date": "2026-08-11T18:48:41.772999+00:00",
-      "image": "https://www.thewrap.com/wp-content/uploads/2026/08/monster.jpg",
-      "important": true,
-      "score": 7
-    },
-    {
-      "id": "b7a3fb40154d",
-      "title": {
-        "en": "Ilona Maher Hits the Gym With Celebrity Guests in ‘Power Hour’ Digital Series | Exclusive",
-        "fa": "ایلونا ماهر با مهمانان مشهور در مجموعه دیجیتال «ساعت قدرت» به باشگاه می‌رود | انحصاری"
-      },
-      "excerpt": {
-        "en": "Kylie Kelce, Azzi Fudd and Bretman Rock are set to appear in the Wave series, which will soon premiere on YouTube The post Ilona Maher Hits the Gym With Celebrity Guests in ‘Power Hour’ Digital Series | Exclusive appeared first on TheWrap .",
-        "fa": "کایلی کلسه، آزی فاد و برتمن راک قرار است در سریال Wave حضور داشته باشند که به زودی در یوتیوب پخش خواهد شد."
-      },
-      "content": {
-        "en": "Kylie Kelce, Azzi Fudd and Bretman Rock are set to appear in the Wave series, which will soon premiere on YouTube The post Ilona Maher Hits the Gym With Celebrity Guests in ‘Power Hour’ Digital Series | Exclusive appeared first on TheWrap .",
-        "fa": "کایلی کلسه، آزی فاد و برتمن راک قرار است در سریال Wave حضور داشته باشند که به زودی در یوتیوب پخش خواهد شد."
-      },
-      "source": {
-        "en": "The Wrap",
-        "fa": "The Wrap"
-      },
-      "link": "https://www.thewrap.com/culture-lifestyle/sports/ilona-maher-power-hour-wave-digital-series-youtube/",
-      "date": "2026-08-11T18:48:41.773076+00:00",
-      "image": "https://www.thewrap.com/wp-content/uploads/2026/08/power-hour-ilona-maher.jpg",
-      "important": true,
-      "score": 6
-    },
     {
       "id": "d5f31ce2ab3a",
       "title": {
@@ -93,7 +21,7 @@
         "fa": "The Wrap"
       },
       "link": "https://www.thewrap.com/creative-content/tv-shows/house-of-the-dragon-book-vs-show-changes-season-3/",
-      "date": "2026-08-11T18:48:41.772031+00:00",
+      "date": "2026-08-11T19:55:21.339466+00:00",
       "image": "https://www.thewrap.com/wp-content/uploads/2026/08/house-of-the-dragon-emma-d-arcy-hbo.jpg",
       "important": true,
       "score": 6
@@ -117,7 +45,7 @@
         "fa": "Variety"
       },
       "link": "https://variety.com/2026/artisans/news/kris-bowers-compose-netflix-animated-feature-steps-1236832210/",
-      "date": "2026-08-11T18:48:41.769441+00:00",
+      "date": "2026-08-11T19:55:21.337104+00:00",
       "image": "https://variety.com/wp-content/uploads/2026/08/A001_A052_0731SN_001.00_00_11_16.Still010_R2.jpg",
       "important": true,
       "score": 6
@@ -141,7 +69,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/news/trailers/the-influencer-project-trailer-chiara-king-horror-1235209925/",
-      "date": "2026-08-11T18:48:41.773296+00:00",
+      "date": "2026-08-11T19:55:21.340394+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/influence_260312_00140031_aRGB_High_f93b36.jpg?w=650",
       "important": true,
       "score": 4
@@ -165,56 +93,8 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/features/craft/mars-attacks-30th-anniversary-making-of-1235209277/",
-      "date": "2026-08-11T18:48:41.773959+00:00",
+      "date": "2026-08-11T19:55:21.341034+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/MSDMAAT_EC014.jpg?w=650",
-      "important": false,
-      "score": 3
-    },
-    {
-      "id": "c044b1623ccb",
-      "title": {
-        "en": "‘Reacher’ Season 4 Divides Some Critics: “Best Season Yet” vs. “Embarrassed to Watch”",
-        "fa": "فصل 4 «ریچر» برخی از منتقدان را تقسیم می‌کند: «بهترین فصل هنوز» در مقابل «شرم‌آور تماشا»"
-      },
-      "excerpt": {
-        "en": "Alan Ritchson is once again winsome as the unstoppable Jack Reacher and season 4 reviews are positive overall, yet some say the series is showing signs of age.",
-        "fa": "آلن ریچسون بار دیگر به‌عنوان جک ریچر غیرقابل توقف، برنده است و نقدهای فصل 4 در کل مثبت است، با این حال برخی می‌گویند که سریال نشانه‌هایی از سن را نشان می‌دهد."
-      },
-      "content": {
-        "en": "Alan Ritchson is once again winsome as the unstoppable Jack Reacher and season 4 reviews are positive overall, yet some say the series is showing signs of age.",
-        "fa": "آلن ریچسون بار دیگر به‌عنوان جک ریچر غیرقابل توقف، برنده است و نقدهای فصل 4 در کل مثبت است، با این حال برخی می‌گویند که سریال نشانه‌هایی از سن را نشان می‌دهد."
-      },
-      "source": {
-        "en": "The Hollywood Reporter",
-        "fa": "The Hollywood Reporter"
-      },
-      "link": "https://www.hollywoodreporter.com/tv/tv-news/reacher-season-4-reviews-critics-1236670970/",
-      "date": "2026-08-11T18:48:41.771526+00:00",
-      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/Reacher-S4-Main-2026.jpg?w=1296&#038;h=730&#038;crop=1",
-      "important": false,
-      "score": 3
-    },
-    {
-      "id": "6357305d8494",
-      "title": {
-        "en": "‘Summer House’ Star Bailey Taylor Signs With Gersh (Exclusive)",
-        "fa": "بیلی تیلور ستاره «خانه تابستانی» با گرش امضا می‌کند"
-      },
-      "excerpt": {
-        "en": "The reality TV star also hosts iHeartRadio series ‘It Girl Podcast.'",
-        "fa": "این ستاره تلویزیون واقعیت همچنین مجری سریال iHeartRadio \"It Girl Podcast\" است."
-      },
-      "content": {
-        "en": "The reality TV star also hosts iHeartRadio series ‘It Girl Podcast.'",
-        "fa": "این ستاره تلویزیون واقعیت همچنین مجری سریال iHeartRadio \"It Girl Podcast\" است."
-      },
-      "source": {
-        "en": "The Hollywood Reporter",
-        "fa": "The Hollywood Reporter"
-      },
-      "link": "https://www.hollywoodreporter.com/movies/movie-news/summer-house-bailey-taylor-signs-gersh-1236671000/",
-      "date": "2026-08-11T18:48:41.771226+00:00",
-      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/Black-and-white.png?crop=0px%2C54px%2C918px%2C514px&#038;resize=1440%2C810",
       "important": false,
       "score": 3
     },
@@ -237,32 +117,32 @@
         "fa": "The Hollywood Reporter"
       },
       "link": "https://www.hollywoodreporter.com/lists/dancing-with-the-stars-next-pro-cast-judges/",
-      "date": "2026-08-11T18:48:41.770247+00:00",
+      "date": "2026-08-11T19:55:21.338271+00:00",
       "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/07/181454_3541-e1784082388306.jpg?w=1440&#038;h=810&#038;crop=1",
       "important": false,
       "score": 3
     },
     {
-      "id": "80712a255cf2",
+      "id": "1e910f5f3dd8",
       "title": {
-        "en": "Gersh Inks Actor Josh Stewart Following Work On Ang Lee’s ‘Gold Mountain’",
-        "fa": "جاش استوارت بازیگر گرش اینکس پس از کار بر روی «کوه طلایی» اثر آنگ لی"
+        "en": "‘The Last House’ Debuts With 27.5 Million Views in Three Days",
+        "fa": "«آخرین خانه» با 27.5 میلیون بازدید در سه روز آغاز به کار کرد"
       },
       "excerpt": {
-        "en": "EXCLUSIVE: Following work on Ang Lee’s new film Gold Mountain, actor Josh Stewart has inked with Gersh for representation in all areas. Gold Mountain, which recently wrapped production, is an adaptation of C Pam Zhang’s novel How Much of These Hills is Gold, with a script adapted by Pulitzer Prize finalist Chang-Rae Lee. Stewart shares the screen with […]",
-        "fa": "اختصاصی: پس از کار بر روی فیلم جدید آنگ لی، کوه طلایی، جاش استوارت بازیگر با گرش برای نمایندگی در همه زمینه ها جوهر امضا کرده است. کوه طلایی که اخیراً تولید آن به پایان رسیده است، اقتباسی از رمان «چقدر از این تپه‌ها طلاست» نوشته سی پام ژانگ است که فیلمنامه‌ای توسط چانگ رای لی، فینالیست جایزه پولیتزر اقتباس شده است. استوارت صفحه نمایش را با"
+        "en": "“The Last House,” a new thriller film starring Greta Lee and Wagner Moura, debuted with 27.5 million views in its first three days of streaming on Netflix. With that total, the movie easily sailed to the top of Netflix’s viewership rankings for the week of Aug. 3-9, not only as the No. 1 English-language film […]",
+        "fa": "«آخرین خانه»، یک فیلم هیجان‌انگیز جدید با بازی گرتا لی و واگنر مورا، با 27.5 میلیون بازدید در سه روز اول پخش از نتفلیکس به نمایش درآمد. با این مجموع، این فیلم به راحتی به صدر رده بندی بینندگان نتفلیکس در هفته 3 تا 9 آگوست رسید، نه تنها به عنوان فیلم شماره 1 انگلیسی زبان."
       },
       "content": {
-        "en": "EXCLUSIVE: Following work on Ang Lee’s new film Gold Mountain, actor Josh Stewart has inked with Gersh for representation in all areas. Gold Mountain, which recently wrapped production, is an adaptation of C Pam Zhang’s novel How Much of These Hills is Gold, with a script adapted by Pulitzer Prize finalist Chang-Rae Lee. Stewart shares the screen with […]",
-        "fa": "اختصاصی: پس از کار بر روی فیلم جدید آنگ لی، کوه طلایی، جاش استوارت بازیگر با گرش برای نمایندگی در همه زمینه ها جوهر امضا کرده است. کوه طلایی که اخیراً تولید آن به پایان رسیده است، اقتباسی از رمان «چقدر از این تپه‌ها طلاست» نوشته سی پام ژانگ است که فیلمنامه‌ای توسط چانگ رای لی، فینالیست جایزه پولیتزر اقتباس شده است. استوارت صفحه نمایش را با"
+        "en": "“The Last House,” a new thriller film starring Greta Lee and Wagner Moura, debuted with 27.5 million views in its first three days of streaming on Netflix. With that total, the movie easily sailed to the top of Netflix’s viewership rankings for the week of Aug. 3-9, not only as the No. 1 English-language film […]",
+        "fa": "«آخرین خانه»، یک فیلم هیجان‌انگیز جدید با بازی گرتا لی و واگنر مورا، با 27.5 میلیون بازدید در سه روز اول پخش از نتفلیکس به نمایش درآمد. با این مجموع، این فیلم به راحتی به صدر رده بندی بینندگان نتفلیکس در هفته 3 تا 9 آگوست رسید، نه تنها به عنوان فیلم شماره 1 انگلیسی زبان."
       },
       "source": {
-        "en": "Deadline",
-        "fa": "Deadline"
+        "en": "Variety",
+        "fa": "Variety"
       },
-      "link": "https://deadline.com/2026/08/the-odyssey-josh-stewart-signs-gersh-1237031136/",
-      "date": "2026-08-11T18:48:41.768191+00:00",
-      "image": "https://deadline.com/wp-content/uploads/2026/08/photo-split-josh-stewart-gersh.png",
+      "link": "https://variety.com/2026/film/news/the-last-house-ratings-netflix-views-1236832324/",
+      "date": "2026-08-11T19:55:21.335592+00:00",
+      "image": "https://variety.com/wp-content/uploads/2026/08/LastHouse_SG_004R2a.jpg",
       "important": false,
       "score": 3
     },
@@ -285,106 +165,106 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/joseph-gordon-levitt-gaijin-hulu-ivan-orkin-shannon-goss-1237030851/",
-      "date": "2026-08-11T18:48:41.767184+00:00",
+      "date": "2026-08-11T19:55:21.335203+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/Joseph-Gordon-Levitt-Shannon-Goss.jpg",
       "important": false,
       "score": 3
     },
     {
-      "id": "0e4373338631",
+      "id": "2733b07259bb",
       "title": {
-        "en": "‘Verity’ Trailer: Anne Hathaway Lures Dakota Johnson Into “Darkness” In Colleen Hoover Adaptation From Amazon MGM Studios",
-        "fa": "تریلر «Verity»: آن هاتاوی داکوتا جانسون را به «تاریکی» در اقتباس کالین هوور از استودیوی آمازون MGM می کشاند"
+        "en": "Gerardo Celasco, Alex Breaux, Ally Ioannides & Steven Yaffee Join Prime Video’s ‘Bishop’",
+        "fa": "جراردو سلاسکو، الکس بروکس، آلی یونیدس و استیون یافی به «بیشاپ» پرایم ویدیو می‌پیوندند"
       },
       "excerpt": {
-        "en": "UPDATED, August 11: The full trailer for Amazon MGM’s Verity film adaptation is here. Based on Colleen Hoover’s best-selling psychological thriller novel, the film stars Anne Hathaway as the titular author Verity Crawford, who has remained nonverbal and unable to walk since a devastating accident left her in that state. Josh Hartnett’s Jeremy Crawford recruits […]",
-        "fa": "به روز شده، 11 آگوست: تریلر کامل اقتباس فیلم Verity از آمازون MGM در اینجا است. این فیلم که بر اساس رمان هیجان انگیز روانشناختی پرفروش کالین هوور ساخته شده است، آن هاتاوی را در نقش نویسنده اصلی وریتی کرافورد بازی می کند، که پس از یک تصادف ویرانگر که او را در آن وضعیت قرار داده است، بی کلام مانده و قادر به راه رفتن نیست. جرمی کرافورد از جاش هارتنت استخدام می کند"
+        "en": "EXCLUSIVE: The expanding cast of Prime Video’s Bishop series has added Gerardo Celasco (The Waterfront, M.I.A.), Alex Breaux (Stranger Things, American Primeval), Ally Ioannides (Into The Badlands), and Steven Yaffee (Ghosts) in recurring roles. On Bishop, from co-creators Little Marvin and Tony Saltzman, homicide detective Bishop Graves (Joel Kinnaman) – brilliant, battle-scarred – will put all […]",
+        "fa": "انحصاری: بازیگران در حال گسترش سریال Bishop Prime Video جراردو سلاسکو، الکس بروکس، آلی یوآنیدس و استیون یافی را در نقش‌های تکرارشونده اضافه کرده‌اند. در Bishop، از ماروین کوچولو و تونی سالتزمن، کارآگاه قتل، اسقف گریوز - درخشان و زخمی از نبرد - همه چیز را به نمایش می گذارد."
       },
       "content": {
-        "en": "UPDATED, August 11: The full trailer for Amazon MGM’s Verity film adaptation is here. Based on Colleen Hoover’s best-selling psychological thriller novel, the film stars Anne Hathaway as the titular author Verity Crawford, who has remained nonverbal and unable to walk since a devastating accident left her in that state. Josh Hartnett’s Jeremy Crawford recruits […]",
-        "fa": "به روز شده، 11 آگوست: تریلر کامل اقتباس فیلم Verity از آمازون MGM در اینجا است. این فیلم که بر اساس رمان هیجان انگیز روانشناختی پرفروش کالین هوور ساخته شده است، آن هاتاوی را در نقش نویسنده اصلی وریتی کرافورد بازی می کند، که پس از یک تصادف ویرانگر که او را در آن وضعیت قرار داده است، بی کلام مانده و قادر به راه رفتن نیست. جرمی کرافورد از جاش هارتنت استخدام می کند"
+        "en": "EXCLUSIVE: The expanding cast of Prime Video’s Bishop series has added Gerardo Celasco (The Waterfront, M.I.A.), Alex Breaux (Stranger Things, American Primeval), Ally Ioannides (Into The Badlands), and Steven Yaffee (Ghosts) in recurring roles. On Bishop, from co-creators Little Marvin and Tony Saltzman, homicide detective Bishop Graves (Joel Kinnaman) – brilliant, battle-scarred – will put all […]",
+        "fa": "انحصاری: بازیگران در حال گسترش سریال Bishop Prime Video جراردو سلاسکو، الکس بروکس، آلی یوآنیدس و استیون یافی را در نقش‌های تکرارشونده اضافه کرده‌اند. در Bishop، از ماروین کوچولو و تونی سالتزمن، کارآگاه قتل، اسقف گریوز - درخشان و زخمی از نبرد - همه چیز را به نمایش می گذارد."
       },
       "source": {
         "en": "Deadline",
         "fa": "Deadline"
       },
-      "link": "https://deadline.com/2026/08/verity-trailer-anne-hathaway-dakota-johnson-amazon-mgm-1236873939/",
-      "date": "2026-08-11T18:48:41.767947+00:00",
-      "image": "https://deadline.com/wp-content/uploads/2026/04/Screenshot-2026-04-27-at-2.21.59 PM.png",
+      "link": "https://deadline.com/2026/08/gerardo-celasco-alex-breaux-cast-prime-video-bishop-1237031301/",
+      "date": "2026-08-11T19:55:21.333738+00:00",
+      "image": "https://deadline.com/wp-content/uploads/2026/08/Gerardo-Celasco-Alex-Breaux-Ally-Ioannides-Steven-Yaffee-.jpg",
       "important": false,
-      "score": 1
+      "score": 3
     },
     {
-      "id": "b9c2b5719f67",
+      "id": "9ff39b85b767",
       "title": {
-        "en": "Paramount Dates ‘Possession’ Remake Starring Callum Turner & Margaret Qualley",
-        "fa": "بازسازی پارامونت Dates «Possession» با بازی کالوم ترنر و مارگارت کوالی"
+        "en": "‘Josephine’ Trailer: Gemma Chan & Channing Tatum’s 8-Year-Old Witnesses A Terrible Crime; Sundance Double Winner Gets Release Date",
+        "fa": "تریلر «جوزفین»: جما چان و چانینگ تیتوم 8 ساله شاهدان یک جنایت وحشتناک. Sundance Double Winner تاریخ انتشار دریافت می کند"
       },
       "excerpt": {
-        "en": "Paramount has set a release date for its remake of the 1981 cult horror film Possession from Smile‘s Parker Finn. The film, starring Callum Turner and Margaret Qualley, will open wide in theaters on June 11, 2027. It’s set to open against Universal Pictures’ How to Train Your Dragon 2. Written and directed by Andrzej Żuławski, the original Possession starred Isabelle […]",
-        "fa": "پارامونت تاریخ اکران خود را برای بازسازی فیلم کالت ترسناک Possession محصول 1981 از پارکر فین از اسمایل تعیین کرده است. این فیلم با بازی کالوم ترنر و مارگارت کوالی در تاریخ 11 ژوئن 2027 به طور گسترده در سینماها اکران خواهد شد. این فیلم قرار است در برابر فیلم How to Train Your Dragon 2 از یونیورسال پیکچرز اکران شود. به نویسندگی و کارگردانی آندرژ ژولوسکی، فیلم اصلی Possession با بازی ایزابل."
+        "en": "“Josephine, can you tell me what you saw?” Those seven words solidify the premise for Josephine, sophomore writer-director Beth de Araújo’s drama that has major awards buzz after landing the Grand Jury Award and Audience Award at Sundance in January. Today we got our first trailer for the film — watch it above — along […]",
+        "fa": "\"ژوزفین، می‌توانی به من بگو چه دیدی؟\" این هفت کلمه فرضیه را برای ژوزفین، نویسنده و کارگردان سال دوم درام بث دی آرائوخو که پس از دریافت جایزه بزرگ هیئت داوران و جایزه تماشاگران در ساندنس در ژانویه، سر و صدای جوایز مهمی را به همراه داشت، محکم می کند. امروز اولین تریلر خود را از این فیلم دریافت کردیم - آن را در بالا تماشا کنید"
       },
       "content": {
-        "en": "Paramount has set a release date for its remake of the 1981 cult horror film Possession from Smile‘s Parker Finn. The film, starring Callum Turner and Margaret Qualley, will open wide in theaters on June 11, 2027. It’s set to open against Universal Pictures’ How to Train Your Dragon 2. Written and directed by Andrzej Żuławski, the original Possession starred Isabelle […]",
-        "fa": "پارامونت تاریخ اکران خود را برای بازسازی فیلم کالت ترسناک Possession محصول 1981 از پارکر فین از اسمایل تعیین کرده است. این فیلم با بازی کالوم ترنر و مارگارت کوالی در تاریخ 11 ژوئن 2027 به طور گسترده در سینماها اکران خواهد شد. این فیلم قرار است در برابر فیلم How to Train Your Dragon 2 از یونیورسال پیکچرز اکران شود. به نویسندگی و کارگردانی آندرژ ژولوسکی، فیلم اصلی Possession با بازی ایزابل."
+        "en": "“Josephine, can you tell me what you saw?” Those seven words solidify the premise for Josephine, sophomore writer-director Beth de Araújo’s drama that has major awards buzz after landing the Grand Jury Award and Audience Award at Sundance in January. Today we got our first trailer for the film — watch it above — along […]",
+        "fa": "\"ژوزفین، می‌توانی به من بگو چه دیدی؟\" این هفت کلمه فرضیه را برای ژوزفین، نویسنده و کارگردان سال دوم درام بث دی آرائوخو که پس از دریافت جایزه بزرگ هیئت داوران و جایزه تماشاگران در ساندنس در ژانویه، سر و صدای جوایز مهمی را به همراه داشت، محکم می کند. امروز اولین تریلر خود را از این فیلم دریافت کردیم - آن را در بالا تماشا کنید"
       },
       "source": {
         "en": "Deadline",
         "fa": "Deadline"
       },
-      "link": "https://deadline.com/2026/08/possession-remake-release-date-paramount-1237031178/",
-      "date": "2026-08-11T18:48:41.767333+00:00",
-      "image": "https://deadline.com/wp-content/uploads/2026/08/callum-turner-margaret-qualley-split.jpg",
+      "link": "https://deadline.com/2026/08/josephine-trailer-release-date-gemma-chan-channing-tatum-1237031226/",
+      "date": "2026-08-11T19:55:21.333982+00:00",
+      "image": "https://deadline.com/wp-content/uploads/2026/08/Josephine.jpg",
       "important": false,
-      "score": 1
+      "score": 2
     },
     {
-      "id": "7968d790b2bd",
+      "id": "3c0d78f94966",
       "title": {
-        "en": "Walt Disney Studios Second To Cross $4B WW In 2026 After Universal – Box Office",
-        "fa": "استودیو والت دیزنی پس از یونیورسال برای دومین بار در سال 2026 از 4 میلیارد دلار عبور کرد - باکس آفیس"
+        "en": "NYFF Announces Full 2026 Spotlight Lineup: ‘Fjord,’ ‘Club Kid,’ ‘Bucking Fastard,’ and More",
+        "fa": "NYFF ترکیب کامل 2026 Spotlight را اعلام کرد: «فیورد»، «بچه باشگاه»، «باکینگ فستارد» و موارد دیگر"
       },
       "excerpt": {
-        "en": "Walt Disney Studios today has just passed the $4 billion global benchmark at this year’s box office, becoming the second studio after Universal to do so. Disney/Pixar’s Toy Story 5 carries the torch as the studio’s highest grossing movie YTD with more than $1.095B ($624.2M int’l, $471.3M domestic). But also, the studio gets credit for […]",
-        "fa": "استودیوی والت دیزنی امروز در باکس آفیس امسال به تازگی از معیار جهانی 4 میلیارد دلاری عبور کرده و بعد از یونیورسال دومین استودیویی است که این کار را انجام می دهد. Disney/Pixar's Toy Story 5 مشعل را به عنوان پردرآمدترین فیلم YTD استودیو با بیش از 1.095 میلیارد دلار حمل می کند. اما همچنین، استودیو اعتبار دریافت می کند"
+        "en": "New films from Jonathan Glazer, Tom McCarthy, and Jesse Eisenberg will also screen at the 64th edition of the festival.",
+        "fa": "فیلم‌های جدیدی از جاناتان گلیزر، تام مک کارتی و جسی آیزنبرگ نیز در شصت و چهارمین دوره جشنواره نمایش داده می‌شوند."
       },
       "content": {
-        "en": "Walt Disney Studios today has just passed the $4 billion global benchmark at this year’s box office, becoming the second studio after Universal to do so. Disney/Pixar’s Toy Story 5 carries the torch as the studio’s highest grossing movie YTD with more than $1.095B ($624.2M int’l, $471.3M domestic). But also, the studio gets credit for […]",
-        "fa": "استودیوی والت دیزنی امروز در باکس آفیس امسال به تازگی از معیار جهانی 4 میلیارد دلاری عبور کرده و بعد از یونیورسال دومین استودیویی است که این کار را انجام می دهد. Disney/Pixar's Toy Story 5 مشعل را به عنوان پردرآمدترین فیلم YTD استودیو با بیش از 1.095 میلیارد دلار حمل می کند. اما همچنین، استودیو اعتبار دریافت می کند"
-      },
-      "source": {
-        "en": "Deadline",
-        "fa": "Deadline"
-      },
-      "link": "https://deadline.com/2026/08/walt-disney-studios-2026-global-box-office-1237031236/",
-      "date": "2026-08-11T18:48:41.766793+00:00",
-      "image": "https://deadline.com/wp-content/uploads/2023/10/Walt-Disney-Studios.jpg",
-      "important": false,
-      "score": 1
-    },
-    {
-      "id": "f3173ca54bdf",
-      "title": {
-        "en": "TIFF 2026 Adds ‘Wild Horse Nine,’ ‘The Liberation,’ ‘Bucking Fastard,’ Plus Full ‘In Conversation With’ Lineup",
-        "fa": "TIFF 2026 ترکیب «Wild Horse Nine»، «The Liberation»، «Bucking Fastard» و «In Conversation With» را اضافه می کند."
-      },
-      "excerpt": {
-        "en": "The annual festival has already shared a robust lineup, but today sees the addition 11 hot new films, plus a look at its in-person conversation series.",
-        "fa": "جشنواره سالانه قبلاً یک ترکیب قوی به اشتراک گذاشته است، اما امروز شاهد اضافه شدن 11 فیلم جدید داغ، به علاوه نگاهی به سری گفتگوهای حضوری آن هستیم."
-      },
-      "content": {
-        "en": "The annual festival has already shared a robust lineup, but today sees the addition 11 hot new films, plus a look at its in-person conversation series.",
-        "fa": "جشنواره سالانه قبلاً یک ترکیب قوی به اشتراک گذاشته است، اما امروز شاهد اضافه شدن 11 فیلم جدید داغ، به علاوه نگاهی به سری گفتگوهای حضوری آن هستیم."
+        "en": "New films from Jonathan Glazer, Tom McCarthy, and Jesse Eisenberg will also screen at the 64th edition of the festival.",
+        "fa": "فیلم‌های جدیدی از جاناتان گلیزر، تام مک کارتی و جسی آیزنبرگ نیز در شصت و چهارمین دوره جشنواره نمایش داده می‌شوند."
       },
       "source": {
         "en": "IndieWire",
         "fa": "IndieWire"
       },
-      "link": "https://www.indiewire.com/news/festivals/tiff-2026-adds-1235209842/",
-      "date": "2026-08-11T18:48:41.774755+00:00",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/08/Carrie-Coon-in-The-Liberation_FINAL-Key-Still-courtesy-Bleecker-Street.jpg?w=650",
+      "link": "https://www.indiewire.com/news/festivals/nyff-2026-spotlight-lineup-1235209826/",
+      "date": "2026-08-11T19:55:21.341278+00:00",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/05/204424-2-scaled-1.jpg?w=650",
       "important": false,
-      "score": 0
+      "score": 1
+    },
+    {
+      "id": "2090ac2c1ba7",
+      "title": {
+        "en": "‘Death Of A Salesman’, ‘Cats: The Jellicle Ball’ & ‘Every Brilliant Thing’ Soar In Final Weeks – Broadway Box Office",
+        "fa": "«مرگ فروشنده»، «گربه‌ها: توپ ژله‌ای» و «همه چیز درخشان» در هفته‌های پایانی اوج می‌گیرند - باکس آفیس برادوی"
+      },
+      "excerpt": {
+        "en": "Cats: The Jellicle Ball and Death of a Salesman ended their Broadway runs on very high notes, posting the biggest grosses of their engagements. Jellicle, closing five months earlier than planned and prompting considerable discussion (and lamentation) within the industry about production costs and the dim odds of scoring a big musical hit these days, […]",
+        "fa": "Cats: The Jellicle Ball و Death of a Salesman به اجراهای خود در برادوی با نت های بسیار بلند پایان دادند و بزرگترین درآمدهای نامزدی خود را منتشر کردند. Jellicle، پنج ماه زودتر از زمان برنامه‌ریزی بسته می‌شود و بحث‌های قابل‌توجهی را در صنعت در مورد هزینه‌های تولید و احتمال ضعیف به ثمر رساندن یک موفقیت بزرگ موسیقی این روزها برانگیخته است."
+      },
+      "content": {
+        "en": "Cats: The Jellicle Ball and Death of a Salesman ended their Broadway runs on very high notes, posting the biggest grosses of their engagements. Jellicle, closing five months earlier than planned and prompting considerable discussion (and lamentation) within the industry about production costs and the dim odds of scoring a big musical hit these days, […]",
+        "fa": "Cats: The Jellicle Ball و Death of a Salesman به اجراهای خود در برادوی با نت های بسیار بلند پایان دادند و بزرگترین درآمدهای نامزدی خود را منتشر کردند. Jellicle، پنج ماه زودتر از زمان برنامه‌ریزی بسته می‌شود و بحث‌های قابل‌توجهی را در صنعت در مورد هزینه‌های تولید و احتمال ضعیف به ثمر رساندن یک موفقیت بزرگ موسیقی این روزها برانگیخته است."
+      },
+      "source": {
+        "en": "Deadline",
+        "fa": "Deadline"
+      },
+      "link": "https://deadline.com/2026/08/death-of-a-salesman-cats-jellicle-ball-broadway-box-office-1237031012/",
+      "date": "2026-08-11T19:55:21.333449+00:00",
+      "image": "https://deadline.com/wp-content/uploads/2026/04/Sydney-James-Harcourt-as-‘Rumtumtugger-from-CATS_-The-Jellicle-Ball.-Photos-by-Matthew-Murphy-and-Evan-Zimmerman-for-MurphyMade.jpg",
+      "important": false,
+      "score": 1
     },
     {
       "id": "38f348bc034f",
@@ -405,7 +285,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/news/business/free-seminar-documentary-filmmakers-how-to-opt-out-ai-1235209818/",
-      "date": "2026-08-11T18:48:41.773581+00:00",
+      "date": "2026-08-11T19:55:21.340695+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/03/AI_FP_00002.jpg?w=650",
       "important": false,
       "score": 0
@@ -429,32 +309,8 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/criticism/movies/history-of-unofficial-movie-sequels-1235209659/",
-      "date": "2026-08-11T18:48:41.773214+00:00",
+      "date": "2026-08-11T19:55:21.340310+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/nsna2.webp?w=650",
-      "important": false,
-      "score": 0
-    },
-    {
-      "id": "95dfbb8b46b5",
-      "title": {
-        "en": "David Ellison’s Threat to Move Paramount Out of California Is ‘Blackmail,’ State AG Rob Bonta Says",
-        "fa": "راب بونتا می گوید تهدید دیوید الیسون برای انتقال پارامونت به خارج از کالیفرنیا \"باج گیری\" است."
-      },
-      "excerpt": {
-        "en": "\"Paramount has lost the plot as it continues to lose in court,\" the California attorney general says The post David Ellison’s Threat to Move Paramount Out of California Is ‘Blackmail,’ State AG Rob Bonta Says appeared first on TheWrap .",
-        "fa": "دادستان کل کالیفرنیا می‌گوید: «پارامونت نقشه را باخت و همچنان در دادگاه شکست می‌خورد"
-      },
-      "content": {
-        "en": "\"Paramount has lost the plot as it continues to lose in court,\" the California attorney general says The post David Ellison’s Threat to Move Paramount Out of California Is ‘Blackmail,’ State AG Rob Bonta Says appeared first on TheWrap .",
-        "fa": "دادستان کل کالیفرنیا می‌گوید: «پارامونت نقشه را باخت و همچنان در دادگاه شکست می‌خورد"
-      },
-      "source": {
-        "en": "The Wrap",
-        "fa": "The Wrap"
-      },
-      "link": "https://www.thewrap.com/industry-news/business/rob-bonta-responds-david-ellison-move-paramount-out-of-california/",
-      "date": "2026-08-11T18:48:41.772915+00:00",
-      "image": "https://www.thewrap.com/wp-content/uploads/2026/07/071325-WB-Paramount-v4.jpg",
       "important": false,
       "score": 0
     },
@@ -477,8 +333,32 @@
         "fa": "The Wrap"
       },
       "link": "https://www.thewrap.com/media-platforms/politics/morning-joe-scarborough-trump-vaccine-order-rfk-jr-video/",
-      "date": "2026-08-11T18:48:41.772311+00:00",
+      "date": "2026-08-11T19:55:21.339748+00:00",
       "image": "https://www.thewrap.com/wp-content/uploads/2026/08/Morning-Joe-8-11-26.jpg",
+      "important": false,
+      "score": 0
+    },
+    {
+      "id": "36c0eca92709",
+      "title": {
+        "en": "Paramount Sets Parker Finn’s ‘Possession’ Starring Callum Turner for June 2027 Release",
+        "fa": "پارامونت فیلم «تصرف» پارکر فین با بازی کالوم ترنر را برای اکران در ژوئن 2027 تنظیم می کند."
+      },
+      "excerpt": {
+        "en": "Margaret Qualley, Diego Calva and Paul Dano also star in the upcoming remake of the 1981 cult supernatural thriller The post Paramount Sets Parker Finn’s ‘Possession’ Starring Callum Turner for June 2027 Release appeared first on TheWrap .",
+        "fa": "مارگارت کوالی، دیگو کالوا و پل دانو نیز در بازسازی آینده تریلر فراطبیعی فرقه ای در سال 1981 بازی می کنند."
+      },
+      "content": {
+        "en": "Margaret Qualley, Diego Calva and Paul Dano also star in the upcoming remake of the 1981 cult supernatural thriller The post Paramount Sets Parker Finn’s ‘Possession’ Starring Callum Turner for June 2027 Release appeared first on TheWrap .",
+        "fa": "مارگارت کوالی، دیگو کالوا و پل دانو نیز در بازسازی آینده تریلر فراطبیعی فرقه ای در سال 1981 بازی می کنند."
+      },
+      "source": {
+        "en": "The Wrap",
+        "fa": "The Wrap"
+      },
+      "link": "https://www.thewrap.com/industry-news/business/paramount-parker-finn-possession-release-date/",
+      "date": "2026-08-11T19:55:21.339644+00:00",
+      "image": "https://www.thewrap.com/wp-content/uploads/2026/08/CallumTurner-e1786467402689.png",
       "important": false,
       "score": 0
     },
@@ -501,80 +381,200 @@
         "fa": "The Wrap"
       },
       "link": "https://www.thewrap.com/creative-content/movies/best-spider-man-movie-brand-new-day/",
-      "date": "2026-08-11T18:48:41.771899+00:00",
+      "date": "2026-08-11T19:55:21.339338+00:00",
       "image": "https://i0.wp.com/www.thewrap.com/wp-content/uploads/2026/08/Spider-Man-2.jpg?fit=1280%2C720&quality=89&ssl=1",
       "important": false,
       "score": 0
     },
     {
-      "id": "f17e120bcf7c",
+      "id": "a103cf5884ac",
       "title": {
-        "en": "Frank Miller Talks Arguing with Jim Shooter, Why His Doctor Strange Series Never Happened and ‘Sin City’ Future",
-        "fa": "صحبت فرانک میلر در مورد بحث با جیم شوتر، چرا سریال عجیب دکتر او هرگز اتفاق نیفتاد و آینده «شهر گناه»"
+        "en": "Jonas Brothers on Today’s New Generation of Disney Stars: “Don’t Envy Anybody That’s Doing This Now”",
+        "fa": "برادران جوناس در مورد نسل جدید ستارگان دیزنی امروز: \"به کسی که اکنون این کار را انجام می دهد حسادت نکن\""
       },
       "excerpt": {
-        "en": "The 'Dark Knight Returns' creator, already having a banner summer, is seeing the digital release of documentary 'Frank Miller: American Genius' out Tuesday.",
-        "fa": "خالق «بازگشت شوالیه تاریکی» که در حال حاضر یک بنر در تابستان دارد، شاهد انتشار دیجیتال مستند «فرانک میلر: نابغه آمریکایی» در روز سه شنبه است."
+        "en": "Nick, Joe and Kevin Jonas return to Disney for 'Camp Rock 3,' along with a whole new cast of campers.",
+        "fa": "نیک، جو و کوین جوناس برای «کمپ راک 3» به همراه گروه جدیدی از کمپینگ‌ها به دیزنی بازگشتند."
       },
       "content": {
-        "en": "The 'Dark Knight Returns' creator, already having a banner summer, is seeing the digital release of documentary 'Frank Miller: American Genius' out Tuesday.",
-        "fa": "خالق «بازگشت شوالیه تاریکی» که در حال حاضر یک بنر در تابستان دارد، شاهد انتشار دیجیتال مستند «فرانک میلر: نابغه آمریکایی» در روز سه شنبه است."
+        "en": "Nick, Joe and Kevin Jonas return to Disney for 'Camp Rock 3,' along with a whole new cast of campers.",
+        "fa": "نیک، جو و کوین جوناس برای «کمپ راک 3» به همراه گروه جدیدی از کمپینگ‌ها به دیزنی بازگشتند."
       },
       "source": {
         "en": "The Hollywood Reporter",
         "fa": "The Hollywood Reporter"
       },
-      "link": "https://www.hollywoodreporter.com/movies/movie-news/frank-miller-brand-new-day-1236670605/",
-      "date": "2026-08-11T18:48:41.771105+00:00",
-      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/Frank-Miller-Brand-New-Day-Embed-2026.jpg?w=1047&#038;h=590&#038;crop=1",
+      "link": "https://www.hollywoodreporter.com/movies/movie-news/jonas-brothers-new-generation-disney-stars-camp-rock-3-1236671030/",
+      "date": "2026-08-11T19:55:21.337819+00:00",
+      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/GettyImages-2289942763.jpg?crop=0px%2C186px%2C5000px%2C2797px&#038;resize=1440%2C810",
       "important": false,
       "score": 0
     },
     {
-      "id": "e88c878def8f",
+      "id": "90d5ea2ba8a2",
       "title": {
-        "en": "Inside ‘Dreams in Nightmares,’ a Vibrant Reinvention of the American Road Movie",
-        "fa": "درون «رویاها در کابوس‌ها»، اختراع دوباره‌ای از فیلم جاده آمریکایی"
+        "en": "Emmy Predictions: Lead Actor (Drama) — Which Submission Has the Edge? Noah Wyle, Sterling K. Brown, Mark Ruffalo and More",
+        "fa": "پیش‌بینی‌های امی: بازیگر اصلی - کدام ارسال برتری دارد؟ نوآ وایل، استرلینگ کی براون، مارک روفالو و غیره"
       },
       "excerpt": {
-        "en": "The sophomore feature from Shatara Michelle Ford features a stellar lead performance from Denée Benton, who connected deeply to the story of queer joy and friendship: “My last four years of chaotically crashing out led to really getting to alchemize it into art.”",
-        "fa": "فیلم دوم شاتارا میشل فورد، اجرای برجسته‌ای از دنی بنتون را به نمایش می‌گذارد که عمیقاً به داستان شادی و دوستی عجیب و غریب مرتبط است: «چهار سال آخر من که به‌طور آشفته‌ای منفجر می‌شدم باعث شد واقعاً آن را به هنر کیمیا کنم.»"
+        "en": "Variety Awards Circuit section is the home for all awards news and related content throughout the year, featuring the following: the official predictions for the upcoming Oscars, Emmys, Grammys and Tony Awards ceremonies, curated by Variety chief awards editor Clayton Davis. The prediction pages reflect the current standings in the race and do not reflect personal preferences for any individual […]",
+        "fa": "بخش Variety Awards Circuit خانه همه اخبار جوایز و محتوای مرتبط در طول سال است که شامل موارد زیر است: پیش بینی های رسمی مراسم آتی اسکار، امی، گرمی و جوایز تونی، که توسط سردبیر جوایز Variety، کلیتون دیویس، سرپرستی می شود. صفحات پیش بینی وضعیت فعلی در مسابقه را منعکس می کند و ترجیحات شخصی را برای هیچ فردی منعکس نمی کند"
       },
       "content": {
-        "en": "The sophomore feature from Shatara Michelle Ford features a stellar lead performance from Denée Benton, who connected deeply to the story of queer joy and friendship: “My last four years of chaotically crashing out led to really getting to alchemize it into art.”",
-        "fa": "فیلم دوم شاتارا میشل فورد، اجرای برجسته‌ای از دنی بنتون را به نمایش می‌گذارد که عمیقاً به داستان شادی و دوستی عجیب و غریب مرتبط است: «چهار سال آخر من که به‌طور آشفته‌ای منفجر می‌شدم باعث شد واقعاً آن را به هنر کیمیا کنم.»"
+        "en": "Variety Awards Circuit section is the home for all awards news and related content throughout the year, featuring the following: the official predictions for the upcoming Oscars, Emmys, Grammys and Tony Awards ceremonies, curated by Variety chief awards editor Clayton Davis. The prediction pages reflect the current standings in the race and do not reflect personal preferences for any individual […]",
+        "fa": "بخش Variety Awards Circuit خانه همه اخبار جوایز و محتوای مرتبط در طول سال است که شامل موارد زیر است: پیش بینی های رسمی مراسم آتی اسکار، امی، گرمی و جوایز تونی، که توسط سردبیر جوایز Variety، کلیتون دیویس، سرپرستی می شود. صفحات پیش بینی وضعیت فعلی در مسابقه را منعکس می کند و ترجیحات شخصی را برای هیچ فردی منعکس نمی کند"
       },
       "source": {
-        "en": "The Hollywood Reporter",
-        "fa": "The Hollywood Reporter"
+        "en": "Variety",
+        "fa": "Variety"
       },
-      "link": "https://www.hollywoodreporter.com/movies/movie-features/dreams-in-nightmares-exclusive-shatara-michelle-ford-1236670557/",
-      "date": "2026-08-11T18:48:41.770677+00:00",
-      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/DreamsInNightmares_Digital-Exclusive_6.jpg?w=1440&#038;h=810&#038;crop=1",
+      "link": "https://variety.com/lists/2026-emmys-lead-actor-drama-predictions/",
+      "date": "2026-08-11T19:55:21.336962+00:00",
+      "image": "https://variety.com/wp-content/uploads/2026/04/noah-wyle-the-pitt.jpg",
       "important": false,
       "score": 0
     },
     {
-      "id": "f9d23f0664af",
+      "id": "7e70e883de01",
       "title": {
-        "en": "How Julie Andrews’ Singing Poodle Inspired New Children’s Book With Daughter",
-        "fa": "چگونه پودل آواز جولی اندروز از کتاب جدید کودکان با دختر الهام گرفت؟"
+        "en": "Kennedy Center Ordered to Pay $250,000 to Jazz Musician It Unsuccessfully Sued for Backing Out of Concert After Trump Rebranding",
+        "fa": "مرکز کندی به پرداخت 250000 دلار به نوازنده جاز محکوم شد که به دلیل انصراف از کنسرت پس از تغییر برند ترامپ شکایت نکرد."
       },
       "excerpt": {
-        "en": "The actress and daughter Emma Walton Hamilton talk about how their children’s book celebrates creativity and confidence. Andrews also teases her Disney documentary.",
-        "fa": "بازیگر و دختر اما والتون همیلتون در مورد اینکه چگونه کتاب کودکانشان خلاقیت و اعتماد به نفس را تجلیل می کند صحبت می کنند. اندروز همچنین مستند دیزنی خود را مسخره می کند."
+        "en": "A judge has ruled that the Kennedy Center in Washington, D.C. must pay a jazz musician $252,000 in legal fees and costs, following the organization’s unsuccessful lawsuit against him for pulling out of a concert in the wake of a rebranding to include Donald J. Trump’s name. Chuck Redd hosted and performed at the Kennedy […]",
+        "fa": "یک قاضی حکم داد که مرکز کندی در واشنگتن دی سی باید 252000 دلار به عنوان هزینه ها و هزینه های قانونی به یک نوازنده جاز بپردازد، پس از شکایت ناموفق سازمان علیه او به دلیل انصراف از کنسرت در پی تغییر نام تجاری و درج نام دونالد جی ترامپ. چاک رد میزبان و اجرای کندی بود"
       },
       "content": {
-        "en": "The actress and daughter Emma Walton Hamilton talk about how their children’s book celebrates creativity and confidence. Andrews also teases her Disney documentary.",
-        "fa": "بازیگر و دختر اما والتون همیلتون در مورد اینکه چگونه کتاب کودکانشان خلاقیت و اعتماد به نفس را تجلیل می کند صحبت می کنند. اندروز همچنین مستند دیزنی خود را مسخره می کند."
+        "en": "A judge has ruled that the Kennedy Center in Washington, D.C. must pay a jazz musician $252,000 in legal fees and costs, following the organization’s unsuccessful lawsuit against him for pulling out of a concert in the wake of a rebranding to include Donald J. Trump’s name. Chuck Redd hosted and performed at the Kennedy […]",
+        "fa": "یک قاضی حکم داد که مرکز کندی در واشنگتن دی سی باید 252000 دلار به عنوان هزینه ها و هزینه های قانونی به یک نوازنده جاز بپردازد، پس از شکایت ناموفق سازمان علیه او به دلیل انصراف از کنسرت در پی تغییر نام تجاری و درج نام دونالد جی ترامپ. چاک رد میزبان و اجرای کندی بود"
       },
       "source": {
-        "en": "The Hollywood Reporter",
-        "fa": "The Hollywood Reporter"
+        "en": "Variety",
+        "fa": "Variety"
       },
-      "link": "https://www.hollywoodreporter.com/lifestyle/arts/julie-andrews-shy-childrens-book-daughter-disney-doc-1236670135/",
-      "date": "2026-08-11T18:48:41.770468+00:00",
-      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/AndrewsHamiltonBookSplit.jpg?w=1296&#038;h=730&#038;crop=1",
+      "link": "https://variety.com/2026/music/news/kennedy-center-to-pay-jazz-musician-sued-cancel-trump-1236832214/",
+      "date": "2026-08-11T19:55:21.336867+00:00",
+      "image": "https://variety.com/wp-content/uploads/2026/06/Kennedy-Center-removes-Trump-name.jpg",
+      "important": false,
+      "score": 0
+    },
+    {
+      "id": "d725803625e1",
+      "title": {
+        "en": "Ann Hui Named Camellia Award Recipient at Busan Film Festival – Global Bulletin",
+        "fa": "آن هوی برنده جایزه کاملیا در جشنواره فیلم بوسان - بولتن جهانی"
+      },
+      "excerpt": {
+        "en": "CAMELLIA CONFERRED Ann Hui, one of Hong Kong cinema’s defining figures, will receive the 2026 Camellia Award at the opening ceremony of the 31st Busan International Film Festival on Oct. 6 at Busan Cinema Center. The award, established by BIFF in partnership with Chanel to honor filmmakers who have advanced the status of women in the industry, goes to […]",
+        "fa": "CAMELLIA CONFERRED آن هوی، یکی از چهره های تعیین کننده سینمای هنگ کنگ، جایزه کاملیا 2026 را در مراسم افتتاحیه سی و یکمین جشنواره بین المللی فیلم بوسان در 6 اکتبر در مرکز سینمایی بوسان دریافت خواهد کرد. این جایزه که توسط BIFF با مشارکت Chanel برای تقدیر از فیلمسازانی که جایگاه زنان را در این صنعت ارتقاء داده اند، ایجاد شده است."
+      },
+      "content": {
+        "en": "CAMELLIA CONFERRED Ann Hui, one of Hong Kong cinema’s defining figures, will receive the 2026 Camellia Award at the opening ceremony of the 31st Busan International Film Festival on Oct. 6 at Busan Cinema Center. The award, established by BIFF in partnership with Chanel to honor filmmakers who have advanced the status of women in the industry, goes to […]",
+        "fa": "CAMELLIA CONFERRED آن هوی، یکی از چهره های تعیین کننده سینمای هنگ کنگ، جایزه کاملیا 2026 را در مراسم افتتاحیه سی و یکمین جشنواره بین المللی فیلم بوسان در 6 اکتبر در مرکز سینمایی بوسان دریافت خواهد کرد. این جایزه که توسط BIFF با مشارکت Chanel برای تقدیر از فیلمسازانی که جایگاه زنان را در این صنعت ارتقاء داده اند، ایجاد شده است."
+      },
+      "source": {
+        "en": "Variety",
+        "fa": "Variety"
+      },
+      "link": "https://variety.com/2026/film/festivals/ann-hui-camellia-award-biff-licchavi-cinema-festival-1236832309/",
+      "date": "2026-08-11T19:55:21.336643+00:00",
+      "image": "https://variety.com/wp-content/uploads/2026/08/Ann-Hui.jpg",
+      "important": false,
+      "score": 0
+    },
+    {
+      "id": "b1a5bce4307f",
+      "title": {
+        "en": "‘The Odyssey’ Photo Books Reveal Behind-the-Scenes Secrets of Filming the Trojan Horse, Battles and More",
+        "fa": "کتاب‌های عکس «اودیسه» رازهای پشت صحنه فیلمبرداری اسب تروا، نبردها و موارد دیگر را فاش می‌کنند."
+      },
+      "excerpt": {
+        "en": "Insight Editions, Universal Pictures and Syncopy are releasing two new books capturing the making and behind-the-scenes of Christopher Nolan’s “The Odyssey.” James Mottham’s book, “Filming the Odyssey: Inside the Making of Christopher Nolan’s Modern Epic” is out now and includes 280 pages tracing the creation of Nolan’s epic, from script to screen. Interviews with Nolan […]",
+        "fa": "اینسایت ادیشن، یونیورسال پیکچرز و سینکوپی دو کتاب جدید منتشر می کنند که مراحل ساخت و پشت صحنه فیلم «ادیسه» کریستوفر نولان را به تصویر می کشد. کتاب جیمز موتام، «فیلمبرداری ادیسه: درون ساختن حماسه مدرن کریستوفر نولان» اکنون منتشر شده است و شامل 280 صفحه است که از فیلمنامه تا صفحه نمایش حماسه نولان را دنبال می کند. مصاحبه با نولان"
+      },
+      "content": {
+        "en": "Insight Editions, Universal Pictures and Syncopy are releasing two new books capturing the making and behind-the-scenes of Christopher Nolan’s “The Odyssey.” James Mottham’s book, “Filming the Odyssey: Inside the Making of Christopher Nolan’s Modern Epic” is out now and includes 280 pages tracing the creation of Nolan’s epic, from script to screen. Interviews with Nolan […]",
+        "fa": "اینسایت ادیشن، یونیورسال پیکچرز و سینکوپی دو کتاب جدید منتشر می کنند که مراحل ساخت و پشت صحنه فیلم «ادیسه» کریستوفر نولان را به تصویر می کشد. کتاب جیمز موتام، «فیلمبرداری ادیسه: درون ساختن حماسه مدرن کریستوفر نولان» اکنون منتشر شده است و شامل 280 صفحه است که از فیلمنامه تا صفحه نمایش حماسه نولان را دنبال می کند. مصاحبه با نولان"
+      },
+      "source": {
+        "en": "Variety",
+        "fa": "Variety"
+      },
+      "link": "https://variety.com/2026/artisans/news/the-odyssey-christopher-nolan-book-photos-1236832103/",
+      "date": "2026-08-11T19:55:21.336391+00:00",
+      "image": "https://variety.com/wp-content/uploads/2026/08/Filming_Odyssey_Interior_HR-67-2.jpg",
+      "important": false,
+      "score": 0
+    },
+    {
+      "id": "dafd4de0c86e",
+      "title": {
+        "en": "Julie Andrews Turned Down ‘Princess Diaries 3’ Offer Because ‘I Think I’m Retired’ From On-Screen Acting: ‘They Asked Me All Last Year’ If I’d Return",
+        "fa": "جولی اندروز پیشنهاد «خاطرات پرنسس 3» را رد کرد زیرا «فکر می‌کنم بازنشسته شده‌ام» از بازیگری روی پرده: «تمام سال گذشته از من می‌پرسیدند» آیا برمی‌گردم"
+      },
+      "excerpt": {
+        "en": "Julie Andrews recently told InStyle magazine that she is not returning for “The Princess Diaries 3” opposite Anne Hathaway. The 90-year-old icon turned down the offer to reprise her role of Queen Clarisse in the movie, which will serve as a long-awaited sequel to 2001’s “The Princess Diaries” and 2004’s “Princess Diaries 2: Royal Engagement.” […]",
+        "fa": "جولی اندروز اخیراً به مجله InStyle گفته است که برای فیلم The Princess Diaries 3 در کنار آن هاتاوی باز نمی گردد. این نماد 90 ساله پیشنهاد بازی در نقش ملکه کلاریس را در این فیلم رد کرد، که به عنوان دنباله ای برای فیلم های «خاطرات شاهزاده خانم» در سال 2001 و «خاطرات شاهزاده خانم 2: نامزدی سلطنتی» در سال 2004 عمل خواهد کرد."
+      },
+      "content": {
+        "en": "Julie Andrews recently told InStyle magazine that she is not returning for “The Princess Diaries 3” opposite Anne Hathaway. The 90-year-old icon turned down the offer to reprise her role of Queen Clarisse in the movie, which will serve as a long-awaited sequel to 2001’s “The Princess Diaries” and 2004’s “Princess Diaries 2: Royal Engagement.” […]",
+        "fa": "جولی اندروز اخیراً به مجله InStyle گفته است که برای فیلم The Princess Diaries 3 در کنار آن هاتاوی باز نمی گردد. این نماد 90 ساله پیشنهاد بازی در نقش ملکه کلاریس را در این فیلم رد کرد، که به عنوان دنباله ای برای فیلم های «خاطرات شاهزاده خانم» در سال 2001 و «خاطرات شاهزاده خانم 2: نامزدی سلطنتی» در سال 2004 عمل خواهد کرد."
+      },
+      "source": {
+        "en": "Variety",
+        "fa": "Variety"
+      },
+      "link": "https://variety.com/2026/film/news/julie-andrews-rejected-princess-diaries-3-offer-retired-1236832252/",
+      "date": "2026-08-11T19:55:21.335883+00:00",
+      "image": "https://variety.com/wp-content/uploads/2022/12/MCDPRDI_EC018.jpg",
+      "important": false,
+      "score": 0
+    },
+    {
+      "id": "838efdcf47dc",
+      "title": {
+        "en": "Fans Remember Jackie the Eagle, Who Became a Social Media Star Worldwide: ‘Regal, Fierce, Deeply Devoted’",
+        "fa": "طرفداران جکی عقاب را به یاد می آورند که در سراسر جهان به یک ستاره رسانه های اجتماعی تبدیل شد: \"قانونی، خشن، عمیقا فداکار\""
+      },
+      "excerpt": {
+        "en": "Los Angeles media has been all over the death of a local celebrity for the past two days. But this time, the dearly departed wasn’t a movie star from the golden age of Hollywood. Instead, Southern Californians and the rest of the world are mourning the death of Jackie, the bald eagle. Jackie, who lived […]",
+        "fa": "رسانه های لس آنجلس طی دو روز گذشته در حال مرگ یک چهره مشهور محلی بوده اند. اما این بار، آن مرحوم ستاره سینمای دوران طلایی هالیوود نبود. در عوض، ساکنان کالیفرنیای جنوبی و بقیه جهان در سوگ مرگ جکی، عقاب کچل هستند. جکی که زندگی کرد"
+      },
+      "content": {
+        "en": "Los Angeles media has been all over the death of a local celebrity for the past two days. But this time, the dearly departed wasn’t a movie star from the golden age of Hollywood. Instead, Southern Californians and the rest of the world are mourning the death of Jackie, the bald eagle. Jackie, who lived […]",
+        "fa": "رسانه های لس آنجلس طی دو روز گذشته در حال مرگ یک چهره مشهور محلی بوده اند. اما این بار، آن مرحوم ستاره سینمای دوران طلایی هالیوود نبود. در عوض، ساکنان کالیفرنیای جنوبی و بقیه جهان در سوگ مرگ جکی، عقاب کچل هستند. جکی که زندگی کرد"
+      },
+      "source": {
+        "en": "Variety",
+        "fa": "Variety"
+      },
+      "link": "https://variety.com/2026/scene/news/jackie-eagle-dead-social-media-star-1236832299/",
+      "date": "2026-08-11T19:55:21.335443+00:00",
+      "image": "https://variety.com/wp-content/uploads/2026/08/Jackie-Bald-Eagle-Dead-Obit.jpg",
+      "important": false,
+      "score": 0
+    },
+    {
+      "id": "152a1bfe7429",
+      "title": {
+        "en": "CBS Kicks Off ‘The Late Show With Stephen Colbert’ Emmy Push With Celeb-Heavy Video, But No Sign Of Throwing Support Behind Jimmy Kimmel",
+        "fa": "CBS \"The Late Show With Stephen Colbert\" Emmy Push را با ویدئوی مشهور آغاز کرد، اما هیچ نشانه ای از پرتاب حمایت پشت سر جیمی کیمل وجود ندارد"
+      },
+      "excerpt": {
+        "en": "Last year, after CBS made the decision to cancel The Late Show with Stephen Colbert, Jimmy Kimmel threw his support behind his fellow late-night host to win the main late-night Emmy. Kimmel put up a billboard saying, “I’m voting for Stephen.” Many wondered then, 12 months on, after Kimmel had his own annus horribilis, including […]",
+        "fa": "سال گذشته، پس از اینکه CBS تصمیم گرفت سریال Late Show با استفان کولبرت را لغو کند، جیمی کیمل از همکار خود در اواخر شب حمایت کرد تا برنده امی اصلی اواخر شب شود. کیمل بیلبوردی را نصب کرد که روی آن نوشته بود: \"من به استفان رای می دهم.\" بسیاری در آن زمان، 12 ماه بعد، پس از آن که کیمل به آنوس هوربیلیس خاص خود مبتلا شد، تعجب کردند"
+      },
+      "content": {
+        "en": "Last year, after CBS made the decision to cancel The Late Show with Stephen Colbert, Jimmy Kimmel threw his support behind his fellow late-night host to win the main late-night Emmy. Kimmel put up a billboard saying, “I’m voting for Stephen.” Many wondered then, 12 months on, after Kimmel had his own annus horribilis, including […]",
+        "fa": "سال گذشته، پس از اینکه CBS تصمیم گرفت سریال Late Show با استفان کولبرت را لغو کند، جیمی کیمل از همکار خود در اواخر شب حمایت کرد تا برنده امی اصلی اواخر شب شود. کیمل بیلبوردی را نصب کرد که روی آن نوشته بود: \"من به استفان رای می دهم.\" بسیاری در آن زمان، 12 ماه بعد، پس از آن که کیمل به آنوس هوربیلیس خاص خود مبتلا شد، تعجب کردند"
+      },
+      "source": {
+        "en": "Deadline",
+        "fa": "Deadline"
+      },
+      "link": "https://deadline.com/2026/08/cbs-the-late-show-with-stephen-colbert-emmy-push-kimmel-1237031224/",
+      "date": "2026-08-11T19:55:21.334901+00:00",
+      "image": "https://deadline.com/wp-content/uploads/2026/08/GettyImages-1171025507.jpg",
       "important": false,
       "score": 0
     }
