@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-12T16:47:46.202081+00:00",
+  "updated_at": "2026-08-12T17:52:19.683843+00:00",
   "count": 24,
   "news": [
     {
@@ -21,8 +21,32 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/son-of-a-critch-trailer-final-season-1237030955/",
-      "date": "2026-08-12T16:47:45.976137+00:00",
+      "date": "2026-08-12T17:52:19.298069+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/Son-of-a-Critch-season-5.jpg",
+      "important": true,
+      "score": 7
+    },
+    {
+      "id": "12d0752fbb0f",
+      "title": {
+        "en": "Netflix & Paramount Extend ‘Seinfeld’ Licensing Deals",
+        "fa": "نتفلیکس و پارامونت قراردادهای مجوز «Seinfeld» را تمدید کردند"
+      },
+      "excerpt": {
+        "en": "It’s not everyday you see executives of the caliber of Netflix co-CEO Ted Sarandos and Paramount TV Media Chair George Cheeks give quotes for licensing deal extensions on a 37-year-old show. Then, Seinfeld is not just any show. Series distributor Sony Pictures Television has renewed its licensing agreements with Netflix and Paramount. Netflix will continue […]",
+        "fa": "هر روز نیست که می‌بینید مدیرانی در حد تد ساراندوس، مدیر عامل نتفلیکس و جورج چیکس، رئیس رسانه تلویزیونی پارامونت، برای تمدید مجوز در یک برنامه 37 ساله نقل قول می‌دهند. پس، ساینفلد فقط یک نمایش نیست. پخش کننده سریال Sony Pictures Television قراردادهای مجوز خود را با نتفلیکس و پارامونت تمدید کرد. نتفلیکس ادامه خواهد داشت"
+      },
+      "content": {
+        "en": "It’s not everyday you see executives of the caliber of Netflix co-CEO Ted Sarandos and Paramount TV Media Chair George Cheeks give quotes for licensing deal extensions on a 37-year-old show. Then, Seinfeld is not just any show. Series distributor Sony Pictures Television has renewed its licensing agreements with Netflix and Paramount. Netflix will continue […]",
+        "fa": "هر روز نیست که می‌بینید مدیرانی در حد تد ساراندوس، مدیر عامل نتفلیکس و جورج چیکس، رئیس رسانه تلویزیونی پارامونت، برای تمدید مجوز در یک برنامه 37 ساله نقل قول می‌دهند. پس، ساینفلد فقط یک نمایش نیست. پخش کننده سریال Sony Pictures Television قراردادهای مجوز خود را با نتفلیکس و پارامونت تمدید کرد. نتفلیکس ادامه خواهد داشت"
+      },
+      "source": {
+        "en": "Deadline",
+        "fa": "Deadline"
+      },
+      "link": "https://deadline.com/2026/08/netflix-paramount-seinfeld-licensing-deal-extensions-1237031878/",
+      "date": "2026-08-12T17:52:19.297196+00:00",
+      "image": "https://deadline.com/wp-content/uploads/2023/10/Seinfeld-1.jpg",
       "important": true,
       "score": 7
     },
@@ -45,34 +69,10 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/wrestleher-docuseries-documentary-acquisition-1237031531/",
-      "date": "2026-08-12T16:47:45.976230+00:00",
+      "date": "2026-08-12T17:52:19.298210+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/JMT7902.jpeg",
       "important": true,
       "score": 6
-    },
-    {
-      "id": "f1c1c0816a6e",
-      "title": {
-        "en": "‘The Influencer Project’ Trailer: Chiara King Blurs Fact and Fiction in a Viral Nightmare About Visibility",
-        "fa": "تریلر «پروژه تأثیرگذار»: کیارا کینگ واقعیت و داستان را در یک کابوس ویروسی درباره دید را محو می کند"
-      },
-      "excerpt": {
-        "en": "Exclusive: With \"The Blair Witch\" legends Eduardo Sánchez and Gregg Hale on set as producers, director Mike Nybroe delivers a startling found-footage flick through Hades Films this fall.",
-        "fa": "اختصاصی: با حضور اسطوره‌های «جادوگر بلر»، ادواردو سانچز و گرگ هیل به‌عنوان تهیه‌کننده، کارگردان مایک نایبرو در پاییز امسال فیلمی شگفت‌انگیز از فیلم‌های هادس ارائه می‌کند."
-      },
-      "content": {
-        "en": "Exclusive: With \"The Blair Witch\" legends Eduardo Sánchez and Gregg Hale on set as producers, director Mike Nybroe delivers a startling found-footage flick through Hades Films this fall.",
-        "fa": "اختصاصی: با حضور اسطوره‌های «جادوگر بلر»، ادواردو سانچز و گرگ هیل به‌عنوان تهیه‌کننده، کارگردان مایک نایبرو در پاییز امسال فیلمی شگفت‌انگیز از فیلم‌های هادس ارائه می‌کند."
-      },
-      "source": {
-        "en": "IndieWire",
-        "fa": "IndieWire"
-      },
-      "link": "https://www.indiewire.com/news/trailers/the-influencer-project-trailer-chiara-king-horror-1235209925/",
-      "date": "2026-08-12T16:47:45.984428+00:00",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/08/influence_260312_00140031_aRGB_High_f93b36.jpg?w=650",
-      "important": true,
-      "score": 4
     },
     {
       "id": "75e5b2a263e3",
@@ -93,56 +93,8 @@
         "fa": "The Wrap"
       },
       "link": "https://www.thewrap.com/creative-content/movies/animals-trailer-ben-affleck-kerry-washington-netflix/",
-      "date": "2026-08-12T16:47:45.981463+00:00",
+      "date": "2026-08-12T17:52:19.304644+00:00",
       "image": "https://www.thewrap.com/wp-content/uploads/2026/08/Animals-1.jpg",
-      "important": true,
-      "score": 4
-    },
-    {
-      "id": "93ddc108c81d",
-      "title": {
-        "en": "Sundance Dark Comedy ‘Run Amok’ Gets North American Deal With Greenwich Entertainment",
-        "fa": "کمدی تاریک ساندنس \"Run Amok\" با گرینویچ اینترتینمنت آمریکای شمالی معامله می کند"
-      },
-      "excerpt": {
-        "en": "EXCLUSIVE: Greenwich Entertainment has acquired North American distribution rights to Sundance dramedy Run Amok, the feature directorial debut of NB Mager. The Tandem Pictures and Greenmachine production stars Alyssa Marvin, Margaret Cho, Sophia Torres, Elizabeth Marvel, Bill Camp, Yul Vazquez, Grace Reiter, Jim Kaplan, Nuha Jes, Pilot Bunch, Molly Ringwald, and Patrick Wilson. Greenwich plans […]",
-        "fa": "انحصاری: گرینویچ اینترتینمنت حقوق پخش درام درام ساندنس را به نام Run Amok در آمریکای شمالی به دست آورده است، اولین کارگردانی فیلم NB Mager. بازیگرانی چون آلیسا ماروین، مارگارت چو، سوفیا تورس، الیزابت مارول، بیل کمپ، یول وازکوئز، گریس ریتر، جیم کاپلان، نوها جس، پایلوت باچ، مولی رینگوالد و پاتریک ویلسون در Tandem Pictures و Greenmachine در تولید فیلم‌ها به ایفای نقش پرداخته‌اند. طرح های گرینویچ"
-      },
-      "content": {
-        "en": "EXCLUSIVE: Greenwich Entertainment has acquired North American distribution rights to Sundance dramedy Run Amok, the feature directorial debut of NB Mager. The Tandem Pictures and Greenmachine production stars Alyssa Marvin, Margaret Cho, Sophia Torres, Elizabeth Marvel, Bill Camp, Yul Vazquez, Grace Reiter, Jim Kaplan, Nuha Jes, Pilot Bunch, Molly Ringwald, and Patrick Wilson. Greenwich plans […]",
-        "fa": "انحصاری: گرینویچ اینترتینمنت حقوق پخش درام درام ساندنس را به نام Run Amok در آمریکای شمالی به دست آورده است، اولین کارگردانی فیلم NB Mager. بازیگرانی چون آلیسا ماروین، مارگارت چو، سوفیا تورس، الیزابت مارول، بیل کمپ، یول وازکوئز، گریس ریتر، جیم کاپلان، نوها جس، پایلوت باچ، مولی رینگوالد و پاتریک ویلسون در Tandem Pictures و Greenmachine در تولید فیلم‌ها به ایفای نقش پرداخته‌اند. طرح های گرینویچ"
-      },
-      "source": {
-        "en": "Deadline",
-        "fa": "Deadline"
-      },
-      "link": "https://deadline.com/2026/08/sundance-run-amok-us-release-greenwich-entertainment-1237031733/",
-      "date": "2026-08-12T16:47:45.976734+00:00",
-      "image": "https://deadline.com/wp-content/uploads/2026/08/Run-Amok.png",
-      "important": true,
-      "score": 4
-    },
-    {
-      "id": "70c72936647f",
-      "title": {
-        "en": "Nicola Coughlan, Charithra Chandran, Kate Winslet & More Join Netflix’s ‘Charlie Vs. The Chocolate Factory’ As Streamer Sets Release Date & 47-Day Theatrical Window",
-        "fa": "نیکولا کوگلان، چاریترا چاندران، کیت وینسلت و سایرین به نتفلیکس «چارلی در مقابل» بپیوندید. The Chocolate Factory As Streamer تاریخ اکران و نمایش ۴۷ روزه را تعیین می کند"
-      },
-      "excerpt": {
-        "en": "The guest list at Willy Wonka’s factory is extending to Nicola Coughlan, Charithra Chandran, Samson Kayo, Christopher Chung, Kate Winslet and Helena Bonham Carter. These are the latest names to join the voice cast of Netflix’s Charlie vs. the Chocolate Factory, alongside previously announced stars Kit Connor as Charlie Paley and Taika Waititi as Willy Wonka. […]",
-        "fa": "لیست میهمانان کارخانه Willy Wonka به نیکولا کوگلان، چاریترا چاندران، سامسون کایو، کریستوفر چانگ، کیت وینسلت و هلنا بونهام کارتر می رسد. این‌ها آخرین نام‌هایی هستند که به صداپیشگان نتفلیکس چارلی در برابر کارخانه شکلات‌سازی، در کنار ستاره‌هایی که قبلاً معرفی شده بود، کیت کانر در نقش چارلی پیلی و تایکا وایتیتی در نقش ویلی وانکا هستند."
-      },
-      "content": {
-        "en": "The guest list at Willy Wonka’s factory is extending to Nicola Coughlan, Charithra Chandran, Samson Kayo, Christopher Chung, Kate Winslet and Helena Bonham Carter. These are the latest names to join the voice cast of Netflix’s Charlie vs. the Chocolate Factory, alongside previously announced stars Kit Connor as Charlie Paley and Taika Waititi as Willy Wonka. […]",
-        "fa": "لیست میهمانان کارخانه Willy Wonka به نیکولا کوگلان، چاریترا چاندران، سامسون کایو، کریستوفر چانگ، کیت وینسلت و هلنا بونهام کارتر می رسد. این‌ها آخرین نام‌هایی هستند که به صداپیشگان نتفلیکس چارلی در برابر کارخانه شکلات‌سازی، در کنار ستاره‌هایی که قبلاً معرفی شده بود، کیت کانر در نقش چارلی پیلی و تایکا وایتیتی در نقش ویلی وانکا هستند."
-      },
-      "source": {
-        "en": "Deadline",
-        "fa": "Deadline"
-      },
-      "link": "https://deadline.com/2026/08/netflix-charlie-chocolate-factory-release-theatrical-cast-1237031844/",
-      "date": "2026-08-12T16:47:45.976356+00:00",
-      "image": "https://deadline.com/wp-content/uploads/2026/08/Charlie-Chocolate-Factory-Netflix.jpg",
       "important": true,
       "score": 4
     },
@@ -165,32 +117,104 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/awards/consider-this/noah-wyle-shawn-hatosy-relationship-the-pitt-interview-emmy-1235209667/",
-      "date": "2026-08-12T16:47:45.984081+00:00",
+      "date": "2026-08-12T17:52:19.307356+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/GettyImages-2254131081.jpg?w=650",
       "important": false,
       "score": 3
     },
     {
-      "id": "ffdea7a508bf",
+      "id": "88c428f4ab98",
       "title": {
-        "en": "‘Don’t Say Good Luck’ Review: Sunny Sandler and Melanie Lynskey Give Genuine Soul to Netflix’s Mother-Daughter Heartbreaker",
-        "fa": "نقد و بررسی «نگویید موفق باشید»: سانی سندلر و ملانی لینسکی روح واقعی را به مادر و دختر نتفلیکس می‌دهند"
+        "en": "‘The End of Oak Street’ Review: David Robert Mitchell Delivers the Biggest Surprise of the Summer with the Best Dinosaur Movie Since 1993",
+        "fa": "نقد و بررسی «پایان خیابان بلوط»: دیوید رابرت میچل بزرگترین سورپرایز تابستان را با بهترین فیلم دایناسور از سال 1993 ارائه می کند."
       },
       "excerpt": {
-        "en": "There’s a high probability that you’ve seen Sunny Sandler on screen before: Thanks to the patronage of her ceaselessly prolific dad, Adam, the 17-year-old has amassed 26 film credits to date. In “Don’t Say Good Luck,” however, you’ll actually notice her. As a teenager likewise stepping into the spotlight for the first time — and, […]",
-        "fa": "به احتمال زیاد سانی سندلر را قبلاً روی پرده دیده‌اید: به لطف حمایت پدر بی‌وقفه‌اش، آدام، این دختر 17 ساله تا به امروز 26 عنوان فیلم را جمع‌آوری کرده است. با این حال، در «نگویید موفق باشید»، در واقع متوجه او خواهید شد. به عنوان یک نوجوان نیز برای اولین بار در کانون توجه قرار می گیرد - و"
+        "en": "There goes the neighborhood! Anne Hathaway and Ewan McGregor's suburban idyll is spirited back to the Jurassic era in a wildly crowd-pleasing Amblin throwback.",
+        "fa": "آنجا می رود محله! بت های حومه ای آن هاتاوی و یوان مک گرگور به دوران ژوراسیک بازمی گردد و در یک بازگشت وحشیانه از آمبلین که جمعیت را خوشایند می کند."
       },
       "content": {
-        "en": "There’s a high probability that you’ve seen Sunny Sandler on screen before: Thanks to the patronage of her ceaselessly prolific dad, Adam, the 17-year-old has amassed 26 film credits to date. In “Don’t Say Good Luck,” however, you’ll actually notice her. As a teenager likewise stepping into the spotlight for the first time — and, […]",
-        "fa": "به احتمال زیاد سانی سندلر را قبلاً روی پرده دیده‌اید: به لطف حمایت پدر بی‌وقفه‌اش، آدام، این دختر 17 ساله تا به امروز 26 عنوان فیلم را جمع‌آوری کرده است. با این حال، در «نگویید موفق باشید»، در واقع متوجه او خواهید شد. به عنوان یک نوجوان نیز برای اولین بار در کانون توجه قرار می گیرد - و"
+        "en": "There goes the neighborhood! Anne Hathaway and Ewan McGregor's suburban idyll is spirited back to the Jurassic era in a wildly crowd-pleasing Amblin throwback.",
+        "fa": "آنجا می رود محله! بت های حومه ای آن هاتاوی و یوان مک گرگور به دوران ژوراسیک بازمی گردد و در یک بازگشت وحشیانه از آمبلین که جمعیت را خوشایند می کند."
       },
       "source": {
-        "en": "Variety",
-        "fa": "Variety"
+        "en": "IndieWire",
+        "fa": "IndieWire"
       },
-      "link": "https://variety.com/2026/film/reviews/dont-say-good-luck-review-1236832816/",
-      "date": "2026-08-12T16:47:45.979579+00:00",
-      "image": "https://variety.com/wp-content/uploads/2026/08/dont-say-1.webp",
+      "link": "https://www.indiewire.com/criticism/movies/the-end-of-oak-street-dinosaur-movie-review-1235210068/",
+      "date": "2026-08-12T17:52:19.306621+00:00",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/03/rev-1-NBR-T1-0019_High_Res_JPEG.jpeg?w=650",
+      "important": false,
+      "score": 3
+    },
+    {
+      "id": "23fd5232fdd5",
+      "title": {
+        "en": "Netflix’s ‘Charlie vs. the Chocolate Factory’ to Release in Theaters With 45-Day Window",
+        "fa": "«چارلی علیه کارخانه شکلات سازی» نتفلیکس با یک پنجره ۴۵ روزه در سینماها اکران می شود"
+      },
+      "excerpt": {
+        "en": "The newly announced cast of the animated feature includes Kate Winslet, Nicola Coughlan and Helena Bonham Carter The post Netflix’s ‘Charlie vs. the Chocolate Factory’ to Release in Theaters With 45-Day Window appeared first on TheWrap .",
+        "fa": "بازیگران جدید معرفی شده این انیمیشن شامل کیت وینسلت، نیکولا کوگلن و هلنا بونهام کارتر هستند."
+      },
+      "content": {
+        "en": "The newly announced cast of the animated feature includes Kate Winslet, Nicola Coughlan and Helena Bonham Carter The post Netflix’s ‘Charlie vs. the Chocolate Factory’ to Release in Theaters With 45-Day Window appeared first on TheWrap .",
+        "fa": "بازیگران جدید معرفی شده این انیمیشن شامل کیت وینسلت، نیکولا کوگلن و هلنا بونهام کارتر هستند."
+      },
+      "source": {
+        "en": "The Wrap",
+        "fa": "The Wrap"
+      },
+      "link": "https://www.thewrap.com/creative-content/movies/charlie-vs-the-chocolate-factory-theatrical-release-date-netflix/",
+      "date": "2026-08-12T17:52:19.304324+00:00",
+      "image": "https://www.thewrap.com/wp-content/uploads/2026/08/Charlie-vs-the-Chocolate-Factory-1.jpg",
+      "important": false,
+      "score": 3
+    },
+    {
+      "id": "09a16797d9a5",
+      "title": {
+        "en": "‘X-Men ’97’ Season 2 Finale Explained: What That Credits Scene Sets Up for Season 3",
+        "fa": "توضیح پایانی فصل 2 «مردان ایکس 97»: آنچه که صحنه اعتباری برای فصل 3 تنظیم می کند"
+      },
+      "excerpt": {
+        "en": "Episode 9 gave us an emotional sacrifice and a hint at what comes next The post ‘X-Men ’97’ Season 2 Finale Explained: What That Credits Scene Sets Up for Season 3 appeared first on TheWrap .",
+        "fa": "قسمت 9 به ما فداکاری عاطفی و اشاره ای به اتفاقات بعدی داد"
+      },
+      "content": {
+        "en": "Episode 9 gave us an emotional sacrifice and a hint at what comes next The post ‘X-Men ’97’ Season 2 Finale Explained: What That Credits Scene Sets Up for Season 3 appeared first on TheWrap .",
+        "fa": "قسمت 9 به ما فداکاری عاطفی و اشاره ای به اتفاقات بعدی داد"
+      },
+      "source": {
+        "en": "The Wrap",
+        "fa": "The Wrap"
+      },
+      "link": "https://www.thewrap.com/creative-content/tv-shows/x-men-97-season-2-episode-9-ending-credits-scene-explained/",
+      "date": "2026-08-12T17:52:19.304131+00:00",
+      "image": "https://www.thewrap.com/wp-content/uploads/2026/08/X-Men-97.jpg",
+      "important": false,
+      "score": 3
+    },
+    {
+      "id": "a22c8c5fc6ea",
+      "title": {
+        "en": "How ‘The Shards’ Blew Up at HBO — and Ended Up in Ryan Murphy’s Hands",
+        "fa": "چگونه The Shards در HBO منفجر شد - و در دستان رایان مورفی قرار گرفت"
+      },
+      "excerpt": {
+        "en": "After it imploded at the WB streamer, author Bret Easton Ellis swore off television. But the provocative, camp-loving uber-producer had other ideas for the book at FX.",
+        "fa": "پس از انفجار در استریمر WB، نویسنده برت ایستون الیس از تلویزیون سوگند یاد کرد. اما این تهیه‌کننده محرک و دوست‌دار کمپ ایده‌های دیگری برای کتاب در FX داشت."
+      },
+      "content": {
+        "en": "After it imploded at the WB streamer, author Bret Easton Ellis swore off television. But the provocative, camp-loving uber-producer had other ideas for the book at FX.",
+        "fa": "پس از انفجار در استریمر WB، نویسنده برت ایستون الیس از تلویزیون سوگند یاد کرد. اما این تهیه‌کننده محرک و دوست‌دار کمپ ایده‌های دیگری برای کتاب در FX داشت."
+      },
+      "source": {
+        "en": "The Hollywood Reporter",
+        "fa": "The Hollywood Reporter"
+      },
+      "link": "https://www.hollywoodreporter.com/tv/tv-features/how-bret-easton-ellis-novel-hbo-ryan-murphy-1236671480/",
+      "date": "2026-08-12T17:52:19.302490+00:00",
+      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/15rep_rambling_shards_w.jpg?w=1440&#038;h=810&#038;crop=1",
       "important": false,
       "score": 3
     },
@@ -213,7 +237,7 @@
         "fa": "Variety"
       },
       "link": "https://variety.com/2026/tv/news/the-amazing-race-season-39-contestants-new-twists-1236832603/",
-      "date": "2026-08-12T16:47:45.978645+00:00",
+      "date": "2026-08-12T17:52:19.301222+00:00",
       "image": "https://variety.com/wp-content/uploads/2026/08/3100657_0155b.jpg",
       "important": false,
       "score": 3
@@ -237,56 +261,32 @@
         "fa": "Variety"
       },
       "link": "https://variety.com/2026/film/news/boys-for-life-cast-alex-wolff-will-angus-almost-friday-movie-1236832629/",
-      "date": "2026-08-12T16:47:45.978190+00:00",
+      "date": "2026-08-12T17:52:19.300575+00:00",
       "image": "https://variety.com/wp-content/uploads/2026/08/MixCollage-11-Aug-2026-08-18-PM-9078-e1786493954958.jpg",
       "important": false,
       "score": 3
     },
     {
-      "id": "4384519f8183",
+      "id": "c879f69b5e7a",
       "title": {
-        "en": "Viral Game ‘Scary Teacher’ Getting Movie Adaptation With Studio Vet Joe Roth Aboard",
-        "fa": "بازی ویروسی «معلم ترسناک» در حال اقتباس از فیلم با دامپزشک استودیو جو راث در سفر"
+        "en": "Top 61 Showrunners of 2026",
+        "fa": "61 شورانر برتر سال 2026"
       },
       "excerpt": {
-        "en": "EXCLUSIVE: Hollywood vet Joe Roth, the former Fox and Disney chairman, and his producing partner Jeff Kirschenbaum, are partnering with writers Cory Todd Hughes and Adrian Speckert to develop a feature adaptation of digital horror game Scary Teacher. Based on the hit franchise created by Z & K Games, Scary Teacher has billions of views […]",
-        "fa": "اختصاصی: جو راث، دامپزشک هالیوود، رئیس سابق فاکس و دیزنی، و شریک تهیه‌کننده‌اش جف کیرشنبام، با نویسندگان کوری تاد هیوز و آدریان اسپکرت همکاری می‌کنند تا اقتباسی از بازی ترسناک دیجیتال Scary Teacher را توسعه دهند. بر اساس فرنچایز موفق ایجاد شده توسط Z & K Games، Scary Teacher میلیاردها بازدید دارد"
+        "en": "Get to know the voices behind some of television’s biggest shows of the last 12 months. Doneen Arquines “Top Chef” veteran Arquines oversaw the Carolinas-based Season 23, which was stuffed with clever challenges that tapped into local culture, history and cuisine — including a NASCAR-themed Quickfire Challenge. One of the most diverse — and low-key […]",
+        "fa": "با صداهای پشت برخی از بزرگترین برنامه های تلویزیونی در 12 ماه گذشته آشنا شوید. Arquines کهنه‌کار «سرآشپز برتر» Doneen Arquines بر فصل 23 مستقر در کارولینا نظارت داشت، که مملو از چالش‌های هوشمندانه‌ای بود که در فرهنگ، تاریخ و غذاهای محلی - از جمله چالش Quickfire با مضمون NASCAR- وجود داشت. یکی از متنوع‌ترین - و کم‌کلید"
       },
       "content": {
-        "en": "EXCLUSIVE: Hollywood vet Joe Roth, the former Fox and Disney chairman, and his producing partner Jeff Kirschenbaum, are partnering with writers Cory Todd Hughes and Adrian Speckert to develop a feature adaptation of digital horror game Scary Teacher. Based on the hit franchise created by Z & K Games, Scary Teacher has billions of views […]",
-        "fa": "اختصاصی: جو راث، دامپزشک هالیوود، رئیس سابق فاکس و دیزنی، و شریک تهیه‌کننده‌اش جف کیرشنبام، با نویسندگان کوری تاد هیوز و آدریان اسپکرت همکاری می‌کنند تا اقتباسی از بازی ترسناک دیجیتال Scary Teacher را توسعه دهند. بر اساس فرنچایز موفق ایجاد شده توسط Z & K Games، Scary Teacher میلیاردها بازدید دارد"
+        "en": "Get to know the voices behind some of television’s biggest shows of the last 12 months. Doneen Arquines “Top Chef” veteran Arquines oversaw the Carolinas-based Season 23, which was stuffed with clever challenges that tapped into local culture, history and cuisine — including a NASCAR-themed Quickfire Challenge. One of the most diverse — and low-key […]",
+        "fa": "با صداهای پشت برخی از بزرگترین برنامه های تلویزیونی در 12 ماه گذشته آشنا شوید. Arquines کهنه‌کار «سرآشپز برتر» Doneen Arquines بر فصل 23 مستقر در کارولینا نظارت داشت، که مملو از چالش‌های هوشمندانه‌ای بود که در فرهنگ، تاریخ و غذاهای محلی - از جمله چالش Quickfire با مضمون NASCAR- وجود داشت. یکی از متنوع‌ترین - و کم‌کلید"
       },
       "source": {
-        "en": "Deadline",
-        "fa": "Deadline"
+        "en": "Variety",
+        "fa": "Variety"
       },
-      "link": "https://deadline.com/2026/08/scary-teacher-youtube-game-getting-movie-adaptation-1237031745/",
-      "date": "2026-08-12T16:47:45.977252+00:00",
-      "image": "https://deadline.com/wp-content/uploads/2026/08/Scary-Teacher.jpg",
-      "important": false,
-      "score": 3
-    },
-    {
-      "id": "dfbd7bb66164",
-      "title": {
-        "en": "‘Coyote vs. Acme’ Review: The Movie Warner Bros Shelved In 2023 Becomes Its Most Entertaining Film Of 2026 & Best Live Action/Toon Hybrid Since ‘Roger Rabbit’",
-        "fa": "نقد و بررسی «کایوتی در برابر آکم»: فیلم برادران وارنر در سال 2023 به نمایش گذاشته شد و به سرگرم‌کننده‌ترین فیلم سال 2026 و بهترین فیلم لایو اکشن/تون هیبرید پس از «راجر خرگوشه» تبدیل شد."
-      },
-      "excerpt": {
-        "en": "What in the world was Warner Bros thinking? In 2023 the studio canceled, shelved and ditched the finished animated/live action hybrid feature Coyote vs. Acme in favor of a tax writeoff rather than releasing the movie in theaters, or even streaming. This sort of corporate move would indicate the studio thinks the movie itself just […]",
-        "fa": "در دنیا برادران وارنر چه فکری می کرد؟ در سال 2023، استودیو فیلم نهایی ترکیبی انیمیشن/اکشن زنده را لغو کرد، و آن را کنار گذاشت و به جای اکران فیلم در سینماها یا حتی استریم، به حذف مالیات پرداخت. این نوع حرکت شرکتی نشان می دهد که استودیو به خود فیلم فکر می کند"
-      },
-      "content": {
-        "en": "What in the world was Warner Bros thinking? In 2023 the studio canceled, shelved and ditched the finished animated/live action hybrid feature Coyote vs. Acme in favor of a tax writeoff rather than releasing the movie in theaters, or even streaming. This sort of corporate move would indicate the studio thinks the movie itself just […]",
-        "fa": "در دنیا برادران وارنر چه فکری می کرد؟ در سال 2023، استودیو فیلم نهایی ترکیبی انیمیشن/اکشن زنده را لغو کرد، و آن را کنار گذاشت و به جای اکران فیلم در سینماها یا حتی استریم، به حذف مالیات پرداخت. این نوع حرکت شرکتی نشان می دهد که استودیو به خود فیلم فکر می کند"
-      },
-      "source": {
-        "en": "Deadline",
-        "fa": "Deadline"
-      },
-      "link": "https://deadline.com/2026/08/coyote-vs-acme-review-movie-warner-bros-shelved-2023-1237031528/",
-      "date": "2026-08-12T16:47:45.977085+00:00",
-      "image": "https://deadline.com/wp-content/uploads/2024/02/Coyote-v-Acme.jpg",
+      "link": "https://variety.com/2026/tv/news/top-showrunners-2026-1236832499/",
+      "date": "2026-08-12T17:52:19.299925+00:00",
+      "image": "https://variety.com/wp-content/uploads/2026/08/Showrunners.jpg",
       "important": false,
       "score": 3
     },
@@ -309,10 +309,130 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/neal-huff-gaby-hoffmann-paramount-plus-the-best-of-us-cast-1237031877/",
-      "date": "2026-08-12T16:47:45.975665+00:00",
+      "date": "2026-08-12T17:52:19.297638+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/912-photos.jpg",
       "important": false,
       "score": 3
+    },
+    {
+      "id": "6e2d337759a2",
+      "title": {
+        "en": "Jake Manley Joins AMC’s NASCAR Drama ‘Thunder Road’",
+        "fa": "جیک مانلی به درام NASCAR «جاده تندر» از AMC پیوست"
+      },
+      "excerpt": {
+        "en": "EXCLUSIVE: Jake Manley (My Life With The Walter Boys, Midway) rounds out the series regular cast of AMC’s upcoming NASCAR drama series Thunder Road, led by Dennis Quaid. The series is set to begin production this summer and will debut on AMC and AMC+ in 2027. From John Fusco, Thunder Road is the multi-generational saga of […]",
+        "fa": "انحصاری: جیک مانلی بازیگران ثابت سریال سریال درام نسکار آینده Thunder Road از AMC به رهبری دنیس کواید را تکمیل می کند. این سریال قرار است تابستان امسال تولید شود و در AMC و AMC+ در سال 2027 عرضه خواهد شد. از جان فوسکو، Thunder Road حماسه چند نسلی است."
+      },
+      "content": {
+        "en": "EXCLUSIVE: Jake Manley (My Life With The Walter Boys, Midway) rounds out the series regular cast of AMC’s upcoming NASCAR drama series Thunder Road, led by Dennis Quaid. The series is set to begin production this summer and will debut on AMC and AMC+ in 2027. From John Fusco, Thunder Road is the multi-generational saga of […]",
+        "fa": "انحصاری: جیک مانلی بازیگران ثابت سریال سریال درام نسکار آینده Thunder Road از AMC به رهبری دنیس کواید را تکمیل می کند. این سریال قرار است تابستان امسال تولید شود و در AMC و AMC+ در سال 2027 عرضه خواهد شد. از جان فوسکو، Thunder Road حماسه چند نسلی است."
+      },
+      "source": {
+        "en": "Deadline",
+        "fa": "Deadline"
+      },
+      "link": "https://deadline.com/2026/08/jake-manley-cast-amc-nascar-drama-thunder-road-1237031967/",
+      "date": "2026-08-12T17:52:19.297352+00:00",
+      "image": "https://deadline.com/wp-content/uploads/2026/08/jake-manley-thunder-road-amc.jpg",
+      "important": false,
+      "score": 3
+    },
+    {
+      "id": "bc9175eecec2",
+      "title": {
+        "en": "Ben Brown Tapped As Co-President Of Marketing Agency Bond Reuniting With Wayne Watson To Co-Run Company",
+        "fa": "بن براون به عنوان رئیس آژانس بازاریابی انتخاب شد پیوند مجدد با وین واتسون برای اداره شرکت"
+      },
+      "excerpt": {
+        "en": "EXCLUSIVE: Bond has hired Ben Brown as President, Head of AV and will team with Wayne Watson, who has led the division for the past two years, to lead the company together as co-presidents. Both report to co-founder and CEO Seth Phillips Althoff and will work closely with co-founder Luke Silver-Greenberg in future growth of […]",
+        "fa": "انحصاری: باند بن براون را به عنوان رئیس، رئیس AV استخدام کرده است و با وین واتسون، که در دو سال گذشته این بخش را رهبری کرده است، همکاری خواهد کرد تا شرکت را با هم به عنوان رئیس مشترک رهبری کنند. هر دو به یکی از بنیانگذاران و مدیرعامل ست فیلیپس آلتوف گزارش می دهند و از نزدیک با یکی از بنیانگذاران، لوک سیلور-گرینبرگ در رشد آینده کار خواهند کرد."
+      },
+      "content": {
+        "en": "EXCLUSIVE: Bond has hired Ben Brown as President, Head of AV and will team with Wayne Watson, who has led the division for the past two years, to lead the company together as co-presidents. Both report to co-founder and CEO Seth Phillips Althoff and will work closely with co-founder Luke Silver-Greenberg in future growth of […]",
+        "fa": "انحصاری: باند بن براون را به عنوان رئیس، رئیس AV استخدام کرده است و با وین واتسون، که در دو سال گذشته این بخش را رهبری کرده است، همکاری خواهد کرد تا شرکت را با هم به عنوان رئیس مشترک رهبری کنند. هر دو به یکی از بنیانگذاران و مدیرعامل ست فیلیپس آلتوف گزارش می دهند و از نزدیک با یکی از بنیانگذاران، لوک سیلور-گرینبرگ در رشد آینده کار خواهند کرد."
+      },
+      "source": {
+        "en": "Deadline",
+        "fa": "Deadline"
+      },
+      "link": "https://deadline.com/2026/08/ben-brown-bond-wayne-watson-1237031963/",
+      "date": "2026-08-12T17:52:19.297070+00:00",
+      "image": "https://deadline.com/wp-content/uploads/2026/08/bond.jpeg",
+      "important": false,
+      "score": 3
+    },
+    {
+      "id": "d6b9d0a5728d",
+      "title": {
+        "en": "‘Don’t Say Good Luck’ Review: Melanie Lynskey And Sunny Sandler Shine In Heartbreaking Coming Of Age True Story",
+        "fa": "نقد و بررسی «نگویید موفق باشید»: ملانی لینسکی و سانی سندلر در داستان واقعی دل‌خراش دوران سنی می‌درخشند"
+      },
+      "excerpt": {
+        "en": "After showing genuine talent opposite her father Adam Sandler in 2023’s Netflix comedy, You Are So Not Invited To My Bat Mitzvah, Sunny Sandler 100% confirms that talent runs in the family with another Netflix film produced by Happy Madison (her father’s production company) and right in line with the heartfelt coming of age films […]",
+        "fa": "سانی سندلر پس از نشان دادن استعداد واقعی در مقابل پدرش آدام سندلر در کمدی نتفلیکس در سال 2023، You Are So Not Invited To My Bat Mitzvah، 100% تایید می کند که استعداد در خانواده با فیلم دیگری از نتفلیکس که توسط مدیسون Happy Madison تهیه شده است و درست مطابق با فیلم های صمیمانه به سن بلوغ است، وجود دارد."
+      },
+      "content": {
+        "en": "After showing genuine talent opposite her father Adam Sandler in 2023’s Netflix comedy, You Are So Not Invited To My Bat Mitzvah, Sunny Sandler 100% confirms that talent runs in the family with another Netflix film produced by Happy Madison (her father’s production company) and right in line with the heartfelt coming of age films […]",
+        "fa": "سانی سندلر پس از نشان دادن استعداد واقعی در مقابل پدرش آدام سندلر در کمدی نتفلیکس در سال 2023، You Are So Not Invited To My Bat Mitzvah، 100% تایید می کند که استعداد در خانواده با فیلم دیگری از نتفلیکس که توسط مدیسون Happy Madison تهیه شده است و درست مطابق با فیلم های صمیمانه به سن بلوغ است، وجود دارد."
+      },
+      "source": {
+        "en": "Deadline",
+        "fa": "Deadline"
+      },
+      "link": "https://deadline.com/2026/08/dont-say-good-luck-review-melanie-lynskey-sunny-sandler-1237031849/",
+      "date": "2026-08-12T17:52:19.296424+00:00",
+      "image": "https://deadline.com/wp-content/uploads/2026/08/dont-say-1-1.webp",
+      "important": false,
+      "score": 3
+    },
+    {
+      "id": "9ec370ca6b1d",
+      "title": {
+        "en": "Keegan Allen, Conor Husting, Rio Mangini, Sophia Del Rio & Austin North Star In ’70s L.A. Music Drama ‘Small Talk’",
+        "fa": "کیگان آلن، کانر هاستینگ، ریو مانگینی، سوفیا دل ریو و ستاره آستین نورث در دهه 70 درام موسیقی لس‌آنجلس «Small Talk»"
+      },
+      "excerpt": {
+        "en": "EXCLUSIVE: Vincent Young has wrapped on the Los Angeles shoot for his directorial debut, Small Talk, a period music drama starring Keegan Allen (Pretty Little Liars), Conor Husting (The Expanding Universe of Ashley Garcia), Rio Mangini (Wolf Pack), Sophia Del Rio (72 Hours) and Austin North (Outer Banks). Set against the late ’70s Los Angeles rock scene, Small […]",
+        "fa": "اختصاصی: وینسنت یانگ فیلمبرداری لس آنجلس را برای اولین کارگردانی خود، Small Talk، یک درام موسیقی دورهمی با بازی کیگان آلن، کانر هاستینگ، ریو مانگینی، سوفیا دل ریو و آستین نورث به پایان رساند. در صحنه راک اواخر دهه 70 لس آنجلس، Small"
+      },
+      "content": {
+        "en": "EXCLUSIVE: Vincent Young has wrapped on the Los Angeles shoot for his directorial debut, Small Talk, a period music drama starring Keegan Allen (Pretty Little Liars), Conor Husting (The Expanding Universe of Ashley Garcia), Rio Mangini (Wolf Pack), Sophia Del Rio (72 Hours) and Austin North (Outer Banks). Set against the late ’70s Los Angeles rock scene, Small […]",
+        "fa": "اختصاصی: وینسنت یانگ فیلمبرداری لس آنجلس را برای اولین کارگردانی خود، Small Talk، یک درام موسیقی دورهمی با بازی کیگان آلن، کانر هاستینگ، ریو مانگینی، سوفیا دل ریو و آستین نورث به پایان رساند. در صحنه راک اواخر دهه 70 لس آنجلس، Small"
+      },
+      "source": {
+        "en": "Deadline",
+        "fa": "Deadline"
+      },
+      "link": "https://deadline.com/2026/08/keegan-allen-conor-husting-rio-mangini-star-small-talk-1237032109/",
+      "date": "2026-08-12T17:52:19.295535+00:00",
+      "image": "https://deadline.com/wp-content/uploads/2026/08/deadline-photo-split.png",
+      "important": false,
+      "score": 3
+    },
+    {
+      "id": "3b0914c9550d",
+      "title": {
+        "en": "Indie Specialized Box Office: Chefs, Slashers, Girl Scouts, and Cats Lead Stellar Week for Limited Releases",
+        "fa": "باکس آفیس تخصصی مستقل: سرآشپزها، اسلشرها، پیشاهنگان دختر، و گربه‌ها هفته ستاره‌ای را برای عرضه‌های محدود رهبری می‌کنند."
+      },
+      "excerpt": {
+        "en": "\"Tony,\" \"Teenage Sex and Death at Camp Miasma,\" \"Cookie Queens,\" and the annual CatVideoFest all opened strong even as \"Spider-Man\" broke records.",
+        "fa": "«تونی»، «سکس و مرگ نوجوان در کمپ میاسما»، «کوکی کوئینز» و جشنواره سالانه CatVideoFest همگی با قدرت شروع شدند، حتی زمانی که «اسپایدرمن» رکوردها را شکست."
+      },
+      "content": {
+        "en": "\"Tony,\" \"Teenage Sex and Death at Camp Miasma,\" \"Cookie Queens,\" and the annual CatVideoFest all opened strong even as \"Spider-Man\" broke records.",
+        "fa": "«تونی»، «سکس و مرگ نوجوان در کمپ میاسما»، «کوکی کوئینز» و جشنواره سالانه CatVideoFest همگی با قدرت شروع شدند، حتی زمانی که «اسپایدرمن» رکوردها را شکست."
+      },
+      "source": {
+        "en": "IndieWire",
+        "fa": "IndieWire"
+      },
+      "link": "https://www.indiewire.com/news/box-office/tony-teenage-sex-death-camp-miasma-indie-box-office-1235210007/",
+      "date": "2026-08-12T17:52:19.306921+00:00",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/08/T_16236-Edit.jpg?w=650",
+      "important": false,
+      "score": 1
     },
     {
       "id": "9e3cefa58493",
@@ -333,56 +453,32 @@
         "fa": "The Wrap"
       },
       "link": "https://www.thewrap.com/creative-content/tv-shows/jon-lovitz-called-out-adam-sandler-casting-him-as-pervert/",
-      "date": "2026-08-12T16:47:45.981386+00:00",
+      "date": "2026-08-12T17:52:19.304527+00:00",
       "image": "https://www.thewrap.com/wp-content/uploads/2026/08/jon-lovitz-tonight-show.jpg",
       "important": false,
       "score": 1
     },
     {
-      "id": "15b429af2955",
+      "id": "745b20c146bd",
       "title": {
-        "en": "Kit Harington Gets Caught in Love Triangle in ‘Tale of Two Cities’ Trailer",
-        "fa": "Kit Harington Gets in Love Triangle در تریلر Tale of Two Cities"
+        "en": "Jeremy Strong Messaged Mark Zuckerberg After ‘Social Reckoning’ Casting: ‘I Take This Responsibility Very Seriously’",
+        "fa": "جرمی استرانگ به مارک زاکربرگ پس از بازیگری در «تحقیق اجتماعی» پیام داد: «من این مسئولیت را بسیار جدی می‌گیرم»."
       },
       "excerpt": {
-        "en": "The four-part MGM+ adaptation of the classic Charles Dickens novel will release on Sept. 6.",
-        "fa": "اقتباس چهار قسمتی MGM+ از رمان کلاسیک چارلز دیکنز در ۶ سپتامبر منتشر خواهد شد."
+        "en": "\"I do not think you should have an actor playing him who wants to set out to condemn him,\" the former \"Succession\" star says The post Jeremy Strong Messaged Mark Zuckerberg After ‘Social Reckoning’ Casting: ‘I Take This Responsibility Very Seriously’ appeared first on TheWrap .",
+        "fa": "ستاره سابق «جانشینی» می‌گوید: «فکر نمی‌کنم بازیگری نقش او را داشته باشد که بخواهد او را محکوم کند."
       },
       "content": {
-        "en": "The four-part MGM+ adaptation of the classic Charles Dickens novel will release on Sept. 6.",
-        "fa": "اقتباس چهار قسمتی MGM+ از رمان کلاسیک چارلز دیکنز در ۶ سپتامبر منتشر خواهد شد."
+        "en": "\"I do not think you should have an actor playing him who wants to set out to condemn him,\" the former \"Succession\" star says The post Jeremy Strong Messaged Mark Zuckerberg After ‘Social Reckoning’ Casting: ‘I Take This Responsibility Very Seriously’ appeared first on TheWrap .",
+        "fa": "ستاره سابق «جانشینی» می‌گوید: «فکر نمی‌کنم بازیگری نقش او را داشته باشد که بخواهد او را محکوم کند."
       },
       "source": {
-        "en": "The Hollywood Reporter",
-        "fa": "The Hollywood Reporter"
+        "en": "The Wrap",
+        "fa": "The Wrap"
       },
-      "link": "https://www.hollywoodreporter.com/tv/tv-news/tale-of-two-cities-series-trailer-kit-harington-1236672088/",
-      "date": "2026-08-12T16:47:45.980357+00:00",
-      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2024/01/GettyImages-1248280757.jpg?w=1296&#038;h=730&#038;crop=1",
-      "important": false,
-      "score": 1
-    },
-    {
-      "id": "576800b74709",
-      "title": {
-        "en": "Box Office: ‘End of Oak Street’ Targets $25 Million Debut, ‘Spider-Man: Brand New Day’ to Remain No. 1",
-        "fa": "باکس آفیس: «انتهای اوک استریت» با هدف اکران ۲۵ میلیون دلاری، «مرد عنکبوتی: روز کاملاً جدید» در رتبه اول باقی بماند."
-      },
-      "excerpt": {
-        "en": "Anne Hathaway, Ewan McGregor and a pack of rogue dinosaurs won’t be able to catch the web-slinging Spider-Man at the top of box office charts. Sony and Marvel’s comic book juggernaut “Spider-Man: Brand New Day” is poised to dominate in North America during its third weekend of release. That’s despite five new nationwide releases: the […]",
-        "fa": "آن هاتاوی، یوان مک‌گرگور و گروهی از دایناسورهای سرکش نمی‌توانند مرد عنکبوتی را در صدر جدول باکس آفیس جذب کنند. فیلم کمیک سونی و مارول، «مرد عنکبوتی: روز کاملاً جدید» در سومین آخر هفته اکران خود در آمریکای شمالی تسلط پیدا خواهد کرد. این با وجود پنج نسخه جدید در سراسر کشور است:"
-      },
-      "content": {
-        "en": "Anne Hathaway, Ewan McGregor and a pack of rogue dinosaurs won’t be able to catch the web-slinging Spider-Man at the top of box office charts. Sony and Marvel’s comic book juggernaut “Spider-Man: Brand New Day” is poised to dominate in North America during its third weekend of release. That’s despite five new nationwide releases: the […]",
-        "fa": "آن هاتاوی، یوان مک‌گرگور و گروهی از دایناسورهای سرکش نمی‌توانند مرد عنکبوتی را در صدر جدول باکس آفیس جذب کنند. فیلم کمیک سونی و مارول، «مرد عنکبوتی: روز کاملاً جدید» در سومین آخر هفته اکران خود در آمریکای شمالی تسلط پیدا خواهد کرد. این با وجود پنج نسخه جدید در سراسر کشور است:"
-      },
-      "source": {
-        "en": "Variety",
-        "fa": "Variety"
-      },
-      "link": "https://variety.com/2026/film/box-office/end-of-oak-street-box-office-projections-spiderman-continues-domination-1236832153/",
-      "date": "2026-08-12T16:47:45.978994+00:00",
-      "image": "https://variety.com/wp-content/uploads/2026/08/MCDENOF_WB034.jpg",
+      "link": "https://www.thewrap.com/creative-content/movies/jeremy-strong-mark-zuckerberg-social-reckoning-casting/",
+      "date": "2026-08-12T17:52:19.303530+00:00",
+      "image": "https://www.thewrap.com/wp-content/uploads/2026/08/Jeremy-Strong-Mark-Zuckerberg-Split-Header.jpg",
       "important": false,
       "score": 1
     },
@@ -405,58 +501,34 @@
         "fa": "Variety"
       },
       "link": "https://variety.com/2026/film/news/adam-rosenberg-head-of-film-big-shot-pictures-1236832319/",
-      "date": "2026-08-12T16:47:45.978408+00:00",
+      "date": "2026-08-12T17:52:19.300882+00:00",
       "image": "https://variety.com/wp-content/uploads/2026/08/image003.jpg",
       "important": false,
       "score": 1
     },
     {
-      "id": "b0022df2dd0c",
+      "id": "cb3a851d5a53",
       "title": {
-        "en": "‘Reacher’ Spinoff ‘Neagley’ Trailer: Maria Sten Is Out To Snare A Killer",
-        "fa": "تریلر اسپین آف «ریچر» «نیگلی»: ماریا استن آماده است تا یک قاتل را به دام بیاندازد"
+        "en": "‘Barbie 2’ in Crisis: Sequel Could Be Shelved Amid Pay Battle and Crumbling Deal Talks",
+        "fa": "«باربی 2» در بحران: دنباله آن ممکن است در میان نبرد پرداخت و مذاکرات فروپاشی معامله متوقف شود"
       },
       "excerpt": {
-        "en": "“The clock’s ticking.” Prime Video has released the first full trailer for Reacher spinoff Neagley starring Maria Sten. Reprising her role as Frances Neagley, Sten takes on a dangerous cult to snare the killer of a longtime friend. “Looks like you had your hands full,” says Reacher star Alan Ritchson to Sten’s Frances Neagley seen […]",
-        "fa": "\"ساعت در حال تیک تاک است.\" Prime Video اولین تریلر کامل اسپین آف Reacher Neagley با بازی ماریا استن را منتشر کرد. استن با تکرار نقش خود در نقش فرانسیس نیگلی، یک فرقه خطرناک را برای به دام انداختن قاتل یک دوست دیرینه می پذیرد. آلن ریچسون، ستاره ریچر به فرانسیس نیگلی از استن می‌گوید: «به نظر می‌رسد دستتان پر بود."
+        "en": "“Do you guys ever think about dying?” Margot Robbie asks at the start of 2023’s “Barbie.” It’s one of many moments of existential dread that her character faces on the journey to becoming a real woman. Cut to three years later, and Hollywood insiders have spent the past week asking, “Do you guys think ‘Barbie’ […]",
+        "fa": "\"آیا تا به حال به مردن فکر می کنید؟\" مارگو رابی در ابتدای فیلم \"باربی\" در سال 2023 می پرسد. این یکی از بسیاری از لحظات ترس وجودی است که شخصیت او در سفر برای تبدیل شدن به یک زن واقعی با آن روبرو می شود. سه سال بعد کاهش یافت، و خودی‌های هالیوود هفته گذشته را سپری کردند که «آیا شما فکر می‌کنید «باربی»"
       },
       "content": {
-        "en": "“The clock’s ticking.” Prime Video has released the first full trailer for Reacher spinoff Neagley starring Maria Sten. Reprising her role as Frances Neagley, Sten takes on a dangerous cult to snare the killer of a longtime friend. “Looks like you had your hands full,” says Reacher star Alan Ritchson to Sten’s Frances Neagley seen […]",
-        "fa": "\"ساعت در حال تیک تاک است.\" Prime Video اولین تریلر کامل اسپین آف Reacher Neagley با بازی ماریا استن را منتشر کرد. استن با تکرار نقش خود در نقش فرانسیس نیگلی، یک فرقه خطرناک را برای به دام انداختن قاتل یک دوست دیرینه می پذیرد. آلن ریچسون، ستاره ریچر به فرانسیس نیگلی از استن می‌گوید: «به نظر می‌رسد دستتان پر بود."
+        "en": "“Do you guys ever think about dying?” Margot Robbie asks at the start of 2023’s “Barbie.” It’s one of many moments of existential dread that her character faces on the journey to becoming a real woman. Cut to three years later, and Hollywood insiders have spent the past week asking, “Do you guys think ‘Barbie’ […]",
+        "fa": "\"آیا تا به حال به مردن فکر می کنید؟\" مارگو رابی در ابتدای فیلم \"باربی\" در سال 2023 می پرسد. این یکی از بسیاری از لحظات ترس وجودی است که شخصیت او در سفر برای تبدیل شدن به یک زن واقعی با آن روبرو می شود. سه سال بعد کاهش یافت، و خودی‌های هالیوود هفته گذشته را سپری کردند که «آیا شما فکر می‌کنید «باربی»"
       },
       "source": {
-        "en": "Deadline",
-        "fa": "Deadline"
+        "en": "Variety",
+        "fa": "Variety"
       },
-      "link": "https://deadline.com/2026/08/reacher-spinoff-neagley-trailer-maria-sten-alan-ritchson-1237031757/",
-      "date": "2026-08-12T16:47:45.976831+00:00",
-      "image": "https://deadline.com/wp-content/uploads/2026/06/RSPI_S1_UT_105_250409_LANSAB_00059RC_3000.jpg",
+      "link": "https://variety.com/2026/film/news/barbie-2-paused-gerwig-robbie-failed-deals-sequel-1236833075/",
+      "date": "2026-08-12T17:52:19.299257+00:00",
+      "image": "https://variety.com/wp-content/uploads/2023/07/barbie-5.jpg",
       "important": false,
       "score": 1
-    },
-    {
-      "id": "b8f947393902",
-      "title": {
-        "en": "Copyright Is for Suckers: A Brief History of Unofficial Movie Sequels",
-        "fa": "حق چاپ برای مکنده ها است: تاریخچه مختصری از دنباله های غیر رسمی فیلم"
-      },
-      "excerpt": {
-        "en": "From \"Never Say Never Again\" to \"Piranha II\" and \"Cruel Jaws,\" unofficial sequels are a major part of movie history.",
-        "fa": "از «دیگر نگو هرگز» تا «پیرانا ۲» و «آرواره‌های بی‌رحمانه»، دنباله‌های غیررسمی بخش عمده‌ای از تاریخ سینما هستند."
-      },
-      "content": {
-        "en": "From \"Never Say Never Again\" to \"Piranha II\" and \"Cruel Jaws,\" unofficial sequels are a major part of movie history.",
-        "fa": "از «دیگر نگو هرگز» تا «پیرانا ۲» و «آرواره‌های بی‌رحمانه»، دنباله‌های غیررسمی بخش عمده‌ای از تاریخ سینما هستند."
-      },
-      "source": {
-        "en": "IndieWire",
-        "fa": "IndieWire"
-      },
-      "link": "https://www.indiewire.com/features/commentary/history-of-unofficial-movie-sequels-1235209659/",
-      "date": "2026-08-12T16:47:45.984345+00:00",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/08/nsna2.webp?w=650",
-      "important": false,
-      "score": 0
     },
     {
       "id": "66d1e72a2f6e",
@@ -477,104 +549,32 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/features/interviews/house-of-the-dragon-season-3-final-ryan-condal-interview-1235209273/",
-      "date": "2026-08-12T16:47:45.983934+00:00",
+      "date": "2026-08-12T17:52:19.307130+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/gayle-rankin-ewan-mitchell_0.jpg?w=650",
       "important": false,
       "score": 0
     },
     {
-      "id": "7453b304729f",
+      "id": "5f5da3fd700a",
       "title": {
-        "en": "How Disney’s Direct-to-Video Sequels Paved the Way for an Entire Culture of Mediocre I.P.",
-        "fa": "چگونه دنباله‌های مستقیم به ویدیوی دیزنی راه را برای فرهنگ کامل I.P متوسط ​​هموار کردند."
+        "en": "‘Coyote vs. Acme’ Review: Thank Goodness This Clever Comedy About the Evils of Corporate Greed Was Rescued from Corporate Hell",
+        "fa": "نقد و بررسی «کایوتی در برابر آکم»: خدا را شکر این کمدی هوشمندانه درباره شرارت حرص و طمع شرکتی از جهنم شرکتی نجات یافت"
       },
       "excerpt": {
-        "en": "From the '90s and the 2000s, Disney produced cheap direct-to-video sequels of their most iconic properties. Measured against the sequels of today, these weird cash-ins feel oddly prescient.",
-        "fa": "از دهه 90 و 2000، دیزنی دنباله‌های ارزان قیمتی از نمادین‌ترین ویژگی‌های خود را به‌صورت مستقیم به ویدیو تولید کرد. با توجه به عواقب امروزی، این پولهای عجیب و غریب به طرز عجیبی پیشگو هستند."
+        "en": "Dave Green's smart and sweet Looney Tunes movie is about underdogs (undercartoons?) fighting deep-pocketed baddies who don't care about actual quality. Funny!",
+        "fa": "فیلم هوشمند و شیرین Looney Tunes ساخته دیو گرین در مورد افراد مستضعف است که با بدجنس‌هایی با جیب‌های عمیق مبارزه می‌کنند که به کیفیت واقعی اهمیتی نمی‌دهند. خنده دار!"
       },
       "content": {
-        "en": "From the '90s and the 2000s, Disney produced cheap direct-to-video sequels of their most iconic properties. Measured against the sequels of today, these weird cash-ins feel oddly prescient.",
-        "fa": "از دهه 90 و 2000، دیزنی دنباله‌های ارزان قیمتی از نمادین‌ترین ویژگی‌های خود را به‌صورت مستقیم به ویدیو تولید کرد. با توجه به عواقب امروزی، این پولهای عجیب و غریب به طرز عجیبی پیشگو هستند."
+        "en": "Dave Green's smart and sweet Looney Tunes movie is about underdogs (undercartoons?) fighting deep-pocketed baddies who don't care about actual quality. Funny!",
+        "fa": "فیلم هوشمند و شیرین Looney Tunes ساخته دیو گرین در مورد افراد مستضعف است که با بدجنس‌هایی با جیب‌های عمیق مبارزه می‌کنند که به کیفیت واقعی اهمیتی نمی‌دهند. خنده دار!"
       },
       "source": {
         "en": "IndieWire",
         "fa": "IndieWire"
       },
-      "link": "https://www.indiewire.com/features/commentary/worst-disney-direct-to-video-sequels-1235209538/",
-      "date": "2026-08-12T16:47:45.982923+00:00",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/08/MSDLIME_WD011-1.jpg?w=650",
-      "important": false,
-      "score": 0
-    },
-    {
-      "id": "a629c111fb47",
-      "title": {
-        "en": "Steven Spielberg to Be Honored at Museum of Modern Art’s Film Benefit in New York",
-        "fa": "استیون اسپیلبرگ در موزه هنر مدرن فیلم Benefit در نیویورک تجلیل می شود"
-      },
-      "excerpt": {
-        "en": "The Chanel-presented gala will take place on Nov. 12.",
-        "fa": "گالا ارائه شده توسط Chanel در 12 نوامبر برگزار خواهد شد."
-      },
-      "content": {
-        "en": "The Chanel-presented gala will take place on Nov. 12.",
-        "fa": "گالا ارائه شده توسط Chanel در 12 نوامبر برگزار خواهد شد."
-      },
-      "source": {
-        "en": "The Hollywood Reporter",
-        "fa": "The Hollywood Reporter"
-      },
-      "link": "https://www.hollywoodreporter.com/movies/movie-news/steven-spielberg-museum-of-modern-art-film-benefit-new-york-1236671235/",
-      "date": "2026-08-12T16:47:45.981213+00:00",
-      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/Steven-Spielberg-Landscape_00739_EXT_crop.jpg?crop=0px%2C193px%2C11648px%2C6518px&#038;resize=1440%2C810",
-      "important": false,
-      "score": 0
-    },
-    {
-      "id": "278463528399",
-      "title": {
-        "en": "‘The Wrong Girls’ Review: Kristen Stewart and Alia Shawkat Light Up a Sweetly Stupid Stoner Comedy",
-        "fa": "نقد و بررسی «دختران اشتباه»: کریستن استوارت و آلیا شوکت یک کمدی استونر بسیار احمقانه را روشن می کنند"
-      },
-      "excerpt": {
-        "en": "Dylan Meyer writes and directs the film about two besties who accidentally come into possession of an experimental drug that gives them special powers.",
-        "fa": "دیلن مایر این فیلم را می نویسد و کارگردانی می کند در مورد دو بهترین که به طور تصادفی یک داروی آزمایشی را در اختیار می گیرند که به آنها قدرت خاصی می دهد."
-      },
-      "content": {
-        "en": "Dylan Meyer writes and directs the film about two besties who accidentally come into possession of an experimental drug that gives them special powers.",
-        "fa": "دیلن مایر این فیلم را می نویسد و کارگردانی می کند در مورد دو بهترین که به طور تصادفی یک داروی آزمایشی را در اختیار می گیرند که به آنها قدرت خاصی می دهد."
-      },
-      "source": {
-        "en": "The Hollywood Reporter",
-        "fa": "The Hollywood Reporter"
-      },
-      "link": "https://www.hollywoodreporter.com/movies/movie-reviews/the-wrong-girls-review-kristen-stewart-alia-shawkat-1236671066/",
-      "date": "2026-08-12T16:47:45.980282+00:00",
-      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/07/MCDWRGI_EC001-H-2026.jpg?w=1296&#038;h=730&#038;crop=1",
-      "important": false,
-      "score": 0
-    },
-    {
-      "id": "645337d23ac4",
-      "title": {
-        "en": "How ‘Pluribus’ Star Carlos Manuel Vesga Built Manousos’ Pilgrimage of Faith, Exile and Resistance",
-        "fa": "چگونه کارلوس مانوئل وسگا ستاره «پلوریباس» زیارت ایمان، تبعید و مقاومت مانوسوس را ساخت"
-      },
-      "excerpt": {
-        "en": "A game popular in Colombia, a person’s nationality, an icon of the Virgin Mary, spoken mantras — it’s details like these that gave Emmy-nominated “Pluribus” star Carlos Manuel Vesga the foundation on which to build his character, Manousos. Colombian star of TV, film and the stage, Vesga points out that Manousos is a Colombian immigrant […]",
-        "fa": "یک بازی محبوب در کلمبیا، ملیت یک فرد، نماد مریم باکره، مانتراهای گفتاری - این جزئیاتی است که به ستاره نامزد جایزه امی «Pluribus»، کارلوس مانوئل وسگا، شالوده ای برای ساخت شخصیت خود، Manousos، داد. ستاره کلمبیایی تلویزیون، فیلم و صحنه، وسگا اشاره می کند که مانوسوس یک مهاجر کلمبیایی است."
-      },
-      "content": {
-        "en": "A game popular in Colombia, a person’s nationality, an icon of the Virgin Mary, spoken mantras — it’s details like these that gave Emmy-nominated “Pluribus” star Carlos Manuel Vesga the foundation on which to build his character, Manousos. Colombian star of TV, film and the stage, Vesga points out that Manousos is a Colombian immigrant […]",
-        "fa": "یک بازی محبوب در کلمبیا، ملیت یک فرد، نماد مریم باکره، مانتراهای گفتاری - این جزئیاتی است که به ستاره نامزد جایزه امی «Pluribus»، کارلوس مانوئل وسگا، شالوده ای برای ساخت شخصیت خود، Manousos، داد. ستاره کلمبیایی تلویزیون، فیلم و صحنه، وسگا اشاره می کند که مانوسوس یک مهاجر کلمبیایی است."
-      },
-      "source": {
-        "en": "Variety",
-        "fa": "Variety"
-      },
-      "link": "https://variety.com/2026/tv/focus/pluribus-carlos-manuel-vesga-1236831746/",
-      "date": "2026-08-12T16:47:45.978079+00:00",
-      "image": "https://variety.com/wp-content/uploads/2026/07/Carols-Manuel-Vesga-Pluribus.jpg",
+      "link": "https://www.indiewire.com/criticism/movies/coyote-vs-acme-review-looney-tunes-live-action-comedy-1235209439/",
+      "date": "2026-08-12T17:52:19.306146+00:00",
+      "image": "https://www.indiewire.com/wp-content/uploads/2024/02/Coyote-vs-Acme.webp?w=650",
       "important": false,
       "score": 0
     }
