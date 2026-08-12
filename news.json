@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-08-12T07:10:31.665265+00:00",
+  "updated_at": "2026-08-12T09:02:57.865032+00:00",
   "count": 24,
   "news": [
+    {
+      "id": "35c92858bc34",
+      "title": {
+        "en": "‘Saturday Night Live UK’ Season 2 Gets Premiere Date",
+        "fa": "تاریخ پخش فصل دوم «Saturday Night Live UK» مشخص شد"
+      },
+      "excerpt": {
+        "en": "SNL will return to British shores on September 12. Sky has announced that the second season of Saturday Night Live UK will run for six episodes before taking a break and returning in early 2027. The Comcast-owned broadcaster, which is in the process of securing regulatory approval for a takeover of ITV, added that Season […]",
+        "fa": "SNL در 12 سپتامبر به سواحل بریتانیا بازخواهد گشت. اسکای اعلام کرده است که فصل دوم Saturday Night Live UK قبل از استراحت و بازگشت در اوایل سال 2027 به مدت شش قسمت اجرا می شود. پخش کننده متعلق به Comcast که در حال اخذ تاییدیه نظارتی برای تصاحب ITV است، اضافه کرد که Season"
+      },
+      "content": {
+        "en": "SNL will return to British shores on September 12. Sky has announced that the second season of Saturday Night Live UK will run for six episodes before taking a break and returning in early 2027. The Comcast-owned broadcaster, which is in the process of securing regulatory approval for a takeover of ITV, added that Season […]",
+        "fa": "SNL در 12 سپتامبر به سواحل بریتانیا بازخواهد گشت. اسکای اعلام کرده است که فصل دوم Saturday Night Live UK قبل از استراحت و بازگشت در اوایل سال 2027 به مدت شش قسمت اجرا می شود. پخش کننده متعلق به Comcast که در حال اخذ تاییدیه نظارتی برای تصاحب ITV است، اضافه کرد که Season"
+      },
+      "source": {
+        "en": "Deadline",
+        "fa": "Deadline"
+      },
+      "link": "https://deadline.com/2026/08/saturday-night-live-uk-season-2-premiere-date-1237031657/",
+      "date": "2026-08-12T09:02:57.520871+00:00",
+      "image": "https://deadline.com/wp-content/uploads/2026/03/Screenshot-2026-03-22-at-09.28.52-e1774171884485.png",
+      "important": true,
+      "score": 6
+    },
     {
       "id": "cc82f703627a",
       "title": {
@@ -10,18 +34,18 @@
       },
       "excerpt": {
         "en": "Starring Channing Tatum, Gemma Chan, and a revelatory Mason Reeves, the filmmaker's sophomore feature is poised for a big fall.",
-        "fa": "با بازی چانینگ تاتوم، جما چان، و میسون ریوز افشاگر، فیلم دوم این فیلمساز برای سقوطی بزرگ آماده است."
+        "fa": "با بازی چانینگ تاتوم، جما چان و میسون ریوز افشاگر، فیلم دوم این فیلمساز برای سقوط بزرگ آماده است."
       },
       "content": {
         "en": "Starring Channing Tatum, Gemma Chan, and a revelatory Mason Reeves, the filmmaker's sophomore feature is poised for a big fall.",
-        "fa": "با بازی چانینگ تاتوم، جما چان، و میسون ریوز افشاگر، فیلم دوم این فیلمساز برای سقوطی بزرگ آماده است."
+        "fa": "با بازی چانینگ تاتوم، جما چان و میسون ریوز افشاگر، فیلم دوم این فیلمساز برای سقوط بزرگ آماده است."
       },
       "source": {
         "en": "IndieWire",
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/news/trailers/josephine-trailer-beth-de-araujo-channing-tatum-1235209753/",
-      "date": "2026-08-12T07:10:31.385943+00:00",
+      "date": "2026-08-12T09:02:57.535529+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/01/Josephine-Still_1_50d4a7.jpg?w=650",
       "important": true,
       "score": 4
@@ -45,7 +69,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/news/trailers/the-influencer-project-trailer-chiara-king-horror-1235209925/",
-      "date": "2026-08-12T07:10:31.385088+00:00",
+      "date": "2026-08-12T09:02:57.534527+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/influence_260312_00140031_aRGB_High_f93b36.jpg?w=650",
       "important": true,
       "score": 4
@@ -69,7 +93,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/features/craft/mars-attacks-30th-anniversary-making-of-1235209277/",
-      "date": "2026-08-12T07:10:31.385845+00:00",
+      "date": "2026-08-12T09:02:57.535413+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/MSDMAAT_EC014.jpg?w=650",
       "important": false,
       "score": 3
@@ -93,7 +117,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/awards/consider-this/noah-wyle-shawn-hatosy-relationship-the-pitt-interview-emmy-1235209667/",
-      "date": "2026-08-12T07:10:31.384659+00:00",
+      "date": "2026-08-12T09:02:57.534012+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/GettyImages-2254131081.jpg?w=650",
       "important": false,
       "score": 3
@@ -117,32 +141,8 @@
         "fa": "The Wrap"
       },
       "link": "https://www.thewrap.com/creative-content/tv-shows/andy-cohen-confronts-paul-w-downs-hacks-season-5-dig/",
-      "date": "2026-08-12T07:10:31.382752+00:00",
+      "date": "2026-08-12T09:02:57.531755+00:00",
       "image": "https://www.thewrap.com/wp-content/uploads/2026/08/Untitled-design-2026-08-11T200330.625-1.jpg",
-      "important": false,
-      "score": 3
-    },
-    {
-      "id": "9200fe321110",
-      "title": {
-        "en": "‘SNL’ Parts Ways With Longtime Music Booker Brian Siedlecki (Exclusive)",
-        "fa": "«SNL» با برایان سیدلکی، بوکر موسیقی قدیمی، راه می‌دهد"
-      },
-      "excerpt": {
-        "en": "He had been with the show for nearly 30 years, joining as an intern in 1996.",
-        "fa": "او نزدیک به 30 سال در این برنامه حضور داشت و در سال 1996 به عنوان کارآموز پیوست."
-      },
-      "content": {
-        "en": "He had been with the show for nearly 30 years, joining as an intern in 1996.",
-        "fa": "او نزدیک به 30 سال در این برنامه حضور داشت و در سال 1996 به عنوان کارآموز پیوست."
-      },
-      "source": {
-        "en": "The Hollywood Reporter",
-        "fa": "The Hollywood Reporter"
-      },
-      "link": "https://www.hollywoodreporter.com/music/film-tv-music-news/snl-music-booker-brian-siedlecki-departs-show-exclusive-1236671437/",
-      "date": "2026-08-12T07:10:31.382084+00:00",
-      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/Olivia-Rodrigo-SNL-Main-2026.jpg?w=1296&#038;h=730&#038;crop=1",
       "important": false,
       "score": 3
     },
@@ -165,8 +165,56 @@
         "fa": "The Hollywood Reporter"
       },
       "link": "https://www.hollywoodreporter.com/tv/tv-features/kristina-kelly-house-of-stassi-vanderpump-rules-katie-payroll-1236671478/",
-      "date": "2026-08-12T07:10:31.381919+00:00",
+      "date": "2026-08-12T09:02:57.530934+00:00",
       "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/GettyImages-2288192552-e1786477952878.jpg?w=1440&#038;h=810&#038;crop=1",
+      "important": false,
+      "score": 3
+    },
+    {
+      "id": "0b940dda92d8",
+      "title": {
+        "en": "Nicholas Hoult Boards ‘Harry Potter’ Season 2 as Gilderoy Lockhart",
+        "fa": "نیکلاس هولت فصل دوم «هری پاتر» را در نقش گیلدروی لاکهارت بازی می‌کند"
+      },
+      "excerpt": {
+        "en": "The 'Superman' actor takes on a role played by Kenneth Branagh in the 'Chamber of Secrets' film.",
+        "fa": "بازیگر «سوپرمن» در فیلم «مجلس اسرار» در نقش کنت برانا بازی می‌کند."
+      },
+      "content": {
+        "en": "The 'Superman' actor takes on a role played by Kenneth Branagh in the 'Chamber of Secrets' film.",
+        "fa": "بازیگر «سوپرمن» در فیلم «مجلس اسرار» در نقش کنت برانا بازی می‌کند."
+      },
+      "source": {
+        "en": "The Hollywood Reporter",
+        "fa": "The Hollywood Reporter"
+      },
+      "link": "https://www.hollywoodreporter.com/tv/tv-news/nicholas-hoult-harry-potter-season-2-hbo-gilderoy-lockhart-1236671608/",
+      "date": "2026-08-12T09:02:57.530782+00:00",
+      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/GettyImages-2266747417.jpg?w=1296&#038;h=730&#038;crop=1",
+      "important": false,
+      "score": 3
+    },
+    {
+      "id": "258688be5eb9",
+      "title": {
+        "en": "Lee Daniels, Nadine Labaki, Marina Abramovic Win Liberatum Pioneer Awards (Exclusive)",
+        "fa": "لی دنیلز، نادین لباکی، مارینا آبراموویچ جوایز پیشگامان لیبراتوم را دریافت کردند"
+      },
+      "excerpt": {
+        "en": "The artists will be honored at a ceremony at the Venice Film Festival marking the 25th anniversary of Pablo Ganguli's Liberatum cultural diplomacy organization.",
+        "fa": "این هنرمندان در مراسمی در جشنواره فیلم ونیز به مناسبت بیست و پنجمین سالگرد تشکیل سازمان دیپلماسی فرهنگی لیبراتوم پابلو گانگولی تجلیل خواهند شد."
+      },
+      "content": {
+        "en": "The artists will be honored at a ceremony at the Venice Film Festival marking the 25th anniversary of Pablo Ganguli's Liberatum cultural diplomacy organization.",
+        "fa": "این هنرمندان در مراسمی در جشنواره فیلم ونیز به مناسبت بیست و پنجمین سالگرد تشکیل سازمان دیپلماسی فرهنگی لیبراتوم پابلو گانگولی تجلیل خواهند شد."
+      },
+      "source": {
+        "en": "The Hollywood Reporter",
+        "fa": "The Hollywood Reporter"
+      },
+      "link": "https://www.hollywoodreporter.com/movies/movie-news/lee-daniels-nadine-labaki-marina-abramovic-liberatum-awards-1236670800/",
+      "date": "2026-08-12T09:02:57.529135+00:00",
+      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/R-to-L_-Nadine-Labaki-Lee-Daniels-Marina-Abramovic.jpg?w=1440&#038;h=810&#038;crop=1",
       "important": false,
       "score": 3
     },
@@ -189,8 +237,32 @@
         "fa": "Variety"
       },
       "link": "https://variety.com/2026/film/global/barkhad-abdi-jim-deddes-teddy-cherims-maalstroom-1236832364/",
-      "date": "2026-08-12T07:10:31.377938+00:00",
+      "date": "2026-08-12T09:02:57.526005+00:00",
       "image": "https://variety.com/wp-content/uploads/2026/08/Maalstroom.jpg",
+      "important": false,
+      "score": 3
+    },
+    {
+      "id": "ebdbe3ddcbb2",
+      "title": {
+        "en": "Magna Studios Signs ‘20,000 Days On Earth’ Makers Iain Forsyth & Jane Pollard",
+        "fa": "استودیوی مگنا سازندگان «20000 روز در زمین» را ایین فورسیث و جین پولارد امضا کرد."
+      },
+      "excerpt": {
+        "en": "EXCLUSIVE: Magna Studios has signed 20,000 Days on Earth filmmakers and artists Iain Forsyth and Jane Pollard. The London-based talent rep and production house will handle commercial and brand representation, and we hear will be working with them on longer-form projects further down the line. Forysth and Pollard were behind 2014 music doc 20,000 Days […]",
+        "fa": "اختصاصی: استودیوی مگنا با فیلمسازان و هنرمندان ایین فورسیث و جین پولارد قرارداد 20000 Days on Earth امضا کرده است. نماینده و خانه تولید استعداد مستقر در لندن، نمایندگی تجاری و برند را بر عهده خواهد داشت، و شنیده‌ایم که در پروژه‌های طولانی‌تر با آنها کار خواهد کرد. فوریست و پولارد پشت مستند موسیقی 20000 روز 2014 بودند"
+      },
+      "content": {
+        "en": "EXCLUSIVE: Magna Studios has signed 20,000 Days on Earth filmmakers and artists Iain Forsyth and Jane Pollard. The London-based talent rep and production house will handle commercial and brand representation, and we hear will be working with them on longer-form projects further down the line. Forysth and Pollard were behind 2014 music doc 20,000 Days […]",
+        "fa": "اختصاصی: استودیوی مگنا با فیلمسازان و هنرمندان ایین فورسیث و جین پولارد قرارداد 20000 Days on Earth امضا کرده است. نماینده و خانه تولید استعداد مستقر در لندن، نمایندگی تجاری و برند را بر عهده خواهد داشت، و شنیده‌ایم که در پروژه‌های طولانی‌تر با آنها کار خواهد کرد. فوریست و پولارد پشت مستند موسیقی 20000 روز 2014 بودند"
+      },
+      "source": {
+        "en": "Deadline",
+        "fa": "Deadline"
+      },
+      "link": "https://deadline.com/2026/08/magna-studios-signs-iain-forsyth-jane-pollard-1237031033/",
+      "date": "2026-08-12T09:02:57.522600+00:00",
+      "image": "https://deadline.com/wp-content/uploads/2026/08/Iain-Forsyth-Jane-Pollard-e1786461197230.jpg",
       "important": false,
       "score": 3
     },
@@ -213,7 +285,7 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/crunchyroll-acquires-makoto-shinkai-next-feature-film-1237014191/",
-      "date": "2026-08-12T07:10:31.377291+00:00",
+      "date": "2026-08-12T09:02:57.525698+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/makoto-shinkai-crunchyroll.jpg",
       "important": false,
       "score": 2
@@ -237,7 +309,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/news/festivals/nyff-2026-spotlight-lineup-1235209826/",
-      "date": "2026-08-12T07:10:31.386143+00:00",
+      "date": "2026-08-12T09:02:57.535764+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/05/204424-2-scaled-1.jpg?w=650",
       "important": false,
       "score": 1
@@ -261,7 +333,7 @@
         "fa": "Variety"
       },
       "link": "https://variety.com/2026/film/global/caleb-landry-jones-down-the-arm-of-god-luc-besson-1236827771/",
-      "date": "2026-08-12T07:10:31.378261+00:00",
+      "date": "2026-08-12T09:02:57.526397+00:00",
       "image": "https://variety.com/wp-content/uploads/2026/08/DTAOG-1st-Photo-Printrecadr-2-1.jpg",
       "important": false,
       "score": 1
@@ -285,7 +357,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/news/business/free-seminar-documentary-filmmakers-how-to-opt-out-ai-1235209818/",
-      "date": "2026-08-12T07:10:31.385433+00:00",
+      "date": "2026-08-12T09:02:57.534912+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/03/AI_FP_00002.jpg?w=650",
       "important": false,
       "score": 0
@@ -309,7 +381,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/news/general-news/possession-remake-release-date-1235209951/",
-      "date": "2026-08-12T07:10:31.385257+00:00",
+      "date": "2026-08-12T09:02:57.534711+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2019/10/possession-1981-03-g.jpg?w=650",
       "important": false,
       "score": 0
@@ -333,7 +405,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/features/commentary/history-of-unofficial-movie-sequels-1235209659/",
-      "date": "2026-08-12T07:10:31.384984+00:00",
+      "date": "2026-08-12T09:02:57.534404+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/nsna2.webp?w=650",
       "important": false,
       "score": 0
@@ -357,8 +429,32 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/features/interviews/house-of-the-dragon-season-3-final-ryan-condal-interview-1235209273/",
-      "date": "2026-08-12T07:10:31.384478+00:00",
+      "date": "2026-08-12T09:02:57.533801+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/gayle-rankin-ewan-mitchell_0.jpg?w=650",
+      "important": false,
+      "score": 0
+    },
+    {
+      "id": "6b6da11979e4",
+      "title": {
+        "en": "Rod Stewart Cancels Farewell Tour Dates After Coronary Stent Procedure",
+        "fa": "راد استوارت تاریخ های تور خداحافظی را پس از استنت کرونری لغو کرد"
+      },
+      "excerpt": {
+        "en": "\"I'm already feeling better and very much on the mend,\" Stewart said in a statement Tuesday.",
+        "fa": "استوارت روز سه شنبه در بیانیه ای گفت: \"من در حال حاضر احساس بهتری دارم و بسیار در حال بهبود هستم.\""
+      },
+      "content": {
+        "en": "\"I'm already feeling better and very much on the mend,\" Stewart said in a statement Tuesday.",
+        "fa": "استوارت روز سه شنبه در بیانیه ای گفت: \"من در حال حاضر احساس بهتری دارم و بسیار در حال بهبود هستم.\""
+      },
+      "source": {
+        "en": "The Hollywood Reporter",
+        "fa": "The Hollywood Reporter"
+      },
+      "link": "https://www.hollywoodreporter.com/music/music-news/rod-stewart-cancels-tour-dates-stent-procedure-1236671694/",
+      "date": "2026-08-12T09:02:57.530592+00:00",
+      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/GettyImages-2245169664.jpg?w=1440&#038;h=810&#038;crop=1",
       "important": false,
       "score": 0
     },
@@ -381,7 +477,7 @@
         "fa": "The Hollywood Reporter"
       },
       "link": "https://www.hollywoodreporter.com/movies/movie-news/bill-jersey-dead-documentarian-time-for-burning-jim-crow-1236671735/",
-      "date": "2026-08-12T07:10:31.381555+00:00",
+      "date": "2026-08-12T09:02:57.530497+00:00",
       "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/Bill-Jersey-obit-temp-getty-H-2026.png?w=1296&#038;h=730&#038;crop=1",
       "important": false,
       "score": 0
@@ -405,32 +501,8 @@
         "fa": "The Hollywood Reporter"
       },
       "link": "https://www.hollywoodreporter.com/movies/movie-news/jim-carrey-grinch-michael-jackson-thriller-makeup-qa-1236654780/",
-      "date": "2026-08-12T07:10:31.380654+00:00",
+      "date": "2026-08-12T09:02:57.529377+00:00",
       "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/06/rickplusmonsters2-clean.jpg?w=1280&#038;h=810&#038;crop=1",
-      "important": false,
-      "score": 0
-    },
-    {
-      "id": "39d47878ac4f",
-      "title": {
-        "en": "Rod Stewart Cancels Upcoming Tour Dates Following Coronary Stent Procedure",
-        "fa": "راد استوارت تاریخ های تورهای آینده را به دنبال روش استنت عروق کرونر لغو می کند"
-      },
-      "excerpt": {
-        "en": "Rod Stewart has announced that he will be canceling the next four weeks of performances as part of his “One Last Time” farewell tour and “The Encore Shows” Las Vegas residency after undergoing a routine coronary stent procedure. The news comes just days after the singer postponed a show scheduled for Cincinnati’s Riverbend Music Center […]",
-        "fa": "راد استوارت اعلام کرده است که اجرای چهار هفته آینده خود را به عنوان بخشی از تور خداحافظی \"One Last Time\" و اقامت لاس وگاس \"The Encore Shows\" پس از انجام یک روش معمول استنت عروق کرونر لغو خواهد کرد. این خبر تنها چند روز پس از آن منتشر شد که خواننده اجرای برنامه در مرکز موسیقی ریوربند سینسیناتی را به تعویق انداخت."
-      },
-      "content": {
-        "en": "Rod Stewart has announced that he will be canceling the next four weeks of performances as part of his “One Last Time” farewell tour and “The Encore Shows” Las Vegas residency after undergoing a routine coronary stent procedure. The news comes just days after the singer postponed a show scheduled for Cincinnati’s Riverbend Music Center […]",
-        "fa": "راد استوارت اعلام کرده است که اجرای چهار هفته آینده خود را به عنوان بخشی از تور خداحافظی \"One Last Time\" و اقامت لاس وگاس \"The Encore Shows\" پس از انجام یک روش معمول استنت عروق کرونر لغو خواهد کرد. این خبر تنها چند روز پس از آن منتشر شد که خواننده اجرای برنامه در مرکز موسیقی ریوربند سینسیناتی را به تعویق انداخت."
-      },
-      "source": {
-        "en": "Variety",
-        "fa": "Variety"
-      },
-      "link": "https://variety.com/2026/music/news/rod-stewart-cancels-tour-dates-coronary-stent-procedure-1236832530/",
-      "date": "2026-08-12T07:10:31.380475+00:00",
-      "image": "https://variety.com/wp-content/uploads/2026/01/GettyImages-1822915730-e1769267527872.jpg",
       "important": false,
       "score": 0
     },
@@ -453,7 +525,7 @@
         "fa": "Variety"
       },
       "link": "https://variety.com/2026/digital/news/gaming-news-roundup-week-of-august-10-1236831438/",
-      "date": "2026-08-12T07:10:31.380380+00:00",
+      "date": "2026-08-12T09:02:57.528934+00:00",
       "image": "https://variety.com/wp-content/uploads/2026/08/1.png",
       "important": false,
       "score": 0
@@ -477,7 +549,7 @@
         "fa": "Variety"
       },
       "link": "https://variety.com/2026/film/news/zoe-saldana-political-questions-women-of-color-white-men-1236832484/",
-      "date": "2026-08-12T07:10:31.380047+00:00",
+      "date": "2026-08-12T09:02:57.528549+00:00",
       "image": "https://variety.com/wp-content/uploads/2026/08/P107EGCX.jpg",
       "important": false,
       "score": 0
@@ -501,80 +573,8 @@
         "fa": "Variety"
       },
       "link": "https://variety.com/2026/film/news/the-brink-of-war-review-1236831938/",
-      "date": "2026-08-12T07:10:31.379445+00:00",
+      "date": "2026-08-12T09:02:57.527795+00:00",
       "image": "https://variety.com/wp-content/uploads/2026/08/R_03561.jpg",
-      "important": false,
-      "score": 0
-    },
-    {
-      "id": "35dac2be1f47",
-      "title": {
-        "en": "National CineMedia To Acquire Captivate For $275M, Expand From Movie Theater Ads To Offices & Apartment Buildings",
-        "fa": "National CineMedia برای خرید Captivate با 275 میلیون دلار، گسترش از تبلیغات سینما به دفاتر و ساختمان‌های آپارتمانی"
-      },
-      "excerpt": {
-        "en": "National CineMedia has agreed to buy Captivate Holdings, a leading operator of digital video elevator and lobby advertising in North America, from PE firm Generation Partners for $275 million. Combining NCM’s cinema advertising with Captivate’s footprint will make it a major player in premium video and digital out-of-home advertising with more than 48,000 screens across […]",
-        "fa": "National CineMedia موافقت کرده است که Captivate Holdings، اپراتور پیشرو در آسانسورهای ویدئویی دیجیتال و تبلیغات لابی در آمریکای شمالی، از شرکت PE Generation Partners به ​​قیمت 275 میلیون دلار بخرد. ترکیب تبلیغات سینمایی NCM با ردپای Captivate، آن را به یک بازیگر اصلی در ویدیوهای ممتاز و تبلیغات دیجیتال خارج از خانه با بیش از 48000 صفحه نمایش در سراسر جهان تبدیل خواهد کرد."
-      },
-      "content": {
-        "en": "National CineMedia has agreed to buy Captivate Holdings, a leading operator of digital video elevator and lobby advertising in North America, from PE firm Generation Partners for $275 million. Combining NCM’s cinema advertising with Captivate’s footprint will make it a major player in premium video and digital out-of-home advertising with more than 48,000 screens across […]",
-        "fa": "National CineMedia موافقت کرده است که Captivate Holdings، اپراتور پیشرو در آسانسورهای ویدئویی دیجیتال و تبلیغات لابی در آمریکای شمالی، از شرکت PE Generation Partners به ​​قیمت 275 میلیون دلار بخرد. ترکیب تبلیغات سینمایی NCM با ردپای Captivate، آن را به یک بازیگر اصلی در ویدیوهای ممتاز و تبلیغات دیجیتال خارج از خانه با بیش از 48000 صفحه نمایش در سراسر جهان تبدیل خواهد کرد."
-      },
-      "source": {
-        "en": "Deadline",
-        "fa": "Deadline"
-      },
-      "link": "https://deadline.com/2026/08/national-cinemedia-acquiring-advertising-platform-captivate-1237031526/",
-      "date": "2026-08-12T07:10:31.377108+00:00",
-      "image": "https://deadline.com/wp-content/uploads/2024/03/NCMI-Noovie.jpg",
-      "important": false,
-      "score": 0
-    },
-    {
-      "id": "5155c7f707f9",
-      "title": {
-        "en": "Doc Talk Podcast: Directors Judd Apatow & Michael Bonfiglio On Their Emmy Contender ‘Mel Brooks: The 99 Year Old Man!’",
-        "fa": "پادکست Doc Talk: کارگردانان جاد آپاتو و مایکل بونفیگلیو در مورد رقیب امی خود «مل بروکس: مرد 99 ساله!»"
-      },
-      "excerpt": {
-        "en": "For over 75 years, Mel Brooks has been making people laugh. Hard. He’s brought to the screen Mongo, Lili Von Shtüpp, the grandson of a certain mad scientist (aka Young Frankenstein), Frau Blücher (“A little Ovaltine, perhaps?), Louis XVI (“It’s good to be the king”), Max Bialystock, Leo Bloom, Barf, Dark Helmet, President Skroob, Yogurt, […]",
-        "fa": "برای بیش از 75 سال، مل بروکس مردم را می خنداند. سخت او مونگو، لیلی فون اشتوپ، نوه یک دانشمند دیوانه خاص، فراو بلوچر، لوئیس شانزدهم، ماکس بیالیستوک، لئو بلوم، بارف، کلاه تیره، پرزیدنت اسکروب، ماست را روی پرده آورده است."
-      },
-      "content": {
-        "en": "For over 75 years, Mel Brooks has been making people laugh. Hard. He’s brought to the screen Mongo, Lili Von Shtüpp, the grandson of a certain mad scientist (aka Young Frankenstein), Frau Blücher (“A little Ovaltine, perhaps?), Louis XVI (“It’s good to be the king”), Max Bialystock, Leo Bloom, Barf, Dark Helmet, President Skroob, Yogurt, […]",
-        "fa": "برای بیش از 75 سال، مل بروکس مردم را می خنداند. سخت او مونگو، لیلی فون اشتوپ، نوه یک دانشمند دیوانه خاص، فراو بلوچر، لوئیس شانزدهم، ماکس بیالیستوک، لئو بلوم، بارف، کلاه تیره، پرزیدنت اسکروب، ماست را روی پرده آورده است."
-      },
-      "source": {
-        "en": "Deadline",
-        "fa": "Deadline"
-      },
-      "link": "https://deadline.com/2026/08/mel-brooks-documentary-directors-interview-1237031414/",
-      "date": "2026-08-12T07:10:31.376798+00:00",
-      "image": "https://deadline.com/wp-content/uploads/2026/08/Judd-Apatow-Michael-Bonfiglio-Doc-Talk-Podcast.jpg",
-      "important": false,
-      "score": 0
-    },
-    {
-      "id": "83085c390e10",
-      "title": {
-        "en": "Paramount’s Makan Delrahim Says “Everything Is On The Table” In Finding Merger Resolution, Says Leaving California Is A Consideration But Not “Blackmail”",
-        "fa": "ماکان دلرحیم از پارامونت می‌گوید «همه چیز روی میز است» در یافتن راه‌حل ادغام، می‌گوید ترک کالیفرنیا یک ملاحظه است اما «باج‌خواهی» نیست."
-      },
-      "excerpt": {
-        "en": "Paramount’s Chief Legal Officer Makan Delrahim said that “everything is on the table” when it comes to finding a resolution to a state attorneys general lawsuit seeking to block the company’s proposed merger with Warner Bros. Discovery. At a Politico conference on Tuesday, Delrahim also defended the company’s consideration of exiting California. California Attorney General […]",
-        "fa": "ماکان دلرحیم، مدیر ارشد حقوقی پارامونت، گفت: «همه چیز روی میز است» وقتی نوبت به یافتن راه‌حلی برای دادخواست دادستان‌های کل ایالت برای جلوگیری از ادغام پیشنهادی این شرکت با برادران وارنر دیسکاوری می‌رسد. در کنفرانس Politico در روز سه‌شنبه، دلرحیم همچنین از تصمیم این شرکت برای خروج از کالیفرنیا دفاع کرد. دادستان کل کالیفرنیا"
-      },
-      "content": {
-        "en": "Paramount’s Chief Legal Officer Makan Delrahim said that “everything is on the table” when it comes to finding a resolution to a state attorneys general lawsuit seeking to block the company’s proposed merger with Warner Bros. Discovery. At a Politico conference on Tuesday, Delrahim also defended the company’s consideration of exiting California. California Attorney General […]",
-        "fa": "ماکان دلرحیم، مدیر ارشد حقوقی پارامونت، گفت: «همه چیز روی میز است» وقتی نوبت به یافتن راه‌حلی برای دادخواست دادستان‌های کل ایالت برای جلوگیری از ادغام پیشنهادی این شرکت با برادران وارنر دیسکاوری می‌رسد. در کنفرانس Politico در روز سه‌شنبه، دلرحیم همچنین از تصمیم این شرکت برای خروج از کالیفرنیا دفاع کرد. دادستان کل کالیفرنیا"
-      },
-      "source": {
-        "en": "Deadline",
-        "fa": "Deadline"
-      },
-      "link": "https://deadline.com/2026/08/paramount-warner-bros-merger-california-settlement-1237031558/",
-      "date": "2026-08-12T07:10:31.376289+00:00",
-      "image": "https://deadline.com/wp-content/uploads/2026/08/Screenshot-2026-08-11-at-7.24.00-PM.jpeg",
       "important": false,
       "score": 0
     }
