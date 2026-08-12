@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-12T03:56:40.158490+00:00",
+  "updated_at": "2026-08-12T05:27:57.621385+00:00",
   "count": 24,
   "news": [
     {
@@ -21,7 +21,7 @@
         "fa": "Variety"
       },
       "link": "https://variety.com/2026/tv/news/nicholas-hoult-gilderoy-lockhart-harry-potter-hbo-1236832274/",
-      "date": "2026-08-12T03:56:39.902120+00:00",
+      "date": "2026-08-12T05:27:57.321306+00:00",
       "image": "https://variety.com/wp-content/uploads/2026/08/Nicholas-Hoult-Gilderoy-Lockhart.jpg",
       "important": true,
       "score": 6
@@ -34,18 +34,18 @@
       },
       "excerpt": {
         "en": "Starring Channing Tatum, Gemma Chan, and a revelatory Mason Reeves, the filmmaker's sophomore feature is poised for a big fall.",
-        "fa": "با بازی چانینگ تاتوم، جما چان، و میسون ریوز افشاگر، فیلم دوم این فیلمساز برای سقوطی بزرگ آماده است."
+        "fa": "با بازی چانینگ تاتوم، جما چان و میسون ریوز افشاگر، فیلم دوم این فیلمساز برای سقوط بزرگ آماده است."
       },
       "content": {
         "en": "Starring Channing Tatum, Gemma Chan, and a revelatory Mason Reeves, the filmmaker's sophomore feature is poised for a big fall.",
-        "fa": "با بازی چانینگ تاتوم، جما چان، و میسون ریوز افشاگر، فیلم دوم این فیلمساز برای سقوطی بزرگ آماده است."
+        "fa": "با بازی چانینگ تاتوم، جما چان و میسون ریوز افشاگر، فیلم دوم این فیلمساز برای سقوط بزرگ آماده است."
       },
       "source": {
         "en": "IndieWire",
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/news/trailers/josephine-trailer-beth-de-araujo-channing-tatum-1235209753/",
-      "date": "2026-08-12T03:56:39.906201+00:00",
+      "date": "2026-08-12T05:27:57.328249+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/01/Josephine-Still_1_50d4a7.jpg?w=650",
       "important": true,
       "score": 4
@@ -69,7 +69,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/news/trailers/the-influencer-project-trailer-chiara-king-horror-1235209925/",
-      "date": "2026-08-12T03:56:39.905291+00:00",
+      "date": "2026-08-12T05:27:57.327241+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/influence_260312_00140031_aRGB_High_f93b36.jpg?w=650",
       "important": true,
       "score": 4
@@ -93,7 +93,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/features/craft/mars-attacks-30th-anniversary-making-of-1235209277/",
-      "date": "2026-08-12T03:56:39.906102+00:00",
+      "date": "2026-08-12T05:27:57.328093+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/MSDMAAT_EC014.jpg?w=650",
       "important": false,
       "score": 3
@@ -117,8 +117,32 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/awards/consider-this/noah-wyle-shawn-hatosy-relationship-the-pitt-interview-emmy-1235209667/",
-      "date": "2026-08-12T03:56:39.904839+00:00",
+      "date": "2026-08-12T05:27:57.326745+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/GettyImages-2254131081.jpg?w=650",
+      "important": false,
+      "score": 3
+    },
+    {
+      "id": "469ec8c07b5e",
+      "title": {
+        "en": "Andy Cohen Confronts ‘Hacks’ Co-Creator Paul W. Downs Over Season 5 Dig at His Expense",
+        "fa": "اندی کوهن با پل دبلیو داونز، یکی از خالقان «هک ها» در فصل 5 مواجه شد."
+      },
+      "excerpt": {
+        "en": "“I told him not to put it in,” Megan Stalter, Downs’ “Hacks” co-star, adds The post Andy Cohen Confronts ‘Hacks’ Co-Creator Paul W. Downs Over Season 5 Dig at His Expense appeared first on TheWrap .",
+        "fa": "مگان استالتر، همبازی داونز در «هک» می‌افزاید: «به او گفتم که آن را وارد نکند."
+      },
+      "content": {
+        "en": "“I told him not to put it in,” Megan Stalter, Downs’ “Hacks” co-star, adds The post Andy Cohen Confronts ‘Hacks’ Co-Creator Paul W. Downs Over Season 5 Dig at His Expense appeared first on TheWrap .",
+        "fa": "مگان استالتر، همبازی داونز در «هک» می‌افزاید: «به او گفتم که آن را وارد نکند."
+      },
+      "source": {
+        "en": "The Wrap",
+        "fa": "The Wrap"
+      },
+      "link": "https://www.thewrap.com/creative-content/tv-shows/andy-cohen-confronts-paul-w-downs-hacks-season-5-dig/",
+      "date": "2026-08-12T05:27:57.324586+00:00",
+      "image": "https://www.thewrap.com/wp-content/uploads/2026/08/Untitled-design-2026-08-11T200330.625-1.jpg",
       "important": false,
       "score": 3
     },
@@ -126,7 +150,7 @@
       "id": "9200fe321110",
       "title": {
         "en": "‘SNL’ Parts Ways With Longtime Music Booker Brian Siedlecki (Exclusive)",
-        "fa": "«SNL» با برایان سیدلکی، بوکر قدیمی موسیقی، راه می‌دهد"
+        "fa": "«SNL» با برایان سیدلکی، بوکر موسیقی قدیمی، راه می‌دهد"
       },
       "excerpt": {
         "en": "He had been with the show for nearly 30 years, joining as an intern in 1996.",
@@ -141,7 +165,7 @@
         "fa": "The Hollywood Reporter"
       },
       "link": "https://www.hollywoodreporter.com/music/film-tv-music-news/snl-music-booker-brian-siedlecki-departs-show-exclusive-1236671437/",
-      "date": "2026-08-12T03:56:39.903958+00:00",
+      "date": "2026-08-12T05:27:57.323675+00:00",
       "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/Olivia-Rodrigo-SNL-Main-2026.jpg?w=1296&#038;h=730&#038;crop=1",
       "important": false,
       "score": 3
@@ -165,7 +189,7 @@
         "fa": "The Hollywood Reporter"
       },
       "link": "https://www.hollywoodreporter.com/tv/tv-features/kristina-kelly-house-of-stassi-vanderpump-rules-katie-payroll-1236671478/",
-      "date": "2026-08-12T03:56:39.903785+00:00",
+      "date": "2026-08-12T05:27:57.323486+00:00",
       "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/GettyImages-2288192552-e1786477952878.jpg?w=1440&#038;h=810&#038;crop=1",
       "important": false,
       "score": 3
@@ -189,7 +213,7 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/crunchyroll-acquires-makoto-shinkai-next-feature-film-1237014191/",
-      "date": "2026-08-12T03:56:39.899012+00:00",
+      "date": "2026-08-12T05:27:57.318358+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/makoto-shinkai-crunchyroll.jpg",
       "important": false,
       "score": 2
@@ -213,7 +237,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/news/festivals/nyff-2026-spotlight-lineup-1235209826/",
-      "date": "2026-08-12T03:56:39.906415+00:00",
+      "date": "2026-08-12T05:27:57.328480+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/05/204424-2-scaled-1.jpg?w=650",
       "important": false,
       "score": 1
@@ -237,7 +261,7 @@
         "fa": "Variety"
       },
       "link": "https://variety.com/2026/film/news/the-writers-lab-los-angeles-intensive-fall-cohorts-1236831539/",
-      "date": "2026-08-12T03:56:39.902780+00:00",
+      "date": "2026-08-12T05:27:57.322020+00:00",
       "image": "https://variety.com/wp-content/uploads/2026/08/TWL-color-group29.jpg",
       "important": false,
       "score": 1
@@ -261,7 +285,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/news/business/free-seminar-documentary-filmmakers-how-to-opt-out-ai-1235209818/",
-      "date": "2026-08-12T03:56:39.905651+00:00",
+      "date": "2026-08-12T05:27:57.327612+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/03/AI_FP_00002.jpg?w=650",
       "important": false,
       "score": 0
@@ -285,7 +309,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/news/general-news/possession-remake-release-date-1235209951/",
-      "date": "2026-08-12T03:56:39.905457+00:00",
+      "date": "2026-08-12T05:27:57.327418+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2019/10/possession-1981-03-g.jpg?w=650",
       "important": false,
       "score": 0
@@ -309,7 +333,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/features/commentary/history-of-unofficial-movie-sequels-1235209659/",
-      "date": "2026-08-12T03:56:39.905183+00:00",
+      "date": "2026-08-12T05:27:57.327121+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/nsna2.webp?w=650",
       "important": false,
       "score": 0
@@ -333,7 +357,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/features/interviews/house-of-the-dragon-season-3-final-ryan-condal-interview-1235209273/",
-      "date": "2026-08-12T03:56:39.904633+00:00",
+      "date": "2026-08-12T05:27:57.326540+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/gayle-rankin-ewan-mitchell_0.jpg?w=650",
       "important": false,
       "score": 0
@@ -346,18 +370,18 @@
       },
       "excerpt": {
         "en": "This marks the first time 'Practical Magic' fans can shop official products inspired by the 1998 cult classic and its upcoming sequel.",
-        "fa": "این اولین باری است که طرفداران «سحر و جادو عملی» می توانند محصولات رسمی الهام گرفته از کلاسیک کالت سال 1998 و دنباله آتی آن را خریداری کنند."
+        "fa": "این اولین باری است که طرفداران «سحر و جادو عملی» می توانند محصولات رسمی الهام گرفته از کلاسیک کالت سال 1998 و دنباله آینده آن را خریداری کنند."
       },
       "content": {
         "en": "This marks the first time 'Practical Magic' fans can shop official products inspired by the 1998 cult classic and its upcoming sequel.",
-        "fa": "این اولین باری است که طرفداران «سحر و جادو عملی» می توانند محصولات رسمی الهام گرفته از کلاسیک کالت سال 1998 و دنباله آتی آن را خریداری کنند."
+        "fa": "این اولین باری است که طرفداران «سحر و جادو عملی» می توانند محصولات رسمی الهام گرفته از کلاسیک کالت سال 1998 و دنباله آینده آن را خریداری کنند."
       },
       "source": {
         "en": "The Hollywood Reporter",
         "fa": "The Hollywood Reporter"
       },
       "link": "https://www.hollywoodreporter.com/lifestyle/shopping/practical-magic-2-movie-merch-fashion-home-beauty-products-1236662368/",
-      "date": "2026-08-12T03:56:39.904056+00:00",
+      "date": "2026-08-12T05:27:57.323816+00:00",
       "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/Practical-Magic-2-Inspires-Official-Merchandise-From-Charlotte-Tilbury-Wayfair-and-More-Exclusive-MAIN.jpg?w=1296&#038;h=730&#038;crop=1",
       "important": false,
       "score": 0
@@ -381,7 +405,7 @@
         "fa": "The Hollywood Reporter"
       },
       "link": "https://www.hollywoodreporter.com/movies/movie-news/bill-jersey-dead-documentarian-time-for-burning-jim-crow-1236671735/",
-      "date": "2026-08-12T03:56:39.903387+00:00",
+      "date": "2026-08-12T05:27:57.323073+00:00",
       "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/Bill-Jersey-obit-temp-getty-H-2026.png?w=1296&#038;h=730&#038;crop=1",
       "important": false,
       "score": 0
@@ -405,7 +429,7 @@
         "fa": "Variety"
       },
       "link": "https://variety.com/2026/film/features/vera-drew-louise-weard-jane-schoenbrun-trans-nonbinary-filmmakers-studio-system-new-industry-1236831911/",
-      "date": "2026-08-12T03:56:39.902444+00:00",
+      "date": "2026-08-12T05:27:57.321648+00:00",
       "image": "https://variety.com/wp-content/uploads/2026/08/MixCollage-11-Aug-2026-04-13-AM-3748.jpg",
       "important": false,
       "score": 0
@@ -418,18 +442,18 @@
       },
       "excerpt": {
         "en": "Rod Stewart has announced that he will be canceling the next four weeks of performances as part of his “One Last Time” farewell tour and “The Encore Shows” Las Vegas residency after undergoing a routine coronary stent procedure. The news comes just days after the singer postponed a show scheduled for Cincinnati’s Riverbend Music Center […]",
-        "fa": "راد استوارت اعلام کرده است که اجرای چهار هفته آینده خود را به عنوان بخشی از تور خداحافظی \"One Last Time\" و اقامت لاس وگاس \"The Encore Shows\" پس از انجام یک روش معمول استنت عروق کرونر لغو خواهد کرد. این خبر تنها چند روز پس از آن منتشر شد که خواننده اجرای برنامه در مرکز موسیقی ریوربند سینسیناتی را به تعویق انداخت."
+        "fa": "راد استوارت اعلام کرده است که اجرای چهار هفته آینده خود را به عنوان بخشی از تور خداحافظی \"One Last Time\" و اقامت لاس وگاس \"The Encore Shows\" پس از انجام یک روش معمول استنت عروق کرونر لغو خواهد کرد. این خبر تنها چند روز پس از آن منتشر می شود که خواننده برنامه برنامه ریزی شده برای مرکز موسیقی ریوربند سینسیناتی را به تعویق انداخت."
       },
       "content": {
         "en": "Rod Stewart has announced that he will be canceling the next four weeks of performances as part of his “One Last Time” farewell tour and “The Encore Shows” Las Vegas residency after undergoing a routine coronary stent procedure. The news comes just days after the singer postponed a show scheduled for Cincinnati’s Riverbend Music Center […]",
-        "fa": "راد استوارت اعلام کرده است که اجرای چهار هفته آینده خود را به عنوان بخشی از تور خداحافظی \"One Last Time\" و اقامت لاس وگاس \"The Encore Shows\" پس از انجام یک روش معمول استنت عروق کرونر لغو خواهد کرد. این خبر تنها چند روز پس از آن منتشر شد که خواننده اجرای برنامه در مرکز موسیقی ریوربند سینسیناتی را به تعویق انداخت."
+        "fa": "راد استوارت اعلام کرده است که اجرای چهار هفته آینده خود را به عنوان بخشی از تور خداحافظی \"One Last Time\" و اقامت لاس وگاس \"The Encore Shows\" پس از انجام یک روش معمول استنت عروق کرونر لغو خواهد کرد. این خبر تنها چند روز پس از آن منتشر می شود که خواننده برنامه برنامه ریزی شده برای مرکز موسیقی ریوربند سینسیناتی را به تعویق انداخت."
       },
       "source": {
         "en": "Variety",
         "fa": "Variety"
       },
       "link": "https://variety.com/2026/music/news/rod-stewart-cancels-tour-dates-coronary-stent-procedure-1236832530/",
-      "date": "2026-08-12T03:56:39.901901+00:00",
+      "date": "2026-08-12T05:27:57.321073+00:00",
       "image": "https://variety.com/wp-content/uploads/2026/01/GettyImages-1822915730-e1769267527872.jpg",
       "important": false,
       "score": 0
@@ -442,18 +466,18 @@
       },
       "excerpt": {
         "en": "Panache Digital Games announced “1666: Amsterdam” will release in Early Access on Aug. 25. From “Assassin’s Creed” series creator Patrice Désilets, the dark, third-person narrative action-adventure game unravels a mystery across Amsterdam. Players take on the role of Noa, the Collector, who wields witchcraft to uncover “Originals,” demonic entities hiding behind human faces. The Early […]",
-        "fa": "Panache Digital Games اعلام کرد که «1666: Amsterdam» در 25 آگوست با دسترسی زودهنگام منتشر خواهد شد. از خالق سری «Assassin's Creed»، Patrice Désilets، این بازی اکشن ماجراجویی تاریک، روایت سوم شخص، معمایی را در سراسر آمستردام آشکار می کند. بازیکنان نقش نوآ، کلکسیونر را بر عهده می‌گیرند، که برای کشف «اصل»، موجودات شیطانی پنهان شده در پشت صورت انسان، جادوگری می‌کند. اوایل"
+        "fa": "Panache Digital Games اعلام کرد که «1666: Amsterdam» در 25 آگوست با دسترسی زودهنگام عرضه می‌شود. از خالق سری «Assassin's Creed»، Patrice Désilets، این بازی اکشن ماجراجویی تاریک، روایت سوم شخص، معمایی را در سراسر آمستردام آشکار می‌کند. بازیکنان نقش نوآ، کلکسیونر را بر عهده می‌گیرند که برای کشف «اصل»، موجودات شیطانی پنهان شده در پشت صورت انسان، جادوگری می‌کند. اوایل"
       },
       "content": {
         "en": "Panache Digital Games announced “1666: Amsterdam” will release in Early Access on Aug. 25. From “Assassin’s Creed” series creator Patrice Désilets, the dark, third-person narrative action-adventure game unravels a mystery across Amsterdam. Players take on the role of Noa, the Collector, who wields witchcraft to uncover “Originals,” demonic entities hiding behind human faces. The Early […]",
-        "fa": "Panache Digital Games اعلام کرد که «1666: Amsterdam» در 25 آگوست با دسترسی زودهنگام منتشر خواهد شد. از خالق سری «Assassin's Creed»، Patrice Désilets، این بازی اکشن ماجراجویی تاریک، روایت سوم شخص، معمایی را در سراسر آمستردام آشکار می کند. بازیکنان نقش نوآ، کلکسیونر را بر عهده می‌گیرند، که برای کشف «اصل»، موجودات شیطانی پنهان شده در پشت صورت انسان، جادوگری می‌کند. اوایل"
+        "fa": "Panache Digital Games اعلام کرد که «1666: Amsterdam» در 25 آگوست با دسترسی زودهنگام عرضه می‌شود. از خالق سری «Assassin's Creed»، Patrice Désilets، این بازی اکشن ماجراجویی تاریک، روایت سوم شخص، معمایی را در سراسر آمستردام آشکار می‌کند. بازیکنان نقش نوآ، کلکسیونر را بر عهده می‌گیرند که برای کشف «اصل»، موجودات شیطانی پنهان شده در پشت صورت انسان، جادوگری می‌کند. اوایل"
       },
       "source": {
         "en": "Variety",
         "fa": "Variety"
       },
       "link": "https://variety.com/2026/digital/news/gaming-news-roundup-week-of-august-10-1236831438/",
-      "date": "2026-08-12T03:56:39.901805+00:00",
+      "date": "2026-08-12T05:27:57.320965+00:00",
       "image": "https://variety.com/wp-content/uploads/2026/08/1.png",
       "important": false,
       "score": 0
@@ -477,7 +501,7 @@
         "fa": "Variety"
       },
       "link": "https://variety.com/2026/film/news/zoe-saldana-political-questions-women-of-color-white-men-1236832484/",
-      "date": "2026-08-12T03:56:39.901449+00:00",
+      "date": "2026-08-12T05:27:57.320587+00:00",
       "image": "https://variety.com/wp-content/uploads/2026/08/P107EGCX.jpg",
       "important": false,
       "score": 0
@@ -490,18 +514,18 @@
       },
       "excerpt": {
         "en": "There was a time when talky slabs of recent political history like “The Brink of War,” carried by skilled name actors who aren’t quite stars, were largely the preserve of Emmy-chasing TV networks. Today, with a bit of added Christian-right rhetoric, they’re ready for the big screen, as the growing faith-based film industry expands its […]",
-        "fa": "زمانی بود که صفحات پرحرف تاریخ سیاسی اخیر مانند «آستانه جنگ»، که توسط بازیگران ماهری که ستاره هم نیستند، حمل می‌شد، تا حد زیادی متعلق به شبکه‌های تلویزیونی امی بود. امروز، با کمی لفاظی های راست مسیحی اضافه شده، آنها آماده نمایش بزرگ هستند، زیرا صنعت فیلم مبتنی بر ایمان رو به رشد خود را گسترش می دهد."
+        "fa": "زمانی بود که صفحات پرحرف تاریخ سیاسی اخیر مانند «آستانه جنگ»، که توسط بازیگران ماهری که ستاره هم نیستند، حمل می‌شد، عمدتاً متعلق به شبکه‌های تلویزیونی امی بود. امروز، با کمی لفاظی های راست مسیحی اضافه شده، آنها آماده نمایش بزرگ هستند، زیرا صنعت فیلم مبتنی بر ایمان رو به رشد خود را گسترش می دهد."
       },
       "content": {
         "en": "There was a time when talky slabs of recent political history like “The Brink of War,” carried by skilled name actors who aren’t quite stars, were largely the preserve of Emmy-chasing TV networks. Today, with a bit of added Christian-right rhetoric, they’re ready for the big screen, as the growing faith-based film industry expands its […]",
-        "fa": "زمانی بود که صفحات پرحرف تاریخ سیاسی اخیر مانند «آستانه جنگ»، که توسط بازیگران ماهری که ستاره هم نیستند، حمل می‌شد، تا حد زیادی متعلق به شبکه‌های تلویزیونی امی بود. امروز، با کمی لفاظی های راست مسیحی اضافه شده، آنها آماده نمایش بزرگ هستند، زیرا صنعت فیلم مبتنی بر ایمان رو به رشد خود را گسترش می دهد."
+        "fa": "زمانی بود که صفحات پرحرف تاریخ سیاسی اخیر مانند «آستانه جنگ»، که توسط بازیگران ماهری که ستاره هم نیستند، حمل می‌شد، عمدتاً متعلق به شبکه‌های تلویزیونی امی بود. امروز، با کمی لفاظی های راست مسیحی اضافه شده، آنها آماده نمایش بزرگ هستند، زیرا صنعت فیلم مبتنی بر ایمان رو به رشد خود را گسترش می دهد."
       },
       "source": {
         "en": "Variety",
         "fa": "Variety"
       },
       "link": "https://variety.com/2026/film/news/the-brink-of-war-review-1236831938/",
-      "date": "2026-08-12T03:56:39.900801+00:00",
+      "date": "2026-08-12T05:27:57.319908+00:00",
       "image": "https://variety.com/wp-content/uploads/2026/08/R_03561.jpg",
       "important": false,
       "score": 0
@@ -525,7 +549,7 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/national-cinemedia-acquiring-advertising-platform-captivate-1237031526/",
-      "date": "2026-08-12T03:56:39.898828+00:00",
+      "date": "2026-08-12T05:27:57.318159+00:00",
       "image": "https://deadline.com/wp-content/uploads/2024/03/NCMI-Noovie.jpg",
       "important": false,
       "score": 0
@@ -549,32 +573,8 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/mel-brooks-documentary-directors-interview-1237031414/",
-      "date": "2026-08-12T03:56:39.898480+00:00",
+      "date": "2026-08-12T05:27:57.317785+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/Judd-Apatow-Michael-Bonfiglio-Doc-Talk-Podcast.jpg",
-      "important": false,
-      "score": 0
-    },
-    {
-      "id": "83085c390e10",
-      "title": {
-        "en": "Paramount’s Makan Delrahim Says “Everything Is On The Table” In Finding Merger Resolution, Says Leaving California Is A Consideration But Not “Blackmail”",
-        "fa": "ماکان دلرحیم از پارامونت می‌گوید «همه چیز روی میز است» در یافتن راه‌حل ادغام، می‌گوید ترک کالیفرنیا یک ملاحظه است اما «باج‌خواهی» نیست."
-      },
-      "excerpt": {
-        "en": "Paramount’s Chief Legal Officer Makan Delrahim said that “everything is on the table” when it comes to finding a resolution to a state attorneys general lawsuit seeking to block the company’s proposed merger with Warner Bros. Discovery. At a Politico conference on Tuesday, Delrahim also defended the company’s consideration of exiting California. California Attorney General […]",
-        "fa": "ماکان دلرحیم، مدیر ارشد حقوقی پارامونت، گفت: «همه چیز روی میز است» وقتی نوبت به یافتن راه‌حلی برای دادخواست دادستان‌های کل ایالت برای جلوگیری از ادغام پیشنهادی این شرکت با برادران وارنر دیسکاوری می‌رسد. در کنفرانس Politico در روز سه‌شنبه، دلرحیم همچنین از تصمیم این شرکت برای خروج از کالیفرنیا دفاع کرد. دادستان کل کالیفرنیا"
-      },
-      "content": {
-        "en": "Paramount’s Chief Legal Officer Makan Delrahim said that “everything is on the table” when it comes to finding a resolution to a state attorneys general lawsuit seeking to block the company’s proposed merger with Warner Bros. Discovery. At a Politico conference on Tuesday, Delrahim also defended the company’s consideration of exiting California. California Attorney General […]",
-        "fa": "ماکان دلرحیم، مدیر ارشد حقوقی پارامونت، گفت: «همه چیز روی میز است» وقتی نوبت به یافتن راه‌حلی برای دادخواست دادستان‌های کل ایالت برای جلوگیری از ادغام پیشنهادی این شرکت با برادران وارنر دیسکاوری می‌رسد. در کنفرانس Politico در روز سه‌شنبه، دلرحیم همچنین از تصمیم این شرکت برای خروج از کالیفرنیا دفاع کرد. دادستان کل کالیفرنیا"
-      },
-      "source": {
-        "en": "Deadline",
-        "fa": "Deadline"
-      },
-      "link": "https://deadline.com/2026/08/paramount-warner-bros-merger-california-settlement-1237031558/",
-      "date": "2026-08-12T03:56:39.897934+00:00",
-      "image": "https://deadline.com/wp-content/uploads/2026/08/Screenshot-2026-08-11-at-7.24.00-PM.jpeg",
       "important": false,
       "score": 0
     }
