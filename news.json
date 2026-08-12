@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-12T10:52:19.439429+00:00",
+  "updated_at": "2026-08-12T11:39:38.698442+00:00",
   "count": 24,
   "news": [
     {
@@ -21,7 +21,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/news/trailers/josephine-trailer-beth-de-araujo-channing-tatum-1235209753/",
-      "date": "2026-08-12T10:52:19.158381+00:00",
+      "date": "2026-08-12T11:39:38.415150+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/01/Josephine-Still_1_50d4a7.jpg?w=650",
       "important": true,
       "score": 4
@@ -45,7 +45,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/news/trailers/the-influencer-project-trailer-chiara-king-horror-1235209925/",
-      "date": "2026-08-12T10:52:19.157396+00:00",
+      "date": "2026-08-12T11:39:38.414187+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/influence_260312_00140031_aRGB_High_f93b36.jpg?w=650",
       "important": true,
       "score": 4
@@ -69,7 +69,7 @@
         "fa": "Variety"
       },
       "link": "https://variety.com/2026/tv/news/snl-uk-season-2-september-1236829143/",
-      "date": "2026-08-12T10:52:19.150337+00:00",
+      "date": "2026-08-12T11:39:38.408279+00:00",
       "image": "https://variety.com/wp-content/uploads/2026/05/snl-uk-weekend-update.jpg",
       "important": true,
       "score": 4
@@ -93,7 +93,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/features/craft/mars-attacks-30th-anniversary-making-of-1235209277/",
-      "date": "2026-08-12T10:52:19.158269+00:00",
+      "date": "2026-08-12T11:39:38.415036+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/MSDMAAT_EC014.jpg?w=650",
       "important": false,
       "score": 3
@@ -117,7 +117,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/awards/consider-this/noah-wyle-shawn-hatosy-relationship-the-pitt-interview-emmy-1235209667/",
-      "date": "2026-08-12T10:52:19.156911+00:00",
+      "date": "2026-08-12T11:39:38.413684+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/GettyImages-2254131081.jpg?w=650",
       "important": false,
       "score": 3
@@ -141,7 +141,7 @@
         "fa": "The Wrap"
       },
       "link": "https://www.thewrap.com/creative-content/tv-shows/andy-cohen-confronts-paul-w-downs-hacks-season-5-dig/",
-      "date": "2026-08-12T10:52:19.154702+00:00",
+      "date": "2026-08-12T11:39:38.411532+00:00",
       "image": "https://www.thewrap.com/wp-content/uploads/2026/08/Untitled-design-2026-08-11T200330.625-1.jpg",
       "important": false,
       "score": 3
@@ -165,7 +165,7 @@
         "fa": "The Hollywood Reporter"
       },
       "link": "https://www.hollywoodreporter.com/movies/movie-news/lee-daniels-nadine-labaki-marina-abramovic-liberatum-awards-1236670800/",
-      "date": "2026-08-12T10:52:19.152676+00:00",
+      "date": "2026-08-12T11:39:38.409568+00:00",
       "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/R-to-L_-Nadine-Labaki-Lee-Daniels-Marina-Abramovic.jpg?w=1440&#038;h=810&#038;crop=1",
       "important": false,
       "score": 3
@@ -189,7 +189,7 @@
         "fa": "Variety"
       },
       "link": "https://variety.com/2026/film/global/barkhad-abdi-jim-deddes-teddy-cherims-maalstroom-1236832364/",
-      "date": "2026-08-12T10:52:19.151022+00:00",
+      "date": "2026-08-12T11:39:38.408969+00:00",
       "image": "https://variety.com/wp-content/uploads/2026/08/Maalstroom.jpg",
       "important": false,
       "score": 3
@@ -213,8 +213,56 @@
         "fa": "Variety"
       },
       "link": "https://variety.com/2026/tv/global/uk-largest-harry-potter-store-opening-in-london-1236832791/",
-      "date": "2026-08-12T10:52:19.150725+00:00",
+      "date": "2026-08-12T11:39:38.408642+00:00",
       "image": "https://variety.com/wp-content/uploads/2026/03/dominic-mclaughlin.jpg",
+      "important": false,
+      "score": 3
+    },
+    {
+      "id": "9681807b77e4",
+      "title": {
+        "en": "Beatrice Gibson Questions Motherhood and Womanhood in Her Debut Feature ‘At Night’",
+        "fa": "بئاتریس گیبسون در اولین فیلمش «در شب»، مادری و زنانگی را زیر سوال برد."
+      },
+      "excerpt": {
+        "en": "“I am a tone of voice, warming, shifting, pausing, changing, including, asserting, exulting, including, turning and including.” This quote by the poet Alice Notley opens “At Night,” British filmmaker Beatrice Gibson’s feature debut, which held its world premiere on Aug. 8 in Locarno’s Filmmakers of the Present program. Gibson, who was a friend of Notley’s, […]",
+        "fa": "«من لحن صدا هستم، گرم می‌کنم، جابجا می‌شوم، مکث می‌کنم، تغییر می‌کنم، از جمله، اظهار می‌کنم، شادی می‌کنم، شامل، چرخش می‌کنم و شامل می‌شوم». این نقل قول از آلیس نتلی شاعر، «در شب» را آغاز می کند، اولین فیلم بلند بئاتریس گیبسون، فیلمساز بریتانیایی، که اولین نمایش جهانی خود را در 8 اوت در برنامه فیلمسازان حال حاضر لوکارنو برگزار کرد. گیبسون که دوست نوتلی بود،"
+      },
+      "content": {
+        "en": "“I am a tone of voice, warming, shifting, pausing, changing, including, asserting, exulting, including, turning and including.” This quote by the poet Alice Notley opens “At Night,” British filmmaker Beatrice Gibson’s feature debut, which held its world premiere on Aug. 8 in Locarno’s Filmmakers of the Present program. Gibson, who was a friend of Notley’s, […]",
+        "fa": "«من لحن صدا هستم، گرم می‌کنم، جابجا می‌شوم، مکث می‌کنم، تغییر می‌کنم، از جمله، اظهار می‌کنم، شادی می‌کنم، شامل، چرخش می‌کنم و شامل می‌شوم». این نقل قول از آلیس نتلی شاعر، «در شب» را آغاز می کند، اولین فیلم بلند بئاتریس گیبسون، فیلمساز بریتانیایی، که اولین نمایش جهانی خود را در 8 اوت در برنامه فیلمسازان حال حاضر لوکارنو برگزار کرد. گیبسون که دوست نوتلی بود،"
+      },
+      "source": {
+        "en": "Variety",
+        "fa": "Variety"
+      },
+      "link": "https://variety.com/2026/film/global/beatrice-gibson-at-night-locarno-film-festival-1236832813/",
+      "date": "2026-08-12T11:39:38.407025+00:00",
+      "image": "https://variety.com/wp-content/uploads/2026/08/At-night_03.jpg",
+      "important": false,
+      "score": 3
+    },
+    {
+      "id": "4c5ebeca185f",
+      "title": {
+        "en": "‘The Best Mother in the World’ Standout Shirley Cruz to Star in Clara Ferrer and Tainá Bevilacqua’s Trans Coming-of-Age ‘The She-Devil’ (EXCLUSIVE)",
+        "fa": "شرلی کروز برجسته «بهترین مادر جهان» برای ایفای نقش در فیلم «شیطان» از کلارا فرر و تاینا بیویلاکوا به سن بلوغ"
+      },
+      "excerpt": {
+        "en": "Shirley Cruz, who delivered an acclaimed central performance in Anna Muylaert’s 2025 Berlinale drama “The Best Mother in the World,” is set to star in Clara Ferrer and Tainá Bevilacqua’s “The She-Devil.” “The She-Devil” is currently in development, with a short film taking place in the same universe, titled “The Death of the She-Devil,” currently […]",
+        "fa": "شرلی کروز که در درام 2025 برلیناله آنا مایلارت با عنوان «بهترین مادر جهان» یک نقش مرکزی تحسین برانگیز ارائه کرد، قرار است در «شیطان» کلارا فرر و تاینا بیویلاکوا بازی کند. \"The She-Devil\" در حال حاضر در حال ساخت است و یک فیلم کوتاه در همان جهان با عنوان \"مرگ شیطون\" در حال حاضر در حال ساخت است."
+      },
+      "content": {
+        "en": "Shirley Cruz, who delivered an acclaimed central performance in Anna Muylaert’s 2025 Berlinale drama “The Best Mother in the World,” is set to star in Clara Ferrer and Tainá Bevilacqua’s “The She-Devil.” “The She-Devil” is currently in development, with a short film taking place in the same universe, titled “The Death of the She-Devil,” currently […]",
+        "fa": "شرلی کروز که در درام 2025 برلیناله آنا مایلارت با عنوان «بهترین مادر جهان» یک نقش مرکزی تحسین برانگیز ارائه کرد، قرار است در «شیطان» کلارا فرر و تاینا بیویلاکوا بازی کند. \"The She-Devil\" در حال حاضر در حال ساخت است و یک فیلم کوتاه در همان جهان با عنوان \"مرگ شیطون\" در حال حاضر در حال ساخت است."
+      },
+      "source": {
+        "en": "Variety",
+        "fa": "Variety"
+      },
+      "link": "https://variety.com/2026/film/global/shirley-cruz-clara-ferrer-taina-bevilacqua-the-she-devil-1236832820/",
+      "date": "2026-08-12T11:39:38.406898+00:00",
+      "image": "https://variety.com/wp-content/uploads/2026/08/VARIETY-SIZING-4.png",
       "important": false,
       "score": 3
     },
@@ -237,7 +285,7 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/magna-studios-signs-iain-forsyth-jane-pollard-1237031033/",
-      "date": "2026-08-12T10:52:19.146425+00:00",
+      "date": "2026-08-12T11:39:38.404396+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/Iain-Forsyth-Jane-Pollard-e1786461197230.jpg",
       "important": false,
       "score": 3
@@ -261,7 +309,7 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/seedance-blocking-hollywood-ripoff-cruise-pitt-ai-deepfakes-1237031665/",
-      "date": "2026-08-12T10:52:19.145507+00:00",
+      "date": "2026-08-12T11:39:38.403517+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/02/Screenshot-2026-02-12-at-14.37.07-e1770907766400.png",
       "important": false,
       "score": 3
@@ -285,7 +333,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/news/festivals/nyff-2026-spotlight-lineup-1235209826/",
-      "date": "2026-08-12T10:52:19.158637+00:00",
+      "date": "2026-08-12T11:39:38.415375+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/05/204424-2-scaled-1.jpg?w=650",
       "important": false,
       "score": 1
@@ -309,32 +357,8 @@
         "fa": "The Hollywood Reporter"
       },
       "link": "https://www.hollywoodreporter.com/movies/movie-news/crunchyroll-sony-makoto-shinkai-next-film-global-release-1236671844/",
-      "date": "2026-08-12T10:52:19.153111+00:00",
+      "date": "2026-08-12T11:39:38.410011+00:00",
       "image": "https://www.hollywoodreporter.com/wp-content/uploads/2023/02/Mokoto-Shinka-GettyImages-1187940885-web.jpg?w=1296&#038;h=730&#038;crop=1",
-      "important": false,
-      "score": 1
-    },
-    {
-      "id": "92394cb1a425",
-      "title": {
-        "en": "Caleb Landry Jones on the Five-Year Battle to Make ‘Down the Arm of God,’ Confronting Prejudices Against Homelessness and How Luc Besson Saved the Film",
-        "fa": "کالب لندری جونز در نبرد پنج ساله برای ساختن «پایین به بازوی خدا»، مقابله با تعصبات علیه بی خانمانی و چگونه لوک بسون فیلم را نجات داد"
-      },
-      "excerpt": {
-        "en": "Trying to find funding for “Down the Arm of God” proved to be a difficult five-year ordeal for lead star and co-writer Caleb Landry Jones — one that brought the “Three Billboards Outside Ebbing, Missouri” and “Get Out” actor to terms with the very real-world prejudices that his film grapples with. “Some people were worried […]",
-        "fa": "تلاش برای یافتن بودجه برای «پایین بر بازو خدا» برای ستاره اصلی و نویسنده همکار کالب لندری جونز یک مصیبت پنج ساله دشوار بود - اتفاقی که باعث شد بازیگر «سه بیلبورد خارج از ابینگ، میسوری» و «برو بیرون» با تعصبات دنیای واقعی که فیلمش با آن دست و پنجه نرم می کند کنار بیاید. «برخی از مردم نگران بودند"
-      },
-      "content": {
-        "en": "Trying to find funding for “Down the Arm of God” proved to be a difficult five-year ordeal for lead star and co-writer Caleb Landry Jones — one that brought the “Three Billboards Outside Ebbing, Missouri” and “Get Out” actor to terms with the very real-world prejudices that his film grapples with. “Some people were worried […]",
-        "fa": "تلاش برای یافتن بودجه برای «پایین بر بازو خدا» برای ستاره اصلی و نویسنده همکار کالب لندری جونز یک مصیبت پنج ساله دشوار بود - اتفاقی که باعث شد بازیگر «سه بیلبورد خارج از ابینگ، میسوری» و «برو بیرون» با تعصبات دنیای واقعی که فیلمش با آن دست و پنجه نرم می کند کنار بیاید. «برخی از مردم نگران بودند"
-      },
-      "source": {
-        "en": "Variety",
-        "fa": "Variety"
-      },
-      "link": "https://variety.com/2026/film/global/caleb-landry-jones-down-the-arm-of-god-luc-besson-1236827771/",
-      "date": "2026-08-12T10:52:19.151366+00:00",
-      "image": "https://variety.com/wp-content/uploads/2026/08/DTAOG-1st-Photo-Printrecadr-2-1.jpg",
       "important": false,
       "score": 1
     },
@@ -357,7 +381,7 @@
         "fa": "Variety"
       },
       "link": "https://variety.com/2026/music/news/suno-ai-licensing-deal-bmg-1236832703/",
-      "date": "2026-08-12T10:52:19.150201+00:00",
+      "date": "2026-08-12T11:39:38.408144+00:00",
       "image": "https://variety.com/wp-content/uploads/2026/06/Suno_1-1.png",
       "important": false,
       "score": 1
@@ -381,7 +405,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/news/business/free-seminar-documentary-filmmakers-how-to-opt-out-ai-1235209818/",
-      "date": "2026-08-12T10:52:19.157794+00:00",
+      "date": "2026-08-12T11:39:38.414567+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/03/AI_FP_00002.jpg?w=650",
       "important": false,
       "score": 0
@@ -405,7 +429,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/news/general-news/possession-remake-release-date-1235209951/",
-      "date": "2026-08-12T10:52:19.157577+00:00",
+      "date": "2026-08-12T11:39:38.414364+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2019/10/possession-1981-03-g.jpg?w=650",
       "important": false,
       "score": 0
@@ -429,7 +453,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/features/commentary/history-of-unofficial-movie-sequels-1235209659/",
-      "date": "2026-08-12T10:52:19.157276+00:00",
+      "date": "2026-08-12T11:39:38.414066+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/nsna2.webp?w=650",
       "important": false,
       "score": 0
@@ -453,7 +477,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/features/interviews/house-of-the-dragon-season-3-final-ryan-condal-interview-1235209273/",
-      "date": "2026-08-12T10:52:19.156697+00:00",
+      "date": "2026-08-12T11:39:38.413483+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/gayle-rankin-ewan-mitchell_0.jpg?w=650",
       "important": false,
       "score": 0
@@ -477,7 +501,7 @@
         "fa": "The Hollywood Reporter"
       },
       "link": "https://www.hollywoodreporter.com/movies/movie-news/bill-jersey-dead-documentarian-time-for-burning-jim-crow-1236671735/",
-      "date": "2026-08-12T10:52:19.153932+00:00",
+      "date": "2026-08-12T11:39:38.410803+00:00",
       "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/Bill-Jersey-obit-temp-getty-H-2026.png?w=1296&#038;h=730&#038;crop=1",
       "important": false,
       "score": 0
@@ -501,7 +525,7 @@
         "fa": "The Hollywood Reporter"
       },
       "link": "https://www.hollywoodreporter.com/movies/movie-reviews/the-brink-of-war-review-jeff-daniels-ronald-reagan-1236670267/",
-      "date": "2026-08-12T10:52:19.153716+00:00",
+      "date": "2026-08-12T11:39:38.410575+00:00",
       "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/The-Brink-of-War-Main-2026.jpg?w=1296&#038;h=730&#038;crop=1",
       "important": false,
       "score": 0
@@ -525,56 +549,32 @@
         "fa": "The Hollywood Reporter"
       },
       "link": "https://www.hollywoodreporter.com/movies/movie-news/jim-carrey-grinch-michael-jackson-thriller-makeup-qa-1236654780/",
-      "date": "2026-08-12T10:52:19.152893+00:00",
+      "date": "2026-08-12T11:39:38.409795+00:00",
       "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/06/rickplusmonsters2-clean.jpg?w=1280&#038;h=810&#038;crop=1",
       "important": false,
       "score": 0
     },
     {
-      "id": "35dac2be1f47",
+      "id": "83085c390e10",
       "title": {
-        "en": "National CineMedia To Acquire Captivate For $275M, Expand From Movie Theater Ads To Offices & Apartment Buildings",
-        "fa": "National CineMedia برای خرید Captivate با 275 میلیون دلار، گسترش از تبلیغات سینما به دفاتر و ساختمان‌های آپارتمانی"
+        "en": "Paramount’s Makan Delrahim Says “Everything Is On The Table” In Finding Merger Resolution, Says Leaving California Is A Consideration But Not “Blackmail”",
+        "fa": "ماکان دلرحیم از پارامونت می‌گوید «همه چیز روی میز است» در یافتن راه‌حل ادغام، می‌گوید ترک کالیفرنیا یک ملاحظه است اما «باج‌خواهی» نیست."
       },
       "excerpt": {
-        "en": "National CineMedia has agreed to buy Captivate Holdings, a leading operator of digital video elevator and lobby advertising in North America, from PE firm Generation Partners for $275 million. Combining NCM’s cinema advertising with Captivate’s footprint will make it a major player in premium video and digital out-of-home advertising with more than 48,000 screens across […]",
-        "fa": "National CineMedia موافقت کرده است که Captivate Holdings، اپراتور پیشرو در آسانسورهای ویدئویی دیجیتال و تبلیغات لابی در آمریکای شمالی، از شرکت PE Generation Partners به ​​قیمت 275 میلیون دلار بخرد. ترکیب تبلیغات سینمایی NCM با ردپای Captivate، آن را به یک بازیگر اصلی در ویدیوهای ممتاز و تبلیغات دیجیتال خارج از خانه با بیش از 48000 صفحه نمایش در سراسر جهان تبدیل خواهد کرد."
+        "en": "Paramount’s Chief Legal Officer Makan Delrahim said that “everything is on the table” when it comes to finding a resolution to a state attorneys general lawsuit seeking to block the company’s proposed merger with Warner Bros. Discovery. At a Politico conference on Tuesday, Delrahim also defended the company’s consideration of exiting California. California Attorney General […]",
+        "fa": "ماکان دلرحیم، مدیر ارشد حقوقی پارامونت، گفت: «همه چیز روی میز است» وقتی نوبت به یافتن راه‌حلی برای دادخواست دادستان‌های کل ایالت برای جلوگیری از ادغام پیشنهادی این شرکت با برادران وارنر دیسکاوری می‌رسد. در کنفرانس Politico در روز سه‌شنبه، دلرحیم همچنین از تصمیم این شرکت برای خروج از کالیفرنیا دفاع کرد. دادستان کل کالیفرنیا"
       },
       "content": {
-        "en": "National CineMedia has agreed to buy Captivate Holdings, a leading operator of digital video elevator and lobby advertising in North America, from PE firm Generation Partners for $275 million. Combining NCM’s cinema advertising with Captivate’s footprint will make it a major player in premium video and digital out-of-home advertising with more than 48,000 screens across […]",
-        "fa": "National CineMedia موافقت کرده است که Captivate Holdings، اپراتور پیشرو در آسانسورهای ویدئویی دیجیتال و تبلیغات لابی در آمریکای شمالی، از شرکت PE Generation Partners به ​​قیمت 275 میلیون دلار بخرد. ترکیب تبلیغات سینمایی NCM با ردپای Captivate، آن را به یک بازیگر اصلی در ویدیوهای ممتاز و تبلیغات دیجیتال خارج از خانه با بیش از 48000 صفحه نمایش در سراسر جهان تبدیل خواهد کرد."
+        "en": "Paramount’s Chief Legal Officer Makan Delrahim said that “everything is on the table” when it comes to finding a resolution to a state attorneys general lawsuit seeking to block the company’s proposed merger with Warner Bros. Discovery. At a Politico conference on Tuesday, Delrahim also defended the company’s consideration of exiting California. California Attorney General […]",
+        "fa": "ماکان دلرحیم، مدیر ارشد حقوقی پارامونت، گفت: «همه چیز روی میز است» وقتی نوبت به یافتن راه‌حلی برای دادخواست دادستان‌های کل ایالت برای جلوگیری از ادغام پیشنهادی این شرکت با برادران وارنر دیسکاوری می‌رسد. در کنفرانس Politico در روز سه‌شنبه، دلرحیم همچنین از تصمیم این شرکت برای خروج از کالیفرنیا دفاع کرد. دادستان کل کالیفرنیا"
       },
       "source": {
         "en": "Deadline",
         "fa": "Deadline"
       },
-      "link": "https://deadline.com/2026/08/national-cinemedia-acquiring-advertising-platform-captivate-1237031526/",
-      "date": "2026-08-12T10:52:19.149402+00:00",
-      "image": "https://deadline.com/wp-content/uploads/2024/03/NCMI-Noovie.jpg",
-      "important": false,
-      "score": 0
-    },
-    {
-      "id": "5155c7f707f9",
-      "title": {
-        "en": "Doc Talk Podcast: Directors Judd Apatow & Michael Bonfiglio On Their Emmy Contender ‘Mel Brooks: The 99 Year Old Man!’",
-        "fa": "پادکست Doc Talk: کارگردانان جاد آپاتو و مایکل بونفیگلیو در مورد رقیب امی خود «مل بروکس: مرد 99 ساله!»"
-      },
-      "excerpt": {
-        "en": "For over 75 years, Mel Brooks has been making people laugh. Hard. He’s brought to the screen Mongo, Lili Von Shtüpp, the grandson of a certain mad scientist (aka Young Frankenstein), Frau Blücher (“A little Ovaltine, perhaps?), Louis XVI (“It’s good to be the king”), Max Bialystock, Leo Bloom, Barf, Dark Helmet, President Skroob, Yogurt, […]",
-        "fa": "برای بیش از 75 سال، مل بروکس مردم را می خنداند. سخت او مونگو، لیلی فون اشتوپ، نوه یک دانشمند دیوانه خاص، فراو بلوچر، لوئیس شانزدهم، ماکس بیالیستوک، لئو بلوم، بارف، کلاه تیره، پرزیدنت اسکروب، ماست را روی پرده آورده است."
-      },
-      "content": {
-        "en": "For over 75 years, Mel Brooks has been making people laugh. Hard. He’s brought to the screen Mongo, Lili Von Shtüpp, the grandson of a certain mad scientist (aka Young Frankenstein), Frau Blücher (“A little Ovaltine, perhaps?), Louis XVI (“It’s good to be the king”), Max Bialystock, Leo Bloom, Barf, Dark Helmet, President Skroob, Yogurt, […]",
-        "fa": "برای بیش از 75 سال، مل بروکس مردم را می خنداند. سخت او مونگو، لیلی فون اشتوپ، نوه یک دانشمند دیوانه خاص، فراو بلوچر، لوئیس شانزدهم، ماکس بیالیستوک، لئو بلوم، بارف، کلاه تیره، پرزیدنت اسکروب، ماست را روی پرده آورده است."
-      },
-      "source": {
-        "en": "Deadline",
-        "fa": "Deadline"
-      },
-      "link": "https://deadline.com/2026/08/mel-brooks-documentary-directors-interview-1237031414/",
-      "date": "2026-08-12T10:52:19.149041+00:00",
-      "image": "https://deadline.com/wp-content/uploads/2026/08/Judd-Apatow-Michael-Bonfiglio-Doc-Talk-Podcast.jpg",
+      "link": "https://deadline.com/2026/08/paramount-warner-bros-merger-california-settlement-1237031558/",
+      "date": "2026-08-12T11:39:38.406347+00:00",
+      "image": "https://deadline.com/wp-content/uploads/2026/08/Screenshot-2026-08-11-at-7.24.00-PM.jpeg",
       "important": false,
       "score": 0
     }
