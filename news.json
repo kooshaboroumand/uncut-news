@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-12T19:56:17.219630+00:00",
+  "updated_at": "2026-08-12T20:37:06.924199+00:00",
   "count": 24,
   "news": [
     {
@@ -21,7 +21,7 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/the-lowdown-season-2-release-date-fx-ethan-hawke-1237031975/",
-      "date": "2026-08-12T19:56:16.981903+00:00",
+      "date": "2026-08-12T20:37:06.764195+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/FXs-The-Lowdown-L-R-Tommy-Lee-Jones-and-Ethan-Hawke-photo-credit-Share-Brown.jpg",
       "important": true,
       "score": 10
@@ -45,56 +45,104 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/the-trial-of-louise-woodward-hbo-series-cast-sagar-radia-1237032159/",
-      "date": "2026-08-12T19:56:16.981774+00:00",
+      "date": "2026-08-12T20:37:06.764130+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/Screenshot-2026-08-12-at-10.53.22-AM-1.png",
       "important": true,
       "score": 6
     },
     {
-      "id": "391a44d9a955",
+      "id": "fab78b7f42b1",
       "title": {
-        "en": "‘Seinfeld’ Will Remain on Netflix and Paramount Channels After Sony Renews Licensing Agreement",
-        "fa": "«Seinfeld» پس از تمدید قرارداد مجوز سونی در کانال های نتفلیکس و پارامونت باقی خواهد ماند."
+        "en": "‘The Lincoln Lawyer’ Spinoff Starring Cobie Smulders In Fast-Track Development At Netflix – The Dish",
+        "fa": "اسپین آف «وکیل لینکلن» با بازی کوبی اسمالدرز در حال توسعه سریع در نتفلیکس – The Dish"
       },
       "excerpt": {
-        "en": "The basic cable rights to the show stay on Comedy Central and TV Land for the next three years The post ‘Seinfeld’ Will Remain on Netflix and Paramount Channels After Sony Renews Licensing Agreement appeared first on TheWrap .",
-        "fa": "حقوق اولیه کابلی نمایش تا سه سال آینده در کمدی سنترال و تلویزیون لند باقی می ماند"
+        "en": "EXCLUSIVE: The Lincoln Lawyer is eying a franchise expansion at Netflix with a spinoff series headlined by Cobie Smulders, reprising her role as Mickey Haller’s half-sister Artemisia “Emi” Finch, Deadline has learned. The script is being written by The Lincoln Lawyer executive producers Ted Humphrey, Dailyn Rodriguez and Matthew J. Lieberman, with A+E Studios producing. […]",
+        "fa": "انحصاری: وکیل لینکلن به دنبال گسترش فرنچایز در نتفلیکس با یک سریال اسپین آف با تیتر کوبی اسمالدرز است که نقش او را در نقش خواهر ناتنی میکی هالر آرتمیسیا «امی» فینچ بازی می کند، ددلاین دریافته است. فیلمنامه توسط تهیه کنندگان اجرایی The Lincoln Lawyer، تد هامفری، دیلین رودریگز و متیو جی لیبرمن نوشته می شود و استودیو A+E نیز تهیه کننده است."
       },
       "content": {
-        "en": "The basic cable rights to the show stay on Comedy Central and TV Land for the next three years The post ‘Seinfeld’ Will Remain on Netflix and Paramount Channels After Sony Renews Licensing Agreement appeared first on TheWrap .",
-        "fa": "حقوق اولیه کابلی نمایش تا سه سال آینده در کمدی سنترال و تلویزیون لند باقی می ماند"
+        "en": "EXCLUSIVE: The Lincoln Lawyer is eying a franchise expansion at Netflix with a spinoff series headlined by Cobie Smulders, reprising her role as Mickey Haller’s half-sister Artemisia “Emi” Finch, Deadline has learned. The script is being written by The Lincoln Lawyer executive producers Ted Humphrey, Dailyn Rodriguez and Matthew J. Lieberman, with A+E Studios producing. […]",
+        "fa": "انحصاری: وکیل لینکلن به دنبال گسترش فرنچایز در نتفلیکس با یک سریال اسپین آف با تیتر کوبی اسمالدرز است که نقش او را در نقش خواهر ناتنی میکی هالر آرتمیسیا «امی» فینچ بازی می کند، ددلاین دریافته است. فیلمنامه توسط تهیه کنندگان اجرایی The Lincoln Lawyer، تد هامفری، دیلین رودریگز و متیو جی لیبرمن نوشته می شود و استودیو A+E نیز تهیه کننده است."
+      },
+      "source": {
+        "en": "Deadline",
+        "fa": "Deadline"
+      },
+      "link": "https://deadline.com/2026/08/the-lincoln-lawyer-spinoff-cobie-smulders-emi-netflix-1237031468/",
+      "date": "2026-08-12T20:37:06.763249+00:00",
+      "image": "https://deadline.com/wp-content/uploads/2026/08/Cobie-Smulders-Lincoln-Lawyer.jpg",
+      "important": true,
+      "score": 6
+    },
+    {
+      "id": "72488b68c4c6",
+      "title": {
+        "en": "Apple’s Eddy Cue On ‘Ted Lasso’ Season 5 Renewal Possibility: “There’s Plenty Of Stories To Go On”",
+        "fa": "احتمال تمدید ادی کیو اپل در فصل پنجم «تد کمند»: «داستان‌های زیادی برای ادامه وجود دارد»"
+      },
+      "excerpt": {
+        "en": "The fourth season of Apple TV’s Ted Lasso just premiered, and executive Eddy Cue is hopeful that more seasons are possible. It was believed that after the first three seasons, the Jason Sudeikis-starring comedy series had naturally concluded. However, the creative team regrouped to pave a new path for the beloved character. In an interview […]",
+        "fa": "فصل چهارم Ted Lasso از Apple TV به تازگی پخش شد و Eddy Cue مدیر اجرایی امیدوار است که فصل های بیشتری امکان پذیر باشد. اعتقاد بر این بود که پس از سه فصل اول، سریال کمدی با بازی جیسون سودیکیس به طور طبیعی به پایان رسیده است. با این حال، تیم خلاق دوباره جمع شدند تا مسیر جدیدی را برای شخصیت محبوب هموار کنند. در یک مصاحبه"
+      },
+      "content": {
+        "en": "The fourth season of Apple TV’s Ted Lasso just premiered, and executive Eddy Cue is hopeful that more seasons are possible. It was believed that after the first three seasons, the Jason Sudeikis-starring comedy series had naturally concluded. However, the creative team regrouped to pave a new path for the beloved character. In an interview […]",
+        "fa": "فصل چهارم Ted Lasso از Apple TV به تازگی پخش شد و Eddy Cue مدیر اجرایی امیدوار است که فصل های بیشتری امکان پذیر باشد. اعتقاد بر این بود که پس از سه فصل اول، سریال کمدی با بازی جیسون سودیکیس به طور طبیعی به پایان رسیده است. با این حال، تیم خلاق دوباره جمع شدند تا مسیر جدیدی را برای شخصیت محبوب هموار کنند. در یک مصاحبه"
+      },
+      "source": {
+        "en": "Deadline",
+        "fa": "Deadline"
+      },
+      "link": "https://deadline.com/2026/08/eddy-cue-ted-lasso-season-5-renewal-apple-tv-1237032266/",
+      "date": "2026-08-12T20:37:06.762904+00:00",
+      "image": "https://deadline.com/wp-content/uploads/2026/08/jason-sudeikis-ted-lasso-apple-tv.jpg",
+      "important": true,
+      "score": 6
+    },
+    {
+      "id": "0ac9527d8064",
+      "title": {
+        "en": "Cinematographer Michael Bauman Looked to His Own Roots for ‘Monster: The Ed Gein Story’",
+        "fa": "مایکل باومن، فیلمبردار برای «هیولا: داستان اد جین» به ریشه های خودش نگاه کرد."
+      },
+      "excerpt": {
+        "en": "The Oscar-nominated cinematographer tells IndieWire about crafting the perfect visual language to express mystery, madness, and claustrophobia in the Netflix series.",
+        "fa": "فیلمبردار نامزد اسکار به IndieWire می‌گوید که زبان بصری کاملی برای بیان رمز و راز، جنون و کلاستروفوبیا در سریال نتفلیکس ایجاد کرده است."
+      },
+      "content": {
+        "en": "The Oscar-nominated cinematographer tells IndieWire about crafting the perfect visual language to express mystery, madness, and claustrophobia in the Netflix series.",
+        "fa": "فیلمبردار نامزد اسکار به IndieWire می‌گوید که زبان بصری کاملی برای بیان رمز و راز، جنون و کلاستروفوبیا در سریال نتفلیکس ایجاد کرده است."
+      },
+      "source": {
+        "en": "IndieWire",
+        "fa": "IndieWire"
+      },
+      "link": "https://www.indiewire.com/features/craft/michael-bauman-cinematography-ed-gein-story-ryan-murphy-1235208535/",
+      "date": "2026-08-12T20:37:06.768795+00:00",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/08/TCDMONS_ZX063-1.jpg?w=650",
+      "important": false,
+      "score": 3
+    },
+    {
+      "id": "83d515ae78c3",
+      "title": {
+        "en": "‘Let’s Marry Harry’ Boss Unpacks Surprising Ending and Taking the Gimmicks Out of Show’s ‘Bachelor’-Style Format",
+        "fa": "رئیس «بیا با هری ازدواج کنیم» پایان شگفت‌انگیز و حذف حقه‌ها از فرمت «لیسانس» نمایش را باز می‌کند"
+      },
+      "excerpt": {
+        "en": "Showrunner David Friedman tells TheWrap about creating a new dating format for Netflix and teases Harry Jowsey's relationship status The post ‘Let’s Marry Harry’ Boss Unpacks Surprising Ending and Taking the Gimmicks Out of Show’s ‘Bachelor’-Style Format appeared first on TheWrap .",
+        "fa": "شورانر دیوید فریدمن به TheWrap در مورد ایجاد قالب جدید قرار ملاقات برای نتفلیکس می گوید و وضعیت رابطه هری جوزی را مسخره می کند."
+      },
+      "content": {
+        "en": "Showrunner David Friedman tells TheWrap about creating a new dating format for Netflix and teases Harry Jowsey's relationship status The post ‘Let’s Marry Harry’ Boss Unpacks Surprising Ending and Taking the Gimmicks Out of Show’s ‘Bachelor’-Style Format appeared first on TheWrap .",
+        "fa": "شورانر دیوید فریدمن به TheWrap در مورد ایجاد قالب جدید قرار ملاقات برای نتفلیکس می گوید و وضعیت رابطه هری جوزی را مسخره می کند."
       },
       "source": {
         "en": "The Wrap",
         "fa": "The Wrap"
       },
-      "link": "https://www.thewrap.com/creative-content/tv-shows/seinfeld-netflix-paramount-renews-licensing-deal/",
-      "date": "2026-08-12T19:56:16.990955+00:00",
-      "image": "https://i0.wp.com/www.thewrap.com/wp-content/uploads/2026/08/seinfeld.jpg?fit=1280%2C720&quality=89&ssl=1",
-      "important": false,
-      "score": 3
-    },
-    {
-      "id": "0d02234aff8c",
-      "title": {
-        "en": "How an Abandoned Shopping Mall Was Transformed into the Las Vegas Strip for ‘Fallout’ Season Two",
-        "fa": "چگونه یک مرکز خرید متروکه برای فصل دوم «فال اوت» به لاس وگاس استریپ تبدیل شد"
-      },
-      "excerpt": {
-        "en": "For season two of the Prime Video series, production designer Howard Cummings had to adhere closely to the elements laid out in the video game.",
-        "fa": "برای فصل دوم سریال Prime Video، طراح تولید، هوارد کامینگز، مجبور بود از نزدیک به عناصر مطرح شده در بازی ویدیویی پایبند باشد."
-      },
-      "content": {
-        "en": "For season two of the Prime Video series, production designer Howard Cummings had to adhere closely to the elements laid out in the video game.",
-        "fa": "برای فصل دوم سریال Prime Video، طراح تولید، هوارد کامینگز، مجبور بود از نزدیک به عناصر مطرح شده در بازی ویدیویی پایبند باشد."
-      },
-      "source": {
-        "en": "The Hollywood Reporter",
-        "fa": "The Hollywood Reporter"
-      },
-      "link": "https://www.hollywoodreporter.com/tv/tv-features/abandoned-mall-transformed-las-vegas-fallout-season-two-1236671538/",
-      "date": "2026-08-12T19:56:16.988647+00:00",
-      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/14BREP-Fallout-Main-2026.jpg?w=1296&#038;h=730&#038;crop=1",
+      "link": "https://www.thewrap.com/creative-content/tv-shows/lets-marry-harry-showrunner-interview-harry-jowsey-relationship-status/",
+      "date": "2026-08-12T20:37:06.767646+00:00",
+      "image": "https://www.thewrap.com/wp-content/uploads/2026/08/Lets_Marry_Harry_n_S1_E8_00_38_59_21R2.jpg",
       "important": false,
       "score": 3
     },
@@ -117,80 +165,32 @@
         "fa": "The Hollywood Reporter"
       },
       "link": "https://www.hollywoodreporter.com/movies/movie-news/charlie-vs-the-chocolate-factory-movie-netflix-release-date-1236672112/",
-      "date": "2026-08-12T19:56:16.988221+00:00",
+      "date": "2026-08-12T20:37:06.767259+00:00",
       "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/04/FotoJet-2026-04-16T091521.130.jpg?w=1440&#038;h=810&#038;crop=1",
       "important": false,
       "score": 3
     },
     {
-      "id": "b22e99b540c4",
+      "id": "fda54a28a074",
       "title": {
-        "en": "The America ‘Gilded Age’ Creator Julian Fellowes Fell For Is the America He Puts on TV",
-        "fa": "جولیان فلووز خالق «عصر طلایی» آمریکا به خاطر آن آمریکایی است که روی تلویزیون می گذارد"
+        "en": "A Man Secured a Lost Billy Joel Interview. Then He Re-Created the Singer in AI. (Exclusive)",
+        "fa": "مردی که بیلی جوئل گمشده را ایمن کرد مصاحبه. سپس او خواننده را در هوش مصنوعی دوباره خلق کرد."
       },
       "excerpt": {
-        "en": "From the Russells’ rise to Peggy’s fairy-tale ending, the Emmy-nominated HBO drama channels Fellowes’ belief in American reinvention — even as he mourns the country’s decline.",
-        "fa": "از ظهور راسل ها تا پایان افسانه ای پگی، کانال های درام HBO نامزد جایزه امی، اعتقاد Fellowes به اختراع مجدد آمریکا را پخش می کند - حتی در حالی که او برای افول کشور سوگوار است."
+        "en": "The strange story of an AI Billy Joel project that the icon had nothing to do with and likely is unhappy about",
+        "fa": "داستان عجیب یک پروژه هوش مصنوعی بیلی جوئل که نماد هیچ ارتباطی با آن نداشت و احتمالاً از آن ناراضی است."
       },
       "content": {
-        "en": "From the Russells’ rise to Peggy’s fairy-tale ending, the Emmy-nominated HBO drama channels Fellowes’ belief in American reinvention — even as he mourns the country’s decline.",
-        "fa": "از ظهور راسل ها تا پایان افسانه ای پگی، کانال های درام HBO نامزد جایزه امی، اعتقاد Fellowes به اختراع مجدد آمریکا را پخش می کند - حتی در حالی که او برای افول کشور سوگوار است."
+        "en": "The strange story of an AI Billy Joel project that the icon had nothing to do with and likely is unhappy about",
+        "fa": "داستان عجیب یک پروژه هوش مصنوعی بیلی جوئل که نماد هیچ ارتباطی با آن نداشت و احتمالاً از آن ناراضی است."
       },
       "source": {
         "en": "The Hollywood Reporter",
         "fa": "The Hollywood Reporter"
       },
-      "link": "https://www.hollywoodreporter.com/tv/tv-features/julian-fellowes-the-gilded-age-ammerica-allure-1236670571/",
-      "date": "2026-08-12T19:56:16.987385+00:00",
-      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/14FEA-Drama-Series-Gilded-Age-Main-2026.jpg?w=1296&#038;h=730&#038;crop=1",
-      "important": false,
-      "score": 3
-    },
-    {
-      "id": "28e19d7481c4",
-      "title": {
-        "en": "Ben Brown Tapped To Run AV Group For Marketing Agency Bond Reuniting With President Wayne Watson",
-        "fa": "بن براون برای اداره گروه AV برای آژانس بازاریابی همکاری مجدد با رئیس جمهور وین واتسون"
-      },
-      "excerpt": {
-        "en": "EXCLUSIVE: Bond has hired Ben Brown as President, Head of AV and will team with Wayne Watson, who has led the division for the past two years, to lead the company together as co-presidents. Both report to co-founder and CEO Seth Phillips Althoff and will work closely with co-founder Luke Silver-Greenberg in future growth of […]",
-        "fa": "انحصاری: باند بن براون را به عنوان رئیس، رئیس AV استخدام کرده است و با وین واتسون، که در دو سال گذشته این بخش را رهبری کرده است، همکاری خواهد کرد تا شرکت را با هم به عنوان رئیس مشترک رهبری کنند. هر دو به یکی از بنیانگذاران و مدیرعامل ست فیلیپس آلتوف گزارش می دهند و از نزدیک با یکی از بنیانگذاران، لوک سیلور-گرینبرگ در رشد آینده کار خواهند کرد."
-      },
-      "content": {
-        "en": "EXCLUSIVE: Bond has hired Ben Brown as President, Head of AV and will team with Wayne Watson, who has led the division for the past two years, to lead the company together as co-presidents. Both report to co-founder and CEO Seth Phillips Althoff and will work closely with co-founder Luke Silver-Greenberg in future growth of […]",
-        "fa": "انحصاری: باند بن براون را به عنوان رئیس، رئیس AV استخدام کرده است و با وین واتسون، که در دو سال گذشته این بخش را رهبری کرده است، همکاری خواهد کرد تا شرکت را با هم به عنوان رئیس مشترک رهبری کنند. هر دو به یکی از بنیانگذاران و مدیرعامل ست فیلیپس آلتوف گزارش می دهند و از نزدیک با یکی از بنیانگذاران، لوک سیلور-گرینبرگ در رشد آینده کار خواهند کرد."
-      },
-      "source": {
-        "en": "Deadline",
-        "fa": "Deadline"
-      },
-      "link": "https://deadline.com/2026/08/ben-brown-bond-wayne-watson-1237031963/",
-      "date": "2026-08-12T19:56:16.983897+00:00",
-      "image": "https://deadline.com/wp-content/uploads/2026/08/bond.jpeg",
-      "important": false,
-      "score": 3
-    },
-    {
-      "id": "d6b9d0a5728d",
-      "title": {
-        "en": "‘Don’t Say Good Luck’ Review: Melanie Lynskey And Sunny Sandler Shine In Heartbreaking Coming Of Age True Story",
-        "fa": "نقد و بررسی «نگویید موفق باشید»: ملانی لینسکی و سانی سندلر در داستان واقعی دل‌خراش دوران سنی می‌درخشند"
-      },
-      "excerpt": {
-        "en": "After showing genuine talent opposite her father Adam Sandler in 2023’s Netflix comedy, You Are So Not Invited To My Bat Mitzvah, Sunny Sandler 100% confirms that talent runs in the family with another Netflix film produced by Happy Madison (her father’s production company) and right in line with the heartfelt coming of age films […]",
-        "fa": "سانی سندلر پس از نشان دادن استعداد واقعی در مقابل پدرش آدام سندلر در کمدی نتفلیکس در سال 2023، You Are So Not Invited To My Bat Mitzvah، 100% تایید می کند که استعداد در خانواده با فیلم دیگری از نتفلیکس که توسط مدیسون Happy Madison تهیه شده است و درست مطابق با فیلم های صمیمانه به سن بلوغ است، وجود دارد."
-      },
-      "content": {
-        "en": "After showing genuine talent opposite her father Adam Sandler in 2023’s Netflix comedy, You Are So Not Invited To My Bat Mitzvah, Sunny Sandler 100% confirms that talent runs in the family with another Netflix film produced by Happy Madison (her father’s production company) and right in line with the heartfelt coming of age films […]",
-        "fa": "سانی سندلر پس از نشان دادن استعداد واقعی در مقابل پدرش آدام سندلر در کمدی نتفلیکس در سال 2023، You Are So Not Invited To My Bat Mitzvah، 100% تایید می کند که استعداد در خانواده با فیلم دیگری از نتفلیکس که توسط مدیسون Happy Madison تهیه شده است و درست مطابق با فیلم های صمیمانه به سن بلوغ است، وجود دارد."
-      },
-      "source": {
-        "en": "Deadline",
-        "fa": "Deadline"
-      },
-      "link": "https://deadline.com/2026/08/dont-say-good-luck-review-melanie-lynskey-sunny-sandler-1237031849/",
-      "date": "2026-08-12T19:56:16.983171+00:00",
-      "image": "https://deadline.com/wp-content/uploads/2026/08/dont-say-1-1.webp",
+      "link": "https://www.hollywoodreporter.com/music/music-news/billy-joel-ai-documentary-watch-1236672250/",
+      "date": "2026-08-12T20:37:06.766400+00:00",
+      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/YoungBillyJoelAI.jpg?w=1074&#038;h=478&#038;crop=1",
       "important": false,
       "score": 3
     },
@@ -213,56 +213,56 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/keegan-allen-conor-husting-rio-mangini-star-small-talk-1237032109/",
-      "date": "2026-08-12T19:56:16.982335+00:00",
+      "date": "2026-08-12T20:37:06.764418+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/deadline-photo-split.png",
       "important": false,
       "score": 3
     },
     {
-      "id": "3b0914c9550d",
+      "id": "0f97ec6def5f",
       "title": {
-        "en": "Indie Specialized Box Office: Chefs, Slashers, Girl Scouts, and Cats Lead Stellar Week for Limited Releases",
-        "fa": "باکس آفیس تخصصی مستقل: سرآشپزها، اسلشرها، پیشاهنگان دختر، و گربه‌ها هفته ستاره‌ای را برای عرضه‌های محدود رهبری می‌کنند."
+        "en": "Jesse Lee Soffer To Star In ‘Strike Force’; CBS Drama From Matt Olmstead Gets Development Room Order",
+        "fa": "جسی لی سوفر برای بازی در «Strike Force» درام CBS از مت اولمستد سفارش اتاق توسعه را دریافت می کند"
       },
       "excerpt": {
-        "en": "\"Tony,\" \"Teenage Sex and Death at Camp Miasma,\" \"Cookie Queens,\" and the annual CatVideoFest all opened strong even as \"Spider-Man\" broke records.",
-        "fa": "«تونی»، «سکس و مرگ نوجوان در کمپ میاسما»، «کوکی کوئینز» و جشنواره سالانه CatVideoFest همگی با قدرت شروع شدند، حتی زمانی که «اسپایدرمن» رکوردها را شکست."
+        "en": "More than a year after FBI: International was canceled, the series’ star Jesse Lee Soffer and showrunner Matt Olmstead are reuniting for another crime drama project at CBS. The network continues to build out its 2027/28 development slate with a development room order to Strike Force (working title), from Jerry Bruckheimer Television and CBS Studios. […]",
+        "fa": "بیش از یک سال پس از لغو FBI: International، ستاره سریال جسی لی سوفر و مجری برنامه مت اولمستد برای پروژه درام جنایی دیگری در CBS گرد هم می آیند. این شبکه به ساخت جدول توسعه 2027/28 خود با دستور اتاق توسعه به Strike Force، از جری بروکهایمر تلویزیون و استودیو CBS ادامه می‌دهد."
       },
       "content": {
-        "en": "\"Tony,\" \"Teenage Sex and Death at Camp Miasma,\" \"Cookie Queens,\" and the annual CatVideoFest all opened strong even as \"Spider-Man\" broke records.",
-        "fa": "«تونی»، «سکس و مرگ نوجوان در کمپ میاسما»، «کوکی کوئینز» و جشنواره سالانه CatVideoFest همگی با قدرت شروع شدند، حتی زمانی که «اسپایدرمن» رکوردها را شکست."
+        "en": "More than a year after FBI: International was canceled, the series’ star Jesse Lee Soffer and showrunner Matt Olmstead are reuniting for another crime drama project at CBS. The network continues to build out its 2027/28 development slate with a development room order to Strike Force (working title), from Jerry Bruckheimer Television and CBS Studios. […]",
+        "fa": "بیش از یک سال پس از لغو FBI: International، ستاره سریال جسی لی سوفر و مجری برنامه مت اولمستد برای پروژه درام جنایی دیگری در CBS گرد هم می آیند. این شبکه به ساخت جدول توسعه 2027/28 خود با دستور اتاق توسعه به Strike Force، از جری بروکهایمر تلویزیون و استودیو CBS ادامه می‌دهد."
       },
       "source": {
-        "en": "IndieWire",
-        "fa": "IndieWire"
+        "en": "Deadline",
+        "fa": "Deadline"
       },
-      "link": "https://www.indiewire.com/news/box-office/tony-teenage-sex-death-camp-miasma-indie-box-office-1235210007/",
-      "date": "2026-08-12T19:56:16.993355+00:00",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/08/T_16236-Edit.jpg?w=650",
+      "link": "https://deadline.com/2026/08/jesse-lee-soffer-strike-force-cbs-drama-matt-olmstead-1237032272/",
+      "date": "2026-08-12T20:37:06.762152+00:00",
+      "image": "https://deadline.com/wp-content/uploads/2026/08/jesse-lee-soffer-matt-olmstead-photo.jpg",
       "important": false,
-      "score": 1
+      "score": 3
     },
     {
-      "id": "745b20c146bd",
+      "id": "853342b4295b",
       "title": {
-        "en": "Jeremy Strong Messaged Mark Zuckerberg After ‘Social Reckoning’ Casting: ‘I Take This Responsibility Very Seriously’",
-        "fa": "جرمی استرانگ پس از بازیگری در «تحقیق اجتماعی» به مارک زاکربرگ پیام داد: «من این مسئولیت را بسیار جدی می‌گیرم»."
+        "en": "Paramount Has Considered Creating Oversight Body for CNN in Warner Deal",
+        "fa": "پارامونت ایجاد یک نهاد نظارتی برای CNN در Warner Deal را در نظر گرفته است"
       },
       "excerpt": {
-        "en": "\"I do not think you should have an actor playing him who wants to set out to condemn him,\" the former \"Succession\" star says The post Jeremy Strong Messaged Mark Zuckerberg After ‘Social Reckoning’ Casting: ‘I Take This Responsibility Very Seriously’ appeared first on TheWrap .",
-        "fa": "ستاره سابق «جانشینی» می‌گوید: «فکر نمی‌کنم بازیگری نقش او را داشته باشد که بخواهد او را محکوم کند."
+        "en": "Every day, governments, newsmakers and politicians scrutinize the news reporting of CNN. Paramount Skydance wants to add to the list. The media conglomerate, whose efforts to acquire CNN parent Warner Bros. Discovery have stalled in federal court after a group of 12 attorneys general levied antitrust concerns against the proposed deal, has considered setting up […]",
+        "fa": "هر روز، دولت‌ها، خبرسازان و سیاستمداران گزارش‌های خبری CNN را بررسی می‌کنند. Paramount Skydance می خواهد به لیست اضافه کند. این مجموعه رسانه‌ای که تلاش‌هایش برای تصاحب شرکت مادر CNN، برادران وارنر دیسکاوری، پس از اینکه گروهی متشکل از 12 دادستان کل نگرانی‌های ضد انحصاری علیه قرارداد پیشنهادی را مطرح کردند، در دادگاه فدرال متوقف شد، به فکر راه‌اندازی است."
       },
       "content": {
-        "en": "\"I do not think you should have an actor playing him who wants to set out to condemn him,\" the former \"Succession\" star says The post Jeremy Strong Messaged Mark Zuckerberg After ‘Social Reckoning’ Casting: ‘I Take This Responsibility Very Seriously’ appeared first on TheWrap .",
-        "fa": "ستاره سابق «جانشینی» می‌گوید: «فکر نمی‌کنم بازیگری نقش او را داشته باشد که بخواهد او را محکوم کند."
+        "en": "Every day, governments, newsmakers and politicians scrutinize the news reporting of CNN. Paramount Skydance wants to add to the list. The media conglomerate, whose efforts to acquire CNN parent Warner Bros. Discovery have stalled in federal court after a group of 12 attorneys general levied antitrust concerns against the proposed deal, has considered setting up […]",
+        "fa": "هر روز، دولت‌ها، خبرسازان و سیاستمداران گزارش‌های خبری CNN را بررسی می‌کنند. Paramount Skydance می خواهد به لیست اضافه کند. این مجموعه رسانه‌ای که تلاش‌هایش برای تصاحب شرکت مادر CNN، برادران وارنر دیسکاوری، پس از اینکه گروهی متشکل از 12 دادستان کل نگرانی‌های ضد انحصاری علیه قرارداد پیشنهادی را مطرح کردند، در دادگاه فدرال متوقف شد، به فکر راه‌اندازی است."
       },
       "source": {
-        "en": "The Wrap",
-        "fa": "The Wrap"
+        "en": "Variety",
+        "fa": "Variety"
       },
-      "link": "https://www.thewrap.com/creative-content/movies/jeremy-strong-mark-zuckerberg-social-reckoning-casting/",
-      "date": "2026-08-12T19:56:16.990835+00:00",
-      "image": "https://www.thewrap.com/wp-content/uploads/2026/08/Jeremy-Strong-Mark-Zuckerberg-Split-Header.jpg",
+      "link": "https://variety.com/2026/tv/news/paramount-cnn-oversight-committee-warner-deal-1236833271/",
+      "date": "2026-08-12T20:37:06.765388+00:00",
+      "image": "https://variety.com/wp-content/uploads/2025/12/CNN-Headquarters-Atlanta.jpg",
       "important": false,
       "score": 1
     },
@@ -285,7 +285,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/criticism/movies/coyote-vs-acme-review-looney-tunes-live-action-comedy-1235209439/",
-      "date": "2026-08-12T19:56:16.992570+00:00",
+      "date": "2026-08-12T20:37:06.769654+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2024/02/Coyote-vs-Acme.webp?w=650",
       "important": false,
       "score": 0
@@ -309,8 +309,32 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/features/commentary/worst-disney-direct-to-video-sequels-1235209538/",
-      "date": "2026-08-12T19:56:16.992125+00:00",
+      "date": "2026-08-12T20:37:06.769402+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/MSDLIME_WD011-1.jpg?w=650",
+      "important": false,
+      "score": 0
+    },
+    {
+      "id": "815d97038509",
+      "title": {
+        "en": "American Film Market Expands to Include AI and Tech Companies",
+        "fa": "بازار فیلم آمریکا گسترش می یابد و شامل شرکت های هوش مصنوعی و فناوری می شود"
+      },
+      "excerpt": {
+        "en": "IFTA is partnering with Cannes Next on the AFM House and Innovation Hub, which will showcase AI startups and other forward-looking programming.",
+        "fa": "IFTA با Cannes Next در خانه AFM و مرکز نوآوری همکاری می کند که استارت آپ های هوش مصنوعی و سایر برنامه های آینده نگر را به نمایش می گذارد."
+      },
+      "content": {
+        "en": "IFTA is partnering with Cannes Next on the AFM House and Innovation Hub, which will showcase AI startups and other forward-looking programming.",
+        "fa": "IFTA با Cannes Next در خانه AFM و مرکز نوآوری همکاری می کند که استارت آپ های هوش مصنوعی و سایر برنامه های آینده نگر را به نمایش می گذارد."
+      },
+      "source": {
+        "en": "IndieWire",
+        "fa": "IndieWire"
+      },
+      "link": "https://www.indiewire.com/news/business/american-film-market-afm-expands-ai-tech-companies-1235210223/",
+      "date": "2026-08-12T20:37:06.769226+00:00",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/08/The-AFM-HOUSE-pavilion-century-park-1.png?w=650",
       "important": false,
       "score": 0
     },
@@ -333,7 +357,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/features/interviews/anders-danielsen-lie-interview-making-oslo-august-31st-1235209755/",
-      "date": "2026-08-12T19:56:16.991582+00:00",
+      "date": "2026-08-12T20:37:06.769127+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/SEQUELS-WEEK-OSLO-31.png?w=650",
       "important": false,
       "score": 0
@@ -357,7 +381,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/news/festivals/sundance-2026-movies-sold-so-far-1235174095/",
-      "date": "2026-08-12T19:56:16.991368+00:00",
+      "date": "2026-08-12T20:37:06.769015+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/01/Closure.jpg?w=650",
       "important": false,
       "score": 0
@@ -381,32 +405,8 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/features/interviews/nimrods-green-day-movie-billie-joe-armstrong-interview-1235209998/",
-      "date": "2026-08-12T19:56:16.991179+00:00",
+      "date": "2026-08-12T20:37:06.768914+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/IMG_4350.jpeg?w=594",
-      "important": false,
-      "score": 0
-    },
-    {
-      "id": "90f51b606654",
-      "title": {
-        "en": "American Film Market Expands Century City Campus With Marché du Film Partnership",
-        "fa": "بازار فیلم آمریکا پردیس شهر قرن را با مشارکت فیلم مارکه دو گسترش می دهد"
-      },
-      "excerpt": {
-        "en": "AFM and Cannes Next will launch an Innovation Hub at this year's edition in November The post American Film Market Expands Century City Campus With Marché du Film Partnership appeared first on TheWrap .",
-        "fa": "AFM و Cannes Next یک مرکز نوآوری را در نسخه امسال در نوامبر راه اندازی خواهند کرد"
-      },
-      "content": {
-        "en": "AFM and Cannes Next will launch an Innovation Hub at this year's edition in November The post American Film Market Expands Century City Campus With Marché du Film Partnership appeared first on TheWrap .",
-        "fa": "AFM و Cannes Next یک مرکز نوآوری را در نسخه امسال در نوامبر راه اندازی خواهند کرد"
-      },
-      "source": {
-        "en": "The Wrap",
-        "fa": "The Wrap"
-      },
-      "link": "https://www.thewrap.com/industry-news/business/american-film-market-campus-marche-du-film-partnership/",
-      "date": "2026-08-12T19:56:16.990687+00:00",
-      "image": "https://www.thewrap.com/wp-content/uploads/2026/08/THE-AFM-HOUSE-pavilion-century-park-2-1-e1786554570638.jpeg",
       "important": false,
       "score": 0
     },
@@ -429,32 +429,32 @@
         "fa": "The Wrap"
       },
       "link": "https://www.thewrap.com/creative-content/tv-shows/the-traitors-new-blood-cast/",
-      "date": "2026-08-12T19:56:16.990070+00:00",
+      "date": "2026-08-12T20:37:06.768706+00:00",
       "image": "https://www.thewrap.com/wp-content/uploads/2026/02/NUP_207958_02037-e1772148445842.jpg",
       "important": false,
       "score": 0
     },
     {
-      "id": "d2cc67cc1e94",
+      "id": "7e296b655da9",
       "title": {
-        "en": "A Late ‘Pinky & The Brain’ Writer’s Movie Is Now Getting Made — by His Son and With Puppets",
-        "fa": "فیلم نویسنده اواخر «پینکی و مغز» اکنون در حال ساخت است - توسط پسرش و با عروسک‌ها"
+        "en": "Alden Ehrenreich Joins ‘Miami Vice ’85’",
+        "fa": "آلدن ارنرایش به «Miami Vice 85» پیوست"
       },
       "excerpt": {
-        "en": "Emmy winner Gordon Bressack died in 2019. Now his son, filmmaker James Cullen Bressack, is dusting off an old story and putting his own spin on it.",
-        "fa": "گوردون برساک، برنده جایزه امی در سال 2019 درگذشت. حالا پسرش، جیمز کالن برساک، فیلمساز، در حال پاک کردن یک داستان قدیمی است و داستان خود را روی آن می نویسد."
+        "en": "The \"Weapons\" and \"Oppenheimer\" star joins the revival of the hit '80s series led by Michael B. Jordan and Austin Butler The post Alden Ehrenreich Joins ‘Miami Vice ’85’ appeared first on TheWrap .",
+        "fa": "ستاره «سلاح‌ها» و «اپنهایمر» به احیای سریال موفق دهه 80 به رهبری مایکل بی جردن و آستین باتلر پیوست."
       },
       "content": {
-        "en": "Emmy winner Gordon Bressack died in 2019. Now his son, filmmaker James Cullen Bressack, is dusting off an old story and putting his own spin on it.",
-        "fa": "گوردون برساک، برنده جایزه امی در سال 2019 درگذشت. حالا پسرش، جیمز کالن برساک، فیلمساز، در حال پاک کردن یک داستان قدیمی است و داستان خود را روی آن می نویسد."
+        "en": "The \"Weapons\" and \"Oppenheimer\" star joins the revival of the hit '80s series led by Michael B. Jordan and Austin Butler The post Alden Ehrenreich Joins ‘Miami Vice ’85’ appeared first on TheWrap .",
+        "fa": "ستاره «سلاح‌ها» و «اپنهایمر» به احیای سریال موفق دهه 80 به رهبری مایکل بی جردن و آستین باتلر پیوست."
       },
       "source": {
-        "en": "The Hollywood Reporter",
-        "fa": "The Hollywood Reporter"
+        "en": "The Wrap",
+        "fa": "The Wrap"
       },
-      "link": "https://www.hollywoodreporter.com/movies/movie-news/a-late-pinky-the-brain-writers-script-is-finally-getting-made-1236670539/",
-      "date": "2026-08-12T19:56:16.988457+00:00",
-      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/James-Cullen-Bressack-Gordan-Bressack-Split-Main-2026.jpg?w=1296&#038;h=730&#038;crop=1",
+      "link": "https://www.thewrap.com/creative-content/movies/alden-ehrenreich-joins-miami-vice-85-cast/",
+      "date": "2026-08-12T20:37:06.767527+00:00",
+      "image": "https://www.thewrap.com/wp-content/uploads/2023/06/CMS-Alden-Ehrenreich.jpg",
       "important": false,
       "score": 0
     },
@@ -477,8 +477,32 @@
         "fa": "The Hollywood Reporter"
       },
       "link": "https://www.hollywoodreporter.com/movies/movie-features/spider-man-brand-new-day-jean-grey-1236671583/",
-      "date": "2026-08-12T19:56:16.987643+00:00",
+      "date": "2026-08-12T20:37:06.766946+00:00",
       "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/Erik-Sommers-Chris-McKenna-Main-2026.jpg?w=1296&#038;h=730&#038;crop=1",
+      "important": false,
+      "score": 0
+    },
+    {
+      "id": "88f6809d1d7e",
+      "title": {
+        "en": "Ousted Disney CEO Bob Chapek Writing Tell-All Memoir",
+        "fa": "مدیر عامل برکنار شده دیزنی باب چاپک در حال نوشتن خاطرات Tell-All"
+      },
+      "excerpt": {
+        "en": "The exec is planning a memoir, 'Behind the Castle Walls,' which will be released in September and address his tenure at the company and Bob Iger's return.",
+        "fa": "مدیر اجرایی در حال برنامه ریزی خاطراتی به نام «پشت دیوارهای قلعه» است که در ماه سپتامبر منتشر می شود و به دوران تصدی او در شرکت و بازگشت باب ایگر می پردازد."
+      },
+      "content": {
+        "en": "The exec is planning a memoir, 'Behind the Castle Walls,' which will be released in September and address his tenure at the company and Bob Iger's return.",
+        "fa": "مدیر اجرایی در حال برنامه ریزی خاطراتی به نام «پشت دیوارهای قلعه» است که در ماه سپتامبر منتشر می شود و به دوران تصدی او در شرکت و بازگشت باب ایگر می پردازد."
+      },
+      "source": {
+        "en": "The Hollywood Reporter",
+        "fa": "The Hollywood Reporter"
+      },
+      "link": "https://www.hollywoodreporter.com/business/business-news/bob-chapek-releasing-disney-tell-all-memoir-ceo-iger-1236672388/",
+      "date": "2026-08-12T20:37:06.766602+00:00",
+      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/Behind-the-Catle-Walls-Bob-Chapek-Split-Main-2026.jpg?w=1296&#038;h=730&#038;crop=1",
       "important": false,
       "score": 0
     },
@@ -501,7 +525,7 @@
         "fa": "Variety"
       },
       "link": "https://variety.com/2026/film/news/lilly-wachowski-trans-movie-no-financing-1236833156/",
-      "date": "2026-08-12T19:56:16.985116+00:00",
+      "date": "2026-08-12T20:37:06.766287+00:00",
       "image": "https://variety.com/wp-content/uploads/2026/08/GettyImages-2280410316.jpg",
       "important": false,
       "score": 0
@@ -525,7 +549,7 @@
         "fa": "Variety"
       },
       "link": "https://variety.com/2026/music/news/hayley-williams-power-snatch-surprise-release-ep2-1236833219/",
-      "date": "2026-08-12T19:56:16.984950+00:00",
+      "date": "2026-08-12T20:37:06.766199+00:00",
       "image": "https://variety.com/wp-content/uploads/2024/01/CLEVELAND-38.jpg",
       "important": false,
       "score": 0
@@ -549,32 +573,8 @@
         "fa": "Variety"
       },
       "link": "https://variety.com/2026/tv/news/amanda-waller-series-wonder-woman-paradise-lost-dc-studios-1236833212/",
-      "date": "2026-08-12T19:56:16.984609+00:00",
+      "date": "2026-08-12T20:37:06.766019+00:00",
       "image": "https://variety.com/wp-content/uploads/2026/08/amanda-waller-wonder-woman.png",
-      "important": false,
-      "score": 0
-    },
-    {
-      "id": "5e6d7d606f39",
-      "title": {
-        "en": "Top House Judiciary Democrat Jamie Raskin Seeks Transcribed Interview With David Ellison Over Paramount-Warner Bros. Discovery Merger",
-        "fa": "جیمی راسکین، دموکرات ارشد مجلس نمایندگان آمریکا به دنبال مصاحبه رونویسی شده با دیوید الیسون در مورد ادغام دیسکاوری برادران پارامونت-وارنر است."
-      },
-      "excerpt": {
-        "en": "The top Democrat on the House Judiciary Committee wants Paramount CEO to sit for a transcribed interview to answer questions on its proposed merger with Warner Bros. Discovery. The letter from Rep. Jamie Raskin (D-MD) is just the latest that Democrats have sent to Ellison, as they amplify their criticisms and opposition to the transaction. […]",
-        "fa": "دموکرات ارشد کمیته قضایی مجلس نمایندگان آمریکا از مدیرعامل پارامونت می‌خواهد تا برای پاسخ به سؤالات مربوط به ادغام پیشنهادی خود با برادران وارنر دیسکاوری، مصاحبه ای رونویسی شده بنشیند. نامه ای از نماینده جیمی راسکین تنها آخرین نامه ای است که دموکرات ها برای الیسون ارسال کرده اند، زیرا آنها انتقادات و مخالفت خود را با این معامله تشدید می کنند."
-      },
-      "content": {
-        "en": "The top Democrat on the House Judiciary Committee wants Paramount CEO to sit for a transcribed interview to answer questions on its proposed merger with Warner Bros. Discovery. The letter from Rep. Jamie Raskin (D-MD) is just the latest that Democrats have sent to Ellison, as they amplify their criticisms and opposition to the transaction. […]",
-        "fa": "دموکرات ارشد کمیته قضایی مجلس نمایندگان آمریکا از مدیرعامل پارامونت می‌خواهد تا برای پاسخ به سؤالات مربوط به ادغام پیشنهادی خود با برادران وارنر دیسکاوری، مصاحبه ای رونویسی شده بنشیند. نامه ای از نماینده جیمی راسکین تنها آخرین نامه ای است که دموکرات ها برای الیسون ارسال کرده اند، زیرا آنها انتقادات و مخالفت خود را با این معامله تشدید می کنند."
-      },
-      "source": {
-        "en": "Deadline",
-        "fa": "Deadline"
-      },
-      "link": "https://deadline.com/2026/08/paramount-warner-bros-democrats-david-ellison-1237031910/",
-      "date": "2026-08-12T19:56:16.983475+00:00",
-      "image": "https://deadline.com/wp-content/uploads/2025/12/GettyImages-2185627611.jpg",
       "important": false,
       "score": 0
     }
