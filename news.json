@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-12T18:49:56.916593+00:00",
+  "updated_at": "2026-08-12T19:56:17.219630+00:00",
   "count": 24,
   "news": [
     {
@@ -21,34 +21,10 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/the-lowdown-season-2-release-date-fx-ethan-hawke-1237031975/",
-      "date": "2026-08-12T18:49:56.694063+00:00",
+      "date": "2026-08-12T19:56:16.981903+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/FXs-The-Lowdown-L-R-Tommy-Lee-Jones-and-Ethan-Hawke-photo-credit-Share-Brown.jpg",
       "important": true,
       "score": 10
-    },
-    {
-      "id": "12d0752fbb0f",
-      "title": {
-        "en": "Netflix & Paramount Extend ‘Seinfeld’ Licensing Deals",
-        "fa": "نتفلیکس و پارامونت قراردادهای مجوز «Seinfeld» را تمدید کردند"
-      },
-      "excerpt": {
-        "en": "It’s not everyday you see executives of the caliber of Netflix co-CEO Ted Sarandos and Paramount TV Media Chair George Cheeks give quotes for licensing deal extensions on a 37-year-old show. Then, Seinfeld is not just any show. Series distributor Sony Pictures Television has renewed its licensing agreements with Netflix and Paramount. Netflix will continue […]",
-        "fa": "هر روز نیست که می‌بینید مدیرانی در حد تد ساراندوس، مدیر عامل نتفلیکس و جورج چیکس، رئیس رسانه تلویزیونی پارامونت، برای تمدید مجوز در یک برنامه 37 ساله نقل قول می‌دهند. پس، ساینفلد فقط یک نمایش نیست. پخش کننده سریال Sony Pictures Television قراردادهای مجوز خود را با نتفلیکس و پارامونت تمدید کرد. نتفلیکس ادامه خواهد داشت"
-      },
-      "content": {
-        "en": "It’s not everyday you see executives of the caliber of Netflix co-CEO Ted Sarandos and Paramount TV Media Chair George Cheeks give quotes for licensing deal extensions on a 37-year-old show. Then, Seinfeld is not just any show. Series distributor Sony Pictures Television has renewed its licensing agreements with Netflix and Paramount. Netflix will continue […]",
-        "fa": "هر روز نیست که می‌بینید مدیرانی در حد تد ساراندوس، مدیر عامل نتفلیکس و جورج چیکس، رئیس رسانه تلویزیونی پارامونت، برای تمدید مجوز در یک برنامه 37 ساله نقل قول می‌دهند. پس، ساینفلد فقط یک نمایش نیست. پخش کننده سریال Sony Pictures Television قراردادهای مجوز خود را با نتفلیکس و پارامونت تمدید کرد. نتفلیکس ادامه خواهد داشت"
-      },
-      "source": {
-        "en": "Deadline",
-        "fa": "Deadline"
-      },
-      "link": "https://deadline.com/2026/08/netflix-paramount-seinfeld-licensing-deal-extensions-1237031878/",
-      "date": "2026-08-12T18:49:56.695826+00:00",
-      "image": "https://deadline.com/wp-content/uploads/2023/10/Seinfeld-1.jpg",
-      "important": true,
-      "score": 7
     },
     {
       "id": "c26e627f6bb8",
@@ -69,128 +45,32 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/the-trial-of-louise-woodward-hbo-series-cast-sagar-radia-1237032159/",
-      "date": "2026-08-12T18:49:56.693935+00:00",
+      "date": "2026-08-12T19:56:16.981774+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/Screenshot-2026-08-12-at-10.53.22-AM-1.png",
       "important": true,
       "score": 6
     },
     {
-      "id": "75e5b2a263e3",
+      "id": "391a44d9a955",
       "title": {
-        "en": "‘Animals’ Trailer Plunges Ben Affleck’s Mayoral Candidate Into Kidnapping Plot",
-        "fa": "تریلر «حیوانات» نامزد شهرداری بن افلک را در توطئه آدم ربایی فرو می برد"
+        "en": "‘Seinfeld’ Will Remain on Netflix and Paramount Channels After Sony Renews Licensing Agreement",
+        "fa": "«Seinfeld» پس از تمدید قرارداد مجوز سونی در کانال های نتفلیکس و پارامونت باقی خواهد ماند."
       },
       "excerpt": {
-        "en": "His Netflix thriller arrives this fall The post ‘Animals’ Trailer Plunges Ben Affleck’s Mayoral Candidate Into Kidnapping Plot appeared first on TheWrap .",
-        "fa": "تریلر نتفلیکس او پاییز امسال می آید"
+        "en": "The basic cable rights to the show stay on Comedy Central and TV Land for the next three years The post ‘Seinfeld’ Will Remain on Netflix and Paramount Channels After Sony Renews Licensing Agreement appeared first on TheWrap .",
+        "fa": "حقوق اولیه کابلی نمایش تا سه سال آینده در کمدی سنترال و تلویزیون لند باقی می ماند"
       },
       "content": {
-        "en": "His Netflix thriller arrives this fall The post ‘Animals’ Trailer Plunges Ben Affleck’s Mayoral Candidate Into Kidnapping Plot appeared first on TheWrap .",
-        "fa": "تریلر نتفلیکس او پاییز امسال می آید"
+        "en": "The basic cable rights to the show stay on Comedy Central and TV Land for the next three years The post ‘Seinfeld’ Will Remain on Netflix and Paramount Channels After Sony Renews Licensing Agreement appeared first on TheWrap .",
+        "fa": "حقوق اولیه کابلی نمایش تا سه سال آینده در کمدی سنترال و تلویزیون لند باقی می ماند"
       },
       "source": {
         "en": "The Wrap",
         "fa": "The Wrap"
       },
-      "link": "https://www.thewrap.com/creative-content/movies/animals-trailer-ben-affleck-kerry-washington-netflix/",
-      "date": "2026-08-12T18:49:56.701501+00:00",
-      "image": "https://www.thewrap.com/wp-content/uploads/2026/08/Animals-1.jpg",
-      "important": true,
-      "score": 4
-    },
-    {
-      "id": "11cfa169d7ba",
-      "title": {
-        "en": "‘The Paper’ Tries to Build on Success in Season 2 Trailer",
-        "fa": "تریلر «کاغذ» سعی می‌کند در فصل 2 موفقیت خود را تقویت کند"
-      },
-      "excerpt": {
-        "en": "There's also secret romance and storm chasing.",
-        "fa": "همچنین عاشقانه های مخفیانه و تعقیب طوفانی وجود دارد."
-      },
-      "content": {
-        "en": "There's also secret romance and storm chasing.",
-        "fa": "همچنین عاشقانه های مخفیانه و تعقیب طوفانی وجود دارد."
-      },
-      "source": {
-        "en": "The Hollywood Reporter",
-        "fa": "The Hollywood Reporter"
-      },
-      "link": "https://www.hollywoodreporter.com/tv/tv-news/the-paper-season-2-trailer-peacock-1236672136/",
-      "date": "2026-08-12T18:49:56.700145+00:00",
-      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/NUP_210214_02187_RFC.jpg?w=1296&#038;h=730&#038;crop=1",
-      "important": true,
-      "score": 4
-    },
-    {
-      "id": "88c428f4ab98",
-      "title": {
-        "en": "‘The End of Oak Street’ Review: David Robert Mitchell Delivers the Biggest Surprise of the Summer with the Best Dinosaur Movie Since 1993",
-        "fa": "نقد و بررسی «پایان خیابان بلوط»: دیوید رابرت میچل بزرگترین سورپرایز تابستان را با بهترین فیلم دایناسور از سال 1993 ارائه می کند."
-      },
-      "excerpt": {
-        "en": "There goes the neighborhood! Anne Hathaway and Ewan McGregor's suburban idyll is spirited back to the Jurassic era in a wildly crowd-pleasing Amblin throwback.",
-        "fa": "آنجا می رود محله! بت های حومه ای آن هاتاوی و یوان مک گرگور به دوران ژوراسیک بازمی گردد و در یک بازگشت وحشیانه از آمبلین که جمعیت را خوشایند می کند."
-      },
-      "content": {
-        "en": "There goes the neighborhood! Anne Hathaway and Ewan McGregor's suburban idyll is spirited back to the Jurassic era in a wildly crowd-pleasing Amblin throwback.",
-        "fa": "آنجا می رود محله! بت های حومه ای آن هاتاوی و یوان مک گرگور به دوران ژوراسیک بازمی گردد و در یک بازگشت وحشیانه از آمبلین که جمعیت را خوشایند می کند."
-      },
-      "source": {
-        "en": "IndieWire",
-        "fa": "IndieWire"
-      },
-      "link": "https://www.indiewire.com/criticism/movies/the-end-of-oak-street-dinosaur-movie-review-1235210068/",
-      "date": "2026-08-12T18:49:56.702797+00:00",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/03/rev-1-NBR-T1-0019_High_Res_JPEG.jpeg?w=650",
-      "important": false,
-      "score": 3
-    },
-    {
-      "id": "23fd5232fdd5",
-      "title": {
-        "en": "Netflix’s ‘Charlie vs. the Chocolate Factory’ to Release in Theaters With 45-Day Window",
-        "fa": "«چارلی علیه کارخانه شکلات سازی» نتفلیکس با یک پنجره ۴۵ روزه در سینماها اکران می شود"
-      },
-      "excerpt": {
-        "en": "The newly announced cast of the animated feature includes Kate Winslet, Nicola Coughlan and Helena Bonham Carter The post Netflix’s ‘Charlie vs. the Chocolate Factory’ to Release in Theaters With 45-Day Window appeared first on TheWrap .",
-        "fa": "بازیگران جدید معرفی شده این انیمیشن شامل کیت وینسلت، نیکولا کوگلن و هلنا بونهام کارتر هستند."
-      },
-      "content": {
-        "en": "The newly announced cast of the animated feature includes Kate Winslet, Nicola Coughlan and Helena Bonham Carter The post Netflix’s ‘Charlie vs. the Chocolate Factory’ to Release in Theaters With 45-Day Window appeared first on TheWrap .",
-        "fa": "بازیگران جدید معرفی شده این انیمیشن شامل کیت وینسلت، نیکولا کوگلن و هلنا بونهام کارتر هستند."
-      },
-      "source": {
-        "en": "The Wrap",
-        "fa": "The Wrap"
-      },
-      "link": "https://www.thewrap.com/creative-content/movies/charlie-vs-the-chocolate-factory-theatrical-release-date-netflix/",
-      "date": "2026-08-12T18:49:56.701323+00:00",
-      "image": "https://www.thewrap.com/wp-content/uploads/2026/08/Charlie-vs-the-Chocolate-Factory-1.jpg",
-      "important": false,
-      "score": 3
-    },
-    {
-      "id": "09a16797d9a5",
-      "title": {
-        "en": "‘X-Men ’97’ Season 2 Finale Explained: What That Credits Scene Sets Up for Season 3",
-        "fa": "توضیح پایانی فصل 2 «مردان ایکس 97»: آنچه که صحنه اعتباری برای فصل 3 تنظیم می کند"
-      },
-      "excerpt": {
-        "en": "Episode 9 gave us an emotional sacrifice and a hint at what comes next The post ‘X-Men ’97’ Season 2 Finale Explained: What That Credits Scene Sets Up for Season 3 appeared first on TheWrap .",
-        "fa": "قسمت 9 به ما فداکاری عاطفی و اشاره ای به اتفاقات بعدی داد"
-      },
-      "content": {
-        "en": "Episode 9 gave us an emotional sacrifice and a hint at what comes next The post ‘X-Men ’97’ Season 2 Finale Explained: What That Credits Scene Sets Up for Season 3 appeared first on TheWrap .",
-        "fa": "قسمت 9 به ما فداکاری عاطفی و اشاره ای به اتفاقات بعدی داد"
-      },
-      "source": {
-        "en": "The Wrap",
-        "fa": "The Wrap"
-      },
-      "link": "https://www.thewrap.com/creative-content/tv-shows/x-men-97-season-2-episode-9-ending-credits-scene-explained/",
-      "date": "2026-08-12T18:49:56.701226+00:00",
-      "image": "https://www.thewrap.com/wp-content/uploads/2026/08/X-Men-97.jpg",
+      "link": "https://www.thewrap.com/creative-content/tv-shows/seinfeld-netflix-paramount-renews-licensing-deal/",
+      "date": "2026-08-12T19:56:16.990955+00:00",
+      "image": "https://i0.wp.com/www.thewrap.com/wp-content/uploads/2026/08/seinfeld.jpg?fit=1280%2C720&quality=89&ssl=1",
       "important": false,
       "score": 3
     },
@@ -202,91 +82,67 @@
       },
       "excerpt": {
         "en": "For season two of the Prime Video series, production designer Howard Cummings had to adhere closely to the elements laid out in the video game.",
-        "fa": "برای فصل دوم سریال Prime Video، طراح تولید، هوارد کامینگز، مجبور بود از نزدیک به عناصری که در بازی ویدیویی گذاشته شده بود، پایبند باشد."
+        "fa": "برای فصل دوم سریال Prime Video، طراح تولید، هوارد کامینگز، مجبور بود از نزدیک به عناصر مطرح شده در بازی ویدیویی پایبند باشد."
       },
       "content": {
         "en": "For season two of the Prime Video series, production designer Howard Cummings had to adhere closely to the elements laid out in the video game.",
-        "fa": "برای فصل دوم سریال Prime Video، طراح تولید، هوارد کامینگز، مجبور بود از نزدیک به عناصری که در بازی ویدیویی گذاشته شده بود، پایبند باشد."
+        "fa": "برای فصل دوم سریال Prime Video، طراح تولید، هوارد کامینگز، مجبور بود از نزدیک به عناصر مطرح شده در بازی ویدیویی پایبند باشد."
       },
       "source": {
         "en": "The Hollywood Reporter",
         "fa": "The Hollywood Reporter"
       },
       "link": "https://www.hollywoodreporter.com/tv/tv-features/abandoned-mall-transformed-las-vegas-fallout-season-two-1236671538/",
-      "date": "2026-08-12T18:49:56.699611+00:00",
+      "date": "2026-08-12T19:56:16.988647+00:00",
       "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/14BREP-Fallout-Main-2026.jpg?w=1296&#038;h=730&#038;crop=1",
       "important": false,
       "score": 3
     },
     {
-      "id": "c879f69b5e7a",
+      "id": "ceb4436a8e03",
       "title": {
-        "en": "Top 61 Showrunners of 2026",
-        "fa": "61 شورانر برتر سال 2026"
+        "en": "Netflix’s ‘Charlie vs. the Chocolate Factory’ Lands Wide Theatrical Release",
+        "fa": "«چارلی در برابر کارخانه شکلات سازی» نتفلیکس به طور گسترده اکران می شود"
       },
       "excerpt": {
-        "en": "Get to know the voices behind some of television’s biggest shows of the last 12 months. Doneen Arquines “Top Chef” veteran Arquines oversaw the Carolinas-based Season 23, which was stuffed with clever challenges that tapped into local culture, history and cuisine — including a NASCAR-themed Quickfire Challenge. One of the most diverse — and low-key […]",
-        "fa": "با صداهای پشت برخی از بزرگترین برنامه های تلویزیونی در 12 ماه گذشته آشنا شوید. Arquines کهنه‌کار «سرآشپز برتر» Doneen Arquines بر فصل 23 مستقر در کارولینا نظارت داشت، که مملو از چالش‌های هوشمندانه‌ای بود که در فرهنگ، تاریخ و غذاهای محلی - از جمله چالش Quickfire با مضمون NASCAR- وجود داشت. یکی از متنوع‌ترین - و کم‌کلید"
+        "en": "Kate Winslet, Helena Bonham Carter and Nicola Coughlan join Kit Connor and Taika Waititi in the voice cast for the animated feature.",
+        "fa": "کیت وینسلت، هلنا بونهام کارتر و نیکولا کوگلان به کیت کانر و تایکا وایتیتی در صداپیشگان این انیمیشن می‌پیوندند."
       },
       "content": {
-        "en": "Get to know the voices behind some of television’s biggest shows of the last 12 months. Doneen Arquines “Top Chef” veteran Arquines oversaw the Carolinas-based Season 23, which was stuffed with clever challenges that tapped into local culture, history and cuisine — including a NASCAR-themed Quickfire Challenge. One of the most diverse — and low-key […]",
-        "fa": "با صداهای پشت برخی از بزرگترین برنامه های تلویزیونی در 12 ماه گذشته آشنا شوید. Arquines کهنه‌کار «سرآشپز برتر» Doneen Arquines بر فصل 23 مستقر در کارولینا نظارت داشت، که مملو از چالش‌های هوشمندانه‌ای بود که در فرهنگ، تاریخ و غذاهای محلی - از جمله چالش Quickfire با مضمون NASCAR- وجود داشت. یکی از متنوع‌ترین - و کم‌کلید"
+        "en": "Kate Winslet, Helena Bonham Carter and Nicola Coughlan join Kit Connor and Taika Waititi in the voice cast for the animated feature.",
+        "fa": "کیت وینسلت، هلنا بونهام کارتر و نیکولا کوگلان به کیت کانر و تایکا وایتیتی در صداپیشگان این انیمیشن می‌پیوندند."
       },
       "source": {
-        "en": "Variety",
-        "fa": "Variety"
+        "en": "The Hollywood Reporter",
+        "fa": "The Hollywood Reporter"
       },
-      "link": "https://variety.com/2026/tv/news/top-showrunners-2026-1236832499/",
-      "date": "2026-08-12T18:49:56.699098+00:00",
-      "image": "https://variety.com/wp-content/uploads/2026/08/Showrunners.jpg",
+      "link": "https://www.hollywoodreporter.com/movies/movie-news/charlie-vs-the-chocolate-factory-movie-netflix-release-date-1236672112/",
+      "date": "2026-08-12T19:56:16.988221+00:00",
+      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/04/FotoJet-2026-04-16T091521.130.jpg?w=1440&#038;h=810&#038;crop=1",
       "important": false,
       "score": 3
     },
     {
-      "id": "576e48a2b41a",
+      "id": "b22e99b540c4",
       "title": {
-        "en": "Neal Huff, Gaby Hoffmann & Sky Yang Join Paramount+’s ‘The Best Of Us,’ Formerly ‘9/12’",
-        "fa": "نیل هاف، گابی هافمن و اسکای یانگ به «The Best Of Us» از Paramount+ که قبلاً «9/12» بود، می‌پیوندند."
+        "en": "The America ‘Gilded Age’ Creator Julian Fellowes Fell For Is the America He Puts on TV",
+        "fa": "جولیان فلووز خالق «عصر طلایی» آمریکا به خاطر آن آمریکایی است که روی تلویزیون می گذارد"
       },
       "excerpt": {
-        "en": "EXCLUSIVE: Neal Huff (Fallout, A Murder at the End of the World), Gaby Hoffmann (Transparent, Springsteen: Deliver Me from Nowhere), and Sky Yang (Last Days, Rebel Moon) will star in The Best of Us, the upcoming Paramount+ limited series from writers Tobias Lindholm and Frank Pugliese. The series was previously known as 9/12. The Best […]",
-        "fa": "انحصاری: نیل هاف، گابی هافمن و اسکای یانگ در سریال The Best of Us، سریال محدود آینده Paramount+ از نویسندگان Tobias Lindholm و Frank Pugliese بازی خواهند کرد. این سریال قبلاً با نام 9/12 شناخته می شد. بهترین ها"
+        "en": "From the Russells’ rise to Peggy’s fairy-tale ending, the Emmy-nominated HBO drama channels Fellowes’ belief in American reinvention — even as he mourns the country’s decline.",
+        "fa": "از ظهور راسل ها تا پایان افسانه ای پگی، کانال های درام HBO نامزد جایزه امی، اعتقاد Fellowes به اختراع مجدد آمریکا را پخش می کند - حتی در حالی که او برای افول کشور سوگوار است."
       },
       "content": {
-        "en": "EXCLUSIVE: Neal Huff (Fallout, A Murder at the End of the World), Gaby Hoffmann (Transparent, Springsteen: Deliver Me from Nowhere), and Sky Yang (Last Days, Rebel Moon) will star in The Best of Us, the upcoming Paramount+ limited series from writers Tobias Lindholm and Frank Pugliese. The series was previously known as 9/12. The Best […]",
-        "fa": "انحصاری: نیل هاف، گابی هافمن و اسکای یانگ در سریال The Best of Us، سریال محدود آینده Paramount+ از نویسندگان Tobias Lindholm و Frank Pugliese بازی خواهند کرد. این سریال قبلاً با نام 9/12 شناخته می شد. بهترین ها"
+        "en": "From the Russells’ rise to Peggy’s fairy-tale ending, the Emmy-nominated HBO drama channels Fellowes’ belief in American reinvention — even as he mourns the country’s decline.",
+        "fa": "از ظهور راسل ها تا پایان افسانه ای پگی، کانال های درام HBO نامزد جایزه امی، اعتقاد Fellowes به اختراع مجدد آمریکا را پخش می کند - حتی در حالی که او برای افول کشور سوگوار است."
       },
       "source": {
-        "en": "Deadline",
-        "fa": "Deadline"
+        "en": "The Hollywood Reporter",
+        "fa": "The Hollywood Reporter"
       },
-      "link": "https://deadline.com/2026/08/neal-huff-gaby-hoffmann-paramount-plus-the-best-of-us-cast-1237031877/",
-      "date": "2026-08-12T18:49:56.696142+00:00",
-      "image": "https://deadline.com/wp-content/uploads/2026/08/912-photos.jpg",
-      "important": false,
-      "score": 3
-    },
-    {
-      "id": "6e2d337759a2",
-      "title": {
-        "en": "Jake Manley Joins AMC’s NASCAR Drama ‘Thunder Road’",
-        "fa": "جیک مانلی به درام NASCAR «جاده تندر» از AMC پیوست"
-      },
-      "excerpt": {
-        "en": "EXCLUSIVE: Jake Manley (My Life With The Walter Boys, Midway) rounds out the series regular cast of AMC’s upcoming NASCAR drama series Thunder Road, led by Dennis Quaid. The series is set to begin production this summer and will debut on AMC and AMC+ in 2027. From John Fusco, Thunder Road is the multi-generational saga of […]",
-        "fa": "انحصاری: جیک مانلی بازیگران ثابت سریال سریال درام نسکار آینده Thunder Road از AMC به رهبری دنیس کواید را تکمیل می کند. این سریال قرار است تابستان امسال تولید شود و در AMC و AMC+ در سال 2027 عرضه خواهد شد. از جان فوسکو، Thunder Road حماسه چند نسلی است."
-      },
-      "content": {
-        "en": "EXCLUSIVE: Jake Manley (My Life With The Walter Boys, Midway) rounds out the series regular cast of AMC’s upcoming NASCAR drama series Thunder Road, led by Dennis Quaid. The series is set to begin production this summer and will debut on AMC and AMC+ in 2027. From John Fusco, Thunder Road is the multi-generational saga of […]",
-        "fa": "انحصاری: جیک مانلی بازیگران ثابت سریال سریال درام نسکار آینده Thunder Road از AMC به رهبری دنیس کواید را تکمیل می کند. این سریال قرار است تابستان امسال تولید شود و در AMC و AMC+ در سال 2027 عرضه خواهد شد. از جان فوسکو، Thunder Road حماسه چند نسلی است."
-      },
-      "source": {
-        "en": "Deadline",
-        "fa": "Deadline"
-      },
-      "link": "https://deadline.com/2026/08/jake-manley-cast-amc-nascar-drama-thunder-road-1237031967/",
-      "date": "2026-08-12T18:49:56.695932+00:00",
-      "image": "https://deadline.com/wp-content/uploads/2026/08/jake-manley-thunder-road-amc.jpg",
+      "link": "https://www.hollywoodreporter.com/tv/tv-features/julian-fellowes-the-gilded-age-ammerica-allure-1236670571/",
+      "date": "2026-08-12T19:56:16.987385+00:00",
+      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/14FEA-Drama-Series-Gilded-Age-Main-2026.jpg?w=1296&#038;h=730&#038;crop=1",
       "important": false,
       "score": 3
     },
@@ -309,7 +165,7 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/ben-brown-bond-wayne-watson-1237031963/",
-      "date": "2026-08-12T18:49:56.695749+00:00",
+      "date": "2026-08-12T19:56:16.983897+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/bond.jpeg",
       "important": false,
       "score": 3
@@ -333,7 +189,7 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/dont-say-good-luck-review-melanie-lynskey-sunny-sandler-1237031849/",
-      "date": "2026-08-12T18:49:56.695235+00:00",
+      "date": "2026-08-12T19:56:16.983171+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/dont-say-1-1.webp",
       "important": false,
       "score": 3
@@ -357,7 +213,7 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/keegan-allen-conor-husting-rio-mangini-star-small-talk-1237032109/",
-      "date": "2026-08-12T18:49:56.694630+00:00",
+      "date": "2026-08-12T19:56:16.982335+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/deadline-photo-split.png",
       "important": false,
       "score": 3
@@ -381,32 +237,8 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/news/box-office/tony-teenage-sex-death-camp-miasma-indie-box-office-1235210007/",
-      "date": "2026-08-12T18:49:56.703015+00:00",
+      "date": "2026-08-12T19:56:16.993355+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/T_16236-Edit.jpg?w=650",
-      "important": false,
-      "score": 1
-    },
-    {
-      "id": "9e3cefa58493",
-      "title": {
-        "en": "Jon Lovitz Says He Called Out Adam Sandler for ‘Always Casting Me as a Pervert’ in His Movies",
-        "fa": "جان لویتز می‌گوید که در فیلم‌هایش از آدام سندلر برای «همیشه مرا به عنوان منحرف بازی می‌کند» صدا زد."
-      },
-      "excerpt": {
-        "en": "The \"Wedding Singer\" alum lists off each time when he was cast as a \"sleaze-bag\" in one of Sandler's films The post Jon Lovitz Says He Called Out Adam Sandler for ‘Always Casting Me as a Pervert’ in His Movies appeared first on TheWrap .",
-        "fa": "آلوم «خواننده عروسی» هر بار زمانی که او در یکی از فیلم‌های سندلر به عنوان یک «کیسه‌ی شلوغ» انتخاب شد، فهرست می‌شود."
-      },
-      "content": {
-        "en": "The \"Wedding Singer\" alum lists off each time when he was cast as a \"sleaze-bag\" in one of Sandler's films The post Jon Lovitz Says He Called Out Adam Sandler for ‘Always Casting Me as a Pervert’ in His Movies appeared first on TheWrap .",
-        "fa": "آلوم «خواننده عروسی» هر بار زمانی که او در یکی از فیلم‌های سندلر به عنوان یک «کیسه‌ی شلوغ» انتخاب شد، فهرست می‌شود."
-      },
-      "source": {
-        "en": "The Wrap",
-        "fa": "The Wrap"
-      },
-      "link": "https://www.thewrap.com/creative-content/tv-shows/jon-lovitz-called-out-adam-sandler-casting-him-as-pervert/",
-      "date": "2026-08-12T18:49:56.701423+00:00",
-      "image": "https://www.thewrap.com/wp-content/uploads/2026/08/jon-lovitz-tonight-show.jpg",
       "important": false,
       "score": 1
     },
@@ -414,7 +246,7 @@
       "id": "745b20c146bd",
       "title": {
         "en": "Jeremy Strong Messaged Mark Zuckerberg After ‘Social Reckoning’ Casting: ‘I Take This Responsibility Very Seriously’",
-        "fa": "جرمی استرانگ به مارک زاکربرگ پس از بازیگری در «تحقیق اجتماعی» پیام داد: «من این مسئولیت را بسیار جدی می‌گیرم»."
+        "fa": "جرمی استرانگ پس از بازیگری در «تحقیق اجتماعی» به مارک زاکربرگ پیام داد: «من این مسئولیت را بسیار جدی می‌گیرم»."
       },
       "excerpt": {
         "en": "\"I do not think you should have an actor playing him who wants to set out to condemn him,\" the former \"Succession\" star says The post Jeremy Strong Messaged Mark Zuckerberg After ‘Social Reckoning’ Casting: ‘I Take This Responsibility Very Seriously’ appeared first on TheWrap .",
@@ -429,58 +261,10 @@
         "fa": "The Wrap"
       },
       "link": "https://www.thewrap.com/creative-content/movies/jeremy-strong-mark-zuckerberg-social-reckoning-casting/",
-      "date": "2026-08-12T18:49:56.700761+00:00",
+      "date": "2026-08-12T19:56:16.990835+00:00",
       "image": "https://www.thewrap.com/wp-content/uploads/2026/08/Jeremy-Strong-Mark-Zuckerberg-Split-Header.jpg",
       "important": false,
       "score": 1
-    },
-    {
-      "id": "cb3a851d5a53",
-      "title": {
-        "en": "‘Barbie 2’ in Crisis: Sequel Could Be Shelved Amid Pay Battle and Crumbling Deal Talks",
-        "fa": "«باربی 2» در بحران: دنباله آن ممکن است در میان نبرد پرداخت و مذاکرات فروپاشی معامله متوقف شود"
-      },
-      "excerpt": {
-        "en": "“Do you guys ever think about dying?” Margot Robbie asks at the start of 2023’s “Barbie.” It’s one of many moments of existential dread that her character faces on the journey to becoming a real woman. Cut to three years later, and Hollywood insiders have spent the past week asking, “Do you guys think ‘Barbie’ […]",
-        "fa": "\"آیا تا به حال به مردن فکر می کنید؟\" مارگو رابی در ابتدای فیلم \"باربی\" در سال 2023 می پرسد. این یکی از بسیاری از لحظات ترس وجودی است که شخصیت او در سفر برای تبدیل شدن به یک زن واقعی با آن روبرو می شود. سه سال بعد کاهش یافت، و خودی‌های هالیوود هفته گذشته را سپری کردند که «آیا شما فکر می‌کنید «باربی»"
-      },
-      "content": {
-        "en": "“Do you guys ever think about dying?” Margot Robbie asks at the start of 2023’s “Barbie.” It’s one of many moments of existential dread that her character faces on the journey to becoming a real woman. Cut to three years later, and Hollywood insiders have spent the past week asking, “Do you guys think ‘Barbie’ […]",
-        "fa": "\"آیا تا به حال به مردن فکر می کنید؟\" مارگو رابی در ابتدای فیلم \"باربی\" در سال 2023 می پرسد. این یکی از بسیاری از لحظات ترس وجودی است که شخصیت او در سفر برای تبدیل شدن به یک زن واقعی با آن روبرو می شود. سه سال بعد کاهش یافت، و خودی‌های هالیوود هفته گذشته را سپری کردند که «آیا شما فکر می‌کنید «باربی»"
-      },
-      "source": {
-        "en": "Variety",
-        "fa": "Variety"
-      },
-      "link": "https://variety.com/2026/film/news/barbie-2-paused-gerwig-robbie-failed-deals-sequel-1236833075/",
-      "date": "2026-08-12T18:49:56.698625+00:00",
-      "image": "https://variety.com/wp-content/uploads/2026/08/Barbie.jpg",
-      "important": false,
-      "score": 1
-    },
-    {
-      "id": "66d1e72a2f6e",
-      "title": {
-        "en": "‘House of the Dragon’ Only Wants to Get More Unhinged from Here",
-        "fa": "«House of the Dragon» فقط می‌خواهد از اینجا بیشتر خلاص شود"
-      },
-      "excerpt": {
-        "en": "Series co-creator and showrunner Ryan Condal tells IndieWire about closing the door and/or window on older parts of the show and opening new ones.",
-        "fa": "رایان کوندال، یکی از سازنده‌ها و مجریان سریال، به IndieWire درباره بستن در و/یا پنجره در قسمت‌های قدیمی‌تر نمایش و باز کردن بخش‌های جدید می‌گوید."
-      },
-      "content": {
-        "en": "Series co-creator and showrunner Ryan Condal tells IndieWire about closing the door and/or window on older parts of the show and opening new ones.",
-        "fa": "رایان کوندال، یکی از سازنده‌ها و مجریان سریال، به IndieWire درباره بستن در و/یا پنجره در قسمت‌های قدیمی‌تر نمایش و باز کردن بخش‌های جدید می‌گوید."
-      },
-      "source": {
-        "en": "IndieWire",
-        "fa": "IndieWire"
-      },
-      "link": "https://www.indiewire.com/features/interviews/house-of-the-dragon-season-3-final-ryan-condal-interview-1235209273/",
-      "date": "2026-08-12T18:49:56.703165+00:00",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/08/gayle-rankin-ewan-mitchell_0.jpg?w=650",
-      "important": false,
-      "score": 0
     },
     {
       "id": "5f5da3fd700a",
@@ -501,7 +285,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/criticism/movies/coyote-vs-acme-review-looney-tunes-live-action-comedy-1235209439/",
-      "date": "2026-08-12T18:49:56.702464+00:00",
+      "date": "2026-08-12T19:56:16.992570+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2024/02/Coyote-vs-Acme.webp?w=650",
       "important": false,
       "score": 0
@@ -525,7 +309,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/features/commentary/worst-disney-direct-to-video-sequels-1235209538/",
-      "date": "2026-08-12T18:49:56.702154+00:00",
+      "date": "2026-08-12T19:56:16.992125+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/MSDLIME_WD011-1.jpg?w=650",
       "important": false,
       "score": 0
@@ -534,7 +318,7 @@
       "id": "f184dc88db96",
       "title": {
         "en": "Anders Danielsen Lie Revisits the Making of ‘Oslo, August 31st’",
-        "fa": "آندرس دانیلسن لی از ساخت «اسلو، 31 آگوست» بازبینی می‌کند"
+        "fa": "آندرس دانیلسن لای بازبینی ساخت «اسلو، 31 آگوست»"
       },
       "excerpt": {
         "en": "“It’s the closest I've been to a method acting experiment\" the Norwegian actor (and doctor) says of his landmark second film with Joachim Trier.",
@@ -549,7 +333,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/features/interviews/anders-danielsen-lie-interview-making-oslo-august-31st-1235209755/",
-      "date": "2026-08-12T18:49:56.701790+00:00",
+      "date": "2026-08-12T19:56:16.991582+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/SEQUELS-WEEK-OSLO-31.png?w=650",
       "important": false,
       "score": 0
@@ -573,8 +357,224 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/news/festivals/sundance-2026-movies-sold-so-far-1235174095/",
-      "date": "2026-08-12T18:49:56.701645+00:00",
+      "date": "2026-08-12T19:56:16.991368+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/01/Closure.jpg?w=650",
+      "important": false,
+      "score": 0
+    },
+    {
+      "id": "b382d073922b",
+      "title": {
+        "en": "When Billie Joe Armstrong Asks You to Make a Green Day Movie, You Don’t Say No",
+        "fa": "وقتی بیلی جو آرمسترانگ از شما می‌خواهد یک فیلم روز سبز بسازید، نه نمی‌گویید"
+      },
+      "excerpt": {
+        "en": "Armstrong and writer/director Lee Kirk tell IndieWire about turning the band's history and catalogue into the coming-of-age comedy \"Nimrods.\"",
+        "fa": "آرمسترانگ و لی کرک، نویسنده/کارگردان، به IndieWire در مورد تبدیل تاریخ و فهرست گروه به کمدی «Nimrods» می گویند."
+      },
+      "content": {
+        "en": "Armstrong and writer/director Lee Kirk tell IndieWire about turning the band's history and catalogue into the coming-of-age comedy \"Nimrods.\"",
+        "fa": "آرمسترانگ و لی کرک، نویسنده/کارگردان، به IndieWire در مورد تبدیل تاریخ و فهرست گروه به کمدی «Nimrods» می گویند."
+      },
+      "source": {
+        "en": "IndieWire",
+        "fa": "IndieWire"
+      },
+      "link": "https://www.indiewire.com/features/interviews/nimrods-green-day-movie-billie-joe-armstrong-interview-1235209998/",
+      "date": "2026-08-12T19:56:16.991179+00:00",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/08/IMG_4350.jpeg?w=594",
+      "important": false,
+      "score": 0
+    },
+    {
+      "id": "90f51b606654",
+      "title": {
+        "en": "American Film Market Expands Century City Campus With Marché du Film Partnership",
+        "fa": "بازار فیلم آمریکا پردیس شهر قرن را با مشارکت فیلم مارکه دو گسترش می دهد"
+      },
+      "excerpt": {
+        "en": "AFM and Cannes Next will launch an Innovation Hub at this year's edition in November The post American Film Market Expands Century City Campus With Marché du Film Partnership appeared first on TheWrap .",
+        "fa": "AFM و Cannes Next یک مرکز نوآوری را در نسخه امسال در نوامبر راه اندازی خواهند کرد"
+      },
+      "content": {
+        "en": "AFM and Cannes Next will launch an Innovation Hub at this year's edition in November The post American Film Market Expands Century City Campus With Marché du Film Partnership appeared first on TheWrap .",
+        "fa": "AFM و Cannes Next یک مرکز نوآوری را در نسخه امسال در نوامبر راه اندازی خواهند کرد"
+      },
+      "source": {
+        "en": "The Wrap",
+        "fa": "The Wrap"
+      },
+      "link": "https://www.thewrap.com/industry-news/business/american-film-market-campus-marche-du-film-partnership/",
+      "date": "2026-08-12T19:56:16.990687+00:00",
+      "image": "https://www.thewrap.com/wp-content/uploads/2026/08/THE-AFM-HOUSE-pavilion-century-park-2-1-e1786554570638.jpeg",
+      "important": false,
+      "score": 0
+    },
+    {
+      "id": "58478bb61774",
+      "title": {
+        "en": "‘The Traitors: New Blood’: Meet the All-Civilian Cast Ahead of September NBC Debut",
+        "fa": "\"The Traitors: New Blood\": با بازیگران غیرنظامی قبل از اولین نمایش در سپتامبر NBC ملاقات کنید"
+      },
+      "excerpt": {
+        "en": "Emmy-winning host Alan Cumming will guide the 22 players selected from over 80,000 applicants The post ‘The Traitors: New Blood’: Meet the All-Civilian Cast Ahead of September NBC Debut appeared first on TheWrap .",
+        "fa": "آلن کامینگ، مجری برنده امی، 22 بازیکن انتخاب شده از بین بیش از 80000 متقاضی را راهنمایی خواهد کرد."
+      },
+      "content": {
+        "en": "Emmy-winning host Alan Cumming will guide the 22 players selected from over 80,000 applicants The post ‘The Traitors: New Blood’: Meet the All-Civilian Cast Ahead of September NBC Debut appeared first on TheWrap .",
+        "fa": "آلن کامینگ، مجری برنده امی، 22 بازیکن انتخاب شده از بین بیش از 80000 متقاضی را راهنمایی خواهد کرد."
+      },
+      "source": {
+        "en": "The Wrap",
+        "fa": "The Wrap"
+      },
+      "link": "https://www.thewrap.com/creative-content/tv-shows/the-traitors-new-blood-cast/",
+      "date": "2026-08-12T19:56:16.990070+00:00",
+      "image": "https://www.thewrap.com/wp-content/uploads/2026/02/NUP_207958_02037-e1772148445842.jpg",
+      "important": false,
+      "score": 0
+    },
+    {
+      "id": "d2cc67cc1e94",
+      "title": {
+        "en": "A Late ‘Pinky & The Brain’ Writer’s Movie Is Now Getting Made — by His Son and With Puppets",
+        "fa": "فیلم نویسنده اواخر «پینکی و مغز» اکنون در حال ساخت است - توسط پسرش و با عروسک‌ها"
+      },
+      "excerpt": {
+        "en": "Emmy winner Gordon Bressack died in 2019. Now his son, filmmaker James Cullen Bressack, is dusting off an old story and putting his own spin on it.",
+        "fa": "گوردون برساک، برنده جایزه امی در سال 2019 درگذشت. حالا پسرش، جیمز کالن برساک، فیلمساز، در حال پاک کردن یک داستان قدیمی است و داستان خود را روی آن می نویسد."
+      },
+      "content": {
+        "en": "Emmy winner Gordon Bressack died in 2019. Now his son, filmmaker James Cullen Bressack, is dusting off an old story and putting his own spin on it.",
+        "fa": "گوردون برساک، برنده جایزه امی در سال 2019 درگذشت. حالا پسرش، جیمز کالن برساک، فیلمساز، در حال پاک کردن یک داستان قدیمی است و داستان خود را روی آن می نویسد."
+      },
+      "source": {
+        "en": "The Hollywood Reporter",
+        "fa": "The Hollywood Reporter"
+      },
+      "link": "https://www.hollywoodreporter.com/movies/movie-news/a-late-pinky-the-brain-writers-script-is-finally-getting-made-1236670539/",
+      "date": "2026-08-12T19:56:16.988457+00:00",
+      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/James-Cullen-Bressack-Gordan-Bressack-Split-Main-2026.jpg?w=1296&#038;h=730&#038;crop=1",
+      "important": false,
+      "score": 0
+    },
+    {
+      "id": "5120933d61e0",
+      "title": {
+        "en": "‘Spider-Man: Brand New Day’ Writers Believe There’s One Line Jean Grey Didn’t Cross",
+        "fa": "نویسندگان «مرد عنکبوتی: روز کاملاً جدید» معتقدند یک خط وجود دارد که ژان گری از آن عبور نکرده است"
+      },
+      "excerpt": {
+        "en": "Chris McKenna and Erik Sommers break down their record-breaking movie and crafting a villain that will someday become an X-Men hero: \"You have to start them off in a place where they feel formidable.”",
+        "fa": "کریس مک کنا و اریک سامرز فیلم رکوردشکن خود را شکستند و شخصیت شروری را ساختند که روزی به قهرمان مردان ایکس تبدیل خواهد شد: \"شما باید آنها را از جایی شروع کنید که احساس می کنند فوق العاده هستند.\""
+      },
+      "content": {
+        "en": "Chris McKenna and Erik Sommers break down their record-breaking movie and crafting a villain that will someday become an X-Men hero: \"You have to start them off in a place where they feel formidable.”",
+        "fa": "کریس مک کنا و اریک سامرز فیلم رکوردشکن خود را شکستند و شخصیت شروری را ساختند که روزی به قهرمان مردان ایکس تبدیل خواهد شد: \"شما باید آنها را از جایی شروع کنید که احساس می کنند فوق العاده هستند.\""
+      },
+      "source": {
+        "en": "The Hollywood Reporter",
+        "fa": "The Hollywood Reporter"
+      },
+      "link": "https://www.hollywoodreporter.com/movies/movie-features/spider-man-brand-new-day-jean-grey-1236671583/",
+      "date": "2026-08-12T19:56:16.987643+00:00",
+      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/Erik-Sommers-Chris-McKenna-Main-2026.jpg?w=1296&#038;h=730&#038;crop=1",
+      "important": false,
+      "score": 0
+    },
+    {
+      "id": "351f4d023d7b",
+      "title": {
+        "en": "‘The Matrix’ Director Lilly Wachowski Says Hollywood Won’t Finance Her $10 Million Thriller Because It’s Got a ‘Wall-to-Wall Trans Cast’",
+        "fa": "لیلی واچوفسکی، کارگردان «ماتریکس» می‌گوید که هالیوود بودجه 10 میلیون دلاری فیلم هیجان‌انگیز او را تأمین نمی‌کند، زیرا «دیوار به دیوار ترنس بازیگران» دارد."
+      },
+      "excerpt": {
+        "en": "Filmmaker Lilly Wachowski is working to get her next project, “The Hunted,” out of late-stage production. But the “Bound” and “Matrix” director says nobody in Hollywood wants to finance the thriller, which is budgeted at around $10 million, because of its trans representation. “People like it, but they really don’t want to make it because […]",
+        "fa": "لیلی واچوفسکی، فیلمساز، در تلاش است تا پروژه بعدی خود، «شکار» را از مرحله نهایی تولید خارج کند. اما کارگردان «محصول» و «ماتریکس» می‌گوید هیچ‌کس در هالیوود نمی‌خواهد بودجه این فیلم هیجان‌انگیز را که حدود 10 میلیون دلار بودجه دارد، به دلیل نمایش ترانس آن تأمین کند. «مردم آن را دوست دارند، اما واقعاً نمی‌خواهند آن را بسازند، زیرا"
+      },
+      "content": {
+        "en": "Filmmaker Lilly Wachowski is working to get her next project, “The Hunted,” out of late-stage production. But the “Bound” and “Matrix” director says nobody in Hollywood wants to finance the thriller, which is budgeted at around $10 million, because of its trans representation. “People like it, but they really don’t want to make it because […]",
+        "fa": "لیلی واچوفسکی، فیلمساز، در تلاش است تا پروژه بعدی خود، «شکار» را از مرحله نهایی تولید خارج کند. اما کارگردان «محصول» و «ماتریکس» می‌گوید هیچ‌کس در هالیوود نمی‌خواهد بودجه این فیلم هیجان‌انگیز را که حدود 10 میلیون دلار بودجه دارد، به دلیل نمایش ترانس آن تأمین کند. «مردم آن را دوست دارند، اما واقعاً نمی‌خواهند آن را بسازند، زیرا"
+      },
+      "source": {
+        "en": "Variety",
+        "fa": "Variety"
+      },
+      "link": "https://variety.com/2026/film/news/lilly-wachowski-trans-movie-no-financing-1236833156/",
+      "date": "2026-08-12T19:56:16.985116+00:00",
+      "image": "https://variety.com/wp-content/uploads/2026/08/GettyImages-2280410316.jpg",
+      "important": false,
+      "score": 0
+    },
+    {
+      "id": "d6bd9bda4e67",
+      "title": {
+        "en": "Hayley Williams’ Band Power Snatch Surprise-Releases ‘EP2’",
+        "fa": "هیلی ویلیامز باند پاور اسنچ سورپرایز - EP2 را منتشر کرد"
+      },
+      "excerpt": {
+        "en": "Hayley Williams’ band Power Snatch has released their second project “EP2,” which they surprise-dropped on Bandcamp. “EP2” features four songs including “Machete,” “New Legs,” “Born Dead” and “Hell Is a Highway.” The group posted on Instagram to help announce the project, setting the song “Machete” against footage from the 1973 animated art film “Fantastic Planet.” […]",
+        "fa": "گروه هیلی ویلیامز، پاور اسنچ، دومین پروژه خود به نام «EP2» را منتشر کرد که آن را در بندکمپ غافلگیر کردند. \"EP2\" دارای چهار آهنگ از جمله \"Machete\"، \"New Legs\"، \"Born Dead\" و \"Hell Is a Highway است\". این گروه برای کمک به اعلام این پروژه در اینستاگرام پست گذاشت و آهنگ «Machete» را در مقابل فیلم‌های انیمیشن هنری «سیاره شگفت‌انگیز» در سال ۱۹۷۳ قرار داد."
+      },
+      "content": {
+        "en": "Hayley Williams’ band Power Snatch has released their second project “EP2,” which they surprise-dropped on Bandcamp. “EP2” features four songs including “Machete,” “New Legs,” “Born Dead” and “Hell Is a Highway.” The group posted on Instagram to help announce the project, setting the song “Machete” against footage from the 1973 animated art film “Fantastic Planet.” […]",
+        "fa": "گروه هیلی ویلیامز، پاور اسنچ، دومین پروژه خود به نام «EP2» را منتشر کرد که آن را در بندکمپ غافلگیر کردند. \"EP2\" دارای چهار آهنگ از جمله \"Machete\"، \"New Legs\"، \"Born Dead\" و \"Hell Is a Highway است\". این گروه برای کمک به اعلام این پروژه در اینستاگرام پست گذاشت و آهنگ «Machete» را در مقابل فیلم‌های انیمیشن هنری «سیاره شگفت‌انگیز» در سال ۱۹۷۳ قرار داد."
+      },
+      "source": {
+        "en": "Variety",
+        "fa": "Variety"
+      },
+      "link": "https://variety.com/2026/music/news/hayley-williams-power-snatch-surprise-release-ep2-1236833219/",
+      "date": "2026-08-12T19:56:16.984950+00:00",
+      "image": "https://variety.com/wp-content/uploads/2024/01/CLEVELAND-38.jpg",
+      "important": false,
+      "score": 0
+    },
+    {
+      "id": "8fe6f30ca82e",
+      "title": {
+        "en": "Amanda Waller Series, Wonder Woman Prequel ‘Paradise Lost’ No Longer in Active Development at DC Studios",
+        "fa": "سریال آماندا والر، پیش درآمد Wonder Woman «Paradise Lost» دیگر در استودیو دی سی در حال توسعه نیست."
+      },
+      "excerpt": {
+        "en": "Two previously announced TV projects are being put on hold at DC Studios. Variety has confirmed that both the Amanda Waller standalone series with Viola Davis and “Paradise Lost,” which would serve as a prequel to “Wonder Woman,” are no longer in active development. Reps for DC Studios declined to comment. “Waller” was first reported […]",
+        "fa": "دو پروژه تلویزیونی که قبلا اعلام شده بود در استودیو دی سی به حالت تعلیق درآمده است. ورایتی تأیید کرده است که هر دو سریال مستقل آماندا والر با ویولا دیویس و «بهشت گمشده» که به عنوان پیش درآمد «زن شگفت‌انگیز» عمل می‌کند، دیگر در حال ساخت نیستند. نمایندگان DC Studios از اظهار نظر خودداری کردند. اولین بار \"والر\" گزارش شد"
+      },
+      "content": {
+        "en": "Two previously announced TV projects are being put on hold at DC Studios. Variety has confirmed that both the Amanda Waller standalone series with Viola Davis and “Paradise Lost,” which would serve as a prequel to “Wonder Woman,” are no longer in active development. Reps for DC Studios declined to comment. “Waller” was first reported […]",
+        "fa": "دو پروژه تلویزیونی که قبلا اعلام شده بود در استودیو دی سی به حالت تعلیق درآمده است. ورایتی تأیید کرده است که هر دو سریال مستقل آماندا والر با ویولا دیویس و «بهشت گمشده» که به عنوان پیش درآمد «زن شگفت‌انگیز» عمل می‌کند، دیگر در حال ساخت نیستند. نمایندگان DC Studios از اظهار نظر خودداری کردند. اولین بار \"والر\" گزارش شد"
+      },
+      "source": {
+        "en": "Variety",
+        "fa": "Variety"
+      },
+      "link": "https://variety.com/2026/tv/news/amanda-waller-series-wonder-woman-paradise-lost-dc-studios-1236833212/",
+      "date": "2026-08-12T19:56:16.984609+00:00",
+      "image": "https://variety.com/wp-content/uploads/2026/08/amanda-waller-wonder-woman.png",
+      "important": false,
+      "score": 0
+    },
+    {
+      "id": "5e6d7d606f39",
+      "title": {
+        "en": "Top House Judiciary Democrat Jamie Raskin Seeks Transcribed Interview With David Ellison Over Paramount-Warner Bros. Discovery Merger",
+        "fa": "جیمی راسکین، دموکرات ارشد مجلس نمایندگان آمریکا به دنبال مصاحبه رونویسی شده با دیوید الیسون در مورد ادغام دیسکاوری برادران پارامونت-وارنر است."
+      },
+      "excerpt": {
+        "en": "The top Democrat on the House Judiciary Committee wants Paramount CEO to sit for a transcribed interview to answer questions on its proposed merger with Warner Bros. Discovery. The letter from Rep. Jamie Raskin (D-MD) is just the latest that Democrats have sent to Ellison, as they amplify their criticisms and opposition to the transaction. […]",
+        "fa": "دموکرات ارشد کمیته قضایی مجلس نمایندگان آمریکا از مدیرعامل پارامونت می‌خواهد تا برای پاسخ به سؤالات مربوط به ادغام پیشنهادی خود با برادران وارنر دیسکاوری، مصاحبه ای رونویسی شده بنشیند. نامه ای از نماینده جیمی راسکین تنها آخرین نامه ای است که دموکرات ها برای الیسون ارسال کرده اند، زیرا آنها انتقادات و مخالفت خود را با این معامله تشدید می کنند."
+      },
+      "content": {
+        "en": "The top Democrat on the House Judiciary Committee wants Paramount CEO to sit for a transcribed interview to answer questions on its proposed merger with Warner Bros. Discovery. The letter from Rep. Jamie Raskin (D-MD) is just the latest that Democrats have sent to Ellison, as they amplify their criticisms and opposition to the transaction. […]",
+        "fa": "دموکرات ارشد کمیته قضایی مجلس نمایندگان آمریکا از مدیرعامل پارامونت می‌خواهد تا برای پاسخ به سؤالات مربوط به ادغام پیشنهادی خود با برادران وارنر دیسکاوری، مصاحبه ای رونویسی شده بنشیند. نامه ای از نماینده جیمی راسکین تنها آخرین نامه ای است که دموکرات ها برای الیسون ارسال کرده اند، زیرا آنها انتقادات و مخالفت خود را با این معامله تشدید می کنند."
+      },
+      "source": {
+        "en": "Deadline",
+        "fa": "Deadline"
+      },
+      "link": "https://deadline.com/2026/08/paramount-warner-bros-democrats-david-ellison-1237031910/",
+      "date": "2026-08-12T19:56:16.983475+00:00",
+      "image": "https://deadline.com/wp-content/uploads/2025/12/GettyImages-2185627611.jpg",
       "important": false,
       "score": 0
     }
