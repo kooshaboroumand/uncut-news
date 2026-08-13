@@ -1,150 +1,126 @@
 {
-  "updated_at": "2026-08-13T14:16:39.664186+00:00",
+  "updated_at": "2026-08-13T15:51:08.216591+00:00",
   "count": 24,
   "news": [
     {
-      "id": "cebf528cfebc",
+      "id": "8c3a8e32b3a8",
       "title": {
-        "en": "Patchway Studios, Which Supported ‘Rivals’ & ‘A Good Girl’s Guide To Murder’ Shoots, Fights Closure Threat From Investor",
-        "fa": "استودیو Patchway که از «رقبا» و «راهنمای یک دختر خوب برای قتل» پشتیبانی می‌کرد، با تهدید بسته شدن سرمایه‌گذار مبارزه می‌کند."
+        "en": "‘Hope In The Water’ Docuseries From David E. Kelley & Andrew Zimmern Renewed For Season 2 At PBS",
+        "fa": "مستند «Hope In The Water» از دیوید ای. کلی و اندرو زیمرن برای فصل دوم در PBS تمدید شد."
       },
       "excerpt": {
-        "en": "EXCLUSIVE: Patchway Studios, the UK studio facility that supported Season 2 of Disney’s Rivals and Netflix hit A Good Girl’s Guide To Murder, is attempting to fend off a closure threat leveled by one of its own investors. The Bristol-based operation is the subject of a winding up petition from angel investor Annabel Schild, who […]",
-        "fa": "اختصاصی: Patchway Studios، مرکز استودیوی بریتانیایی که از فصل 2 رقبای دیزنی و نتفلیکس سریال A Good Girl's Guide To Murder پشتیبانی می‌کند، در تلاش است تا از تهدید تعطیلی که توسط یکی از سرمایه‌گذاران خود تهدید می‌شود جلوگیری کند. عملیات مستقر در بریستول موضوع دادخواست خاتمه دادن به فرشته سرمایه گذار آنابل شیلد است که"
+        "en": "EXCLUSIVE: Hope In The Water, an environmental docuseries featuring the likes of Shailene Woodley, is returning for a second season at PBS. The public broadcaster has renewed the three-part series after its premiere in 2024. It comes from David E. Kelley, who is an executive advisor, and celebrity chef Andrew Zimmern. Paradise star Woodley appeared […]",
+        "fa": "انحصاری: Hope In The Water، یک مستند محیطی با حضور افرادی مانند Shailene Woodley، برای فصل دوم در PBS باز می گردد. پخش عمومی این مجموعه سه قسمتی را پس از نمایش آن در سال 2024 تمدید کرده است. این مجموعه از دیوید ای. کلی، که مشاور اجرایی است و سرآشپز مشهور اندرو زیمرن است. وودلی ستاره بهشت ​​ظاهر شد"
       },
       "content": {
-        "en": "EXCLUSIVE: Patchway Studios, the UK studio facility that supported Season 2 of Disney’s Rivals and Netflix hit A Good Girl’s Guide To Murder, is attempting to fend off a closure threat leveled by one of its own investors. The Bristol-based operation is the subject of a winding up petition from angel investor Annabel Schild, who […]",
-        "fa": "اختصاصی: Patchway Studios، مرکز استودیوی بریتانیایی که از فصل 2 رقبای دیزنی و نتفلیکس سریال A Good Girl's Guide To Murder پشتیبانی می‌کند، در تلاش است تا از تهدید تعطیلی که توسط یکی از سرمایه‌گذاران خود تهدید می‌شود جلوگیری کند. عملیات مستقر در بریستول موضوع دادخواست خاتمه دادن به فرشته سرمایه گذار آنابل شیلد است که"
+        "en": "EXCLUSIVE: Hope In The Water, an environmental docuseries featuring the likes of Shailene Woodley, is returning for a second season at PBS. The public broadcaster has renewed the three-part series after its premiere in 2024. It comes from David E. Kelley, who is an executive advisor, and celebrity chef Andrew Zimmern. Paradise star Woodley appeared […]",
+        "fa": "انحصاری: Hope In The Water، یک مستند محیطی با حضور افرادی مانند Shailene Woodley، برای فصل دوم در PBS باز می گردد. پخش عمومی این مجموعه سه قسمتی را پس از نمایش آن در سال 2024 تمدید کرده است. این مجموعه از دیوید ای. کلی، که مشاور اجرایی است و سرآشپز مشهور اندرو زیمرن است. وودلی ستاره بهشت ​​ظاهر شد"
       },
       "source": {
         "en": "Deadline",
         "fa": "Deadline"
       },
-      "link": "https://deadline.com/2026/08/patchway-studios-rivals-fights-closure-threat-investor-1237032740/",
-      "date": "2026-08-13T14:16:39.394841+00:00",
-      "image": "https://deadline.com/wp-content/uploads/2026/05/2794_RIVALS2_Ep01_RV_100625.jpg",
+      "link": "https://deadline.com/2026/08/hope-in-the-water-david-e-kelley-renewed-season-2-pbs-1237032538/",
+      "date": "2026-08-13T15:51:07.968283+00:00",
+      "image": "https://deadline.com/wp-content/uploads/2026/08/Hope-In-The-Water.jpg",
+      "important": true,
+      "score": 12
+    },
+    {
+      "id": "0ba60a4a65db",
+      "title": {
+        "en": "Jared Freid Sets Netflix Comedy Special ‘The Family Plan’ (EXCLUSIVE)",
+        "fa": "جرد فرید کمدی ویژه نتفلیکس «طرح خانواده» را تنظیم می کند"
+      },
+      "excerpt": {
+        "en": "Jared Freid has set another comedy special at Netflix. Titled “The Family Plan,” the stand-up hour will premiere on Sept. 1 on the streamer. The special finds Freid keeping his issues “in the family,” joking about everything from vacationing with his parents to a Karen video that hits close to home. Directed by Jason Katz, […]",
+        "fa": "جرد فرید یک کمدی ویژه دیگر را در نتفلیکس تنظیم کرده است. استندآپ ساعت با عنوان «طرح خانواده» در اول سپتامبر در استریمر پخش خواهد شد. این ویژه متوجه می شود که فرید مسائل خود را \"در خانواده\" حفظ می کند، در مورد همه چیز از تعطیلات با والدینش گرفته تا ویدیوی کارن که در نزدیکی خانه پخش می شود شوخی می کند. به کارگردانی جیسون کاتز،"
+      },
+      "content": {
+        "en": "Jared Freid has set another comedy special at Netflix. Titled “The Family Plan,” the stand-up hour will premiere on Sept. 1 on the streamer. The special finds Freid keeping his issues “in the family,” joking about everything from vacationing with his parents to a Karen video that hits close to home. Directed by Jason Katz, […]",
+        "fa": "جرد فرید یک کمدی ویژه دیگر را در نتفلیکس تنظیم کرده است. استندآپ ساعت با عنوان «طرح خانواده» در اول سپتامبر در استریمر پخش خواهد شد. این ویژه متوجه می شود که فرید مسائل خود را \"در خانواده\" حفظ می کند، در مورد همه چیز از تعطیلات با والدینش گرفته تا ویدیوی کارن که در نزدیکی خانه پخش می شود شوخی می کند. به کارگردانی جیسون کاتز،"
+      },
+      "source": {
+        "en": "Variety",
+        "fa": "Variety"
+      },
+      "link": "https://variety.com/2026/tv/news/jared-freid-netflix-special-the-family-plan-1236832349/",
+      "date": "2026-08-13T15:51:07.973021+00:00",
+      "image": "https://variety.com/wp-content/uploads/2026/08/JaredFreidTheFamilyPlanuniversal-base_na_02_zxx.jpg",
       "important": true,
       "score": 9
     },
     {
-      "id": "73bc85746439",
+      "id": "559d5565e902",
       "title": {
-        "en": "‘Skintown’: Jack Rowan and Chris Walley Plot Escape From Troubles-Torn Northern Ireland — by Dealing Pills (Exclusive Clip)",
-        "fa": "«اسکین تاون»: جک روآن و کریس والی نقشه فرار از ایرلند شمالی دردسرساز را می‌کشند - توسط Dealing Pills"
+        "en": "‘Sara Bareilles: Good Grief’ Trailer: The Beloved Songwriter Returns to the Studio in New Documentary",
+        "fa": "تریلر \"Sara Bareilles: Good Grief\": The Beloved Songwriter در مستندی جدید به استودیو بازگشت"
       },
       "excerpt": {
-        "en": "Kieron J. Walsh's '90s-set caper will premiere in competition at Edinburgh International Film Festival later this week.",
-        "fa": "فیلم کیپر در دهه 90 کیرون جی. والش در جشنواره بین المللی فیلم ادینبورگ اواخر این هفته به نمایش در خواهد آمد."
+        "en": "Exclusive: The documentary, from director Josh Alexander, premiered at the Tribeca Film Festival and release in theaters this September.",
+        "fa": "اختصاصی: این مستند به کارگردانی جاش الکساندر در جشنواره فیلم ترایبکا به نمایش درآمد و در سپتامبر امسال در سینماها اکران شد."
       },
       "content": {
-        "en": "Kieron J. Walsh's '90s-set caper will premiere in competition at Edinburgh International Film Festival later this week.",
-        "fa": "فیلم کیپر در دهه 90 کیرون جی. والش در جشنواره بین المللی فیلم ادینبورگ اواخر این هفته به نمایش در خواهد آمد."
+        "en": "Exclusive: The documentary, from director Josh Alexander, premiered at the Tribeca Film Festival and release in theaters this September.",
+        "fa": "اختصاصی: این مستند به کارگردانی جاش الکساندر در جشنواره فیلم ترایبکا به نمایش درآمد و در سپتامبر امسال در سینماها اکران شد."
+      },
+      "source": {
+        "en": "IndieWire",
+        "fa": "IndieWire"
+      },
+      "link": "https://www.indiewire.com/news/trailers/sara-bareilles-good-grief-trailer-1235210259/",
+      "date": "2026-08-13T15:51:07.975268+00:00",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/08/image.png?w=650",
+      "important": true,
+      "score": 7
+    },
+    {
+      "id": "9edbae5c1a44",
+      "title": {
+        "en": "‘American Horror Story: 13’ First Teaser Returns Jessica Lange, Evan Peters, Twisty the Clown, Rubber Man and More for All-Star Season",
+        "fa": "اولین تیزر «داستان ترسناک آمریکایی: 13» جسیکا لانگ، ایوان پیترز، دلقک چرخشی، مرد لاستیکی و غیره را برای فصل آل استار بازگرداند."
+      },
+      "excerpt": {
+        "en": "The Ryan Murphy and Brad Falchuk horror anthology premieres with 13 half-hour episodes on Sept. 24.",
+        "fa": "گلچین ترسناک رایان مورفی و برد فالچوک با 13 قسمت نیم ساعته در 24 سپتامبر به نمایش درآمد."
+      },
+      "content": {
+        "en": "The Ryan Murphy and Brad Falchuk horror anthology premieres with 13 half-hour episodes on Sept. 24.",
+        "fa": "گلچین ترسناک رایان مورفی و برد فالچوک با 13 قسمت نیم ساعته در 24 سپتامبر به نمایش درآمد."
       },
       "source": {
         "en": "The Hollywood Reporter",
         "fa": "The Hollywood Reporter"
       },
-      "link": "https://www.hollywoodreporter.com/movies/movie-news/skintown-jack-rowan-chris-walley-film-clip-ireland-troubles-1236672104/",
-      "date": "2026-08-13T14:16:39.397616+00:00",
-      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/FotoJet-2026-08-12T214643.581.jpg?w=1440&#038;h=810&#038;crop=1",
+      "link": "https://www.hollywoodreporter.com/tv/tv-news/american-horror-story-13-teaser-jessica-lange-evan-peters-1236672869/",
+      "date": "2026-08-13T15:51:07.973982+00:00",
+      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/Screenshot-2026-08-13-at-9.25.13-AM.png?w=1440&#038;h=810&#038;crop=1",
       "important": true,
       "score": 7
     },
     {
-      "id": "9d5d2078770f",
+      "id": "3104c074d13d",
       "title": {
-        "en": "The Harrigans Spiral Out Of Control In ‘MobLand’ Season 2 Trailer",
-        "fa": "The Harrigans در تریلر فصل دوم «MobLand» از کنترل خارج می‌شود"
+        "en": "‘Off Campus’ Casts Shay Rudolph as Summer Di Laurentis in Season 2",
+        "fa": "«Off Campus» در فصل 2، Shay Rudolph را در نقش سامر دی لورنتیس بازی می‌کند"
       },
       "excerpt": {
-        "en": "“May I speak plainly?” asks a sombre Harry Da Souza, addressing mob boss Conrad. “This family is in a death spiral.” The out-of-control actions of Conrad Harrigan’s gang will be central to the second season of Paramount+ breakout crime drama MobLand, as you can see from the official trailer above. Launching on September 18, the […]",
-        "fa": "«می‌توانم واضح صحبت کنم؟» از هری دا سوزای غمگینی می پرسد که رئیس اوباش کنراد را خطاب قرار می دهد. \"این خانواده در یک مارپیچ مرگ است.\" همانطور که از تریلر رسمی بالا می بینید، اقدامات غیرقابل کنترل گروه کنراد هریگان در فصل دوم درام جنایی و جنایی MobLand+ Paramount خواهد بود. راه اندازی در 18 سپتامبر،"
+        "en": "“Off Campus” has found its Summer Di Laurentis. Amazon Prime Video’s college soap has cast Shay Rudolph in the guest role for Season 2. The season will focus on the romance between Allie Hayes (Mika Abdalla) and Summer’s brother, Dean Di Laurentis (Stephen Kalyn). Rudolph’s casting was announced in a video posted to Instagram, with […]",
+        "fa": "«خارج از دانشگاه» سامر دی لورنتیس خود را پیدا کرده است. صابون کالج Amazon Prime Video، Shay Rudolph را برای نقش مهمان در فصل 2 انتخاب کرده است. این فصل بر روی عاشقانه بین Allie Hayes و برادر Summer، Dean Di Laurentis تمرکز خواهد کرد. انتخاب بازیگر رودولف در ویدئویی که در اینستاگرام منتشر شد، اعلام شد"
       },
       "content": {
-        "en": "“May I speak plainly?” asks a sombre Harry Da Souza, addressing mob boss Conrad. “This family is in a death spiral.” The out-of-control actions of Conrad Harrigan’s gang will be central to the second season of Paramount+ breakout crime drama MobLand, as you can see from the official trailer above. Launching on September 18, the […]",
-        "fa": "«می‌توانم واضح صحبت کنم؟» از هری دا سوزای غمگینی می پرسد که رئیس اوباش کنراد را خطاب قرار می دهد. \"این خانواده در یک مارپیچ مرگ است.\" همانطور که از تریلر رسمی بالا می بینید، اقدامات غیرقابل کنترل گروه کنراد هریگان در فصل دوم درام جنایی و جنایی MobLand+ Paramount خواهد بود. راه اندازی در 18 سپتامبر،"
+        "en": "“Off Campus” has found its Summer Di Laurentis. Amazon Prime Video’s college soap has cast Shay Rudolph in the guest role for Season 2. The season will focus on the romance between Allie Hayes (Mika Abdalla) and Summer’s brother, Dean Di Laurentis (Stephen Kalyn). Rudolph’s casting was announced in a video posted to Instagram, with […]",
+        "fa": "«خارج از دانشگاه» سامر دی لورنتیس خود را پیدا کرده است. صابون کالج Amazon Prime Video، Shay Rudolph را برای نقش مهمان در فصل 2 انتخاب کرده است. این فصل بر روی عاشقانه بین Allie Hayes و برادر Summer، Dean Di Laurentis تمرکز خواهد کرد. انتخاب بازیگر رودولف در ویدئویی که در اینستاگرام منتشر شد، اعلام شد"
       },
       "source": {
-        "en": "Deadline",
-        "fa": "Deadline"
+        "en": "Variety",
+        "fa": "Variety"
       },
-      "link": "https://deadline.com/2026/08/mobland-season-2-trailer-1237032684/",
-      "date": "2026-08-13T14:16:39.393961+00:00",
-      "image": "https://deadline.com/wp-content/uploads/2026/08/MobLand-season-2.jpg",
+      "link": "https://variety.com/2026/tv/news/off-campus-season-2-summer-di-laurentis-shay-rudolph-1236833849/",
+      "date": "2026-08-13T15:51:07.971750+00:00",
+      "image": "https://variety.com/wp-content/uploads/2026/08/Photo-Credit_Matt-Kalish-e1786633757491.jpeg",
       "important": true,
-      "score": 7
-    },
-    {
-      "id": "835c188a2246",
-      "title": {
-        "en": "Netflix Sets Keiko ‘Free Willy’ Orca Documentary Amid Wave Of Mexican Projects",
-        "fa": "نتفلیکس در میان موجی از پروژه‌های مکزیکی، مستند اورکا را با نام «فری ویلی» کیکو تنظیم می‌کند"
-      },
-      "excerpt": {
-        "en": "EXCLUSIVE: Netflix has greenlit a new feature documentary about Keiko, the orca who became world famous after appearing in the 1993 movie Free Willy. The timing is on point, with Warner Bros. working on a reimagining of Free Willy with the Russo brothers’ AGBO banner. The film memorably told the story of a young boy […]",
-        "fa": "اختصاصی: نتفلیکس یک مستند بلند جدید درباره کیکو، ارکا که پس از حضور در فیلم Free Willy در سال 1993 به شهرت جهانی رسید، روشن کرد. زمان درست است، برادران وارنر در حال کار بر روی بازسازی ویلی آزاد با بنر برادران روسو AGBO هستند. این فیلم به شکلی خاطره انگیز داستان یک پسر جوان را روایت می کند"
-      },
-      "content": {
-        "en": "EXCLUSIVE: Netflix has greenlit a new feature documentary about Keiko, the orca who became world famous after appearing in the 1993 movie Free Willy. The timing is on point, with Warner Bros. working on a reimagining of Free Willy with the Russo brothers’ AGBO banner. The film memorably told the story of a young boy […]",
-        "fa": "اختصاصی: نتفلیکس یک مستند بلند جدید درباره کیکو، ارکا که پس از حضور در فیلم Free Willy در سال 1993 به شهرت جهانی رسید، روشن کرد. زمان درست است، برادران وارنر در حال کار بر روی بازسازی ویلی آزاد با بنر برادران روسو AGBO هستند. این فیلم به شکلی خاطره انگیز داستان یک پسر جوان را روایت می کند"
-      },
-      "source": {
-        "en": "Deadline",
-        "fa": "Deadline"
-      },
-      "link": "https://deadline.com/2026/08/netflix-sets-keiko-free-willy-orca-documentary-mexico-1237032732/",
-      "date": "2026-08-13T14:16:39.393644+00:00",
-      "image": "https://deadline.com/wp-content/uploads/2026/08/keikodoc.png",
-      "important": true,
-      "score": 6
-    },
-    {
-      "id": "079857293bb3",
-      "title": {
-        "en": "Netflix To Add Dozens Of Classic Cantinflas Films, Teases More ‘Counterattack’",
-        "fa": "نتفلیکس ده‌ها فیلم کلاسیک Cantinflas را اضافه می‌کند، «ضدحمله» بیشتر"
-      },
-      "excerpt": {
-        "en": "EXCLUSIVE: Netflix will add dozens of classic Cantinflas movies to its service as part of a wave of programming coming to the streamer to mark Mexican Cinema Day. It also teased an expansion of action movie franchise Counterattack, a new movie called 35 Days, and has greenlit a trio of feature-docs, per our earlier exclusive. […]",
-        "fa": "اختصاصی: نت‌فلیکس ده‌ها فیلم کلاسیک Cantinflas را به عنوان بخشی از موج برنامه‌نویسی که به مناسبت روز سینمای مکزیک به پخش‌کننده می‌آید، به خدمات خود اضافه می‌کند. همچنین گسترش فرنچایز فیلم‌های اکشن Counterattack، یک فیلم جدید به نام 35 Days را به نمایش گذاشت و سه فیلم مستند را طبق انحصاری قبلی ما روشن کرده است."
-      },
-      "content": {
-        "en": "EXCLUSIVE: Netflix will add dozens of classic Cantinflas movies to its service as part of a wave of programming coming to the streamer to mark Mexican Cinema Day. It also teased an expansion of action movie franchise Counterattack, a new movie called 35 Days, and has greenlit a trio of feature-docs, per our earlier exclusive. […]",
-        "fa": "اختصاصی: نت‌فلیکس ده‌ها فیلم کلاسیک Cantinflas را به عنوان بخشی از موج برنامه‌نویسی که به مناسبت روز سینمای مکزیک به پخش‌کننده می‌آید، به خدمات خود اضافه می‌کند. همچنین گسترش فرنچایز فیلم‌های اکشن Counterattack، یک فیلم جدید به نام 35 Days را به نمایش گذاشت و سه فیلم مستند را طبق انحصاری قبلی ما روشن کرده است."
-      },
-      "source": {
-        "en": "Deadline",
-        "fa": "Deadline"
-      },
-      "link": "https://deadline.com/2026/08/netflix-adding-cantinflas-films-mexican-cinema-day-1237032757/",
-      "date": "2026-08-13T14:16:39.393327+00:00",
-      "image": "https://deadline.com/wp-content/uploads/2026/08/Gran-Hotel-11ii.jpg",
-      "important": true,
-      "score": 6
-    },
-    {
-      "id": "8e7e87f212db",
-      "title": {
-        "en": "‘Only Murders In The Building’ Expands Its Collection Of ‘Doctor Who’ Stars, Adds Peter Capaldi To Season 6 Cast",
-        "fa": "«Only Murders In The Building» مجموعه ستارگان «Doctor Who» را گسترش داد و پیتر کاپالدی را به بازیگران فصل 6 اضافه کرد."
-      },
-      "excerpt": {
-        "en": "EXCLUSIVE: It’s only murders in the building and mostly actors who have played Doctor Who‘s title character in the upcoming sixth season of Hulu’s murder mystery comedy. Peter Capaldi, who portrayed the Twelfth Doctor, has been cast as a recurring guest star in the London-set installment of Only Murders In the Building. He joins fellow […]",
-        "fa": "انحصاری: این فقط قتل در ساختمان است و بیشتر بازیگرانی هستند که نقش شخصیت دکتر هو را در فصل ششم آینده کمدی معمایی قتل Hulu بازی کرده اند. پیتر کاپالدی، که نقش دکتر دوازدهم را بازی می‌کرد، به عنوان یک ستاره مهمان مکرر در قسمت لندن فیلم Only Murders In the Building انتخاب شد. او به همکار می پیوندد"
-      },
-      "content": {
-        "en": "EXCLUSIVE: It’s only murders in the building and mostly actors who have played Doctor Who‘s title character in the upcoming sixth season of Hulu’s murder mystery comedy. Peter Capaldi, who portrayed the Twelfth Doctor, has been cast as a recurring guest star in the London-set installment of Only Murders In the Building. He joins fellow […]",
-        "fa": "انحصاری: این فقط قتل در ساختمان است و بیشتر بازیگرانی هستند که نقش شخصیت دکتر هو را در فصل ششم آینده کمدی معمایی قتل Hulu بازی کرده اند. پیتر کاپالدی، که نقش دکتر دوازدهم را بازی می‌کرد، به عنوان یک ستاره مهمان مکرر در قسمت لندن فیلم Only Murders In the Building انتخاب شد. او به همکار می پیوندد"
-      },
-      "source": {
-        "en": "Deadline",
-        "fa": "Deadline"
-      },
-      "link": "https://deadline.com/2026/08/only-murders-in-the-building-peter-capaldi-season-6-cast-1237032444/",
-      "date": "2026-08-13T14:16:39.393054+00:00",
-      "image": "https://deadline.com/wp-content/uploads/2026/08/Peter-Capaldi-OMITB.jpg",
-      "important": true,
-      "score": 6
+      "score": 4
     },
     {
       "id": "b44ba2add151",
@@ -165,7 +141,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/news/breaking-news/charlie-and-the-chocolate-factory-netflix-theaters-1235210208/",
-      "date": "2026-08-13T14:16:39.400698+00:00",
+      "date": "2026-08-13T15:51:07.976876+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2022/05/Willy-Wonka.jpg?w=650",
       "important": false,
       "score": 3
@@ -174,7 +150,7 @@
       "id": "0ac9527d8064",
       "title": {
         "en": "Cinematographer Michael Bauman Looked to His Own Roots for ‘Monster: The Ed Gein Story’",
-        "fa": "مایکل باومن، فیلمبردار برای «هیولا: داستان اد جین» به ریشه های خودش نگاه کرد."
+        "fa": "مایکل باومن، فیلمبردار، برای «هیولا: داستان اد جین» به ریشه‌های خودش نگاه کرد."
       },
       "excerpt": {
         "en": "The Oscar-nominated cinematographer tells IndieWire about crafting the perfect visual language to express mystery, madness, and claustrophobia in the Netflix series.",
@@ -189,7 +165,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/features/craft/michael-bauman-cinematography-ed-gein-story-ryan-murphy-1235208535/",
-      "date": "2026-08-13T14:16:39.400017+00:00",
+      "date": "2026-08-13T15:51:07.975890+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/TCDMONS_ZX063-1.jpg?w=650",
       "important": false,
       "score": 3
@@ -213,32 +189,8 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/features/interviews/lanterns-kyle-chandler-aaron-pierre-interview-1235210265/",
-      "date": "2026-08-13T14:16:39.399754+00:00",
+      "date": "2026-08-13T15:51:07.975493+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/aaron-pierre-kyle-chandler-1.jpg?w=650",
-      "important": false,
-      "score": 3
-    },
-    {
-      "id": "edd722381d73",
-      "title": {
-        "en": "Diddy Countersues Accuser Over Alleged Theft, Secret Netflix Sale of Footage",
-        "fa": "دیدی با متهم به دزدی، فروش مخفی فیلم نتفلیکس مقابله می کند"
-      },
-      "excerpt": {
-        "en": "\"Mr. Jones devised a plan to exploit the trust provided to him by Mr. Combs,\" the countersuit states The post Diddy Countersues Accuser Over Alleged Theft, Secret Netflix Sale of Footage appeared first on TheWrap .",
-        "fa": "در دعوای متقابل آمده است: «آقای جونز طرحی را طراحی کرد تا از اعتمادی که آقای کامبز به او ارائه کرده بود سوء استفاده کند."
-      },
-      "content": {
-        "en": "\"Mr. Jones devised a plan to exploit the trust provided to him by Mr. Combs,\" the countersuit states The post Diddy Countersues Accuser Over Alleged Theft, Secret Netflix Sale of Footage appeared first on TheWrap .",
-        "fa": "در دعوای متقابل آمده است: «آقای جونز طرحی را طراحی کرد تا از اعتمادی که آقای کامبز به او ارائه کرده بود سوء استفاده کند."
-      },
-      "source": {
-        "en": "The Wrap",
-        "fa": "The Wrap"
-      },
-      "link": "https://www.thewrap.com/industry-news/public-policy-legal/diddy-countersues-accuser-over-alleged-theft-secret-netflix-sale-of-footage/",
-      "date": "2026-08-13T14:16:39.399413+00:00",
-      "image": "https://www.thewrap.com/wp-content/uploads/2026/08/Untitled-design-2026-08-12T184129.970-2.jpg",
       "important": false,
       "score": 3
     },
@@ -250,237 +202,213 @@
       },
       "excerpt": {
         "en": "The duo kick off the milestone anniversary early with a retailer-exclusive capsule inspired by Disney's upcoming Macy’s Parade balloon.",
-        "fa": "این دو سالگرد نقطه عطف را زودتر با یک کپسول انحصاری خرده‌فروشی با الهام از بادکنک آتی Macy’s Parade دیزنی آغاز می‌کنند."
+        "fa": "این دو سالگرد نقطه عطف را زودتر با یک کپسول انحصاری خرده‌فروشی با الهام از بادکنک آتی میسی رژه دیزنی آغاز می‌کنند."
       },
       "content": {
         "en": "The duo kick off the milestone anniversary early with a retailer-exclusive capsule inspired by Disney's upcoming Macy’s Parade balloon.",
-        "fa": "این دو سالگرد نقطه عطف را زودتر با یک کپسول انحصاری خرده‌فروشی با الهام از بادکنک آتی Macy’s Parade دیزنی آغاز می‌کنند."
+        "fa": "این دو سالگرد نقطه عطف را زودتر با یک کپسول انحصاری خرده‌فروشی با الهام از بادکنک آتی میسی رژه دیزنی آغاز می‌کنند."
       },
       "source": {
         "en": "The Hollywood Reporter",
         "fa": "The Hollywood Reporter"
       },
       "link": "https://www.hollywoodreporter.com/lifestyle/shopping/disney-macys-100th-thanksgiving-day-parade-collection-buy-1236672771/",
-      "date": "2026-08-13T14:16:39.396756+00:00",
-      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/Disney-and-Macys-Mark-100th-Thanksgiving-Day-Parade-With-Limited-Edition-Product-Line-Exclusive-MAIN.jpg?w=1296&#038;h=730&#038;crop=1",
+      "date": "2026-08-13T15:51:07.973866+00:00",
+      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/disney-x-macys-parade-MAIN.jpg?w=1296&#038;h=730&#038;crop=1",
       "important": false,
       "score": 3
     },
     {
-      "id": "f02b394024e2",
+      "id": "82e0e4deeeb9",
       "title": {
-        "en": "‘American Horror Story: 13’ Teaser Brings Back Jessica Lange and Rubber Man as FX Sets Release Dates for 13 Half-Hour Episodes",
-        "fa": "تیزر «داستان ترسناک آمریکایی: 13» جسیکا لانژ و مرد لاستیکی را به عنوان FX مجموعه تاریخ اکران برای 13 قسمت نیم ساعته بازمی گرداند."
+        "en": "Australian Medical Drama ‘The F Ward’ Sells to 100 Markets for Paramount",
+        "fa": "درام پزشکی استرالیایی «The F Ward» به ۱۰۰ بازار برای پارامونت می‌فروشد"
       },
       "excerpt": {
-        "en": "FX is finally lifting the curtain on “American Horror Story: 13,” courtesy of a new teaser trailer that confirms the returns of Jessica Lange as Constance Langdon (“AHS: Murder House”); Evan Peters as Kai Anderson (“AHS: Cult”); Sarah Paulson, Angela Bassett and Emma Roberts as Cordelia Goode, Marie Laveau and Madison Montgomery (“AHS: Coven”); plus […]",
-        "fa": "FX بالاخره پرده فیلم «داستان ترسناک آمریکایی: 13» را برمی‌دارد. ایوان پیترز در نقش کای اندرسون; سارا پالسون، آنجلا باست و اما رابرتز در نقش کوردلیا گود، ماری لاوو و مدیسون مونتگومری؛ به علاوه"
+        "en": "Anna Friel stars in the Roadshow Rough Diamond and CBS Studios co-production, which premiered on Stan in July and follows a group of medical interns trying to turn their careers around in Sydney's most notorious hospital.",
+        "fa": "آنا فریل در محصول مشترک Roadshow Rough Diamond و CBS Studios که در ماه جولای در Stan پخش شد و گروهی از کارورزان پزشکی را دنبال می‌کند که تلاش می‌کنند حرفه خود را در بدنام‌ترین بیمارستان سیدنی تغییر دهند، بازی می‌کند."
       },
       "content": {
-        "en": "FX is finally lifting the curtain on “American Horror Story: 13,” courtesy of a new teaser trailer that confirms the returns of Jessica Lange as Constance Langdon (“AHS: Murder House”); Evan Peters as Kai Anderson (“AHS: Cult”); Sarah Paulson, Angela Bassett and Emma Roberts as Cordelia Goode, Marie Laveau and Madison Montgomery (“AHS: Coven”); plus […]",
-        "fa": "FX بالاخره پرده فیلم «داستان ترسناک آمریکایی: 13» را برمی‌دارد. ایوان پیترز در نقش کای اندرسون; سارا پالسون، آنجلا باست و اما رابرتز در نقش کوردلیا گود، ماری لاوو و مدیسون مونتگومری؛ به علاوه"
+        "en": "Anna Friel stars in the Roadshow Rough Diamond and CBS Studios co-production, which premiered on Stan in July and follows a group of medical interns trying to turn their careers around in Sydney's most notorious hospital.",
+        "fa": "آنا فریل در محصول مشترک Roadshow Rough Diamond و CBS Studios که در ماه جولای در Stan پخش شد و گروهی از کارورزان پزشکی را دنبال می‌کند که تلاش می‌کنند حرفه خود را در بدنام‌ترین بیمارستان سیدنی تغییر دهند، بازی می‌کند."
+      },
+      "source": {
+        "en": "The Hollywood Reporter",
+        "fa": "The Hollywood Reporter"
+      },
+      "link": "https://www.hollywoodreporter.com/tv/tv-news/australian-medical-drama-the-f-ward-paramount-1236671821/",
+      "date": "2026-08-13T15:51:07.973648+00:00",
+      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/The-F-Ward-still.jpg?w=1440&#038;h=810&#038;crop=1",
+      "important": false,
+      "score": 3
+    },
+    {
+      "id": "db6537a43338",
+      "title": {
+        "en": "New York Film Festival Reveals Currents Slate With Tala Hadid’s ‘Bardi,’ Beatrice Gibson’s ‘At Night’ and More",
+        "fa": "فستیوال فیلم نیویورک با «بردی» تالا حدید، «در شب» بئاتریس گیبسون و موارد دیگر وضعیت کنونی را فاش کرد."
+      },
+      "excerpt": {
+        "en": "Film at Lincoln Center unveiled the films selected for the 64th New York Film Festival’s Currents section. Currents presents films that expand the possibilities of the form. This year’s Centerpiece selection is Tala Hadid’s “Bardi,” which makes its world premiere at the festival. Hadid immersed herself in the rugged world of horse-riders in central Morocco […]",
+        "fa": "فیلم در مرکز لینکلن از فیلم‌های منتخب در بخش جریانات شصت و چهارمین جشنواره فیلم نیویورک رونمایی کرد. Currents فیلم هایی را ارائه می دهد که امکانات فرم را گسترش می دهد. برگزیده‌ی محوری امسال «بردی» طلا حدید است که اولین نمایش جهانی خود را در این جشنواره انجام می‌دهد. حدید در مرکز مراکش در دنیای ناهموار اسب سواران غوطه ور شد"
+      },
+      "content": {
+        "en": "Film at Lincoln Center unveiled the films selected for the 64th New York Film Festival’s Currents section. Currents presents films that expand the possibilities of the form. This year’s Centerpiece selection is Tala Hadid’s “Bardi,” which makes its world premiere at the festival. Hadid immersed herself in the rugged world of horse-riders in central Morocco […]",
+        "fa": "فیلم در مرکز لینکلن از فیلم‌های منتخب در بخش جریانات شصت و چهارمین جشنواره فیلم نیویورک رونمایی کرد. Currents فیلم هایی را ارائه می دهد که امکانات فرم را گسترش می دهد. برگزیده‌ی محوری امسال «بردی» طلا حدید است که اولین نمایش جهانی خود را در این جشنواره انجام می‌دهد. حدید در مرکز مراکش در دنیای ناهموار اسب سواران غوطه ور شد"
       },
       "source": {
         "en": "Variety",
         "fa": "Variety"
       },
-      "link": "https://variety.com/2026/tv/news/american-horror-story-13-trailer-jessica-lange-rubber-man-1236833666/",
-      "date": "2026-08-13T14:16:39.396394+00:00",
-      "image": "https://variety.com/wp-content/uploads/2026/08/ahs-13.png",
+      "link": "https://variety.com/2026/film/news/new-york-film-festival-currents-lineup-2026-1236833187/",
+      "date": "2026-08-13T15:51:07.973154+00:00",
+      "image": "https://variety.com/wp-content/uploads/2024/11/BARDI.jpg",
       "important": false,
       "score": 3
     },
     {
-      "id": "2145697092c5",
+      "id": "7590fc3126c1",
       "title": {
-        "en": "Netflix’s ‘My Brilliant Career’ Is a Spunky Reimagining of the Australian Period Drama: TV Review",
-        "fa": "«حرفه درخشان من» از نتفلیکس، یک بازنگری بد درام دوره استرالیا است: نقد تلویزیونی"
+        "en": "‘American Blue’ Pilot With Milo Ventimiglia Not Moving Forward at HBO Max",
+        "fa": "خلبان «آبی آمریکایی» با حضور میلو ونتیمیلیا در HBO Max"
       },
       "excerpt": {
-        "en": "Based on the feminist writer Miles Franklin’s 1901 novel of the same name — and having been previously adapted in Gillian Armstrong’s acclaimed 1979 film starring Judy Davis and Sam Neill — Netflix’s “My Brilliant Career” has a lot to live up to. The Australian period drama, adapted into a series by Liz Doran, is […]",
-        "fa": "بر اساس رمان ۱۹۰۱ مایلز فرانکلین، نویسنده فمینیستی به همین نام – و قبلاً در فیلم تحسین شده جیلیان آرمسترانگ در سال ۱۹۷۹ با بازی جودی دیویس و سام نیل اقتباس شده بود – «حرفه درخشان من» نتفلیکس چیزهای زیادی برای زندگی دارد. درام دوره استرالیا که توسط لیز دوران به صورت سریال اقتباس شده است"
+        "en": "The cop drama pilot “American Blue” is not moving forward at HBO Max, Variety has confirmed. The show was one of two drama pilots recently commissioned by HBO Max alongside the family drama “How to Survive Without Me.” Both shows were developed under the model established by “The Pitt,” with an eye to have both […]",
+        "fa": "ورایتی تایید کرده است که خلبان درام پلیسی \"American Blue\" در HBO Max جلو نمی رود. این نمایش یکی از دو خلبان درام بود که اخیراً توسط HBO Max در کنار درام خانوادگی «چگونه بدون من زنده بمانیم» سفارش داده شد. هر دو نمایش بر اساس مدلی که توسط \"پیت\" ایجاد شده بود، با هدف داشتن هر دو ساخته شدند"
       },
       "content": {
-        "en": "Based on the feminist writer Miles Franklin’s 1901 novel of the same name — and having been previously adapted in Gillian Armstrong’s acclaimed 1979 film starring Judy Davis and Sam Neill — Netflix’s “My Brilliant Career” has a lot to live up to. The Australian period drama, adapted into a series by Liz Doran, is […]",
-        "fa": "بر اساس رمان ۱۹۰۱ مایلز فرانکلین، نویسنده فمینیستی به همین نام – و قبلاً در فیلم تحسین شده جیلیان آرمسترانگ در سال ۱۹۷۹ با بازی جودی دیویس و سام نیل اقتباس شده بود – «حرفه درخشان من» نتفلیکس چیزهای زیادی برای زندگی دارد. درام دوره استرالیا که توسط لیز دوران به صورت سریال اقتباس شده است"
+        "en": "The cop drama pilot “American Blue” is not moving forward at HBO Max, Variety has confirmed. The show was one of two drama pilots recently commissioned by HBO Max alongside the family drama “How to Survive Without Me.” Both shows were developed under the model established by “The Pitt,” with an eye to have both […]",
+        "fa": "ورایتی تایید کرده است که خلبان درام پلیسی \"American Blue\" در HBO Max جلو نمی رود. این نمایش یکی از دو خلبان درام بود که اخیراً توسط HBO Max در کنار درام خانوادگی «چگونه بدون من زنده بمانیم» سفارش داده شد. هر دو نمایش بر اساس مدلی که توسط \"پیت\" ایجاد شده بود، با هدف داشتن هر دو ساخته شدند"
       },
       "source": {
         "en": "Variety",
         "fa": "Variety"
       },
-      "link": "https://variety.com/2026/tv/reviews/my-brilliant-career-review-netflix-1236833152/",
-      "date": "2026-08-13T14:16:39.396290+00:00",
-      "image": "https://variety.com/wp-content/uploads/2026/08/MBC_ir_1-48A_0290.jpg",
+      "link": "https://variety.com/2026/tv/news/american-blue-pilot-milo-ventimiglia-canceled-hbo-max-1236833847/",
+      "date": "2026-08-13T15:51:07.972220+00:00",
+      "image": "https://variety.com/wp-content/uploads/2026/01/Milo-Ventimiglia-2024-by-Manfred-Baumann-09.jpg",
       "important": false,
       "score": 3
     },
     {
-      "id": "3c4ef5831a78",
+      "id": "73a02a0cdc19",
       "title": {
-        "en": "Edinburgh Film Festival 2026: ‘Trainspotting’ Turns 30, World Premieres Multiply and Looking Beyond the Revamp",
-        "fa": "جشنواره فیلم ادینبورگ 2026: «Trainspotting» 30 ساله می‌شود، نمایش‌های جهانی چند برابر می‌شوند و نگاهی فراتر از بازسازی"
+        "en": "Leonardo DiCaprio’s Appian Way Boards ‘Freeing Flipper’ Ahead Of TIFF Market, Story Of Dolphin Trainer-Turned-Activist Ric O’Barry",
+        "fa": "فیلم Appian Way از لئوناردو دی کاپریو، \"Freeing Flipper\" Ahead of TIFF Market, Story Of Dolphin Trainer-Activist Ric O'Bary"
       },
       "excerpt": {
-        "en": "Two years ago, Edinburgh Intl. Film Festival was talking rebuild. Now it can start talking momentum. The world’s longest continually running film festival opens its 79th edition Thursday with 38 new feature presentations, 21 world premieres, a pumping 30th-anniversary celebration of “Trainspotting,” Ewan McGregor, Kenneth Branagh and Ken Burns in town, a beefed-up industry program […]",
-        "fa": "دو سال پیش، بین المللی ادینبورگ. جشنواره فیلم صحبت از بازسازی بود. حالا می‌تواند به سرعت شروع به صحبت کند. طولانی ترین جشنواره فیلم جهان که به طور مداوم ادامه دارد، هفتاد و نهمین دوره خود را پنجشنبه با 38 نمایش بلند جدید، 21 اولین نمایش جهانی، جشن سی امین سالگرد «Trainspotting»، یوان مک گرگور، کنت برانا و کن برنز در شهر، یک برنامه صنعتی تقویت شده افتتاح می کند."
+        "en": "EXCLUSIVE: Appian Way, the production company founded by Leonardo DiCaprio, is signing on to executive produce Freeing Flipper, a documentary about Ric O’Barry, who went from dolphin trainer to becoming a fierce advocate for freeing all captive dolphins. Appian Way joins Dogwoof, Copper Island and Bay Rock as E.P.s on the project, with Dogwoof set […]",
+        "fa": "اختصاصی: Appian Way، شرکت سازنده ای که توسط لئوناردو دی کاپریو تأسیس شده است، با تهیه کنندگی اجرایی Freeing Flipper، مستندی درباره ریک اوباری، که از مربی دلفین ها به یک مدافع سرسخت برای آزادی همه دلفین های اسیر تبدیل شد، قرارداد امضا می کند. Appian Way به Dogwoof، Copper Island و Bay Rock به عنوان E.P.s در این پروژه، با مجموعه Dogwoof می‌پیوندد."
       },
       "content": {
-        "en": "Two years ago, Edinburgh Intl. Film Festival was talking rebuild. Now it can start talking momentum. The world’s longest continually running film festival opens its 79th edition Thursday with 38 new feature presentations, 21 world premieres, a pumping 30th-anniversary celebration of “Trainspotting,” Ewan McGregor, Kenneth Branagh and Ken Burns in town, a beefed-up industry program […]",
-        "fa": "دو سال پیش، بین المللی ادینبورگ. جشنواره فیلم صحبت از بازسازی بود. حالا می‌تواند به سرعت شروع به صحبت کند. طولانی ترین جشنواره فیلم جهان که به طور مداوم ادامه دارد، هفتاد و نهمین دوره خود را پنجشنبه با 38 نمایش بلند جدید، 21 اولین نمایش جهانی، جشن سی امین سالگرد «Trainspotting»، یوان مک گرگور، کنت برانا و کن برنز در شهر، یک برنامه صنعتی تقویت شده افتتاح می کند."
+        "en": "EXCLUSIVE: Appian Way, the production company founded by Leonardo DiCaprio, is signing on to executive produce Freeing Flipper, a documentary about Ric O’Barry, who went from dolphin trainer to becoming a fierce advocate for freeing all captive dolphins. Appian Way joins Dogwoof, Copper Island and Bay Rock as E.P.s on the project, with Dogwoof set […]",
+        "fa": "اختصاصی: Appian Way، شرکت سازنده ای که توسط لئوناردو دی کاپریو تأسیس شده است، با تهیه کنندگی اجرایی Freeing Flipper، مستندی درباره ریک اوباری، که از مربی دلفین ها به یک مدافع سرسخت برای آزادی همه دلفین های اسیر تبدیل شد، قرارداد امضا می کند. Appian Way به Dogwoof، Copper Island و Bay Rock به عنوان E.P.s در این پروژه، با مجموعه Dogwoof می‌پیوندد."
+      },
+      "source": {
+        "en": "Deadline",
+        "fa": "Deadline"
+      },
+      "link": "https://deadline.com/2026/08/freeing-flipper-ric-obarry-documentary-appian-way-1237032716/",
+      "date": "2026-08-13T15:51:07.970069+00:00",
+      "image": "https://deadline.com/wp-content/uploads/2026/08/Freeing-Flipper-Ric-OBarry.jpeg",
+      "important": false,
+      "score": 3
+    },
+    {
+      "id": "885236dc61b8",
+      "title": {
+        "en": "‘Baby Reindeer’ Actress Nava Mau Joins Mariel Hemingway & Sophia Adler In Deborah Kampmeier’s ‘Holy Whore’",
+        "fa": "ناوا مائو بازیگر «بچه گوزن شمالی» به ماریل همینگوی و سوفیا آدلر در «فاحشه مقدس» دبورا کامپمیر پیوست."
+      },
+      "excerpt": {
+        "en": "EXCLUSIVE: Emmy and BAFTA nominee Nava Mau (Baby Reindeer) will star with Mariel Hemingway and Sophia Adler in Deborah Kampmeier’s upcoming indie drama Holy Whore. Written and directed by Kampmeier, the film is “the true story of Carmine, a modern day courtesan. As the story weaves past and present we see the ways Carmine moves […]",
+        "fa": "انحصاری: ناوا مائو، نامزد امی و بفتا، با ماریل همینگوی و سوفیا آدلر در درام مستقل آتی Holy Whore به کارگردانی دبورا کامپمیر بازی خواهد کرد. این فیلم به نویسندگی و کارگردانی کامپمیر، \"داستان واقعی کارمین، یک زن اجباری مدرن است. همانطور که داستان گذشته و حال را در هم می‌پیوندد، ما راه‌های حرکت کارمین را می‌بینیم."
+      },
+      "content": {
+        "en": "EXCLUSIVE: Emmy and BAFTA nominee Nava Mau (Baby Reindeer) will star with Mariel Hemingway and Sophia Adler in Deborah Kampmeier’s upcoming indie drama Holy Whore. Written and directed by Kampmeier, the film is “the true story of Carmine, a modern day courtesan. As the story weaves past and present we see the ways Carmine moves […]",
+        "fa": "انحصاری: ناوا مائو، نامزد امی و بفتا، با ماریل همینگوی و سوفیا آدلر در درام مستقل آتی Holy Whore به کارگردانی دبورا کامپمیر بازی خواهد کرد. این فیلم به نویسندگی و کارگردانی کامپمیر، \"داستان واقعی کارمین، یک زن اجباری مدرن است. همانطور که داستان گذشته و حال را در هم می‌پیوندد، ما راه‌های حرکت کارمین را می‌بینیم."
+      },
+      "source": {
+        "en": "Deadline",
+        "fa": "Deadline"
+      },
+      "link": "https://deadline.com/2026/08/baby-reindeer-actress-nava-mau-joins-holy-whore-1237032804/",
+      "date": "2026-08-13T15:51:07.968751+00:00",
+      "image": "https://deadline.com/wp-content/uploads/2026/08/Nava-Mau-by-Pablo-Costanzo-1.jpg",
+      "important": false,
+      "score": 3
+    },
+    {
+      "id": "8dc0fafba98f",
+      "title": {
+        "en": "Matt Creasey Becomes Senior EVP, World, At Post-Merger Banijay Rights",
+        "fa": "Matt Creasey در حقوق پس از ادغام Banijay به مقام ارشد EVP جهان تبدیل شد"
+      },
+      "excerpt": {
+        "en": "EXCLUSIVE: We’re starting to get an idea of what Banijay Entertainment’s distribution arm will look like after its merger with All3Media closed last month, creating an $8BN content giant. Matt Creasey will be Senior Executive Vice President World, excluding EMEA, at Banijay Rights. Pre-merger, he was EVP Sales, Acquisitions and Coproductions. Based in LA, Creasey’s […]",
+        "fa": "انحصاری: ما شروع به دریافت ایده ای در مورد اینکه بازوی توزیع Banijay Entertainment پس از ادغام آن با All3Media در ماه گذشته و ایجاد یک غول محتوای 8 میلیارد دلاری چگونه خواهد بود، به دست می آوریم. مت کریسی معاون ارشد اجرایی جهان، به استثنای EMEA، در Banijay Rights خواهد بود. قبل از ادغام، او EVP Sales، Acquisitions and Coproductions بود. مستقر در لس آنجلس، Creasey's"
+      },
+      "content": {
+        "en": "EXCLUSIVE: We’re starting to get an idea of what Banijay Entertainment’s distribution arm will look like after its merger with All3Media closed last month, creating an $8BN content giant. Matt Creasey will be Senior Executive Vice President World, excluding EMEA, at Banijay Rights. Pre-merger, he was EVP Sales, Acquisitions and Coproductions. Based in LA, Creasey’s […]",
+        "fa": "انحصاری: ما شروع به دریافت ایده ای در مورد اینکه بازوی توزیع Banijay Entertainment پس از ادغام آن با All3Media در ماه گذشته و ایجاد یک غول محتوای 8 میلیارد دلاری چگونه خواهد بود، به دست می آوریم. مت کریسی معاون ارشد اجرایی جهان، به استثنای EMEA، در Banijay Rights خواهد بود. قبل از ادغام، او EVP Sales، Acquisitions and Coproductions بود. مستقر در لس آنجلس، Creasey's"
+      },
+      "source": {
+        "en": "Deadline",
+        "fa": "Deadline"
+      },
+      "link": "https://deadline.com/2026/08/matt-creasey-new-title-post-merger-at-banijay-rights-1237032861/",
+      "date": "2026-08-13T15:51:07.968172+00:00",
+      "image": "https://deadline.com/wp-content/uploads/2026/08/matt-creasey2.jpg",
+      "important": false,
+      "score": 3
+    },
+    {
+      "id": "597637ec68bc",
+      "title": {
+        "en": "Former Luma AI Exec Launches LA-Based Production Outfit Matriarch",
+        "fa": "Exec سابق Luma AI Outfit Matriarch مبتنی بر LA را راه اندازی کرد"
+      },
+      "excerpt": {
+        "en": "EXCLUSIVE: Verena Puhm, a former Luma AI exec and filmmaker, has launched LA-based production company Matriarch. Puhm, who was most recently Head of Dream Lab LA at Luma AI, is now developing and producing AI-native and hybrid productions and will also carry out work for third parties and brands. Matriarch’s development slate includes Colors in the […]",
+        "fa": "اختصاصی: Verena Puhm، مدیر اجرایی و فیلمساز سابق هوش مصنوعی Luma، شرکت تولیدی Matriarch را در لس آنجلس راه اندازی کرده است. Puhm که اخیراً رئیس Dream Lab LA در Luma AI بود، اکنون در حال توسعه و تولید محصولات بومی و ترکیبی هوش مصنوعی است و همچنین کارهایی را برای اشخاص ثالث و برندها انجام خواهد داد. جدول توسعه Matriarch شامل Colors در"
+      },
+      "content": {
+        "en": "EXCLUSIVE: Verena Puhm, a former Luma AI exec and filmmaker, has launched LA-based production company Matriarch. Puhm, who was most recently Head of Dream Lab LA at Luma AI, is now developing and producing AI-native and hybrid productions and will also carry out work for third parties and brands. Matriarch’s development slate includes Colors in the […]",
+        "fa": "اختصاصی: Verena Puhm، مدیر اجرایی و فیلمساز سابق هوش مصنوعی Luma، شرکت تولیدی Matriarch را در لس آنجلس راه اندازی کرده است. Puhm که اخیراً رئیس Dream Lab LA در Luma AI بود، اکنون در حال توسعه و تولید محصولات بومی و ترکیبی هوش مصنوعی است و همچنین کارهایی را برای اشخاص ثالث و برندها انجام خواهد داد. جدول توسعه Matriarch شامل Colors در"
+      },
+      "source": {
+        "en": "Deadline",
+        "fa": "Deadline"
+      },
+      "link": "https://deadline.com/2026/08/verena-puhm-former-luma-ai-launches-matriarch-1237032826/",
+      "date": "2026-08-13T15:51:07.967814+00:00",
+      "image": "https://deadline.com/wp-content/uploads/2026/08/Verena-Puhm.jpeg",
+      "important": false,
+      "score": 3
+    },
+    {
+      "id": "93ec41d8f648",
+      "title": {
+        "en": "‘Spider-Man: Brand New Day’ Hits $700 Million at Domestic Box Office, One of Seven Movies to Ever Reach the Milestone",
+        "fa": "«مرد عنکبوتی: روز کاملاً جدید» با فروش 700 میلیون دلاری در باکس آفیس داخلی، یکی از هفت فیلمی است که تا به حال به نقطه عطف رسیده است."
+      },
+      "excerpt": {
+        "en": "“Spider-Man: Brand New Day” has surpassed $700 million in domestic ticket sales, becoming the fastest film to notch the box office benchmark. So far, Sony and Marvel’s comic book adventure, starring Tom Holland as web-slinging hero, has generated $704.5 million in North America and $1.8 billion worldwide after just two weekends of release. Notably, only […]",
+        "fa": "«مرد عنکبوتی: روز کاملاً جدید» از 700 میلیون دلار فروش بلیت داخلی فراتر رفت و به سریع‌ترین فیلمی تبدیل شد که به معیار باکس آفیس دست یافته است. تاکنون، ماجراجویی کمیک سونی و مارول، با بازی تام هالند در نقش قهرمان وب، 704.5 میلیون دلار در آمریکای شمالی و 1.8 میلیارد دلار در سراسر جهان پس از تنها دو آخر هفته اکران به دست آورده است. قابل ذکر است، تنها"
+      },
+      "content": {
+        "en": "“Spider-Man: Brand New Day” has surpassed $700 million in domestic ticket sales, becoming the fastest film to notch the box office benchmark. So far, Sony and Marvel’s comic book adventure, starring Tom Holland as web-slinging hero, has generated $704.5 million in North America and $1.8 billion worldwide after just two weekends of release. Notably, only […]",
+        "fa": "«مرد عنکبوتی: روز کاملاً جدید» از 700 میلیون دلار فروش بلیت داخلی فراتر رفت و به سریع‌ترین فیلمی تبدیل شد که به معیار باکس آفیس دست یافته است. تاکنون، ماجراجویی کمیک سونی و مارول، با بازی تام هالند در نقش قهرمان وب، 704.5 میلیون دلار در آمریکای شمالی و 1.8 میلیارد دلار در سراسر جهان پس از تنها دو آخر هفته اکران به دست آورده است. قابل ذکر است، تنها"
       },
       "source": {
         "en": "Variety",
         "fa": "Variety"
       },
-      "link": "https://variety.com/2026/film/global/edinburgh-film-festival-2026-1236833284/",
-      "date": "2026-08-13T14:16:39.396136+00:00",
-      "image": "https://variety.com/wp-content/uploads/2026/06/Trainspotting.jpg",
-      "important": false,
-      "score": 3
-    },
-    {
-      "id": "bc094b3fec4b",
-      "title": {
-        "en": "‘Megan and Cupcake Ready for Preschool,’ a New Hybrid Live-Action and Animated Series Heads to Disney Jr.",
-        "fa": "«مگان و کیک کوچک آماده برای پیش‌دبستانی»، مجموعه‌ای هیبریدی لایو اکشن و انیمیشن جدید به دیزنی جونیور می‌رود."
-      },
-      "excerpt": {
-        "en": "“Megan and Cupcake Ready for Preschool,” a hybrid live action and animated extension of Disney Jr.’s popular “Ready for Preschool” shorts is set to debut on Disney Jr. and stream on Disney+ later this Fall. “Sesame Street” puppeteer, ventriloquist and children’s book author Megan Baptist stars alongside her new sidekick, Cupcake, partnering up to serve […]",
-        "fa": "«مگان و کیک کیک آماده برای پیش‌دبستانی»، یک اکشن زنده ترکیبی و متحرک از شورت محبوب دیزنی جونیور «آماده برای پیش‌دبستانی» قرار است برای اولین بار در دیزنی جونیور و اواخر پاییز امسال در دیزنی پلاس پخش شود. مگان باپتیست، عروسک‌باز، بطن‌باز و نویسنده کتاب کودکان در «خیابان کنجد» در کنار دستیار جدیدش، کیک، برای خدمت با هم همکاری می‌کند."
-      },
-      "content": {
-        "en": "“Megan and Cupcake Ready for Preschool,” a hybrid live action and animated extension of Disney Jr.’s popular “Ready for Preschool” shorts is set to debut on Disney Jr. and stream on Disney+ later this Fall. “Sesame Street” puppeteer, ventriloquist and children’s book author Megan Baptist stars alongside her new sidekick, Cupcake, partnering up to serve […]",
-        "fa": "«مگان و کیک کیک آماده برای پیش‌دبستانی»، یک اکشن زنده ترکیبی و متحرک از شورت محبوب دیزنی جونیور «آماده برای پیش‌دبستانی» قرار است برای اولین بار در دیزنی جونیور و اواخر پاییز امسال در دیزنی پلاس پخش شود. مگان باپتیست، عروسک‌باز، بطن‌باز و نویسنده کتاب کودکان در «خیابان کنجد» در کنار دستیار جدیدش، کیک، برای خدمت با هم همکاری می‌کند."
-      },
-      "source": {
-        "en": "Variety",
-        "fa": "Variety"
-      },
-      "link": "https://variety.com/2026/tv/news/megan-and-cupcake-ready-for-preschool-disney-jr-1236833768/",
-      "date": "2026-08-13T14:16:39.395006+00:00",
-      "image": "https://variety.com/wp-content/uploads/2026/08/MeganAndCupcake_FINAL-e1786629570950.jpg",
-      "important": false,
-      "score": 3
-    },
-    {
-      "id": "a0bf4e6a5176",
-      "title": {
-        "en": "Matt Damon, Julia Roberts, Jimmy Kimmel & Alex Honnold Join David Letterman’s ‘My Next Guest Needs No Introduction’",
-        "fa": "مت دیمون، جولیا رابرتز، جیمی کیمل و الکس هانولد به فیلم «مهمان بعدی من نیازی به معرفی» دیوید لترمن می‌پیوندند."
-      },
-      "excerpt": {
-        "en": "David Letterman will be back on Netflix later this year with a new round of guests. His Netflix talk show, My Next Guest Needs No Introduction, returns before the end of the year with four new episodes. The former Late Show host will be joined by Matt Damon, Julia Roberts, Jimmy Kimmel and Alex Honnold, […]",
-        "fa": "دیوید لترمن اواخر امسال با دور جدیدی از مهمانان به نتفلیکس بازخواهد گشت. برنامه گفتگوی او در نتفلیکس، مهمان بعدی من نیازی به معرفی ندارد، قبل از پایان سال با چهار قسمت جدید باز می گردد. مت دیمون، جولیا رابرتز، جیمی کیمل و الکس هانولد به مجری سابق Late Show خواهند پیوست."
-      },
-      "content": {
-        "en": "David Letterman will be back on Netflix later this year with a new round of guests. His Netflix talk show, My Next Guest Needs No Introduction, returns before the end of the year with four new episodes. The former Late Show host will be joined by Matt Damon, Julia Roberts, Jimmy Kimmel and Alex Honnold, […]",
-        "fa": "دیوید لترمن اواخر امسال با دور جدیدی از مهمانان به نتفلیکس بازخواهد گشت. برنامه گفتگوی او در نتفلیکس، مهمان بعدی من نیازی به معرفی ندارد، قبل از پایان سال با چهار قسمت جدید باز می گردد. مت دیمون، جولیا رابرتز، جیمی کیمل و الکس هانولد به مجری سابق Late Show خواهند پیوست."
-      },
-      "source": {
-        "en": "Deadline",
-        "fa": "Deadline"
-      },
-      "link": "https://deadline.com/2026/08/david-letterman-my-next-guest-needs-no-introduction-season-7-1237032267/",
-      "date": "2026-08-13T14:16:39.394119+00:00",
-      "image": "https://deadline.com/wp-content/uploads/2026/08/MNG_S7_JimmyKimmel_00475_RC2.jpg",
-      "important": false,
-      "score": 3
-    },
-    {
-      "id": "dfbeac316ef0",
-      "title": {
-        "en": "Emile Hirsch Joins Anthony Michael Hall, Claire Forlani & Stephen Lang Set In Sci-Fi Thriller ‘Final Invasion’ Ahead Of TIFF Market Launch",
-        "fa": "امیل هیرش به آنتونی مایکل هال، کلر فورلانی و استفان لانگ می‌پیوندد که در فیلم علمی تخیلی «هجوم نهایی» پیش از راه‌اندازی بازار TIFF."
-      },
-      "excerpt": {
-        "en": "EXCLUSIVE: Emile Hirsch (Into the Wild) has joined the cast of sci-fi action thriller Final Invasion opposite Anthony Michael Hall (Reacher) Claire Forlani (Meet Joe Black) and Stephen Lang (Avatar) ahead of a New Mexico shoot later this year. Final Invasion begins when a mysterious UAP satellite crashes in the New Mexico desert. It unleashes […]",
-        "fa": "انحصاری: امیل هیرش پیش از فیلمبرداری در نیومکزیکو در اواخر امسال، به گروه بازیگران فیلم علمی تخیلی اکشن، تهاجم نهایی، در مقابل آنتونی مایکل هال، کلر فورلانی و استفان لانگ پیوست. تهاجم نهایی زمانی آغاز می شود که یک ماهواره مرموز UAP در صحرای نیومکزیکو سقوط می کند. رها می کند"
-      },
-      "content": {
-        "en": "EXCLUSIVE: Emile Hirsch (Into the Wild) has joined the cast of sci-fi action thriller Final Invasion opposite Anthony Michael Hall (Reacher) Claire Forlani (Meet Joe Black) and Stephen Lang (Avatar) ahead of a New Mexico shoot later this year. Final Invasion begins when a mysterious UAP satellite crashes in the New Mexico desert. It unleashes […]",
-        "fa": "انحصاری: امیل هیرش پیش از فیلمبرداری در نیومکزیکو در اواخر امسال، به گروه بازیگران فیلم علمی تخیلی اکشن، تهاجم نهایی، در مقابل آنتونی مایکل هال، کلر فورلانی و استفان لانگ پیوست. تهاجم نهایی زمانی آغاز می شود که یک ماهواره مرموز UAP در صحرای نیومکزیکو سقوط می کند. رها می کند"
-      },
-      "source": {
-        "en": "Deadline",
-        "fa": "Deadline"
-      },
-      "link": "https://deadline.com/2026/08/emile-hirsch-hall-forlani-lang-final-invasion-1237029624/",
-      "date": "2026-08-13T14:16:39.393764+00:00",
-      "image": "https://deadline.com/wp-content/uploads/2026/08/MixCollage-13-Aug-2026-11-36-AM-9055.jpg",
-      "important": false,
-      "score": 3
-    },
-    {
-      "id": "fb148d26affa",
-      "title": {
-        "en": "Neil Marshall & Charlotte Kirk Reteam On Thriller ‘The Spiral Down’",
-        "fa": "همکاری مجدد نیل مارشال و شارلوت کرک در فیلم هیجان انگیز The Spiral Down"
-      },
-      "excerpt": {
-        "en": "EXCLUSIVE: Actress Charlotte Kirk (Duchess) is reuniting with writer Neil Marshall (The Descent) for a fifth time on psychological thriller The Spiral Down. Marshall, Kirk and Karlos Ways (Christmas & Chaos) will produce with Kirk producing for Primal Empire Studios. Director will be Aaron Mirtes (Whiskey Run) with cameras set to roll in Kentucky, U.S. […]",
-        "fa": "اختصاصی: شارلوت کرک بازیگر برای پنجمین بار در فیلم هیجان انگیز روانشناختی The Spiral Down با نویسنده نیل مارشال ملاقات می کند. مارشال، کرک و کارلوس ویز با تهیه کنندگی کرک برای استودیو Primal Empire تهیه کنندگی خواهند کرد. کارگردان این فیلم، آرون میرتس با دوربین‌هایی است که قرار است در کنتاکی، ایالات متحده به نمایش درآیند."
-      },
-      "content": {
-        "en": "EXCLUSIVE: Actress Charlotte Kirk (Duchess) is reuniting with writer Neil Marshall (The Descent) for a fifth time on psychological thriller The Spiral Down. Marshall, Kirk and Karlos Ways (Christmas & Chaos) will produce with Kirk producing for Primal Empire Studios. Director will be Aaron Mirtes (Whiskey Run) with cameras set to roll in Kentucky, U.S. […]",
-        "fa": "اختصاصی: شارلوت کرک بازیگر برای پنجمین بار در فیلم هیجان انگیز روانشناختی The Spiral Down با نویسنده نیل مارشال ملاقات می کند. مارشال، کرک و کارلوس ویز با تهیه کنندگی کرک برای استودیو Primal Empire تهیه کنندگی خواهند کرد. کارگردان این فیلم، آرون میرتس با دوربین‌هایی است که قرار است در کنتاکی، ایالات متحده به نمایش درآیند."
-      },
-      "source": {
-        "en": "Deadline",
-        "fa": "Deadline"
-      },
-      "link": "https://deadline.com/2026/08/neil-marshall-charlotte-kirk-thriller-spiral-down-1237032785/",
-      "date": "2026-08-13T14:16:39.393496+00:00",
-      "image": "https://deadline.com/wp-content/uploads/2026/08/Charlotte-Kirk-Neil-Marshall-e1786625756777.jpg",
-      "important": false,
-      "score": 3
-    },
-    {
-      "id": "f3556f464a71",
-      "title": {
-        "en": "Whitney Leavitt Returning To Broadway In ‘Just In Time’",
-        "fa": "بازگشت ویتنی لیویت به برادوی در «در زمان»"
-      },
-      "excerpt": {
-        "en": "Whitney Leavitt, the former Secret Lives of Mormon Wives cast member who reinvigorated the box office of the long-running Broadway revival Chicago, is soon to join another major production: Just In Time, the Bobby Darin bio-musical starring Jeremy Jordan. Leavitt will take over the role of Sandra Dee, the real-life singer and, for a time, […]",
-        "fa": "ویتنی لیویت، بازیگر سابق زندگی مخفی همسران مورمون که باکس آفیس فیلم بلندمدت احیای برادوی شیکاگو را احیا کرد، به زودی به یک اثر مهم دیگر خواهد پیوست: موزیکال زیستی بابی دارین با بازی جرمی جردن، Just In Time. لیویت نقش ساندرا دی، خواننده واقعی را بر عهده خواهد گرفت و برای مدتی،"
-      },
-      "content": {
-        "en": "Whitney Leavitt, the former Secret Lives of Mormon Wives cast member who reinvigorated the box office of the long-running Broadway revival Chicago, is soon to join another major production: Just In Time, the Bobby Darin bio-musical starring Jeremy Jordan. Leavitt will take over the role of Sandra Dee, the real-life singer and, for a time, […]",
-        "fa": "ویتنی لیویت، بازیگر سابق زندگی مخفی همسران مورمون که باکس آفیس فیلم بلندمدت احیای برادوی شیکاگو را احیا کرد، به زودی به یک اثر مهم دیگر خواهد پیوست: موزیکال زیستی بابی دارین با بازی جرمی جردن، Just In Time. لیویت نقش ساندرا دی، خواننده واقعی را بر عهده خواهد گرفت و برای مدتی،"
-      },
-      "source": {
-        "en": "Deadline",
-        "fa": "Deadline"
-      },
-      "link": "https://deadline.com/2026/08/whitney-leavitt-broadway-just-in-time-1237032790/",
-      "date": "2026-08-13T14:16:39.393170+00:00",
-      "image": "https://deadline.com/wp-content/uploads/2026/08/JIT-W.-Leavitt.jpeg",
+      "link": "https://variety.com/2026/film/news/spider-man-brand-new-day-700-million-domestic-box-office-1236833812/",
+      "date": "2026-08-13T15:51:07.971988+00:00",
+      "image": "https://variety.com/wp-content/uploads/2026/08/MCDSPMA_SP127.jpg",
       "important": false,
       "score": 1
-    },
-    {
-      "id": "5f5da3fd700a",
-      "title": {
-        "en": "‘Coyote vs. Acme’ Review: Thank Goodness This Clever Comedy About the Evils of Corporate Greed Was Rescued from Corporate Hell",
-        "fa": "نقد و بررسی «کایوتی در برابر آکم»: خدا را شکر این کمدی هوشمندانه درباره شرارت حرص و طمع شرکتی از جهنم شرکتی نجات یافت"
-      },
-      "excerpt": {
-        "en": "Dave Green's smart and sweet Looney Tunes movie is about underdogs (undercartoons?) fighting deep-pocketed baddies who don't care about actual quality. Funny!",
-        "fa": "فیلم هوشمند و شیرین Looney Tunes ساخته دیو گرین در مورد افراد مستضعف است که با بدجنس‌هایی با جیب‌های عمیق مبارزه می‌کنند که به کیفیت واقعی اهمیتی نمی‌دهند. خنده دار!"
-      },
-      "content": {
-        "en": "Dave Green's smart and sweet Looney Tunes movie is about underdogs (undercartoons?) fighting deep-pocketed baddies who don't care about actual quality. Funny!",
-        "fa": "فیلم هوشمند و شیرین Looney Tunes ساخته دیو گرین در مورد افراد مستضعف است که با بدجنس‌هایی با جیب‌های عمیق مبارزه می‌کنند که به کیفیت واقعی اهمیتی نمی‌دهند. خنده دار!"
-      },
-      "source": {
-        "en": "IndieWire",
-        "fa": "IndieWire"
-      },
-      "link": "https://www.indiewire.com/criticism/movies/coyote-vs-acme-review-looney-tunes-live-action-comedy-1235209439/",
-      "date": "2026-08-13T14:16:39.401145+00:00",
-      "image": "https://www.indiewire.com/wp-content/uploads/2024/02/Coyote-vs-Acme.webp?w=650",
-      "important": false,
-      "score": 0
     },
     {
       "id": "026858076c7d",
@@ -501,7 +429,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/criticism/movies/the-wrong-girls-review-1235210080/",
-      "date": "2026-08-13T14:16:39.400962+00:00",
+      "date": "2026-08-13T15:51:07.977259+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/MCDWRGI_EC006.jpg?w=650",
       "important": false,
       "score": 0
@@ -525,7 +453,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/features/commentary/worst-disney-direct-to-video-sequels-1235209538/",
-      "date": "2026-08-13T14:16:39.400830+00:00",
+      "date": "2026-08-13T15:51:07.977068+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/MSDLIME_WD011-1.jpg?w=650",
       "important": false,
       "score": 0
@@ -549,7 +477,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/news/business/american-film-market-afm-expands-ai-tech-companies-1235210223/",
-      "date": "2026-08-13T14:16:39.400595+00:00",
+      "date": "2026-08-13T15:51:07.976709+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/The-AFM-HOUSE-pavilion-century-park-1.png?w=650",
       "important": false,
       "score": 0
@@ -558,7 +486,7 @@
       "id": "f184dc88db96",
       "title": {
         "en": "Anders Danielsen Lie Revisits the Making of ‘Oslo, August 31st’",
-        "fa": "آندرس دانیلسن لای بازبینی ساخت «اسلو، 31 آگوست»"
+        "fa": "آندرس دانیلسن لی از ساخت «اسلو، 31 آگوست» بازبینی می‌کند"
       },
       "excerpt": {
         "en": "“It’s the closest I've been to a method acting experiment\" the Norwegian actor (and doctor) says of his landmark second film with Joachim Trier.",
@@ -573,8 +501,80 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/features/interviews/anders-danielsen-lie-interview-making-oslo-august-31st-1235209755/",
-      "date": "2026-08-13T14:16:39.400466+00:00",
+      "date": "2026-08-13T15:51:07.976524+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/SEQUELS-WEEK-OSLO-31.png?w=650",
+      "important": false,
+      "score": 0
+    },
+    {
+      "id": "f3e1a66e5f5d",
+      "title": {
+        "en": "Sundance 2026 Movies Sold: Michal Marczak’s Doc ‘Closure’ Lands at 1-2 Special",
+        "fa": "فیلم‌های ساندنس 2026 فروخته‌شده: فیلم Doc «Closure» از Michal Marczak در 1-2 Special فرود می‌آید"
+      },
+      "excerpt": {
+        "en": "The film about a father searching for his missing son in Warsaw will open in theaters October 28.",
+        "fa": "این فیلم درباره پدری که در ورشو به دنبال پسر گمشده‌اش می‌گردد از ۲۸ اکتبر در سینماها اکران می‌شود."
+      },
+      "content": {
+        "en": "The film about a father searching for his missing son in Warsaw will open in theaters October 28.",
+        "fa": "این فیلم درباره پدری که در ورشو به دنبال پسر گمشده‌اش می‌گردد از ۲۸ اکتبر در سینماها اکران می‌شود."
+      },
+      "source": {
+        "en": "IndieWire",
+        "fa": "IndieWire"
+      },
+      "link": "https://www.indiewire.com/news/festivals/sundance-2026-movies-sold-so-far-1235174095/",
+      "date": "2026-08-13T15:51:07.976314+00:00",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/01/Closure.jpg?w=650",
+      "important": false,
+      "score": 0
+    },
+    {
+      "id": "b382d073922b",
+      "title": {
+        "en": "When Billie Joe Armstrong Asks You to Make a Green Day Movie, You Don’t Say No",
+        "fa": "وقتی بیلی جو آرمسترانگ از شما می‌خواهد یک فیلم روز سبز بسازید، نه نمی‌گویید"
+      },
+      "excerpt": {
+        "en": "Armstrong and writer/director Lee Kirk tell IndieWire about turning the band's history and catalogue into the coming-of-age comedy \"Nimrods.\"",
+        "fa": "آرمسترانگ و لی کرک، نویسنده/کارگردان، به IndieWire در مورد تبدیل تاریخ و فهرست گروه به کمدی «Nimrods» می گویند."
+      },
+      "content": {
+        "en": "Armstrong and writer/director Lee Kirk tell IndieWire about turning the band's history and catalogue into the coming-of-age comedy \"Nimrods.\"",
+        "fa": "آرمسترانگ و لی کرک، نویسنده/کارگردان، به IndieWire در مورد تبدیل تاریخ و فهرست گروه به کمدی «Nimrods» می گویند."
+      },
+      "source": {
+        "en": "IndieWire",
+        "fa": "IndieWire"
+      },
+      "link": "https://www.indiewire.com/features/interviews/nimrods-green-day-movie-billie-joe-armstrong-interview-1235209998/",
+      "date": "2026-08-13T15:51:07.976121+00:00",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/08/IMG_4350.jpeg?w=594",
+      "important": false,
+      "score": 0
+    },
+    {
+      "id": "f78a981130cd",
+      "title": {
+        "en": "NYFF Unveils 2026 Currents Lineup, Featuring Boundary-Pushing Cinema from Around the World",
+        "fa": "NYFF خط تولید 2026 Currents را با سینمای محدودکننده از سراسر جهان رونمایی کرد"
+      },
+      "excerpt": {
+        "en": "The section will be headlined by Tala Hadid's new documentary \"Bardi,\" which centers around a Moroccan equestrian military ritual dating back to the 16th century.",
+        "fa": "عنوان این بخش با مستند جدید طلا حدید \"بردی\" خواهد بود که حول یک آیین نظامی سوارکاری مراکشی که قدمت آن به قرن شانزدهم بازمی‌گردد، می‌پردازد."
+      },
+      "content": {
+        "en": "The section will be headlined by Tala Hadid's new documentary \"Bardi,\" which centers around a Moroccan equestrian military ritual dating back to the 16th century.",
+        "fa": "عنوان این بخش با مستند جدید طلا حدید \"بردی\" خواهد بود که حول یک آیین نظامی سوارکاری مراکشی که قدمت آن به قرن شانزدهم بازمی‌گردد، می‌پردازد."
+      },
+      "source": {
+        "en": "IndieWire",
+        "fa": "IndieWire"
+      },
+      "link": "https://www.indiewire.com/news/festivals/nyff-2026-currents-lineup-1235210227/",
+      "date": "2026-08-13T15:51:07.975158+00:00",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/08/Screen-Shot-2026-08-12-at-11.33.41-AM.png?w=650",
       "important": false,
       "score": 0
     }
