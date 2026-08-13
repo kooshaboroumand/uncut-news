@@ -1,12 +1,36 @@
 {
-  "updated_at": "2026-08-13T08:12:19.641784+00:00",
+  "updated_at": "2026-08-13T09:54:26.928196+00:00",
   "count": 24,
   "news": [
+    {
+      "id": "077ef7dafa6f",
+      "title": {
+        "en": "Disney+ Signs Content Deal With Gary Neville’s The Overlap To Strike Back Against Netflix’s Football Podcast Play",
+        "fa": "Disney+ برای مقابله با پخش پادکست فوتبال نتفلیکس، قرارداد محتوا با The Overlap اثر گری نویل را امضا کرد."
+      },
+      "excerpt": {
+        "en": "The score is now Disney+ 1, Netflix 1. Disney’s streaming service has struck a deal with former Manchester United footballer and emerging media magnate Gary Neville for podcasts from his Global Studios-owned company, The Overlap. This follows Netflix branching out into football podcasts over the summer by backing the World Cup editions of Gary Lineker’s […]",
+        "fa": "امتیاز اکنون دیزنی + 1، نتفلیکس 1 است. سرویس استریم دیزنی با فوتبالیست سابق منچستریونایتد و غول رسانه ای نوظهور گری نویل برای پادکست هایی از شرکت تحت مالکیت گلوبال استودیوزش، The Overlap، قرارداد بسته است. این به دنبال آن است که نتفلیکس در تابستان با پشتیبانی از نسخه‌های جام جهانی بازی گری لاینکر به پادکست‌های فوتبال تبدیل شد."
+      },
+      "content": {
+        "en": "The score is now Disney+ 1, Netflix 1. Disney’s streaming service has struck a deal with former Manchester United footballer and emerging media magnate Gary Neville for podcasts from his Global Studios-owned company, The Overlap. This follows Netflix branching out into football podcasts over the summer by backing the World Cup editions of Gary Lineker’s […]",
+        "fa": "امتیاز اکنون دیزنی + 1، نتفلیکس 1 است. سرویس استریم دیزنی با فوتبالیست سابق منچستر یونایتد و غول رسانه ای نوظهور گری نویل برای پادکست های شرکت تحت مالکیت گلوبال استودیوزش، The Overlap، قرارداد بسته است. این به دنبال آن است که نتفلیکس در تابستان با پشتیبانی از نسخه‌های جام جهانی بازی گری لاینکر به پادکست‌های فوتبال تبدیل شد."
+      },
+      "source": {
+        "en": "Deadline",
+        "fa": "Deadline"
+      },
+      "link": "https://deadline.com/2026/08/disney-plus-overlap-stick-to-football-podcast-deal-1237032697/",
+      "date": "2026-08-13T09:54:26.664287+00:00",
+      "image": "https://deadline.com/wp-content/uploads/2026/08/Stick-to-Football.jpg",
+      "important": true,
+      "score": 7
+    },
     {
       "id": "81423b588572",
       "title": {
         "en": "‘The Traitors: New Blood’ Season 1 Cast: Meet the 22 Civilian Contestants",
-        "fa": "بازیگران فصل 1 سریال The Traitors: New Blood: Meet the 22 Civilian Contestants"
+        "fa": "بازیگران فصل 1 «The Traitors: New Blood»: با 22 شرکت کننده غیر نظامی آشنا شوید"
       },
       "excerpt": {
         "en": "The NBC reality competition series, hosted by Alan Cumming, premieres Sept. 17.",
@@ -21,56 +45,32 @@
         "fa": "The Hollywood Reporter"
       },
       "link": "https://www.hollywoodreporter.com/lists/the-traitors-new-blood-season-1-full-cast/",
-      "date": "2026-08-13T08:12:19.399824+00:00",
+      "date": "2026-08-13T09:54:26.672352+00:00",
       "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/TC.jpg?w=1440&#038;h=810&#038;crop=1",
       "important": true,
       "score": 6
     },
     {
-      "id": "3eed2170526d",
+      "id": "5ed3d14a8978",
       "title": {
-        "en": "‘Reacher’ Season 4 Cast Guide: Who’s Who in the Prime Video Action Series",
-        "fa": "راهنمای بازیگران فصل 4 «Reacher»: Who's Who در سری اکشن ویدیوی پرایم"
+        "en": "‘Stranger Things’ Star Noah Schnapp to Make Stage Debut in London (EXCLUSIVE)",
+        "fa": "نوآ اشنپ ستاره «چیزهای عجیب» برای اولین بار در لندن روی صحنه می رود"
       },
       "excerpt": {
-        "en": "Get ready for more action and more Alan Ritchson in “Reacher” Season 4, which premieres Wednesday, Aug. 12 on Prime Video. Our hunky, ex-military hero (Ritchson) is once again joined by a slew of new cast members as “Reacher” moves on to a fresh adventure based on Lee Child’s books. Per Amazon Prime, the logline […]",
-        "fa": "برای اکشن بیشتر و آلن ریچسون بیشتر در فصل 4 «ریچر» که چهارشنبه، 12 اوت در پرایم ویدیو پخش می‌شود، آماده شوید. قهرمان سابق نظامی ما بار دیگر با گروهی از بازیگران جدید همراه می‌شود تا «ریچر» به سمت ماجراجویی تازه‌ای بر اساس کتاب‌های لی چایلد می‌رود. طبق آمازون پرایم، لاگین"
+        "en": "From the Upside Down of Hawkins to the boards of London. Noah Schnapp, best known as Will Byers in “Stranger Things,” is set to make his world stage debut in the British capital. The actor, who became a household name thanks to the Netflix phenomenon, is adding theater to his resume as the star of […]",
+        "fa": "از وارونه هاوکینز گرفته تا تابلوهای لندن. نوآ اشنپ که بیشتر با نام ویل بایرز در فیلم «چیزهای عجیب» شناخته می شود، قرار است اولین حضور خود را در صحنه جهانی در پایتخت بریتانیا انجام دهد. این بازیگر که به لطف پدیده نتفلیکس به یک نام آشنا تبدیل شد، در حال اضافه کردن تئاتر به رزومه خود به عنوان ستاره"
       },
       "content": {
-        "en": "Get ready for more action and more Alan Ritchson in “Reacher” Season 4, which premieres Wednesday, Aug. 12 on Prime Video. Our hunky, ex-military hero (Ritchson) is once again joined by a slew of new cast members as “Reacher” moves on to a fresh adventure based on Lee Child’s books. Per Amazon Prime, the logline […]",
-        "fa": "برای اکشن بیشتر و آلن ریچسون بیشتر در فصل 4 «ریچر» که چهارشنبه، 12 اوت در پرایم ویدیو پخش می‌شود، آماده شوید. قهرمان سابق نظامی ما بار دیگر با گروهی از بازیگران جدید همراه می‌شود تا «ریچر» به سمت ماجراجویی تازه‌ای بر اساس کتاب‌های لی چایلد می‌رود. طبق آمازون پرایم، لاگین"
+        "en": "From the Upside Down of Hawkins to the boards of London. Noah Schnapp, best known as Will Byers in “Stranger Things,” is set to make his world stage debut in the British capital. The actor, who became a household name thanks to the Netflix phenomenon, is adding theater to his resume as the star of […]",
+        "fa": "از وارونه هاوکینز گرفته تا تابلوهای لندن. نوآ اشنپ که بیشتر با نام ویل بایرز در فیلم «چیزهای عجیب» شناخته می شود، قرار است اولین حضور خود را در صحنه جهانی در پایتخت بریتانیا انجام دهد. این بازیگر که به لطف پدیده نتفلیکس به یک نام آشنا تبدیل شد، در حال اضافه کردن تئاتر به رزومه خود به عنوان ستاره"
       },
       "source": {
         "en": "Variety",
         "fa": "Variety"
       },
-      "link": "https://variety.com/lists/reacher-season-4-cast-characters/",
-      "date": "2026-08-13T08:12:19.399441+00:00",
-      "image": "https://variety.com/wp-content/uploads/2026/08/RCHR_S4_FG_00273900_Still261_3000.jpg",
-      "important": true,
-      "score": 6
-    },
-    {
-      "id": "13293a9a985c",
-      "title": {
-        "en": "‘Marshals’ Adds Marque Richardson To Season 2 Cast; Morgan Lindholm To Expand Role",
-        "fa": "«Marshals» مارک ریچاردسون را به بازیگران فصل دوم اضافه کرد. مورگان لیندهولم برای گسترش نقش"
-      },
-      "excerpt": {
-        "en": "EXCLUSIVE: The CBS series Marshals will welcome Marque Richardson (Unprisoned, Dear White People) to its Season 2 cast. Richardson will recur as Assistant U.S. Attorney Patrick Burns. Additionally, Morgan Lindholm (Truth or Dare, Leverage: Redemption) will return to expand on her role as Maddie, the bartender at the local watering hole, Bullet ’N Barrel, and Cal’s (Logan Marshall-Green) estranged […]",
-        "fa": "انحصاری: سریال CBS Marshals از مارک ریچاردسون برای بازیگران فصل دوم استقبال می کند. ریچاردسون دوباره به عنوان پاتریک برنز دستیار دادستان ایالات متحده ظاهر خواهد شد. علاوه بر این، مورگان لیندهولم بازخواهد گشت تا نقش خود را در نقش مدی، متصدی بار در محل آبیاری محلی، Bullet 'N Barrel و Cal's estranged گسترش دهد."
-      },
-      "content": {
-        "en": "EXCLUSIVE: The CBS series Marshals will welcome Marque Richardson (Unprisoned, Dear White People) to its Season 2 cast. Richardson will recur as Assistant U.S. Attorney Patrick Burns. Additionally, Morgan Lindholm (Truth or Dare, Leverage: Redemption) will return to expand on her role as Maddie, the bartender at the local watering hole, Bullet ’N Barrel, and Cal’s (Logan Marshall-Green) estranged […]",
-        "fa": "انحصاری: سریال CBS Marshals از مارک ریچاردسون برای بازیگران فصل دوم استقبال می کند. ریچاردسون دوباره به عنوان پاتریک برنز دستیار دادستان ایالات متحده ظاهر خواهد شد. علاوه بر این، مورگان لیندهولم بازخواهد گشت تا نقش خود را در نقش مدی، متصدی بار در محل آبیاری محلی، Bullet 'N Barrel و Cal's estranged گسترش دهد."
-      },
-      "source": {
-        "en": "Deadline",
-        "fa": "Deadline"
-      },
-      "link": "https://deadline.com/2026/08/marshals-cast-marque-richardson-morgan-lindholm-season-2-1237032465/",
-      "date": "2026-08-13T08:12:19.396323+00:00",
-      "image": "https://deadline.com/wp-content/uploads/2026/08/marshalls-casting.jpg",
+      "link": "https://variety.com/2026/theater/global/noah-schnapp-stage-debut-in-london-affluenza-1236833391/",
+      "date": "2026-08-13T09:54:26.668816+00:00",
+      "image": "https://variety.com/wp-content/uploads/2026/08/Noah-Schnapp.-Photo-credit-EVELYN-FREJA.-092725_MVS_0099-1.jpg",
       "important": true,
       "score": 6
     },
@@ -93,7 +93,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/criticism/movies/the-end-of-oak-street-dinosaur-movie-review-1235210068/",
-      "date": "2026-08-13T08:12:19.405054+00:00",
+      "date": "2026-08-13T09:54:26.678310+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/03/rev-1-NBR-T1-0019_High_Res_JPEG.jpeg?w=650",
       "important": false,
       "score": 3
@@ -117,7 +117,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/news/breaking-news/charlie-and-the-chocolate-factory-netflix-theaters-1235210208/",
-      "date": "2026-08-13T08:12:19.404135+00:00",
+      "date": "2026-08-13T09:54:26.677194+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2022/05/Willy-Wonka.jpg?w=650",
       "important": false,
       "score": 3
@@ -126,7 +126,7 @@
       "id": "0ac9527d8064",
       "title": {
         "en": "Cinematographer Michael Bauman Looked to His Own Roots for ‘Monster: The Ed Gein Story’",
-        "fa": "مایکل باومن، فیلمبردار برای «هیولا: داستان اد جین» به ریشه های خودش نگاه کرد."
+        "fa": "مایکل باومن، فیلمبردار، برای «هیولا: داستان اد جین» به ریشه‌های خودش نگاه کرد."
       },
       "excerpt": {
         "en": "The Oscar-nominated cinematographer tells IndieWire about crafting the perfect visual language to express mystery, madness, and claustrophobia in the Netflix series.",
@@ -141,7 +141,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/features/craft/michael-bauman-cinematography-ed-gein-story-ryan-murphy-1235208535/",
-      "date": "2026-08-13T08:12:19.403345+00:00",
+      "date": "2026-08-13T09:54:26.676216+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/TCDMONS_ZX063-1.jpg?w=650",
       "important": false,
       "score": 3
@@ -165,32 +165,32 @@
         "fa": "The Wrap"
       },
       "link": "https://www.thewrap.com/industry-news/public-policy-legal/diddy-countersues-accuser-over-alleged-theft-secret-netflix-sale-of-footage/",
-      "date": "2026-08-13T08:12:19.401697+00:00",
+      "date": "2026-08-13T09:54:26.674330+00:00",
       "image": "https://www.thewrap.com/wp-content/uploads/2026/08/Untitled-design-2026-08-12T184129.970-2.jpg",
       "important": false,
       "score": 3
     },
     {
-      "id": "42889010e621",
+      "id": "1a7321b8ae84",
       "title": {
-        "en": "Indian Freedom Fighter Bhagat Singh Series in Development at Collective Studios’ Historyverse (EXCLUSIVE)",
-        "fa": "سریال هندی Freedom Fighter Bhagat Singh در حال توسعه در Collective Studios’ Historyverse"
+        "en": "‘Drishyam’ Producer Panorama Studios Invests in Indian Vertical Streaming Platform Rocket Reels (EXCLUSIVE)",
+        "fa": "استودیو پانوراما، تهیه کننده «دریشیام» روی قرقره های موشکی پلت فرم جریان عمودی هند سرمایه گذاری می کند"
       },
       "excerpt": {
-        "en": "A new original series exploring the life of Indian freedom fighter Bhagat Singh is in development at Collective Studios’ Historyverse. The project is being made in association with Hathiramani Commercial Ventures and co-produced with investor and entrepreneur Manish Hathiramani, who marks his producing debut with the show. The series is designed to move past the […]",
-        "fa": "مجموعه‌ای اورجینال جدید که زندگی مبارز آزادی هند بهگات سینگ را بررسی می‌کند در استودیوی Collective Historyverse در حال ساخت است. این پروژه با همکاری شرکت سرمایه گذاری تجاری هاتیرامانی و تولید مشترک با سرمایه گذار و کارآفرین مانیش هاتیرامانی، که اولین تولید خود را با این نمایش رقم می زند، ساخته می شود. این مجموعه برای عبور از گذشته طراحی شده است"
+        "en": "India’s Panorama Studios, the producer behind the Bollywood “Drishyam” franchise, has invested in Indian original stories vertical platform Rocket Reels, fueling the platform’s next phase of growth and global expansion. Panorama Studios is chaired by veteran film producer Kumar Mangat Pathak and led by filmmaker and managing director Abhishek Pathak. The studio has built a […]",
+        "fa": "استودیو پانوراما هند، تهیه‌کننده مجموعه «دریشیام» بالیوود، روی پلتفرم عمودی Rocket Reels با داستان‌های اصلی هندی سرمایه‌گذاری کرده است و به مرحله بعدی رشد و گسترش جهانی این پلتفرم دامن می‌زند. ریاست استودیوی پانوراما بر عهده کومار منگات پاتاک تهیه کننده کهنه کار و توسط فیلمساز و مدیر عامل آبیشک پاتاک است. استودیو ساخته شده است"
       },
       "content": {
-        "en": "A new original series exploring the life of Indian freedom fighter Bhagat Singh is in development at Collective Studios’ Historyverse. The project is being made in association with Hathiramani Commercial Ventures and co-produced with investor and entrepreneur Manish Hathiramani, who marks his producing debut with the show. The series is designed to move past the […]",
-        "fa": "مجموعه‌ای اورجینال جدید که زندگی مبارز آزادی هند بهگات سینگ را بررسی می‌کند در استودیوی Collective Historyverse در حال ساخت است. این پروژه با همکاری شرکت سرمایه گذاری تجاری هاتیرامانی و تولید مشترک با سرمایه گذار و کارآفرین مانیش هاتیرامانی، که اولین تولید خود را با این نمایش رقم می زند، ساخته می شود. این مجموعه برای عبور از گذشته طراحی شده است"
+        "en": "India’s Panorama Studios, the producer behind the Bollywood “Drishyam” franchise, has invested in Indian original stories vertical platform Rocket Reels, fueling the platform’s next phase of growth and global expansion. Panorama Studios is chaired by veteran film producer Kumar Mangat Pathak and led by filmmaker and managing director Abhishek Pathak. The studio has built a […]",
+        "fa": "استودیو پانوراما هند، تهیه‌کننده مجموعه «دریشیام» بالیوود، روی پلتفرم عمودی Rocket Reels با داستان‌های اصلی هندی سرمایه‌گذاری کرده است و به مرحله بعدی رشد و گسترش جهانی این پلتفرم دامن می‌زند. ریاست استودیوی پانوراما بر عهده کومار منگات پاتاک تهیه کننده کهنه کار و توسط فیلمساز و مدیر عامل آبیشک پاتاک است. استودیو ساخته شده است"
       },
       "source": {
         "en": "Variety",
         "fa": "Variety"
       },
-      "link": "https://variety.com/2026/film/news/bhagat-singh-series-collective-studios-historyverse-1236833000/",
-      "date": "2026-08-13T08:12:19.398789+00:00",
-      "image": "https://variety.com/wp-content/uploads/2026/08/Bhagat-Singh-poster.jpg",
+      "link": "https://variety.com/2026/tv/news/drishyam-producer-panorama-studios-invests-rocket-reels-1236833577/",
+      "date": "2026-08-13T09:54:26.669182+00:00",
+      "image": "https://variety.com/wp-content/uploads/2026/08/Panorama-Studios.jpg",
       "important": false,
       "score": 3
     },
@@ -213,7 +213,7 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/feature/ted-lasso-season-4-songs-soundtrack-1237018779/",
-      "date": "2026-08-13T08:12:19.395112+00:00",
+      "date": "2026-08-13T09:54:26.667715+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/Ted_Lasso_Photo_040203.jpg",
       "important": false,
       "score": 3
@@ -237,7 +237,7 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/zurich-i-play-rocky-sylvester-stallone-channing-tatum-1237032255/",
-      "date": "2026-08-13T08:12:19.394839+00:00",
+      "date": "2026-08-13T09:54:26.667422+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/07/DSCF1969_C2-H-2026.webp",
       "important": false,
       "score": 3
@@ -261,7 +261,7 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/heated-rivalry-dylan-walsh-trouble-spilling-season-2-secret-1237032630/",
-      "date": "2026-08-13T08:12:19.394724+00:00",
+      "date": "2026-08-13T09:54:26.667292+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/dylan-walsh.jpg",
       "important": false,
       "score": 3
@@ -285,34 +285,34 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/itn-journalist-payoff-mental-health-discrimination-1237031881/",
-      "date": "2026-08-13T08:12:19.394440+00:00",
+      "date": "2026-08-13T09:54:26.666967+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/ITN_Rudd_Studio_16x9_40_sfw.jpg",
       "important": false,
       "score": 3
     },
     {
-      "id": "1ca443e66d24",
+      "id": "ed89cfb7fa0e",
       "title": {
-        "en": "Former Disney CEO Bob Chapek Memoir ‘Behind The Castle Walls’ Gets Fall Release Date",
-        "fa": "باب چاپک، مدیرعامل سابق دیزنی، خاطرات «Behind The Castle Walls» تاریخ اکران پاییز را دریافت کرد."
+        "en": "Guz Khan & Kiell Smith-Bynoe Fronting Audible Comedy Podcast ‘Guz And Kiell Will Not Survive’",
+        "fa": "پادکست کمدی شنیدنی Guz Khan و Kiell Smith-Bynoe Fronting \"Guz And Kiell Will Not Survive\""
       },
       "excerpt": {
-        "en": "Gallery Books, a division of Simon & Schuster, has set a September 29 publication date for Behind the Castle Walls: My Thirty Years at the Happiest Place on Earth by Bob Chapek, the short-tenured former CEO of Disney. The memoir chronicles Chapek’s 30-year tenure at the company and “the high-stakes maneuverings that unraveled behind the scenes” from […]",
-        "fa": "گالری بوکز، بخشی از Simon & Schuster، تاریخ انتشار 29 سپتامبر را برای پشت دیوارهای قلعه: سی سال من در شادترین مکان روی زمین توسط باب چاپک، مدیرعامل سابق دیزنی تعیین کرده است. خاطرات 30 سال تصدی چاپک در شرکت و \"مانورهای پرمخاطره ای که در پشت صحنه آشکار شد\" را شرح می دهد."
+        "en": "EXCLUSIVE: Brit actors, comedians and pals Guz Khan and Kiell Smith-Bynoe have been set by Audible for podcast Guz and Kiell Will Not Survive. Across six episodes, the self-proclaimed survival novices are guided through a series of choose-your-own-adventure survival scenarios taking from the frozen wilderness of Lapland to the Australian Outback. The duo will “make […]",
+        "fa": "انحصاری: بازیگران بریتانیایی، کمدین ها و دوستان گوز خان و کیل اسمیت-باینو توسط Audible برای پادکست Guz و Kiell Will Not Survive تنظیم شده اند. در طول شش قسمت، تازه‌کاران بقا که خود را معرفی می‌کنند، از طریق مجموعه‌ای از سناریوهای بقای ماجراجویی انتخاب می‌شوند که از بیابان یخ‌زده لاپلند به مناطق دورافتاده استرالیا می‌روند. دوتایی «ساخت"
       },
       "content": {
-        "en": "Gallery Books, a division of Simon & Schuster, has set a September 29 publication date for Behind the Castle Walls: My Thirty Years at the Happiest Place on Earth by Bob Chapek, the short-tenured former CEO of Disney. The memoir chronicles Chapek’s 30-year tenure at the company and “the high-stakes maneuverings that unraveled behind the scenes” from […]",
-        "fa": "گالری بوکز، بخشی از Simon & Schuster، تاریخ انتشار 29 سپتامبر را برای پشت دیوارهای قلعه: سی سال من در شادترین مکان روی زمین توسط باب چاپک، مدیرعامل سابق دیزنی تعیین کرده است. خاطرات 30 سال تصدی چاپک در شرکت و \"مانورهای پرمخاطره ای که در پشت صحنه آشکار شد\" را شرح می دهد."
+        "en": "EXCLUSIVE: Brit actors, comedians and pals Guz Khan and Kiell Smith-Bynoe have been set by Audible for podcast Guz and Kiell Will Not Survive. Across six episodes, the self-proclaimed survival novices are guided through a series of choose-your-own-adventure survival scenarios taking from the frozen wilderness of Lapland to the Australian Outback. The duo will “make […]",
+        "fa": "انحصاری: بازیگران بریتانیایی، کمدین ها و دوستان گوز خان و کیل اسمیت-باینو توسط Audible برای پادکست Guz و Kiell Will Not Survive تنظیم شده اند. در طول شش قسمت، تازه‌کاران بقا که خود را معرفی می‌کنند، از طریق مجموعه‌ای از سناریوهای بقای ماجراجویی انتخاب می‌شوند که از بیابان یخ‌زده لاپلند به مناطق دورافتاده استرالیا می‌روند. دوتایی «ساخت"
       },
       "source": {
         "en": "Deadline",
         "fa": "Deadline"
       },
-      "link": "https://deadline.com/2026/08/former-disney-ceo-bob-chapek-memoir-fall-release-date-1237032448/",
-      "date": "2026-08-13T08:12:19.396813+00:00",
-      "image": "https://deadline.com/wp-content/uploads/2026/08/bob-chapek-behind-the-castle-walls-disney.jpg",
+      "link": "https://deadline.com/2026/08/guz-khan-kiell-smith-bynoe-audible-comedy-podcast-1237032685/",
+      "date": "2026-08-13T09:54:26.665784+00:00",
+      "image": "https://deadline.com/wp-content/uploads/2026/08/MixCollage-13-Aug-2026-09-46-AM-9749.jpg",
       "important": false,
-      "score": 1
+      "score": 3
     },
     {
       "id": "1f1d2002c868",
@@ -333,7 +333,7 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/bob-iger-los-angeles-lakers-owner-disney-magic-1237032412/",
-      "date": "2026-08-13T08:12:19.395323+00:00",
+      "date": "2026-08-13T09:54:26.667950+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/Iger-NBA.jpg",
       "important": false,
       "score": 1
@@ -357,7 +357,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/criticism/movies/coyote-vs-acme-review-looney-tunes-live-action-comedy-1235209439/",
-      "date": "2026-08-13T08:12:19.404653+00:00",
+      "date": "2026-08-13T09:54:26.677830+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2024/02/Coyote-vs-Acme.webp?w=650",
       "important": false,
       "score": 0
@@ -381,7 +381,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/features/commentary/worst-disney-direct-to-video-sequels-1235209538/",
-      "date": "2026-08-13T08:12:19.404287+00:00",
+      "date": "2026-08-13T09:54:26.677382+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/MSDLIME_WD011-1.jpg?w=650",
       "important": false,
       "score": 0
@@ -405,7 +405,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/features/interviews/anders-danielsen-lie-interview-making-oslo-august-31st-1235209755/",
-      "date": "2026-08-13T08:12:19.403862+00:00",
+      "date": "2026-08-13T09:54:26.676847+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/SEQUELS-WEEK-OSLO-31.png?w=650",
       "important": false,
       "score": 0
@@ -429,7 +429,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/news/festivals/sundance-2026-movies-sold-so-far-1235174095/",
-      "date": "2026-08-13T08:12:19.403683+00:00",
+      "date": "2026-08-13T09:54:26.676639+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/01/Closure.jpg?w=650",
       "important": false,
       "score": 0
@@ -453,8 +453,32 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/features/interviews/nimrods-green-day-movie-billie-joe-armstrong-interview-1235209998/",
-      "date": "2026-08-13T08:12:19.403530+00:00",
+      "date": "2026-08-13T09:54:26.676447+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/IMG_4350.jpeg?w=594",
+      "important": false,
+      "score": 0
+    },
+    {
+      "id": "483e0936e914",
+      "title": {
+        "en": "DGA, IATSE Urge Paramount Lawsuit Settlement on Condition of Separate Studios, 45-Day Windows",
+        "fa": "DGA، IATSE خواستار حل و فصل دعوای پارامونت در شرایط استودیوهای جداگانه، ویندوز 45 روزه هستند."
+      },
+      "excerpt": {
+        "en": "A joint letter from the unions urge California AG Rob Bonta to settle his lawsuit to preserve a “vibrant, competitive marketplace” The post DGA, IATSE Urge Paramount Lawsuit Settlement on Condition of Separate Studios, 45-Day Windows appeared first on TheWrap .",
+        "fa": "نامه مشترک اتحادیه ها از شرکت کالیفرنیا راب بونتا خواسته است که دعوی خود را برای حفظ یک \"بازار پر جنب و جوش و رقابتی\" حل و فصل کند."
+      },
+      "content": {
+        "en": "A joint letter from the unions urge California AG Rob Bonta to settle his lawsuit to preserve a “vibrant, competitive marketplace” The post DGA, IATSE Urge Paramount Lawsuit Settlement on Condition of Separate Studios, 45-Day Windows appeared first on TheWrap .",
+        "fa": "نامه مشترک اتحادیه ها از شرکت کالیفرنیا راب بونتا خواسته است که دعوی خود را برای حفظ یک \"بازار پر جنب و جوش و رقابتی\" حل و فصل کند."
+      },
+      "source": {
+        "en": "The Wrap",
+        "fa": "The Wrap"
+      },
+      "link": "https://www.thewrap.com/industry-news/deals-ma/dga-iatse-support-paramount-warner-merger-conditions/",
+      "date": "2026-08-13T09:54:26.675086+00:00",
+      "image": "https://www.thewrap.com/wp-content/uploads/2026/08/David-Ellison-Vegas.jpg",
       "important": false,
       "score": 0
     },
@@ -477,32 +501,8 @@
         "fa": "The Wrap"
       },
       "link": "https://www.thewrap.com/creative-content/tv-shows/actress-nurse-jennifer-stone-reveals-the-pitt-audition/",
-      "date": "2026-08-13T08:12:19.401078+00:00",
+      "date": "2026-08-13T09:54:26.673599+00:00",
       "image": "https://www.thewrap.com/wp-content/uploads/2026/08/Untitled-design-2026-08-12T214417.740.jpg",
-      "important": false,
-      "score": 0
-    },
-    {
-      "id": "fe26b4ee7a5c",
-      "title": {
-        "en": "From ‘Summer House’ to ‘Love Island’: Bravo, Peacock’s Frances Berwick Says Unscripted Is Finally Getting Some Respect",
-        "fa": "از «خانه تابستانی» تا «جزیره عشق»: براوو، فرانسیس برویک از طاووس می‌گوید که فیلمنامه‌نداشتن آن بالاخره کمی احترام می‌گیرد"
-      },
-      "excerpt": {
-        "en": "“For a long while it was considered either substandard, or that you couldn't be premium and unscripted,” says Berwick of the genre.",
-        "fa": "برویک درباره این ژانر می گوید: «برای مدت طولانی یا غیراستاندارد در نظر گرفته می شد، یا اینکه نمی توانستید ممتاز و بدون فیلمنامه باشید."
-      },
-      "content": {
-        "en": "“For a long while it was considered either substandard, or that you couldn't be premium and unscripted,” says Berwick of the genre.",
-        "fa": "برویک درباره این ژانر می گوید: «برای مدت طولانی یا غیراستاندارد در نظر گرفته می شد، یا اینکه نمی توانستید ممتاز و بدون فیلمنامه باشید."
-      },
-      "source": {
-        "en": "The Hollywood Reporter",
-        "fa": "The Hollywood Reporter"
-      },
-      "link": "https://www.hollywoodreporter.com/tv/tv-features/from-summer-house-to-love-island-bravo-1236672432/",
-      "date": "2026-08-13T08:12:19.400888+00:00",
-      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/Summer-House-Love-Island-Traitors-Split-Main-2026.jpg?w=1296&#038;h=730&#038;crop=1",
       "important": false,
       "score": 0
     },
@@ -525,7 +525,7 @@
         "fa": "The Hollywood Reporter"
       },
       "link": "https://www.hollywoodreporter.com/movies/movie-news/viral-hand-drawn-spider-man-brand-new-day-poster-artist-speaks-1236672446/",
-      "date": "2026-08-13T08:12:19.400694+00:00",
+      "date": "2026-08-13T09:54:26.673371+00:00",
       "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/Spider-Man-poster-split-Columbia-H-2026.jpg?w=1296&#038;h=730&#038;crop=1",
       "important": false,
       "score": 0
@@ -549,32 +549,32 @@
         "fa": "The Hollywood Reporter"
       },
       "link": "https://www.hollywoodreporter.com/movies/movie-news/matrix-lilly-wachowski-hollywood-wont-finance-film-trans-cast-1236672782/",
-      "date": "2026-08-13T08:12:19.399615+00:00",
+      "date": "2026-08-13T09:54:26.672096+00:00",
       "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/Lilly-Wachowski-getty-H-2026.png?w=1296&#038;h=730&#038;crop=1",
       "important": false,
       "score": 0
     },
     {
-      "id": "6ada8b936802",
+      "id": "94130a821bff",
       "title": {
-        "en": "DGA and IATSE Push Rob Bonta to Allow Paramount-Warner Bros. Merger With Conditions",
-        "fa": "DGA و IATSE راب بونتا را برای ادغام پارامونت-وارنر برادران با شرایط تحت فشار قرار می دهند."
+        "en": "Busan’s Asian Contents & Film Market Names Japan 2026 Focus Country for Producer Hub",
+        "fa": "محتوای آسیایی و بازار فیلم بوسان، ژاپن 2026 را کشور متمرکز برای مرکز تهیه کننده نامگذاری کرد"
       },
       "excerpt": {
-        "en": "The Directors Guild of America and IATSE are urging California Attorney General Rob Bonta to settle his antitrust lawsuit with Paramount, arguing that prolonged uncertainty over the Warner Bros. Discovery merger is bad for the industry. The two unions wrote a letter to Bonta and Paramount Skydance CEO David Ellison on Wednesday, urging the two […]",
-        "fa": "انجمن کارگردانان آمریکا و IATSE از راب بونتا، دادستان کل کالیفرنیا می خواهند که شکایت ضدانحصاری خود را با پارامونت حل و فصل کند، با این استدلال که عدم اطمینان طولانی در مورد ادغام برادران وارنر برای این صنعت بد است. این دو اتحادیه روز چهارشنبه نامه‌ای به دیوید الیسون، مدیرعامل پارامونت اسکای‌دنس نوشتند و از آن دو خواستند."
+        "en": "The Asian Contents & Film Market (ACFM) has selected Japan as the 2026 Focus Country for its Producer Hub, a co-production networking platform tied to the Busan International Film Festival. Japan will send 10 producers to Busan in October for project pitching, speed meetings and case-study sessions. Now in its third year, Producer Hub gives […]",
+        "fa": "بازار محتوا و فیلم آسیایی ژاپن را به عنوان کشور کانونی سال 2026 برای مرکز تولید خود انتخاب کرده است، یک پلتفرم شبکه تولید مشترک که با جشنواره بین المللی فیلم بوسان مرتبط است. ژاپن 10 تولید کننده را در ماه اکتبر برای طرح پروژه، جلسات سرعت و جلسات مطالعه موردی به بوسان می فرستد. اکنون در سومین سال، Producer Hub ارائه می دهد"
       },
       "content": {
-        "en": "The Directors Guild of America and IATSE are urging California Attorney General Rob Bonta to settle his antitrust lawsuit with Paramount, arguing that prolonged uncertainty over the Warner Bros. Discovery merger is bad for the industry. The two unions wrote a letter to Bonta and Paramount Skydance CEO David Ellison on Wednesday, urging the two […]",
-        "fa": "انجمن کارگردانان آمریکا و IATSE از راب بونتا، دادستان کل کالیفرنیا می خواهند که شکایت ضدانحصاری خود را با پارامونت حل و فصل کند، با این استدلال که عدم اطمینان طولانی در مورد ادغام برادران وارنر برای این صنعت بد است. این دو اتحادیه روز چهارشنبه نامه‌ای به دیوید الیسون، مدیرعامل پارامونت اسکای‌دنس نوشتند و از آن دو خواستند."
+        "en": "The Asian Contents & Film Market (ACFM) has selected Japan as the 2026 Focus Country for its Producer Hub, a co-production networking platform tied to the Busan International Film Festival. Japan will send 10 producers to Busan in October for project pitching, speed meetings and case-study sessions. Now in its third year, Producer Hub gives […]",
+        "fa": "بازار محتوا و فیلم آسیایی ژاپن را به عنوان کشور کانونی سال 2026 برای مرکز تولید خود انتخاب کرده است، یک پلتفرم شبکه تولید مشترک که با جشنواره بین المللی فیلم بوسان مرتبط است. ژاپن 10 تولید کننده را در ماه اکتبر برای طرح پروژه، جلسات سرعت و جلسات مطالعه موردی به بوسان می فرستد. اکنون در سومین سال، Producer Hub ارائه می دهد"
       },
       "source": {
         "en": "Variety",
         "fa": "Variety"
       },
-      "link": "https://variety.com/2026/film/news/dga-iatse-rob-bonta-paramount-settle-warner-bros-merger-1236833456/",
-      "date": "2026-08-13T08:12:19.399348+00:00",
-      "image": "https://variety.com/wp-content/uploads/2026/02/Paramount-Warner-Bros-Water-Towers.jpg",
+      "link": "https://variety.com/2026/film/markets-festivals/busan-acfm-japan-2026-focus-country-producer-hub-1236833558/",
+      "date": "2026-08-13T09:54:26.670410+00:00",
+      "image": "https://variety.com/wp-content/uploads/2026/08/Busan-ACFM-poster.jpg",
       "important": false,
       "score": 0
     }
