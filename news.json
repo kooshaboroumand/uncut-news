@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-13T16:45:49.918728+00:00",
+  "updated_at": "2026-08-13T17:50:59.644696+00:00",
   "count": 24,
   "news": [
     {
@@ -21,8 +21,32 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/keanu-reeves-motorcycle-series-hooligans-renewed-samsung-tv-plus-1237032897/",
-      "date": "2026-08-13T16:45:49.638668+00:00",
+      "date": "2026-08-13T17:50:59.297764+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/Hooligans-Ep106_Pic03.jpg",
+      "important": true,
+      "score": 9
+    },
+    {
+      "id": "2be7125694f3",
+      "title": {
+        "en": "‘Task’ Adds Stephanie Sigman, Alaíde, Rocío Guzmán & Regina Nava To Season 2 Cast",
+        "fa": "«Task» استفانی سیگمن، آلاید، روسیو گوزمان و رجینا ناوا را به بازیگران فصل دوم اضافه می‌کند."
+      },
+      "excerpt": {
+        "en": "EXCLUSIVE: HBO’s Task is rounding out its cast for Season 2, adding Stephanie Sigman (Nemesis), Alaíde (Rebelde), Rocío Guzmán (Down the Rabbit Hole) and Regina Nava (Blood Pact) in recurring roles. Based on an original idea by Brad Ingelsby, Task is set in the working-class suburbs outside of Philadelphia. An FBI agent heads a Task Force to […]",
+        "fa": "اختصاصی: HBO’s Task در حال تکمیل بازیگران خود برای فصل دوم است و استفانی سیگمن، آلاید، روسیو گوزمان و رجینا ناوا را در نقش‌های تکراری اضافه می‌کند. فیلم Task بر اساس ایده اصلی برد اینگلزبی در حومه‌های طبقه کارگر خارج از فیلادلفیا می‌گذرد. یک مامور FBI یک گروه ویژه را رهبری می کند"
+      },
+      "content": {
+        "en": "EXCLUSIVE: HBO’s Task is rounding out its cast for Season 2, adding Stephanie Sigman (Nemesis), Alaíde (Rebelde), Rocío Guzmán (Down the Rabbit Hole) and Regina Nava (Blood Pact) in recurring roles. Based on an original idea by Brad Ingelsby, Task is set in the working-class suburbs outside of Philadelphia. An FBI agent heads a Task Force to […]",
+        "fa": "اختصاصی: HBO’s Task در حال تکمیل بازیگران خود برای فصل دوم است و استفانی سیگمن، آلاید، روسیو گوزمان و رجینا ناوا را در نقش‌های تکراری اضافه می‌کند. فیلم Task بر اساس ایده اصلی برد اینگلزبی در حومه‌های طبقه کارگر خارج از فیلادلفیا می‌گذرد. یک مامور FBI یک گروه ویژه را رهبری می کند"
+      },
+      "source": {
+        "en": "Deadline",
+        "fa": "Deadline"
+      },
+      "link": "https://deadline.com/2026/08/task-season-2-cast-stephanie-sigman-hbo-1237032556/",
+      "date": "2026-08-13T17:50:59.296771+00:00",
+      "image": "https://deadline.com/wp-content/uploads/2026/08/Stephanie-Sigman-Alaide-Rocio-Guzman-Regina-nava.jpg",
       "important": true,
       "score": 9
     },
@@ -45,106 +69,130 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/news/trailers/sara-bareilles-good-grief-trailer-1235210259/",
-      "date": "2026-08-13T16:45:49.645818+00:00",
+      "date": "2026-08-13T17:50:59.305260+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/image.png?w=650",
       "important": true,
       "score": 7
     },
     {
-      "id": "a3ce95a5d1f9",
+      "id": "9b9426859593",
       "title": {
-        "en": "Evan Ross Katz to Host Live Podcast With Netflix YA Talent as Streamer Goes All In on the Genre (Exclusive)",
-        "fa": "ایوان راس کاتز میزبان پادکست زنده با Netflix YA Talent به عنوان Streamer Goes All In ژانر است"
+        "en": "Comedian Sebastian Maniscalco Launching New SiriusXM Interview Show With Guests Including Jerry Seinfeld and Ray Romano (EXCLUSIVE)",
+        "fa": "کمدین سباستین مانیسکالکو در حال راه اندازی برنامه مصاحبه جدید SiriusXM با مهمانانی از جمله جری سینفلد و ری رومانو"
       },
       "excerpt": {
-        "en": "Maitreyi Ramakrishnan, Anna Cathcart, Nikki Rodriguez, Miku Martineau and Kristina Bogic will take part in the 'Shut Up Evan: The Group Chat' episode.",
-        "fa": "مایتری راماکریشنان، آنا کاتکارت، نیکی رودریگز، میکو مارتینو و کریستینا بوگیچ در قسمت \"خفه شو ایوان: گپ گروهی\" شرکت خواهند کرد."
+        "en": "Sebastian Maniscalco is hosting a new monthly series on SiriusXM, “We Got Company,” in which the veteran stand-up comedian and actor will sit down for extended one-on-one conversations with notable guests. The series premieres on SiriusXM on Aug. 20 with Jerry Seinfeld. Upcoming guests including actor and comedian Ray Romano, celebrity chefs and restaurateurs Mario […]",
+        "fa": "سباستین مانیسکالکو میزبان یک سریال ماهانه جدید در SiriusXM به نام \"We Got Company\" است که در آن این استندآپ کمدین و بازیگر کهنه کار با مهمانان سرشناس گفتگوهای تک به تک گسترده ای می نشیند. این سریال در SiriusXM در 20 آگوست با جری ساینفلد نمایش داده می شود. مهمانان آینده از جمله بازیگر و کمدین ری رومانو، سرآشپزهای مشهور و رستوران داران ماریو"
       },
       "content": {
-        "en": "Maitreyi Ramakrishnan, Anna Cathcart, Nikki Rodriguez, Miku Martineau and Kristina Bogic will take part in the 'Shut Up Evan: The Group Chat' episode.",
-        "fa": "مایتری راماکریشنان، آنا کاتکارت، نیکی رودریگز، میکو مارتینو و کریستینا بوگیچ در قسمت \"خفه شو ایوان: گپ گروهی\" شرکت خواهند کرد."
+        "en": "Sebastian Maniscalco is hosting a new monthly series on SiriusXM, “We Got Company,” in which the veteran stand-up comedian and actor will sit down for extended one-on-one conversations with notable guests. The series premieres on SiriusXM on Aug. 20 with Jerry Seinfeld. Upcoming guests including actor and comedian Ray Romano, celebrity chefs and restaurateurs Mario […]",
+        "fa": "سباستین مانیسکالکو میزبان یک سریال ماهانه جدید در SiriusXM به نام \"We Got Company\" است که در آن این استندآپ کمدین و بازیگر کهنه کار با مهمانان سرشناس گفتگوهای تک به تک گسترده ای می نشیند. این سریال در SiriusXM در 20 آگوست با جری ساینفلد نمایش داده می شود. مهمانان آینده از جمله بازیگر و کمدین ری رومانو، سرآشپزهای مشهور و رستوران داران ماریو"
       },
       "source": {
-        "en": "The Hollywood Reporter",
-        "fa": "The Hollywood Reporter"
+        "en": "Variety",
+        "fa": "Variety"
       },
-      "link": "https://www.hollywoodreporter.com/tv/tv-news/netflix-ya-podcast-taping-1236672938/",
-      "date": "2026-08-13T16:45:49.644235+00:00",
-      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/04/GettyImages-2211883433-e1786637823835.jpg?crop=0px%2C673px%2C2596px%2C1452px&#038;resize=1440%2C810",
+      "link": "https://variety.com/2026/digital/news/sebastian-maniscalco-we-got-company-siriusxm-jerry-seinfeld-ray-romano-1236831348/",
+      "date": "2026-08-13T17:50:59.298996+00:00",
+      "image": "https://variety.com/wp-content/uploads/2026/08/Sebastian-Maniscalco-1.jpg",
       "important": true,
       "score": 6
     },
     {
-      "id": "9c5286033294",
+      "id": "897e833880a8",
       "title": {
-        "en": "Netflix Heads To Arizona For Latest Reality Series",
-        "fa": "نتفلیکس برای آخرین سریال های واقعیت به آریزونا می رود"
+        "en": "Matthew McConaughey Turned Down Playing Joel in HBO’s ‘Last of Us’ Even Though It Was ‘Really Good’: ‘It Wasn’t for Me at the Time’",
+        "fa": "متیو مک کانهی بازی در نقش جوئل را در سریال «آخرین ما» شبکه HBO با وجود اینکه «واقعاً خوب» بود، رد کرد: «در آن زمان برای من نبود»"
       },
       "excerpt": {
-        "en": "EXCLUSIVE: Salt Lake City, Orange County and Calabasas have all become havens for reality television in the last few years. Next up? Arizona. Deadline understands that Netflix has greenlit Arizona Hot (w/t), its latest ensemble reality series. The series follows a friend group of ambitious twenty-somethings fresh out of college as they navigate careers, friendships, romances, […]",
-        "fa": "اختصاصی: سالت لیک سیتی، اورنج کانتی و کالاباساس در چند سال اخیر به بهشتی برای تلویزیون های واقعیت تبدیل شده اند. بعدی؟ آریزونا ددلاین می‌داند که نت‌فلیکس، آریزونا هات، آخرین مجموعه‌ی واقعیت مجموعه‌اش، را با نور سبز روشن کرده است. این سریال یک گروه دوستان بلندپرواز بیست و چند ساله را دنبال می‌کند که تازه از دانشگاه فارغ‌التحصیل شده‌اند و در مسیر شغلی، دوستی‌ها، عاشقانه‌ها،"
+        "en": "Matthew McConaughey joined the HBO Hall of Fame with his Emmy-nominated lead role on the first season of “True Detective,” and he nearly landed another major part in the network’s video game adaptation of “The Last of Us.” However, he turned down playing the main character Joel, explaining that “it wasn’t for me at the […]",
+        "fa": "متیو مک‌کانهی با نقش اصلی نامزد جایزه امی در فصل اول سریال True Detective به تالار مشاهیر HBO پیوست و تقریباً نقش مهمی در اقتباس از بازی‌های ویدیویی شبکه «آخرین ما» داشت. با این حال، او بازی در نقش شخصیت اصلی جوئل را رد کرد و توضیح داد که «این برای من نبود"
       },
       "content": {
-        "en": "EXCLUSIVE: Salt Lake City, Orange County and Calabasas have all become havens for reality television in the last few years. Next up? Arizona. Deadline understands that Netflix has greenlit Arizona Hot (w/t), its latest ensemble reality series. The series follows a friend group of ambitious twenty-somethings fresh out of college as they navigate careers, friendships, romances, […]",
-        "fa": "اختصاصی: سالت لیک سیتی، اورنج کانتی و کالاباساس در چند سال اخیر به بهشتی برای تلویزیون های واقعیت تبدیل شده اند. بعدی؟ آریزونا ددلاین می‌داند که نت‌فلیکس، آریزونا هات، آخرین مجموعه‌ی واقعیت مجموعه‌اش، را با نور سبز روشن کرده است. این سریال یک گروه دوستان بلندپرواز بیست و چند ساله را دنبال می‌کند که تازه از دانشگاه فارغ‌التحصیل شده‌اند و در مسیر شغلی، دوستی‌ها، عاشقانه‌ها،"
+        "en": "Matthew McConaughey joined the HBO Hall of Fame with his Emmy-nominated lead role on the first season of “True Detective,” and he nearly landed another major part in the network’s video game adaptation of “The Last of Us.” However, he turned down playing the main character Joel, explaining that “it wasn’t for me at the […]",
+        "fa": "متیو مک‌کانهی با نقش اصلی نامزد جایزه امی در فصل اول سریال True Detective به تالار مشاهیر HBO پیوست و تقریباً نقش مهمی در اقتباس از بازی‌های ویدیویی شبکه «آخرین ما» داشت. با این حال، او بازی در نقش شخصیت اصلی جوئل را رد کرد و توضیح داد که «این برای من نبود"
+      },
+      "source": {
+        "en": "Variety",
+        "fa": "Variety"
+      },
+      "link": "https://variety.com/2026/tv/news/matthew-mcconaughey-last-of-us-hbo-joel-1236833955/",
+      "date": "2026-08-13T17:50:59.298532+00:00",
+      "image": "https://variety.com/wp-content/uploads/2026/08/2-split-final.jpg",
+      "important": true,
+      "score": 6
+    },
+    {
+      "id": "c05a438bb6e0",
+      "title": {
+        "en": "Emilia Jones To Lead The Cast Of Netflix Series ‘The Retrievals’ From Molly Smith Metzler",
+        "fa": "امیلیا جونز بازیگران سریال The Retrievals نتفلیکس از مولی اسمیت متزلر را رهبری خواهد کرد."
+      },
+      "excerpt": {
+        "en": "EXCLUSIVE: Emilia Jones (Bad Bridgets, Task) is set to headline The Retrievals, the latest series from Emmy-nominated Maid and Sirens creator/executive producer Molly Smith Metzer. Inspired by the Peabody-winning NYT podcast by Susan Burton, The Retrievals follows an unlikely community of IVF patients who come together to crusade against Yale University after they are operated […]",
+        "fa": "انحصاری: امیلیا جونز قرار است عنوان The Retrievals، آخرین سریال از خدمتکار نامزد جایزه امی و خالق/تهیه کننده اجرایی Sirens، مالی اسمیت متزر باشد. The Retrievals با الهام از پادکست برنده پیبادی NYT توسط سوزان برتون، جامعه غیرمحتملی از بیماران IVF را دنبال می کند که پس از عمل، برای جنگ علیه دانشگاه ییل گرد هم می آیند."
+      },
+      "content": {
+        "en": "EXCLUSIVE: Emilia Jones (Bad Bridgets, Task) is set to headline The Retrievals, the latest series from Emmy-nominated Maid and Sirens creator/executive producer Molly Smith Metzer. Inspired by the Peabody-winning NYT podcast by Susan Burton, The Retrievals follows an unlikely community of IVF patients who come together to crusade against Yale University after they are operated […]",
+        "fa": "انحصاری: امیلیا جونز قرار است عنوان The Retrievals، آخرین سریال از خدمتکار نامزد جایزه امی و خالق/تهیه کننده اجرایی Sirens، مالی اسمیت متزر باشد. The Retrievals با الهام از پادکست برنده پیبادی NYT توسط سوزان برتون، جامعه غیرمحتملی از بیماران IVF را دنبال می کند که پس از عمل، برای جنگ علیه دانشگاه ییل گرد هم می آیند."
       },
       "source": {
         "en": "Deadline",
         "fa": "Deadline"
       },
-      "link": "https://deadline.com/2026/08/netflix-arizona-hot-reality-series-1237032133/",
-      "date": "2026-08-13T16:45:49.639502+00:00",
-      "image": "https://deadline.com/wp-content/uploads/2026/08/GettyImages-2155828769.jpg",
+      "link": "https://deadline.com/2026/08/emilia-jones-star-the-retrievals-molly-smith-metzler-1237032854/",
+      "date": "2026-08-13T17:50:59.296287+00:00",
+      "image": "https://deadline.com/wp-content/uploads/2026/08/the-retrievals-emilia-jones-netflix.jpg",
       "important": true,
       "score": 6
     },
     {
-      "id": "fdc0a83aca52",
+      "id": "11a302d73b0c",
       "title": {
-        "en": "‘First They Came For My College,’ Film About Ron DeSantis-Led “Hostile Takeover” Of Florida School, Announces Theatrical Run",
-        "fa": "فیلم «اول برای کالج من آمدند» درباره «تسخیر خصمانه» مدرسه فلوریدا به رهبری ران دیسانتیس، اجرای تئاتر را اعلام کرد"
+        "en": "How Filmhub is Investing in the Creator Economy Through New Deal With UnderCurrent (EXCLUSIVE)",
+        "fa": "چگونه Filmhub از طریق New Deal با UnderCurrent در اقتصاد سازنده سرمایه گذاری می کند"
       },
       "excerpt": {
-        "en": "EXCLUSIVE: Fourth Act Films has set the theatrical release for First They Came for My College, a documentary about a right-wing “coup” at a Florida liberal arts school orchestrated by Republican Gov. Ron DeSantis. The film directed and produced by Patrick Bresnan will open Sept. 17 at the Hippodrome in Gainesville, FL and on Sept. […]",
-        "fa": "انحصاری: فیلم Fourth Act Films برای اولین بار برای کالج من آمدند، مستندی درباره یک \"کودتا\" جناح راست در یک مدرسه هنرهای لیبرال فلوریدا که توسط فرماندار جمهوری خواه ران دیسانتیس تنظیم شده بود، اکران شد. این فیلم به کارگردانی و تهیه کنندگی پاتریک برسنان از 17 سپتامبر در هیپودروم در Gainesville، فلوریدا و در سپتامبر اکران خواهد شد."
+        "en": "As part of the global distribution and sales company’s investment in the creator economy, Filmhub has inked a partnership with talent management company UnderCurrent. Filmhub’s goal with the partnership is to help digital creators expand their distribution reach — whether that’s by licensing their content to VOD platforms or helping them negotiate original film and […]",
+        "fa": "به عنوان بخشی از سرمایه گذاری شرکت توزیع و فروش جهانی در اقتصاد خلاق، Filmhub با شرکت مدیریت استعداد UnderCurrent همکاری کرده است. هدف Filmhub با مشارکت این است که به سازندگان دیجیتال کمک کند تا دامنه توزیع خود را گسترش دهند - چه از طریق صدور مجوز محتوای آنها برای پلت فرم های VOD یا کمک به آنها در مذاکره با فیلم اصلی و"
       },
       "content": {
-        "en": "EXCLUSIVE: Fourth Act Films has set the theatrical release for First They Came for My College, a documentary about a right-wing “coup” at a Florida liberal arts school orchestrated by Republican Gov. Ron DeSantis. The film directed and produced by Patrick Bresnan will open Sept. 17 at the Hippodrome in Gainesville, FL and on Sept. […]",
-        "fa": "انحصاری: فیلم Fourth Act Films برای اولین بار برای کالج من آمدند، مستندی درباره یک \"کودتا\" جناح راست در یک مدرسه هنرهای لیبرال فلوریدا که توسط فرماندار جمهوری خواه ران دیسانتیس تنظیم شده بود، اکران شد. این فیلم به کارگردانی و تهیه کنندگی پاتریک برسنان از 17 سپتامبر در هیپودروم در Gainesville، فلوریدا و در سپتامبر اکران خواهد شد."
+        "en": "As part of the global distribution and sales company’s investment in the creator economy, Filmhub has inked a partnership with talent management company UnderCurrent. Filmhub’s goal with the partnership is to help digital creators expand their distribution reach — whether that’s by licensing their content to VOD platforms or helping them negotiate original film and […]",
+        "fa": "به عنوان بخشی از سرمایه گذاری شرکت توزیع و فروش جهانی در اقتصاد خلاق، Filmhub با شرکت مدیریت استعداد UnderCurrent همکاری کرده است. هدف Filmhub با مشارکت این است که به سازندگان دیجیتال کمک کند تا دامنه توزیع خود را گسترش دهند - چه از طریق صدور مجوز محتوای آنها برای پلت فرم های VOD یا کمک به آنها در مذاکره با فیلم اصلی و"
       },
       "source": {
-        "en": "Deadline",
-        "fa": "Deadline"
+        "en": "Variety",
+        "fa": "Variety"
       },
-      "link": "https://deadline.com/2026/08/first-they-came-for-my-college-theatrical-release-1237032770/",
-      "date": "2026-08-13T16:45:49.640016+00:00",
-      "image": "https://deadline.com/wp-content/uploads/2026/08/First-They-Came-For-My-College.png",
+      "link": "https://variety.com/2026/digital/news/filmhub-undercurrent-deal-kelsi-davies-jimmy-here-1236833214/",
+      "date": "2026-08-13T17:50:59.298867+00:00",
+      "image": "https://variety.com/wp-content/uploads/2026/08/Alan-Filmhub.jpg",
       "important": true,
       "score": 4
     },
     {
-      "id": "b44ba2add151",
+      "id": "f83268b1c6c4",
       "title": {
-        "en": "With ‘Charlie and the Chocolate Factory,’ Netflix Has Just Scheduled Its Third Theatrical Release in the Span of 12 Months",
-        "fa": "نتفلیکس با «چارلی و کارخانه شکلات سازی» سومین اکران خود را در عرض 12 ماه برنامه ریزی کرده است."
+        "en": "‘Traces Of Home’ Trailer: Award-Winning Film From EPs Melissa Barrera And John Leguizamo Tells Story Of Love And Forced Displacement",
+        "fa": "تریلر Traces Of Home: فیلم برنده جایزه از EP های Melissa Barrera و John Leguizamo Story Of Love And Forced Displacement"
       },
       "excerpt": {
-        "en": "But it's really still not changing its theatrical strategy.",
-        "fa": "اما واقعاً هنوز استراتژی تئاتری خود را تغییر نداده است."
+        "en": "EXCLUSIVE: Traces of Home, the award-winning documentary debut of filmmaker Colette Ghunim, has set its U.S. theatrical release. The film from Watermelon Pictures, executive produced by Melissa Barrera and John Leguizamo, will open September 18 at Angelika Film Center in New York City (a special preview screening will take place there on Sept. 16, followed […]",
+        "fa": "اختصاصی: Traces of Home، اولین مستند برنده جایزه فیلمساز کولت گونیم، اکران خود را در سینماهای ایالات متحده آغاز کرد. این فیلم از هندوانه پیکچرز، تهیه‌کننده اجرایی ملیسا بارارا و جان لگوئیزامو، از 18 سپتامبر در مرکز فیلم آنجلیکا در شهر نیویورک اکران می‌شود (نمایش ویژه پیش‌نمایش آن در 16 سپتامبر در آنجا برگزار می‌شود و پس از آن در آنجا نمایش داده می‌شود."
       },
       "content": {
-        "en": "But it's really still not changing its theatrical strategy.",
-        "fa": "اما واقعاً هنوز استراتژی تئاتری خود را تغییر نداده است."
+        "en": "EXCLUSIVE: Traces of Home, the award-winning documentary debut of filmmaker Colette Ghunim, has set its U.S. theatrical release. The film from Watermelon Pictures, executive produced by Melissa Barrera and John Leguizamo, will open September 18 at Angelika Film Center in New York City (a special preview screening will take place there on Sept. 16, followed […]",
+        "fa": "اختصاصی: Traces of Home، اولین مستند برنده جایزه فیلمساز کولت گونیم، اکران خود را در سینماهای ایالات متحده آغاز کرد. این فیلم از هندوانه پیکچرز، تهیه‌کننده اجرایی ملیسا بارارا و جان لگوئیزامو، از 18 سپتامبر در مرکز فیلم آنجلیکا در شهر نیویورک اکران می‌شود (نمایش ویژه پیش‌نمایش آن در 16 سپتامبر در آنجا برگزار می‌شود و پس از آن در آنجا نمایش داده می‌شود."
       },
       "source": {
-        "en": "IndieWire",
-        "fa": "IndieWire"
+        "en": "Deadline",
+        "fa": "Deadline"
       },
-      "link": "https://www.indiewire.com/news/breaking-news/charlie-and-the-chocolate-factory-netflix-theaters-1235210208/",
-      "date": "2026-08-13T16:45:49.647320+00:00",
-      "image": "https://www.indiewire.com/wp-content/uploads/2022/05/Willy-Wonka.jpg?w=650",
-      "important": false,
-      "score": 3
+      "link": "https://deadline.com/2026/08/traces-of-home-trailer-exclusive-1237032746/",
+      "date": "2026-08-13T17:50:59.296918+00:00",
+      "image": "https://deadline.com/wp-content/uploads/2026/08/TRACESOFHOME_STILL1_COURTESYOFWATERMELONPICTURES.jpg",
+      "important": true,
+      "score": 4
     },
     {
       "id": "0ac9527d8064",
@@ -165,7 +213,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/features/craft/michael-bauman-cinematography-ed-gein-story-ryan-murphy-1235208535/",
-      "date": "2026-08-13T16:45:49.646358+00:00",
+      "date": "2026-08-13T17:50:59.305840+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/TCDMONS_ZX063-1.jpg?w=650",
       "important": false,
       "score": 3
@@ -189,128 +237,80 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/features/interviews/lanterns-kyle-chandler-aaron-pierre-interview-1235210265/",
-      "date": "2026-08-13T16:45:49.646020+00:00",
+      "date": "2026-08-13T17:50:59.305476+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/aaron-pierre-kyle-chandler-1.jpg?w=650",
       "important": false,
       "score": 3
     },
     {
-      "id": "99b04f3116d7",
+      "id": "2c5fa885f961",
       "title": {
-        "en": "Disney and Macy’s Mark 100th Thanksgiving Day Parade With Limited-Edition Product Line (Exclusive)",
-        "fa": "رژه صدمین روز شکرگزاری دیزنی و میسی با خط تولید محدود"
+        "en": "Will Poulter and Noah Centineo Went to Ohio to Immerse Themselves in the Addiction Recovery System for ‘Union County’",
+        "fa": "ویل پولتر و نوح سنتینیو به اوهایو رفتند تا در سیستم بازیابی اعتیاد برای «Union County» غوطه ور شوند."
       },
       "excerpt": {
-        "en": "The duo kick off the milestone anniversary early with a retailer-exclusive capsule inspired by Disney's upcoming Macy’s Parade balloon.",
-        "fa": "این دو سالگرد نقطه عطف را زودتر با یک کپسول انحصاری خرده‌فروشی با الهام از بادکنک آتی میسی رژه دیزنی آغاز می‌کنند."
+        "en": "The Brit and the Florida native, who co-starred as Navy SEALs in \"Warfare,\" sat in on actual drug court meetings that made it into Adam Meeks' film, which premiered at Sundance and is hitting theaters this week.",
+        "fa": "این بریتانیایی و اهل فلوریدا، که در نقش نیروی دریایی در «جنگ» همبازی بودند، در جلسات دادگاه مواد مخدر شرکت کردند که به فیلم آدام میکس تبدیل شد، فیلمی که برای اولین بار در ساندنس اکران شد و این هفته در سینماها اکران می شود."
       },
       "content": {
-        "en": "The duo kick off the milestone anniversary early with a retailer-exclusive capsule inspired by Disney's upcoming Macy’s Parade balloon.",
-        "fa": "این دو سالگرد نقطه عطف را زودتر با یک کپسول انحصاری خرده‌فروشی با الهام از بادکنک آتی Macy’s Parade دیزنی آغاز می‌کنند."
+        "en": "The Brit and the Florida native, who co-starred as Navy SEALs in \"Warfare,\" sat in on actual drug court meetings that made it into Adam Meeks' film, which premiered at Sundance and is hitting theaters this week.",
+        "fa": "این بریتانیایی و اهل فلوریدا، که در نقش نیروی دریایی در «جنگ» همبازی بودند، در جلسات دادگاه مواد مخدر شرکت کردند که به فیلم آدام میکس تبدیل شد، فیلمی که برای اولین بار در ساندنس اکران شد و این هفته در سینماها اکران می شود."
+      },
+      "source": {
+        "en": "IndieWire",
+        "fa": "IndieWire"
+      },
+      "link": "https://www.indiewire.com/features/interviews/will-poulter-noah-centineo-sundance-union-county-1235174777/",
+      "date": "2026-08-13T17:50:59.304665+00:00",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/01/GettyImages-2289962418.jpg?w=650",
+      "important": false,
+      "score": 3
+    },
+    {
+      "id": "65dd043f98a5",
+      "title": {
+        "en": "The 9 Best Superhero Shows on HBO Max Right Now",
+        "fa": "9 بهترین نمایش ابرقهرمانی در HBO Max در حال حاضر"
+      },
+      "excerpt": {
+        "en": "From \"Peacemaker\" to \"Watchmen,\" here's what to queue up when you're craving a good superhero show The post The 9 Best Superhero Shows on HBO Max Right Now appeared first on TheWrap .",
+        "fa": "از «صلح‌ساز» تا «نگهبانان»، این مواردی است که وقتی هوس یک نمایش ابرقهرمانی خوب را دارید، در صف قرار بگیرید."
+      },
+      "content": {
+        "en": "From \"Peacemaker\" to \"Watchmen,\" here's what to queue up when you're craving a good superhero show The post The 9 Best Superhero Shows on HBO Max Right Now appeared first on TheWrap .",
+        "fa": "از «صلح‌ساز» تا «نگهبانان»، این مواردی است که وقتی هوس یک نمایش ابرقهرمانی خوب را دارید، در صف قرار بگیرید."
+      },
+      "source": {
+        "en": "The Wrap",
+        "fa": "The Wrap"
+      },
+      "link": "https://www.thewrap.com/creative-content/what-to-watch/best-superhero-shows-streaming-on-hbo-max/",
+      "date": "2026-08-13T17:50:59.303658+00:00",
+      "image": "https://www.thewrap.com/wp-content/uploads/2025/08/the-penguin-cristin-milioti.jpg",
+      "important": false,
+      "score": 3
+    },
+    {
+      "id": "27ae89c23b2e",
+      "title": {
+        "en": "Paramount Primal Picks Up Action Fantasy ‘Tower Defense’ from ‘Snow White and the Huntsman’ Scribe (Exclusive)",
+        "fa": "پارامونت پرایمال اکشن فانتزی «برج دفاع» را از فیلمنامه نویس «سفید برفی و شکارچی» انتخاب می کند."
+      },
+      "excerpt": {
+        "en": "It's the latest project acquired by the studio's new fast-moving genre label.",
+        "fa": "این آخرین پروژه ای است که توسط برچسب سبک جدید استودیو به دست آمده است."
+      },
+      "content": {
+        "en": "It's the latest project acquired by the studio's new fast-moving genre label.",
+        "fa": "این آخرین پروژه ای است که توسط برچسب سبک جدید استودیو به دست آمده است."
       },
       "source": {
         "en": "The Hollywood Reporter",
         "fa": "The Hollywood Reporter"
       },
-      "link": "https://www.hollywoodreporter.com/lifestyle/shopping/disney-macys-100th-thanksgiving-day-parade-collection-buy-1236672771/",
-      "date": "2026-08-13T16:45:49.645312+00:00",
-      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/disney-x-macys-parade-MAIN.jpg?w=1296&#038;h=730&#038;crop=1",
-      "important": false,
-      "score": 3
-    },
-    {
-      "id": "a704c3a5f556",
-      "title": {
-        "en": "‘Heated Rivalry’ Season 2 Casts Emily Hampshire, Edvin Ryding, Robert Naylor, Sabrina Jalees, Priyanka",
-        "fa": "بازیگران فصل دوم «رقابت داغ»، امیلی همپشایر، ادوین رایدینگ، رابرت نیلور، سابرینا جلیز، پریانکا"
-      },
-      "excerpt": {
-        "en": "“Heated Rivalry” is continuing to build out its Season 2 cast with five new additions. Variety has learned that Emily Hampshire (“Schitt’s Creek,” “VisionQuest”), Edvin Ryding (“The Young Royals,” “28 Years Later”), Robert Naylor (“Mile End Kicks,” “Cardinal”), Sabrina Jalees (“I Used to Be Funny,” “Black Mirror”), and Priyanka (“Drag Brunch Saved My Life,” “Meet […]",
-        "fa": "«رقابت داغ» به ساخت بازیگران فصل 2 خود با پنج اضافه جدید ادامه می دهد. ورایتی دریافته است که امیلی همپشایر، ادوین رایدینگ، رابرت نایلور، سابرینا جلیز و پریانکا (\"Drag Brunch Saved My Life\"، \"Meet\""
-      },
-      "content": {
-        "en": "“Heated Rivalry” is continuing to build out its Season 2 cast with five new additions. Variety has learned that Emily Hampshire (“Schitt’s Creek,” “VisionQuest”), Edvin Ryding (“The Young Royals,” “28 Years Later”), Robert Naylor (“Mile End Kicks,” “Cardinal”), Sabrina Jalees (“I Used to Be Funny,” “Black Mirror”), and Priyanka (“Drag Brunch Saved My Life,” “Meet […]",
-        "fa": "«رقابت داغ» به ساخت بازیگران فصل 2 خود با پنج اضافه جدید ادامه می دهد. ورایتی دریافته است که امیلی همپشایر، ادوین رایدینگ، رابرت نایلور، سابرینا جلیز و پریانکا (\"Drag Brunch Saved My Life\"، \"Meet\""
-      },
-      "source": {
-        "en": "Variety",
-        "fa": "Variety"
-      },
-      "link": "https://variety.com/2026/tv/news/heated-rivalry-season-2-cast-emily-hampshire-edvin-ryding-1236833810/",
-      "date": "2026-08-13T16:45:49.642710+00:00",
-      "image": "https://variety.com/wp-content/uploads/2026/08/Heated-Rivalry-Season-2-cast.jpg",
-      "important": false,
-      "score": 3
-    },
-    {
-      "id": "8dc0fafba98f",
-      "title": {
-        "en": "Matt Creasey Becomes Senior EVP, World, At Post-Merger Banijay Rights",
-        "fa": "Matt Creasey در حقوق پس از ادغام Banijay به مقام ارشد EVP جهان تبدیل شد"
-      },
-      "excerpt": {
-        "en": "EXCLUSIVE: We’re starting to get an idea of what Banijay Entertainment’s distribution arm will look like after its merger with All3Media closed last month, creating an $8BN content giant. Matt Creasey will be Senior Executive Vice President World, excluding EMEA, at Banijay Rights. Pre-merger, he was EVP Sales, Acquisitions and Coproductions, Rest of World. Based […]",
-        "fa": "انحصاری: ما شروع به دریافت ایده ای در مورد اینکه بازوی توزیع Banijay Entertainment پس از ادغام آن با All3Media در ماه گذشته و ایجاد یک غول محتوای 8 میلیارد دلاری چگونه خواهد بود، به دست می آوریم. مت کریسی معاون ارشد اجرایی جهان، به استثنای EMEA، در Banijay Rights خواهد بود. قبل از ادغام، او EVP Sales، Acquisitions and Coproductions، Rest of World بود. مبتنی بر"
-      },
-      "content": {
-        "en": "EXCLUSIVE: We’re starting to get an idea of what Banijay Entertainment’s distribution arm will look like after its merger with All3Media closed last month, creating an $8BN content giant. Matt Creasey will be Senior Executive Vice President World, excluding EMEA, at Banijay Rights. Pre-merger, he was EVP Sales, Acquisitions and Coproductions, Rest of World. Based […]",
-        "fa": "انحصاری: ما شروع به دریافت ایده ای در مورد اینکه بازوی توزیع Banijay Entertainment پس از ادغام آن با All3Media در ماه گذشته و ایجاد یک غول محتوای 8 میلیارد دلاری چگونه خواهد بود، به دست می آوریم. مت کریسی معاون ارشد اجرایی جهان، به استثنای EMEA، در Banijay Rights خواهد بود. قبل از ادغام، او EVP Sales، Acquisitions and Coproductions، Rest of World بود. مبتنی بر"
-      },
-      "source": {
-        "en": "Deadline",
-        "fa": "Deadline"
-      },
-      "link": "https://deadline.com/2026/08/matt-creasey-new-title-post-merger-at-banijay-rights-1237032861/",
-      "date": "2026-08-13T16:45:49.641239+00:00",
-      "image": "https://deadline.com/wp-content/uploads/2026/08/matt-creasey2.jpg",
-      "important": false,
-      "score": 3
-    },
-    {
-      "id": "bceba0810990",
-      "title": {
-        "en": "Former Luma AI Exec Launches L.A.-Based Production Outfit Matriarch",
-        "fa": "Exec سابق Luma AI Outfit Matriarch مبتنی بر L.A را راه اندازی کرد"
-      },
-      "excerpt": {
-        "en": "EXCLUSIVE: Verena Puhm, a former Luma AI exec and filmmaker, has launched Los Angeles-based production company Matriarch. Puhm, who was most recently Head of Dream Lab LA at Luma AI, is now developing and producing AI-native and hybrid productions and will also carry out work for third parties and brands. Matriarch’s development slate includes Colors in […]",
-        "fa": "اختصاصی: ورنا پوم، مدیر اجرایی و فیلمساز سابق هوش مصنوعی Luma، شرکت تولیدی Matriarch مستقر در لس آنجلس را راه اندازی کرده است. Puhm که اخیراً رئیس Dream Lab LA در Luma AI بود، اکنون در حال توسعه و تولید محصولات بومی و ترکیبی هوش مصنوعی است و همچنین کارهایی را برای اشخاص ثالث و برندها انجام خواهد داد. جدول توسعه Matriarch شامل Colors in است"
-      },
-      "content": {
-        "en": "EXCLUSIVE: Verena Puhm, a former Luma AI exec and filmmaker, has launched Los Angeles-based production company Matriarch. Puhm, who was most recently Head of Dream Lab LA at Luma AI, is now developing and producing AI-native and hybrid productions and will also carry out work for third parties and brands. Matriarch’s development slate includes Colors in […]",
-        "fa": "اختصاصی: ورنا پوم، مدیر اجرایی و فیلمساز سابق هوش مصنوعی Luma، شرکت تولیدی Matriarch مستقر در لس آنجلس را راه اندازی کرده است. Puhm که اخیراً رئیس Dream Lab LA در Luma AI بود، اکنون در حال توسعه و تولید محصولات بومی و ترکیبی هوش مصنوعی است و همچنین کارهایی را برای اشخاص ثالث و برندها انجام خواهد داد. جدول توسعه Matriarch شامل Colors in است"
-      },
-      "source": {
-        "en": "Deadline",
-        "fa": "Deadline"
-      },
-      "link": "https://deadline.com/2026/08/verena-puhm-former-luma-ai-launches-matriarch-1237032826/",
-      "date": "2026-08-13T16:45:49.640906+00:00",
-      "image": "https://deadline.com/wp-content/uploads/2026/08/Verena-Puhm.jpeg",
-      "important": false,
-      "score": 3
-    },
-    {
-      "id": "38af04065a3d",
-      "title": {
-        "en": "New York Film Festival Currents Lineup To Include World Premiere Of Tala Hadid’s ‘Bardi’",
-        "fa": "ترکیب فعلی جشنواره فیلم نیویورک شامل اولین نمایش جهانی فیلم «بردی» طلا حدید"
-      },
-      "excerpt": {
-        "en": "The Currents section of this year’s New York Film Festival will include the world premiere of Bardi by filmmaker and photographer Tala Hadid. Festival organizer Film at Lincoln Center said Thursday the Currents lineup will have15 feature films, five of which will be making their world premieres, along with one restoration world premiere and 28 […]",
-        "fa": "بخش Currents جشنواره فیلم نیویورک امسال شامل اولین نمایش جهانی بردی توسط فیلمساز و عکاس طلا حدید خواهد بود. سازمان‌دهنده جشنواره فیلم در مرکز لینکلن روز پنجشنبه گفت که مجموعه Currents دارای 15 فیلم بلند خواهد بود که پنج تای آنها اولین نمایش جهانی خود را به همراه یک اولین نمایش جهانی بازسازی و 28 فیلم خواهند داشت."
-      },
-      "content": {
-        "en": "The Currents section of this year’s New York Film Festival will include the world premiere of Bardi by filmmaker and photographer Tala Hadid. Festival organizer Film at Lincoln Center said Thursday the Currents lineup will have15 feature films, five of which will be making their world premieres, along with one restoration world premiere and 28 […]",
-        "fa": "بخش Currents جشنواره فیلم نیویورک امسال شامل اولین نمایش جهانی بردی توسط فیلمساز و عکاس طلا حدید خواهد بود. سازمان‌دهنده جشنواره فیلم در مرکز لینکلن روز پنجشنبه گفت که مجموعه Currents دارای 15 فیلم بلند خواهد بود که پنج تای آنها اولین نمایش جهانی خود را به همراه یک اولین نمایش جهانی بازسازی و 28 فیلم خواهند داشت."
-      },
-      "source": {
-        "en": "Deadline",
-        "fa": "Deadline"
-      },
-      "link": "https://deadline.com/2026/08/new-york-film-festival-currents-lineup-world-premiere-tala-hadid-bardi-1237032852/",
-      "date": "2026-08-13T16:45:49.640468+00:00",
-      "image": "https://deadline.com/wp-content/uploads/2026/08/bardi_NYFF64_04.jpeg",
+      "link": "https://www.hollywoodreporter.com/movies/movie-news/paramount-primal-picks-up-action-fantasy-tower-defense-1236672366/",
+      "date": "2026-08-13T17:50:59.302349+00:00",
+      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/Evan-Daugherty-Headshot-Main-2026.jpg?w=1296&#038;h=730&#038;crop=1",
       "important": false,
       "score": 3
     },
@@ -333,7 +333,7 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/kingston-rumi-southwick-arthur-conti-join-egg-baby-movie-1237032898/",
-      "date": "2026-08-13T16:45:49.639260+00:00",
+      "date": "2026-08-13T17:50:59.298248+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/kingston-rumi-arthur-conti-split.jpg",
       "important": false,
       "score": 3
@@ -357,80 +357,104 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/switzerland-who-is-still-alive-gaza-international-oscars-1237032876/",
-      "date": "2026-08-13T16:45:49.638790+00:00",
+      "date": "2026-08-13T17:50:59.297896+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/MixCollage-13-Aug-2026-04-36-PM-6555.jpg",
       "important": false,
       "score": 3
     },
     {
-      "id": "84c0fac934ad",
+      "id": "a40930232591",
       "title": {
-        "en": "Ken Russell’s Controversial NC-17 Horror Film ‘The Devils’ Sets First Look at Restored Cut – Film News in Brief",
-        "fa": "فیلم ترسناک جنجالی کن راسل NC-17 «شیاطین» اولین نگاهی به برش بازسازی شده می‌کند – اخبار فیلم به طور خلاصه"
+        "en": "Gayle Rankin To Topline Indie ‘Ashley Wright’ From Logan & Noah Miller; Amy Madigan, Ed Harris Among Others Set",
+        "fa": "گیل رنکین به تاپ لاین مستقل «اشلی رایت» از لوگان و نوح میلر؛ مجموعه امی مادیگان، اد هریس در میان دیگران"
       },
       "excerpt": {
-        "en": "Ken Russell’s controversial film “The Devils” will finally be seen in its original form, as seen in a new trailer for the NC-17 release. The 4K restoration references Russell’s private edit from 2004 and serves as the first release from Warner Bros. Clockwork, the studio’s new specialty label. The British horror film stars Oscar-winner Vanessa […]",
-        "fa": "فیلم جنجالی «شیاطین» ساخته کن راسل در نهایت به شکل اصلی خود، همانطور که در تریلر جدید انتشار NC-17 دیده می شود، دیده می شود. بازسازی 4K به ویرایش خصوصی راسل در سال 2004 اشاره دارد و اولین نسخه از Warner Bros. Clockwork، برچسب تخصصی جدید استودیو است. این فیلم ترسناک بریتانیایی با بازی ونسا برنده اسکار"
+        "en": "EXCLUSIVE: Gayle Rankin (House of the Dragon) has wrapped a lead role in Ashley Wright, an indie also starring Evelyn Grace Kite (Elijah Peel), Weapons Oscar winner Amy Madigan, Golden Globe winner Ed Harris (Westworld), Steven Ogg (The Walking Dead), Michole Brianna White (BMF), and Lily Harris. Directed by Logan & Noah Miller (Touching Home), […]",
+        "fa": "انحصاری: گیل رنکین نقش اصلی را در اشلی رایت به پایان رسانده است، یک فیلم مستقل با بازی ایولین گریس کایت، امی مدیگان برنده اسکار سلاح، اد هریس برنده گلدن گلوب، استیون اوگ، میکول برایانا وایت و لیلی هریس. به کارگردانی لوگان و نوآ میلر،"
       },
       "content": {
-        "en": "Ken Russell’s controversial film “The Devils” will finally be seen in its original form, as seen in a new trailer for the NC-17 release. The 4K restoration references Russell’s private edit from 2004 and serves as the first release from Warner Bros. Clockwork, the studio’s new specialty label. The British horror film stars Oscar-winner Vanessa […]",
-        "fa": "فیلم جنجالی «شیاطین» ساخته کن راسل در نهایت به شکل اصلی خود، همانطور که در تریلر جدید انتشار NC-17 دیده می شود، دیده می شود. بازسازی 4K به ویرایش خصوصی راسل در سال 2004 اشاره دارد و اولین نسخه از Warner Bros. Clockwork، برچسب تخصصی جدید استودیو است. این فیلم ترسناک بریتانیایی با بازی ونسا برنده اسکار"
-      },
-      "source": {
-        "en": "Variety",
-        "fa": "Variety"
-      },
-      "link": "https://variety.com/2026/film/news/film-news-in-brief-aug-10-2026-1236831392/",
-      "date": "2026-08-13T16:45:49.642560+00:00",
-      "image": "https://variety.com/wp-content/uploads/2026/08/1-KR71-CANNES-KEY-SET-FULL-FRAME.jpg.webp",
-      "important": false,
-      "score": 1
-    },
-    {
-      "id": "2b9bb89c49d2",
-      "title": {
-        "en": "‘Spider-Man: Brand New Day’ Fastest Movie To Cross $700M At U.S. Box Office",
-        "fa": "«مرد عنکبوتی: روز کاملاً جدید» سریع‌ترین فیلم با فروش 700 میلیون دلاری در باکس آفیس آمریکا"
-      },
-      "excerpt": {
-        "en": "Sony/Marvel Studios’ Spider-Man: Brand New Day crossed $700 million at the domestic box office Wednesday, just like we told you it would. But there’s another record here: It’s now the fastest movie to cross that benchmark, doing it in 13 days. Prior to this, both Star Wars: The Force Awakens and Avengers: Endgame tied as […]",
-        "fa": "سونی/مارول استودیوز Spider-Man: Brand New Day روز چهارشنبه در باکس آفیس داخلی از 700 میلیون دلار گذشت، درست همانطور که به شما گفته بودیم. اما یک رکورد دیگر در اینجا وجود دارد: اکنون سریعترین فیلمی است که از این معیار عبور کرده است و آن را در 13 روز انجام می دهد. پیش از این، هر دو جنگ ستارگان: نیرو برمی‌خیزد و انتقام‌جویان: پایان بازی برابر بودند."
-      },
-      "content": {
-        "en": "Sony/Marvel Studios’ Spider-Man: Brand New Day crossed $700 million at the domestic box office Wednesday, just like we told you it would. But there’s another record here: It’s now the fastest movie to cross that benchmark, doing it in 13 days. Prior to this, both Star Wars: The Force Awakens and Avengers: Endgame tied as […]",
-        "fa": "سونی/مارول استودیوز Spider-Man: Brand New Day روز چهارشنبه در باکس آفیس داخلی از 700 میلیون دلار گذشت، درست همانطور که به شما گفته بودیم. اما یک رکورد دیگر در اینجا وجود دارد: اکنون سریعترین فیلمی است که از این معیار عبور کرده است و آن را در 13 روز انجام می دهد. پیش از این، هر دو جنگ ستارگان: نیرو برمی‌خیزد و انتقام‌جویان: پایان بازی برابر بودند."
+        "en": "EXCLUSIVE: Gayle Rankin (House of the Dragon) has wrapped a lead role in Ashley Wright, an indie also starring Evelyn Grace Kite (Elijah Peel), Weapons Oscar winner Amy Madigan, Golden Globe winner Ed Harris (Westworld), Steven Ogg (The Walking Dead), Michole Brianna White (BMF), and Lily Harris. Directed by Logan & Noah Miller (Touching Home), […]",
+        "fa": "انحصاری: گیل رنکین نقش اصلی را در اشلی رایت به پایان رسانده است، یک فیلم مستقل با بازی ایولین گریس کایت، امی مدیگان برنده اسکار سلاح، اد هریس برنده گلدن گلوب، استیون اوگ، میکول برایانا وایت و لیلی هریس. به کارگردانی لوگان و نوآ میلر،"
       },
       "source": {
         "en": "Deadline",
         "fa": "Deadline"
       },
-      "link": "https://deadline.com/2026/08/box-office-spider-man-brand-new-day-700m-record-fastest-1237032881/",
-      "date": "2026-08-13T16:45:49.640345+00:00",
-      "image": "https://deadline.com/wp-content/uploads/2026/08/MCDSPMA_SP140.jpg",
+      "link": "https://deadline.com/2026/08/gayle-rankin-amy-madigan-ed-harris-to-star-ashley-wright-1237032983/",
+      "date": "2026-08-13T17:50:59.295480+00:00",
+      "image": "https://deadline.com/wp-content/uploads/2026/08/gayle-rankin-amy-madigan-ed-harris-split.jpg",
+      "important": false,
+      "score": 3
+    },
+    {
+      "id": "f492b0191c2c",
+      "title": {
+        "en": "China’s $300M Sleeper Hit ‘Dear You’ Unveils U.S. Trailer Ahead of September Release",
+        "fa": "300 میلیون دلاری چینی Sleeper Hit «Dear You» تریلر آمریکایی را پیش از انتشار سپتامبر رونمایی کرد."
+      },
+      "excerpt": {
+        "en": "Made for $2 million in a regional Chinese language with a cast of unknowns, Lan Hongchun's heartwarming family drama became the year's third-biggest release in China.",
+        "fa": "درام خانوادگی دلگرم لان هونگچون که به قیمت 2 میلیون دلار به زبان چینی منطقه ای با بازیگران ناشناخته ساخته شد، سومین اکران بزرگ سال در چین شد."
+      },
+      "content": {
+        "en": "Made for $2 million in a regional Chinese language with a cast of unknowns, Lan Hongchun's heartwarming family drama became the year's third-biggest release in China.",
+        "fa": "درام خانوادگی دلگرم لان هونگچون که به قیمت 2 میلیون دلار به زبان چینی منطقه ای با بازیگران ناشناخته ساخته شد، سومین اکران بزرگ سال در چین شد."
+      },
+      "source": {
+        "en": "The Hollywood Reporter",
+        "fa": "The Hollywood Reporter"
+      },
+      "link": "https://www.hollywoodreporter.com/movies/movie-news/china-hit-dear-you-us-trailer-september-release-1236672856/",
+      "date": "2026-08-13T17:50:59.301881+00:00",
+      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/06/2_6ca203.png?w=1296&#038;h=730&#038;crop=1",
       "important": false,
       "score": 1
     },
     {
-      "id": "7453b304729f",
+      "id": "3ceb16976fee",
       "title": {
-        "en": "How Disney’s Direct-to-Video Sequels Paved the Way for an Entire Culture of Mediocre I.P.",
-        "fa": "چگونه دنباله‌های مستقیم به ویدیوی دیزنی راه را برای فرهنگ کامل I.P متوسط ​​هموار کردند."
+        "en": "Kelly Ripa Explains Reason for Dental Surgery That Resulted in ‘Live!’ Absence",
+        "fa": "کلی ریپا دلیل جراحی دندان که منجر به غیبت \"Live!\" شد را توضیح می دهد."
       },
       "excerpt": {
-        "en": "From the '90s and the 2000s, Disney produced cheap direct-to-video sequels of their most iconic properties. Measured against the sequels of today, these weird cash-ins feel oddly prescient.",
-        "fa": "از دهه 90 و 2000، دیزنی دنباله‌های ارزان قیمتی از نمادین‌ترین ویژگی‌های خود را به‌صورت مستقیم به ویدیو تولید کرد. با توجه به عواقب امروزی، این پولهای عجیب و غریب به طرز عجیبی پیشگو هستند."
+        "en": "The ‘Live! With Kelly and Mark’ co-host has been off the popular series since July 27 under doctor’s orders not to speak.",
+        "fa": "«زندگی کن! مجری مشترک با کلی و مارک از 27 ژوئیه به دستور پزشک برای صحبت نکردن از سریال محبوب خارج شده است."
       },
       "content": {
-        "en": "From the '90s and the 2000s, Disney produced cheap direct-to-video sequels of their most iconic properties. Measured against the sequels of today, these weird cash-ins feel oddly prescient.",
-        "fa": "از دهه 90 و 2000، دیزنی دنباله‌های ارزان قیمتی از نمادین‌ترین ویژگی‌های خود را به‌صورت مستقیم به ویدیو تولید کرد. با توجه به عواقب امروزی، این پولهای عجیب و غریب به طرز عجیبی پیشگو هستند."
+        "en": "The ‘Live! With Kelly and Mark’ co-host has been off the popular series since July 27 under doctor’s orders not to speak.",
+        "fa": "«زندگی کن! مجری مشترک با کلی و مارک از 27 ژوئیه به دستور پزشک برای صحبت نکردن از سریال محبوب خارج شده است."
+      },
+      "source": {
+        "en": "The Hollywood Reporter",
+        "fa": "The Hollywood Reporter"
+      },
+      "link": "https://www.hollywoodreporter.com/tv/tv-news/kelly-ripa-explains-dental-surgery-live-morning-show-1236672994/",
+      "date": "2026-08-13T17:50:59.301632+00:00",
+      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/03/Where-to-Stream-Live-With-Kelly-and-Mark-After-the-Oscars-TV-Special-Online-MAIN.jpg?w=1296&#038;h=730&#038;crop=1",
+      "important": false,
+      "score": 1
+    },
+    {
+      "id": "815d97038509",
+      "title": {
+        "en": "American Film Market Expands to Include AI and Tech Companies",
+        "fa": "بازار فیلم آمریکا گسترش می یابد و شامل شرکت های هوش مصنوعی و فناوری می شود"
+      },
+      "excerpt": {
+        "en": "IFTA is partnering with Cannes Next on the AFM House and Innovation Hub, which will showcase AI startups and other forward-looking programming.",
+        "fa": "IFTA با Cannes Next در خانه AFM و مرکز نوآوری همکاری می کند که استارت آپ های هوش مصنوعی و سایر برنامه های آینده نگر را به نمایش می گذارد."
+      },
+      "content": {
+        "en": "IFTA is partnering with Cannes Next on the AFM House and Innovation Hub, which will showcase AI startups and other forward-looking programming.",
+        "fa": "IFTA با Cannes Next در خانه AFM و مرکز نوآوری همکاری می کند که استارت آپ های هوش مصنوعی و سایر برنامه های آینده نگر را به نمایش می گذارد."
       },
       "source": {
         "en": "IndieWire",
         "fa": "IndieWire"
       },
-      "link": "https://www.indiewire.com/features/commentary/worst-disney-direct-to-video-sequels-1235209538/",
-      "date": "2026-08-13T16:45:49.647527+00:00",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/08/MSDLIME_WD011-1.jpg?w=650",
+      "link": "https://www.indiewire.com/news/business/american-film-market-afm-expands-ai-tech-companies-1235210223/",
+      "date": "2026-08-13T17:50:59.306648+00:00",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/08/The-AFM-HOUSE-pavilion-century-park-1.png?w=650",
       "important": false,
       "score": 0
     },
@@ -453,7 +477,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/features/interviews/anders-danielsen-lie-interview-making-oslo-august-31st-1235209755/",
-      "date": "2026-08-13T16:45:49.647014+00:00",
+      "date": "2026-08-13T17:50:59.306468+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/SEQUELS-WEEK-OSLO-31.png?w=650",
       "important": false,
       "score": 0
@@ -477,7 +501,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/news/festivals/sundance-2026-movies-sold-so-far-1235174095/",
-      "date": "2026-08-13T16:45:49.646823+00:00",
+      "date": "2026-08-13T17:50:59.306262+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/01/Closure.jpg?w=650",
       "important": false,
       "score": 0
@@ -501,80 +525,56 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/features/interviews/nimrods-green-day-movie-billie-joe-armstrong-interview-1235209998/",
-      "date": "2026-08-13T16:45:49.646643+00:00",
+      "date": "2026-08-13T17:50:59.306057+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/IMG_4350.jpeg?w=594",
       "important": false,
       "score": 0
     },
     {
-      "id": "841e2d3aa1b1",
+      "id": "f78a981130cd",
       "title": {
-        "en": "Whitney Leavitt to Make Broadway Return in ‘Just in Time’",
-        "fa": "ویتنی لیویت برای بازگشت به برادوی در «در زمان»"
+        "en": "NYFF Unveils 2026 Currents Lineup, Featuring Boundary-Pushing Cinema from Around the World",
+        "fa": "NYFF خط تولید 2026 Currents را با سینمای محدودکننده از سراسر جهان رونمایی کرد"
       },
       "excerpt": {
-        "en": "This is the second Broadway role for the 'Secret Lives of Mormon Wives' star after her record-breaking role in 'Chicago.'",
-        "fa": "این دومین نقش در برادوی برای ستاره «زندگی مخفی همسران مورمون» پس از رکوردشکنی او در «شیکاگو» است."
+        "en": "The section will be headlined by Tala Hadid's new documentary \"Bardi,\" which centers around a Moroccan equestrian military ritual dating back to the 16th century.",
+        "fa": "عنوان این بخش با مستند جدید طلا حدید \"بردی\" خواهد بود که حول یک آیین نظامی سوارکاری مراکشی که قدمت آن به قرن شانزدهم بازمی‌گردد، می‌پردازد."
       },
       "content": {
-        "en": "This is the second Broadway role for the 'Secret Lives of Mormon Wives' star after her record-breaking role in 'Chicago.'",
-        "fa": "این دومین نقش در برادوی برای ستاره «زندگی مخفی همسران مورمون» پس از رکوردشکنی او در «شیکاگو» است."
+        "en": "The section will be headlined by Tala Hadid's new documentary \"Bardi,\" which centers around a Moroccan equestrian military ritual dating back to the 16th century.",
+        "fa": "عنوان این بخش با مستند جدید طلا حدید \"بردی\" خواهد بود که حول یک آیین نظامی سوارکاری مراکشی که قدمت آن به قرن شانزدهم بازمی‌گردد، می‌پردازد."
       },
       "source": {
-        "en": "The Hollywood Reporter",
-        "fa": "The Hollywood Reporter"
+        "en": "IndieWire",
+        "fa": "IndieWire"
       },
-      "link": "https://www.hollywoodreporter.com/lifestyle/arts/whitney-leavitt-broadway-return-just-in-time-1236672967/",
-      "date": "2026-08-13T16:45:49.644456+00:00",
-      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/GettyImages-2280407198.jpg?w=1440&#038;h=810&#038;crop=1",
+      "link": "https://www.indiewire.com/news/festivals/nyff-2026-currents-lineup-1235210227/",
+      "date": "2026-08-13T17:50:59.305134+00:00",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/08/Screen-Shot-2026-08-12-at-11.33.41-AM.png?w=650",
       "important": false,
       "score": 0
     },
     {
-      "id": "a07b52d0299d",
+      "id": "edbd172cc2ec",
       "title": {
-        "en": "Pop Singer Hayes Warner Never Acted Professionally in Her Life. Ryan Murphy Cast Her in ‘The Shards’ Anyway",
-        "fa": "هیز وارنر خواننده پاپ هرگز در زندگی خود حرفه ای عمل نکرد. به هر حال رایان مورفی او را در فیلم The Shards بازی کرد"
+        "en": "Why ‘The Rivals of Amziah King’ Director Andrew Patterson Is the Most Exciting Filmmaker You’ve Never Heard Of",
+        "fa": "چرا اندرو پترسون کارگردان «رقبای امزیا کینگ» هیجان‌انگیزترین فیلمسازی است که تا به حال نامش را نشنیده‌اید؟"
       },
       "excerpt": {
-        "en": "At her first screen test, Murphy gave the newbie some notes. She didn’t understand them but was too afraid to ask. Luckily, she got another shot.",
-        "fa": "مورفی در اولین تست صفحه نمایش خود، چند یادداشت به تازه کار داد. او آنها را درک نمی کرد اما از پرسیدن می ترسید. خوشبختانه، او یک گلوله دیگر گرفت."
+        "en": "After breaking out with 2020's \"The Vast of Night,\" the filmmaker's six-year road to his Matthew McConaughey-led sophomore feature was a journey unto itself The post Why ‘The Rivals of Amziah King’ Director Andrew Patterson Is the Most Exciting Filmmaker You’ve Never Heard Of appeared first on TheWrap .",
+        "fa": "پس از جدا شدن از فیلم «وسعت شب» در سال 2020، راه شش ساله فیلمساز به سمت فیلم دومش به رهبری متیو مک کانهی سفری برای خودش بود."
       },
       "content": {
-        "en": "At her first screen test, Murphy gave the newbie some notes. She didn’t understand them but was too afraid to ask. Luckily, she got another shot.",
-        "fa": "مورفی در اولین تست صفحه نمایش خود، چند یادداشت به تازه کار داد. او آنها را درک نمی کرد اما از پرسیدن می ترسید. خوشبختانه، او یک گلوله دیگر گرفت."
+        "en": "After breaking out with 2020's \"The Vast of Night,\" the filmmaker's six-year road to his Matthew McConaughey-led sophomore feature was a journey unto itself The post Why ‘The Rivals of Amziah King’ Director Andrew Patterson Is the Most Exciting Filmmaker You’ve Never Heard Of appeared first on TheWrap .",
+        "fa": "پس از جدا شدن از فیلم «وسعت شب» در سال 2020، راه شش ساله فیلمساز به سمت فیلم دومش به رهبری متیو مک کانهی سفری برای خودش بود."
       },
       "source": {
-        "en": "The Hollywood Reporter",
-        "fa": "The Hollywood Reporter"
+        "en": "The Wrap",
+        "fa": "The Wrap"
       },
-      "link": "https://www.hollywoodreporter.com/tv/tv-features/hayes-warner-acting-debut-the-shards-1236671255/",
-      "date": "2026-08-13T16:45:49.644083+00:00",
-      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/15TOWN-Opener-Main-2026.jpg?w=1296&#038;h=730&#038;crop=1",
-      "important": false,
-      "score": 0
-    },
-    {
-      "id": "3d01461e5a34",
-      "title": {
-        "en": "Viu, TrueVisions Now Launch Content Collaboration in Southeast Asia",
-        "fa": "Viu، TrueVisions اکنون همکاری محتوا را در آسیای جنوب شرقی راه اندازی می کند"
-      },
-      "excerpt": {
-        "en": "Viu and TrueVisions Now are launching a content collaboration that brings a curated slate of premium Thai series to Viu users across Southeast Asia, with a branded zone debuting Aug. 20 in Malaysia, Indonesia and the Philippines. The zone opens with six series pulled from TrueVisions Now’s catalogue, with the roster expected to expand in […]",
-        "fa": "Viu و TrueVisions Now همکاری محتوایی را راه‌اندازی می‌کنند که مجموعه‌ای از سری‌های تایلندی ممتاز را برای کاربران Viu در سراسر آسیای جنوب شرقی به ارمغان می‌آورد. این منطقه با شش سری برگرفته از کاتالوگ TrueVisions Now آغاز می‌شود و انتظار می‌رود فهرست در سال آینده گسترش یابد."
-      },
-      "content": {
-        "en": "Viu and TrueVisions Now are launching a content collaboration that brings a curated slate of premium Thai series to Viu users across Southeast Asia, with a branded zone debuting Aug. 20 in Malaysia, Indonesia and the Philippines. The zone opens with six series pulled from TrueVisions Now’s catalogue, with the roster expected to expand in […]",
-        "fa": "Viu و TrueVisions Now همکاری محتوایی را راه‌اندازی می‌کنند که مجموعه‌ای از سری‌های تایلندی ممتاز را برای کاربران Viu در سراسر آسیای جنوب شرقی به ارمغان می‌آورد. این منطقه با شش سری برگرفته از کاتالوگ TrueVisions Now آغاز می‌شود و انتظار می‌رود فهرست در سال آینده گسترش یابد."
-      },
-      "source": {
-        "en": "Variety",
-        "fa": "Variety"
-      },
-      "link": "https://variety.com/2026/tv/news/viu-truevisions-now-content-collaboration-southeast-asia-1236833895/",
-      "date": "2026-08-13T16:45:49.642416+00:00",
-      "image": "https://variety.com/wp-content/uploads/2026/08/Oops-Im-the-Concubine.jpg",
+      "link": "https://www.thewrap.com/creative-content/movies/the-rivals-of-amziah-king-director-andrew-patterson-interview/",
+      "date": "2026-08-13T17:50:59.304552+00:00",
+      "image": "https://www.thewrap.com/wp-content/uploads/2026/08/The-Rivals-of-Amziah-King.jpg",
       "important": false,
       "score": 0
     }
