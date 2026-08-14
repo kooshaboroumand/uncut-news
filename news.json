@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-14T19:42:19.857652+00:00",
+  "updated_at": "2026-08-14T20:22:19.492163+00:00",
   "count": 24,
   "news": [
     {
@@ -21,7 +21,7 @@
         "fa": "Variety"
       },
       "link": "https://variety.com/2026/tv/news/stuart-fails-to-save-the-universe-renewed-season-2-hbo-max-1236834794/",
-      "date": "2026-08-14T19:42:19.511868+00:00",
+      "date": "2026-08-14T20:22:19.130665+00:00",
       "image": "https://variety.com/wp-content/uploads/2026/05/Stuart-Fails-to-Save-the-Universe.jpg",
       "important": true,
       "score": 12
@@ -45,7 +45,7 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/sunshine-girls-release-date-netflix-brat-tv-1237040434/",
-      "date": "2026-08-14T19:42:19.510264+00:00",
+      "date": "2026-08-14T20:22:19.128550+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/Sunshine-Girls.jpg",
       "important": true,
       "score": 7
@@ -69,8 +69,56 @@
         "fa": "Variety"
       },
       "link": "https://variety.com/2026/tv/news/deli-boys-canceled-hulu-1236834842/",
-      "date": "2026-08-14T19:42:19.510838+00:00",
+      "date": "2026-08-14T20:22:19.129752+00:00",
       "image": "https://variety.com/wp-content/uploads/2026/05/Deli-Boys-Season-2.jpg",
+      "important": true,
+      "score": 6
+    },
+    {
+      "id": "19d13f04c9f5",
+      "title": {
+        "en": "Black Women Earned Record Emmy Directing Noms as Asian Auteurs Made Gains. Will Wins Follow?",
+        "fa": "زنان سیاه‌پوست رکورد نامزدهای کارگردانی امی را در حالی به دست آوردند که مؤلفان آسیایی دستاوردهایی داشتند. آیا برنده ها دنبال خواهند شد؟"
+      },
+      "excerpt": {
+        "en": "One of the most consequential storylines of this Emmy season involves the ones who say, “Action!” Black women hold five directing nominations across three categories this year, the most the Television Academy has ever recognized in a single cycle. Salli Richardson-Whitfield is nominated twice in drama directing, for HBO Max’s “The Gilded Age” and “Task,” […]",
+        "fa": "یکی از مهم‌ترین داستان‌های این فصل امی مربوط به کسانی است که می‌گویند «اکشن!» زنان سیاه‌پوست امسال پنج نامزدی کارگردانی را در سه بخش دریافت کرده‌اند که بیشترین نامزدی آکادمی تلویزیون در یک دوره است. سالی ریچاردسون-ویتفیلد دو بار نامزد کارگردانی درام شد، برای «عصر طلایی» و «تکلیف» از HBO Max."
+      },
+      "content": {
+        "en": "One of the most consequential storylines of this Emmy season involves the ones who say, “Action!” Black women hold five directing nominations across three categories this year, the most the Television Academy has ever recognized in a single cycle. Salli Richardson-Whitfield is nominated twice in drama directing, for HBO Max’s “The Gilded Age” and “Task,” […]",
+        "fa": "یکی از مهم‌ترین داستان‌های این فصل امی مربوط به کسانی است که می‌گویند «اکشن!» زنان سیاه‌پوست امسال پنج نامزدی کارگردانی را در سه بخش دریافت کرده‌اند که بیشترین نامزدی آکادمی تلویزیون در یک دوره است. سالی ریچاردسون-ویتفیلد دو بار نامزد کارگردانی درام شد، برای «عصر طلایی» و «تکلیف» از HBO Max."
+      },
+      "source": {
+        "en": "Variety",
+        "fa": "Variety"
+      },
+      "link": "https://variety.com/2026/tv/awards/black-women-asian-directors-emmy-nominations-2026-1236834758/",
+      "date": "2026-08-14T20:22:19.129291+00:00",
+      "image": "https://variety.com/wp-content/uploads/2026/08/Task_87375f.jpg",
+      "important": true,
+      "score": 6
+    },
+    {
+      "id": "3f2e32afb635",
+      "title": {
+        "en": "‘Scrubs’ Adds Keyla Monterroso Mejia As New Nurse In Season 2 Of ABC Reboot",
+        "fa": "«Scrubs» Keyla Monterroso Mejia را به عنوان پرستار جدید در فصل دوم راه‌اندازی مجدد ABC اضافه کرد"
+      },
+      "excerpt": {
+        "en": "EXCLUSIVE: Scrubs is staffing up for Season 2. Keyla Monterroso Mejia (The Studio, Abbott Elementary) is joining the ABC comedy series as a recurring guest star. She will play Mimi, Turk’s (Donald Faison) new surgical nurse. A bit quirky with some sass, she is a high-energy and loyal assisting hand for the surgeons. Mimi is […]",
+        "fa": "انحصاری: Scrubs برای فصل 2 کار می کند. Keyla Monteroso Mejia به عنوان یک ستاره مهمان مکرر به سریال کمدی ABC می پیوندد. او نقش میمی، پرستار جراحی جدید ترک را بازی خواهد کرد. کمی دمدمی مزاج با برخی از ساس، او یک دست کمک با انرژی بالا و وفادار برای جراحان است. میمی است"
+      },
+      "content": {
+        "en": "EXCLUSIVE: Scrubs is staffing up for Season 2. Keyla Monterroso Mejia (The Studio, Abbott Elementary) is joining the ABC comedy series as a recurring guest star. She will play Mimi, Turk’s (Donald Faison) new surgical nurse. A bit quirky with some sass, she is a high-energy and loyal assisting hand for the surgeons. Mimi is […]",
+        "fa": "انحصاری: Scrubs برای فصل 2 کار می کند. Keyla Monteroso Mejia به عنوان یک ستاره مهمان مکرر به سریال کمدی ABC می پیوندد. او نقش میمی، پرستار جراحی جدید ترک را بازی خواهد کرد. کمی دمدمی مزاج با برخی از ساس، او یک دست کمک با انرژی بالا و وفادار برای جراحان است. میمی است"
+      },
+      "source": {
+        "en": "Deadline",
+        "fa": "Deadline"
+      },
+      "link": "https://deadline.com/2026/08/scrubs-keyla-monterroso-mejia-nurse-season-2-abc-reboot-1237040761/",
+      "date": "2026-08-14T20:22:19.125800+00:00",
+      "image": "https://deadline.com/wp-content/uploads/2026/08/keyla-monterroso-mejia-mimi-scrubs.jpg",
       "important": true,
       "score": 6
     },
@@ -93,32 +141,8 @@
         "fa": "The Hollywood Reporter"
       },
       "link": "https://www.hollywoodreporter.com/tv/tv-features/lee-sung-jin-beef-season-two-emmys-1236672641/",
-      "date": "2026-08-14T19:42:19.513549+00:00",
+      "date": "2026-08-14T20:22:19.131655+00:00",
       "image": "https://www.hollywoodreporter.com/wp-content/themes/vip/pmc-hollywoodreporter-2021/assets/app/icons/icon-512x512.png",
-      "important": true,
-      "score": 4
-    },
-    {
-      "id": "40188b8274be",
-      "title": {
-        "en": "‘Star Wars: Mandalorian & Grogu’ To Stream On Disney+ At End Of Summer",
-        "fa": "«جنگ ستارگان: ماندالوریان و گروگو» در پایان تابستان از دیزنی+ پخش می‌شود"
-      },
-      "excerpt": {
-        "en": "Disney has set a September 2 global streaming date for Star Wars: The Mandalorian and Grogu on Disney+. That reps a long 103-day window between theatrical and streaming for the Jon Favreau-directed movie. The movie led the Memorial Day box office with a $167 million global start but wound up being the lowest-grossing live-action Star […]",
-        "fa": "دیزنی تاریخ پخش جهانی فیلم Star Wars: The Mandalorian و Grogu را در دیزنی+ 2 سپتامبر تعیین کرده است. این یک پنجره طولانی 103 روزه بین نمایش و پخش برای فیلم به کارگردانی جان فاورو است. این فیلم با شروع جهانی 167 میلیون دلاری در باکس آفیس روز یادبود پیشتاز شد اما کم‌درآمدترین ستاره لایو اکشن شد."
-      },
-      "content": {
-        "en": "Disney has set a September 2 global streaming date for Star Wars: The Mandalorian and Grogu on Disney+. That reps a long 103-day window between theatrical and streaming for the Jon Favreau-directed movie. The movie led the Memorial Day box office with a $167 million global start but wound up being the lowest-grossing live-action Star […]",
-        "fa": "دیزنی تاریخ پخش جهانی فیلم Star Wars: The Mandalorian و Grogu را در دیزنی+ 2 سپتامبر تعیین کرده است. این یک پنجره طولانی 103 روزه بین نمایش و پخش برای فیلم به کارگردانی جان فاورو است. این فیلم با شروع جهانی 167 میلیون دلاری در باکس آفیس روز یادبود پیشتاز شد اما کم‌درآمدترین ستاره لایو اکشن شد."
-      },
-      "source": {
-        "en": "Deadline",
-        "fa": "Deadline"
-      },
-      "link": "https://deadline.com/2026/08/star-wars-mandalorian-grogu-disney-release-date-1237040464/",
-      "date": "2026-08-14T19:42:19.510619+00:00",
-      "image": "https://deadline.com/wp-content/uploads/2026/05/THND-FF-000448.jpg",
       "important": true,
       "score": 4
     },
@@ -141,7 +165,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/criticism/shows/lanterns-review-hbo-green-lantern-series-kyle-chandler-1235209937/",
-      "date": "2026-08-14T19:42:19.518521+00:00",
+      "date": "2026-08-14T20:22:19.136755+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/06/Lanterns-release-date-HBO-series-Green-Lantern-Kyle-Chandler.jpg?w=650",
       "important": false,
       "score": 3
@@ -165,7 +189,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/news/breaking-news/film-independent-biggest-grant-history-juan-devis-1235210522/",
-      "date": "2026-08-14T19:42:19.517195+00:00",
+      "date": "2026-08-14T20:22:19.135391+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/Juan_Devis_2304sm-photo.jpeg?w=650",
       "important": false,
       "score": 3
@@ -189,7 +213,7 @@
         "fa": "The Wrap"
       },
       "link": "https://www.thewrap.com/creative-content/movies/lanterns-tom-king-interview-supergirl-mister-miracle/",
-      "date": "2026-08-14T19:42:19.516549+00:00",
+      "date": "2026-08-14T20:22:19.134791+00:00",
       "image": "https://www.thewrap.com/wp-content/uploads/2026/08/Tom-King.jpg",
       "important": false,
       "score": 3
@@ -202,43 +226,19 @@
       },
       "excerpt": {
         "en": "\"It simply is this easy to say no to funding transphobia!\" \"Black Mirror\" director Ally Pankiw writes The post ‘Harry Potter’ HBO Series Lost 2 Directors Over JK Rowling’s Anti-Trans Views appeared first on TheWrap .",
-        "fa": "نه گفتن به تامین مالی ترنس هراسی به همین سادگی است! آلی پانکیو کارگردان «آینه سیاه» می نویسد"
+        "fa": "نه گفتن به تأمین مالی ترنس هراسی به همین سادگی است!» آلی پانکیو کارگردان «آینه سیاه» می نویسد"
       },
       "content": {
         "en": "\"It simply is this easy to say no to funding transphobia!\" \"Black Mirror\" director Ally Pankiw writes The post ‘Harry Potter’ HBO Series Lost 2 Directors Over JK Rowling’s Anti-Trans Views appeared first on TheWrap .",
-        "fa": "نه گفتن به تامین مالی ترنس هراسی به همین سادگی است! آلی پانکیو کارگردان «آینه سیاه» می نویسد"
+        "fa": "نه گفتن به تأمین مالی ترنس هراسی به همین سادگی است!» آلی پانکیو کارگردان «آینه سیاه» می نویسد"
       },
       "source": {
         "en": "The Wrap",
         "fa": "The Wrap"
       },
       "link": "https://www.thewrap.com/creative-content/tv-shows/harry-potter-hbo-series-los-directors-jk-rowling/",
-      "date": "2026-08-14T19:42:19.514991+00:00",
+      "date": "2026-08-14T20:22:19.133205+00:00",
       "image": "https://www.thewrap.com/wp-content/uploads/2026/08/Harry-Potter-HBO.jpg",
-      "important": false,
-      "score": 3
-    },
-    {
-      "id": "8a241dc0a41c",
-      "title": {
-        "en": "The War on Literature Depicted in ’The Librarians’ Is Still Being Waged",
-        "fa": "جنگ علیه ادبیات به تصویر کشیده شده در کتابداران هنوز در جریان است"
-      },
-      "excerpt": {
-        "en": "A year after the Kim Snyder-directed documentary premiered at Sundance, book-banning remains a resonant topic in the U.S. as related bills make their way through Congress.",
-        "fa": "یک سال پس از اولین نمایش مستند به کارگردانی کیم اسنایدر در ساندنس، ممنوعیت کتاب همچنان موضوعی پرطرفدار در ایالات متحده است زیرا لایحه‌های مرتبط در کنگره راه می‌یابند."
-      },
-      "content": {
-        "en": "A year after the Kim Snyder-directed documentary premiered at Sundance, book-banning remains a resonant topic in the U.S. as related bills make their way through Congress.",
-        "fa": "یک سال پس از اولین نمایش مستند به کارگردانی کیم اسنایدر در ساندنس، ممنوعیت کتاب همچنان موضوعی پرطرفدار در ایالات متحده است زیرا لایحه‌های مرتبط در کنگره راه می‌یابند."
-      },
-      "source": {
-        "en": "The Hollywood Reporter",
-        "fa": "The Hollywood Reporter"
-      },
-      "link": "https://www.hollywoodreporter.com/tv/tv-features/the-librarians-war-literature-1236670583/",
-      "date": "2026-08-14T19:42:19.514796+00:00",
-      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/14AREP-DocSpots-Librarians-Main-2026.jpg?w=1296&#038;h=730&#038;crop=1",
       "important": false,
       "score": 3
     },
@@ -261,7 +261,7 @@
         "fa": "The Hollywood Reporter"
       },
       "link": "https://www.hollywoodreporter.com/business/business-news/josh-hartnett-jumps-to-caa-exclusive-1236673767/",
-      "date": "2026-08-14T19:42:19.514371+00:00",
+      "date": "2026-08-14T20:22:19.132518+00:00",
       "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/Josh-Hartnett-Main-2026.jpg?w=1296&#038;h=730&#038;crop=1",
       "important": false,
       "score": 3
@@ -270,7 +270,7 @@
       "id": "8389fd76d546",
       "title": {
         "en": "DIRECTV Drops Price of Sports Genre Pack to Under $50 for First Month Just in Time for Fall Football Season",
-        "fa": "DIRECTV قیمت بسته ژانر ورزشی را به کمتر از 50 دلار برای ماه اول به موقع برای فصل پاییز فوتبال کاهش داد"
+        "fa": "DIRECTV قیمت بسته ژانر ورزشی را به کمتر از 50 دلار برای ماه اول کاهش داد و دقیقاً به موقع برای فصل پاییز فوتبال"
       },
       "excerpt": {
         "en": "Sports fans won’t have to rely on cable anymore to catch the big games and tournaments this fall, as streaming service DIRECTV launches a new promo for cord cutters looking to take in the action. DIRECTV has dropped the price of its MySports Genre Pack down to $49.99 for your first month of service (regularly […]",
@@ -285,7 +285,7 @@
         "fa": "Variety"
       },
       "link": "https://variety.com/2026/shopping/news/directv-mysports-genre-pack-deal-pricing-channel-details-1236834741/",
-      "date": "2026-08-14T19:42:19.512343+00:00",
+      "date": "2026-08-14T20:22:19.131174+00:00",
       "image": "https://variety.com/wp-content/uploads/2026/08/directv-mysports-genre-pack.jpg",
       "important": false,
       "score": 3
@@ -309,7 +309,7 @@
         "fa": "Variety"
       },
       "link": "https://variety.com/2026/film/global/pretty-babies-director-tyler-marie-evans-1236833628/",
-      "date": "2026-08-14T19:42:19.511983+00:00",
+      "date": "2026-08-14T20:22:19.130780+00:00",
       "image": "https://variety.com/wp-content/uploads/2026/08/Pretty-Babies.jpg",
       "important": false,
       "score": 3
@@ -322,18 +322,18 @@
       },
       "excerpt": {
         "en": "Your moviegoing experience is about to get a lot plusher. Squishmallows, the popular collectible toys known for softness and irreverent personalities, will come to life in a new feature film. Variety can report that Amazon MGM is developing a tentpole family film around the brand, licensing rights and co-producing with creator Jazwares. The studio is […]",
-        "fa": "تجربه شما از سینما رفتن در حال افزایش است. Squishmallows، اسباب‌بازی‌های کلکسیونی محبوب که به نرمی و شخصیت‌های بی‌احترامی معروف هستند، در یک فیلم سینمایی جدید جان خواهند گرفت. ورایتی می‌تواند گزارش دهد که آمازون ام‌جی‌ام در حال توسعه یک فیلم خانوادگی حول محور این برند، حقوق مجوز و تولید مشترک با خالق Jazwares است. استودیو است"
+        "fa": "تجربه شما از سینما رفتن بسیار جذاب تر می شود. Squishmallows، اسباب‌بازی‌های کلکسیونی محبوب که به نرمی و شخصیت‌های بی‌احترامی معروف هستند، در یک فیلم سینمایی جدید جان خواهند گرفت. Variety می‌تواند گزارش دهد که آمازون MGM در حال توسعه یک فیلم خانوادگی حول محور این برند است، حقوق مجوز و تولید مشترک با خالق Jazwares. استودیو است"
       },
       "content": {
         "en": "Your moviegoing experience is about to get a lot plusher. Squishmallows, the popular collectible toys known for softness and irreverent personalities, will come to life in a new feature film. Variety can report that Amazon MGM is developing a tentpole family film around the brand, licensing rights and co-producing with creator Jazwares. The studio is […]",
-        "fa": "تجربه شما از سینما رفتن در حال افزایش است. Squishmallows، اسباب‌بازی‌های کلکسیونی محبوب که به نرمی و شخصیت‌های بی‌احترامی معروف هستند، در یک فیلم سینمایی جدید جان خواهند گرفت. ورایتی می‌تواند گزارش دهد که آمازون ام‌جی‌ام در حال توسعه یک فیلم خانوادگی حول محور این برند، حقوق مجوز و تولید مشترک با خالق Jazwares است. استودیو است"
+        "fa": "تجربه شما از سینما رفتن بسیار جذاب تر می شود. Squishmallows، اسباب‌بازی‌های کلکسیونی محبوب که به نرمی و شخصیت‌های بی‌احترامی معروف هستند، در یک فیلم سینمایی جدید جان خواهند گرفت. Variety می‌تواند گزارش دهد که آمازون MGM در حال توسعه یک فیلم خانوادگی حول محور این برند است، حقوق مجوز و تولید مشترک با خالق Jazwares. استودیو است"
       },
       "source": {
         "en": "Variety",
         "fa": "Variety"
       },
       "link": "https://variety.com/2026/film/news/squishmallows-movie-amazon-mgm-beau-flynn-1236834782/",
-      "date": "2026-08-14T19:42:19.511759+00:00",
+      "date": "2026-08-14T20:22:19.130576+00:00",
       "image": "https://variety.com/wp-content/uploads/2026/08/squishmallows.png",
       "important": false,
       "score": 3
@@ -357,7 +357,7 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/barry-keoghan-signs-caa-1237040472/",
-      "date": "2026-08-14T19:42:19.510444+00:00",
+      "date": "2026-08-14T20:22:19.128729+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/Barry-Keoghan-Headshot-by-Christian-Tierney-3.jpeg",
       "important": false,
       "score": 3
@@ -381,7 +381,7 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/romy-and-michele-2-cast-wendi-mclendon-covey-1237040451/",
-      "date": "2026-08-14T19:42:19.509194+00:00",
+      "date": "2026-08-14T20:22:19.127450+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/JMW-WendiMcLendonCovey-08-09-2026_1017_Crop-Medium.jpg",
       "important": false,
       "score": 3
@@ -405,8 +405,56 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/features/podcast/screen-talk-podcast-tiff-ceo-cameron-bailey-toronto-2026-1235210516/",
-      "date": "2026-08-14T19:42:19.517326+00:00",
+      "date": "2026-08-14T20:22:19.135522+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/P115U4AG.jpg?w=650",
+      "important": false,
+      "score": 1
+    },
+    {
+      "id": "abd20f966da9",
+      "title": {
+        "en": "Paramount Says It Has Secured All Global Clearances to Close WBD Deal … Except for That Pesky Lawsuit",
+        "fa": "پارامونت می‌گوید تمام مجوزهای جهانی را برای بستن قرارداد WBD تضمین کرده است ... به جز آن دعوای مزاحم"
+      },
+      "excerpt": {
+        "en": "In a statement Friday, David Ellison says that they are offering \"commitments and concessions\" to try and get the deal over the line.",
+        "fa": "دیوید الیسون در بیانیه‌ای روز جمعه می‌گوید که آنها «تعهدات و امتیازاتی» را ارائه می‌کنند تا تلاش کنند تا معامله را به پایان برسانند."
+      },
+      "content": {
+        "en": "In a statement Friday, David Ellison says that they are offering \"commitments and concessions\" to try and get the deal over the line.",
+        "fa": "دیوید الیسون در بیانیه‌ای روز جمعه می‌گوید که آنها «تعهدات و امتیازاتی» را ارائه می‌کنند تا تلاش کنند تا معامله را به پایان برسانند."
+      },
+      "source": {
+        "en": "The Hollywood Reporter",
+        "fa": "The Hollywood Reporter"
+      },
+      "link": "https://www.hollywoodreporter.com/business/business-news/paramount-secures-global-clearances-wbd-deal-except-lawsuit-1236673941/",
+      "date": "2026-08-14T20:22:19.131365+00:00",
+      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/05/GettyImages-2271646963.jpg?w=1440&#038;h=810&#038;crop=1",
+      "important": false,
+      "score": 1
+    },
+    {
+      "id": "799d44bda4e2",
+      "title": {
+        "en": "If Paramount Leaves California, It Might Cut Costs but Wouldn’t Save on State Taxes",
+        "fa": "اگر پارامونت کالیفرنیا را ترک کند، ممکن است هزینه ها را کاهش دهد اما در مالیات های ایالتی صرفه جویی نمی کند"
+      },
+      "excerpt": {
+        "en": "Paramount is threatening to leave California if it cannot reach a deal with Attorney General Rob Bonta to allow it to acquire Warner Bros. Discovery. Puck reported the threat on Tuesday, following a similar report in Semafor last month, and adding that Paramount CEO David Ellison believes the move would save the company $500 million […]",
+        "fa": "پارامونت تهدید کرده است که اگر نتواند با راب بونتا، دادستان کل آمریکا به توافق برسد، کالیفرنیا را ترک خواهد کرد تا اجازه دهد شرکت برادران وارنر دیسکاوری را خریداری کند. Puck این تهدید را روز سه‌شنبه، پس از گزارش مشابهی در Semafor در ماه گذشته، گزارش داد و افزود که دیوید الیسون، مدیر عامل پارامونت معتقد است این اقدام باعث صرفه‌جویی 500 میلیون دلاری برای شرکت خواهد شد."
+      },
+      "content": {
+        "en": "Paramount is threatening to leave California if it cannot reach a deal with Attorney General Rob Bonta to allow it to acquire Warner Bros. Discovery. Puck reported the threat on Tuesday, following a similar report in Semafor last month, and adding that Paramount CEO David Ellison believes the move would save the company $500 million […]",
+        "fa": "پارامونت تهدید کرده است که اگر نتواند با راب بونتا، دادستان کل آمریکا به توافق برسد، کالیفرنیا را ترک خواهد کرد تا اجازه دهد شرکت برادران وارنر دیسکاوری را خریداری کند. Puck این تهدید را روز سه‌شنبه، پس از گزارش مشابهی در Semafor در ماه گذشته، گزارش داد و افزود که دیوید الیسون، مدیر عامل پارامونت معتقد است این اقدام باعث صرفه‌جویی 500 میلیون دلاری برای شرکت خواهد شد."
+      },
+      "source": {
+        "en": "Variety",
+        "fa": "Variety"
+      },
+      "link": "https://variety.com/2026/film/news/paramount-state-taxes-leaving-california-1236833420/",
+      "date": "2026-08-14T20:22:19.129550+00:00",
+      "image": "https://variety.com/wp-content/uploads/2025/10/Paramount-Lot.jpg",
       "important": false,
       "score": 1
     },
@@ -429,40 +477,16 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/spider-man-beyond-the-spider-verse-trailer-leaks-online-1237040700/",
-      "date": "2026-08-14T19:42:19.509045+00:00",
+      "date": "2026-08-14T20:22:19.127300+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/spider-man-into-the-spider-verse.jpg",
       "important": false,
       "score": 1
     },
     {
-      "id": "511d7d123cd6",
-      "title": {
-        "en": "‘The Rivals of Amziah King’ Review: Matthew McConaughey’s First Film in 6 Years Is a Lively, Overdirected Sorta-Musical About a Beekeeper",
-        "fa": "نقد و بررسی «رقبای آمزیاه کینگ»: اولین فیلم متیو مک‌کانهی پس از 6 سال یک موزیکال سرزنده و سرزنده درباره یک زنبوردار است."
-      },
-      "excerpt": {
-        "en": "A bluegrass-playing beekeeper reconnects with his Choctaw Nation foster daughter in \"The Vast of Night\" director Andrew Patterson's earnest crowdpleaser.",
-        "fa": "یک زنبوردار بلوگراس با دخترخوانده‌اش ملت چوکتاو در فیلم «وسیع شب» کارگردان اندرو پترسون، دوباره ارتباط برقرار می‌کند."
-      },
-      "content": {
-        "en": "A bluegrass-playing beekeeper reconnects with his Choctaw Nation foster daughter in \"The Vast of Night\" director Andrew Patterson's earnest crowdpleaser.",
-        "fa": "یک زنبوردار بلوگراس با دخترخوانده‌اش ملت چوکتاو در فیلم «وسیع شب» کارگردان اندرو پترسون، دوباره ارتباط برقرار می‌کند."
-      },
-      "source": {
-        "en": "IndieWire",
-        "fa": "IndieWire"
-      },
-      "link": "https://www.indiewire.com/criticism/movies/the-rivals-of-amziah-king-review-matthew-mcconaughey-1235102696/",
-      "date": "2026-08-14T19:42:19.519058+00:00",
-      "image": "https://www.indiewire.com/wp-content/uploads/2025/03/the-rivals-of-amziah-king-319857_c200b9.webp?w=650",
-      "important": false,
-      "score": 0
-    },
-    {
       "id": "f54913adb779",
       "title": {
         "en": "The Paramount-WBD Merger Has Documentary Filmmakers on Edge, as They Fear for the Future of Archival Footage",
-        "fa": "ادغام Paramount-WBD فیلمسازان مستندی را در لبه دارد، زیرا آنها از آینده فیلم های آرشیوی می ترسند."
+        "fa": "ادغام پارامونت-WBD فیلمسازان مستندی را در حاشیه دارد، زیرا آنها از آینده فیلم های آرشیوی می ترسند."
       },
       "excerpt": {
         "en": "CNN’s library alone encompasses more than 45 years of broadcast coverage of global news, wars, elections, and major political events.",
@@ -477,7 +501,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/features/interviews/paramount-wbd-merger-documentary-film-archival-footage-1235210400/",
-      "date": "2026-08-14T19:42:19.518702+00:00",
+      "date": "2026-08-14T20:22:19.136951+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/GettyImages-2254509227.jpg?w=650",
       "important": false,
       "score": 0
@@ -501,8 +525,32 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/criticism/movies/the-bend-in-the-river-review-robb-moss-1235210446/",
-      "date": "2026-08-14T19:42:19.518340+00:00",
+      "date": "2026-08-14T20:22:19.136569+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/Screen-Shot-2026-08-13-at-6.59.35-PM.png?w=650",
+      "important": false,
+      "score": 0
+    },
+    {
+      "id": "adb30dd27eb8",
+      "title": {
+        "en": "‘American Doctor’ Review: Three Doctors Travel to Gaza in a Bracing and Essential Documentary About Treating the Despair of an Ongoing Genocide",
+        "fa": "نقد و بررسی «پزشک آمریکایی»: سفر سه پزشک به غزه در یک مستند آماده و ضروری درباره درمان ناامیدی از یک نسل کشی در حال انجام"
+      },
+      "excerpt": {
+        "en": "Poh Si Teng's remarkable film spotlights the best and most capable among us as part of a uniquely effective call to action.",
+        "fa": "فیلم قابل توجه Poh Si Teng بهترین و تواناترین ما را به عنوان بخشی از یک فراخوان منحصر به فرد موثر به عمل می آورد."
+      },
+      "content": {
+        "en": "Poh Si Teng's remarkable film spotlights the best and most capable among us as part of a uniquely effective call to action.",
+        "fa": "فیلم قابل توجه Poh Si Teng بهترین و تواناترین ما را به عنوان بخشی از یک فراخوان منحصر به فرد موثر به عمل می آورد."
+      },
+      "source": {
+        "en": "IndieWire",
+        "fa": "IndieWire"
+      },
+      "link": "https://www.indiewire.com/criticism/movies/american-doctor-documentary-review-gaza-1235210500/",
+      "date": "2026-08-14T20:22:19.136098+00:00",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/08/ivfj95enlAmerican_Doctor-Still_1.webp?w=650",
       "important": false,
       "score": 0
     },
@@ -525,56 +573,8 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/news/business/dga-iatse-conditions-paramount-settlement-realistic-1235210398/",
-      "date": "2026-08-14T19:42:19.517660+00:00",
+      "date": "2026-08-14T20:22:19.135878+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/P10XLNE.jpg?w=650",
-      "important": false,
-      "score": 0
-    },
-    {
-      "id": "0d8bf60aee15",
-      "title": {
-        "en": "‘Abbott Elementary’ Is Always in the Right Ballpark — Literally So, for One Very Special Episode",
-        "fa": "Abbott Elementary همیشه در بال پارک مناسب است - به معنای واقعی کلمه، برای یک قسمت بسیار ویژه"
-      },
-      "excerpt": {
-        "en": "Director Randall Einhorn tells IndieWire about taking the show out to a ballgame and the happy accidents that make the series so special.",
-        "fa": "راندال آینهورن، کارگردان، به IndieWire در مورد بردن نمایش به یک بازی بال و حوادث شادی که سریال را بسیار خاص می‌کند، می‌گوید."
-      },
-      "content": {
-        "en": "Director Randall Einhorn tells IndieWire about taking the show out to a ballgame and the happy accidents that make the series so special.",
-        "fa": "راندال آینهورن، کارگردان، به IndieWire در مورد بردن نمایش به یک بازی بال و حوادث شادی که سریال را بسیار خاص می‌کند، می‌گوید."
-      },
-      "source": {
-        "en": "IndieWire",
-        "fa": "IndieWire"
-      },
-      "link": "https://www.indiewire.com/features/interviews/abbott-elementary-director-randall-einhorn-phillies-game-1235210238/",
-      "date": "2026-08-14T19:42:19.517028+00:00",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/08/178757_1142.jpg?w=650",
-      "important": false,
-      "score": 0
-    },
-    {
-      "id": "65a969c9e4a1",
-      "title": {
-        "en": "How the ‘Widow’s Bay’ Team Set the Tone for Apple’s Must-Watch Horror Comedy | How I Did It",
-        "fa": "چگونه تیم «خلیج بیوه» لحن را برای کمدی ترسناک اپل باید تماشا کرد | چگونه آن را انجام دادم"
-      },
-      "excerpt": {
-        "en": "Music editor Nate Underkuffler, composer David Fleming and editor Isaac Hagy tell TheWrap how they helped make a series that \"feels like a ride\" The post How the ‘Widow’s Bay’ Team Set the Tone for Apple’s Must-Watch Horror Comedy | How I Did It appeared first on TheWrap .",
-        "fa": "ویرایشگر موسیقی ناتی آندرکوفلر، آهنگساز دیوید فلمینگ و تدوینگر آیزاک هیگی به TheWrap می‌گویند که چگونه به ساخت سریالی کمک کردند که «احساس یک سواری» داشته باشد."
-      },
-      "content": {
-        "en": "Music editor Nate Underkuffler, composer David Fleming and editor Isaac Hagy tell TheWrap how they helped make a series that \"feels like a ride\" The post How the ‘Widow’s Bay’ Team Set the Tone for Apple’s Must-Watch Horror Comedy | How I Did It appeared first on TheWrap .",
-        "fa": "ویرایشگر موسیقی ناتی آندرکوفلر، آهنگساز دیوید فلمینگ و تدوینگر آیزاک هیگی به TheWrap می‌گویند که چگونه به ساخت سریالی کمک کردند که «احساس یک سواری» داشته باشد."
-      },
-      "source": {
-        "en": "The Wrap",
-        "fa": "The Wrap"
-      },
-      "link": "https://www.thewrap.com/industry-news/awards/widows-bay-david-fleming-isaac-hagy-nate-underkuffler-interview/",
-      "date": "2026-08-14T19:42:19.516344+00:00",
-      "image": "https://www.thewrap.com/wp-content/uploads/2026/08/widows-bay-how-i-did-it-nate-underkeffler-david-fleming-isaac-hagy-thewrap.jpg",
       "important": false,
       "score": 0
     }
