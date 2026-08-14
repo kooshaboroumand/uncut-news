@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-14T15:42:36.759260+00:00",
+  "updated_at": "2026-08-14T16:41:22.433051+00:00",
   "count": 24,
   "news": [
     {
@@ -21,80 +21,32 @@
         "fa": "Variety"
       },
       "link": "https://variety.com/2026/tv/news/lioness-season-3-ratings-1236834353/",
-      "date": "2026-08-14T15:42:36.491253+00:00",
+      "date": "2026-08-14T16:41:22.143642+00:00",
       "image": "https://variety.com/wp-content/uploads/2026/08/Lioness_300_RG_0226_0612_RT.jpg",
       "important": true,
       "score": 9
     },
     {
-      "id": "559d5565e902",
+      "id": "90744d1e9edc",
       "title": {
-        "en": "‘Sara Bareilles: Good Grief’ Trailer: The Beloved Songwriter Returns to the Studio in New Documentary",
-        "fa": "تریلر \"Sara Bareilles: Good Grief\": The Beloved Songwriter در مستندی جدید به استودیو بازگشت"
+        "en": "Riley Keough To Star In ‘Advantage Player’ Casino Drama In Works At HBO From Will Graham & Media Res",
+        "fa": "رایلی کیو برای بازی در درام کازینوی Advantage Player در HBO از Will Graham & Media Res"
       },
       "excerpt": {
-        "en": "Exclusive: The documentary, from director Josh Alexander, premiered at the Tribeca Film Festival and release in theaters this September.",
-        "fa": "اختصاصی: این مستند به کارگردانی جاش الکساندر در جشنواره فیلم ترایبکا به نمایش درآمد و در سپتامبر امسال در سینماها اکران شد."
+        "en": "EXCLUSIVE: HBO is betting on Advantage Player, landing a gambling-themed drama starring and executive produced by Riley Keough in a competitive situation. The project, inspired by real-life advantage player Gina Fiore, comes from Michael Ellenberg’s Media Res. It is written and executive produced by Will Graham. Advantage Player reunites Keough and Graham who worked together […]",
+        "fa": "اختصاصی: HBO روی Advantage Player شرط بندی می کند و یک درام با مضمون قمار با بازی و تهیه کنندگی اجرایی رایلی کیو در یک موقعیت رقابتی ارائه می کند. این پروژه که از جینا فیوره بازیکن برتر زندگی واقعی الهام گرفته شده است، برگرفته از Media Res اثر مایکل النبرگ است. نویسنده و تهیه کننده اجرایی آن ویل گراهام است. Advantage Player کیو و گراهام را که با هم کار می کردند دوباره متحد می کند"
       },
       "content": {
-        "en": "Exclusive: The documentary, from director Josh Alexander, premiered at the Tribeca Film Festival and release in theaters this September.",
-        "fa": "اختصاصی: این مستند به کارگردانی جاش الکساندر در جشنواره فیلم ترایبکا به نمایش درآمد و در سپتامبر امسال در سینماها اکران شد."
-      },
-      "source": {
-        "en": "IndieWire",
-        "fa": "IndieWire"
-      },
-      "link": "https://www.indiewire.com/news/trailers/sara-bareilles-good-grief-trailer-1235210259/",
-      "date": "2026-08-14T15:42:36.498776+00:00",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/08/image.png?w=650",
-      "important": true,
-      "score": 7
-    },
-    {
-      "id": "a29ae2b6f1d8",
-      "title": {
-        "en": "Lightdox Acquires ‘Auber 89’ Ahead Of Doc’s World Premiere at Venice Film Festival Sidebar Giornate Degli Autori",
-        "fa": "Lightdox پیش از نمایش جهانی Doc در جشنواره فیلم ونیز، \"Auber 89\" را خریداری کرد، Giornate Degli Autori"
-      },
-      "excerpt": {
-        "en": "EXCLUSIVE: International sales and distribution agency Lightdox has acquired Giuseppe Schillaci’s documentary Auber 89 ahead of its world premiere at the Giornate degli Autori’s Notti Veneziane (Venetian Nights), a sidebar of the Venice Film Festival. The nonfiction feature examines the experience of Fatsah Bouyahmed, a French Algerian actor who suffered memory loss after an accident. […]",
-        "fa": "انحصاری: آژانس بین المللی فروش و توزیع لایت داکس، مستند جوزپه شیلاچی اوبر 89 را پیش از نمایش جهانی آن در نوتی ونزیان Giornate degli Autori، نوار کناری جشنواره فیلم ونیز، خریداری کرد. این ویژگی غیرداستانی به بررسی تجربه فتاح بویاحمد، بازیگر فرانسوی الجزایری می پردازد که پس از تصادف دچار از دست دادن حافظه شد."
-      },
-      "content": {
-        "en": "EXCLUSIVE: International sales and distribution agency Lightdox has acquired Giuseppe Schillaci’s documentary Auber 89 ahead of its world premiere at the Giornate degli Autori’s Notti Veneziane (Venetian Nights), a sidebar of the Venice Film Festival. The nonfiction feature examines the experience of Fatsah Bouyahmed, a French Algerian actor who suffered memory loss after an accident. […]",
-        "fa": "انحصاری: آژانس بین المللی فروش و توزیع لایت داکس، مستند جوزپه شیلاچی اوبر 89 را پیش از نمایش جهانی آن در نوتی ونزیان Giornate degli Autori، نوار کناری جشنواره فیلم ونیز، خریداری کرد. این ویژگی غیرداستانی به بررسی تجربه فتاح بویاحمد، بازیگر فرانسوی الجزایری می پردازد که پس از تصادف دچار از دست دادن حافظه شد."
+        "en": "EXCLUSIVE: HBO is betting on Advantage Player, landing a gambling-themed drama starring and executive produced by Riley Keough in a competitive situation. The project, inspired by real-life advantage player Gina Fiore, comes from Michael Ellenberg’s Media Res. It is written and executive produced by Will Graham. Advantage Player reunites Keough and Graham who worked together […]",
+        "fa": "اختصاصی: HBO روی Advantage Player شرط بندی می کند و یک درام با مضمون قمار با بازی و تهیه کنندگی اجرایی رایلی کیو در یک موقعیت رقابتی ارائه می کند. این پروژه که از جینا فیوره بازیکن برتر زندگی واقعی الهام گرفته شده است، برگرفته از Media Res اثر مایکل النبرگ است. نویسنده و تهیه کننده اجرایی آن ویل گراهام است. Advantage Player کیو و گراهام را که با هم کار می کردند دوباره متحد می کند"
       },
       "source": {
         "en": "Deadline",
         "fa": "Deadline"
       },
-      "link": "https://deadline.com/2026/08/auber-89-lightdox-acquisition-1237036626/",
-      "date": "2026-08-14T15:42:36.490405+00:00",
-      "image": "https://deadline.com/wp-content/uploads/2026/08/2026_AUBER_89_STILLS_1.png",
-      "important": true,
-      "score": 7
-    },
-    {
-      "id": "c1d431b7889e",
-      "title": {
-        "en": "How ‘Walter Boys’ Star Noah LaLonde Went From Hockey Player to Heartthrob",
-        "fa": "چگونه نوح لالوند ستاره «Walter Boys» از بازیکن هاکی به Heartthrob تبدیل شد"
-      },
-      "excerpt": {
-        "en": "The 28-year-old might have grown up on the ice, but he later found his footing in front of the screen, notably with his breakout role in Netflix's 'My Life With the Walter Boys,' which just dropped its third season.",
-        "fa": "این جوان 28 ساله ممکن بود روی یخ بزرگ شده باشد، اما بعداً جای خود را در مقابل پرده سینما پیدا کرد، به ویژه با نقش آفرینی اش در «زندگی من با پسران والتر» نتفلیکس، که به تازگی فصل سوم آن منتشر شد."
-      },
-      "content": {
-        "en": "The 28-year-old might have grown up on the ice, but he later found his footing in front of the screen, notably with his breakout role in Netflix's 'My Life With the Walter Boys,' which just dropped its third season.",
-        "fa": "این جوان 28 ساله ممکن بود روی یخ بزرگ شده باشد، اما بعداً جای خود را در مقابل پرده سینما پیدا کرد، به ویژه با نقش آفرینی اش در «زندگی من با پسران والتر» نتفلیکس، که به تازگی فصل سوم آن منتشر شد."
-      },
-      "source": {
-        "en": "The Hollywood Reporter",
-        "fa": "The Hollywood Reporter"
-      },
-      "link": "https://www.hollywoodreporter.com/tv/tv-features/noah-lalonde-my-life-with-the-walter-boys-season-3-interview-1236672481/",
-      "date": "2026-08-14T15:42:36.493667+00:00",
-      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/Noah-LaLonde-NBT-temp-publicity-H-2026.png?w=1440&#038;h=810&#038;crop=1",
+      "link": "https://deadline.com/2026/08/riley-keough-advantage-player-hbo-series-will-graham-1237033401/",
+      "date": "2026-08-14T16:41:22.140435+00:00",
+      "image": "https://deadline.com/wp-content/uploads/2026/08/Riley-Keough-Will-Graham.jpg",
       "important": true,
       "score": 6
     },
@@ -117,7 +69,7 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/netflix-orders-ya-mystery-romance-series-sid-zoey-1237040202/",
-      "date": "2026-08-14T15:42:36.488622+00:00",
+      "date": "2026-08-14T16:41:22.141506+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/Jon-Kasdan-John-Shiban.jpg",
       "important": true,
       "score": 5
@@ -141,7 +93,7 @@
         "fa": "Variety"
       },
       "link": "https://variety.com/2026/film/news/the-mandalorian-and-grogu-disney-plus-streaming-release-date-1236788894/",
-      "date": "2026-08-14T15:42:36.491147+00:00",
+      "date": "2026-08-14T16:41:22.143533+00:00",
       "image": "https://variety.com/wp-content/uploads/2026/05/MCDSTWA_WD092.jpg",
       "important": true,
       "score": 4
@@ -165,7 +117,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/features/interviews/will-poulter-noah-centineo-sundance-union-county-1235174777/",
-      "date": "2026-08-14T15:42:36.498254+00:00",
+      "date": "2026-08-14T16:41:22.150055+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/Unknown.jpeg?w=650",
       "important": false,
       "score": 3
@@ -189,80 +141,80 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/awards/consider-this/hbo-true-crime-the-yogurt-shop-murders-killer-ending-1235210345/",
-      "date": "2026-08-14T15:42:36.497526+00:00",
+      "date": "2026-08-14T16:41:22.149254+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/04/the-yogurt-shop-murders.jpeg?w=650",
       "important": false,
       "score": 3
     },
     {
-      "id": "9e71986d96c8",
+      "id": "9f26fb5c8b0e",
       "title": {
-        "en": "‘Black Mirror’ and ‘Loki’ Directors Say They Rejected HBO’s ‘Harry Potter’ Due to J.K. Rowling’s Transphobia: ‘Absolutely F—-ing Not’",
-        "fa": "کارگردانان «آینه سیاه» و «لوکی» می گویند که «هری پاتر» شبکه HBO را به دلیل جی.کی. ترنس هراسی رولینگ: \"مطمئناً فاسد - نه\""
+        "en": "‘Task’ Star Tom Pelphrey: The One Thing That Kept Me Up at Night",
+        "fa": "تام پلفری ستاره «تسک»: چیزی که من را در شب بیدار نگه داشت"
       },
       "excerpt": {
-        "en": "Not everyone wants to climb aboard the Hogwarts Express, it transpires. Top TV director Ally Pankiw has posted on Instagram a screenshot from a text exchange with a rep in which she scoffed at the notion that she would consider enrolling with HBO’s forthcoming series adaptation of J.K. Rowling’s “Harry Potter” novels. The reason? Rowling’s […]",
-        "fa": "همه نمی خواهند سوار اکسپرس هاگوارتز شوند، این اتفاق می افتد. آلی پانکیو، کارگردان برتر تلویزیون، تصویری از یک تبادل متن با یک نماینده را در اینستاگرام منتشر کرده است که در آن با این تصور که قصد دارد در سریال اقتباسی از جی.کی. اچ‌بی‌او در آینده ثبت نام کند، به تمسخر گرفته است. رمان های «هری پاتر» رولینگ. دلیل؟ رولینگ"
+        "en": "The actor is famous for playing intense and deeply conflicted people. But his grueling performance in HBO’s hit just might win him an Emmy.",
+        "fa": "این بازیگر به خاطر بازی در افراد شدید و عمیقاً متضاد مشهور است. اما بازی طاقت فرسا او در سریال HBO ممکن است جایزه امی را برای او به ارمغان بیاورد."
       },
       "content": {
-        "en": "Not everyone wants to climb aboard the Hogwarts Express, it transpires. Top TV director Ally Pankiw has posted on Instagram a screenshot from a text exchange with a rep in which she scoffed at the notion that she would consider enrolling with HBO’s forthcoming series adaptation of J.K. Rowling’s “Harry Potter” novels. The reason? Rowling’s […]",
-        "fa": "همه نمی خواهند سوار اکسپرس هاگوارتز شوند، این اتفاق می افتد. آلی پانکیو، کارگردان برتر تلویزیون، تصویری از یک تبادل متن با یک نماینده را در اینستاگرام منتشر کرده است که در آن با این تصور که قصد دارد در سریال اقتباسی از جی.کی. اچ‌بی‌او در آینده ثبت نام کند، به تمسخر گرفته است. رمان های «هری پاتر» رولینگ. دلیل؟ رولینگ"
+        "en": "The actor is famous for playing intense and deeply conflicted people. But his grueling performance in HBO’s hit just might win him an Emmy.",
+        "fa": "این بازیگر به خاطر بازی در افراد شدید و عمیقاً متضاد مشهور است. اما بازی طاقت فرسا او در سریال HBO ممکن است جایزه امی را برای او به ارمغان بیاورد."
+      },
+      "source": {
+        "en": "The Hollywood Reporter",
+        "fa": "The Hollywood Reporter"
+      },
+      "link": "https://www.hollywoodreporter.com/tv/tv-features/tom-pelphrey-emmy-nod-task-1236671453/",
+      "date": "2026-08-14T16:41:22.144216+00:00",
+      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/15FEA-Playbook-Main-2026.jpg?w=1296&#038;h=730&#038;crop=1",
+      "important": false,
+      "score": 3
+    },
+    {
+      "id": "6c4d3cb1adc9",
+      "title": {
+        "en": "J. Smith-Cameron and Jefferson White Cast in Jeff Rutherford’s Sophomore Feature ‘In Our Own Sweet Way’ (EXCLUSIVE)",
+        "fa": "جی. اسمیت-کامرون و جفرسون وایت بازیگران فیلم دوم جف رادرفورد «به روش ما شیرین»"
+      },
+      "excerpt": {
+        "en": "“Succession” star J. Smith-Cameron will star alongside “Yellowstone” actor Jefferson White in the upcoming independent feature film “In Our Own Sweet Way” from director, writer, and producer Jeff Rutherford. The film recently wrapped and is being produced under Rutherford’s banner Fred Senior Films, in association with Stoner Ranch Productions, Echo & Add, and Fair Oaks […]",
+        "fa": "جی. اسمیت-کامرون، ستاره «جانشینی» در کنار جفرسون وایت بازیگر «یلواستون» در فیلم مستقل آینده «به روش شیرین خودمان» ساخته جف رادرفورد کارگردان، نویسنده و تهیه کننده بازی خواهد کرد. این فیلم اخیرا بسته شده و تحت پرچم رادرفورد، Fred Senior Films، با همکاری Stoner Ranch Productions، Echo & Add، و Fair Oaks تولید می شود."
+      },
+      "content": {
+        "en": "“Succession” star J. Smith-Cameron will star alongside “Yellowstone” actor Jefferson White in the upcoming independent feature film “In Our Own Sweet Way” from director, writer, and producer Jeff Rutherford. The film recently wrapped and is being produced under Rutherford’s banner Fred Senior Films, in association with Stoner Ranch Productions, Echo & Add, and Fair Oaks […]",
+        "fa": "جی. اسمیت-کامرون، ستاره «جانشینی» در کنار جفرسون وایت بازیگر «یلواستون» در فیلم مستقل آینده «به روش شیرین خودمان» ساخته جف رادرفورد کارگردان، نویسنده و تهیه کننده بازی خواهد کرد. این فیلم اخیرا بسته شده و تحت پرچم رادرفورد، Fred Senior Films، با همکاری Stoner Ranch Productions، Echo & Add، و Fair Oaks تولید می شود."
       },
       "source": {
         "en": "Variety",
         "fa": "Variety"
       },
-      "link": "https://variety.com/2026/tv/global/black-mirror-loki-directors-hbo-harry-potter-jk-rowling-1236834589/",
-      "date": "2026-08-14T15:42:36.491700+00:00",
-      "image": "https://variety.com/wp-content/uploads/2026/08/Potter.jpg",
+      "link": "https://variety.com/2026/film/news/j-smith-cameron-jefferson-white-jeff-rutherford-in-our-own-sweet-way-1236834558/",
+      "date": "2026-08-14T16:41:22.143186+00:00",
+      "image": "https://variety.com/wp-content/uploads/2026/08/collage.jpg",
       "important": false,
       "score": 3
     },
     {
-      "id": "6f1a079ff4cb",
+      "id": "b093cbe2d7ae",
       "title": {
-        "en": "Mark McKenna & Stephen Lang Enter Thriller ‘Isolation Booth’",
-        "fa": "مارک مک‌کنا و استفان لانگ وارد فیلم هیجان‌انگیز «غرفه انزوا» شدند"
+        "en": "Kyle Chandler and Aaron Pierre Are Great ‘Lanterns’, but HBO’s DC Drama Is Overshadowed by Its Influences: TV Review",
+        "fa": "کایل چندلر و آرون پیر «فانوس‌های» فوق‌العاده‌ای هستند، اما درام دی سی HBO تحت تأثیر تأثیراتش قرار گرفته است: نقد تلویزیونی"
       },
       "excerpt": {
-        "en": "EXCLUSIVE: Mark McKenna (Sing Street) and Stephen Lang (Avatar) are among cast to lead thriller Isolation Booth, which has recently wrapped filming in Minnesota. Heralding from producers Shifted Industry (Showtime’s Basketball County: In The Water) and Witchcraft Motion Picture Company (IFC & Shudder’s Dolly), the psychological thriller from first-time feature director John Beckham follows a […]",
-        "fa": "اختصاصی: مارک مک کنا و استفان لانگ از جمله بازیگران اصلی فیلم هیجان انگیز Isolation Booth هستند که به تازگی فیلمبرداری آن در مینه سوتا به پایان رسیده است. این فیلم هیجان‌انگیز روان‌شناختی از کارگردانی جان بکهام که اولین بار کارگردانی آن را کارگردانی کرده است، با تهیه‌کنندگان Shifted Industry و Witchcraft Motion Picture Company منتشر شده است."
+        "en": "Of all the superheroes to give the gritty realism treatment, the Green Lantern is an odd choice. Tasked with enforcing intergalactic order with a magic ring bestowed by a group of blue aliens (before the Na’avi, there were the Guardians), the character occupies the opposite end of the tonal spectrum from Bruce Wayne stalking the […]",
+        "fa": "از میان تمام ابرقهرمانانی که با واقع گرایی سنگدلانه رفتار می کنند، گرین لنترن انتخاب عجیبی است. این شخصیت که وظیفه دارد نظم بین کهکشانی را با یک حلقه جادویی که توسط گروهی از بیگانگان آبی اعطا شده است، اجرا کند، از طرف بروس وین که در حال تعقیب است، نقطه مقابل طیف تونال را اشغال می کند."
       },
       "content": {
-        "en": "EXCLUSIVE: Mark McKenna (Sing Street) and Stephen Lang (Avatar) are among cast to lead thriller Isolation Booth, which has recently wrapped filming in Minnesota. Heralding from producers Shifted Industry (Showtime’s Basketball County: In The Water) and Witchcraft Motion Picture Company (IFC & Shudder’s Dolly), the psychological thriller from first-time feature director John Beckham follows a […]",
-        "fa": "اختصاصی: مارک مک کنا و استفان لانگ از جمله بازیگران اصلی فیلم هیجان انگیز Isolation Booth هستند که به تازگی فیلمبرداری آن در مینه سوتا به پایان رسیده است. این فیلم هیجان‌انگیز روان‌شناختی از کارگردانی جان بکهام که اولین بار کارگردانی آن را کارگردانی کرده است، با تهیه‌کنندگان Shifted Industry و Witchcraft Motion Picture Company منتشر شده است."
+        "en": "Of all the superheroes to give the gritty realism treatment, the Green Lantern is an odd choice. Tasked with enforcing intergalactic order with a magic ring bestowed by a group of blue aliens (before the Na’avi, there were the Guardians), the character occupies the opposite end of the tonal spectrum from Bruce Wayne stalking the […]",
+        "fa": "از میان تمام ابرقهرمانانی که با واقع گرایی سنگدلانه رفتار می کنند، گرین لنترن انتخاب عجیبی است. این شخصیت که وظیفه دارد نظم بین کهکشانی را با یک حلقه جادویی که توسط گروهی از بیگانگان آبی اعطا شده است، اجرا کند، از طرف بروس وین که در حال تعقیب است، نقطه مقابل طیف تونال را اشغال می کند."
       },
       "source": {
-        "en": "Deadline",
-        "fa": "Deadline"
+        "en": "Variety",
+        "fa": "Variety"
       },
-      "link": "https://deadline.com/2026/08/stephen-lang-mark-mckenna-isolation-booth-movie-minnesota-1237035219/",
-      "date": "2026-08-14T15:42:36.490798+00:00",
-      "image": "https://deadline.com/wp-content/uploads/2026/08/Isolation-Booth-Mark-Mckenna-and-Stephen-Lang.jpg",
-      "important": false,
-      "score": 3
-    },
-    {
-      "id": "44c85ed5dd0a",
-      "title": {
-        "en": "Tom Prior Signs With Independent Creative Management",
-        "fa": "Tom Prior Signs With Independent Creative Management"
-      },
-      "excerpt": {
-        "en": "EXCLUSIVE: Firebird and Kingsman: The Secret Service actor Tom Prior has signed with Independent Creative Management (ICM) in the UK. Prior is best known for his lead role in romantic war feature Firebird about a forbidden love between a private and a fighter pilot in the Soviet Air Force during the Cold War. He was […]",
-        "fa": "انحصاری: Firebird و Kingsman: The Secret Service بازیگر تام پریور با Independent Creative Management در بریتانیا قرارداد امضا کرده است. پریور بیشتر به خاطر نقش اصلی‌اش در فیلم جنگی عاشقانه Firebird درباره عشق ممنوعه بین یک خلبان خصوصی و یک خلبان جنگنده در نیروی هوایی شوروی در طول جنگ سرد شناخته می‌شود. او بود"
-      },
-      "content": {
-        "en": "EXCLUSIVE: Firebird and Kingsman: The Secret Service actor Tom Prior has signed with Independent Creative Management (ICM) in the UK. Prior is best known for his lead role in romantic war feature Firebird about a forbidden love between a private and a fighter pilot in the Soviet Air Force during the Cold War. He was […]",
-        "fa": "انحصاری: Firebird و Kingsman: The Secret Service بازیگر تام پریور با Independent Creative Management در بریتانیا قرارداد امضا کرده است. پریور بیشتر به خاطر نقش اصلی‌اش در فیلم جنگی عاشقانه Firebird درباره عشق ممنوعه بین یک خلبان خصوصی و یک خلبان جنگنده در نیروی هوایی شوروی در طول جنگ سرد شناخته می‌شود. او بود"
-      },
-      "source": {
-        "en": "Deadline",
-        "fa": "Deadline"
-      },
-      "link": "https://deadline.com/2026/08/tom-prior-independent-creative-management-1237039749/",
-      "date": "2026-08-14T15:42:36.490292+00:00",
-      "image": "https://deadline.com/wp-content/uploads/2026/08/Tom-Prior.jpg",
+      "link": "https://variety.com/2026/tv/reviews/lanterns-review-kyle-chandler-aaron-pierre-hbo-dc-1236833207/",
+      "date": "2026-08-14T16:41:22.142559+00:00",
+      "image": "https://variety.com/wp-content/uploads/2026/08/aaron-pierre-kyle-chandler.jpg",
       "important": false,
       "score": 3
     },
@@ -285,7 +237,7 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/widows-bay-season-2-matthew-rhys-katie-dippold-interview-1237032275/",
-      "date": "2026-08-14T15:42:36.489245+00:00",
+      "date": "2026-08-14T16:41:22.142148+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/GROUP-SHOT_PREMIERE.jpg",
       "important": false,
       "score": 3
@@ -309,7 +261,7 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/thora-birch-barbara-hershey-jeff-perry-last-seder-movie-1237038631/",
-      "date": "2026-08-14T15:42:36.488768+00:00",
+      "date": "2026-08-14T16:41:22.141657+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/Thora-Birch-Barbara-Hershey-Jeff-Perry-Morgan-Saylor.jpg",
       "important": false,
       "score": 3
@@ -333,8 +285,56 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/austria-chooses-sandra-huller-rose-international-oscar-1237040432/",
-      "date": "2026-08-14T15:42:36.488456+00:00",
+      "date": "2026-08-14T16:41:22.141343+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/02/Rose.jpg",
+      "important": false,
+      "score": 3
+    },
+    {
+      "id": "6748070730f7",
+      "title": {
+        "en": "‘The Wrong Girls’ Writer/Director & Cast On Stoner Comedy’s “L.A. Accent,” Potential For Sequel: “There’s So Much Left There”",
+        "fa": "نویسنده/کارگردان «دختران اشتباه» و بازیگران کمدی استونر «لهجه لس آنجلس»، بالقوه برای دنباله: «خیلی چیزها باقی مانده است»"
+      },
+      "excerpt": {
+        "en": "With three native Southern Californians at the helm, The Wrong Girls was always meant to be set in the unique weed culture of Los Angeles. Ahead of the release of the stoner comedy, which premieres Friday in theaters, writer-director Dylan Meyer and stars Kristen Stewart and Alia Shawkat told Deadline “it was a dream” and […]",
+        "fa": "با سه ساکن کالیفرنیای جنوبی در راس، The Wrong Girls همیشه در فرهنگ منحصر به فرد علف های هرز لس آنجلس قرار داشت. پیش از اکران کمدی سنگر که روز جمعه در سینماها نمایش داده می شود، دیلن مایر نویسنده و کارگردان و کریستن استوارت و آلیا شوکت به ددلاین گفتند: «این یک رویا بود» و"
+      },
+      "content": {
+        "en": "With three native Southern Californians at the helm, The Wrong Girls was always meant to be set in the unique weed culture of Los Angeles. Ahead of the release of the stoner comedy, which premieres Friday in theaters, writer-director Dylan Meyer and stars Kristen Stewart and Alia Shawkat told Deadline “it was a dream” and […]",
+        "fa": "با سه ساکن کالیفرنیای جنوبی در راس، The Wrong Girls همیشه در فرهنگ منحصر به فرد علف های هرز لس آنجلس قرار داشت. پیش از اکران کمدی سنگر که روز جمعه در سینماها نمایش داده می شود، دیلن مایر نویسنده و کارگردان و کریستن استوارت و آلیا شوکت به ددلاین گفتند: «این یک رویا بود» و"
+      },
+      "source": {
+        "en": "Deadline",
+        "fa": "Deadline"
+      },
+      "link": "https://deadline.com/2026/08/the-wrong-girls-stoner-comedy-la-accent-potential-sequel-1237033542/",
+      "date": "2026-08-14T16:41:22.140734+00:00",
+      "image": "https://deadline.com/wp-content/uploads/2026/08/MCDWRGI_EC009_c7e2ee.jpg",
+      "important": false,
+      "score": 3
+    },
+    {
+      "id": "1228612c5e28",
+      "title": {
+        "en": "‘Final Destination’ Star Kaitlyn Santa Juana, Maclean Fish & Nikki Roumel Leading Road-Trip Dramedy ‘The Jam Van’",
+        "fa": "کیتلین سانتا جوآنا، ستاره «مقصد نهایی»، «مکلین فیش» و «نیکی رومل» درامدی پیشرو در سفر جاده‌ای «جام ون»"
+      },
+      "excerpt": {
+        "en": "EXCLUSIVE: Final Destination Bloodlines star Kaitlyn Santa Juana, Maclean Fish (Little House On The Prairie) and Nikki Roumel (Ginny & Georgia) are leading road-trip dramedy, The Jam Van. Madison MacIsaac (My Secret Santa), Cassandra Potenza (Clown in a Cornfield) and Dom Bergeron (High School) round out the lead cast. Production begins in Winnipeg, Manitoba at the end of August. The Jam Van follows “a dysfunctional pop punk […]",
+        "fa": "انحصاری: کیتلین سانتا جوآنا، ستاره Final Destination Bloodlines، Maclean Fish و Nikki Roumel درام سفر جاده‌ای، The Jam Van، پیشرو هستند. مدیسون مک ایزاک، کاساندرا پوتنزا و دام برگرون بازیگران اصلی را تکمیل می‌کنند. تولید در وینیپگ، منیتوبا در پایان ماه اوت آغاز می شود. جم ون از یک پاپ پانک ناکارآمد پیروی می کند"
+      },
+      "content": {
+        "en": "EXCLUSIVE: Final Destination Bloodlines star Kaitlyn Santa Juana, Maclean Fish (Little House On The Prairie) and Nikki Roumel (Ginny & Georgia) are leading road-trip dramedy, The Jam Van. Madison MacIsaac (My Secret Santa), Cassandra Potenza (Clown in a Cornfield) and Dom Bergeron (High School) round out the lead cast. Production begins in Winnipeg, Manitoba at the end of August. The Jam Van follows “a dysfunctional pop punk […]",
+        "fa": "انحصاری: کیتلین سانتا جوآنا، ستاره Final Destination Bloodlines، Maclean Fish و Nikki Roumel درام سفر جاده‌ای، The Jam Van، پیشرو هستند. مدیسون مک ایزاک، کاساندرا پوتنزا و دام برگرون بازیگران اصلی را تکمیل می‌کنند. تولید در وینیپگ، منیتوبا در پایان ماه اوت آغاز می شود. جم ون از یک پاپ پانک ناکارآمد پیروی می کند"
+      },
+      "source": {
+        "en": "Deadline",
+        "fa": "Deadline"
+      },
+      "link": "https://deadline.com/2026/08/kaitlyn-santa-juana-maclean-fish-nikki-roumel-jam-van-1237039742/",
+      "date": "2026-08-14T16:41:22.140614+00:00",
+      "image": "https://deadline.com/wp-content/uploads/2026/08/Kaitlyn-Santa-Juana-Maclean-Fish-Nikki-Roumel.jpg",
       "important": false,
       "score": 3
     },
@@ -357,7 +357,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/news/trailers/ken-russells-the-devils-restoration-trailer-1235210331/",
-      "date": "2026-08-14T15:42:36.498484+00:00",
+      "date": "2026-08-14T16:41:22.150302+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/57097357-4bf5-4f7f-9db5-43513d5746bc.jpeg?w=650",
       "important": false,
       "score": 1
@@ -381,7 +381,7 @@
         "fa": "The Wrap"
       },
       "link": "https://www.thewrap.com/industry-news/business/charter-cox-merger-approved-california-regulator/",
-      "date": "2026-08-14T15:42:36.495248+00:00",
+      "date": "2026-08-14T16:41:22.147360+00:00",
       "image": "https://www.thewrap.com/wp-content/uploads/2026/08/Spectrum.jpg",
       "important": false,
       "score": 1
@@ -405,34 +405,34 @@
         "fa": "Variety"
       },
       "link": "https://variety.com/2026/film/box-office/box-office-end-of-oak-street-previews-1236833323/",
-      "date": "2026-08-14T15:42:36.490961+00:00",
+      "date": "2026-08-14T16:41:22.143357+00:00",
       "image": "https://variety.com/wp-content/uploads/2026/08/MCDENOF_WB021.jpg",
       "important": false,
       "score": 1
     },
     {
-      "id": "f78a981130cd",
+      "id": "62daf4c69d00",
       "title": {
-        "en": "NYFF Unveils 2026 Currents Lineup, Featuring Boundary-Pushing Cinema from Around the World",
-        "fa": "NYFF خط تولید 2026 Currents را با سینمای محدودکننده از سراسر جهان رونمایی کرد"
+        "en": "‘Spider-Man: Beyond the Spider-Verse’ Trailer Leaks Online, Prompting Co-Writer Chris Miller to Speak Out: ‘Not a Fan of Leaks of Unfinished Footage’",
+        "fa": "تریلر «Spider-Man: Beyond the Spider-Verse» به صورت آنلاین به بیرون درز کرد و کریس میلر یکی از نویسندگان این فیلم را ترغیب کرد که صحبت کند: «هیچ طرفدار لو رفتن فیلم ناتمام نیستم»"
       },
       "excerpt": {
-        "en": "The section will be headlined by Tala Hadid's new documentary \"Bardi,\" which centers around a Moroccan equestrian military ritual dating back to the 16th century.",
-        "fa": "عنوان این بخش با مستند جدید طلا حدید \"بردی\" خواهد بود که حول یک آیین نظامی سوارکاری مراکشی که قدمت آن به قرن شانزدهم بازمی‌گردد، می‌پردازد."
+        "en": "“Spider-Man: Beyond the Spider-Verse” is the latest movie to get hit by an unauthorized leak. The trailer for the third “Spider-Verse” movie, which is scheduled to hit theaters on June 18, 2027, appeared to leak online on Twitter/X this week. Co-writer and producer Chris Miller disavowed the leak on Friday, writing “Not a fan of […]",
+        "fa": "«مرد عنکبوتی: فراتر از دنیای عنکبوتی» جدیدترین فیلمی است که به طور غیرمجاز درز کرده است. تریلر سومین فیلم «آیه عنکبوتی» که قرار است در تاریخ 18 ژوئن 2027 اکران شود، به نظر می‌رسد این هفته در توییتر/X به صورت آنلاین درز کرده است. کریس میلر، یکی از نویسندگان و تهیه‌کننده‌ها، این افشای اطلاعات را رد کرد و نوشت: «یک طرفدار"
       },
       "content": {
-        "en": "The section will be headlined by Tala Hadid's new documentary \"Bardi,\" which centers around a Moroccan equestrian military ritual dating back to the 16th century.",
-        "fa": "عنوان این بخش با مستند جدید طلا حدید \"بردی\" خواهد بود که حول یک آیین نظامی سوارکاری مراکشی که قدمت آن به قرن شانزدهم بازمی‌گردد، می‌پردازد."
+        "en": "“Spider-Man: Beyond the Spider-Verse” is the latest movie to get hit by an unauthorized leak. The trailer for the third “Spider-Verse” movie, which is scheduled to hit theaters on June 18, 2027, appeared to leak online on Twitter/X this week. Co-writer and producer Chris Miller disavowed the leak on Friday, writing “Not a fan of […]",
+        "fa": "«مرد عنکبوتی: فراتر از دنیای عنکبوتی» جدیدترین فیلمی است که به طور غیرمجاز درز کرده است. تریلر سومین فیلم «آیه عنکبوتی» که قرار است در تاریخ 18 ژوئن 2027 اکران شود، به نظر می‌رسد این هفته در توییتر/X به صورت آنلاین درز کرده است. کریس میلر، یکی از نویسندگان و تهیه‌کننده‌ها، این افشای اطلاعات را رد کرد و نوشت: «یک طرفدار"
       },
       "source": {
-        "en": "IndieWire",
-        "fa": "IndieWire"
+        "en": "Variety",
+        "fa": "Variety"
       },
-      "link": "https://www.indiewire.com/news/festivals/nyff-2026-currents-lineup-1235210227/",
-      "date": "2026-08-14T15:42:36.498680+00:00",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/08/Screen-Shot-2026-08-12-at-11.33.41-AM.png?w=650",
+      "link": "https://variety.com/2026/film/news/spider-man-beyond-spider-verse-trailer-leak-1236834648/",
+      "date": "2026-08-14T16:41:22.142279+00:00",
+      "image": "https://variety.com/wp-content/uploads/2023/11/Screen-Shot-2023-11-02-at-5.56.46-PM.png",
       "important": false,
-      "score": 0
+      "score": 1
     },
     {
       "id": "377011e7793a",
@@ -453,7 +453,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/features/commentary/how-ang-tanging-ina-movie-franchise-molded-filipino-comedy-1235209396/",
-      "date": "2026-08-14T15:42:36.497962+00:00",
+      "date": "2026-08-14T16:41:22.149730+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/images_19e165.jpeg?w=595",
       "important": false,
       "score": 0
@@ -477,7 +477,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/criticism/movies/the-rivals-of-amziah-king-review-matthew-mcconaughey-1235102696/",
-      "date": "2026-08-14T15:42:36.497351+00:00",
+      "date": "2026-08-14T16:41:22.149066+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2025/03/the-rivals-of-amziah-king-319857_c200b9.webp?w=650",
       "important": false,
       "score": 0
@@ -489,68 +489,44 @@
         "fa": "ادغام پارامونت-WBD فیلمسازان مستندی را در حاشیه دارد، زیرا آنها از آینده فیلم های آرشیوی می ترسند."
       },
       "excerpt": {
-        "en": "CNN’s library alone library alone encompasses more than 45 years of broadcast coverage of global news, wars, elections, and major political events.",
-        "fa": "کتابخانه سی ان ان به تنهایی شامل بیش از 45 سال پوشش پخش اخبار جهانی، جنگ ها، انتخابات و رویدادهای مهم سیاسی است."
+        "en": "CNN’s library alone encompasses more than 45 years of broadcast coverage of global news, wars, elections, and major political events.",
+        "fa": "کتابخانه سی ان ان به تنهایی بیش از 45 سال پوشش خبری جهانی، جنگ ها، انتخابات و رویدادهای مهم سیاسی را در بر می گیرد."
       },
       "content": {
-        "en": "CNN’s library alone library alone encompasses more than 45 years of broadcast coverage of global news, wars, elections, and major political events.",
-        "fa": "کتابخانه سی ان ان به تنهایی شامل بیش از 45 سال پوشش پخش اخبار جهانی، جنگ ها، انتخابات و رویدادهای مهم سیاسی است."
+        "en": "CNN’s library alone encompasses more than 45 years of broadcast coverage of global news, wars, elections, and major political events.",
+        "fa": "کتابخانه سی ان ان به تنهایی بیش از 45 سال پوشش خبری جهانی، جنگ ها، انتخابات و رویدادهای مهم سیاسی را در بر می گیرد."
       },
       "source": {
         "en": "IndieWire",
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/features/interviews/paramount-wbd-merger-documentary-film-archival-footage-1235210400/",
-      "date": "2026-08-14T15:42:36.497014+00:00",
+      "date": "2026-08-14T16:41:22.148695+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/GettyImages-2254509227.jpg?w=650",
       "important": false,
       "score": 0
     },
     {
-      "id": "5bc0071d2c0a",
+      "id": "5ed7318c7b0a",
       "title": {
-        "en": "‘Sentimental Value’ Screenwriter Gets Backing For Next Directorial Feature",
-        "fa": "فیلمنامه‌نویس «ارزش عاطفی» برای فیلم بعدی کارگردانی حمایت می‌شود"
+        "en": "‘The Bend in the River’ Review: A Group of Onetime Nudists Get (Mostly) Better with Age",
+        "fa": "نقد و بررسی \"خم در رودخانه\": گروهی از برهنگان های زمانی با افزایش سن بهتر می شوند"
       },
       "excerpt": {
-        "en": "Eskil Vogt, a dual Oscar nominee for for Best Original Screenplay for 'Sentimental Value' and 'The Worst Person in the World,' is prepping his next film as a director, the psychological thriller 'Untitled.'",
-        "fa": "اسکیل وگت، نامزد دوگانه اسکار برای بهترین فیلمنامه اورجینال برای «ارزش احساسی» و «بدترین فرد جهان»، در حال آماده سازی فیلم بعدی خود به عنوان کارگردان، تریلر روانشناختی «بی عنوان» است."
+        "en": "Robb Moss' third entry in his decades-spanning documentary series about his college friends illustrates how age can mellow us without altering what counts.",
+        "fa": "سومین ورودی راب ماس در مجموعه مستند چند دهه‌ای درباره دوستان دانشگاهی‌اش نشان می‌دهد که چگونه سن می‌تواند ما را بدون تغییر آنچه مهم است، آرام کند."
       },
       "content": {
-        "en": "Eskil Vogt, a dual Oscar nominee for for Best Original Screenplay for 'Sentimental Value' and 'The Worst Person in the World,' is prepping his next film as a director, the psychological thriller 'Untitled.'",
-        "fa": "اسکیل وگت، نامزد دوگانه اسکار برای بهترین فیلمنامه اورجینال برای «ارزش احساسی» و «بدترین فرد جهان»، در حال آماده سازی فیلم بعدی خود به عنوان کارگردان، تریلر روانشناختی «بی عنوان» است."
+        "en": "Robb Moss' third entry in his decades-spanning documentary series about his college friends illustrates how age can mellow us without altering what counts.",
+        "fa": "سومین ورودی راب ماس در مجموعه مستند چند دهه‌ای درباره دوستان دانشگاهی‌اش نشان می‌دهد که چگونه سن می‌تواند ما را بدون تغییر آنچه مهم است، آرام کند."
       },
       "source": {
-        "en": "The Hollywood Reporter",
-        "fa": "The Hollywood Reporter"
+        "en": "IndieWire",
+        "fa": "IndieWire"
       },
-      "link": "https://www.hollywoodreporter.com/movies/movie-news/sentimental-value-screenwriter-backed-to-direct-new-feature-1236673577/",
-      "date": "2026-08-14T15:42:36.494582+00:00",
-      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/GettyImages-2266353474.jpg?w=1440&#038;h=810&#038;crop=1",
-      "important": false,
-      "score": 0
-    },
-    {
-      "id": "ead45a246d62",
-      "title": {
-        "en": "Christine Vachon Jokes She Likes Pedro Pascal Better Than Joaquin Phoenix in Todd Haynes’ ‘De Noche’",
-        "fa": "کریستین واچون به شوخی می‌گوید او پدرو پاسکال را بیشتر از خواکین فینیکس در فیلم «De Noche» ساخته تاد هاینز دوست دارد."
-      },
-      "excerpt": {
-        "en": "The prolific indie producer spoke at an Edinburgh Film Festival session, where she also touched on the queer film landscape: \"We have 'Heated Rivalry' which couldn't be a bigger hit, and we still have politicians campaigning on who gets to use what bathroom.\"",
-        "fa": "این تهیه‌کننده مستقل پرکار در یک جلسه جشنواره فیلم ادینبورگ صحبت کرد، جایی که او همچنین به چشم‌انداز فیلم‌های عجیب و غریب اشاره کرد: «ما «رقابت داغ» داریم که نمی‌تواند موفقیت بزرگ‌تری داشته باشد، و هنوز هم سیاستمدارانی داریم که برای اینکه چه کسی می‌تواند از چه حمامی استفاده کند، کمپین می‌کنند."
-      },
-      "content": {
-        "en": "The prolific indie producer spoke at an Edinburgh Film Festival session, where she also touched on the queer film landscape: \"We have 'Heated Rivalry' which couldn't be a bigger hit, and we still have politicians campaigning on who gets to use what bathroom.\"",
-        "fa": "این تهیه‌کننده مستقل پرکار در یک جلسه جشنواره فیلم ادینبورگ صحبت کرد، جایی که او همچنین به چشم‌انداز فیلم‌های عجیب و غریب اشاره کرد: «ما «رقابت داغ» داریم که نمی‌تواند موفقیت بزرگ‌تری داشته باشد، و هنوز هم سیاستمدارانی داریم که برای اینکه چه کسی می‌تواند از چه حمامی استفاده کند، کمپین می‌کنند."
-      },
-      "source": {
-        "en": "The Hollywood Reporter",
-        "fa": "The Hollywood Reporter"
-      },
-      "link": "https://www.hollywoodreporter.com/movies/movie-news/christine-vachon-de-noche-pedro-pascal-film-edinburgh-1236673549/",
-      "date": "2026-08-14T15:42:36.494229+00:00",
-      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/FotoJet-2026-08-14T120429.216.jpg?w=1440&#038;h=810&#038;crop=1",
+      "link": "https://www.indiewire.com/criticism/movies/the-bend-in-the-river-review-robb-moss-1235210446/",
+      "date": "2026-08-14T16:41:22.148318+00:00",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/08/Screen-Shot-2026-08-13-at-6.59.35-PM.png?w=650",
       "important": false,
       "score": 0
     },
@@ -573,8 +549,32 @@
         "fa": "The Hollywood Reporter"
       },
       "link": "https://www.hollywoodreporter.com/movies/movie-news/ken-burns-trump-politics-american-revolution-obama-film-1236673604/",
-      "date": "2026-08-14T15:42:36.493208+00:00",
+      "date": "2026-08-14T16:41:22.145586+00:00",
       "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/FotoJet-2026-08-14T151958.877.jpg?w=1440&#038;h=810&#038;crop=1",
+      "important": false,
+      "score": 0
+    },
+    {
+      "id": "f6f90d019d6e",
+      "title": {
+        "en": "Megan Thee Stallion Signs Distribution Partnership With Interscope, Will Remain Independent",
+        "fa": "Megan Thee Stallion با Interscope مشارکت توزیع را امضا می کند، مستقل خواهد ماند"
+      },
+      "excerpt": {
+        "en": "“I’ve always wanted to create music on my terms while building a legacy that extends beyond the industry,” the \"Savage\" rapper said of her new partnership on Friday.",
+        "fa": "خواننده رپ \"Savage\" روز جمعه در مورد همکاری جدید خود گفت: \"من همیشه می خواستم با شرایط خودم موسیقی بسازم و در عین حال میراثی را بسازم که فراتر از صنعت باشد.\""
+      },
+      "content": {
+        "en": "“I’ve always wanted to create music on my terms while building a legacy that extends beyond the industry,” the \"Savage\" rapper said of her new partnership on Friday.",
+        "fa": "خواننده رپ \"Savage\" روز جمعه در مورد همکاری جدید خود گفت: \"من همیشه می خواستم با شرایط خودم موسیقی بسازم و در عین حال میراثی را بسازم که فراتر از صنعت باشد.\""
+      },
+      "source": {
+        "en": "The Hollywood Reporter",
+        "fa": "The Hollywood Reporter"
+      },
+      "link": "https://www.hollywoodreporter.com/music/music-industry-news/megan-thee-stallion-signs-with-interscope-1236657579/",
+      "date": "2026-08-14T16:41:22.144485+00:00",
+      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/FOR_PRESS_ANNOUNCE_THE_GLASS_V1_1885-copy.jpg?crop=0px%2C904px%2C5456px%2C3056px&#038;resize=1440%2C810",
       "important": false,
       "score": 0
     }
