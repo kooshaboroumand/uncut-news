@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-14T07:10:40.553526+00:00",
-  "count": 23,
+  "updated_at": "2026-08-14T08:59:10.162678+00:00",
+  "count": 24,
   "news": [
     {
       "id": "559d5565e902",
@@ -21,7 +21,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/news/trailers/sara-bareilles-good-grief-trailer-1235210259/",
-      "date": "2026-08-14T07:10:40.351344+00:00",
+      "date": "2026-08-14T08:59:09.927125+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/image.png?w=650",
       "important": true,
       "score": 7
@@ -45,7 +45,7 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/julianne-nicholson-concerned-reprising-mare-of-easttown-role-task-1237033475/",
-      "date": "2026-08-14T07:10:40.340547+00:00",
+      "date": "2026-08-14T08:59:09.919205+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/julianne-nicholson_0.jpg",
       "important": true,
       "score": 6
@@ -69,7 +69,7 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/power-rangers-live-action-series-dead-disney-plus-1237033544/",
-      "date": "2026-08-14T07:10:40.339399+00:00",
+      "date": "2026-08-14T08:59:09.918377+00:00",
       "image": "https://deadline.com/wp-content/uploads/2020/10/TSDMIMO_EC014-e1743805901729.jpg",
       "important": true,
       "score": 6
@@ -93,7 +93,7 @@
         "fa": "Variety"
       },
       "link": "https://variety.com/2026/film/news/col-ai-studios-launch-global-distribution-1236834136/",
-      "date": "2026-08-14T07:10:40.343467+00:00",
+      "date": "2026-08-14T08:59:09.922187+00:00",
       "image": "https://variety.com/wp-content/uploads/2026/08/COL-AI.jpg",
       "important": true,
       "score": 4
@@ -106,18 +106,18 @@
       },
       "excerpt": {
         "en": "EXCLUSIVE: Hulu is developing Just One Day, a series starring Kathryn Newton (The Devil’s Mouth, Big Little Lies) based on the Gayle Forman YA romance novels. Patrick Moran executive produces the project, which was originally set up at Amazon under his company PKM Productions’ first-look deal there, with Beauty & the Beast co-creators Sherri Cooper […]",
-        "fa": "اختصاصی: Hulu در حال ساخت سریال Just One Day با بازی کاترین نیوتن بر اساس رمان های عاشقانه Gayle Forman YA است. مدیر اجرایی پاتریک موران این پروژه را تولید می کند که در ابتدا در آمازون و تحت قرارداد اولین نگاه شرکت او PKM Productions در آنجا با شری کوپر، شریک سازنده Beauty & the Beast راه اندازی شد."
+        "fa": "اختصاصی: Hulu در حال ساخت سریال Just One Day با بازی کاترین نیوتن بر اساس رمان های عاشقانه Gayle Forman YA است. پاتریک موران مدیر اجرایی این پروژه را تولید می‌کند، که در ابتدا در آمازون و با شرکت او PKM Productions با همکاری شری کوپر، شری کوپر، سازنده Beauty & the Beast راه‌اندازی شد."
       },
       "content": {
         "en": "EXCLUSIVE: Hulu is developing Just One Day, a series starring Kathryn Newton (The Devil’s Mouth, Big Little Lies) based on the Gayle Forman YA romance novels. Patrick Moran executive produces the project, which was originally set up at Amazon under his company PKM Productions’ first-look deal there, with Beauty & the Beast co-creators Sherri Cooper […]",
-        "fa": "اختصاصی: Hulu در حال ساخت سریال Just One Day با بازی کاترین نیوتن بر اساس رمان های عاشقانه Gayle Forman YA است. مدیر اجرایی پاتریک موران این پروژه را تولید می کند که در ابتدا در آمازون و تحت قرارداد اولین نگاه شرکت او PKM Productions در آنجا با شری کوپر، شریک سازنده Beauty & the Beast راه اندازی شد."
+        "fa": "اختصاصی: Hulu در حال ساخت سریال Just One Day با بازی کاترین نیوتن بر اساس رمان های عاشقانه Gayle Forman YA است. پاتریک موران مدیر اجرایی این پروژه را تولید می‌کند، که در ابتدا در آمازون و با شرکت او PKM Productions با همکاری شری کوپر، شری کوپر، سازنده Beauty & the Beast راه‌اندازی شد."
       },
       "source": {
         "en": "Deadline",
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/just-one-day-kathryn-newton-hulu-1237033213/",
-      "date": "2026-08-14T07:10:40.341011+00:00",
+      "date": "2026-08-14T08:59:09.919525+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/kathryn-newton-just-one-day.jpg",
       "important": true,
       "score": 4
@@ -141,7 +141,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/features/craft/michael-bauman-cinematography-ed-gein-story-ryan-murphy-1235208535/",
-      "date": "2026-08-14T07:10:40.351951+00:00",
+      "date": "2026-08-14T08:59:09.927548+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/TCDMONS_ZX063-1.jpg?w=650",
       "important": false,
       "score": 3
@@ -165,7 +165,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/features/interviews/lanterns-kyle-chandler-aaron-pierre-interview-1235210265/",
-      "date": "2026-08-14T07:10:40.351561+00:00",
+      "date": "2026-08-14T08:59:09.927278+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/aaron-pierre-kyle-chandler-1.jpg?w=650",
       "important": false,
       "score": 3
@@ -189,7 +189,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/features/interviews/will-poulter-noah-centineo-sundance-union-county-1235174777/",
-      "date": "2026-08-14T07:10:40.350762+00:00",
+      "date": "2026-08-14T08:59:09.926708+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/Unknown.jpeg?w=650",
       "important": false,
       "score": 3
@@ -213,7 +213,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/awards/consider-this/hbo-true-crime-the-yogurt-shop-murders-killer-ending-1235210345/",
-      "date": "2026-08-14T07:10:40.349916+00:00",
+      "date": "2026-08-14T08:59:09.926085+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/04/the-yogurt-shop-murders.jpeg?w=650",
       "important": false,
       "score": 3
@@ -237,7 +237,7 @@
         "fa": "The Wrap"
       },
       "link": "https://www.thewrap.com/creative-content/movies/3-best-movies-to-watch-on-netflix-this-week-august-13/",
-      "date": "2026-08-14T07:10:40.349707+00:00",
+      "date": "2026-08-14T08:59:09.925937+00:00",
       "image": "https://www.thewrap.com/wp-content/uploads/2026/08/ingrid-goes-west-aubrey-plaza.jpg",
       "important": false,
       "score": 3
@@ -261,8 +261,32 @@
         "fa": "The Hollywood Reporter"
       },
       "link": "https://www.hollywoodreporter.com/lists/american-horror-story-season-13-everything-we-know-guide/",
-      "date": "2026-08-14T07:10:40.346621+00:00",
+      "date": "2026-08-14T08:59:09.923644+00:00",
       "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/AHS-Main.jpg?w=1440&#038;h=810&#038;crop=1",
+      "important": false,
+      "score": 3
+    },
+    {
+      "id": "14734e836bac",
+      "title": {
+        "en": "TV Academy Hall of Fame: Sheila Nevins, Absent Due to COVID, Thanks Dr. Fauci for the Vaccine; Bill Hader Pays Tribute to the ‘South Park’ Creators With a ‘Fish Dick’ Story and More",
+        "fa": "تالار مشاهیر آکادمی تلویزیون: شیلا نوینز، غایب به دلیل کووید، با تشکر از دکتر فائوچی برای واکسن. بیل هدر با داستان «دیک ماهی» و موارد دیگر به سازندگان «پارک جنوبی» ادای احترام کرد"
+      },
+      "excerpt": {
+        "en": "Documentary icon Sheila Nevins — who holds the all-time record for most Emmy wins by an individual (31), thanks to her long run as president of HBO Documentary Films — had to skip Thursday night’s Television Academy Hall of Fame event, after being diagnosed with COVID and pneumonia. Instead, Nevins sent her acceptance speech via […]",
+        "fa": "نماد مستند شیلا نوینز - که به لطف دوره طولانی ریاست فیلم‌های مستند HBO، رکورد تاریخ بیشترین برنده‌های امی توسط یک فرد را دارد - پس از تشخیص ابتلا به کووید و ذات‌الریه، مجبور شد مراسم پنج‌شنبه شب تالار مشاهیر آکادمی تلویزیون را رد کند. در عوض، نوینز سخنرانی پذیرش خود را از طریق ارسال کرد"
+      },
+      "content": {
+        "en": "Documentary icon Sheila Nevins — who holds the all-time record for most Emmy wins by an individual (31), thanks to her long run as president of HBO Documentary Films — had to skip Thursday night’s Television Academy Hall of Fame event, after being diagnosed with COVID and pneumonia. Instead, Nevins sent her acceptance speech via […]",
+        "fa": "نماد مستند شیلا نوینز - که به لطف دوره طولانی ریاست فیلم‌های مستند HBO، رکورد تاریخ بیشترین برنده‌های امی توسط یک فرد را دارد - پس از تشخیص ابتلا به کووید و ذات‌الریه، مجبور شد مراسم پنج‌شنبه شب تالار مشاهیر آکادمی تلویزیون را رد کند. در عوض، نوینز سخنرانی پذیرش خود را از طریق ارسال کرد"
+      },
+      "source": {
+        "en": "Variety",
+        "fa": "Variety"
+      },
+      "link": "https://variety.com/2026/tv/news/tv-academy-hall-of-fame-south-park-shiela-nevins-dr-fauci-1236834438/",
+      "date": "2026-08-14T08:59:09.921187+00:00",
+      "image": "https://variety.com/wp-content/uploads/2026/08/Screenshot-2026-08-14-at-1.06.34-AM.png",
       "important": false,
       "score": 3
     },
@@ -274,18 +298,18 @@
       },
       "excerpt": {
         "en": "As Coyote vs. Acme finally gets its day in court, John Cena has a pretty levelheaded reaction to the once-shelved movie premiering in theaters. The Emmy nominee explained how he “can accept both the positive and the negative” of the situation after Ketchup Entertainment saved the Dave Green-helmed Looney Tunes movie, which premieres Aug. 28 […]",
-        "fa": "از آنجایی که Coyote vs Acme بالاخره روز خود را در دادگاه می گذراند، جان سینا واکنشی کاملاً متواضعانه به اولین نمایش فیلم در سینماها نشان می دهد. نامزد امی توضیح داد که چگونه می تواند \"هم مثبت و هم منفی\" وضعیت را بپذیرد پس از اینکه Ketchup Entertainment فیلم Looney Tunes با کلاه دیو گرین را نجات داد، که در 28 آگوست اکران می شود."
+        "fa": "در حالی که Coyote vs. Acme بالاخره روز خود را در دادگاه فرا می‌گیرد، جان سینا واکنشی کاملاً متواضعانه نسبت به نمایش اولیه فیلم در سینماها دارد. نامزد امی توضیح داد که چگونه می تواند \"هم مثبت و هم منفی\" وضعیت را بپذیرد پس از اینکه Ketchup Entertainment فیلم Looney Tunes با کلاه دیو گرین را نجات داد، که در 28 آگوست اکران می شود."
       },
       "content": {
         "en": "As Coyote vs. Acme finally gets its day in court, John Cena has a pretty levelheaded reaction to the once-shelved movie premiering in theaters. The Emmy nominee explained how he “can accept both the positive and the negative” of the situation after Ketchup Entertainment saved the Dave Green-helmed Looney Tunes movie, which premieres Aug. 28 […]",
-        "fa": "از آنجایی که Coyote vs Acme بالاخره روز خود را در دادگاه می گذراند، جان سینا واکنشی کاملاً متواضعانه به اولین نمایش فیلم در سینماها نشان می دهد. نامزد امی توضیح داد که چگونه می تواند \"هم مثبت و هم منفی\" وضعیت را بپذیرد پس از اینکه Ketchup Entertainment فیلم Looney Tunes با کلاه دیو گرین را نجات داد، که در 28 آگوست اکران می شود."
+        "fa": "در حالی که Coyote vs. Acme بالاخره روز خود را در دادگاه فرا می‌گیرد، جان سینا واکنشی کاملاً متواضعانه نسبت به نمایش اولیه فیلم در سینماها دارد. نامزد امی توضیح داد که چگونه می تواند \"هم مثبت و هم منفی\" وضعیت را بپذیرد پس از اینکه Ketchup Entertainment فیلم Looney Tunes با کلاه دیو گرین را نجات داد، که در 28 آگوست اکران می شود."
       },
       "source": {
         "en": "Deadline",
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/john-cena-made-peace-coyote-vs-acme-never-coming-out-1237033383/",
-      "date": "2026-08-14T07:10:40.342467+00:00",
+      "date": "2026-08-14T08:59:09.920519+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/John-Cena-Coyote-vs-Acme.jpg",
       "important": false,
       "score": 3
@@ -309,7 +333,7 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/dtf-st-louis-steve-conrad-interview-1237033377/",
-      "date": "2026-08-14T07:10:40.342042+00:00",
+      "date": "2026-08-14T08:59:09.920203+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/Steve-Conrad-Jason-Bateman-David-Harbour-DTF-St-Louis.jpg",
       "important": false,
       "score": 3
@@ -333,7 +357,7 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/big-brother-season-28-week-5-eviction-cbs-1237033488/",
-      "date": "2026-08-14T07:10:40.340277+00:00",
+      "date": "2026-08-14T08:59:09.919009+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/big-brother-season-28-week-5-eviction.jpg",
       "important": false,
       "score": 3
@@ -357,7 +381,7 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/kevin-costner-field-of-dreams-game-video-1237033509/",
-      "date": "2026-08-14T07:10:40.339660+00:00",
+      "date": "2026-08-14T08:59:09.918583+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/field-of-dreams.png",
       "important": false,
       "score": 3
@@ -381,7 +405,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/news/trailers/ken-russells-the-devils-restoration-trailer-1235210331/",
-      "date": "2026-08-14T07:10:40.351019+00:00",
+      "date": "2026-08-14T08:59:09.926895+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/57097357-4bf5-4f7f-9db5-43513d5746bc.jpeg?w=650",
       "important": false,
       "score": 1
@@ -405,7 +429,7 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/box-office-spider-man-the-end-of-oak-street-1237033458/",
-      "date": "2026-08-14T07:10:40.340782+00:00",
+      "date": "2026-08-14T08:59:09.919350+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/rev-1-NBR-FP-0046_High_Res_JPEG.jpeg",
       "important": false,
       "score": 1
@@ -429,7 +453,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/news/festivals/nyff-2026-currents-lineup-1235210227/",
-      "date": "2026-08-14T07:10:40.351235+00:00",
+      "date": "2026-08-14T08:59:09.927053+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/Screen-Shot-2026-08-12-at-11.33.41-AM.png?w=650",
       "important": false,
       "score": 0
@@ -453,8 +477,32 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/features/commentary/how-ang-tanging-ina-movie-franchise-molded-filipino-comedy-1235209396/",
-      "date": "2026-08-14T07:10:40.350418+00:00",
+      "date": "2026-08-14T08:59:09.926450+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/images_19e165.jpeg?w=595",
+      "important": false,
+      "score": 0
+    },
+    {
+      "id": "185f1fd00a34",
+      "title": {
+        "en": "The War Over Warner Bros. Is Splintering Hollywood’s Labor World",
+        "fa": "جنگ بر سر برادران وارنر دنیای کارگری هالیوود را متلاشی می کند"
+      },
+      "excerpt": {
+        "en": "Rob Bonta and David Ellison are dividing the unions, whose members have diverging interests on the way the antitrust battle against a merged Paramount and Warner Bros. is waged.",
+        "fa": "راب بونتا و دیوید الیسون اتحادیه‌ها را تقسیم می‌کنند که اعضای آن منافع متفاوتی در راه مبارزه ضدتراست علیه پارامونت و برادران وارنر ادغام شده دارند."
+      },
+      "content": {
+        "en": "Rob Bonta and David Ellison are dividing the unions, whose members have diverging interests on the way the antitrust battle against a merged Paramount and Warner Bros. is waged.",
+        "fa": "راب بونتا و دیوید الیسون اتحادیه‌ها را تقسیم می‌کنند که اعضای آن منافع متفاوتی در راه مبارزه ضدتراست علیه پارامونت و برادران وارنر ادغام شده دارند."
+      },
+      "source": {
+        "en": "The Hollywood Reporter",
+        "fa": "The Hollywood Reporter"
+      },
+      "link": "https://www.hollywoodreporter.com/business/business-news/paramount-warner-bros-labor-world-1236673223/",
+      "date": "2026-08-14T08:59:09.923795+00:00",
+      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2025/05/GettyImages-2210603182.jpg?w=1440&#038;h=810&#038;crop=1",
       "important": false,
       "score": 0
     },
@@ -477,80 +525,56 @@
         "fa": "The Hollywood Reporter"
       },
       "link": "https://www.hollywoodreporter.com/movies/movie-news/busan-film-festival-founder-kim-dong-ho-korean-cinema-award-1236673433/",
-      "date": "2026-08-14T07:10:40.346134+00:00",
+      "date": "2026-08-14T08:59:09.923280+00:00",
       "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/Kim-dong-ho-still-2.jpg?w=1296&#038;h=729&#038;crop=1",
       "important": false,
       "score": 0
     },
     {
-      "id": "35fb166c6ff9",
+      "id": "6705ae258752",
       "title": {
-        "en": "Oscar Predictions: Best Actor — The Most Competitive Category Awaits Leading Men Like Tom Cruise, Matt Damon and More",
-        "fa": "پیش بینی اسکار: بهترین بازیگر مرد - رقابتی ترین رده در انتظار مردان برجسته ای مانند تام کروز، مت دیمون و غیره"
+        "en": "Oscar Predictions: Best Actress — How Obsessed Will the Academy Become With Inde Navarrette?",
+        "fa": "پیش‌بینی‌های اسکار: بهترین بازیگر زن – چقدر آکادمی با ایند ناوارت وسواس پیدا می‌کند؟"
       },
       "excerpt": {
         "en": "Variety Awards Circuit section is the home for all awards news and related content throughout the year, featuring the following: the official predictions for the upcoming Oscars, Emmys, Grammys and Tony Awards ceremonies, curated by Variety chief awards editor Clayton Davis. The prediction pages reflect the current standings in the race and do not reflect personal preferences for any individual […]",
-        "fa": "بخش Variety Awards Circuit خانه همه اخبار جوایز و محتوای مرتبط در طول سال است که شامل موارد زیر است: پیش بینی های رسمی مراسم آتی اسکار، امی، گرمی و جوایز تونی، که توسط سردبیر جوایز Variety، کلیتون دیویس، سرپرستی می شود. صفحات پیش بینی وضعیت فعلی مسابقه را منعکس می کند و ترجیحات شخصی هیچ فردی را منعکس نمی کند"
+        "fa": "بخش Variety Awards Circuit خانه همه اخبار جوایز و محتوای مرتبط در طول سال است که شامل موارد زیر است: پیش بینی های رسمی مراسم آتی اسکار، امی، گرمی و جوایز تونی، که توسط سردبیر جوایز Variety، کلیتون دیویس، سرپرستی می شود. صفحات پیش بینی وضعیت فعلی در مسابقه را منعکس می کند و ترجیحات شخصی را برای هیچ فردی منعکس نمی کند"
       },
       "content": {
         "en": "Variety Awards Circuit section is the home for all awards news and related content throughout the year, featuring the following: the official predictions for the upcoming Oscars, Emmys, Grammys and Tony Awards ceremonies, curated by Variety chief awards editor Clayton Davis. The prediction pages reflect the current standings in the race and do not reflect personal preferences for any individual […]",
-        "fa": "بخش Variety Awards Circuit خانه همه اخبار جوایز و محتوای مرتبط در طول سال است که شامل موارد زیر است: پیش بینی های رسمی مراسم آتی اسکار، امی، گرمی و جوایز تونی، که توسط سردبیر جوایز Variety، کلیتون دیویس، سرپرستی می شود. صفحات پیش بینی وضعیت فعلی مسابقه را منعکس می کند و ترجیحات شخصی هیچ فردی را منعکس نمی کند"
+        "fa": "بخش Variety Awards Circuit خانه همه اخبار جوایز و محتوای مرتبط در طول سال است که شامل موارد زیر است: پیش بینی های رسمی مراسم آتی اسکار، امی، گرمی و جوایز تونی، که توسط سردبیر جوایز Variety، کلیتون دیویس، سرپرستی می شود. صفحات پیش بینی وضعیت فعلی در مسابقه را منعکس می کند و ترجیحات شخصی را برای هیچ فردی منعکس نمی کند"
       },
       "source": {
         "en": "Variety",
         "fa": "Variety"
       },
-      "link": "https://variety.com/feature/2027-oscars-best-actor-predictions-1236834269/",
-      "date": "2026-08-14T07:10:40.344682+00:00",
-      "image": "https://variety.com/wp-content/uploads/2026/03/Tom-Cruise-Digger.jpg",
+      "link": "https://variety.com/feature/2027-oscars-best-actress-predictions-1236834270/",
+      "date": "2026-08-14T08:59:09.922942+00:00",
+      "image": "https://variety.com/wp-content/uploads/2026/08/Obsession.jpg",
       "important": false,
       "score": 0
     },
     {
-      "id": "93cac50b2520",
+      "id": "f47ba1c5dcfd",
       "title": {
-        "en": "Parties Lay Out Key Discovery And Other Dates For Pending Paramount-WBD Antitrust Trial",
-        "fa": "طرفین کشف کلید و تاریخ‌های دیگری را برای آزمایش ضدانحصار پارامونت-WBD معلق اعلام کردند"
+        "en": "Rani Mukerji Receives La Trobe Honorary Doctorate, Wins IFFM Special Citation",
+        "fa": "رانی موکرجی دکترای افتخاری La Trobe را دریافت کرد و برنده استناد ویژه IFFM شد"
       },
       "excerpt": {
-        "en": "This week has been dominated by headlines about Paramount’s threat to leave California, by unions and other officials urging a settlement and by Capitol Hill Democrats warning of investigations. But on Thursday, attorneys completed the rather routine step of proposing key dates and deadlines in advance of an antitrust trial over the proposed merger of […]",
-        "fa": "این هفته تحت تسلط تیترهای تهدید پارامونت مبنی بر ترک کالیفرنیا، اتحادیه ها و دیگر مقاماتی بود که خواستار حل و فصل شدند و دموکرات های کنگره هیل نسبت به تحقیقات هشدار دادند. اما روز پنجشنبه، وکلای دادگستری گام معمولی را برای پیشنهاد تاریخ‌ها و مهلت‌های کلیدی قبل از محاکمه ضد انحصار در مورد ادغام پیشنهادی تکمیل کردند."
+        "en": "Bollywood star Rani Mukerji has been awarded an Honorary Doctor of Letters by Australia’s La Trobe University for three decades of work in Indian cinema and her contributions off screen, the university said. She is the second Indian film figure to receive the distinction, after superstar Shah Rukh Khan’s honor in 2019. “Receiving this honorary […]",
+        "fa": "این دانشگاه اعلام کرد، رانی موکرجی، ستاره بالیوودی، به دلیل سه دهه فعالیت در سینمای هند و مشارکت‌هایش در خارج از سینما، توسط دانشگاه لاتروب استرالیا، دکترای افتخاری ادبیات اعطا شده است. او دومین چهره سینمای هند است که پس از افتخار شاهرخ خان در سال 2019، این جایزه را دریافت می کند."
       },
       "content": {
-        "en": "This week has been dominated by headlines about Paramount’s threat to leave California, by unions and other officials urging a settlement and by Capitol Hill Democrats warning of investigations. But on Thursday, attorneys completed the rather routine step of proposing key dates and deadlines in advance of an antitrust trial over the proposed merger of […]",
-        "fa": "این هفته تحت تسلط تیترهای تهدید پارامونت مبنی بر ترک کالیفرنیا، اتحادیه ها و دیگر مقاماتی بود که خواستار حل و فصل شدند و دموکرات های کنگره هیل نسبت به تحقیقات هشدار دادند. اما روز پنجشنبه، وکلای دادگستری گام معمولی را برای پیشنهاد تاریخ‌ها و مهلت‌های کلیدی قبل از محاکمه ضد انحصار در مورد ادغام پیشنهادی تکمیل کردند."
+        "en": "Bollywood star Rani Mukerji has been awarded an Honorary Doctor of Letters by Australia’s La Trobe University for three decades of work in Indian cinema and her contributions off screen, the university said. She is the second Indian film figure to receive the distinction, after superstar Shah Rukh Khan’s honor in 2019. “Receiving this honorary […]",
+        "fa": "این دانشگاه اعلام کرد، رانی موکرجی، ستاره بالیوودی، به دلیل سه دهه فعالیت در سینمای هند و مشارکت‌هایش در خارج از سینما، توسط دانشگاه لاتروب استرالیا، دکترای افتخاری ادبیات اعطا شده است. او دومین چهره سینمای هند است که پس از افتخار شاهرخ خان در سال 2019، این جایزه را دریافت می کند."
       },
       "source": {
-        "en": "Deadline",
-        "fa": "Deadline"
+        "en": "Variety",
+        "fa": "Variety"
       },
-      "link": "https://deadline.com/2026/08/paramount-warner-bros-trial-schedule-1237033223/",
-      "date": "2026-08-14T07:10:40.342785+00:00",
-      "image": "https://deadline.com/wp-content/uploads/2026/07/Paramount-and-Warner-Bros.-Water-Towers.jpg",
-      "important": false,
-      "score": 0
-    },
-    {
-      "id": "b1e3cea76354",
-      "title": {
-        "en": "Teamsters Pound Paramount Over WBD Merger Promises & Threats: “Stop Playing Games”",
-        "fa": "تیم‌سازان در برابر وعده‌ها و تهدیدات ادغام WBD به پارامونت می‌رسند: «بازی‌ها را متوقف کنید»"
-      },
-      "excerpt": {
-        "en": "The DGA and IATSE may want to play footsie with Paramount over the state attorneys general antitrust lawsuit and hopes for a settlement. However, as the WGA has joined the charge against David Ellison’s currently stalled $111 billion purchase of Warner Bros Discovery, a very strong arm of Hollywood labor has declared it’s time to […]",
-        "fa": "DGA و IATSE ممکن است بخواهند با پارامونت بر سر دعوای ضد انحصار وکلای ایالتی و امیدوار به حل و فصل بازی کنند. با این حال، از آنجایی که WGA به اتهام خرید 111 میلیارد دلاری دیوید الیسون از Warner Bros Discovery ملحق شده است، بازوی بسیار قوی کارگران هالیوود اعلام کرده است که زمان آن فرا رسیده است."
-      },
-      "content": {
-        "en": "The DGA and IATSE may want to play footsie with Paramount over the state attorneys general antitrust lawsuit and hopes for a settlement. However, as the WGA has joined the charge against David Ellison’s currently stalled $111 billion purchase of Warner Bros Discovery, a very strong arm of Hollywood labor has declared it’s time to […]",
-        "fa": "DGA و IATSE ممکن است بخواهند با پارامونت بر سر دعوای ضد انحصار وکلای ایالتی و امیدوار به حل و فصل بازی کنند. با این حال، از آنجایی که WGA به اتهام خرید 111 میلیارد دلاری دیوید الیسون از Warner Bros Discovery ملحق شده است، بازوی بسیار قوی کارگران هالیوود اعلام کرده است که زمان آن فرا رسیده است."
-      },
-      "source": {
-        "en": "Deadline",
-        "fa": "Deadline"
-      },
-      "link": "https://deadline.com/2026/08/paramount-merger-teamsters-protest-1237033400/",
-      "date": "2026-08-14T07:10:40.342333+00:00",
-      "image": "https://deadline.com/wp-content/uploads/2026/08/David-Ellison-TEamsters-Local-399-logo.jpg",
+      "link": "https://variety.com/2026/film/news/rani-mukerji-la-trobe-honorary-doctorate-iffm-citation-1236834439/",
+      "date": "2026-08-14T08:59:09.921935+00:00",
+      "image": "https://variety.com/wp-content/uploads/2026/08/Rani-Mukerji-doctorate.jpg",
       "important": false,
       "score": 0
     }
