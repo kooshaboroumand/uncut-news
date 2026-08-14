@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-14T22:13:24.196199+00:00",
+  "updated_at": "2026-08-14T23:13:04.107172+00:00",
   "count": 24,
   "news": [
     {
@@ -21,7 +21,7 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/stuart-fails-to-save-the-universe-renewed-season-2-hbo-max-1237040738/",
-      "date": "2026-08-14T22:13:23.990933+00:00",
+      "date": "2026-08-14T23:13:03.886545+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/07/Stuart-Fails-to-Save-The-Universe.jpg",
       "important": true,
       "score": 9
@@ -45,7 +45,7 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/deli-boys-canceled-hulu-1237040657/",
-      "date": "2026-08-14T22:13:23.990792+00:00",
+      "date": "2026-08-14T23:13:03.886457+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/180564_0225_R1.jpg",
       "important": true,
       "score": 9
@@ -69,8 +69,32 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/scrubs-keyla-monterroso-mejia-nurse-season-2-abc-reboot-1237040761/",
-      "date": "2026-08-14T22:13:23.990568+00:00",
+      "date": "2026-08-14T23:13:03.886256+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/keyla-monterroso-mejia-mimi-scrubs.jpg",
+      "important": true,
+      "score": 6
+    },
+    {
+      "id": "2b202dcbe38d",
+      "title": {
+        "en": "Netflix Assembles YA Stars Past, Present & Future For End Of Summer Bash Event To Reassert Presence In The Genre",
+        "fa": "نتفلیکس ستارگان YA را از گذشته، حال و آینده برای رویداد Bash پایان تابستان جمع آوری می کند تا حضور در این ژانر را مجدداً حفظ کند."
+      },
+      "excerpt": {
+        "en": "At a smaller, more exclusive and intimate event hosted at LAYA Restaurant Thursday evening, Netflix took the opportunity to remind viewers of its roots in the YA genre by gathering talent from projects past, present and future that have become hits in the space. In what could be looked at as a response to Prime […]",
+        "fa": "در یک رویداد کوچکتر، اختصاصی‌تر و صمیمی‌تر که عصر پنجشنبه در رستوران LAYA میزبانی شد، نتفلیکس از فرصت استفاده کرد و با جمع‌آوری استعدادها از پروژه‌های گذشته، حال و آینده که در این فضا به محبوبیت تبدیل شده‌اند، ریشه‌های خود در ژانر YA را به بینندگان یادآوری کرد. در چیزی که می توان به عنوان پاسخی به Prime نگاه کرد"
+      },
+      "content": {
+        "en": "At a smaller, more exclusive and intimate event hosted at LAYA Restaurant Thursday evening, Netflix took the opportunity to remind viewers of its roots in the YA genre by gathering talent from projects past, present and future that have become hits in the space. In what could be looked at as a response to Prime […]",
+        "fa": "در یک رویداد کوچکتر، اختصاصی‌تر و صمیمی‌تر که عصر پنجشنبه در رستوران LAYA میزبانی شد، نتفلیکس از فرصت استفاده کرد و با جمع‌آوری استعدادها از پروژه‌های گذشته، حال و آینده که در این فضا به محبوبیت تبدیل شده‌اند، ریشه‌های خود در ژانر YA را به بینندگان یادآوری کرد. در چیزی که می توان به عنوان پاسخی به Prime نگاه کرد"
+      },
+      "source": {
+        "en": "Deadline",
+        "fa": "Deadline"
+      },
+      "link": "https://deadline.com/2026/08/netflix-ya-slate-end-of-summer-bash-crossover-prime-video-1237040780/",
+      "date": "2026-08-14T23:13:03.884748+00:00",
+      "image": "https://deadline.com/wp-content/uploads/2026/08/Netflix-End-of-Summer-Bash.jpg",
       "important": true,
       "score": 6
     },
@@ -82,7 +106,7 @@
       },
       "excerpt": {
         "en": "Creator Lee Sung Jin discusses how he dealt with the high expectations for the second season of the anthology series, now nominated for 16 Emmys.",
-        "fa": "خالق لی سونگ جین درباره نحوه برخورد با انتظارات زیاد برای فصل دوم مجموعه گلچین، که اکنون نامزد 16 جایزه امی شده است، صحبت می کند."
+        "fa": "Creator Lee Sung Jin discusses how he dealt with the high expectations for the second season of the anthology series, now nominated for 16 Emmys."
       },
       "content": {
         "en": "Creator Lee Sung Jin discusses how he dealt with the high expectations for the second season of the anthology series, now nominated for 16 Emmys.",
@@ -93,7 +117,7 @@
         "fa": "The Hollywood Reporter"
       },
       "link": "https://www.hollywoodreporter.com/tv/tv-features/lee-sung-jin-beef-season-two-emmys-1236672641/",
-      "date": "2026-08-14T22:13:23.997075+00:00",
+      "date": "2026-08-14T23:13:03.891985+00:00",
       "image": "https://www.hollywoodreporter.com/wp-content/themes/vip/pmc-hollywoodreporter-2021/assets/app/icons/icon-512x512.png",
       "important": true,
       "score": 4
@@ -117,7 +141,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/criticism/shows/lanterns-review-hbo-green-lantern-series-kyle-chandler-1235209937/",
-      "date": "2026-08-14T22:13:24.000252+00:00",
+      "date": "2026-08-14T23:13:03.894709+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/06/Lanterns-release-date-HBO-series-Green-Lantern-Kyle-Chandler.jpg?w=650",
       "important": false,
       "score": 3
@@ -141,16 +165,16 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/news/breaking-news/film-independent-biggest-grant-history-juan-devis-1235210522/",
-      "date": "2026-08-14T22:13:23.998798+00:00",
+      "date": "2026-08-14T23:13:03.893365+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/Juan_Devis_2304sm-photo.jpeg?w=650",
       "important": false,
       "score": 3
     },
     {
-      "id": "16976ec93713",
+      "id": "e4630aa8ba54",
       "title": {
-        "en": "Europe’s Broadcasters Want to Get Bigger. The Hard Part Is How.",
-        "fa": "پخش‌کنندگان اروپایی می‌خواهند بزرگ‌تر شوند. قسمت سخت چگونه است."
+        "en": "Europe’s Broadcasters Want to Get Bigger. The Hard Part Is How",
+        "fa": "پخش‌کنندگان اروپایی می‌خواهند بزرگ‌تر شوند. قسمت سخت چگونه است"
       },
       "excerpt": {
         "en": "As Netflix, Amazon and YouTube reshape the global TV market, European networks and production companies are chasing very different kinds of scale.",
@@ -165,32 +189,8 @@
         "fa": "The Hollywood Reporter"
       },
       "link": "https://www.hollywoodreporter.com/business/business-news/europe-broadcasters-consolidating-fight-netflix-youtube-1236673562/",
-      "date": "2026-08-14T22:13:23.996400+00:00",
+      "date": "2026-08-14T23:13:03.891349+00:00",
       "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/SkyCEODanaStrong_ITV-CEO-Carolyn-McCall_RTLCEO_Clement-Schwebig_MFECEOPier-Silvio-BerlusconiPier-Silvio-Berlusconi.jpg?w=1440&#038;h=810&#038;crop=1",
-      "important": false,
-      "score": 3
-    },
-    {
-      "id": "b83370a208d2",
-      "title": {
-        "en": "‘Finding Her Edge’ Season 2 To Get Back On The Ice For Start Of Production Later This Month",
-        "fa": "«Finding Her Edge» فصل 2 برای بازگشت به روی یخ برای شروع تولید در اواخر این ماه"
-      },
-      "excerpt": {
-        "en": "Madelyn Keys, Cale Ambrozic and Olly Atkins will be reprising their roles for new twists and turns on and off the ice in Season 2 of Finding Her Edge, which starts production at the end of the month. The YA figure skating series’ first season arrived in January of this year. Based on Jennifer Iacopelli’s […]",
-        "fa": "Madelyn Keys، Cale Ambrozic و Olly Atkins نقش‌های خود را برای چرخش‌های جدید و روشن و خاموش کردن ice در فصل 2 Finding Her Edge که در پایان ماه آغاز می‌شود، بازی خواهند کرد. فصل اول سریال اسکیت بازی YA در ژانویه سال جاری وارد بازار شد. بر اساس جنیفر یاکوپلی"
-      },
-      "content": {
-        "en": "Madelyn Keys, Cale Ambrozic and Olly Atkins will be reprising their roles for new twists and turns on and off the ice in Season 2 of Finding Her Edge, which starts production at the end of the month. The YA figure skating series’ first season arrived in January of this year. Based on Jennifer Iacopelli’s […]",
-        "fa": "Madelyn Keys، Cale Ambrozic و Olly Atkins نقش‌های خود را برای چرخش‌های جدید و روشن و خاموش کردن ice در فصل 2 Finding Her Edge که در پایان ماه آغاز می‌شود، بازی خواهند کرد. فصل اول سریال اسکیت بازی YA در ژانویه سال جاری وارد بازار شد. بر اساس جنیفر یاکوپلی"
-      },
-      "source": {
-        "en": "Deadline",
-        "fa": "Deadline"
-      },
-      "link": "https://deadline.com/2026/08/finding-her-edge-season-2-production-start-netflix-1237040403/",
-      "date": "2026-08-14T22:13:23.992895+00:00",
-      "image": "https://deadline.com/wp-content/uploads/2026/08/FHE_episode107_PromoStill_01_01001021.jpg",
       "important": false,
       "score": 3
     },
@@ -213,7 +213,7 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/romy-and-michele-2-cast-wendi-mclendon-covey-1237040451/",
-      "date": "2026-08-14T22:13:23.991888+00:00",
+      "date": "2026-08-14T23:13:03.887464+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/JMW-WendiMcLendonCovey-08-09-2026_1017_Crop-Medium.jpg",
       "important": false,
       "score": 3
@@ -222,7 +222,7 @@
       "id": "3553f7437c16",
       "title": {
         "en": "TIFF CEO Cameron Bailey Teases Toronto 2026 and How the New Market Will Stand Out from the Crowd",
-        "fa": "مدیر عامل TIFF کامرون بیلی تورنتو 2026 و اینکه چگونه بازار جدید از بین مردم متمایز خواهد شد را اذیت می کند"
+        "fa": "TIFF CEO Cameron Bailey Teases Toronto 2026 and How the New Market Will Stand Out from the Crowd"
       },
       "excerpt": {
         "en": "The festival head previews upcoming films on the latest episode of \"Screen Talk,\" and we discuss Warnermount, the summer box office, and thoughts on \"Tony.\"",
@@ -237,7 +237,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/features/podcast/screen-talk-podcast-tiff-ceo-cameron-bailey-toronto-2026-1235210516/",
-      "date": "2026-08-14T22:13:23.998977+00:00",
+      "date": "2026-08-14T23:13:03.893495+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/P115U4AG.jpg?w=650",
       "important": false,
       "score": 1
@@ -261,7 +261,7 @@
         "fa": "Variety"
       },
       "link": "https://variety.com/2026/film/news/paramount-warner-bros-mexicos-settle-ellison-1236834861/",
-      "date": "2026-08-14T22:13:23.995695+00:00",
+      "date": "2026-08-14T23:13:03.890776+00:00",
       "image": "https://variety.com/wp-content/uploads/2026/02/David-Ellison-3.jpg",
       "important": false,
       "score": 1
@@ -274,7 +274,7 @@
       },
       "excerpt": {
         "en": "Anne Hathaway told Complex during her press tour for “The End of Oak Street” that movies should be rated R if they feature dogs being killed. Moviegoers have wondered if “Oak Street” would feature dog violence ever since the film’s trailer revealed Starbuck, the trusted canine of the film’s central family (Hathaway plays matriarch Denise). […]",
-        "fa": "آن هاتاوی در طول تور مطبوعاتی خود برای «انتهای اوک استریت» به Complex گفت اگر فیلم‌هایی که سگ‌هایی را می‌کشند باید رتبه R را دریافت کنند. از زمانی که تریلر فیلم استارباک، سگ مورد اعتماد خانواده مرکزی فیلم را فاش کرد، تماشاگران سینما از خود می‌پرسیدند که آیا «خیابان بلوط» خشونت سگ‌ها را نمایش می‌دهد."
+        "fa": "Anne Hathaway told Complex during her press tour for “The End of Oak Street” that movies should be rated R if they feature dogs being killed. Moviegoers have wondered if “Oak Street” would feature dog violence ever since the film’s trailer revealed Starbuck, the trusted canine of the film’s central family (Hathaway plays matriarch Denise). […]"
       },
       "content": {
         "en": "Anne Hathaway told Complex during her press tour for “The End of Oak Street” that movies should be rated R if they feature dogs being killed. Moviegoers have wondered if “Oak Street” would feature dog violence ever since the film’s trailer revealed Starbuck, the trusted canine of the film’s central family (Hathaway plays matriarch Denise). […]",
@@ -285,8 +285,32 @@
         "fa": "Variety"
       },
       "link": "https://variety.com/2026/film/news/anne-hathaway-movies-dog-deaths-rated-r-1236834811/",
-      "date": "2026-08-14T22:13:23.993698+00:00",
+      "date": "2026-08-14T23:13:03.888925+00:00",
       "image": "https://variety.com/wp-content/uploads/2026/08/P118CCWG.jpg",
+      "important": false,
+      "score": 1
+    },
+    {
+      "id": "6c10cd60d9be",
+      "title": {
+        "en": "Music Industry Moves: Megan Thee Stallion Inks Partnership With Interscope Records",
+        "fa": "صنعت موسیقی حرکت می‌کند: همکاری Megan Thee Stallion Inks با Interscope Records"
+      },
+      "excerpt": {
+        "en": "Megan Thee Stallion has announced a new partnership with Interscope Records, which will handle the global distribution of her music, among other strategic support. As part of the newly inked deal, the rapper will continue on as an independent artist in complete control and ownership of her masters and publishing. Interscope will provide global distribution […]",
+        "fa": "Megan Thee Stallion has announced a new partnership with Interscope Records, which will handle the global distribution of her music, among other strategic support. As part of the newly inked deal, the rapper will continue on as an independent artist in complete control and ownership of her masters and publishing. Interscope will provide global distribution […]"
+      },
+      "content": {
+        "en": "Megan Thee Stallion has announced a new partnership with Interscope Records, which will handle the global distribution of her music, among other strategic support. As part of the newly inked deal, the rapper will continue on as an independent artist in complete control and ownership of her masters and publishing. Interscope will provide global distribution […]",
+        "fa": "مگان تی استالیون همکاری جدیدی با Interscope Records اعلام کرده است که توزیع جهانی موسیقی او را در کنار سایر پشتیبانی های استراتژیک انجام می دهد. به عنوان بخشی از قراردادی که به تازگی امضا شده است، خواننده رپ به عنوان یک هنرمند مستقل در کنترل و مالکیت کامل استادان و انتشارات خود ادامه خواهد داد. Interscope توزیع جهانی را ارائه خواهد کرد"
+      },
+      "source": {
+        "en": "Variety",
+        "fa": "Variety"
+      },
+      "link": "https://variety.com/2026/music/news/mnek-signs-with-1916-enterprises-1236833781/",
+      "date": "2026-08-14T23:13:03.888145+00:00",
+      "image": "https://variety.com/wp-content/uploads/2026/08/FOR_PRESS_ANNOUNCE_THE_GLASS_V1_1885-copy-e1786748826155.jpg",
       "important": false,
       "score": 1
     },
@@ -309,8 +333,32 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/spider-man-beyond-the-spider-verse-trailer-leaks-online-1237040700/",
-      "date": "2026-08-14T22:13:23.991710+00:00",
+      "date": "2026-08-14T23:13:03.887318+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/spider-man-into-the-spider-verse.jpg",
+      "important": false,
+      "score": 1
+    },
+    {
+      "id": "3b356ce9d4c9",
+      "title": {
+        "en": "‘De Noche’ Producer Praises Pedro Pascal, Danny Ramirez As “Born To Play” In Todd Haynes’ Rescued Queer Romance: “A Revelation”",
+        "fa": "تهیه‌کننده «De Noche» پدرو پاسکال و دنی رامیرز را به‌عنوان «متولد برای بازی کردن» در فیلم عاشقانه عجیب و غریب نجات‌یافته تاد هاینز: «یک مکاشفه» تمجید می‌کند."
+      },
+      "excerpt": {
+        "en": "As De Noche is revived following the casting of a new leading man, Christine Vachon is happy with the new version of the film. The producer of Todd Haynes’ upcoming queer romance recently praised Pedro Pascal as “born to play” the lead, a year after the Golden Globe nominee stepped in for original star Joaquin […]",
+        "fa": "از آنجایی که De Noche پس از انتخاب بازیگر نقش اول جدید دوباره احیا می شود، کریستین واچون از نسخه جدید فیلم خوشحال است. تهیه‌کننده رمان عجیب و غریب آتی تاد هاینز اخیراً پدرو پاسکال را به‌عنوان «متولد برای ایفای نقش» تمجید کرده است، یک سال پس از آن که نامزد گلدن گلوب برای ستاره اصلی خواکین انتخاب شد."
+      },
+      "content": {
+        "en": "As De Noche is revived following the casting of a new leading man, Christine Vachon is happy with the new version of the film. The producer of Todd Haynes’ upcoming queer romance recently praised Pedro Pascal as “born to play” the lead, a year after the Golden Globe nominee stepped in for original star Joaquin […]",
+        "fa": "از آنجایی که De Noche پس از انتخاب بازیگر نقش اول جدید دوباره احیا می شود، کریستین واچون از نسخه جدید فیلم خوشحال است. تهیه‌کننده رمان عجیب و غریب آتی تاد هاینز اخیراً پدرو پاسکال را به‌عنوان «متولد برای ایفای نقش» تمجید کرده است، یک سال پس از آن که نامزد گلدن گلوب برای ستاره اصلی خواکین انتخاب شد."
+      },
+      "source": {
+        "en": "Deadline",
+        "fa": "Deadline"
+      },
+      "link": "https://deadline.com/2026/08/de-noche-producer-praises-pedro-pascal-danny-ramirez-1237040958/",
+      "date": "2026-08-14T23:13:03.884252+00:00",
+      "image": "https://deadline.com/wp-content/uploads/2026/08/Danny-Ramirez-Pedro-Pascal-2-shot.jpg",
       "important": false,
       "score": 1
     },
@@ -333,7 +381,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/criticism/movies/the-bend-in-the-river-review-robb-moss-1235210446/",
-      "date": "2026-08-14T22:13:24.000056+00:00",
+      "date": "2026-08-14T23:13:03.894525+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/Screen-Shot-2026-08-13-at-6.59.35-PM.png?w=650",
       "important": false,
       "score": 0
@@ -357,7 +405,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/criticism/movies/american-doctor-documentary-review-gaza-1235210500/",
-      "date": "2026-08-14T22:13:23.999560+00:00",
+      "date": "2026-08-14T23:13:03.894058+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/ivfj95enlAmerican_Doctor-Still_1.webp?w=650",
       "important": false,
       "score": 0
@@ -381,7 +429,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/news/business/dga-iatse-conditions-paramount-settlement-realistic-1235210398/",
-      "date": "2026-08-14T22:13:23.999333+00:00",
+      "date": "2026-08-14T23:13:03.893833+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/P10XLNE.jpg?w=650",
       "important": false,
       "score": 0
@@ -405,7 +453,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/features/interviews/abbott-elementary-director-randall-einhorn-phillies-game-1235210238/",
-      "date": "2026-08-14T22:13:23.998609+00:00",
+      "date": "2026-08-14T23:13:03.893196+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/178757_1142.jpg?w=650",
       "important": false,
       "score": 0
@@ -429,7 +477,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/features/craft/jane-schoenbrun-teenage-sex-and-death-at-camp-miasma-1235210237/",
-      "date": "2026-08-14T22:13:23.998339+00:00",
+      "date": "2026-08-14T23:13:03.892992+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/MCDTESE_K3011.jpg?w=650",
       "important": false,
       "score": 0
@@ -453,7 +501,7 @@
         "fa": "The Hollywood Reporter"
       },
       "link": "https://www.hollywoodreporter.com/tv/tv-features/the-shards-igby-rigney-bret-easton-ellis-cast-secrets-1236673622/",
-      "date": "2026-08-14T22:13:23.997590+00:00",
+      "date": "2026-08-14T23:13:03.892458+00:00",
       "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/SHAR_A104_Sub.23-copy.jpg?w=1440&#038;h=810&#038;crop=1",
       "important": false,
       "score": 0
@@ -477,7 +525,7 @@
         "fa": "The Hollywood Reporter"
       },
       "link": "https://www.hollywoodreporter.com/movies/movie-news/ian-crafford-field-of-dreams-hope-and-glory-monty-python-1236673908/",
-      "date": "2026-08-14T22:13:23.997449+00:00",
+      "date": "2026-08-14T23:13:03.892330+00:00",
       "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/Ian-Crafford-Obit-Main-2026.jpg?w=1296&#038;h=730&#038;crop=1",
       "important": false,
       "score": 0
@@ -501,80 +549,32 @@
         "fa": "The Hollywood Reporter"
       },
       "link": "https://www.hollywoodreporter.com/business/business-news/kathie-hoops-dead-paramount-executive-residuals-1236669143/",
-      "date": "2026-08-14T22:13:23.997240+00:00",
+      "date": "2026-08-14T23:13:03.892140+00:00",
       "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/Kathie-Hoops-Obit-Main-2026.jpg?w=1296&#038;h=730&#038;crop=1",
       "important": false,
       "score": 0
     },
     {
-      "id": "0894883fbbc5",
+      "id": "538ac03f2404",
       "title": {
-        "en": "‘Disney Dreamlight Valley’ Reveals Details on Next Expansion, Including Oogie Boogie, Lilo, Hannah Montana and More",
-        "fa": "\"Disney Dreamlight Valley\" جزئیاتی را در مورد توسعه بعدی، از جمله Oogie Boogie، Lilo، Hannah Montana و موارد دیگر فاش می کند."
+        "en": "Amélie Hoeferle on Sisterhood, ‘Sterling Point’ and How She Found Her Love for Acting",
+        "fa": "آملی هوفرل در مورد خواهرخواندگی، «نقطه استرلینگ» و چگونگی عشقش به بازیگری"
       },
       "excerpt": {
-        "en": "Oogie Boogie, Lilo from “Lilo & Stitch”, Hannah Montana and Lizzie Maguire are all headed to “Disney Dreamlight Valley.” The Hannah Montana and Lizzie McGuire collection arrives in the cozy life-sim game Aug. 19. A brand-new Premium Shop collection inspired by Hannah Montana and Lizzie McGuire launches next week, giving players the chance style their […]",
-        "fa": "اوگی بوگی، لیلو از «لیلو و استیچ»، هانا مونتانا و لیزی مگوایر همگی به «دره دریم لایت دیزنی» می‌روند. مجموعه Hannah Montana و Lizzie McGuire در بازی دنج life-sim در 19 آگوست وارد می شود. مجموعه جدید Premium Shop با الهام از Hannah Montana و Lizzie McGuire هفته آینده راه اندازی می شود و به بازیکنان سبک شانسی می دهد."
+        "en": "The 24-year-old actress stars as Ramona in Prime Video's coming-of-age series.",
+        "fa": "این بازیگر 24 ساله در نقش رامونا در سریال پرایم ویدیو بازی می کند."
       },
       "content": {
-        "en": "Oogie Boogie, Lilo from “Lilo & Stitch”, Hannah Montana and Lizzie Maguire are all headed to “Disney Dreamlight Valley.” The Hannah Montana and Lizzie McGuire collection arrives in the cozy life-sim game Aug. 19. A brand-new Premium Shop collection inspired by Hannah Montana and Lizzie McGuire launches next week, giving players the chance style their […]",
-        "fa": "اوگی بوگی، لیلو از «لیلو و استیچ»، هانا مونتانا و لیزی مگوایر همگی به «دره دریم لایت دیزنی» می‌روند. مجموعه Hannah Montana و Lizzie McGuire در بازی دنج life-sim در 19 آگوست وارد می شود. مجموعه جدید Premium Shop با الهام از Hannah Montana و Lizzie McGuire هفته آینده راه اندازی می شود و به بازیکنان سبک شانسی می دهد."
+        "en": "The 24-year-old actress stars as Ramona in Prime Video's coming-of-age series.",
+        "fa": "این بازیگر 24 ساله در نقش رامونا در سریال پرایم ویدیو بازی می کند."
       },
       "source": {
-        "en": "Variety",
-        "fa": "Variety"
+        "en": "The Hollywood Reporter",
+        "fa": "The Hollywood Reporter"
       },
-      "link": "https://variety.com/2026/gaming/news/disney-dreamlight-valley-oogie-boogie-hannah-montana-1236833796/",
-      "date": "2026-08-14T22:13:23.995966+00:00",
-      "image": "https://variety.com/wp-content/uploads/2026/08/DDV_Hannah-Montanna-Lizzie-McGuire-Key-Art.png",
-      "important": false,
-      "score": 0
-    },
-    {
-      "id": "581c5043612d",
-      "title": {
-        "en": "Matthew McConaughey on the Time He Helped Catch a Murderer",
-        "fa": "متیو مک‌کانهی درباره زمانی که به دستگیری یک قاتل کمک کرد"
-      },
-      "excerpt": {
-        "en": "Matthew McConaughey is officially back. On Friday afternoon, the revered actor descended upon Filmland, an annual film festival in Little Rock, Arkansas, to receive the Variety Legend & Groundbreaker Award as well as present a screening of his latest film, “The Rivals of Amziah King,” wherein he stars as a honey-maker who finds himself roped […]",
-        "fa": "متیو مک کانهی رسما بازگشته است. بعدازظهر جمعه، این بازیگر محترم به Filmland، جشنواره فیلم سالانه در لیتل راک، آرکانزاس رفت تا جایزه Variety Legend & Groundbreaker را دریافت کند و همچنین نمایشی از آخرین فیلم خود، \"رقبای امزیا کینگ\" را ارائه دهد، جایی که او در نقش یک عسل‌ساز بازی می‌کند که خود را طناب زده می‌بیند."
-      },
-      "content": {
-        "en": "Matthew McConaughey is officially back. On Friday afternoon, the revered actor descended upon Filmland, an annual film festival in Little Rock, Arkansas, to receive the Variety Legend & Groundbreaker Award as well as present a screening of his latest film, “The Rivals of Amziah King,” wherein he stars as a honey-maker who finds himself roped […]",
-        "fa": "متیو مک کانهی رسما بازگشته است. بعدازظهر جمعه، این بازیگر محترم به Filmland، جشنواره فیلم سالانه در لیتل راک، آرکانزاس رفت تا جایزه Variety Legend & Groundbreaker را دریافت کند و همچنین نمایشی از آخرین فیلم خود، \"رقبای امزیا کینگ\" را ارائه دهد، جایی که او در نقش یک عسل‌ساز بازی می‌کند که خود را طناب زده می‌بیند."
-      },
-      "source": {
-        "en": "Variety",
-        "fa": "Variety"
-      },
-      "link": "https://variety.com/2026/film/news/matthew-mcconaughey-catch-murderer-unsolved-mysteries-christopher-nolan-interstellar-1236834945/",
-      "date": "2026-08-14T22:13:23.993190+00:00",
-      "image": "https://variety.com/wp-content/uploads/2026/08/GettyImages-2289953896.jpg",
-      "important": false,
-      "score": 0
-    },
-    {
-      "id": "17d290a89b4d",
-      "title": {
-        "en": "The Partnership: ‘The Pitt’s Taylor Dearden & Tal Anderson Tackle Sisterhood With Precision",
-        "fa": "The Partnership: ‘The Pitt’s Taylor Dearden & Tal Anderson Tackle Sisterhood With Precision"
-      },
-      "excerpt": {
-        "en": "For Taylor Dearden and Tal Anderson, playing twins Mel and Becca King on The Pitt has become a true collaboration. The two first-time Emmy-nominated actors have developed an easy rapport that allows them to dig into the complicated bond between sisters who have spent most of their lives relying on one another even as their […]",
-        "fa": "برای تیلور دیرن و تال اندرسون، بازی در نقش دوقلوهای مل و بکا کینگ در The Pitt به یک همکاری واقعی تبدیل شده است. دو بازیگری که برای اولین بار نامزد جایزه امی شده اند، رابطه آسانی ایجاد کرده اند که به آنها اجازه می دهد تا پیوند پیچیده بین خواهرانی را که بیشتر عمر خود را با تکیه بر یکدیگر گذرانده اند، کشف کنند."
-      },
-      "content": {
-        "en": "For Taylor Dearden and Tal Anderson, playing twins Mel and Becca King on The Pitt has become a true collaboration. The two first-time Emmy-nominated actors have developed an easy rapport that allows them to dig into the complicated bond between sisters who have spent most of their lives relying on one another even as their […]",
-        "fa": "برای تیلور دیرن و تال اندرسون، بازی در نقش دوقلوهای مل و بکا کینگ در The Pitt به یک همکاری واقعی تبدیل شده است. دو بازیگری که برای اولین بار نامزد جایزه امی شده اند، رابطه آسانی ایجاد کرده اند که به آنها اجازه می دهد تا پیوند پیچیده بین خواهرانی را که بیشتر عمر خود را با تکیه بر یکدیگر گذرانده اند، کشف کنند."
-      },
-      "source": {
-        "en": "Deadline",
-        "fa": "Deadline"
-      },
-      "link": "https://deadline.com/2026/08/the-pitt-interview-tal-anderson-taylor-dearden-1237033591/",
-      "date": "2026-08-14T22:13:23.992588+00:00",
-      "image": "https://deadline.com/wp-content/uploads/2026/08/image_5bab9a.png?w=1024&h=1000",
+      "link": "https://www.hollywoodreporter.com/tv/tv-features/amelie-hoeferle-sterling-point-love-for-acting-sisterhood-1236673127/",
+      "date": "2026-08-14T23:13:03.890947+00:00",
+      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/Amelie_Hoeferle.png?w=1440&#038;h=810&#038;crop=1",
       "important": false,
       "score": 0
     }
