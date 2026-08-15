@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-15T19:15:20.138669+00:00",
-  "count": 23,
+  "updated_at": "2026-08-15T20:12:27.714100+00:00",
+  "count": 21,
   "news": [
     {
       "id": "d97f2f1cf7d4",
@@ -21,7 +21,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/news/breaking-news/film-independent-biggest-grant-history-juan-devis-1235210522/",
-      "date": "2026-08-15T19:15:19.914767+00:00",
+      "date": "2026-08-15T20:12:27.534818+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/Juan_Devis_2304sm-photo.jpeg?w=650",
       "important": false,
       "score": 3
@@ -45,32 +45,8 @@
         "fa": "The Wrap"
       },
       "link": "https://www.thewrap.com/creative-content/movies/7-best-rom-coms-netflix-august-2026/",
-      "date": "2026-08-15T19:15:19.911650+00:00",
+      "date": "2026-08-15T20:12:27.531722+00:00",
       "image": "https://www.thewrap.com/wp-content/uploads/2022/04/Keanu-Reeves-in-Always-Be-My-Maybe.jpg",
-      "important": false,
-      "score": 3
-    },
-    {
-      "id": "d657311e0caf",
-      "title": {
-        "en": "“I’ve Disobeyed the Film God Laws”: Lindsey Ryan on Shooting Her Debut Feature at Sea, With Kids, a Boat and a Hamster",
-        "fa": "«من قوانین خدای فیلم را رعایت نکردم»: لیندسی رایان در فیلمبرداری اولین فیلم خود در دریا، با بچه ها، قایق و همستر"
-      },
-      "excerpt": {
-        "en": "THR can unveil exclusive stills from the Rhys Ifans and Lily Rabe-starrer, set to make waves in competition at Edinburgh Film Festival.",
-        "fa": "THR می‌تواند عکس‌های انحصاری رایس ایفانس و لیلی راب بازیگر را که قرار است در جشنواره فیلم ادینبورگ موجی از رقابت را ایجاد کند، رونمایی کند."
-      },
-      "content": {
-        "en": "THR can unveil exclusive stills from the Rhys Ifans and Lily Rabe-starrer, set to make waves in competition at Edinburgh Film Festival.",
-        "fa": "THR می‌تواند عکس‌های انحصاری رایس ایفانس و لیلی راب بازیگر را که قرار است در جشنواره فیلم ادینبورگ موجی از رقابت را ایجاد کند، رونمایی کند."
-      },
-      "source": {
-        "en": "The Hollywood Reporter",
-        "fa": "The Hollywood Reporter"
-      },
-      "link": "https://www.hollywoodreporter.com/movies/movie-features/lindsey-ryan-capsized-edinburgh-rhys-ifans-lily-rabe-film-1236670841/",
-      "date": "2026-08-15T19:15:19.911514+00:00",
-      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/FotoJet-2026-08-12T125839.497.jpg?w=1440&#038;h=810&#038;crop=1",
       "important": false,
       "score": 3
     },
@@ -93,7 +69,7 @@
         "fa": "The Hollywood Reporter"
       },
       "link": "https://www.hollywoodreporter.com/tv/tv-features/paradise-producer-sinatra-sacrifice-season-two-finale-1236670575/",
-      "date": "2026-08-15T19:15:19.910142+00:00",
+      "date": "2026-08-15T20:12:27.530347+00:00",
       "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/14AFEA-Drama-Series-Paradise-Main-2026.jpg?w=1296&#038;h=730&#038;crop=1",
       "important": false,
       "score": 3
@@ -117,32 +93,32 @@
         "fa": "Variety"
       },
       "link": "https://variety.com/2026/tv/news/nate-bargatze-guinness-world-record-comedy-tour-tickets-sold-1236835016/",
-      "date": "2026-08-15T19:15:19.908718+00:00",
+      "date": "2026-08-15T20:12:27.529000+00:00",
       "image": "https://variety.com/wp-content/uploads/2026/08/Grand-Casion-Arena-e1786754652340.jpg",
       "important": false,
       "score": 3
     },
     {
-      "id": "2e75b5c64030",
+      "id": "9b33470276bf",
       "title": {
-        "en": "Disney’s ‘The Greatest Showman’ Musical Sets Spring 2027 West End Opening, Principal Cast",
-        "fa": "مجموعه های موزیکال «بزرگترین شومن» دیزنی بهار 2027 افتتاحیه وست اند، بازیگران اصلی"
+        "en": "‘How the F— Would You Get This Movie Made in America?’ Christine Vachon, Film4, BBC Film Put ‘Trainspotting,’ ‘Ratcatcher’ and ‘The Wicker Man’ Through the 2026 Greenlight Test",
+        "fa": "کریستین واچون، Film4، فیلم BBC، «Trainspotting»، «Ratcatcher» و «The Wicker Man» را در آزمون گرین لایت 2026 قرار می‌دهند: «چگونه F— آیا این فیلم را در آمریکا ساخته می‌شوید؟»"
       },
       "excerpt": {
-        "en": "The Greatest Showman, the Disney Theatrical Group musical stage adaptation of the 2017 film, will premiere in London’s West End at Theatre Royal Drury Lane in Spring 2027, Disney announced at the D23 event in Anaheim last night. Also revealed was the cast: The Greatest Showman will star Oliver Tompsett as P.T. Barnum, Samantha Barks […]",
-        "fa": "دیزنی دیشب در رویداد D23 در آناهیم اعلام کرد که The Greatest Showman، اقتباس صحنه ای موزیکال گروه تئاتر دیزنی از فیلم 2017، در وست اند لندن در تئاتر رویال دروری لین در بهار 2027 نمایش داده می شود. همچنین بازیگران این فیلم فاش شد: The Greatest Showman در نقش الیور تامپست در نقش پی تی. بارنوم، سامانتا بارکس"
+        "en": "Would “Trainspotting” get financed today? Could Lynne Ramsay survive the jump from shorts to a first feature? And might “The Wicker Man,” once treated as a problem child, now look like exactly the kind of genre package buyers chase? That was the conceit of a lively session hosted by Wendy Mitchell, with Picturehouse’s creative director […]",
+        "fa": "آیا \"Trainspotting\" امروز تامین مالی می شود؟ آیا لین رمزی می تواند از پرش از شورت به اولین فیلم بلند زنده بماند؟ و آیا «مرد حصیری» که زمانی به عنوان یک کودک مشکل دار با او برخورد می شد، اکنون دقیقاً شبیه همان ژانری است که خریداران بسته به دنبال آن هستند؟ این تصور یک جلسه پر جنب و جوش بود که توسط وندی میچل، با مدیر خلاق Picturehouse برگزار شد."
       },
       "content": {
-        "en": "The Greatest Showman, the Disney Theatrical Group musical stage adaptation of the 2017 film, will premiere in London’s West End at Theatre Royal Drury Lane in Spring 2027, Disney announced at the D23 event in Anaheim last night. Also revealed was the cast: The Greatest Showman will star Oliver Tompsett as P.T. Barnum, Samantha Barks […]",
-        "fa": "دیزنی دیشب در رویداد D23 در آناهیم اعلام کرد که The Greatest Showman، اقتباس صحنه ای موزیکال گروه تئاتر دیزنی از فیلم 2017، در وست اند لندن در تئاتر رویال دروری لین در بهار 2027 نمایش داده می شود. همچنین بازیگران این فیلم فاش شد: The Greatest Showman در نقش الیور تامپست در نقش پی تی. بارنوم، سامانتا بارکس"
+        "en": "Would “Trainspotting” get financed today? Could Lynne Ramsay survive the jump from shorts to a first feature? And might “The Wicker Man,” once treated as a problem child, now look like exactly the kind of genre package buyers chase? That was the conceit of a lively session hosted by Wendy Mitchell, with Picturehouse’s creative director […]",
+        "fa": "آیا \"Trainspotting\" امروز تامین مالی می شود؟ آیا لین رمزی می تواند از پرش از شورت به اولین فیلم بلند زنده بماند؟ و آیا «مرد حصیری» که زمانی به عنوان یک کودک مشکل دار با او برخورد می شد، اکنون دقیقاً شبیه همان ژانری است که خریداران بسته به دنبال آن هستند؟ این تصور یک جلسه پر جنب و جوش بود که توسط وندی میچل، با مدیر خلاق Picturehouse برگزار شد."
       },
       "source": {
-        "en": "Deadline",
-        "fa": "Deadline"
+        "en": "Variety",
+        "fa": "Variety"
       },
-      "link": "https://deadline.com/2026/08/greatest-showman-musical-west-end-opening-date-1237041487/",
-      "date": "2026-08-15T19:15:19.906495+00:00",
-      "image": "https://deadline.com/wp-content/uploads/2026/08/The-Greatest-Showman-Oliver-Tompsett-Samantha-Barks-Photo-by-Sebastian-Nevols.jpg",
+      "link": "https://variety.com/2026/film/festivals/how-would-you-get-this-movie-made-vachon-film4-bbc-1236835455/",
+      "date": "2026-08-15T20:12:27.526873+00:00",
+      "image": "https://variety.com/wp-content/uploads/2024/10/Wicker-Man.jpg",
       "important": false,
       "score": 3
     },
@@ -165,7 +141,7 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/bill-maher-luigi-mangione-1237041560/",
-      "date": "2026-08-15T19:15:19.904147+00:00",
+      "date": "2026-08-15T20:12:27.524742+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/maher-luigi-copy.jpeg",
       "important": false,
       "score": 3
@@ -189,7 +165,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/features/podcast/screen-talk-podcast-tiff-ceo-cameron-bailey-toronto-2026-1235210516/",
-      "date": "2026-08-15T19:15:19.914914+00:00",
+      "date": "2026-08-15T20:12:27.534965+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/P115U4AG.jpg?w=650",
       "important": false,
       "score": 1
@@ -213,7 +189,7 @@
         "fa": "The Hollywood Reporter"
       },
       "link": "https://www.hollywoodreporter.com/movies/movie-news/dudley-moore-author-1236671092/",
-      "date": "2026-08-15T19:15:19.909806+00:00",
+      "date": "2026-08-15T20:12:27.530012+00:00",
       "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/15ENDPG-Main-2026.jpg?w=1296&#038;h=730&#038;crop=1",
       "important": false,
       "score": 1
@@ -237,7 +213,7 @@
         "fa": "Variety"
       },
       "link": "https://variety.com/2026/film/box-office/box-office-end-of-oak-street-spider-man-brand-new-day-1236835436/",
-      "date": "2026-08-15T19:15:19.908927+00:00",
+      "date": "2026-08-15T20:12:27.529197+00:00",
       "image": "https://variety.com/wp-content/uploads/2026/08/MCDENOF_WB002.jpg",
       "important": false,
       "score": 1
@@ -261,7 +237,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/criticism/movies/american-doctor-documentary-review-gaza-1235210500/",
-      "date": "2026-08-15T19:15:19.915519+00:00",
+      "date": "2026-08-15T20:12:27.535578+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/ivfj95enlAmerican_Doctor-Still_1.webp?w=650",
       "important": false,
       "score": 0
@@ -285,7 +261,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/news/business/dga-iatse-conditions-paramount-settlement-realistic-1235210398/",
-      "date": "2026-08-15T19:15:19.915282+00:00",
+      "date": "2026-08-15T20:12:27.535340+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/P10XLNE.jpg?w=650",
       "important": false,
       "score": 0
@@ -309,7 +285,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/features/interviews/abbott-elementary-director-randall-einhorn-phillies-game-1235210238/",
-      "date": "2026-08-15T19:15:19.914564+00:00",
+      "date": "2026-08-15T20:12:27.534605+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/178757_1142.jpg?w=650",
       "important": false,
       "score": 0
@@ -333,32 +309,8 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/features/craft/jane-schoenbrun-teenage-sex-and-death-at-camp-miasma-1235210237/",
-      "date": "2026-08-15T19:15:19.914340+00:00",
+      "date": "2026-08-15T20:12:27.534369+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/MCDTESE_K3011.jpg?w=650",
-      "important": false,
-      "score": 0
-    },
-    {
-      "id": "c980017fe7a1",
-      "title": {
-        "en": "‘Zootopia 3’ in the Works at Disney",
-        "fa": "\"Zootopia 3\" در دیزنی در حال ساخت است"
-      },
-      "excerpt": {
-        "en": "Judy and Nick will return after \"Zootopia 2\" became the highest grossing animated film in Hollywood history The post ‘Zootopia 3’ in the Works at Disney appeared first on TheWrap .",
-        "fa": "جودی و نیک پس از تبدیل شدن «زوتوپیا ۲» به پرفروش‌ترین انیمیشن تاریخ هالیوود باز خواهند گشت."
-      },
-      "content": {
-        "en": "Judy and Nick will return after \"Zootopia 2\" became the highest grossing animated film in Hollywood history The post ‘Zootopia 3’ in the Works at Disney appeared first on TheWrap .",
-        "fa": "جودی و نیک پس از تبدیل شدن «زوتوپیا ۲» به پرفروش‌ترین انیمیشن تاریخ هالیوود باز خواهند گشت."
-      },
-      "source": {
-        "en": "The Wrap",
-        "fa": "The Wrap"
-      },
-      "link": "https://www.thewrap.com/creative-content/movies/zootopia-3-disney/",
-      "date": "2026-08-15T19:15:19.913419+00:00",
-      "image": "https://www.thewrap.com/wp-content/uploads/2026/01/ZOOTOPIA-2-5.jpg",
       "important": false,
       "score": 0
     },
@@ -381,7 +333,7 @@
         "fa": "The Wrap"
       },
       "link": "https://www.thewrap.com/creative-content/movies/kristen-stewart-recalls-twilight-cast-crew-titanic-moment-brazil-storm/",
-      "date": "2026-08-15T19:15:19.913256+00:00",
+      "date": "2026-08-15T20:12:27.533413+00:00",
       "image": "https://www.thewrap.com/wp-content/uploads/2026/08/Untitled-design-2026-08-14T210947.781.jpg",
       "important": false,
       "score": 0
@@ -405,7 +357,7 @@
         "fa": "The Wrap"
       },
       "link": "https://www.thewrap.com/creative-content/movies/hexed-adds-jodie-foster-walton-goggins-disney-animation/",
-      "date": "2026-08-15T19:15:19.912895+00:00",
+      "date": "2026-08-15T20:12:27.533037+00:00",
       "image": "https://www.thewrap.com/wp-content/uploads/2026/08/Hexed-1.jpg",
       "important": false,
       "score": 0
@@ -429,32 +381,32 @@
         "fa": "The Hollywood Reporter"
       },
       "link": "https://www.hollywoodreporter.com/movies/movie-features/george-mackay-rosy-mcewen-mission-paul-wright-edinburgh-1236670925/",
-      "date": "2026-08-15T19:15:19.911004+00:00",
+      "date": "2026-08-15T20:12:27.531245+00:00",
       "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/FotoJet-2026-08-11T163112.153.jpg?w=1440&#038;h=810&#038;crop=1",
       "important": false,
       "score": 0
     },
     {
-      "id": "daafb955bd35",
+      "id": "c9c83c8669b1",
       "title": {
-        "en": "Florin Şerban’s ‘You Don’t Belong Here’ Wins Golden Leopard at Locarno, as Monica Bellucci and Kim Minhee Take Acting Awards",
-        "fa": "«تو به اینجا تعلق نداری» فلورین شربان برنده پلنگ طلایی لوکارنو شد و مونیکا بلوچی و کیم مینه جوایز بازیگری را دریافت کردند."
+        "en": "The TikTok Comment That Let Megan Gallagher Know She Nailed the Representation of Motherhood in ‘All Her Fault’",
+        "fa": "کامنت TikTok که به مگان گالاگر می‌فهمد که نقش مادری را در «همه تقصیر او» نشان می‌دهد."
       },
       "excerpt": {
-        "en": "Romanian director Florin Şerban’s “You Don’t Belong Here,” a somber study of anti-Roma racism in the country, has taken the Golden Lion for best film in the International Competition at the Locarno Film Festival, along with a special mention for its young star Teodor Butănescu. The film emerged victorious in a lineup of 17 features […]",
-        "fa": "فلورین شربان، کارگردان رومانیایی «شما به اینجا تعلق ندارید»، که یک مطالعه غم انگیز درباره نژادپرستی ضد روم در این کشور است، شیر طلایی بهترین فیلم مسابقه بین المللی جشنواره فیلم لوکارنو را به همراه تئودور بوتانسکو، ستاره جوان آن، دریافت کرد. این فیلم در ترکیب 17 فیلم پیروز ظاهر شد"
+        "en": "“Every little, tiny breadcrumb-y feminist thing that I put in there…everyone picked up on it,” says the writer and creator of the Peacock series.",
+        "fa": "نویسنده و خالق سریال Peacock می گوید: «هر چیز کوچک و کوچک فمینیستی را که در آنجا گذاشتم... همه آن را برداشتند."
       },
       "content": {
-        "en": "Romanian director Florin Şerban’s “You Don’t Belong Here,” a somber study of anti-Roma racism in the country, has taken the Golden Lion for best film in the International Competition at the Locarno Film Festival, along with a special mention for its young star Teodor Butănescu. The film emerged victorious in a lineup of 17 features […]",
-        "fa": "فلورین شربان، کارگردان رومانیایی «شما به اینجا تعلق ندارید»، که یک مطالعه غم انگیز درباره نژادپرستی ضد روم در این کشور است، شیر طلایی بهترین فیلم مسابقه بین المللی جشنواره فیلم لوکارنو را به همراه تئودور بوتانسکو، ستاره جوان آن، دریافت کرد. این فیلم در ترکیب 17 فیلم پیروز ظاهر شد"
+        "en": "“Every little, tiny breadcrumb-y feminist thing that I put in there…everyone picked up on it,” says the writer and creator of the Peacock series.",
+        "fa": "نویسنده و خالق سریال Peacock می گوید: «هر چیز کوچک و کوچک فمینیستی را که در آنجا گذاشتم... همه آن را برداشتند."
       },
       "source": {
-        "en": "Variety",
-        "fa": "Variety"
+        "en": "The Hollywood Reporter",
+        "fa": "The Hollywood Reporter"
       },
-      "link": "https://variety.com/2026/film/news/locarno-award-winners-monica-bellucci-kim-minhee-1236835378/",
-      "date": "2026-08-15T19:15:19.909601+00:00",
-      "image": "https://variety.com/wp-content/uploads/2026/08/Nu-e-locul-tau-aici-You-Dont-Belong-Here_2_Copyright-Fantascope-Films-1.jpg",
+      "link": "https://www.hollywoodreporter.com/tv/tv-features/tiktok-comment-all-her-fault-motherhood-tv-1236672638/",
+      "date": "2026-08-15T20:12:27.529852+00:00",
+      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/14BFEA-Limited-All-Her-Fault-Main-2026.jpg?w=1296&#038;h=730&#038;crop=1",
       "important": false,
       "score": 0
     },
@@ -477,7 +429,7 @@
         "fa": "Variety"
       },
       "link": "https://variety.com/2026/film/festivals/locarno-marco-cavazzin-mutrion-venice-leopards-of-tomorrow-1236834478/",
-      "date": "2026-08-15T19:15:19.908336+00:00",
+      "date": "2026-08-15T20:12:27.528624+00:00",
       "image": "https://variety.com/wp-content/uploads/2026/08/Mutrion.jpg",
       "important": false,
       "score": 0
@@ -501,7 +453,7 @@
         "fa": "Variety"
       },
       "link": "https://variety.com/2026/music/news/dave-marsh-dead-bruce-springsteen-born-to-run-1236835488/",
-      "date": "2026-08-15T19:15:19.907590+00:00",
+      "date": "2026-08-15T20:12:27.527928+00:00",
       "image": "https://variety.com/wp-content/uploads/2026/08/MixCollage-15-Aug-2026-10-47-AM-6065.jpg",
       "important": false,
       "score": 0
@@ -525,7 +477,7 @@
         "fa": "Variety"
       },
       "link": "https://variety.com/2026/shopping/news/how-to-watch-ufc-330-makhachev-vs-machado-garry-live-online-free-1236833641/",
-      "date": "2026-08-15T19:15:19.907433+00:00",
+      "date": "2026-08-15T20:12:27.527746+00:00",
       "image": "https://variety.com/wp-content/uploads/2026/08/UFC-Islam-Makhachev-Getty-VR-Featured.jpg",
       "important": false,
       "score": 0
@@ -549,7 +501,7 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/bfi-ceo-ben-roberts-keynote-address-uk-film-conference-eiff-1237041496/",
-      "date": "2026-08-15T19:15:19.905712+00:00",
+      "date": "2026-08-15T20:12:27.526327+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/06/Ben-Roberts-BFI-CEO-e1781616847588.jpg",
       "important": false,
       "score": 0
