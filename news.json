@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-15T15:11:51.348941+00:00",
-  "count": 20,
+  "updated_at": "2026-08-15T16:13:19.927500+00:00",
+  "count": 21,
   "news": [
     {
       "id": "00a13ef3b172",
@@ -21,7 +21,7 @@
         "fa": "The Hollywood Reporter"
       },
       "link": "https://www.hollywoodreporter.com/tv/tv-news/lebron-james-starts-youtube-golf-channel-exclusive-trailer-1236673598/",
-      "date": "2026-08-15T15:11:51.195222+00:00",
+      "date": "2026-08-15T16:13:19.748127+00:00",
       "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/Lebron-Golfing-in-Scotland-Main-2026.jpg?w=1296&#038;h=730&#038;crop=1",
       "important": true,
       "score": 7
@@ -45,7 +45,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/news/breaking-news/film-independent-biggest-grant-history-juan-devis-1235210522/",
-      "date": "2026-08-15T15:11:51.198244+00:00",
+      "date": "2026-08-15T16:13:19.750753+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/Juan_Devis_2304sm-photo.jpeg?w=650",
       "important": false,
       "score": 3
@@ -69,7 +69,7 @@
         "fa": "The Hollywood Reporter"
       },
       "link": "https://www.hollywoodreporter.com/movies/movie-features/lindsey-ryan-capsized-edinburgh-rhys-ifans-lily-rabe-film-1236670841/",
-      "date": "2026-08-15T15:11:51.195618+00:00",
+      "date": "2026-08-15T16:13:19.748497+00:00",
       "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/FotoJet-2026-08-12T125839.497.jpg?w=1440&#038;h=810&#038;crop=1",
       "important": false,
       "score": 3
@@ -93,7 +93,7 @@
         "fa": "Variety"
       },
       "link": "https://variety.com/2026/film/news/frozen-3-first-details-anna-kristoff-married-olaf-love-1236822955/",
-      "date": "2026-08-15T15:11:51.194755+00:00",
+      "date": "2026-08-15T16:13:19.747549+00:00",
       "image": "https://variety.com/wp-content/uploads/2026/07/IMG_9699.jpg",
       "important": false,
       "score": 3
@@ -117,8 +117,32 @@
         "fa": "Variety"
       },
       "link": "https://variety.com/2026/film/reviews/nowhere-to-lay-my-eyes-review-1236835338/",
-      "date": "2026-08-15T15:11:51.193582+00:00",
+      "date": "2026-08-15T16:13:19.746441+00:00",
       "image": "https://variety.com/wp-content/uploads/2026/07/Nowhere-to-Lay-My-Eyes.jpg",
+      "important": false,
+      "score": 3
+    },
+    {
+      "id": "f7b262bd3db4",
+      "title": {
+        "en": "Nate Bargatze Sets Guinness World Record for Most Tickets Sold for a Stand-Up Comedy Tour (EXCLUSIVE)",
+        "fa": "نیت بارگاتزه رکورد جهانی گینس را برای بیشترین بلیط فروخته شده برای یک تور کمدی استندآپ ثبت کرد."
+      },
+      "excerpt": {
+        "en": "Nate Bargatze and his “Big Dumb Eyes” just set a Guinness World Record. The Tennessee-born comedian has officially sold the most tickets for a stand-up comedy tour, surpassing the previously record held by Jeff Dunham. Bargatze will be presented with the Guinness World Record onstage at the Scotiabank Arena in Toronto on Saturday. Ahead of […]",
+        "fa": "نیت بارگاتزه و \"چشمان گنگ بزرگ\" او به تازگی یک رکورد جهانی گینس ثبت کردند. این کمدین متولد تنسی رسما بیشترین بلیط را برای یک تور استندآپ کمدی فروخته است و از رکورد قبلی جف دانهام فراتر رفته است. بارگاتزه روز شنبه در ورزشگاه Scotiabank Arena در تورنتو، رکورد جهانی گینس را روی صحنه خواهد برد. جلوتر از"
+      },
+      "content": {
+        "en": "Nate Bargatze and his “Big Dumb Eyes” just set a Guinness World Record. The Tennessee-born comedian has officially sold the most tickets for a stand-up comedy tour, surpassing the previously record held by Jeff Dunham. Bargatze will be presented with the Guinness World Record onstage at the Scotiabank Arena in Toronto on Saturday. Ahead of […]",
+        "fa": "نیت بارگاتزه و \"چشمان گنگ بزرگ\" او به تازگی یک رکورد جهانی گینس ثبت کردند. این کمدین متولد تنسی رسما بیشترین بلیط را برای یک تور استندآپ کمدی فروخته است و از رکورد قبلی جف دانهام فراتر رفته است. بارگاتزه روز شنبه در ورزشگاه Scotiabank Arena در تورنتو، رکورد جهانی گینس را روی صحنه خواهد برد. جلوتر از"
+      },
+      "source": {
+        "en": "Variety",
+        "fa": "Variety"
+      },
+      "link": "https://variety.com/2026/tv/news/nate-bargatze-guinness-world-record-comedy-tour-tickets-sold-1236835016/",
+      "date": "2026-08-15T16:13:19.745367+00:00",
+      "image": "https://variety.com/wp-content/uploads/2026/08/Grand-Casion-Arena-e1786754652340.jpg",
       "important": false,
       "score": 3
     },
@@ -134,15 +158,39 @@
       },
       "content": {
         "en": "The Greatest Showman, the Disney Theatrical Group musical stage adaptation of the 2017 film, will premiere in London’s West End at Theatre Royal Drury Lane in Spring 2027, Disney announced at the D23 event in Anaheim last night. Also revealed was the cast: The Greatest Showman will star Oliver Tompsett as P.T. Barnum, Samantha Barks […]",
-        "fa": "دیزنی دیشب در رویداد D23 در آناهیم اعلام کرد که The Greatest Showman، اقتباس صحنه ای موزیکال گروه تئاتر دیزنی از فیلم 2017، در وست اند لندن در تئاتر رویال دروری لین در بهار 2027 نمایش داده می شود. همچنین بازیگران این فیلم فاش شد: The Greatest Showman در نقش الیور تامپست در نقش پی تی. بارنوم، سامانتا بارکس"
+        "fa": "The Greatest Showman, the Disney Theatrical Group musical stage adaptation of the 2017 film, will premiere in London’s West End at Theatre Royal Drury Lane in Spring 2027, Disney announced at the D23 event in Anaheim last night. Also revealed was the cast: The Greatest Showman will star Oliver Tompsett as P.T. Barnum, Samantha Barks […]"
       },
       "source": {
         "en": "Deadline",
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/greatest-showman-musical-west-end-opening-date-1237041487/",
-      "date": "2026-08-15T15:11:51.191843+00:00",
+      "date": "2026-08-15T16:13:19.744422+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/The-Greatest-Showman-Oliver-Tompsett-Samantha-Barks-Photo-by-Sebastian-Nevols.jpg",
+      "important": false,
+      "score": 3
+    },
+    {
+      "id": "58e6cbe4eeba",
+      "title": {
+        "en": "Bill Maher Has A Word For Luigi Mangione “Groupies”",
+        "fa": "Bill Maher Has A Word For Luigi Mangione “Groupies”"
+      },
+      "excerpt": {
+        "en": "Friday’s big story on the cable news networks was the guilty plea of Luigi Mangione, the man who shot and killed UnitedHealthcare CEO Brian Thompson in 2024. And last night Bill Maher had some thoughts. “Luigi Mangione,” Maher said in the opening monologue of HBO’s Real Time with Bill Maher, “the guy who was getting […]",
+        "fa": "داستان بزرگ روز جمعه در شبکه های خبری کابلی اعتراف گناه لوئیجی مانژیونه بود، مردی که در سال 2024، برایان تامپسون، مدیرعامل UnitedHealthcare را به ضرب گلوله کشت. و شب گذشته بیل ماهر افکاری داشت. ماهر در مونولوگ آغازین Real Time شبکه HBO با بیل ماهر گفت: «لوئیجی مانژیونه، مردی که داشت"
+      },
+      "content": {
+        "en": "Friday’s big story on the cable news networks was the guilty plea of Luigi Mangione, the man who shot and killed UnitedHealthcare CEO Brian Thompson in 2024. And last night Bill Maher had some thoughts. “Luigi Mangione,” Maher said in the opening monologue of HBO’s Real Time with Bill Maher, “the guy who was getting […]",
+        "fa": "Friday’s big story on the cable news networks was the guilty plea of Luigi Mangione, the man who shot and killed UnitedHealthcare CEO Brian Thompson in 2024. And last night Bill Maher had some thoughts. “Luigi Mangione,” Maher said in the opening monologue of HBO’s Real Time with Bill Maher, “the guy who was getting […]"
+      },
+      "source": {
+        "en": "Deadline",
+        "fa": "Deadline"
+      },
+      "link": "https://deadline.com/2026/08/bill-maher-luigi-mangione-1237041560/",
+      "date": "2026-08-15T16:13:19.741490+00:00",
+      "image": "https://deadline.com/wp-content/uploads/2026/08/maher-luigi-copy.jpeg",
       "important": false,
       "score": 3
     },
@@ -150,7 +198,7 @@
       "id": "3553f7437c16",
       "title": {
         "en": "TIFF CEO Cameron Bailey Teases Toronto 2026 and How the New Market Will Stand Out from the Crowd",
-        "fa": "مدیر عامل TIFF کامرون بیلی تورنتو 2026 و اینکه چگونه بازار جدید از بین مردم متمایز خواهد شد را اذیت می کند"
+        "fa": "TIFF CEO Cameron Bailey Teases Toronto 2026 and How the New Market Will Stand Out from the Crowd"
       },
       "excerpt": {
         "en": "The festival head previews upcoming films on the latest episode of \"Screen Talk,\" and we discuss Warnermount, the summer box office, and thoughts on \"Tony.\"",
@@ -165,32 +213,32 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/features/podcast/screen-talk-podcast-tiff-ceo-cameron-bailey-toronto-2026-1235210516/",
-      "date": "2026-08-15T15:11:51.198386+00:00",
+      "date": "2026-08-15T16:13:19.750887+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/P115U4AG.jpg?w=650",
       "important": false,
       "score": 1
     },
     {
-      "id": "3f54cc1e6799",
+      "id": "e67b8df08610",
       "title": {
-        "en": "Marvel’s ‘X-Men’ Reboot Sets May 2028 Release Date",
-        "fa": "تاریخ انتشار ریبوت «مردان ایکس» مارول در می 2028 تنظیم می‌شود"
+        "en": "Box Office: ‘The End of Oak Street’ Chomps on $8.1 Million, But ‘Spider-Man: Brand New Day’ Is Still No. 1 With $19 Million",
+        "fa": "باکس آفیس: «انتهای اوک استریت» 8.1 میلیون دلار فروخت، اما «مرد عنکبوتی: روز کاملاً جدید» با 19 میلیون دلار همچنان رتبه اول را دارد."
       },
       "excerpt": {
-        "en": "The long-awaited X-Men movie is finally coming to the MCU. Marvel Studios exec Kevin Feige made the official announcement that the X-Men movie will release on May 5, 2028. The cast will include Sadie Sink as Jean Grey, Kit Connor as Cyclops, Samara Weaving as Emma Frost, Inde Navarrette as Rogue, Maya Boyd as Storm […]",
-        "fa": "فیلم مورد انتظار X-Men بالاخره به MCU می آید. کوین فایگی، مدیر اجرایی مارول استودیوز اعلام کرد که فیلم مردان ایکس در تاریخ 5 می 2028 اکران خواهد شد. بازیگران این فیلم عبارتند از: سدی سینک در نقش ژان گری، کیت کانر در نقش سیکلوپ، سامارا ویوینگ در نقش اما فراست، ایند ناوارت در نقش روگ، مایا بوید در نقش استورم."
+        "en": "“Spider-Man: Brand New Day” led the box office again on Friday despite competition from Anne Hathaway and a horde of hungry dinosaurs. The Warner Bros. sci-fi thriller “The End of Oak Street” landed in second place on opening day with $8.1 million from 3,446 North American theaters. Rivals estimate the film will earn about $18.7 […]",
+        "fa": "«مرد عنکبوتی: روز کاملاً جدید» با وجود رقابت آن هاتاوی و انبوهی از دایناسورهای گرسنه، روز جمعه دوباره در باکس آفیس پیشتاز شد. فیلم علمی تخیلی «انتهای اوک استریت» برادران وارنر در روز افتتاحیه با 8.1 میلیون دلار از 3446 سینمای آمریکای شمالی در جایگاه دوم قرار گرفت. رقبا تخمین می زنند که فیلم حدود 18.7 دلار درآمد داشته باشد"
       },
       "content": {
-        "en": "The long-awaited X-Men movie is finally coming to the MCU. Marvel Studios exec Kevin Feige made the official announcement that the X-Men movie will release on May 5, 2028. The cast will include Sadie Sink as Jean Grey, Kit Connor as Cyclops, Samara Weaving as Emma Frost, Inde Navarrette as Rogue, Maya Boyd as Storm […]",
-        "fa": "فیلم مورد انتظار X-Men بالاخره به MCU می آید. کوین فایگی، مدیر اجرایی مارول استودیوز اعلام کرد که فیلم مردان ایکس در تاریخ 5 می 2028 اکران خواهد شد. بازیگران این فیلم عبارتند از: سدی سینک در نقش ژان گری، کیت کانر در نقش سیکلوپ، سامارا ویوینگ در نقش اما فراست، ایند ناوارت در نقش روگ، مایا بوید در نقش استورم."
+        "en": "“Spider-Man: Brand New Day” led the box office again on Friday despite competition from Anne Hathaway and a horde of hungry dinosaurs. The Warner Bros. sci-fi thriller “The End of Oak Street” landed in second place on opening day with $8.1 million from 3,446 North American theaters. Rivals estimate the film will earn about $18.7 […]",
+        "fa": "«مرد عنکبوتی: روز کاملاً جدید» با وجود رقابت آن هاتاوی و انبوهی از دایناسورهای گرسنه، روز جمعه دوباره در باکس آفیس پیشتاز شد. فیلم علمی تخیلی «انتهای اوک استریت» برادران وارنر در روز افتتاحیه با 8.1 میلیون دلار از 3446 سینمای آمریکای شمالی در جایگاه دوم قرار گرفت. رقبا تخمین می زنند که فیلم حدود 18.7 دلار درآمد داشته باشد"
       },
       "source": {
         "en": "Variety",
         "fa": "Variety"
       },
-      "link": "https://variety.com/2026/film/news/x-men-release-date-marvel-reboot-1236816959/",
-      "date": "2026-08-15T15:11:51.194910+00:00",
-      "image": "https://variety.com/wp-content/uploads/2026/08/GettyImages-2290539901.jpg",
+      "link": "https://variety.com/2026/film/box-office/box-office-end-of-oak-street-spider-man-brand-new-day-1236835436/",
+      "date": "2026-08-15T16:13:19.745558+00:00",
+      "image": "https://variety.com/wp-content/uploads/2026/08/MCDENOF_WB002.jpg",
       "important": false,
       "score": 1
     },
@@ -213,7 +261,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/criticism/movies/american-doctor-documentary-review-gaza-1235210500/",
-      "date": "2026-08-15T15:11:51.198991+00:00",
+      "date": "2026-08-15T16:13:19.751451+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/ivfj95enlAmerican_Doctor-Still_1.webp?w=650",
       "important": false,
       "score": 0
@@ -237,7 +285,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/news/business/dga-iatse-conditions-paramount-settlement-realistic-1235210398/",
-      "date": "2026-08-15T15:11:51.198740+00:00",
+      "date": "2026-08-15T16:13:19.751235+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/P10XLNE.jpg?w=650",
       "important": false,
       "score": 0
@@ -261,7 +309,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/features/interviews/abbott-elementary-director-randall-einhorn-phillies-game-1235210238/",
-      "date": "2026-08-15T15:11:51.198064+00:00",
+      "date": "2026-08-15T16:13:19.750582+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/178757_1142.jpg?w=650",
       "important": false,
       "score": 0
@@ -285,7 +333,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/features/craft/jane-schoenbrun-teenage-sex-and-death-at-camp-miasma-1235210237/",
-      "date": "2026-08-15T15:11:51.197843+00:00",
+      "date": "2026-08-15T16:13:19.750374+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/MCDTESE_K3011.jpg?w=650",
       "important": false,
       "score": 0
@@ -309,32 +357,32 @@
         "fa": "The Hollywood Reporter"
       },
       "link": "https://www.hollywoodreporter.com/movies/movie-news/bfi-ben-roberts-clare-binns-edinburgh-film-obession-odyssey-1236674318/",
-      "date": "2026-08-15T15:11:51.196121+00:00",
+      "date": "2026-08-15T16:13:19.748950+00:00",
       "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/FotoJet-2026-08-15T114410.422.jpg?w=1440&#038;h=810&#038;crop=1",
       "important": false,
       "score": 0
     },
     {
-      "id": "b6c2106ca623",
+      "id": "4292b2116cf5",
       "title": {
-        "en": "‘Star Wars: Starfighter’ Footage: Ryan Gosling Races Through the Galaxy With Young Sidekick",
-        "fa": "فیلم \"جنگ ستارگان: جنگنده ستارگان\": رایان گاسلینگ در کهکشان با سایدکیک جوان مسابقه می دهد"
+        "en": "‘Mission’ Stars George MacKay and Rosy McEwen on Capitalism, Creative Freedom and the Eternal Allure of British Independent Film",
+        "fa": "«ماموریت» با بازی جورج مک کی و رزی مک ایون درباره سرمایه داری، آزادی خلاق و جذابیت ابدی فیلم مستقل بریتانیا"
       },
       "excerpt": {
-        "en": "Ryan Gosling already survived going to space in “Project Hail Mary,” but now he’s ready to blast off to a galaxy far, far away in “Star Wars: Starfighter.” The upcoming “Star Wars” movie previewed footage at D23 and is set to release in theaters on May 28, 2027. Disney and Lucasfilm have kept plot details […]",
-        "fa": "رایان گاسلینگ قبلاً از رفتن به فضا در «پروژه درود مری» جان سالم به در برده بود، اما اکنون او آماده است تا در «جنگ ستارگان: جنگنده ستارگان» به یک کهکشان دور و دراز منفجر شود. فیلم آینده \"جنگ ستارگان\" در D23 پیش‌نمایش فیلم را داشت و قرار است در تاریخ 28 می 2027 در سینماها اکران شود. دیزنی و لوکاس فیلم جزئیات داستان را حفظ کرده‌اند."
+        "en": "The English actors have big-budget studio projects on their slate — including 'Sense and Sensibility,' 'Scarpetta' and the 'Ocean's Eleven' prequel — so what tempted them onto Paul Wright's Edinburgh-premiering indie?",
+        "fa": "بازیگران انگلیسی پروژه‌های استودیویی پرهزینه‌ای را در فهرست خود دارند - از جمله «حس و حساسیت»، «Scarpetta» و پیش‌درآمد «Ocean's Eleven» - پس چه چیزی آن‌ها را وسوسه کرد که در اولین نمایش مستقل پل رایت در ادینبورگ شرکت کنند؟"
       },
       "content": {
-        "en": "Ryan Gosling already survived going to space in “Project Hail Mary,” but now he’s ready to blast off to a galaxy far, far away in “Star Wars: Starfighter.” The upcoming “Star Wars” movie previewed footage at D23 and is set to release in theaters on May 28, 2027. Disney and Lucasfilm have kept plot details […]",
-        "fa": "رایان گاسلینگ قبلاً از رفتن به فضا در «پروژه درود مری» جان سالم به در برده بود، اما اکنون او آماده است تا در «جنگ ستارگان: جنگنده ستارگان» به یک کهکشان دور و دراز منفجر شود. فیلم آینده \"جنگ ستارگان\" در D23 پیش‌نمایش فیلم را داشت و قرار است در تاریخ 28 می 2027 در سینماها اکران شود. دیزنی و لوکاس فیلم جزئیات داستان را حفظ کرده‌اند."
+        "en": "The English actors have big-budget studio projects on their slate — including 'Sense and Sensibility,' 'Scarpetta' and the 'Ocean's Eleven' prequel — so what tempted them onto Paul Wright's Edinburgh-premiering indie?",
+        "fa": "بازیگران انگلیسی پروژه‌های استودیویی پرهزینه‌ای را در فهرست خود دارند - از جمله «حس و حساسیت»، «Scarpetta» و پیش‌درآمد «Ocean's Eleven» - پس چه چیزی آن‌ها را وسوسه کرد که در اولین نمایش مستقل پل رایت در ادینبورگ شرکت کنند؟"
       },
       "source": {
-        "en": "Variety",
-        "fa": "Variety"
+        "en": "The Hollywood Reporter",
+        "fa": "The Hollywood Reporter"
       },
-      "link": "https://variety.com/2026/film/news/star-wars-starfighter-trailer-ryan-gosling-1236712809/",
-      "date": "2026-08-15T15:11:51.195116+00:00",
-      "image": "https://variety.com/wp-content/uploads/2026/08/GettyImages-2290539485.jpg",
+      "link": "https://www.hollywoodreporter.com/movies/movie-features/george-mackay-rosy-mcewen-mission-paul-wright-edinburgh-1236670925/",
+      "date": "2026-08-15T16:13:19.748030+00:00",
+      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/FotoJet-2026-08-11T163112.153.jpg?w=1440&#038;h=810&#038;crop=1",
       "important": false,
       "score": 0
     },
@@ -357,7 +405,7 @@
         "fa": "Variety"
       },
       "link": "https://variety.com/2026/film/global/ursa-menart-everything-thats-wrong-with-you-influencers-1236833609/",
-      "date": "2026-08-15T15:11:51.194258+00:00",
+      "date": "2026-08-15T16:13:19.747085+00:00",
       "image": "https://variety.com/wp-content/uploads/2026/08/VARIETY-SIZING-7.png",
       "important": false,
       "score": 0
@@ -381,7 +429,7 @@
         "fa": "Variety"
       },
       "link": "https://variety.com/2026/film/global/paulo-nascimento-a-chocolate-christmas-gramado-new-york-1236835366/",
-      "date": "2026-08-15T15:11:51.193816+00:00",
+      "date": "2026-08-15T16:13:19.746642+00:00",
       "image": "https://variety.com/wp-content/uploads/2026/08/Paulo-Nascimento-Courtesy-Accorde-Filmes.jpg",
       "important": false,
       "score": 0
@@ -405,7 +453,7 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/kieran-culkin-cast-clay-walt-disney-animated-movie-1237041021/",
-      "date": "2026-08-15T15:11:51.192475+00:00",
+      "date": "2026-08-15T16:13:19.745024+00:00",
       "image": "https://deadline.com/wp-content/uploads/2025/05/GettyImages-2176273538.jpg",
       "important": false,
       "score": 0
@@ -418,7 +466,7 @@
       },
       "excerpt": {
         "en": "Following the massive success of the sequel, Disney is moving forward with Zootopia 3. The news of the next film was revealed at Disney’s D23 event in Anaheim, with Ke Huy Quan joining Ginnifer Goodwin onstage to announce the new installment, which will focus on birds. Last year’s Zootopia 2 became the highest-grossing Hollywood animated […]",
-        "fa": "پس از موفقیت عظیم دنباله، دیزنی با Zootopia 3 رو به جلو است. اخبار فیلم بعدی در رویداد D23 دیزنی در آناهیم فاش شد و Ke Huy Quan به جینیفر گودوین روی صحنه می‌پیوندد تا قسمت جدید را معرفی کند که بر روی پرندگان تمرکز دارد. انیمیشن Zootopia 2 سال گذشته پردرآمدترین انیمیشن هالیوود شد"
+        "fa": "Following the massive success of the sequel, Disney is moving forward with Zootopia 3. The news of the next film was revealed at Disney’s D23 event in Anaheim, with Ke Huy Quan joining Ginnifer Goodwin onstage to announce the new installment, which will focus on birds. Last year’s Zootopia 2 became the highest-grossing Hollywood animated […]"
       },
       "content": {
         "en": "Following the massive success of the sequel, Disney is moving forward with Zootopia 3. The news of the next film was revealed at Disney’s D23 event in Anaheim, with Ke Huy Quan joining Ginnifer Goodwin onstage to announce the new installment, which will focus on birds. Last year’s Zootopia 2 became the highest-grossing Hollywood animated […]",
@@ -429,7 +477,7 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/zootopia-3-d23-1237041333/",
-      "date": "2026-08-15T15:11:51.192083+00:00",
+      "date": "2026-08-15T16:13:19.744644+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/01/ZOOTOPIA-1.11.jpg",
       "important": false,
       "score": 0
@@ -453,32 +501,8 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/bfi-ceo-ben-roberts-keynote-address-uk-film-conference-eiff-1237041496/",
-      "date": "2026-08-15T15:11:51.191034+00:00",
+      "date": "2026-08-15T16:13:19.743644+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/06/Ben-Roberts-BFI-CEO-e1781616847588.jpg",
-      "important": false,
-      "score": 0
-    },
-    {
-      "id": "81021efbaa7a",
-      "title": {
-        "en": "‘Spider-Man: Brand New Day’ Production Designer On Yelena’s Bathhouse, Peter Parker’s Sad Pad & The Challenge Of Building New York In The U.K.",
-        "fa": "طراح تولید «مرد عنکبوتی: روز کاملاً جدید» در حمام یلنا، پد غمگین پیتر پارکر و چالش ساختن نیویورک در بریتانیا."
-      },
-      "excerpt": {
-        "en": "For a movie about a superhero who can literally climb walls, Spider-Man: Brand New Day is seemingly interested in what happens when Peter Parker (Tom Holland) puts them up himself. Still reeling from the loss of the people closest to him, Peter has convinced himself that being alone is the price of being Spider-Man, and […]",
-        "fa": "برای فیلمی در مورد ابرقهرمانی که به معنای واقعی کلمه می تواند از دیوارها بالا برود، Spider-Man: Brand New Day ظاهراً علاقه مند است که وقتی پیتر پارکر خودش آنها را قرار می دهد چه اتفاقی می افتد. پیتر که هنوز از دست دادن نزدیک‌ترین افراد به خود متزلزل است، خود را متقاعد کرده است که تنها بودن بهای مرد عنکبوتی بودن است."
-      },
-      "content": {
-        "en": "For a movie about a superhero who can literally climb walls, Spider-Man: Brand New Day is seemingly interested in what happens when Peter Parker (Tom Holland) puts them up himself. Still reeling from the loss of the people closest to him, Peter has convinced himself that being alone is the price of being Spider-Man, and […]",
-        "fa": "برای فیلمی در مورد ابرقهرمانی که به معنای واقعی کلمه می تواند از دیوارها بالا برود، Spider-Man: Brand New Day ظاهراً علاقه مند است که وقتی پیتر پارکر خودش آنها را قرار می دهد چه اتفاقی می افتد. پیتر که هنوز از دست دادن نزدیک‌ترین افراد به خود متزلزل است، خود را متقاعد کرده است که تنها بودن بهای مرد عنکبوتی بودن است."
-      },
-      "source": {
-        "en": "Deadline",
-        "fa": "Deadline"
-      },
-      "link": "https://deadline.com/2026/08/spider-man-brand-new-day-production-designer-interview-1237040773/",
-      "date": "2026-08-15T15:11:51.189678+00:00",
-      "image": "https://deadline.com/wp-content/uploads/2026/08/IMG_2670.jpeg",
       "important": false,
       "score": 0
     }
