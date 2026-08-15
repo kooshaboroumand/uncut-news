@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-14T23:13:04.107172+00:00",
+  "updated_at": "2026-08-15T00:42:10.813445+00:00",
   "count": 24,
   "news": [
     {
@@ -21,7 +21,7 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/stuart-fails-to-save-the-universe-renewed-season-2-hbo-max-1237040738/",
-      "date": "2026-08-14T23:13:03.886545+00:00",
+      "date": "2026-08-15T00:42:10.595468+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/07/Stuart-Fails-to-Save-The-Universe.jpg",
       "important": true,
       "score": 9
@@ -45,10 +45,34 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/deli-boys-canceled-hulu-1237040657/",
-      "date": "2026-08-14T23:13:03.886457+00:00",
+      "date": "2026-08-15T00:42:10.595382+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/180564_0225_R1.jpg",
       "important": true,
       "score": 9
+    },
+    {
+      "id": "ed1354acae27",
+      "title": {
+        "en": "‘Beef’ Creator Lee Sung Jin on Abandoning His Tom Brady Heist Plot and the Finneas, Cailee Spaeny Emmy Snubs",
+        "fa": "لی سونگ جین خالق «بیف» در مورد رها کردن داستان دزدی تام برادی و فینیاس، کیلی اسپانی امی اسناب"
+      },
+      "excerpt": {
+        "en": "Lee Sung Jin learned about “Beef’s” latest Emmy haul all at once. The second season of Netflix’s genre-bending anthology earned 16 nominations, the most of any limited or anthology series this year. The major recognition also made Lee the first Asian television creator to receive multiple nominations in writing, directing and producing for the same […]",
+        "fa": "لی سونگ جین به یکباره از آخرین جایزه امی \"بیف\" مطلع شد. فصل دوم گلچین ژانر ژانر نتفلیکس 16 نامزدی کسب کرد که بیشترین نامزدی در بین هر سریال محدود یا گلچین امسال بود. این شهرت همچنین لی را به اولین خالق تلویزیون آسیایی تبدیل کرد که نامزدهای متعددی را در زمینه نویسندگی، کارگردانی و تهیه کنندگی دریافت کرد."
+      },
+      "content": {
+        "en": "Lee Sung Jin learned about “Beef’s” latest Emmy haul all at once. The second season of Netflix’s genre-bending anthology earned 16 nominations, the most of any limited or anthology series this year. The major recognition also made Lee the first Asian television creator to receive multiple nominations in writing, directing and producing for the same […]",
+        "fa": "لی سونگ جین به یکباره از آخرین جایزه امی \"بیف\" مطلع شد. فصل دوم گلچین ژانر ژانر نتفلیکس 16 نامزدی کسب کرد که بیشترین نامزدی در بین هر سریال محدود یا گلچین امسال بود. این شهرت همچنین لی را به اولین خالق تلویزیون آسیایی تبدیل کرد که نامزدهای متعددی را در زمینه نویسندگی، کارگردانی و تهیه کنندگی دریافت کرد."
+      },
+      "source": {
+        "en": "Variety",
+        "fa": "Variety"
+      },
+      "link": "https://variety.com/2026/tv/awards/lee-sung-jin-beef-tom-brady-emmy-snubs-1236834964/",
+      "date": "2026-08-15T00:42:10.596771+00:00",
+      "image": "https://variety.com/wp-content/uploads/2026/08/BEEF_201_Unit_04597R-1.jpg",
+      "important": true,
+      "score": 6
     },
     {
       "id": "3f2e32afb635",
@@ -69,7 +93,7 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/scrubs-keyla-monterroso-mejia-nurse-season-2-abc-reboot-1237040761/",
-      "date": "2026-08-14T23:13:03.886256+00:00",
+      "date": "2026-08-15T00:42:10.595172+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/keyla-monterroso-mejia-mimi-scrubs.jpg",
       "important": true,
       "score": 6
@@ -93,7 +117,7 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/netflix-ya-slate-end-of-summer-bash-crossover-prime-video-1237040780/",
-      "date": "2026-08-14T23:13:03.884748+00:00",
+      "date": "2026-08-15T00:42:10.594262+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/Netflix-End-of-Summer-Bash.jpg",
       "important": true,
       "score": 6
@@ -106,7 +130,7 @@
       },
       "excerpt": {
         "en": "Creator Lee Sung Jin discusses how he dealt with the high expectations for the second season of the anthology series, now nominated for 16 Emmys.",
-        "fa": "Creator Lee Sung Jin discusses how he dealt with the high expectations for the second season of the anthology series, now nominated for 16 Emmys."
+        "fa": "خالق لی سونگ جین درباره نحوه برخورد با انتظارات زیاد برای فصل دوم مجموعه گلچین، که اکنون نامزد 16 جایزه امی شده است، صحبت می کند."
       },
       "content": {
         "en": "Creator Lee Sung Jin discusses how he dealt with the high expectations for the second season of the anthology series, now nominated for 16 Emmys.",
@@ -117,7 +141,7 @@
         "fa": "The Hollywood Reporter"
       },
       "link": "https://www.hollywoodreporter.com/tv/tv-features/lee-sung-jin-beef-season-two-emmys-1236672641/",
-      "date": "2026-08-14T23:13:03.891985+00:00",
+      "date": "2026-08-15T00:42:10.600514+00:00",
       "image": "https://www.hollywoodreporter.com/wp-content/themes/vip/pmc-hollywoodreporter-2021/assets/app/icons/icon-512x512.png",
       "important": true,
       "score": 4
@@ -141,7 +165,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/criticism/shows/lanterns-review-hbo-green-lantern-series-kyle-chandler-1235209937/",
-      "date": "2026-08-14T23:13:03.894709+00:00",
+      "date": "2026-08-15T00:42:10.602760+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/06/Lanterns-release-date-HBO-series-Green-Lantern-Kyle-Chandler.jpg?w=650",
       "important": false,
       "score": 3
@@ -165,7 +189,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/news/breaking-news/film-independent-biggest-grant-history-juan-devis-1235210522/",
-      "date": "2026-08-14T23:13:03.893365+00:00",
+      "date": "2026-08-15T00:42:10.601421+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/Juan_Devis_2304sm-photo.jpeg?w=650",
       "important": false,
       "score": 3
@@ -174,7 +198,7 @@
       "id": "e4630aa8ba54",
       "title": {
         "en": "Europe’s Broadcasters Want to Get Bigger. The Hard Part Is How",
-        "fa": "پخش‌کنندگان اروپایی می‌خواهند بزرگ‌تر شوند. قسمت سخت چگونه است"
+        "fa": "Europe’s Broadcasters Want to Get Bigger. The Hard Part Is How"
       },
       "excerpt": {
         "en": "As Netflix, Amazon and YouTube reshape the global TV market, European networks and production companies are chasing very different kinds of scale.",
@@ -189,40 +213,64 @@
         "fa": "The Hollywood Reporter"
       },
       "link": "https://www.hollywoodreporter.com/business/business-news/europe-broadcasters-consolidating-fight-netflix-youtube-1236673562/",
-      "date": "2026-08-14T23:13:03.891349+00:00",
+      "date": "2026-08-15T00:42:10.599926+00:00",
       "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/SkyCEODanaStrong_ITV-CEO-Carolyn-McCall_RTLCEO_Clement-Schwebig_MFECEOPier-Silvio-BerlusconiPier-Silvio-Berlusconi.jpg?w=1440&#038;h=810&#038;crop=1",
       "important": false,
       "score": 3
     },
     {
-      "id": "85e6ff57bbe8",
+      "id": "b61ff2a28ace",
       "title": {
-        "en": "Wendi McLendon-Covey Rounds Out Cast Of 20th’s ‘Romy And Michele’ Sequel",
-        "fa": "وندی مک‌لندون کاوی بازیگران بیستمین دنباله «رومی و میشل» را به پایان رساند."
+        "en": "Ryan De Nino Dead: ‘Married at First Sight’ Alum Was 40",
+        "fa": "رایان دنینو دد: آلوم \"در نگاه اول ازدواج کرد\" 40 ساله بود"
       },
       "excerpt": {
-        "en": "EXCLUSIVE: 20th has rounded out the cast of its sequel to cult classic comedy Romy and Michele’s High School Reunion with the addition of St. Denis Medical‘s Wendi McLendon-Covey. Character details are being kept under wraps, as is the plot of the sequel, which began shooting in Los Angeles in June. Released in 1997 by Disney’s Buena Vista, the original […]",
-        "fa": "انحصاری: 20th با اضافه شدن وندی مک‌لندون-کاوی از St. Denis Medical گروه بازیگران دنباله‌ای بر کمدی کلاسیک کالت Romy and Michele's High School Reunion را تکمیل کرد. جزییات شخصیت‌ها همچنان مخفی نگه داشته می‌شود، همانطور که طرح دنباله آن که در ژوئن فیلمبرداری آن در لس آنجلس آغاز شد، مخفی نگه داشته می‌شود. در سال 1997 توسط بوئنا ویستای دیزنی، نسخه اصلی منتشر شد"
+        "en": "Ryan De Nino, who appeared on Season 2 of Married at First Sight, has died. He was 40. On Tuesday, Ryan’s sister Melissa remembered his “huge heart” as she announced that he had died with a heartfelt tribute. A cause of death was not immediately known. “Ryan was so damn funny and witty. He was […]",
+        "fa": "رایان دنینو که در فصل دوم سریال ازدواج با نگاه اول ظاهر شد، درگذشت. او 40 سال داشت. روز سه‌شنبه، ملیسا، خواهر رایان، «قلب بزرگ» او را به یاد آورد و اعلام کرد که او با ادای احترامی صمیمانه درگذشت. علت مرگ بلافاصله مشخص نشد. رایان خیلی بامزه و شوخ بود"
       },
       "content": {
-        "en": "EXCLUSIVE: 20th has rounded out the cast of its sequel to cult classic comedy Romy and Michele’s High School Reunion with the addition of St. Denis Medical‘s Wendi McLendon-Covey. Character details are being kept under wraps, as is the plot of the sequel, which began shooting in Los Angeles in June. Released in 1997 by Disney’s Buena Vista, the original […]",
-        "fa": "انحصاری: 20th با اضافه شدن وندی مک‌لندون-کاوی از St. Denis Medical گروه بازیگران دنباله‌ای بر کمدی کلاسیک کالت Romy and Michele's High School Reunion را تکمیل کرد. جزییات شخصیت‌ها همچنان مخفی نگه داشته می‌شود، همانطور که طرح دنباله آن که در ژوئن فیلمبرداری آن در لس آنجلس آغاز شد، مخفی نگه داشته می‌شود. در سال 1997 توسط بوئنا ویستای دیزنی، نسخه اصلی منتشر شد"
+        "en": "Ryan De Nino, who appeared on Season 2 of Married at First Sight, has died. He was 40. On Tuesday, Ryan’s sister Melissa remembered his “huge heart” as she announced that he had died with a heartfelt tribute. A cause of death was not immediately known. “Ryan was so damn funny and witty. He was […]",
+        "fa": "رایان دنینو که در فصل دوم سریال ازدواج با نگاه اول ظاهر شد، درگذشت. او 40 سال داشت. روز سه‌شنبه، ملیسا، خواهر رایان، «قلب بزرگ» او را به یاد آورد و اعلام کرد که او با ادای احترامی صمیمانه درگذشت. علت مرگ بلافاصله مشخص نشد. رایان خیلی بامزه و شوخ بود"
       },
       "source": {
         "en": "Deadline",
         "fa": "Deadline"
       },
-      "link": "https://deadline.com/2026/08/romy-and-michele-2-cast-wendi-mclendon-covey-1237040451/",
-      "date": "2026-08-14T23:13:03.887464+00:00",
-      "image": "https://deadline.com/wp-content/uploads/2026/08/JMW-WendiMcLendonCovey-08-09-2026_1017_Crop-Medium.jpg",
+      "link": "https://deadline.com/2026/08/ryan-de-nino-dead-married-at-first-sight-1237041002/",
+      "date": "2026-08-15T00:42:10.593209+00:00",
+      "image": "https://deadline.com/wp-content/uploads/2026/08/Ryan-De-Nino.png",
       "important": false,
       "score": 3
+    },
+    {
+      "id": "c16e447397d8",
+      "title": {
+        "en": "Music Industry Moves: Megan Thee Stallion Announces Partnership With Interscope Records",
+        "fa": "Music Industry Moves: Megan Thee Stallion Announces Partnership With Interscope Records"
+      },
+      "excerpt": {
+        "en": "Megan Thee Stallion has announced a new partnership with Interscope Records, which will handle the global distribution of her music, among other strategic support. As part of the newly inked deal, the rapper will continue on as an independent artist in complete control and ownership of her masters and publishing. Interscope will provide global distribution […]",
+        "fa": "مگان تی استالیون همکاری جدیدی با Interscope Records اعلام کرده است که توزیع جهانی موسیقی او را در کنار سایر پشتیبانی های استراتژیک انجام می دهد. به عنوان بخشی از قراردادی که به تازگی امضا شده است، خواننده رپ به عنوان یک هنرمند مستقل در کنترل و مالکیت کامل استادان و انتشارات خود ادامه خواهد داد. Interscope توزیع جهانی را ارائه خواهد کرد"
+      },
+      "content": {
+        "en": "Megan Thee Stallion has announced a new partnership with Interscope Records, which will handle the global distribution of her music, among other strategic support. As part of the newly inked deal, the rapper will continue on as an independent artist in complete control and ownership of her masters and publishing. Interscope will provide global distribution […]",
+        "fa": "مگان تی استالیون همکاری جدیدی با Interscope Records اعلام کرده است که توزیع جهانی موسیقی او را در کنار سایر پشتیبانی های استراتژیک انجام می دهد. به عنوان بخشی از قراردادی که به تازگی امضا شده است، خواننده رپ به عنوان یک هنرمند مستقل در کنترل و مالکیت کامل استادان و انتشارات خود ادامه خواهد داد. Interscope توزیع جهانی را ارائه خواهد کرد"
+      },
+      "source": {
+        "en": "Variety",
+        "fa": "Variety"
+      },
+      "link": "https://variety.com/2026/music/news/mnek-signs-with-1916-enterprises-1236833781/",
+      "date": "2026-08-15T00:42:10.597408+00:00",
+      "image": "https://variety.com/wp-content/uploads/2026/08/FOR_PRESS_ANNOUNCE_THE_GLASS_V1_1885-copy-e1786748826155.jpg",
+      "important": false,
+      "score": 2
     },
     {
       "id": "3553f7437c16",
       "title": {
         "en": "TIFF CEO Cameron Bailey Teases Toronto 2026 and How the New Market Will Stand Out from the Crowd",
-        "fa": "TIFF CEO Cameron Bailey Teases Toronto 2026 and How the New Market Will Stand Out from the Crowd"
+        "fa": "مدیر عامل TIFF کامرون بیلی تورنتو 2026 و اینکه چگونه بازار جدید از بین مردم متمایز خواهد شد را اذیت می کند"
       },
       "excerpt": {
         "en": "The festival head previews upcoming films on the latest episode of \"Screen Talk,\" and we discuss Warnermount, the summer box office, and thoughts on \"Tony.\"",
@@ -237,32 +285,32 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/features/podcast/screen-talk-podcast-tiff-ceo-cameron-bailey-toronto-2026-1235210516/",
-      "date": "2026-08-14T23:13:03.893495+00:00",
+      "date": "2026-08-15T00:42:10.601551+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/P115U4AG.jpg?w=650",
       "important": false,
       "score": 1
     },
     {
-      "id": "20ba75e110c8",
+      "id": "7bc0eaa9d4c9",
       "title": {
-        "en": "Paramount-Warner Bros. Merger Gets Mexico’s Approval, Leaving States’ Lawsuit as the Only Barrier Left",
-        "fa": "ادغام برادران پارامونت-وارنر تأیید مکزیک را دریافت کرد و شکایت ایالات را به عنوان تنها مانع باقی ماند."
+        "en": "Paramount Says It Secured All Global Clearances to Close Warner Bros. Deal … Except for That Pesky Lawsuit",
+        "fa": "پارامونت می‌گوید تمام تسویه‌های جهانی را برای بستن قرارداد برادران وارنر تضمین کرده است... به جز آن دعوی مزاحم"
       },
       "excerpt": {
-        "en": "Paramount announced Friday that it has won approval from Mexico’s competition authority for its merger with Warner Bros., leaving only 12 state attorneys general standing in the way of closing the deal. In a statement, Paramount said it has now won approval from regulators representing 68 countries, including the European Union, China, Canada, Brazil and […]",
-        "fa": "پارامونت روز جمعه اعلام کرد که تاییدیه مقام رقابت مکزیک را برای ادغام با برادران وارنر کسب کرده است و تنها 12 دادستان کل ایالتی مانع از بستن قرارداد شده اند. در بیانیه ای، پارامونت اعلام کرد که اکنون تاییدیه تنظیم کننده های 68 کشور از جمله اتحادیه اروپا، چین، کانادا، برزیل و"
+        "en": "David Ellison says that they are offering \"commitments and concessions\" to try and get the deal over the line.",
+        "fa": "David Ellison says that they are offering \"commitments and concessions\" to try and get the deal over the line."
       },
       "content": {
-        "en": "Paramount announced Friday that it has won approval from Mexico’s competition authority for its merger with Warner Bros., leaving only 12 state attorneys general standing in the way of closing the deal. In a statement, Paramount said it has now won approval from regulators representing 68 countries, including the European Union, China, Canada, Brazil and […]",
-        "fa": "پارامونت روز جمعه اعلام کرد که تاییدیه مقام رقابت مکزیک را برای ادغام با برادران وارنر کسب کرده است و تنها 12 دادستان کل ایالتی مانع از بستن قرارداد شده اند. در بیانیه ای، پارامونت اعلام کرد که اکنون تاییدیه تنظیم کننده های 68 کشور از جمله اتحادیه اروپا، چین، کانادا، برزیل و"
+        "en": "David Ellison says that they are offering \"commitments and concessions\" to try and get the deal over the line.",
+        "fa": "دیوید الیسون می گوید که آنها \"تعهدات و امتیازاتی\" را برای تلاش برای به نتیجه رسیدن معامله ارائه می دهند."
       },
       "source": {
-        "en": "Variety",
-        "fa": "Variety"
+        "en": "The Hollywood Reporter",
+        "fa": "The Hollywood Reporter"
       },
-      "link": "https://variety.com/2026/film/news/paramount-warner-bros-mexicos-settle-ellison-1236834861/",
-      "date": "2026-08-14T23:13:03.890776+00:00",
-      "image": "https://variety.com/wp-content/uploads/2026/02/David-Ellison-3.jpg",
+      "link": "https://www.hollywoodreporter.com/business/business-news/paramount-secures-global-clearances-wbd-deal-except-lawsuit-1236673941/",
+      "date": "2026-08-15T00:42:10.600218+00:00",
+      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/05/GettyImages-2271646963.jpg?w=1440&#038;h=810&#038;crop=1",
       "important": false,
       "score": 1
     },
@@ -274,7 +322,7 @@
       },
       "excerpt": {
         "en": "Anne Hathaway told Complex during her press tour for “The End of Oak Street” that movies should be rated R if they feature dogs being killed. Moviegoers have wondered if “Oak Street” would feature dog violence ever since the film’s trailer revealed Starbuck, the trusted canine of the film’s central family (Hathaway plays matriarch Denise). […]",
-        "fa": "Anne Hathaway told Complex during her press tour for “The End of Oak Street” that movies should be rated R if they feature dogs being killed. Moviegoers have wondered if “Oak Street” would feature dog violence ever since the film’s trailer revealed Starbuck, the trusted canine of the film’s central family (Hathaway plays matriarch Denise). […]"
+        "fa": "آن هاتاوی در طول تور مطبوعاتی خود برای «انتهای اوک استریت» به Complex گفت اگر فیلم‌هایی که سگ‌هایی را می‌کشند باید رتبه R را دریافت کنند. از زمانی که تریلر فیلم استارباک، سگ مورد اعتماد خانواده مرکزی فیلم را فاش کرد، تماشاگران سینما از خود می‌پرسیدند که آیا «خیابان بلوط» خشونت سگ‌ها را نمایش می‌دهد."
       },
       "content": {
         "en": "Anne Hathaway told Complex during her press tour for “The End of Oak Street” that movies should be rated R if they feature dogs being killed. Moviegoers have wondered if “Oak Street” would feature dog violence ever since the film’s trailer revealed Starbuck, the trusted canine of the film’s central family (Hathaway plays matriarch Denise). […]",
@@ -285,32 +333,8 @@
         "fa": "Variety"
       },
       "link": "https://variety.com/2026/film/news/anne-hathaway-movies-dog-deaths-rated-r-1236834811/",
-      "date": "2026-08-14T23:13:03.888925+00:00",
+      "date": "2026-08-15T00:42:10.598160+00:00",
       "image": "https://variety.com/wp-content/uploads/2026/08/P118CCWG.jpg",
-      "important": false,
-      "score": 1
-    },
-    {
-      "id": "6c10cd60d9be",
-      "title": {
-        "en": "Music Industry Moves: Megan Thee Stallion Inks Partnership With Interscope Records",
-        "fa": "صنعت موسیقی حرکت می‌کند: همکاری Megan Thee Stallion Inks با Interscope Records"
-      },
-      "excerpt": {
-        "en": "Megan Thee Stallion has announced a new partnership with Interscope Records, which will handle the global distribution of her music, among other strategic support. As part of the newly inked deal, the rapper will continue on as an independent artist in complete control and ownership of her masters and publishing. Interscope will provide global distribution […]",
-        "fa": "Megan Thee Stallion has announced a new partnership with Interscope Records, which will handle the global distribution of her music, among other strategic support. As part of the newly inked deal, the rapper will continue on as an independent artist in complete control and ownership of her masters and publishing. Interscope will provide global distribution […]"
-      },
-      "content": {
-        "en": "Megan Thee Stallion has announced a new partnership with Interscope Records, which will handle the global distribution of her music, among other strategic support. As part of the newly inked deal, the rapper will continue on as an independent artist in complete control and ownership of her masters and publishing. Interscope will provide global distribution […]",
-        "fa": "مگان تی استالیون همکاری جدیدی با Interscope Records اعلام کرده است که توزیع جهانی موسیقی او را در کنار سایر پشتیبانی های استراتژیک انجام می دهد. به عنوان بخشی از قراردادی که به تازگی امضا شده است، خواننده رپ به عنوان یک هنرمند مستقل در کنترل و مالکیت کامل استادان و انتشارات خود ادامه خواهد داد. Interscope توزیع جهانی را ارائه خواهد کرد"
-      },
-      "source": {
-        "en": "Variety",
-        "fa": "Variety"
-      },
-      "link": "https://variety.com/2026/music/news/mnek-signs-with-1916-enterprises-1236833781/",
-      "date": "2026-08-14T23:13:03.888145+00:00",
-      "image": "https://variety.com/wp-content/uploads/2026/08/FOR_PRESS_ANNOUNCE_THE_GLASS_V1_1885-copy-e1786748826155.jpg",
       "important": false,
       "score": 1
     },
@@ -318,7 +342,7 @@
       "id": "4d70c140fffd",
       "title": {
         "en": "‘Spider-Man: Beyond The Spider-Verse’ Trailer Leaks Online, Co-Writer Chris Miller Says He’s “Not A Fan Of Leaks Of Unfinished Footage”",
-        "fa": "تریلر «Spider-Man: Beyond The Spider-Verse» به صورت آنلاین به بیرون درز می‌کند، کریس میلر یکی از نویسندگان می‌گوید که «از طرفداران لو رفتن فیلم‌های ناتمام» نیست."
+        "fa": "‘Spider-Man: Beyond The Spider-Verse’ Trailer Leaks Online, Co-Writer Chris Miller Says He’s “Not A Fan Of Leaks Of Unfinished Footage”"
       },
       "excerpt": {
         "en": "Leaked footage of Spider-Man: Beyond the Spider-Verse has made its way online and co-writer Chris Miller is putting them on blast. A trailer for the third installment of the animated movie starring Miles Morales, which is set to hit theaters on June 18, 2027, was leaked on social media and Miller has already made his […]",
@@ -333,7 +357,7 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/spider-man-beyond-the-spider-verse-trailer-leaks-online-1237040700/",
-      "date": "2026-08-14T23:13:03.887318+00:00",
+      "date": "2026-08-15T00:42:10.596204+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/spider-man-into-the-spider-verse.jpg",
       "important": false,
       "score": 1
@@ -346,7 +370,7 @@
       },
       "excerpt": {
         "en": "As De Noche is revived following the casting of a new leading man, Christine Vachon is happy with the new version of the film. The producer of Todd Haynes’ upcoming queer romance recently praised Pedro Pascal as “born to play” the lead, a year after the Golden Globe nominee stepped in for original star Joaquin […]",
-        "fa": "از آنجایی که De Noche پس از انتخاب بازیگر نقش اول جدید دوباره احیا می شود، کریستین واچون از نسخه جدید فیلم خوشحال است. تهیه‌کننده رمان عجیب و غریب آتی تاد هاینز اخیراً پدرو پاسکال را به‌عنوان «متولد برای ایفای نقش» تمجید کرده است، یک سال پس از آن که نامزد گلدن گلوب برای ستاره اصلی خواکین انتخاب شد."
+        "fa": "As De Noche is revived following the casting of a new leading man, Christine Vachon is happy with the new version of the film. The producer of Todd Haynes’ upcoming queer romance recently praised Pedro Pascal as “born to play” the lead, a year after the Golden Globe nominee stepped in for original star Joaquin […]"
       },
       "content": {
         "en": "As De Noche is revived following the casting of a new leading man, Christine Vachon is happy with the new version of the film. The producer of Todd Haynes’ upcoming queer romance recently praised Pedro Pascal as “born to play” the lead, a year after the Golden Globe nominee stepped in for original star Joaquin […]",
@@ -357,7 +381,7 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/de-noche-producer-praises-pedro-pascal-danny-ramirez-1237040958/",
-      "date": "2026-08-14T23:13:03.884252+00:00",
+      "date": "2026-08-15T00:42:10.594054+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/Danny-Ramirez-Pedro-Pascal-2-shot.jpg",
       "important": false,
       "score": 1
@@ -370,7 +394,7 @@
       },
       "excerpt": {
         "en": "Robb Moss' third entry in his decades-spanning documentary series about his college friends illustrates how age can mellow us without altering what counts.",
-        "fa": "سومین ورودی راب ماس در مجموعه مستند چند دهه‌ای درباره دوستان دانشگاهی‌اش نشان می‌دهد که چگونه سن می‌تواند ما را بدون تغییر آنچه مهم است، آرام کند."
+        "fa": "Robb Moss' third entry in his decades-spanning documentary series about his college friends illustrates how age can mellow us without altering what counts."
       },
       "content": {
         "en": "Robb Moss' third entry in his decades-spanning documentary series about his college friends illustrates how age can mellow us without altering what counts.",
@@ -381,7 +405,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/criticism/movies/the-bend-in-the-river-review-robb-moss-1235210446/",
-      "date": "2026-08-14T23:13:03.894525+00:00",
+      "date": "2026-08-15T00:42:10.602576+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/Screen-Shot-2026-08-13-at-6.59.35-PM.png?w=650",
       "important": false,
       "score": 0
@@ -405,7 +429,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/criticism/movies/american-doctor-documentary-review-gaza-1235210500/",
-      "date": "2026-08-14T23:13:03.894058+00:00",
+      "date": "2026-08-15T00:42:10.602102+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/ivfj95enlAmerican_Doctor-Still_1.webp?w=650",
       "important": false,
       "score": 0
@@ -414,7 +438,7 @@
       "id": "6151859a8ece",
       "title": {
         "en": "Are the DGA and IATSE’s Conditions for a Paramount Settlement Realistic? We Weigh All 9",
-        "fa": "آیا شرایط DGA و IATSE برای تسویه حساب پارامونت واقعی است؟ ما همه 9 را وزن می کنیم"
+        "fa": "Are the DGA and IATSE’s Conditions for a Paramount Settlement Realistic? We Weigh All 9"
       },
       "excerpt": {
         "en": "The guilds recently sent a letter to David Ellison and California AG Rob Bonta that included terms about theatrical, filming in the U.S., and remaining in Los Angeles.",
@@ -429,7 +453,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/news/business/dga-iatse-conditions-paramount-settlement-realistic-1235210398/",
-      "date": "2026-08-14T23:13:03.893833+00:00",
+      "date": "2026-08-15T00:42:10.601888+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/P10XLNE.jpg?w=650",
       "important": false,
       "score": 0
@@ -453,7 +477,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/features/interviews/abbott-elementary-director-randall-einhorn-phillies-game-1235210238/",
-      "date": "2026-08-14T23:13:03.893196+00:00",
+      "date": "2026-08-15T00:42:10.601238+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/178757_1142.jpg?w=650",
       "important": false,
       "score": 0
@@ -477,80 +501,8 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/features/craft/jane-schoenbrun-teenage-sex-and-death-at-camp-miasma-1235210237/",
-      "date": "2026-08-14T23:13:03.892992+00:00",
+      "date": "2026-08-15T00:42:10.601032+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/MCDTESE_K3011.jpg?w=650",
-      "important": false,
-      "score": 0
-    },
-    {
-      "id": "c78ea8991e30",
-      "title": {
-        "en": "‘The Shards’ Star Igby Rigney on His Bret Easton Ellis Take, the Cast Going “on a Real Bender” to Shoot That Wild Party and Their Active Group Chat",
-        "fa": "ایگبی ریگنی، ستاره «شاردز» در نقش برت ایستون الیس، بازیگرانی که «بر روی یک خم کن واقعی» می روند تا در آن مهمانی وحشی و چت گروهی فعالشان فیلمبرداری کنند."
-      },
-      "excerpt": {
-        "en": "The actor who plays the high schooler at the center of Ryan Murphy's FX adaptation of Ellis' classic book speaks with The Hollywood Reporter about the show everyone is talking about.",
-        "fa": "بازیگر نقش دبیرستانی در مرکز اقتباس FX رایان مورفی از کتاب کلاسیک الیس با هالیوود ریپورتر درباره نمایشی که همه درباره آن صحبت می کنند صحبت می کند."
-      },
-      "content": {
-        "en": "The actor who plays the high schooler at the center of Ryan Murphy's FX adaptation of Ellis' classic book speaks with The Hollywood Reporter about the show everyone is talking about.",
-        "fa": "بازیگر نقش دبیرستانی در مرکز اقتباس FX رایان مورفی از کتاب کلاسیک الیس با هالیوود ریپورتر درباره نمایشی که همه درباره آن صحبت می کنند صحبت می کند."
-      },
-      "source": {
-        "en": "The Hollywood Reporter",
-        "fa": "The Hollywood Reporter"
-      },
-      "link": "https://www.hollywoodreporter.com/tv/tv-features/the-shards-igby-rigney-bret-easton-ellis-cast-secrets-1236673622/",
-      "date": "2026-08-14T23:13:03.892458+00:00",
-      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/SHAR_A104_Sub.23-copy.jpg?w=1440&#038;h=810&#038;crop=1",
-      "important": false,
-      "score": 0
-    },
-    {
-      "id": "960d17ccc115",
-      "title": {
-        "en": "Ian Crafford, Film Editor on ‘Hope and Glory’ and ‘Field of Dreams,’ Dies at 82",
-        "fa": "ایان کرافورد، تدوینگر فیلم های «امید و شکوه» و «میدان رویاها» در ۸۲ سالگی درگذشت."
-      },
-      "excerpt": {
-        "en": "The Englishman worked on Cheech & Chong and Monty Python movies and with directors including Carol Reed, John Boorman and Irvin Kershner.",
-        "fa": "این مرد انگلیسی روی فیلم های Cheech & Chong و Monty Python و با کارگردانانی از جمله Carol Reed، John Boorman و Irvin Kershner کار کرد."
-      },
-      "content": {
-        "en": "The Englishman worked on Cheech & Chong and Monty Python movies and with directors including Carol Reed, John Boorman and Irvin Kershner.",
-        "fa": "این مرد انگلیسی روی فیلم های Cheech & Chong و Monty Python و با کارگردانانی از جمله Carol Reed، John Boorman و Irvin Kershner کار کرد."
-      },
-      "source": {
-        "en": "The Hollywood Reporter",
-        "fa": "The Hollywood Reporter"
-      },
-      "link": "https://www.hollywoodreporter.com/movies/movie-news/ian-crafford-field-of-dreams-hope-and-glory-monty-python-1236673908/",
-      "date": "2026-08-14T23:13:03.892330+00:00",
-      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/Ian-Crafford-Obit-Main-2026.jpg?w=1296&#038;h=730&#038;crop=1",
-      "important": false,
-      "score": 0
-    },
-    {
-      "id": "7ec9feba2278",
-      "title": {
-        "en": "Kathie Hoops, Longtime Financial Executive at Paramount, Dies at 66",
-        "fa": "کتی هوپس، مدیر مالی قدیمی پارامونت، در ۶۶ سالگی درگذشت."
-      },
-      "excerpt": {
-        "en": "She started out at Gulf + Western in New York in 1984 and served as vice president of residuals for 30 years.",
-        "fa": "او کار خود را در Gulf + Western در نیویورک در سال 1984 آغاز کرد و به مدت 30 سال به عنوان معاون رئيس جمهور باقی مانده بود."
-      },
-      "content": {
-        "en": "She started out at Gulf + Western in New York in 1984 and served as vice president of residuals for 30 years.",
-        "fa": "او کار خود را در Gulf + Western در نیویورک در سال 1984 آغاز کرد و به مدت 30 سال به عنوان معاون رئيس جمهور باقی مانده بود."
-      },
-      "source": {
-        "en": "The Hollywood Reporter",
-        "fa": "The Hollywood Reporter"
-      },
-      "link": "https://www.hollywoodreporter.com/business/business-news/kathie-hoops-dead-paramount-executive-residuals-1236669143/",
-      "date": "2026-08-14T23:13:03.892140+00:00",
-      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/Kathie-Hoops-Obit-Main-2026.jpg?w=1296&#038;h=730&#038;crop=1",
       "important": false,
       "score": 0
     },
@@ -573,8 +525,56 @@
         "fa": "The Hollywood Reporter"
       },
       "link": "https://www.hollywoodreporter.com/tv/tv-features/amelie-hoeferle-sterling-point-love-for-acting-sisterhood-1236673127/",
-      "date": "2026-08-14T23:13:03.890947+00:00",
+      "date": "2026-08-15T00:42:10.599520+00:00",
       "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/Amelie_Hoeferle.png?w=1440&#038;h=810&#038;crop=1",
+      "important": false,
+      "score": 0
+    },
+    {
+      "id": "0a11e2d9526b",
+      "title": {
+        "en": "California Pledged $750 Million a Year to Hollywood. But a New Law Has a Big Catch",
+        "fa": "کالیفرنیا 750 میلیون دلار در سال به هالیوود اختصاص داد. اما قانون جدید گیرایی بزرگی دارد"
+      },
+      "excerpt": {
+        "en": "A new bill, signed into law on June 29, could persuade film and TV projects to take their business elsewhere. Legislators with ties to entertainment are scrambling for a solution.",
+        "fa": "لایحه جدیدی که در 29 ژوئن به تصویب رسید، می‌تواند پروژه‌های سینمایی و تلویزیونی را متقاعد کند که تجارت خود را به جای دیگری ببرند. قانونگذارانی که با سرگرمی ارتباط دارند در حال تقلا برای راه حل هستند."
+      },
+      "content": {
+        "en": "A new bill, signed into law on June 29, could persuade film and TV projects to take their business elsewhere. Legislators with ties to entertainment are scrambling for a solution.",
+        "fa": "لایحه جدیدی که در 29 ژوئن به تصویب رسید، می‌تواند پروژه‌های سینمایی و تلویزیونی را متقاعد کند که تجارت خود را به جای دیگری ببرند. قانونگذارانی که با سرگرمی ارتباط دارند در حال تقلا برای راه حل هستند."
+      },
+      "source": {
+        "en": "The Hollywood Reporter",
+        "fa": "The Hollywood Reporter"
+      },
+      "link": "https://www.hollywoodreporter.com/business/business-news/hollywood-californias-business-tax-credit-law-1236673980/",
+      "date": "2026-08-15T00:42:10.599371+00:00",
+      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/GettyImages-2181413178.jpg?w=1440&#038;h=810&#038;crop=1",
+      "important": false,
+      "score": 0
+    },
+    {
+      "id": "5a7831b311f7",
+      "title": {
+        "en": "Matthew McConaughey Helped Catch a Murderer",
+        "fa": "متیو مک کانهی به دستگیری یک قاتل کمک کرد"
+      },
+      "excerpt": {
+        "en": "Matthew McConaughey is officially back. On Friday afternoon, the revered actor descended upon Filmland, an annual film festival in Little Rock, Arkansas, to receive the Variety Legend & Groundbreaker Award as well as present a screening of his latest film, “The Rivals of Amziah King,” wherein he stars as a honey-maker who finds himself roped […]",
+        "fa": "متیو مک کانهی رسما بازگشته است. بعدازظهر جمعه، این بازیگر محترم به Filmland، جشنواره فیلم سالانه در لیتل راک، آرکانزاس رفت تا جایزه Variety Legend & Groundbreaker را دریافت کند و همچنین نمایشی از آخرین فیلم خود، \"رقبای امزیا کینگ\" را ارائه دهد، جایی که او در نقش یک عسل‌ساز بازی می‌کند که خود را طناب زده می‌بیند."
+      },
+      "content": {
+        "en": "Matthew McConaughey is officially back. On Friday afternoon, the revered actor descended upon Filmland, an annual film festival in Little Rock, Arkansas, to receive the Variety Legend & Groundbreaker Award as well as present a screening of his latest film, “The Rivals of Amziah King,” wherein he stars as a honey-maker who finds himself roped […]",
+        "fa": "متیو مک کانهی رسما بازگشته است. بعدازظهر جمعه، این بازیگر محترم به Filmland، جشنواره فیلم سالانه در لیتل راک، آرکانزاس رفت تا جایزه Variety Legend & Groundbreaker را دریافت کند و همچنین نمایشی از آخرین فیلم خود، \"رقبای امزیا کینگ\" را ارائه دهد، جایی که او در نقش یک عسل‌ساز بازی می‌کند که خود را طناب زده می‌بیند."
+      },
+      "source": {
+        "en": "Variety",
+        "fa": "Variety"
+      },
+      "link": "https://variety.com/2026/film/news/matthew-mcconaughey-catch-murderer-unsolved-mysteries-christopher-nolan-interstellar-1236834945/",
+      "date": "2026-08-15T00:42:10.597678+00:00",
+      "image": "https://variety.com/wp-content/uploads/2026/08/GettyImages-2289953896.jpg",
       "important": false,
       "score": 0
     }
