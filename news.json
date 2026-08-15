@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-15T22:11:41.509818+00:00",
+  "updated_at": "2026-08-15T23:11:48.194370+00:00",
   "count": 24,
   "news": [
     {
@@ -21,7 +21,7 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/all-things-spidey-d23-friendly-neighborhood-amazing-friends-1237040751/",
-      "date": "2026-08-15T22:11:41.343963+00:00",
+      "date": "2026-08-15T23:11:47.999509+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/Spidey65.jpeg",
       "important": true,
       "score": 9
@@ -45,7 +45,7 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/scott-foley-returning-scrubs-sean-kelly-season-2-revival-1237041064/",
-      "date": "2026-08-15T22:11:41.343327+00:00",
+      "date": "2026-08-15T23:11:47.999042+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/Scott-Foley-Scrubs.jpg",
       "important": true,
       "score": 6
@@ -69,7 +69,7 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/survivor-cast-creatives-emmy-interview-season-50-future-1237040981/",
-      "date": "2026-08-15T22:11:41.344346+00:00",
+      "date": "2026-08-15T23:11:48.000022+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/Survivor.jpg",
       "important": true,
       "score": 4
@@ -93,7 +93,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/news/breaking-news/film-independent-biggest-grant-history-juan-devis-1235210522/",
-      "date": "2026-08-15T22:11:41.351954+00:00",
+      "date": "2026-08-15T23:11:48.009840+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/Juan_Devis_2304sm-photo.jpeg?w=650",
       "important": false,
       "score": 3
@@ -117,8 +117,32 @@
         "fa": "The Wrap"
       },
       "link": "https://www.thewrap.com/creative-content/movies/7-best-rom-coms-netflix-august-2026/",
-      "date": "2026-08-15T22:11:41.349946+00:00",
+      "date": "2026-08-15T23:11:48.007382+00:00",
       "image": "https://www.thewrap.com/wp-content/uploads/2022/04/Keanu-Reeves-in-Always-Be-My-Maybe.jpg",
+      "important": false,
+      "score": 3
+    },
+    {
+      "id": "651025ce2ba8",
+      "title": {
+        "en": "‘God of War’ Actor Slams Amazon Series, HBO’s ‘Last of Us’ for Excluding Original Video Game Writers: ‘Drives Me Bonkers’",
+        "fa": "بازیگر «God of War» سری‌های آمازون و «آخرین ما» HBO را به دلیل حذف نویسندگان اصلی بازی‌های ویدیویی به شدت مورد انتقاد قرار داد: «Drives Me Bonkers»"
+      },
+      "excerpt": {
+        "en": "Kratos actor Christopher Judge says it's the same problem he has with most video game adaptations The post ‘God of War’ Actor Slams Amazon Series, HBO’s ‘Last of Us’ for Excluding Original Video Game Writers: ‘Drives Me Bonkers’ appeared first on TheWrap .",
+        "fa": "کریستوفر جاج بازیگر کریتوس می گوید این همان مشکلی است که او با اکثر اقتباس های بازی های ویدیویی دارد"
+      },
+      "content": {
+        "en": "Kratos actor Christopher Judge says it's the same problem he has with most video game adaptations The post ‘God of War’ Actor Slams Amazon Series, HBO’s ‘Last of Us’ for Excluding Original Video Game Writers: ‘Drives Me Bonkers’ appeared first on TheWrap .",
+        "fa": "کریستوفر جاج بازیگر کریتوس می گوید این همان مشکلی است که او با اکثر اقتباس های بازی های ویدیویی دارد"
+      },
+      "source": {
+        "en": "The Wrap",
+        "fa": "The Wrap"
+      },
+      "link": "https://www.thewrap.com/creative-content/tv-shows/god-of-war-actor-slams-amazon-series-game-writers/",
+      "date": "2026-08-15T23:11:48.006814+00:00",
+      "image": "https://www.thewrap.com/wp-content/uploads/2026/08/GodOfWar2018.jpg",
       "important": false,
       "score": 3
     },
@@ -141,7 +165,7 @@
         "fa": "The Hollywood Reporter"
       },
       "link": "https://www.hollywoodreporter.com/tv/tv-features/paradise-producer-sinatra-sacrifice-season-two-finale-1236670575/",
-      "date": "2026-08-15T22:11:41.348880+00:00",
+      "date": "2026-08-15T23:11:48.005998+00:00",
       "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/14AFEA-Drama-Series-Paradise-Main-2026.jpg?w=1296&#038;h=730&#038;crop=1",
       "important": false,
       "score": 3
@@ -165,32 +189,32 @@
         "fa": "Variety"
       },
       "link": "https://variety.com/2026/film/festivals/how-would-you-get-this-movie-made-vachon-film4-bbc-1236835455/",
-      "date": "2026-08-15T22:11:41.347125+00:00",
+      "date": "2026-08-15T23:11:48.003297+00:00",
       "image": "https://variety.com/wp-content/uploads/2024/10/Wicker-Man.jpg",
       "important": false,
       "score": 3
     },
     {
-      "id": "58e6cbe4eeba",
+      "id": "a6895e1780e3",
       "title": {
-        "en": "Bill Maher Has A Word For Luigi Mangione “Groupies”",
-        "fa": "بیل ماهر برای \"گروه های\" لوئیجی مانژیونه سخنی دارد"
+        "en": "Mason Thames Reveals He & McKenna Grace Filmed ‘Nimrods’ Before ‘Regretting You’, Talks Possibility Of Doing “Another Job Together”",
+        "fa": "میسون تیمز فاش می‌کند که او و مک‌کنا گریس «نیمرود» را قبل از «پشیمان شدن» فیلم‌برداری کرده‌اند، درباره امکان انجام «یک کار دیگر با هم» صحبت می‌کنند."
       },
       "excerpt": {
-        "en": "Friday’s big story on the cable news networks was the guilty plea of Luigi Mangione, the man who shot and killed UnitedHealthcare CEO Brian Thompson in 2024. And last night Bill Maher had some thoughts. “Luigi Mangione,” Maher said in the opening monologue of HBO’s Real Time with Bill Maher, “the guy who was getting […]",
-        "fa": "داستان بزرگ روز جمعه در شبکه های خبری کابلی اعتراف گناه لوئیجی مانژیونه بود، مردی که در سال 2024، برایان تامپسون، مدیرعامل UnitedHealthcare را به ضرب گلوله کشت. و شب گذشته بیل ماهر افکاری داشت. ماهر در مونولوگ آغازین Real Time شبکه HBO با بیل ماهر گفت: «لوئیجی مانژیونه، مردی که داشت"
+        "en": "Nearly a year after they first appeared onscreen together in Regretting You, Mason Thames and McKenna Grace are playing romantic opposites again. Following Colleen Hoover romance’s premiere last October, Thames recently revealed he had already worked with Grace on the Green Day-inspired movie Nimrods, which is now playing in theaters. “So we did Green Day […]",
+        "fa": "تقریباً یک سال پس از اینکه برای اولین بار با هم در فیلم پشیمان شدم روی پرده ظاهر شدند، میسون تیمز و مک‌کنا گریس دوباره در حال بازی کردن مخالفان عاشقانه هستند. پس از نمایش رمان عاشقانه کالین هوور در اکتبر گذشته، تیمز اخیراً فاش کرد که قبلاً با گریس در فیلم Nimrods الهام گرفته از روز سبز کار کرده است که اکنون در سینماها پخش می شود. بنابراین ما روز سبز را انجام دادیم"
       },
       "content": {
-        "en": "Friday’s big story on the cable news networks was the guilty plea of Luigi Mangione, the man who shot and killed UnitedHealthcare CEO Brian Thompson in 2024. And last night Bill Maher had some thoughts. “Luigi Mangione,” Maher said in the opening monologue of HBO’s Real Time with Bill Maher, “the guy who was getting […]",
-        "fa": "داستان بزرگ روز جمعه در شبکه های خبری کابلی اعتراف گناه لوئیجی مانژیونه بود، مردی که در سال 2024، برایان تامپسون، مدیرعامل UnitedHealthcare را به ضرب گلوله کشت. و شب گذشته بیل ماهر افکاری داشت. ماهر در مونولوگ آغازین Real Time شبکه HBO با بیل ماهر گفت: «لوئیجی مانژیونه، مردی که داشت"
+        "en": "Nearly a year after they first appeared onscreen together in Regretting You, Mason Thames and McKenna Grace are playing romantic opposites again. Following Colleen Hoover romance’s premiere last October, Thames recently revealed he had already worked with Grace on the Green Day-inspired movie Nimrods, which is now playing in theaters. “So we did Green Day […]",
+        "fa": "تقریباً یک سال پس از اینکه برای اولین بار با هم در فیلم پشیمان شدم روی پرده ظاهر شدند، میسون تیمز و مک‌کنا گریس دوباره در حال بازی کردن مخالفان عاشقانه هستند. پس از نمایش رمان عاشقانه کالین هوور در اکتبر گذشته، تیمز اخیراً فاش کرد که قبلاً با گریس در فیلم Nimrods الهام گرفته از روز سبز کار کرده است که اکنون در سینماها پخش می شود. بنابراین ما روز سبز را انجام دادیم"
       },
       "source": {
         "en": "Deadline",
         "fa": "Deadline"
       },
-      "link": "https://deadline.com/2026/08/bill-maher-luigi-mangione-1237041560/",
-      "date": "2026-08-15T22:11:41.345956+00:00",
-      "image": "https://deadline.com/wp-content/uploads/2026/08/maher-luigi-copy.jpeg",
+      "link": "https://deadline.com/2026/08/mason-thames-mckenna-grace-filmed-nimrods-regretting-you-1237041798/",
+      "date": "2026-08-15T23:11:47.997147+00:00",
+      "image": "https://deadline.com/wp-content/uploads/2026/08/Regretting-You-Nimrods-2-shot.jpg",
       "important": false,
       "score": 3
     },
@@ -213,7 +237,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/features/podcast/screen-talk-podcast-tiff-ceo-cameron-bailey-toronto-2026-1235210516/",
-      "date": "2026-08-15T22:11:41.352056+00:00",
+      "date": "2026-08-15T23:11:48.009983+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/P115U4AG.jpg?w=650",
       "important": false,
       "score": 1
@@ -237,7 +261,7 @@
         "fa": "The Wrap"
       },
       "link": "https://www.thewrap.com/industry-news/business/spider-man-brand-new-day-third-weekend-box-office/",
-      "date": "2026-08-15T22:11:41.350234+00:00",
+      "date": "2026-08-15T23:11:48.007764+00:00",
       "image": "https://www.thewrap.com/wp-content/uploads/2026/08/spider-man-brand-new-day-image.jpg",
       "important": false,
       "score": 1
@@ -261,7 +285,7 @@
         "fa": "The Hollywood Reporter"
       },
       "link": "https://www.hollywoodreporter.com/movies/movie-news/dudley-moore-author-1236671092/",
-      "date": "2026-08-15T22:11:41.348637+00:00",
+      "date": "2026-08-15T23:11:48.005669+00:00",
       "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/15ENDPG-Main-2026.jpg?w=1296&#038;h=730&#038;crop=1",
       "important": false,
       "score": 1
@@ -285,7 +309,7 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/slipknot-announces-sid-wilson-exit-1237041712/",
-      "date": "2026-08-15T22:11:41.344219+00:00",
+      "date": "2026-08-15T23:11:47.999852+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/GettyImages-159688738.jpg",
       "important": false,
       "score": 1
@@ -309,7 +333,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/criticism/movies/american-doctor-documentary-review-gaza-1235210500/",
-      "date": "2026-08-15T22:11:41.352495+00:00",
+      "date": "2026-08-15T23:11:48.010580+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/ivfj95enlAmerican_Doctor-Still_1.webp?w=650",
       "important": false,
       "score": 0
@@ -333,7 +357,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/news/business/dga-iatse-conditions-paramount-settlement-realistic-1235210398/",
-      "date": "2026-08-15T22:11:41.352318+00:00",
+      "date": "2026-08-15T23:11:48.010333+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/P10XLNE.jpg?w=650",
       "important": false,
       "score": 0
@@ -357,7 +381,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/features/interviews/abbott-elementary-director-randall-einhorn-phillies-game-1235210238/",
-      "date": "2026-08-15T22:11:41.351824+00:00",
+      "date": "2026-08-15T23:11:48.009659+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/178757_1142.jpg?w=650",
       "important": false,
       "score": 0
@@ -381,7 +405,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/features/craft/jane-schoenbrun-teenage-sex-and-death-at-camp-miasma-1235210237/",
-      "date": "2026-08-15T22:11:41.351664+00:00",
+      "date": "2026-08-15T23:11:48.009442+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/MCDTESE_K3011.jpg?w=650",
       "important": false,
       "score": 0
@@ -405,32 +429,8 @@
         "fa": "The Wrap"
       },
       "link": "https://www.thewrap.com/creative-content/movies/hexed-adds-jodie-foster-walton-goggins-disney-animation/",
-      "date": "2026-08-15T22:11:41.350833+00:00",
+      "date": "2026-08-15T23:11:48.008548+00:00",
       "image": "https://www.thewrap.com/wp-content/uploads/2026/08/Hexed-1.jpg",
-      "important": false,
-      "score": 0
-    },
-    {
-      "id": "4292b2116cf5",
-      "title": {
-        "en": "‘Mission’ Stars George MacKay and Rosy McEwen on Capitalism, Creative Freedom and the Eternal Allure of British Independent Film",
-        "fa": "«ماموریت» با بازی جورج مک کی و رزی مک ایون درباره سرمایه داری، آزادی خلاق و جذابیت ابدی فیلم مستقل بریتانیا"
-      },
-      "excerpt": {
-        "en": "The English actors have big-budget studio projects on their slate — including 'Sense and Sensibility,' 'Scarpetta' and the 'Ocean's Eleven' prequel — so what tempted them onto Paul Wright's Edinburgh-premiering indie?",
-        "fa": "بازیگران انگلیسی پروژه‌های استودیویی پرهزینه‌ای را در فهرست خود دارند - از جمله «حس و حساسیت»، «Scarpetta» و پیش‌درآمد «Ocean's Eleven» - پس چه چیزی آن‌ها را وسوسه کرد که در اولین نمایش مستقل پل رایت در ادینبورگ شرکت کنند؟"
-      },
-      "content": {
-        "en": "The English actors have big-budget studio projects on their slate — including 'Sense and Sensibility,' 'Scarpetta' and the 'Ocean's Eleven' prequel — so what tempted them onto Paul Wright's Edinburgh-premiering indie?",
-        "fa": "بازیگران انگلیسی پروژه‌های استودیویی پرهزینه‌ای را در فهرست خود دارند - از جمله «حس و حساسیت»، «Scarpetta» و پیش‌درآمد «Ocean's Eleven» - پس چه چیزی آن‌ها را وسوسه کرد که در اولین نمایش مستقل پل رایت در ادینبورگ شرکت کنند؟"
-      },
-      "source": {
-        "en": "The Hollywood Reporter",
-        "fa": "The Hollywood Reporter"
-      },
-      "link": "https://www.hollywoodreporter.com/movies/movie-features/george-mackay-rosy-mcewen-mission-paul-wright-edinburgh-1236670925/",
-      "date": "2026-08-15T22:11:41.349525+00:00",
-      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/FotoJet-2026-08-11T163112.153.jpg?w=1440&#038;h=810&#038;crop=1",
       "important": false,
       "score": 0
     },
@@ -453,7 +453,7 @@
         "fa": "The Hollywood Reporter"
       },
       "link": "https://www.hollywoodreporter.com/tv/tv-features/tiktok-comment-all-her-fault-motherhood-tv-1236672638/",
-      "date": "2026-08-15T22:11:41.348529+00:00",
+      "date": "2026-08-15T23:11:48.005519+00:00",
       "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/14BFEA-Limited-All-Her-Fault-Main-2026.jpg?w=1296&#038;h=730&#038;crop=1",
       "important": false,
       "score": 0
@@ -477,7 +477,7 @@
         "fa": "Variety"
       },
       "link": "https://variety.com/2026/music/news/dave-marsh-dead-bruce-springsteen-born-to-run-1236835488/",
-      "date": "2026-08-15T22:11:41.347908+00:00",
+      "date": "2026-08-15T23:11:48.004506+00:00",
       "image": "https://variety.com/wp-content/uploads/2026/08/MixCollage-15-Aug-2026-10-47-AM-6065.jpg",
       "important": false,
       "score": 0
@@ -501,7 +501,7 @@
         "fa": "Variety"
       },
       "link": "https://variety.com/2026/tv/news/lanterns-creators-grounded-show-future-dcu-1236835494/",
-      "date": "2026-08-15T22:11:41.346978+00:00",
+      "date": "2026-08-15T23:11:48.003094+00:00",
       "image": "https://variety.com/wp-content/uploads/2026/08/kyle-chandler_9d6a91.jpg",
       "important": false,
       "score": 0
@@ -525,32 +525,8 @@
         "fa": "Variety"
       },
       "link": "https://variety.com/2026/shopping/news/how-to-watch-claressa-shields-vs-kaye-scott-boxing-live-online-1236833217/",
-      "date": "2026-08-15T22:11:41.346476+00:00",
+      "date": "2026-08-15T23:11:48.002396+00:00",
       "image": "https://variety.com/wp-content/uploads/2026/02/Boxing-Claressa-Shields-Getty-VR-Featured.jpg",
-      "important": false,
-      "score": 0
-    },
-    {
-      "id": "339cdc0dc8d0",
-      "title": {
-        "en": "Anne Hathaway Knows You’re Worried About The Fate Of Starbuck The Dog In ‘The End Of Oak Street’",
-        "fa": "آن هاتاوی می داند که شما نگران سرنوشت سگ استارباک در «انتهای اوک استریت» هستید"
-      },
-      "excerpt": {
-        "en": "Worried about the dog in the sci-fi apocalypse thriller The End of Oak Street? Star Anne Hathaway has just the spoiler for you. In a new interview with Complex – watch a clip below – Hathaway talks about the online chatter she’s been reading expressing concern for Starbuck, the camera-ready canine belonging to the film’s […]",
-        "fa": "نگران سگ در فیلم آخرالزمان علمی تخیلی The End of Oak Street هستید؟ ستاره آن هاتاوی فقط اسپویلر را برای شما دارد. در یک مصاحبه جدید با Complex - یک کلیپ زیر را تماشا کنید - هاتاوی در مورد چت آنلاینی که می خواند صحبت می کند و نگرانی خود را برای Starbuck، سگ آماده دوربین متعلق به فیلم نشان می دهد."
-      },
-      "content": {
-        "en": "Worried about the dog in the sci-fi apocalypse thriller The End of Oak Street? Star Anne Hathaway has just the spoiler for you. In a new interview with Complex – watch a clip below – Hathaway talks about the online chatter she’s been reading expressing concern for Starbuck, the camera-ready canine belonging to the film’s […]",
-        "fa": "نگران سگ در فیلم آخرالزمان علمی تخیلی The End of Oak Street هستید؟ ستاره آن هاتاوی فقط اسپویلر را برای شما دارد. در یک مصاحبه جدید با Complex - یک کلیپ زیر را تماشا کنید - هاتاوی در مورد چت آنلاینی که می خواند صحبت می کند و نگرانی خود را برای Starbuck، سگ آماده دوربین متعلق به فیلم نشان می دهد."
-      },
-      "source": {
-        "en": "Deadline",
-        "fa": "Deadline"
-      },
-      "link": "https://deadline.com/2026/08/anne-hathaway-starbuck-end-of-oak-street-1237041593/",
-      "date": "2026-08-15T22:11:41.345786+00:00",
-      "image": "https://deadline.com/wp-content/uploads/2026/08/Screenshot-2026-08-15-at-1.40.13-PM.png",
       "important": false,
       "score": 0
     },
@@ -573,8 +549,32 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/ewan-mcgregor-obi-wan-kenobi-edinburgh-film-festival-1237041597/",
-      "date": "2026-08-15T22:11:41.345552+00:00",
+      "date": "2026-08-15T23:11:48.001672+00:00",
       "image": "https://deadline.com/wp-content/uploads/2024/02/IMG_5275-e1707846200553.jpeg",
+      "important": false,
+      "score": 0
+    },
+    {
+      "id": "819805254ede",
+      "title": {
+        "en": "Lucasfilm Co-Boss Dave Filoni On ‘Hunt For Ben Solo’ Pic Future: “The Force Is Not With Us…” – D23",
+        "fa": "دیو فیلونی، رئیس لوکاس فیلم، در فیلم آینده «شکار بن سولو»: «نیرو با ما نیست…» – D23"
+      },
+      "excerpt": {
+        "en": "There’s always the theme of hope in the Star Wars franchise, and with the brand landing its lowest grossing live-action feature in the franchise with The Mandalorian and Grogu ($345M WW), fans still wanna know: is there any shot in the galaxy that Disney/Luscasfilm would re-consider an Adam Driver-led The Hunt for Ben Solo project? […]",
+        "fa": "همیشه موضوع امید در فرنچایز جنگ ستارگان وجود دارد، و با توجه به اینکه این برند کم‌فروش‌ترین ویژگی لایو اکشن خود را در فرنچایز The Mandalorian و Grogu دارد، طرفداران هنوز می‌خواهند بدانند: آیا صحنه‌ای در کهکشان وجود دارد که Disney/Luscasfilm دوباره پروژه‌ای به رهبری آدام درایور بن‌سلو برای The Hunt را در نظر بگیرد؟"
+      },
+      "content": {
+        "en": "There’s always the theme of hope in the Star Wars franchise, and with the brand landing its lowest grossing live-action feature in the franchise with The Mandalorian and Grogu ($345M WW), fans still wanna know: is there any shot in the galaxy that Disney/Luscasfilm would re-consider an Adam Driver-led The Hunt for Ben Solo project? […]",
+        "fa": "همیشه موضوع امید در فرنچایز جنگ ستارگان وجود دارد، و با توجه به اینکه این برند کم‌فروش‌ترین ویژگی لایو اکشن خود را در فرنچایز The Mandalorian و Grogu دارد، طرفداران هنوز می‌خواهند بدانند: آیا صحنه‌ای در کهکشان وجود دارد که Disney/Luscasfilm دوباره پروژه‌ای به رهبری آدام درایور بن‌سلو برای The Hunt را در نظر بگیرد؟"
+      },
+      "source": {
+        "en": "Deadline",
+        "fa": "Deadline"
+      },
+      "link": "https://deadline.com/2026/08/kylo-ren-hunt-for-ben-solo-dave-filoni-adam-driver-d23-1237041672/",
+      "date": "2026-08-15T23:11:48.000269+00:00",
+      "image": "https://deadline.com/wp-content/uploads/2026/08/Dave-Filoni-Adam-Driver-as-kylo-ren.jpg",
       "important": false,
       "score": 0
     }
