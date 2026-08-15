@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-15T07:22:39.981744+00:00",
-  "count": 16,
+  "updated_at": "2026-08-15T08:17:06.935422+00:00",
+  "count": 17,
   "news": [
     {
       "id": "1558a9b44b80",
@@ -21,34 +21,10 @@
         "fa": "Variety"
       },
       "link": "https://variety.com/2026/tv/news/visionquest-trailer-vision-marvel-1236827773/",
-      "date": "2026-08-15T07:22:39.895425+00:00",
+      "date": "2026-08-15T08:17:06.808403+00:00",
       "image": "https://variety.com/wp-content/uploads/2026/08/MixCollage-15-Aug-2026-12-09-AM-8512.jpg",
       "important": true,
       "score": 5
-    },
-    {
-      "id": "6e810686a642",
-      "title": {
-        "en": "Jon Favreau’s ‘Oswald the Lucky Rabbit’ Miniseries Sets February Release Date on Disney+",
-        "fa": "مینی سریال «اسوالد خرگوش خوش شانس» جان فاورو تاریخ اکران فوریه را در دیزنی پلاس مشخص می کند."
-      },
-      "excerpt": {
-        "en": "Oswald the Lucky Rabbit, one of Disney’s earliest characters who predated Mickey Mouse, is back for the 21st century. At the D23 fan event in Anaheim on Friday, Disney revealed the first look at its live action combined with hand-drawn 2D animation series “Oswald the Lucky Rabbit” that’s being written, directed and executive produced by […]",
-        "fa": "اسوالد خرگوش خوش شانس، یکی از اولین شخصیت های دیزنی که قبل از میکی ماوس بود، به قرن بیست و یکم بازگشته است. در رویداد طرفداران D23 در روز جمعه در آناهیم، ​​دیزنی اولین نگاه به اکشن زنده خود را به همراه مجموعه انیمیشن دوبعدی دست‌کش «Oswald the Lucky Rabbit» که نویسندگی، کارگردانی و تهیه‌کننده اجرایی آن است، نشان داد."
-      },
-      "content": {
-        "en": "Oswald the Lucky Rabbit, one of Disney’s earliest characters who predated Mickey Mouse, is back for the 21st century. At the D23 fan event in Anaheim on Friday, Disney revealed the first look at its live action combined with hand-drawn 2D animation series “Oswald the Lucky Rabbit” that’s being written, directed and executive produced by […]",
-        "fa": "اسوالد خرگوش خوش شانس، یکی از اولین شخصیت های دیزنی که قبل از میکی ماوس بود، به قرن بیست و یکم بازگشته است. در رویداد طرفداران D23 در روز جمعه در آناهیم، ​​دیزنی اولین نگاه به اکشن زنده خود را به همراه مجموعه انیمیشن دوبعدی دست‌کش «Oswald the Lucky Rabbit» که نویسندگی، کارگردانی و تهیه‌کننده اجرایی آن است، نشان داد."
-      },
-      "source": {
-        "en": "Variety",
-        "fa": "Variety"
-      },
-      "link": "https://variety.com/2026/tv/news/jon-favreau-oswald-the-lucky-rabbit-release-date-1236834697/",
-      "date": "2026-08-15T07:22:39.895565+00:00",
-      "image": "https://variety.com/wp-content/uploads/2026/08/HPu7RbRaAAAc7qr.jpeg",
-      "important": true,
-      "score": 4
     },
     {
       "id": "d97f2f1cf7d4",
@@ -69,7 +45,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/news/breaking-news/film-independent-biggest-grant-history-juan-devis-1235210522/",
-      "date": "2026-08-15T07:22:39.897583+00:00",
+      "date": "2026-08-15T08:17:06.811347+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/Juan_Devis_2304sm-photo.jpeg?w=650",
       "important": false,
       "score": 3
@@ -93,7 +69,7 @@
         "fa": "Variety"
       },
       "link": "https://variety.com/2026/film/news/frozen-3-first-details-anna-kristoff-married-olaf-love-1236822955/",
-      "date": "2026-08-15T07:22:39.894540+00:00",
+      "date": "2026-08-15T08:17:06.806760+00:00",
       "image": "https://variety.com/wp-content/uploads/2026/07/IMG_9699.jpg",
       "important": false,
       "score": 3
@@ -117,7 +93,7 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/bluey-movie-trailer-d23-1237040950/",
-      "date": "2026-08-15T07:22:39.894323+00:00",
+      "date": "2026-08-15T08:17:06.806259+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/the-bluey-movie.jpg",
       "important": false,
       "score": 2
@@ -141,7 +117,7 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/x-men-christopher-abbott-adam-driver-1237012957/",
-      "date": "2026-08-15T07:22:39.893232+00:00",
+      "date": "2026-08-15T08:17:06.804586+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/Maya-Boyd-Adam-Driver-Inde-Navarrette-Christopher-Abbott-4-shot.jpg",
       "important": false,
       "score": 2
@@ -165,7 +141,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/features/podcast/screen-talk-podcast-tiff-ceo-cameron-bailey-toronto-2026-1235210516/",
-      "date": "2026-08-15T07:22:39.897684+00:00",
+      "date": "2026-08-15T08:17:06.811487+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/P115U4AG.jpg?w=650",
       "important": false,
       "score": 1
@@ -189,7 +165,7 @@
         "fa": "Variety"
       },
       "link": "https://variety.com/2026/film/news/avengers-doomsday-trailer-d23-1236817670/",
-      "date": "2026-08-15T07:22:39.895331+00:00",
+      "date": "2026-08-15T08:17:06.808168+00:00",
       "image": "https://variety.com/wp-content/uploads/2026/07/doom.jpg",
       "important": false,
       "score": 1
@@ -213,8 +189,32 @@
         "fa": "Variety"
       },
       "link": "https://variety.com/2026/film/news/hexed-cast-walton-goggins-jodie-foster-1236834882/",
-      "date": "2026-08-15T07:22:39.894894+00:00",
+      "date": "2026-08-15T08:17:06.807261+00:00",
       "image": "https://variety.com/wp-content/uploads/2026/08/MixCollage-14-Aug-2026-09-41-PM-6838.jpg",
+      "important": false,
+      "score": 1
+    },
+    {
+      "id": "2a6166c130ba",
+      "title": {
+        "en": "‘Spider-Man: Brand New Day’ Has Super $65M Third Weekend; ‘The Odyssey’ Sailing Past Half Billion – Saturday AM Box Office Update",
+        "fa": "«Spider-Man: Brand New Day» سومین آخر هفته 65 میلیون دلاری دارد. «اودیسه» دریانوردی از نیم میلیارد گذشته - به‌روزرسانی باکس آفیس شنبه صبح"
+      },
+      "excerpt": {
+        "en": "SATURDAY VERY EARLY AM: Spider-Man: Brand New Day has banked a near $19M Friday for what’s shaping up to be a third weekend around $65M, -55%, which takes its running cume to $780.8M. The Destin Daniel Cretton directed movie is booked at 4,539 theaters. Among the best third weekends ever at the domestic B.O, Brand […]",
+        "fa": "شنبه خیلی زود صبح: Spider-Man: Brand New Day یک جمعه نزدیک به 19 میلیون دلار را برای سومین آخر هفته حدود 65 میلیون دلار، -55 درصد، رقم زده است که به 780.8 میلیون دلار می رسد. این فیلم به کارگردانی Destin Daniel Cretton در 4539 سالن سینما رزرو شده است. در میان بهترین آخر هفته های سوم تا کنون در B.O داخلی، برند"
+      },
+      "content": {
+        "en": "SATURDAY VERY EARLY AM: Spider-Man: Brand New Day has banked a near $19M Friday for what’s shaping up to be a third weekend around $65M, -55%, which takes its running cume to $780.8M. The Destin Daniel Cretton directed movie is booked at 4,539 theaters. Among the best third weekends ever at the domestic B.O, Brand […]",
+        "fa": "شنبه خیلی زود صبح: Spider-Man: Brand New Day یک جمعه نزدیک به 19 میلیون دلار را برای سومین آخر هفته حدود 65 میلیون دلار، -55 درصد، رقم زده است که به 780.8 میلیون دلار می رسد. این فیلم به کارگردانی Destin Daniel Cretton در 4539 سالن سینما رزرو شده است. در میان بهترین آخر هفته های سوم تا کنون در B.O داخلی، برند"
+      },
+      "source": {
+        "en": "Deadline",
+        "fa": "Deadline"
+      },
+      "link": "https://deadline.com/2026/08/box-office-spider-man-the-end-of-oak-street-1237033458/",
+      "date": "2026-08-15T08:17:06.802918+00:00",
+      "image": "https://deadline.com/wp-content/uploads/2026/08/MCDSPMA_SP148_c26a9e.jpg",
       "important": false,
       "score": 1
     },
@@ -237,7 +237,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/criticism/movies/american-doctor-documentary-review-gaza-1235210500/",
-      "date": "2026-08-15T07:22:39.898137+00:00",
+      "date": "2026-08-15T08:17:06.812081+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/ivfj95enlAmerican_Doctor-Still_1.webp?w=650",
       "important": false,
       "score": 0
@@ -261,7 +261,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/news/business/dga-iatse-conditions-paramount-settlement-realistic-1235210398/",
-      "date": "2026-08-15T07:22:39.897972+00:00",
+      "date": "2026-08-15T08:17:06.811854+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/P10XLNE.jpg?w=650",
       "important": false,
       "score": 0
@@ -285,7 +285,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/features/interviews/abbott-elementary-director-randall-einhorn-phillies-game-1235210238/",
-      "date": "2026-08-15T07:22:39.897453+00:00",
+      "date": "2026-08-15T08:17:06.811168+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/178757_1142.jpg?w=650",
       "important": false,
       "score": 0
@@ -309,8 +309,32 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/features/craft/jane-schoenbrun-teenage-sex-and-death-at-camp-miasma-1235210237/",
-      "date": "2026-08-15T07:22:39.897293+00:00",
+      "date": "2026-08-15T08:17:06.810951+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/MCDTESE_K3011.jpg?w=650",
+      "important": false,
+      "score": 0
+    },
+    {
+      "id": "d3e998bb5178",
+      "title": {
+        "en": "‘Tangled’ Live-Action Pic From Disney Sets 2028 Theatrical Release – D23",
+        "fa": "عکس اکشن زنده «درهم» از مجموعه‌های دیزنی در سال 2028 - D23"
+      },
+      "excerpt": {
+        "en": "The live-action adaptation of Disney animated classic Tangled will be opening in theaters on March 31, 2028. A very small piece of footage, literally a shot of Rapunzel’s long blonde hair sprawled down long medieval stairs was shown. The camera lifts to show the face of actress Teagan Croft. We then see Kathryn Hahn stepping […]",
+        "fa": "اقتباس لایو اکشن انیمیشن کلاسیک Tangled دیزنی در 31 مارس 2028 در سینماها اکران خواهد شد. قطعه بسیار کوچکی از فیلم، به معنای واقعی کلمه نمایی از موهای بلند بلوند راپونزل که از پله های بلند قرون وسطایی پخش شده بود، نمایش داده شد. دوربین بلند می شود تا چهره بازیگر زن تیگان کرافت را نشان دهد. سپس کاترین هان را می بینیم که پا می گذارد"
+      },
+      "content": {
+        "en": "The live-action adaptation of Disney animated classic Tangled will be opening in theaters on March 31, 2028. A very small piece of footage, literally a shot of Rapunzel’s long blonde hair sprawled down long medieval stairs was shown. The camera lifts to show the face of actress Teagan Croft. We then see Kathryn Hahn stepping […]",
+        "fa": "اقتباس لایو اکشن انیمیشن کلاسیک Tangled دیزنی در 31 مارس 2028 در سینماها اکران خواهد شد. قطعه بسیار کوچکی از فیلم، به معنای واقعی کلمه نمایی از موهای بلند بلوند راپونزل که از پله های بلند قرون وسطایی پخش شده بود، نمایش داده شد. دوربین بلند می شود تا چهره بازیگر زن تیگان کرافت را نشان دهد. سپس کاترین هان را می بینیم که پا می گذارد"
+      },
+      "source": {
+        "en": "Deadline",
+        "fa": "Deadline"
+      },
+      "link": "https://deadline.com/2026/08/tangled-release-date-d23-1237040918/",
+      "date": "2026-08-15T08:17:06.806127+00:00",
+      "image": "https://deadline.com/wp-content/uploads/2026/01/MCDTANG_EC064.jpg",
       "important": false,
       "score": 0
     },
@@ -333,7 +357,7 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/star-wars-starfighter-ryan-gosling-first-look-d23-1237040930/",
-      "date": "2026-08-15T07:22:39.893077+00:00",
+      "date": "2026-08-15T08:17:06.804371+00:00",
       "image": "https://deadline.com/wp-content/uploads/2025/09/swars-e1772248610171.png",
       "important": false,
       "score": 0
@@ -357,7 +381,7 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/kieran-culkin-cast-clay-walt-disney-animated-movie-1237041021/",
-      "date": "2026-08-15T07:22:39.892687+00:00",
+      "date": "2026-08-15T08:17:06.803830+00:00",
       "image": "https://deadline.com/wp-content/uploads/2025/05/GettyImages-2176273538.jpg",
       "important": false,
       "score": 0
@@ -381,7 +405,7 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/zootopia-3-d23-1237041333/",
-      "date": "2026-08-15T07:22:39.892359+00:00",
+      "date": "2026-08-15T08:17:06.803390+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/01/ZOOTOPIA-1.11.jpg",
       "important": false,
       "score": 0
