@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-15T16:13:19.927500+00:00",
-  "count": 21,
+  "updated_at": "2026-08-15T17:13:15.011206+00:00",
+  "count": 22,
   "news": [
     {
       "id": "00a13ef3b172",
@@ -21,7 +21,7 @@
         "fa": "The Hollywood Reporter"
       },
       "link": "https://www.hollywoodreporter.com/tv/tv-news/lebron-james-starts-youtube-golf-channel-exclusive-trailer-1236673598/",
-      "date": "2026-08-15T16:13:19.748127+00:00",
+      "date": "2026-08-15T17:13:14.830503+00:00",
       "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/Lebron-Golfing-in-Scotland-Main-2026.jpg?w=1296&#038;h=730&#038;crop=1",
       "important": true,
       "score": 7
@@ -45,7 +45,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/news/breaking-news/film-independent-biggest-grant-history-juan-devis-1235210522/",
-      "date": "2026-08-15T16:13:19.750753+00:00",
+      "date": "2026-08-15T17:13:14.833359+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/Juan_Devis_2304sm-photo.jpeg?w=650",
       "important": false,
       "score": 3
@@ -69,32 +69,8 @@
         "fa": "The Hollywood Reporter"
       },
       "link": "https://www.hollywoodreporter.com/movies/movie-features/lindsey-ryan-capsized-edinburgh-rhys-ifans-lily-rabe-film-1236670841/",
-      "date": "2026-08-15T16:13:19.748497+00:00",
+      "date": "2026-08-15T17:13:14.830910+00:00",
       "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/FotoJet-2026-08-12T125839.497.jpg?w=1440&#038;h=810&#038;crop=1",
-      "important": false,
-      "score": 3
-    },
-    {
-      "id": "bc3c5e46662b",
-      "title": {
-        "en": "‘Frozen 3’ First Details: Anna and Kristoff Get Married, Olaf Gets a Girlfriend and a New Villain Emerges",
-        "fa": "اولین جزئیات «Frozen 3»: آنا و کریستوف با هم ازدواج کردند، اولاف دوست دختر پیدا کرد و یک شرور جدید ظاهر شد"
-      },
-      "excerpt": {
-        "en": "Thanksgiving 2027 is about to get a lot colder. Disney has revealed the first details about “Frozen 3,” which will release in theaters Nov. 24, 2027, following the previous two films’ tradition of Thanksgiving-centered premiere dates. Set in the fictional land of Arendelle, the cast of voice actors includes Kristen Bell as Anna, Idina Menzel […]",
-        "fa": "روز شکرگزاری 2027 بسیار سردتر می شود. دیزنی اولین جزئیات درباره «یخ‌زده 3» را فاش کرده است که در تاریخ 24 نوامبر 2027 در سینماها اکران می‌شود و طبق سنت دو فیلم قبلی در تاریخ‌های اکران با محوریت شکرگزاری. در سرزمین خیالی آرندل، بازیگران صداپیشه شامل کریستن بل در نقش آنا، آیدینا منزل هستند."
-      },
-      "content": {
-        "en": "Thanksgiving 2027 is about to get a lot colder. Disney has revealed the first details about “Frozen 3,” which will release in theaters Nov. 24, 2027, following the previous two films’ tradition of Thanksgiving-centered premiere dates. Set in the fictional land of Arendelle, the cast of voice actors includes Kristen Bell as Anna, Idina Menzel […]",
-        "fa": "روز شکرگزاری 2027 بسیار سردتر می شود. دیزنی اولین جزئیات درباره «یخ‌زده 3» را فاش کرده است که در تاریخ 24 نوامبر 2027 در سینماها اکران می‌شود و طبق سنت دو فیلم قبلی در تاریخ‌های اکران با محوریت شکرگزاری. در سرزمین خیالی آرندل، بازیگران صداپیشه شامل کریستن بل در نقش آنا، آیدینا منزل هستند."
-      },
-      "source": {
-        "en": "Variety",
-        "fa": "Variety"
-      },
-      "link": "https://variety.com/2026/film/news/frozen-3-first-details-anna-kristoff-married-olaf-love-1236822955/",
-      "date": "2026-08-15T16:13:19.747549+00:00",
-      "image": "https://variety.com/wp-content/uploads/2026/07/IMG_9699.jpg",
       "important": false,
       "score": 3
     },
@@ -117,7 +93,7 @@
         "fa": "Variety"
       },
       "link": "https://variety.com/2026/film/reviews/nowhere-to-lay-my-eyes-review-1236835338/",
-      "date": "2026-08-15T16:13:19.746441+00:00",
+      "date": "2026-08-15T17:13:14.828795+00:00",
       "image": "https://variety.com/wp-content/uploads/2026/07/Nowhere-to-Lay-My-Eyes.jpg",
       "important": false,
       "score": 3
@@ -141,7 +117,7 @@
         "fa": "Variety"
       },
       "link": "https://variety.com/2026/tv/news/nate-bargatze-guinness-world-record-comedy-tour-tickets-sold-1236835016/",
-      "date": "2026-08-15T16:13:19.745367+00:00",
+      "date": "2026-08-15T17:13:14.827620+00:00",
       "image": "https://variety.com/wp-content/uploads/2026/08/Grand-Casion-Arena-e1786754652340.jpg",
       "important": false,
       "score": 3
@@ -158,14 +134,14 @@
       },
       "content": {
         "en": "The Greatest Showman, the Disney Theatrical Group musical stage adaptation of the 2017 film, will premiere in London’s West End at Theatre Royal Drury Lane in Spring 2027, Disney announced at the D23 event in Anaheim last night. Also revealed was the cast: The Greatest Showman will star Oliver Tompsett as P.T. Barnum, Samantha Barks […]",
-        "fa": "The Greatest Showman, the Disney Theatrical Group musical stage adaptation of the 2017 film, will premiere in London’s West End at Theatre Royal Drury Lane in Spring 2027, Disney announced at the D23 event in Anaheim last night. Also revealed was the cast: The Greatest Showman will star Oliver Tompsett as P.T. Barnum, Samantha Barks […]"
+        "fa": "دیزنی دیشب در رویداد D23 در آناهیم اعلام کرد که The Greatest Showman، اقتباس صحنه ای موزیکال گروه تئاتر دیزنی از فیلم 2017، در وست اند لندن در تئاتر رویال دروری لین در بهار 2027 نمایش داده می شود. همچنین بازیگران این فیلم فاش شد: The Greatest Showman در نقش الیور تامپست در نقش پی تی. بارنوم، سامانتا بارکس"
       },
       "source": {
         "en": "Deadline",
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/greatest-showman-musical-west-end-opening-date-1237041487/",
-      "date": "2026-08-15T16:13:19.744422+00:00",
+      "date": "2026-08-15T17:13:14.826251+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/The-Greatest-Showman-Oliver-Tompsett-Samantha-Barks-Photo-by-Sebastian-Nevols.jpg",
       "important": false,
       "score": 3
@@ -174,7 +150,7 @@
       "id": "58e6cbe4eeba",
       "title": {
         "en": "Bill Maher Has A Word For Luigi Mangione “Groupies”",
-        "fa": "Bill Maher Has A Word For Luigi Mangione “Groupies”"
+        "fa": "بیل ماهر برای \"گروه های\" لوئیجی مانژیونه سخنی دارد"
       },
       "excerpt": {
         "en": "Friday’s big story on the cable news networks was the guilty plea of Luigi Mangione, the man who shot and killed UnitedHealthcare CEO Brian Thompson in 2024. And last night Bill Maher had some thoughts. “Luigi Mangione,” Maher said in the opening monologue of HBO’s Real Time with Bill Maher, “the guy who was getting […]",
@@ -182,14 +158,14 @@
       },
       "content": {
         "en": "Friday’s big story on the cable news networks was the guilty plea of Luigi Mangione, the man who shot and killed UnitedHealthcare CEO Brian Thompson in 2024. And last night Bill Maher had some thoughts. “Luigi Mangione,” Maher said in the opening monologue of HBO’s Real Time with Bill Maher, “the guy who was getting […]",
-        "fa": "Friday’s big story on the cable news networks was the guilty plea of Luigi Mangione, the man who shot and killed UnitedHealthcare CEO Brian Thompson in 2024. And last night Bill Maher had some thoughts. “Luigi Mangione,” Maher said in the opening monologue of HBO’s Real Time with Bill Maher, “the guy who was getting […]"
+        "fa": "داستان بزرگ روز جمعه در شبکه های خبری کابلی اعتراف گناه لوئیجی مانژیونه بود، مردی که در سال 2024، برایان تامپسون، مدیرعامل UnitedHealthcare را به ضرب گلوله کشت. و شب گذشته بیل ماهر افکاری داشت. ماهر در مونولوگ آغازین Real Time شبکه HBO با بیل ماهر گفت: «لوئیجی مانژیونه، مردی که داشت"
       },
       "source": {
         "en": "Deadline",
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/bill-maher-luigi-mangione-1237041560/",
-      "date": "2026-08-15T16:13:19.741490+00:00",
+      "date": "2026-08-15T17:13:14.823088+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/maher-luigi-copy.jpeg",
       "important": false,
       "score": 3
@@ -198,7 +174,7 @@
       "id": "3553f7437c16",
       "title": {
         "en": "TIFF CEO Cameron Bailey Teases Toronto 2026 and How the New Market Will Stand Out from the Crowd",
-        "fa": "TIFF CEO Cameron Bailey Teases Toronto 2026 and How the New Market Will Stand Out from the Crowd"
+        "fa": "مدیر عامل TIFF کامرون بیلی تورنتو 2026 و اینکه چگونه بازار جدید از بین مردم متمایز خواهد شد را اذیت می کند"
       },
       "excerpt": {
         "en": "The festival head previews upcoming films on the latest episode of \"Screen Talk,\" and we discuss Warnermount, the summer box office, and thoughts on \"Tony.\"",
@@ -213,7 +189,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/features/podcast/screen-talk-podcast-tiff-ceo-cameron-bailey-toronto-2026-1235210516/",
-      "date": "2026-08-15T16:13:19.750887+00:00",
+      "date": "2026-08-15T17:13:14.833503+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/P115U4AG.jpg?w=650",
       "important": false,
       "score": 1
@@ -237,7 +213,7 @@
         "fa": "Variety"
       },
       "link": "https://variety.com/2026/film/box-office/box-office-end-of-oak-street-spider-man-brand-new-day-1236835436/",
-      "date": "2026-08-15T16:13:19.745558+00:00",
+      "date": "2026-08-15T17:13:14.827821+00:00",
       "image": "https://variety.com/wp-content/uploads/2026/08/MCDENOF_WB002.jpg",
       "important": false,
       "score": 1
@@ -261,7 +237,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/criticism/movies/american-doctor-documentary-review-gaza-1235210500/",
-      "date": "2026-08-15T16:13:19.751451+00:00",
+      "date": "2026-08-15T17:13:14.834133+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/ivfj95enlAmerican_Doctor-Still_1.webp?w=650",
       "important": false,
       "score": 0
@@ -285,7 +261,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/news/business/dga-iatse-conditions-paramount-settlement-realistic-1235210398/",
-      "date": "2026-08-15T16:13:19.751235+00:00",
+      "date": "2026-08-15T17:13:14.833873+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/P10XLNE.jpg?w=650",
       "important": false,
       "score": 0
@@ -309,7 +285,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/features/interviews/abbott-elementary-director-randall-einhorn-phillies-game-1235210238/",
-      "date": "2026-08-15T16:13:19.750582+00:00",
+      "date": "2026-08-15T17:13:14.833168+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/178757_1142.jpg?w=650",
       "important": false,
       "score": 0
@@ -333,7 +309,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/features/craft/jane-schoenbrun-teenage-sex-and-death-at-camp-miasma-1235210237/",
-      "date": "2026-08-15T16:13:19.750374+00:00",
+      "date": "2026-08-15T17:13:14.832920+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/MCDTESE_K3011.jpg?w=650",
       "important": false,
       "score": 0
@@ -357,7 +333,7 @@
         "fa": "The Hollywood Reporter"
       },
       "link": "https://www.hollywoodreporter.com/movies/movie-news/bfi-ben-roberts-clare-binns-edinburgh-film-obession-odyssey-1236674318/",
-      "date": "2026-08-15T16:13:19.748950+00:00",
+      "date": "2026-08-15T17:13:14.831421+00:00",
       "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/FotoJet-2026-08-15T114410.422.jpg?w=1440&#038;h=810&#038;crop=1",
       "important": false,
       "score": 0
@@ -381,7 +357,7 @@
         "fa": "The Hollywood Reporter"
       },
       "link": "https://www.hollywoodreporter.com/movies/movie-features/george-mackay-rosy-mcewen-mission-paul-wright-edinburgh-1236670925/",
-      "date": "2026-08-15T16:13:19.748030+00:00",
+      "date": "2026-08-15T17:13:14.830395+00:00",
       "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/FotoJet-2026-08-11T163112.153.jpg?w=1440&#038;h=810&#038;crop=1",
       "important": false,
       "score": 0
@@ -405,7 +381,7 @@
         "fa": "Variety"
       },
       "link": "https://variety.com/2026/film/global/ursa-menart-everything-thats-wrong-with-you-influencers-1236833609/",
-      "date": "2026-08-15T16:13:19.747085+00:00",
+      "date": "2026-08-15T17:13:14.829506+00:00",
       "image": "https://variety.com/wp-content/uploads/2026/08/VARIETY-SIZING-7.png",
       "important": false,
       "score": 0
@@ -429,8 +405,32 @@
         "fa": "Variety"
       },
       "link": "https://variety.com/2026/film/global/paulo-nascimento-a-chocolate-christmas-gramado-new-york-1236835366/",
-      "date": "2026-08-15T16:13:19.746642+00:00",
+      "date": "2026-08-15T17:13:14.829061+00:00",
       "image": "https://variety.com/wp-content/uploads/2026/08/Paulo-Nascimento-Courtesy-Accorde-Filmes.jpg",
+      "important": false,
+      "score": 0
+    },
+    {
+      "id": "99e016a28c35",
+      "title": {
+        "en": "Locarno: Marco Cavazzin’s ‘Mutrion,’ Set in the Venice Lagoon, Scoops Leopards of Tomorrow Director Award",
+        "fa": "لوکارنو: «موتریون» مارکو کاوازین، که در مرداب ونیز می گذرد، جایزه کارگردانی Scoops Leopards of Tomorrow"
+      },
+      "excerpt": {
+        "en": "“Mutrion,” a short film set in the Venice lagoon by 26-year-old Italian director Marco Cavazzin, has scooped the best director award at the Locarno Film Festival’s Pardi di Domani (Leopards of Tomorrow) section. “Mutrion,” which is the only Italian entry in the section, stars Manfredi Marini, who previously starred in Giovanni Tortorici’s “Nineteen,” and Giulio Maroncelli and is produced […]",
+        "fa": "فیلم کوتاه «Mutrion» که در تالاب ونیز ساخته مارکو کاوازین کارگردان ۲۶ ساله ایتالیایی می‌گذرد، جایزه بهترین کارگردانی جشنواره فیلم لوکارنو را در بخش Pardi di Domani دریافت کرد. \"Mutrion\" که تنها ورودی ایتالیایی در این بخش است، با بازی مانفردی مارینی که قبلا در \"نوزده\" جووانی تورتوریچی بازی کرده بود و جولیو مارونچلی تولید می شود."
+      },
+      "content": {
+        "en": "“Mutrion,” a short film set in the Venice lagoon by 26-year-old Italian director Marco Cavazzin, has scooped the best director award at the Locarno Film Festival’s Pardi di Domani (Leopards of Tomorrow) section. “Mutrion,” which is the only Italian entry in the section, stars Manfredi Marini, who previously starred in Giovanni Tortorici’s “Nineteen,” and Giulio Maroncelli and is produced […]",
+        "fa": "فیلم کوتاه «Mutrion» که در تالاب ونیز ساخته مارکو کاوازین کارگردان ۲۶ ساله ایتالیایی می‌گذرد، جایزه بهترین کارگردانی جشنواره فیلم لوکارنو را در بخش Pardi di Domani دریافت کرد. \"Mutrion\" که تنها ورودی ایتالیایی در این بخش است، با بازی مانفردی مارینی که قبلا در \"نوزده\" جووانی تورتوریچی بازی کرده بود و جولیو مارونچلی تولید می شود."
+      },
+      "source": {
+        "en": "Variety",
+        "fa": "Variety"
+      },
+      "link": "https://variety.com/2026/film/festivals/locarno-marco-cavazzin-mutrion-venice-leopards-of-tomorrow-1236834478/",
+      "date": "2026-08-15T17:13:14.827258+00:00",
+      "image": "https://variety.com/wp-content/uploads/2026/08/Mutrion.jpg",
       "important": false,
       "score": 0
     },
@@ -453,8 +453,32 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/kieran-culkin-cast-clay-walt-disney-animated-movie-1237041021/",
-      "date": "2026-08-15T16:13:19.745024+00:00",
+      "date": "2026-08-15T17:13:14.826884+00:00",
       "image": "https://deadline.com/wp-content/uploads/2025/05/GettyImages-2176273538.jpg",
+      "important": false,
+      "score": 0
+    },
+    {
+      "id": "ee1789317722",
+      "title": {
+        "en": "‘Frozen 3’ First Look Teases Wedding Bells & An Icy Villain From A Land “More Wild And Dangerous” Than Ever Before – D23",
+        "fa": "اولین نگاه «یخ‌زده 3» زنگ‌های عروسی و یک تبه‌کار یخی را از سرزمینی «وحشی‌تر و خطرناک‌تر» از همیشه می‌گیرد - D23"
+      },
+      "excerpt": {
+        "en": "The filled Honda Center got a look at Frozen 3 — and let’s just say, there is quite a lot in store. First of all, are those wedding bells, we hear? Indeed, they are! Kristen Bell confirmed at Disney’s D23 entertainment showcase on Friday night that Anna will be marrying her “mountain man” Kristoff (Jonathan […]",
+        "fa": "Honda Center پر شده نگاهی به Frozen 3 انداخت - و بگذارید بگوییم که چیزهای زیادی در انبار وجود دارد. اول از همه، آن زنگ های عروسی، ما می شنویم؟ در واقع، آنها هستند! کریستن بل جمعه شب در نمایشگاه سرگرمی D23 دیزنی تایید کرد که آنا با \"مرد کوهستانی\" خود کریستوف (جاناتان) ازدواج خواهد کرد."
+      },
+      "content": {
+        "en": "The filled Honda Center got a look at Frozen 3 — and let’s just say, there is quite a lot in store. First of all, are those wedding bells, we hear? Indeed, they are! Kristen Bell confirmed at Disney’s D23 entertainment showcase on Friday night that Anna will be marrying her “mountain man” Kristoff (Jonathan […]",
+        "fa": "Honda Center پر شده نگاهی به Frozen 3 انداخت - و بگذارید بگوییم که چیزهای زیادی در انبار وجود دارد. اول از همه، آن زنگ های عروسی، ما می شنویم؟ در واقع، آنها هستند! کریستن بل جمعه شب در نمایشگاه سرگرمی D23 دیزنی تایید کرد که آنا با \"مرد کوهستانی\" خود کریستوف (جاناتان) ازدواج خواهد کرد."
+      },
+      "source": {
+        "en": "Deadline",
+        "fa": "Deadline"
+      },
+      "link": "https://deadline.com/2026/08/frozen-3-footage-d23-anna-wedding-new-villain-1237041024/",
+      "date": "2026-08-15T17:13:14.826733+00:00",
+      "image": "https://deadline.com/wp-content/uploads/2019/12/frozen-dos-e1575648103863.jpg",
       "important": false,
       "score": 0
     },
@@ -466,7 +490,7 @@
       },
       "excerpt": {
         "en": "Following the massive success of the sequel, Disney is moving forward with Zootopia 3. The news of the next film was revealed at Disney’s D23 event in Anaheim, with Ke Huy Quan joining Ginnifer Goodwin onstage to announce the new installment, which will focus on birds. Last year’s Zootopia 2 became the highest-grossing Hollywood animated […]",
-        "fa": "Following the massive success of the sequel, Disney is moving forward with Zootopia 3. The news of the next film was revealed at Disney’s D23 event in Anaheim, with Ke Huy Quan joining Ginnifer Goodwin onstage to announce the new installment, which will focus on birds. Last year’s Zootopia 2 became the highest-grossing Hollywood animated […]"
+        "fa": "پس از موفقیت عظیم دنباله، دیزنی با Zootopia 3 رو به جلو است. اخبار فیلم بعدی در رویداد D23 دیزنی در آناهیم فاش شد و Ke Huy Quan به جینیفر گودوین روی صحنه می‌پیوندد تا قسمت جدید را معرفی کند که بر روی پرندگان تمرکز دارد. انیمیشن Zootopia 2 سال گذشته پردرآمدترین انیمیشن هالیوود شد"
       },
       "content": {
         "en": "Following the massive success of the sequel, Disney is moving forward with Zootopia 3. The news of the next film was revealed at Disney’s D23 event in Anaheim, with Ke Huy Quan joining Ginnifer Goodwin onstage to announce the new installment, which will focus on birds. Last year’s Zootopia 2 became the highest-grossing Hollywood animated […]",
@@ -477,7 +501,7 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/zootopia-3-d23-1237041333/",
-      "date": "2026-08-15T16:13:19.744644+00:00",
+      "date": "2026-08-15T17:13:14.826487+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/01/ZOOTOPIA-1.11.jpg",
       "important": false,
       "score": 0
@@ -501,7 +525,7 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/bfi-ceo-ben-roberts-keynote-address-uk-film-conference-eiff-1237041496/",
-      "date": "2026-08-15T16:13:19.743644+00:00",
+      "date": "2026-08-15T17:13:14.825446+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/06/Ben-Roberts-BFI-CEO-e1781616847588.jpg",
       "important": false,
       "score": 0
