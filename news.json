@@ -1,31 +1,7 @@
 {
-  "updated_at": "2026-08-15T18:15:28.450939+00:00",
+  "updated_at": "2026-08-15T19:15:20.138669+00:00",
   "count": 23,
   "news": [
-    {
-      "id": "00a13ef3b172",
-      "title": {
-        "en": "LeBron James Launches YouTube Golf Channel — Watch the First Episode’s Trailer (Exclusive)",
-        "fa": "لبرون جیمز کانال گلف یوتیوب را راه اندازی کرد — تریلر قسمت اول را تماشا کنید"
-      },
-      "excerpt": {
-        "en": "Saturday's premiere chronicles that semi-infamous Scotland golf trip for the 2016 NBA champion Cleveland Cavaliers (minus Kyrie Irving).",
-        "fa": "اولین نمایش روز شنبه ماجرای سفر نیمه بدنام گلف اسکاتلند برای کلیولند کاوالیرز قهرمان NBA در سال 2016 است."
-      },
-      "content": {
-        "en": "Saturday's premiere chronicles that semi-infamous Scotland golf trip for the 2016 NBA champion Cleveland Cavaliers (minus Kyrie Irving).",
-        "fa": "اولین نمایش روز شنبه ماجرای سفر نیمه بدنام گلف اسکاتلند برای کلیولند کاوالیرز قهرمان NBA در سال 2016 است."
-      },
-      "source": {
-        "en": "The Hollywood Reporter",
-        "fa": "The Hollywood Reporter"
-      },
-      "link": "https://www.hollywoodreporter.com/tv/tv-news/lebron-james-starts-youtube-golf-channel-exclusive-trailer-1236673598/",
-      "date": "2026-08-15T18:15:28.239189+00:00",
-      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/Lebron-Golfing-in-Scotland-Main-2026.jpg?w=1296&#038;h=730&#038;crop=1",
-      "important": true,
-      "score": 7
-    },
     {
       "id": "d97f2f1cf7d4",
       "title": {
@@ -45,7 +21,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/news/breaking-news/film-independent-biggest-grant-history-juan-devis-1235210522/",
-      "date": "2026-08-15T18:15:28.243547+00:00",
+      "date": "2026-08-15T19:15:19.914767+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/Juan_Devis_2304sm-photo.jpeg?w=650",
       "important": false,
       "score": 3
@@ -69,7 +45,7 @@
         "fa": "The Wrap"
       },
       "link": "https://www.thewrap.com/creative-content/movies/7-best-rom-coms-netflix-august-2026/",
-      "date": "2026-08-15T18:15:28.240473+00:00",
+      "date": "2026-08-15T19:15:19.911650+00:00",
       "image": "https://www.thewrap.com/wp-content/uploads/2022/04/Keanu-Reeves-in-Always-Be-My-Maybe.jpg",
       "important": false,
       "score": 3
@@ -93,32 +69,32 @@
         "fa": "The Hollywood Reporter"
       },
       "link": "https://www.hollywoodreporter.com/movies/movie-features/lindsey-ryan-capsized-edinburgh-rhys-ifans-lily-rabe-film-1236670841/",
-      "date": "2026-08-15T18:15:28.239594+00:00",
+      "date": "2026-08-15T19:15:19.911514+00:00",
       "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/FotoJet-2026-08-12T125839.497.jpg?w=1440&#038;h=810&#038;crop=1",
       "important": false,
       "score": 3
     },
     {
-      "id": "b4d79e8a0b93",
+      "id": "d367e483dca4",
       "title": {
-        "en": "‘Nowhere to Lay My Eyes’ Review: Kim Minhee Once More Gives a Melancholy Masterclass in a Hong Sangsoo Miniature",
-        "fa": "نقد و بررسی «Nowhere to Lay My Eyes»: کیم مینه یک بار دیگر در یک مینیاتور هونگ سانگسو یک کلاس مستر مالیخولیایی برگزار می کند."
+        "en": "‘Paradise’ Executive Producer Explains Why Julianne Nicholson’s Character Had to Go Down with the Bunker in Season 2",
+        "fa": "تهیه‌کننده اجرایی «پارادایس» توضیح می‌دهد که چرا شخصیت جولیان نیکلسون باید با پناهگاه در فصل 2 سقوط می‌کرد."
       },
       "excerpt": {
-        "en": "The death-and-taxes certainty of Hong Sangsoo’s filmography — comparable to Woody Allen’s prime career run in its regularity, consistency and recurrence of ideas and actors across a gently varying tonal spectrum — has lately been infused with some mild unpredictability. Earlier this year, his Berlinale premiere “The Day She Returns” continued an occasional experimental jag […]",
-        "fa": "قطعیت مرگ و مالیات فیلم‌شناسی هونگ سانگسو - که قابل مقایسه با دوره اصلی حرفه‌ای وودی آلن در نظم، پیوستگی و تکرار ایده‌ها و بازیگران در طیف‌های مختلف صدایی است - اخیراً با مقداری غیرقابل پیش‌بینی ملایم القا شده است. در اوایل سال جاری، اولین نمایش او در برلیناله «روزی که برمی‌گردد» به یک تند تند تجربی گهگاه ادامه داد."
+        "en": "“Her arc is one of my favorites of the whole show,” says John Hoberg of Sinatra.",
+        "fa": "جان هوبرگ از سیناترا می گوید: «آرک او یکی از موارد مورد علاقه من در کل نمایش است."
       },
       "content": {
-        "en": "The death-and-taxes certainty of Hong Sangsoo’s filmography — comparable to Woody Allen’s prime career run in its regularity, consistency and recurrence of ideas and actors across a gently varying tonal spectrum — has lately been infused with some mild unpredictability. Earlier this year, his Berlinale premiere “The Day She Returns” continued an occasional experimental jag […]",
-        "fa": "قطعیت مرگ و مالیات فیلم‌شناسی هونگ سانگسو - که قابل مقایسه با دوره اصلی حرفه‌ای وودی آلن در نظم، پیوستگی و تکرار ایده‌ها و بازیگران در طیف‌های مختلف صدایی است - اخیراً با مقداری غیرقابل پیش‌بینی ملایم القا شده است. در اوایل سال جاری، اولین نمایش او در برلیناله «روزی که برمی‌گردد» به یک تند تند تجربی گهگاه ادامه داد."
+        "en": "“Her arc is one of my favorites of the whole show,” says John Hoberg of Sinatra.",
+        "fa": "جان هوبرگ از سیناترا می گوید: «آرک او یکی از موارد مورد علاقه من در کل نمایش است."
       },
       "source": {
-        "en": "Variety",
-        "fa": "Variety"
+        "en": "The Hollywood Reporter",
+        "fa": "The Hollywood Reporter"
       },
-      "link": "https://variety.com/2026/film/reviews/nowhere-to-lay-my-eyes-review-1236835338/",
-      "date": "2026-08-15T18:15:28.237980+00:00",
-      "image": "https://variety.com/wp-content/uploads/2026/07/Nowhere-to-Lay-My-Eyes.jpg",
+      "link": "https://www.hollywoodreporter.com/tv/tv-features/paradise-producer-sinatra-sacrifice-season-two-finale-1236670575/",
+      "date": "2026-08-15T19:15:19.910142+00:00",
+      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/14AFEA-Drama-Series-Paradise-Main-2026.jpg?w=1296&#038;h=730&#038;crop=1",
       "important": false,
       "score": 3
     },
@@ -141,7 +117,7 @@
         "fa": "Variety"
       },
       "link": "https://variety.com/2026/tv/news/nate-bargatze-guinness-world-record-comedy-tour-tickets-sold-1236835016/",
-      "date": "2026-08-15T18:15:28.236853+00:00",
+      "date": "2026-08-15T19:15:19.908718+00:00",
       "image": "https://variety.com/wp-content/uploads/2026/08/Grand-Casion-Arena-e1786754652340.jpg",
       "important": false,
       "score": 3
@@ -165,7 +141,7 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/greatest-showman-musical-west-end-opening-date-1237041487/",
-      "date": "2026-08-15T18:15:28.235304+00:00",
+      "date": "2026-08-15T19:15:19.906495+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/The-Greatest-Showman-Oliver-Tompsett-Samantha-Barks-Photo-by-Sebastian-Nevols.jpg",
       "important": false,
       "score": 3
@@ -189,7 +165,7 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/bill-maher-luigi-mangione-1237041560/",
-      "date": "2026-08-15T18:15:28.232479+00:00",
+      "date": "2026-08-15T19:15:19.904147+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/maher-luigi-copy.jpeg",
       "important": false,
       "score": 3
@@ -213,8 +189,32 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/features/podcast/screen-talk-podcast-tiff-ceo-cameron-bailey-toronto-2026-1235210516/",
-      "date": "2026-08-15T18:15:28.243686+00:00",
+      "date": "2026-08-15T19:15:19.914914+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/P115U4AG.jpg?w=650",
+      "important": false,
+      "score": 1
+    },
+    {
+      "id": "f41bf6d631ed",
+      "title": {
+        "en": "Hollywood Flashback: When Dudley Moore Intoxicated Audiences in ‘Arthur’",
+        "fa": "فلاش بک هالیوود: وقتی دادلی مور تماشاگران را در «آرتور» مست کرد"
+      },
+      "excerpt": {
+        "en": "The modestly budgeted 1981 comedy about an alcoholic playboy who falls for a Liza Minnelli’s working-class gal became a surprise summer hit with the fourth largest box office haul of the year.",
+        "fa": "کمدی با بودجه متوسط ​​1981 درباره یک پلی بوی الکلی که عاشق دختر طبقه کارگر لیزا مینلی می شود، با چهارمین فروش بزرگ باکس آفیس سال به یک موفقیت شگفت انگیز تابستانی تبدیل شد."
+      },
+      "content": {
+        "en": "The modestly budgeted 1981 comedy about an alcoholic playboy who falls for a Liza Minnelli’s working-class gal became a surprise summer hit with the fourth largest box office haul of the year.",
+        "fa": "کمدی با بودجه متوسط ​​1981 درباره یک پلی بوی الکلی که عاشق دختر طبقه کارگر لیزا مینلی می شود، با چهارمین فروش بزرگ باکس آفیس سال به یک موفقیت شگفت انگیز تابستانی تبدیل شد."
+      },
+      "source": {
+        "en": "The Hollywood Reporter",
+        "fa": "The Hollywood Reporter"
+      },
+      "link": "https://www.hollywoodreporter.com/movies/movie-news/dudley-moore-author-1236671092/",
+      "date": "2026-08-15T19:15:19.909806+00:00",
+      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/15ENDPG-Main-2026.jpg?w=1296&#038;h=730&#038;crop=1",
       "important": false,
       "score": 1
     },
@@ -237,7 +237,7 @@
         "fa": "Variety"
       },
       "link": "https://variety.com/2026/film/box-office/box-office-end-of-oak-street-spider-man-brand-new-day-1236835436/",
-      "date": "2026-08-15T18:15:28.237053+00:00",
+      "date": "2026-08-15T19:15:19.908927+00:00",
       "image": "https://variety.com/wp-content/uploads/2026/08/MCDENOF_WB002.jpg",
       "important": false,
       "score": 1
@@ -261,7 +261,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/criticism/movies/american-doctor-documentary-review-gaza-1235210500/",
-      "date": "2026-08-15T18:15:28.244305+00:00",
+      "date": "2026-08-15T19:15:19.915519+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/ivfj95enlAmerican_Doctor-Still_1.webp?w=650",
       "important": false,
       "score": 0
@@ -285,7 +285,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/news/business/dga-iatse-conditions-paramount-settlement-realistic-1235210398/",
-      "date": "2026-08-15T18:15:28.244072+00:00",
+      "date": "2026-08-15T19:15:19.915282+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/P10XLNE.jpg?w=650",
       "important": false,
       "score": 0
@@ -309,7 +309,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/features/interviews/abbott-elementary-director-randall-einhorn-phillies-game-1235210238/",
-      "date": "2026-08-15T18:15:28.243364+00:00",
+      "date": "2026-08-15T19:15:19.914564+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/178757_1142.jpg?w=650",
       "important": false,
       "score": 0
@@ -318,7 +318,7 @@
       "id": "357806072d79",
       "title": {
         "en": "About That ‘Super Bowl Moment’ in the Middle of ‘Teenage Sex and Death at Camp Miasma’",
-        "fa": "درباره آن «لحظه سوپر بول» در وسط «سکس و مرگ نوجوانان در کمپ میاسما»"
+        "fa": "درباره آن \"لحظه سوپر بول\" در وسط \"سکس نوجوانان و مرگ در کمپ میاسما\""
       },
       "excerpt": {
         "en": "Writer and director Jane Schoenbrun tells IndieWire about the hours of prep (and Counting Crows) that went into the slasher sequence in the middle of their latest film.",
@@ -333,8 +333,32 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/features/craft/jane-schoenbrun-teenage-sex-and-death-at-camp-miasma-1235210237/",
-      "date": "2026-08-15T18:15:28.243142+00:00",
+      "date": "2026-08-15T19:15:19.914340+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/MCDTESE_K3011.jpg?w=650",
+      "important": false,
+      "score": 0
+    },
+    {
+      "id": "c980017fe7a1",
+      "title": {
+        "en": "‘Zootopia 3’ in the Works at Disney",
+        "fa": "\"Zootopia 3\" در دیزنی در حال ساخت است"
+      },
+      "excerpt": {
+        "en": "Judy and Nick will return after \"Zootopia 2\" became the highest grossing animated film in Hollywood history The post ‘Zootopia 3’ in the Works at Disney appeared first on TheWrap .",
+        "fa": "جودی و نیک پس از تبدیل شدن «زوتوپیا ۲» به پرفروش‌ترین انیمیشن تاریخ هالیوود باز خواهند گشت."
+      },
+      "content": {
+        "en": "Judy and Nick will return after \"Zootopia 2\" became the highest grossing animated film in Hollywood history The post ‘Zootopia 3’ in the Works at Disney appeared first on TheWrap .",
+        "fa": "جودی و نیک پس از تبدیل شدن «زوتوپیا ۲» به پرفروش‌ترین انیمیشن تاریخ هالیوود باز خواهند گشت."
+      },
+      "source": {
+        "en": "The Wrap",
+        "fa": "The Wrap"
+      },
+      "link": "https://www.thewrap.com/creative-content/movies/zootopia-3-disney/",
+      "date": "2026-08-15T19:15:19.913419+00:00",
+      "image": "https://www.thewrap.com/wp-content/uploads/2026/01/ZOOTOPIA-2-5.jpg",
       "important": false,
       "score": 0
     },
@@ -357,7 +381,7 @@
         "fa": "The Wrap"
       },
       "link": "https://www.thewrap.com/creative-content/movies/kristen-stewart-recalls-twilight-cast-crew-titanic-moment-brazil-storm/",
-      "date": "2026-08-15T18:15:28.242070+00:00",
+      "date": "2026-08-15T19:15:19.913256+00:00",
       "image": "https://www.thewrap.com/wp-content/uploads/2026/08/Untitled-design-2026-08-14T210947.781.jpg",
       "important": false,
       "score": 0
@@ -381,32 +405,8 @@
         "fa": "The Wrap"
       },
       "link": "https://www.thewrap.com/creative-content/movies/hexed-adds-jodie-foster-walton-goggins-disney-animation/",
-      "date": "2026-08-15T18:15:28.241697+00:00",
+      "date": "2026-08-15T19:15:19.912895+00:00",
       "image": "https://www.thewrap.com/wp-content/uploads/2026/08/Hexed-1.jpg",
-      "important": false,
-      "score": 0
-    },
-    {
-      "id": "282631e653a6",
-      "title": {
-        "en": "BFI Boss Ben Roberts, Picturehouse’s Clare Binns on Gen Z’s Cinema Renaissance, AI Slop and British Indie Film: “We’re Not Great at Comedy”",
-        "fa": "بن رابرتز رئیس BFI، کلر بینز از پیکچرهاوس در فیلم رنسانس سینمای ژنرال Z، AI Slop و فیلم مستقل بریتانیا: \"ما در کمدی عالی نیستیم\""
-      },
-      "excerpt": {
-        "en": "The pair spoke at Edinburgh Film Festival's keynote industry session on Saturday, lauding the work of 'Obsession,' 'The Odyssey,' and pondering the challenges that lie ahead for the U.K.'s independent film sector.",
-        "fa": "این زوج در جلسه اصلی صنعت جشنواره فیلم ادینبورگ در روز شنبه صحبت کردند و از کار «وسواس»، «اودیسه» تمجید کردند و در مورد چالش‌های پیش روی بخش فیلم مستقل بریتانیا فکر کردند."
-      },
-      "content": {
-        "en": "The pair spoke at Edinburgh Film Festival's keynote industry session on Saturday, lauding the work of 'Obsession,' 'The Odyssey,' and pondering the challenges that lie ahead for the U.K.'s independent film sector.",
-        "fa": "این زوج در جلسه اصلی صنعت جشنواره فیلم ادینبورگ در روز شنبه صحبت کردند و از کار «وسواس»، «اودیسه» تمجید کردند و در مورد چالش‌های پیش روی بخش فیلم مستقل بریتانیا فکر کردند."
-      },
-      "source": {
-        "en": "The Hollywood Reporter",
-        "fa": "The Hollywood Reporter"
-      },
-      "link": "https://www.hollywoodreporter.com/movies/movie-news/bfi-ben-roberts-clare-binns-edinburgh-film-obession-odyssey-1236674318/",
-      "date": "2026-08-15T18:15:28.240095+00:00",
-      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/FotoJet-2026-08-15T114410.422.jpg?w=1440&#038;h=810&#038;crop=1",
       "important": false,
       "score": 0
     },
@@ -429,32 +429,32 @@
         "fa": "The Hollywood Reporter"
       },
       "link": "https://www.hollywoodreporter.com/movies/movie-features/george-mackay-rosy-mcewen-mission-paul-wright-edinburgh-1236670925/",
-      "date": "2026-08-15T18:15:28.239084+00:00",
+      "date": "2026-08-15T19:15:19.911004+00:00",
       "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/FotoJet-2026-08-11T163112.153.jpg?w=1440&#038;h=810&#038;crop=1",
       "important": false,
       "score": 0
     },
     {
-      "id": "500510d6b10e",
+      "id": "daafb955bd35",
       "title": {
-        "en": "‘A Chocolate Christmas,’ a Brazilian Holiday Romantic Drama, Set to Shoot in Gramado and New York From December",
-        "fa": "«یک کریسمس شکلاتی»، یک درام رمانتیک تعطیلات برزیلی، که از دسامبر در گرامادو و نیویورک فیلمبرداری می‌شود"
+        "en": "Florin Şerban’s ‘You Don’t Belong Here’ Wins Golden Leopard at Locarno, as Monica Bellucci and Kim Minhee Take Acting Awards",
+        "fa": "«تو به اینجا تعلق نداری» فلورین شربان برنده پلنگ طلایی لوکارنو شد و مونیکا بلوچی و کیم مینه جوایز بازیگری را دریافت کردند."
       },
       "excerpt": {
-        "en": "GRAMADO, Brazil — Vet Brazilian helmer-producer Paulo Nascimento will lense “A Chocolate Christmas,” a Portuguese-language holiday-themed feature film in the mountain resort of Gramado, in southern Brazil, and New York City, he told Variety. The film will shoot over December and January. Nascimento is set announce the film project t his panel on Sunday at […]",
-        "fa": "گرامادو، برزیل - پائولو ناسیمنتو، تهیه‌کننده دامپزشک برزیلی، فیلم سینمایی «یک کریسمس شکلاتی»، یک فیلم سینمایی پرتغالی با موضوع تعطیلات را در تفرجگاه کوهستانی گرامادو، در جنوب برزیل و شهر نیویورک، به ورایتی گفت. فیلمبرداری این فیلم در ماه های دسامبر و ژانویه آغاز می شود. ناسیمنتو قرار است روز یکشنبه در پانل خود پروژه سینمایی را اعلام کند"
+        "en": "Romanian director Florin Şerban’s “You Don’t Belong Here,” a somber study of anti-Roma racism in the country, has taken the Golden Lion for best film in the International Competition at the Locarno Film Festival, along with a special mention for its young star Teodor Butănescu. The film emerged victorious in a lineup of 17 features […]",
+        "fa": "فلورین شربان، کارگردان رومانیایی «شما به اینجا تعلق ندارید»، که یک مطالعه غم انگیز درباره نژادپرستی ضد روم در این کشور است، شیر طلایی بهترین فیلم مسابقه بین المللی جشنواره فیلم لوکارنو را به همراه تئودور بوتانسکو، ستاره جوان آن، دریافت کرد. این فیلم در ترکیب 17 فیلم پیروز ظاهر شد"
       },
       "content": {
-        "en": "GRAMADO, Brazil — Vet Brazilian helmer-producer Paulo Nascimento will lense “A Chocolate Christmas,” a Portuguese-language holiday-themed feature film in the mountain resort of Gramado, in southern Brazil, and New York City, he told Variety. The film will shoot over December and January. Nascimento is set announce the film project t his panel on Sunday at […]",
-        "fa": "گرامادو، برزیل - پائولو ناسیمنتو، تهیه‌کننده دامپزشک برزیلی، فیلم سینمایی «یک کریسمس شکلاتی»، یک فیلم سینمایی پرتغالی با موضوع تعطیلات را در تفرجگاه کوهستانی گرامادو، در جنوب برزیل و شهر نیویورک، به ورایتی گفت. فیلمبرداری این فیلم در ماه های دسامبر و ژانویه آغاز می شود. ناسیمنتو قرار است روز یکشنبه در پانل خود پروژه سینمایی را اعلام کند"
+        "en": "Romanian director Florin Şerban’s “You Don’t Belong Here,” a somber study of anti-Roma racism in the country, has taken the Golden Lion for best film in the International Competition at the Locarno Film Festival, along with a special mention for its young star Teodor Butănescu. The film emerged victorious in a lineup of 17 features […]",
+        "fa": "فلورین شربان، کارگردان رومانیایی «شما به اینجا تعلق ندارید»، که یک مطالعه غم انگیز درباره نژادپرستی ضد روم در این کشور است، شیر طلایی بهترین فیلم مسابقه بین المللی جشنواره فیلم لوکارنو را به همراه تئودور بوتانسکو، ستاره جوان آن، دریافت کرد. این فیلم در ترکیب 17 فیلم پیروز ظاهر شد"
       },
       "source": {
         "en": "Variety",
         "fa": "Variety"
       },
-      "link": "https://variety.com/2026/film/global/paulo-nascimento-a-chocolate-christmas-gramado-new-york-1236835366/",
-      "date": "2026-08-15T18:15:28.238193+00:00",
-      "image": "https://variety.com/wp-content/uploads/2026/08/Paulo-Nascimento-Courtesy-Accorde-Filmes.jpg",
+      "link": "https://variety.com/2026/film/news/locarno-award-winners-monica-bellucci-kim-minhee-1236835378/",
+      "date": "2026-08-15T19:15:19.909601+00:00",
+      "image": "https://variety.com/wp-content/uploads/2026/08/Nu-e-locul-tau-aici-You-Dont-Belong-Here_2_Copyright-Fantascope-Films-1.jpg",
       "important": false,
       "score": 0
     },
@@ -477,7 +477,7 @@
         "fa": "Variety"
       },
       "link": "https://variety.com/2026/film/festivals/locarno-marco-cavazzin-mutrion-venice-leopards-of-tomorrow-1236834478/",
-      "date": "2026-08-15T18:15:28.236441+00:00",
+      "date": "2026-08-15T19:15:19.908336+00:00",
       "image": "https://variety.com/wp-content/uploads/2026/08/Mutrion.jpg",
       "important": false,
       "score": 0
@@ -489,44 +489,44 @@
         "fa": "دیو مارش، زندگی‌نامه‌نویس و منتقد راک بروس اسپرینگستین در ۷۶ سالگی درگذشت"
       },
       "excerpt": {
-        "en": "Dave Marsh, the film critic and biographer who documented the early days of Bruce Springsteen in his influential 1979 book “Born to Run,” died Friday in his Connecticut home. He was 76. Jim Rotolo, who hosts the Springsteen-fan cast “The Wild & The Innocent” on SiriusXM, confirmed Marsh’s death in a Facebook post on Saturday […]",
-        "fa": "دیو مارش، منتقد سینما و زندگی نامه نویسی که روزهای اولیه زندگی بروس اسپرینگستین را در کتاب تأثیرگذار خود در سال 1979 به نام «متولد برای فرار» ثبت کرد، روز جمعه در خانه خود در کنتیکت درگذشت. او 76 سال داشت. جیم روتولو، مجری بازیگران طرفداران اسپرینگستین «The Wild & The Innocent» در SiriusXM، روز شنبه در یک پست فیس بوک مرگ مارش را تایید کرد."
+        "en": "Dave Marsh, the music critic and biographer who documented the early days of Bruce Springsteen in his influential 1979 book “Born to Run,” died Friday in his Connecticut home. He was 76. Jim Rotolo, who hosts the Springsteen-fan cast “The Wild & The Innocent” on SiriusXM, confirmed Marsh’s death in a Facebook post on Saturday […]",
+        "fa": "دیو مارش، منتقد موسیقی و زندگی نامه نویسی که روزهای اولیه بروس اسپرینگستین را در کتاب تأثیرگذار خود «متولد برای دویدن» در سال 1979 ثبت کرد، روز جمعه در خانه خود در کنتیکت درگذشت. او 76 سال داشت. جیم روتولو، مجری بازیگران طرفداران اسپرینگستین «The Wild & The Innocent» در SiriusXM، روز شنبه در یک پست فیس بوک مرگ مارش را تایید کرد."
       },
       "content": {
-        "en": "Dave Marsh, the film critic and biographer who documented the early days of Bruce Springsteen in his influential 1979 book “Born to Run,” died Friday in his Connecticut home. He was 76. Jim Rotolo, who hosts the Springsteen-fan cast “The Wild & The Innocent” on SiriusXM, confirmed Marsh’s death in a Facebook post on Saturday […]",
-        "fa": "دیو مارش، منتقد سینما و زندگی نامه نویسی که روزهای اولیه زندگی بروس اسپرینگستین را در کتاب تأثیرگذار خود در سال 1979 به نام «متولد برای فرار» ثبت کرد، روز جمعه در خانه خود در کنتیکت درگذشت. او 76 سال داشت. جیم روتولو، مجری بازیگران طرفداران اسپرینگستین «The Wild & The Innocent» در SiriusXM، روز شنبه در یک پست فیس بوک مرگ مارش را تایید کرد."
+        "en": "Dave Marsh, the music critic and biographer who documented the early days of Bruce Springsteen in his influential 1979 book “Born to Run,” died Friday in his Connecticut home. He was 76. Jim Rotolo, who hosts the Springsteen-fan cast “The Wild & The Innocent” on SiriusXM, confirmed Marsh’s death in a Facebook post on Saturday […]",
+        "fa": "دیو مارش، منتقد موسیقی و زندگی نامه نویسی که روزهای اولیه بروس اسپرینگستین را در کتاب تأثیرگذار خود «متولد برای دویدن» در سال 1979 ثبت کرد، روز جمعه در خانه خود در کنتیکت درگذشت. او 76 سال داشت. جیم روتولو، مجری بازیگران طرفداران اسپرینگستین «The Wild & The Innocent» در SiriusXM، روز شنبه در یک پست فیس بوک مرگ مارش را تایید کرد."
       },
       "source": {
         "en": "Variety",
         "fa": "Variety"
       },
       "link": "https://variety.com/2026/music/news/dave-marsh-dead-bruce-springsteen-born-to-run-1236835488/",
-      "date": "2026-08-15T18:15:28.235696+00:00",
+      "date": "2026-08-15T19:15:19.907590+00:00",
       "image": "https://variety.com/wp-content/uploads/2026/08/MixCollage-15-Aug-2026-10-47-AM-6065.jpg",
       "important": false,
       "score": 0
     },
     {
-      "id": "a03d9f92baff",
+      "id": "287bde7fa01e",
       "title": {
-        "en": "‘Zootopia 3’ In Works At Disney; Ke Huy Quan & Ginnifer Goodwin Reprising Roles – D23",
-        "fa": "«Zootopia 3» در حال کار در دیزنی؛ Ke Huy Quan و Ginnifer Goodwin Reprising Roles – D23"
+        "en": "UFC 330 Livestream: Here’s Where to Watch the Makhachev vs. Machado Garry Online for Free",
+        "fa": "پخش زنده UFC 330: اینجا جایی است که ماخاچف در مقابل ماچادو گری آنلاین را به صورت رایگان تماشا کنید"
       },
       "excerpt": {
-        "en": "Following the massive success of the sequel, Disney is moving forward with Zootopia 3. The news of the next film was revealed at Disney’s D23 event in Anaheim, with Ke Huy Quan joining Ginnifer Goodwin onstage to announce the new installment, which will focus on birds. Last year’s Zootopia 2 became the highest-grossing Hollywood animated […]",
-        "fa": "پس از موفقیت عظیم دنباله، دیزنی با Zootopia 3 رو به جلو است. اخبار فیلم بعدی در رویداد D23 دیزنی در آناهیم فاش شد و Ke Huy Quan به جینیفر گودوین روی صحنه می‌پیوندد تا قسمت جدید را معرفی کند که بر روی پرندگان تمرکز دارد. انیمیشن Zootopia 2 سال گذشته پردرآمدترین انیمیشن هالیوود شد"
+        "en": "After Max Holloway defeated Conor McGregor in a TKO in less than 70 second during UFC 329 in July, the Ultimate Fighting Championship travels from Las Vegas to Philadelphia for UFC 330. For the main event, Russian Islam Makhachev (28-1-0) defends his welterweight title belt against Irish fighter Ian Machado Garry (17-1-0) in a marquee […]",
+        "fa": "پس از اینکه مکس هالووی در مسابقات UFC 329 در ماه جولای، کانر مک گرگور را در کمتر از 70 ثانیه شکست داد، مسابقات قهرمانی نهایی مبارزه از لاس وگاس به فیلادلفیا برای UFC 330 سفر می کند. برای رویداد اصلی، اسلام ماخاچف روسی از کمربند قهرمانی خود در وزن سبک وزن در برابر جنگنده ایرلندی، ایان ماچادو گاری دفاع می کند."
       },
       "content": {
-        "en": "Following the massive success of the sequel, Disney is moving forward with Zootopia 3. The news of the next film was revealed at Disney’s D23 event in Anaheim, with Ke Huy Quan joining Ginnifer Goodwin onstage to announce the new installment, which will focus on birds. Last year’s Zootopia 2 became the highest-grossing Hollywood animated […]",
-        "fa": "پس از موفقیت عظیم دنباله، دیزنی با Zootopia 3 رو به جلو است. اخبار فیلم بعدی در رویداد D23 دیزنی در آناهیم فاش شد و Ke Huy Quan به جینیفر گودوین روی صحنه می‌پیوندد تا قسمت جدید را معرفی کند که بر روی پرندگان تمرکز دارد. انیمیشن Zootopia 2 سال گذشته پردرآمدترین انیمیشن هالیوود شد"
+        "en": "After Max Holloway defeated Conor McGregor in a TKO in less than 70 second during UFC 329 in July, the Ultimate Fighting Championship travels from Las Vegas to Philadelphia for UFC 330. For the main event, Russian Islam Makhachev (28-1-0) defends his welterweight title belt against Irish fighter Ian Machado Garry (17-1-0) in a marquee […]",
+        "fa": "پس از اینکه مکس هالووی در مسابقات UFC 329 در ماه جولای، کانر مک گرگور را در کمتر از 70 ثانیه شکست داد، مسابقات قهرمانی نهایی مبارزه از لاس وگاس به فیلادلفیا برای UFC 330 سفر می کند. برای رویداد اصلی، اسلام ماخاچف روسی از کمربند قهرمانی خود در وزن سبک وزن در برابر جنگنده ایرلندی، ایان ماچادو گاری دفاع می کند."
       },
       "source": {
-        "en": "Deadline",
-        "fa": "Deadline"
+        "en": "Variety",
+        "fa": "Variety"
       },
-      "link": "https://deadline.com/2026/08/zootopia-3-d23-1237041333/",
-      "date": "2026-08-15T18:15:28.235540+00:00",
-      "image": "https://deadline.com/wp-content/uploads/2026/01/ZOOTOPIA-1.11.jpg",
+      "link": "https://variety.com/2026/shopping/news/how-to-watch-ufc-330-makhachev-vs-machado-garry-live-online-free-1236833641/",
+      "date": "2026-08-15T19:15:19.907433+00:00",
+      "image": "https://variety.com/wp-content/uploads/2026/08/UFC-Islam-Makhachev-Getty-VR-Featured.jpg",
       "important": false,
       "score": 0
     },
@@ -549,7 +549,7 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/bfi-ceo-ben-roberts-keynote-address-uk-film-conference-eiff-1237041496/",
-      "date": "2026-08-15T18:15:28.234499+00:00",
+      "date": "2026-08-15T19:15:19.905712+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/06/Ben-Roberts-BFI-CEO-e1781616847588.jpg",
       "important": false,
       "score": 0
