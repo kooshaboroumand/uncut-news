@@ -1,31 +1,7 @@
 {
-  "updated_at": "2026-08-15T14:13:20.041350+00:00",
+  "updated_at": "2026-08-15T15:11:51.348941+00:00",
   "count": 20,
   "news": [
-    {
-      "id": "c52d0435b76e",
-      "title": {
-        "en": "Ahsoka’ Season 2 Trailer: ‘Star Wars’ Series From Lucasfilm & Disney+ Returns After Nearly Three Years – D23",
-        "fa": "تریلر فصل دوم Ahsoka: سریال Star Wars از Lucasfilm و Disney+ پس از نزدیک به سه سال بازگشت - D23"
-      },
-      "excerpt": {
-        "en": "It’s been quite a while since viewers were immersed in the Disney+ Star Wars series Ahsoka, going on three years, actually. New episodes won’t arrive until 2027, but the first trailer premiered Friday at D23 in Anaheim. Check out the clip and new poster below, along with a first-look photo above. Season 2 continues the […]",
-        "fa": "مدت زیادی از غرق شدن بینندگان در سریال جنگ ستارگان دیزنی + Ahsoka می گذرد که در واقع سه سال طول می کشد. قسمت‌های جدید تا سال 2027 منتشر نمی‌شوند، اما اولین تریلر روز جمعه در D23 در Anaheim به نمایش درآمد. کلیپ و پوستر جدید را در زیر به همراه یک عکس نگاه اول در بالا ببینید. فصل 2 ادامه دارد"
-      },
-      "content": {
-        "en": "It’s been quite a while since viewers were immersed in the Disney+ Star Wars series Ahsoka, going on three years, actually. New episodes won’t arrive until 2027, but the first trailer premiered Friday at D23 in Anaheim. Check out the clip and new poster below, along with a first-look photo above. Season 2 continues the […]",
-        "fa": "مدت زیادی از غرق شدن بینندگان در سریال جنگ ستارگان دیزنی + Ahsoka می گذرد که در واقع سه سال طول می کشد. قسمت‌های جدید تا سال 2027 منتشر نمی‌شوند، اما اولین تریلر روز جمعه در D23 در Anaheim به نمایش درآمد. کلیپ و پوستر جدید را در زیر به همراه یک عکس نگاه اول در بالا ببینید. فصل 2 ادامه دارد"
-      },
-      "source": {
-        "en": "Deadline",
-        "fa": "Deadline"
-      },
-      "link": "https://deadline.com/2026/08/ahsoka-season-2-trailer-star-wars-d23-1237040986/",
-      "date": "2026-08-15T14:13:19.878450+00:00",
-      "image": "https://deadline.com/wp-content/uploads/2026/08/Ahsoka-Season-2.jpg",
-      "important": true,
-      "score": 10
-    },
     {
       "id": "00a13ef3b172",
       "title": {
@@ -45,7 +21,7 @@
         "fa": "The Hollywood Reporter"
       },
       "link": "https://www.hollywoodreporter.com/tv/tv-news/lebron-james-starts-youtube-golf-channel-exclusive-trailer-1236673598/",
-      "date": "2026-08-15T14:13:19.880799+00:00",
+      "date": "2026-08-15T15:11:51.195222+00:00",
       "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/Lebron-Golfing-in-Scotland-Main-2026.jpg?w=1296&#038;h=730&#038;crop=1",
       "important": true,
       "score": 7
@@ -69,7 +45,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/news/breaking-news/film-independent-biggest-grant-history-juan-devis-1235210522/",
-      "date": "2026-08-15T14:13:19.883639+00:00",
+      "date": "2026-08-15T15:11:51.198244+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/Juan_Devis_2304sm-photo.jpeg?w=650",
       "important": false,
       "score": 3
@@ -93,7 +69,7 @@
         "fa": "The Hollywood Reporter"
       },
       "link": "https://www.hollywoodreporter.com/movies/movie-features/lindsey-ryan-capsized-edinburgh-rhys-ifans-lily-rabe-film-1236670841/",
-      "date": "2026-08-15T14:13:19.881175+00:00",
+      "date": "2026-08-15T15:11:51.195618+00:00",
       "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/FotoJet-2026-08-12T125839.497.jpg?w=1440&#038;h=810&#038;crop=1",
       "important": false,
       "score": 3
@@ -117,7 +93,7 @@
         "fa": "Variety"
       },
       "link": "https://variety.com/2026/film/news/frozen-3-first-details-anna-kristoff-married-olaf-love-1236822955/",
-      "date": "2026-08-15T14:13:19.880407+00:00",
+      "date": "2026-08-15T15:11:51.194755+00:00",
       "image": "https://variety.com/wp-content/uploads/2026/07/IMG_9699.jpg",
       "important": false,
       "score": 3
@@ -141,7 +117,7 @@
         "fa": "Variety"
       },
       "link": "https://variety.com/2026/film/reviews/nowhere-to-lay-my-eyes-review-1236835338/",
-      "date": "2026-08-15T14:13:19.879333+00:00",
+      "date": "2026-08-15T15:11:51.193582+00:00",
       "image": "https://variety.com/wp-content/uploads/2026/07/Nowhere-to-Lay-My-Eyes.jpg",
       "important": false,
       "score": 3
@@ -165,7 +141,7 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/greatest-showman-musical-west-end-opening-date-1237041487/",
-      "date": "2026-08-15T14:13:19.877403+00:00",
+      "date": "2026-08-15T15:11:51.191843+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/The-Greatest-Showman-Oliver-Tompsett-Samantha-Barks-Photo-by-Sebastian-Nevols.jpg",
       "important": false,
       "score": 3
@@ -189,7 +165,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/features/podcast/screen-talk-podcast-tiff-ceo-cameron-bailey-toronto-2026-1235210516/",
-      "date": "2026-08-15T14:13:19.883770+00:00",
+      "date": "2026-08-15T15:11:51.198386+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/P115U4AG.jpg?w=650",
       "important": false,
       "score": 1
@@ -213,32 +189,8 @@
         "fa": "Variety"
       },
       "link": "https://variety.com/2026/film/news/x-men-release-date-marvel-reboot-1236816959/",
-      "date": "2026-08-15T14:13:19.880518+00:00",
+      "date": "2026-08-15T15:11:51.194910+00:00",
       "image": "https://variety.com/wp-content/uploads/2026/08/GettyImages-2290539901.jpg",
-      "important": false,
-      "score": 1
-    },
-    {
-      "id": "2a6166c130ba",
-      "title": {
-        "en": "‘Spider-Man: Brand New Day’ Has Super $65M Third Weekend; ‘The Odyssey’ Sailing Past Half Billion – Saturday AM Box Office Update",
-        "fa": "«Spider-Man: Brand New Day» سومین آخر هفته 65 میلیون دلاری دارد. «اودیسه» دریانوردی از نیم میلیارد گذشته - به‌روزرسانی باکس آفیس شنبه صبح"
-      },
-      "excerpt": {
-        "en": "SATURDAY VERY EARLY AM: Spider-Man: Brand New Day has banked a near $19M Friday for what’s shaping up to be a third weekend around $65M, -55%, which takes its running cume to $780.8M. The Destin Daniel Cretton directed movie is booked at 4,539 theaters. Among the best third weekends ever at the domestic B.O, Brand […]",
-        "fa": "شنبه خیلی زود صبح: Spider-Man: Brand New Day یک جمعه نزدیک به 19 میلیون دلار را برای سومین آخر هفته حدود 65 میلیون دلار، -55 درصد، رقم زده است که به 780.8 میلیون دلار می رسد. این فیلم به کارگردانی Destin Daniel Cretton در 4539 سالن سینما رزرو شده است. در میان بهترین آخر هفته های سوم تا کنون در B.O داخلی، برند"
-      },
-      "content": {
-        "en": "SATURDAY VERY EARLY AM: Spider-Man: Brand New Day has banked a near $19M Friday for what’s shaping up to be a third weekend around $65M, -55%, which takes its running cume to $780.8M. The Destin Daniel Cretton directed movie is booked at 4,539 theaters. Among the best third weekends ever at the domestic B.O, Brand […]",
-        "fa": "شنبه خیلی زود صبح: Spider-Man: Brand New Day یک جمعه نزدیک به 19 میلیون دلار را برای سومین آخر هفته حدود 65 میلیون دلار، -55 درصد، رقم زده است که به 780.8 میلیون دلار می رسد. این فیلم به کارگردانی Destin Daniel Cretton در 4539 سالن سینما رزرو شده است. در میان بهترین آخر هفته های سوم تا کنون در B.O داخلی، برند"
-      },
-      "source": {
-        "en": "Deadline",
-        "fa": "Deadline"
-      },
-      "link": "https://deadline.com/2026/08/box-office-spider-man-the-end-of-oak-street-1237033458/",
-      "date": "2026-08-15T14:13:19.877591+00:00",
-      "image": "https://deadline.com/wp-content/uploads/2026/08/MCDSPMA_SP148_c26a9e.jpg",
       "important": false,
       "score": 1
     },
@@ -261,7 +213,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/criticism/movies/american-doctor-documentary-review-gaza-1235210500/",
-      "date": "2026-08-15T14:13:19.884340+00:00",
+      "date": "2026-08-15T15:11:51.198991+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/ivfj95enlAmerican_Doctor-Still_1.webp?w=650",
       "important": false,
       "score": 0
@@ -285,7 +237,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/news/business/dga-iatse-conditions-paramount-settlement-realistic-1235210398/",
-      "date": "2026-08-15T14:13:19.884124+00:00",
+      "date": "2026-08-15T15:11:51.198740+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/P10XLNE.jpg?w=650",
       "important": false,
       "score": 0
@@ -294,7 +246,7 @@
       "id": "0d8bf60aee15",
       "title": {
         "en": "‘Abbott Elementary’ Is Always in the Right Ballpark — Literally So, for One Very Special Episode",
-        "fa": "‘Abbott Elementary’ Is Always in the Right Ballpark — Literally So, for One Very Special Episode"
+        "fa": "Abbott Elementary همیشه در بال پارک مناسب است - به معنای واقعی کلمه، برای یک قسمت بسیار ویژه"
       },
       "excerpt": {
         "en": "Director Randall Einhorn tells IndieWire about taking the show out to a ballgame and the happy accidents that make the series so special.",
@@ -309,7 +261,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/features/interviews/abbott-elementary-director-randall-einhorn-phillies-game-1235210238/",
-      "date": "2026-08-15T14:13:19.883469+00:00",
+      "date": "2026-08-15T15:11:51.198064+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/178757_1142.jpg?w=650",
       "important": false,
       "score": 0
@@ -333,7 +285,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/features/craft/jane-schoenbrun-teenage-sex-and-death-at-camp-miasma-1235210237/",
-      "date": "2026-08-15T14:13:19.883263+00:00",
+      "date": "2026-08-15T15:11:51.197843+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/MCDTESE_K3011.jpg?w=650",
       "important": false,
       "score": 0
@@ -357,8 +309,32 @@
         "fa": "The Hollywood Reporter"
       },
       "link": "https://www.hollywoodreporter.com/movies/movie-news/bfi-ben-roberts-clare-binns-edinburgh-film-obession-odyssey-1236674318/",
-      "date": "2026-08-15T14:13:19.881624+00:00",
+      "date": "2026-08-15T15:11:51.196121+00:00",
       "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/FotoJet-2026-08-15T114410.422.jpg?w=1440&#038;h=810&#038;crop=1",
+      "important": false,
+      "score": 0
+    },
+    {
+      "id": "b6c2106ca623",
+      "title": {
+        "en": "‘Star Wars: Starfighter’ Footage: Ryan Gosling Races Through the Galaxy With Young Sidekick",
+        "fa": "فیلم \"جنگ ستارگان: جنگنده ستارگان\": رایان گاسلینگ در کهکشان با سایدکیک جوان مسابقه می دهد"
+      },
+      "excerpt": {
+        "en": "Ryan Gosling already survived going to space in “Project Hail Mary,” but now he’s ready to blast off to a galaxy far, far away in “Star Wars: Starfighter.” The upcoming “Star Wars” movie previewed footage at D23 and is set to release in theaters on May 28, 2027. Disney and Lucasfilm have kept plot details […]",
+        "fa": "رایان گاسلینگ قبلاً از رفتن به فضا در «پروژه درود مری» جان سالم به در برده بود، اما اکنون او آماده است تا در «جنگ ستارگان: جنگنده ستارگان» به یک کهکشان دور و دراز منفجر شود. فیلم آینده \"جنگ ستارگان\" در D23 پیش‌نمایش فیلم را داشت و قرار است در تاریخ 28 می 2027 در سینماها اکران شود. دیزنی و لوکاس فیلم جزئیات داستان را حفظ کرده‌اند."
+      },
+      "content": {
+        "en": "Ryan Gosling already survived going to space in “Project Hail Mary,” but now he’s ready to blast off to a galaxy far, far away in “Star Wars: Starfighter.” The upcoming “Star Wars” movie previewed footage at D23 and is set to release in theaters on May 28, 2027. Disney and Lucasfilm have kept plot details […]",
+        "fa": "رایان گاسلینگ قبلاً از رفتن به فضا در «پروژه درود مری» جان سالم به در برده بود، اما اکنون او آماده است تا در «جنگ ستارگان: جنگنده ستارگان» به یک کهکشان دور و دراز منفجر شود. فیلم آینده \"جنگ ستارگان\" در D23 پیش‌نمایش فیلم را داشت و قرار است در تاریخ 28 می 2027 در سینماها اکران شود. دیزنی و لوکاس فیلم جزئیات داستان را حفظ کرده‌اند."
+      },
+      "source": {
+        "en": "Variety",
+        "fa": "Variety"
+      },
+      "link": "https://variety.com/2026/film/news/star-wars-starfighter-trailer-ryan-gosling-1236712809/",
+      "date": "2026-08-15T15:11:51.195116+00:00",
+      "image": "https://variety.com/wp-content/uploads/2026/08/GettyImages-2290539485.jpg",
       "important": false,
       "score": 0
     },
@@ -381,7 +357,7 @@
         "fa": "Variety"
       },
       "link": "https://variety.com/2026/film/global/ursa-menart-everything-thats-wrong-with-you-influencers-1236833609/",
-      "date": "2026-08-15T14:13:19.879939+00:00",
+      "date": "2026-08-15T15:11:51.194258+00:00",
       "image": "https://variety.com/wp-content/uploads/2026/08/VARIETY-SIZING-7.png",
       "important": false,
       "score": 0
@@ -394,7 +370,7 @@
       },
       "excerpt": {
         "en": "GRAMADO, Brazil — Vet Brazilian helmer-producer Paulo Nascimento will lense “A Chocolate Christmas,” a Portuguese-language holiday-themed feature film in the mountain resort of Gramado, in southern Brazil, and New York City, he told Variety. The film will shoot over December and January. Nascimento is set announce the film project t his panel on Sunday at […]",
-        "fa": "GRAMADO, Brazil — Vet Brazilian helmer-producer Paulo Nascimento will lense “A Chocolate Christmas,” a Portuguese-language holiday-themed feature film in the mountain resort of Gramado, in southern Brazil, and New York City, he told Variety. The film will shoot over December and January. Nascimento is set announce the film project t his panel on Sunday at […]"
+        "fa": "گرامادو، برزیل - پائولو ناسیمنتو، تهیه‌کننده دامپزشک برزیلی، فیلم سینمایی «یک کریسمس شکلاتی»، یک فیلم سینمایی پرتغالی با موضوع تعطیلات را در تفرجگاه کوهستانی گرامادو، در جنوب برزیل و شهر نیویورک، به ورایتی گفت. فیلمبرداری این فیلم در ماه های دسامبر و ژانویه آغاز می شود. ناسیمنتو قرار است روز یکشنبه در پانل خود پروژه سینمایی را اعلام کند"
       },
       "content": {
         "en": "GRAMADO, Brazil — Vet Brazilian helmer-producer Paulo Nascimento will lense “A Chocolate Christmas,” a Portuguese-language holiday-themed feature film in the mountain resort of Gramado, in southern Brazil, and New York City, he told Variety. The film will shoot over December and January. Nascimento is set announce the film project t his panel on Sunday at […]",
@@ -405,7 +381,7 @@
         "fa": "Variety"
       },
       "link": "https://variety.com/2026/film/global/paulo-nascimento-a-chocolate-christmas-gramado-new-york-1236835366/",
-      "date": "2026-08-15T14:13:19.879532+00:00",
+      "date": "2026-08-15T15:11:51.193816+00:00",
       "image": "https://variety.com/wp-content/uploads/2026/08/Paulo-Nascimento-Courtesy-Accorde-Filmes.jpg",
       "important": false,
       "score": 0
@@ -429,7 +405,7 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/kieran-culkin-cast-clay-walt-disney-animated-movie-1237041021/",
-      "date": "2026-08-15T14:13:19.878197+00:00",
+      "date": "2026-08-15T15:11:51.192475+00:00",
       "image": "https://deadline.com/wp-content/uploads/2025/05/GettyImages-2176273538.jpg",
       "important": false,
       "score": 0
@@ -453,7 +429,7 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/zootopia-3-d23-1237041333/",
-      "date": "2026-08-15T14:13:19.877811+00:00",
+      "date": "2026-08-15T15:11:51.192083+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/01/ZOOTOPIA-1.11.jpg",
       "important": false,
       "score": 0
@@ -477,8 +453,32 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/bfi-ceo-ben-roberts-keynote-address-uk-film-conference-eiff-1237041496/",
-      "date": "2026-08-15T14:13:19.876600+00:00",
+      "date": "2026-08-15T15:11:51.191034+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/06/Ben-Roberts-BFI-CEO-e1781616847588.jpg",
+      "important": false,
+      "score": 0
+    },
+    {
+      "id": "81021efbaa7a",
+      "title": {
+        "en": "‘Spider-Man: Brand New Day’ Production Designer On Yelena’s Bathhouse, Peter Parker’s Sad Pad & The Challenge Of Building New York In The U.K.",
+        "fa": "طراح تولید «مرد عنکبوتی: روز کاملاً جدید» در حمام یلنا، پد غمگین پیتر پارکر و چالش ساختن نیویورک در بریتانیا."
+      },
+      "excerpt": {
+        "en": "For a movie about a superhero who can literally climb walls, Spider-Man: Brand New Day is seemingly interested in what happens when Peter Parker (Tom Holland) puts them up himself. Still reeling from the loss of the people closest to him, Peter has convinced himself that being alone is the price of being Spider-Man, and […]",
+        "fa": "برای فیلمی در مورد ابرقهرمانی که به معنای واقعی کلمه می تواند از دیوارها بالا برود، Spider-Man: Brand New Day ظاهراً علاقه مند است که وقتی پیتر پارکر خودش آنها را قرار می دهد چه اتفاقی می افتد. پیتر که هنوز از دست دادن نزدیک‌ترین افراد به خود متزلزل است، خود را متقاعد کرده است که تنها بودن بهای مرد عنکبوتی بودن است."
+      },
+      "content": {
+        "en": "For a movie about a superhero who can literally climb walls, Spider-Man: Brand New Day is seemingly interested in what happens when Peter Parker (Tom Holland) puts them up himself. Still reeling from the loss of the people closest to him, Peter has convinced himself that being alone is the price of being Spider-Man, and […]",
+        "fa": "برای فیلمی در مورد ابرقهرمانی که به معنای واقعی کلمه می تواند از دیوارها بالا برود، Spider-Man: Brand New Day ظاهراً علاقه مند است که وقتی پیتر پارکر خودش آنها را قرار می دهد چه اتفاقی می افتد. پیتر که هنوز از دست دادن نزدیک‌ترین افراد به خود متزلزل است، خود را متقاعد کرده است که تنها بودن بهای مرد عنکبوتی بودن است."
+      },
+      "source": {
+        "en": "Deadline",
+        "fa": "Deadline"
+      },
+      "link": "https://deadline.com/2026/08/spider-man-brand-new-day-production-designer-interview-1237040773/",
+      "date": "2026-08-15T15:11:51.189678+00:00",
+      "image": "https://deadline.com/wp-content/uploads/2026/08/IMG_2670.jpeg",
       "important": false,
       "score": 0
     }
