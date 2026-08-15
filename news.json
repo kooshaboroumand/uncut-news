@@ -1,7 +1,55 @@
 {
-  "updated_at": "2026-08-15T13:23:27.103933+00:00",
-  "count": 18,
+  "updated_at": "2026-08-15T14:13:20.041350+00:00",
+  "count": 20,
   "news": [
+    {
+      "id": "c52d0435b76e",
+      "title": {
+        "en": "Ahsoka’ Season 2 Trailer: ‘Star Wars’ Series From Lucasfilm & Disney+ Returns After Nearly Three Years – D23",
+        "fa": "تریلر فصل دوم Ahsoka: سریال Star Wars از Lucasfilm و Disney+ پس از نزدیک به سه سال بازگشت - D23"
+      },
+      "excerpt": {
+        "en": "It’s been quite a while since viewers were immersed in the Disney+ Star Wars series Ahsoka, going on three years, actually. New episodes won’t arrive until 2027, but the first trailer premiered Friday at D23 in Anaheim. Check out the clip and new poster below, along with a first-look photo above. Season 2 continues the […]",
+        "fa": "مدت زیادی از غرق شدن بینندگان در سریال جنگ ستارگان دیزنی + Ahsoka می گذرد که در واقع سه سال طول می کشد. قسمت‌های جدید تا سال 2027 منتشر نمی‌شوند، اما اولین تریلر روز جمعه در D23 در Anaheim به نمایش درآمد. کلیپ و پوستر جدید را در زیر به همراه یک عکس نگاه اول در بالا ببینید. فصل 2 ادامه دارد"
+      },
+      "content": {
+        "en": "It’s been quite a while since viewers were immersed in the Disney+ Star Wars series Ahsoka, going on three years, actually. New episodes won’t arrive until 2027, but the first trailer premiered Friday at D23 in Anaheim. Check out the clip and new poster below, along with a first-look photo above. Season 2 continues the […]",
+        "fa": "مدت زیادی از غرق شدن بینندگان در سریال جنگ ستارگان دیزنی + Ahsoka می گذرد که در واقع سه سال طول می کشد. قسمت‌های جدید تا سال 2027 منتشر نمی‌شوند، اما اولین تریلر روز جمعه در D23 در Anaheim به نمایش درآمد. کلیپ و پوستر جدید را در زیر به همراه یک عکس نگاه اول در بالا ببینید. فصل 2 ادامه دارد"
+      },
+      "source": {
+        "en": "Deadline",
+        "fa": "Deadline"
+      },
+      "link": "https://deadline.com/2026/08/ahsoka-season-2-trailer-star-wars-d23-1237040986/",
+      "date": "2026-08-15T14:13:19.878450+00:00",
+      "image": "https://deadline.com/wp-content/uploads/2026/08/Ahsoka-Season-2.jpg",
+      "important": true,
+      "score": 10
+    },
+    {
+      "id": "00a13ef3b172",
+      "title": {
+        "en": "LeBron James Launches YouTube Golf Channel — Watch the First Episode’s Trailer (Exclusive)",
+        "fa": "لبرون جیمز کانال گلف یوتیوب را راه اندازی کرد — تریلر قسمت اول را تماشا کنید"
+      },
+      "excerpt": {
+        "en": "Saturday's premiere chronicles that semi-infamous Scotland golf trip for the 2016 NBA champion Cleveland Cavaliers (minus Kyrie Irving).",
+        "fa": "اولین نمایش روز شنبه ماجرای سفر نیمه بدنام گلف اسکاتلند برای کلیولند کاوالیرز قهرمان NBA در سال 2016 است."
+      },
+      "content": {
+        "en": "Saturday's premiere chronicles that semi-infamous Scotland golf trip for the 2016 NBA champion Cleveland Cavaliers (minus Kyrie Irving).",
+        "fa": "اولین نمایش روز شنبه ماجرای سفر نیمه بدنام گلف اسکاتلند برای کلیولند کاوالیرز قهرمان NBA در سال 2016 است."
+      },
+      "source": {
+        "en": "The Hollywood Reporter",
+        "fa": "The Hollywood Reporter"
+      },
+      "link": "https://www.hollywoodreporter.com/tv/tv-news/lebron-james-starts-youtube-golf-channel-exclusive-trailer-1236673598/",
+      "date": "2026-08-15T14:13:19.880799+00:00",
+      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/Lebron-Golfing-in-Scotland-Main-2026.jpg?w=1296&#038;h=730&#038;crop=1",
+      "important": true,
+      "score": 7
+    },
     {
       "id": "d97f2f1cf7d4",
       "title": {
@@ -21,8 +69,32 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/news/breaking-news/film-independent-biggest-grant-history-juan-devis-1235210522/",
-      "date": "2026-08-15T13:23:26.987889+00:00",
+      "date": "2026-08-15T14:13:19.883639+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/Juan_Devis_2304sm-photo.jpeg?w=650",
+      "important": false,
+      "score": 3
+    },
+    {
+      "id": "d657311e0caf",
+      "title": {
+        "en": "“I’ve Disobeyed the Film God Laws”: Lindsey Ryan on Shooting Her Debut Feature at Sea, With Kids, a Boat and a Hamster",
+        "fa": "«من قوانین خدای فیلم را رعایت نکردم»: لیندسی رایان در فیلمبرداری اولین فیلم خود در دریا، با بچه ها، قایق و همستر"
+      },
+      "excerpt": {
+        "en": "THR can unveil exclusive stills from the Rhys Ifans and Lily Rabe-starrer, set to make waves in competition at Edinburgh Film Festival.",
+        "fa": "THR می‌تواند عکس‌های انحصاری رایس ایفانس و لیلی راب بازیگر را که قرار است در جشنواره فیلم ادینبورگ موجی از رقابت را ایجاد کند، رونمایی کند."
+      },
+      "content": {
+        "en": "THR can unveil exclusive stills from the Rhys Ifans and Lily Rabe-starrer, set to make waves in competition at Edinburgh Film Festival.",
+        "fa": "THR می‌تواند عکس‌های انحصاری رایس ایفانس و لیلی راب بازیگر را که قرار است در جشنواره فیلم ادینبورگ موجی از رقابت را ایجاد کند، رونمایی کند."
+      },
+      "source": {
+        "en": "The Hollywood Reporter",
+        "fa": "The Hollywood Reporter"
+      },
+      "link": "https://www.hollywoodreporter.com/movies/movie-features/lindsey-ryan-capsized-edinburgh-rhys-ifans-lily-rabe-film-1236670841/",
+      "date": "2026-08-15T14:13:19.881175+00:00",
+      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/FotoJet-2026-08-12T125839.497.jpg?w=1440&#038;h=810&#038;crop=1",
       "important": false,
       "score": 3
     },
@@ -45,7 +117,7 @@
         "fa": "Variety"
       },
       "link": "https://variety.com/2026/film/news/frozen-3-first-details-anna-kristoff-married-olaf-love-1236822955/",
-      "date": "2026-08-15T13:23:26.984988+00:00",
+      "date": "2026-08-15T14:13:19.880407+00:00",
       "image": "https://variety.com/wp-content/uploads/2026/07/IMG_9699.jpg",
       "important": false,
       "score": 3
@@ -69,7 +141,7 @@
         "fa": "Variety"
       },
       "link": "https://variety.com/2026/film/reviews/nowhere-to-lay-my-eyes-review-1236835338/",
-      "date": "2026-08-15T13:23:26.984072+00:00",
+      "date": "2026-08-15T14:13:19.879333+00:00",
       "image": "https://variety.com/wp-content/uploads/2026/07/Nowhere-to-Lay-My-Eyes.jpg",
       "important": false,
       "score": 3
@@ -93,34 +165,10 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/greatest-showman-musical-west-end-opening-date-1237041487/",
-      "date": "2026-08-15T13:23:26.982811+00:00",
+      "date": "2026-08-15T14:13:19.877403+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/The-Greatest-Showman-Oliver-Tompsett-Samantha-Barks-Photo-by-Sebastian-Nevols.jpg",
       "important": false,
       "score": 3
-    },
-    {
-      "id": "3af00ccfbddc",
-      "title": {
-        "en": "‘X-Men’ Adds Christopher Abbott, Adam Driver, Inde Navarette & Maya Boyd; Marvel Studios Pic Set for May 2028 – D23",
-        "fa": "«X-Men» کریستوفر ابوت، آدام درایور، ایند ناوارت و مایا بوید را اضافه می کند. مجموعه عکس استودیو مارول برای می 2028 – D23"
-      },
-      "excerpt": {
-        "en": "Christopher Abbott has been tapped to play Charles Xavier aka Professor X in Marvel Studios’ X-Men movie. Also joining the film’s are Adam Driver, Obsession breakout Inde Navarette and Maya Boyd. The castings and a release date of May 5, 2028, were unveiled Friday at Disney’s D23 event in Anaheim. Driver beamed in to announce […]",
-        "fa": "کریستوفر ابوت برای ایفای نقش چارلز خاویر با نام مستعار پروفسور ایکس در فیلم مردان ایکس استودیو مارول انتخاب شده است. همچنین Adam Driver، Obsession breakout Inde Navarette و Maya Boyd به این فیلم می‌پیوندند. بازیگران و تاریخ اکران آن 5 می 2028، جمعه در رویداد D23 دیزنی در آناهیم رونمایی شد. راننده تماس گرفت تا اعلام کند"
-      },
-      "content": {
-        "en": "Christopher Abbott has been tapped to play Charles Xavier aka Professor X in Marvel Studios’ X-Men movie. Also joining the film’s are Adam Driver, Obsession breakout Inde Navarette and Maya Boyd. The castings and a release date of May 5, 2028, were unveiled Friday at Disney’s D23 event in Anaheim. Driver beamed in to announce […]",
-        "fa": "کریستوفر ابوت برای ایفای نقش چارلز خاویر با نام مستعار پروفسور ایکس در فیلم مردان ایکس استودیو مارول انتخاب شده است. همچنین Adam Driver، Obsession breakout Inde Navarette و Maya Boyd به این فیلم می‌پیوندند. بازیگران و تاریخ اکران آن 5 می 2028، جمعه در رویداد D23 دیزنی در آناهیم رونمایی شد. راننده تماس گرفت تا اعلام کند"
-      },
-      "source": {
-        "en": "Deadline",
-        "fa": "Deadline"
-      },
-      "link": "https://deadline.com/2026/08/x-men-christopher-abbott-adam-driver-1237012957/",
-      "date": "2026-08-15T13:23:26.983980+00:00",
-      "image": "https://deadline.com/wp-content/uploads/2026/08/Maya-Boyd-Adam-Driver-Inde-Navarrette-Christopher-Abbott-4-shot.jpg",
-      "important": false,
-      "score": 2
     },
     {
       "id": "3553f7437c16",
@@ -141,32 +189,32 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/features/podcast/screen-talk-podcast-tiff-ceo-cameron-bailey-toronto-2026-1235210516/",
-      "date": "2026-08-15T13:23:26.987991+00:00",
+      "date": "2026-08-15T14:13:19.883770+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/P115U4AG.jpg?w=650",
       "important": false,
       "score": 1
     },
     {
-      "id": "a7a5b62912f2",
+      "id": "3f54cc1e6799",
       "title": {
-        "en": "Disney’s ‘Hexed’ Adds Walton Goggins and Jodie Foster to Cast",
-        "fa": "«Hexed» دیزنی، والتون گوگینز و جودی فاستر را به بازیگران اضافه می کند"
+        "en": "Marvel’s ‘X-Men’ Reboot Sets May 2028 Release Date",
+        "fa": "تاریخ انتشار ریبوت «مردان ایکس» مارول در می 2028 تنظیم می‌شود"
       },
       "excerpt": {
-        "en": "Jodie Foster and Walton Goggins are joining the cast of Disney’s next animated movie, “Hexed.” The casting news was announced during the Disney Entertainment Showcase presentation at Disney’s D23 fan event in Anaheim, California on Friday. Oscar-winner Foster will play a devious witch queen, while Goggins will play a three-eyed cat named Beef Roger Crummchuk. […]",
-        "fa": "جودی فاستر و والتون گوگینز در حال پیوستن به بازیگران انیمیشن بعدی دیزنی، \"Hexed\" هستند. خبر انتخاب بازیگران در جریان نمایش دیزنی Entertainment Showcase در رویداد هواداران دیزنی D23 در آناهیم، ​​کالیفرنیا در روز جمعه اعلام شد. فاستر برنده اسکار نقش یک ملکه جادوگر را بازی می کند، در حالی که گوگینز نقش یک گربه سه چشم به نام بیف راجر کرامچوک را بازی می کند."
+        "en": "The long-awaited X-Men movie is finally coming to the MCU. Marvel Studios exec Kevin Feige made the official announcement that the X-Men movie will release on May 5, 2028. The cast will include Sadie Sink as Jean Grey, Kit Connor as Cyclops, Samara Weaving as Emma Frost, Inde Navarrette as Rogue, Maya Boyd as Storm […]",
+        "fa": "فیلم مورد انتظار X-Men بالاخره به MCU می آید. کوین فایگی، مدیر اجرایی مارول استودیوز اعلام کرد که فیلم مردان ایکس در تاریخ 5 می 2028 اکران خواهد شد. بازیگران این فیلم عبارتند از: سدی سینک در نقش ژان گری، کیت کانر در نقش سیکلوپ، سامارا ویوینگ در نقش اما فراست، ایند ناوارت در نقش روگ، مایا بوید در نقش استورم."
       },
       "content": {
-        "en": "Jodie Foster and Walton Goggins are joining the cast of Disney’s next animated movie, “Hexed.” The casting news was announced during the Disney Entertainment Showcase presentation at Disney’s D23 fan event in Anaheim, California on Friday. Oscar-winner Foster will play a devious witch queen, while Goggins will play a three-eyed cat named Beef Roger Crummchuk. […]",
-        "fa": "جودی فاستر و والتون گوگینز در حال پیوستن به بازیگران انیمیشن بعدی دیزنی، \"Hexed\" هستند. خبر انتخاب بازیگران در جریان نمایش دیزنی Entertainment Showcase در رویداد هواداران دیزنی D23 در آناهیم، ​​کالیفرنیا در روز جمعه اعلام شد. فاستر برنده اسکار نقش یک ملکه جادوگر را بازی می کند، در حالی که گوگینز نقش یک گربه سه چشم به نام بیف راجر کرامچوک را بازی می کند."
+        "en": "The long-awaited X-Men movie is finally coming to the MCU. Marvel Studios exec Kevin Feige made the official announcement that the X-Men movie will release on May 5, 2028. The cast will include Sadie Sink as Jean Grey, Kit Connor as Cyclops, Samara Weaving as Emma Frost, Inde Navarrette as Rogue, Maya Boyd as Storm […]",
+        "fa": "فیلم مورد انتظار X-Men بالاخره به MCU می آید. کوین فایگی، مدیر اجرایی مارول استودیوز اعلام کرد که فیلم مردان ایکس در تاریخ 5 می 2028 اکران خواهد شد. بازیگران این فیلم عبارتند از: سدی سینک در نقش ژان گری، کیت کانر در نقش سیکلوپ، سامارا ویوینگ در نقش اما فراست، ایند ناوارت در نقش روگ، مایا بوید در نقش استورم."
       },
       "source": {
         "en": "Variety",
         "fa": "Variety"
       },
-      "link": "https://variety.com/2026/film/news/hexed-cast-walton-goggins-jodie-foster-1236834882/",
-      "date": "2026-08-15T13:23:26.985351+00:00",
-      "image": "https://variety.com/wp-content/uploads/2026/08/MixCollage-14-Aug-2026-09-41-PM-6838.jpg",
+      "link": "https://variety.com/2026/film/news/x-men-release-date-marvel-reboot-1236816959/",
+      "date": "2026-08-15T14:13:19.880518+00:00",
+      "image": "https://variety.com/wp-content/uploads/2026/08/GettyImages-2290539901.jpg",
       "important": false,
       "score": 1
     },
@@ -189,7 +237,7 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/box-office-spider-man-the-end-of-oak-street-1237033458/",
-      "date": "2026-08-15T13:23:26.982965+00:00",
+      "date": "2026-08-15T14:13:19.877591+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/MCDSPMA_SP148_c26a9e.jpg",
       "important": false,
       "score": 1
@@ -213,7 +261,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/criticism/movies/american-doctor-documentary-review-gaza-1235210500/",
-      "date": "2026-08-15T13:23:26.988483+00:00",
+      "date": "2026-08-15T14:13:19.884340+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/ivfj95enlAmerican_Doctor-Still_1.webp?w=650",
       "important": false,
       "score": 0
@@ -237,7 +285,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/news/business/dga-iatse-conditions-paramount-settlement-realistic-1235210398/",
-      "date": "2026-08-15T13:23:26.988308+00:00",
+      "date": "2026-08-15T14:13:19.884124+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/P10XLNE.jpg?w=650",
       "important": false,
       "score": 0
@@ -246,7 +294,7 @@
       "id": "0d8bf60aee15",
       "title": {
         "en": "‘Abbott Elementary’ Is Always in the Right Ballpark — Literally So, for One Very Special Episode",
-        "fa": "Abbott Elementary همیشه در بال پارک مناسب است - به معنای واقعی کلمه، برای یک قسمت بسیار ویژه"
+        "fa": "‘Abbott Elementary’ Is Always in the Right Ballpark — Literally So, for One Very Special Episode"
       },
       "excerpt": {
         "en": "Director Randall Einhorn tells IndieWire about taking the show out to a ballgame and the happy accidents that make the series so special.",
@@ -261,7 +309,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/features/interviews/abbott-elementary-director-randall-einhorn-phillies-game-1235210238/",
-      "date": "2026-08-15T13:23:26.987747+00:00",
+      "date": "2026-08-15T14:13:19.883469+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/178757_1142.jpg?w=650",
       "important": false,
       "score": 0
@@ -285,8 +333,32 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/features/craft/jane-schoenbrun-teenage-sex-and-death-at-camp-miasma-1235210237/",
-      "date": "2026-08-15T13:23:26.987582+00:00",
+      "date": "2026-08-15T14:13:19.883263+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/MCDTESE_K3011.jpg?w=650",
+      "important": false,
+      "score": 0
+    },
+    {
+      "id": "282631e653a6",
+      "title": {
+        "en": "BFI Boss Ben Roberts, Picturehouse’s Clare Binns on Gen Z’s Cinema Renaissance, AI Slop and British Indie Film: “We’re Not Great at Comedy”",
+        "fa": "بن رابرتز رئیس BFI، کلر بینز از پیکچرهاوس در فیلم رنسانس سینمای ژنرال Z، AI Slop و فیلم مستقل بریتانیا: \"ما در کمدی عالی نیستیم\""
+      },
+      "excerpt": {
+        "en": "The pair spoke at Edinburgh Film Festival's keynote industry session on Saturday, lauding the work of 'Obsession,' 'The Odyssey,' and pondering the challenges that lie ahead for the U.K.'s independent film sector.",
+        "fa": "این زوج در جلسه اصلی صنعت جشنواره فیلم ادینبورگ در روز شنبه صحبت کردند و از کار «وسواس»، «اودیسه» تمجید کردند و در مورد چالش‌های پیش روی بخش فیلم مستقل بریتانیا فکر کردند."
+      },
+      "content": {
+        "en": "The pair spoke at Edinburgh Film Festival's keynote industry session on Saturday, lauding the work of 'Obsession,' 'The Odyssey,' and pondering the challenges that lie ahead for the U.K.'s independent film sector.",
+        "fa": "این زوج در جلسه اصلی صنعت جشنواره فیلم ادینبورگ در روز شنبه صحبت کردند و از کار «وسواس»، «اودیسه» تمجید کردند و در مورد چالش‌های پیش روی بخش فیلم مستقل بریتانیا فکر کردند."
+      },
+      "source": {
+        "en": "The Hollywood Reporter",
+        "fa": "The Hollywood Reporter"
+      },
+      "link": "https://www.hollywoodreporter.com/movies/movie-news/bfi-ben-roberts-clare-binns-edinburgh-film-obession-odyssey-1236674318/",
+      "date": "2026-08-15T14:13:19.881624+00:00",
+      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/FotoJet-2026-08-15T114410.422.jpg?w=1440&#038;h=810&#038;crop=1",
       "important": false,
       "score": 0
     },
@@ -309,7 +381,7 @@
         "fa": "Variety"
       },
       "link": "https://variety.com/2026/film/global/ursa-menart-everything-thats-wrong-with-you-influencers-1236833609/",
-      "date": "2026-08-15T13:23:26.984613+00:00",
+      "date": "2026-08-15T14:13:19.879939+00:00",
       "image": "https://variety.com/wp-content/uploads/2026/08/VARIETY-SIZING-7.png",
       "important": false,
       "score": 0
@@ -322,7 +394,7 @@
       },
       "excerpt": {
         "en": "GRAMADO, Brazil — Vet Brazilian helmer-producer Paulo Nascimento will lense “A Chocolate Christmas,” a Portuguese-language holiday-themed feature film in the mountain resort of Gramado, in southern Brazil, and New York City, he told Variety. The film will shoot over December and January. Nascimento is set announce the film project t his panel on Sunday at […]",
-        "fa": "گرامادو، برزیل - پائولو ناسیمنتو، تهیه‌کننده دامپزشک برزیلی، فیلم سینمایی «یک کریسمس شکلاتی»، یک فیلم سینمایی پرتغالی با موضوع تعطیلات را در تفرجگاه کوهستانی گرامادو، در جنوب برزیل و شهر نیویورک، به ورایتی گفت. فیلمبرداری این فیلم در ماه های دسامبر و ژانویه آغاز می شود. ناسیمنتو قرار است روز یکشنبه در پانل خود پروژه سینمایی را اعلام کند"
+        "fa": "GRAMADO, Brazil — Vet Brazilian helmer-producer Paulo Nascimento will lense “A Chocolate Christmas,” a Portuguese-language holiday-themed feature film in the mountain resort of Gramado, in southern Brazil, and New York City, he told Variety. The film will shoot over December and January. Nascimento is set announce the film project t his panel on Sunday at […]"
       },
       "content": {
         "en": "GRAMADO, Brazil — Vet Brazilian helmer-producer Paulo Nascimento will lense “A Chocolate Christmas,” a Portuguese-language holiday-themed feature film in the mountain resort of Gramado, in southern Brazil, and New York City, he told Variety. The film will shoot over December and January. Nascimento is set announce the film project t his panel on Sunday at […]",
@@ -333,32 +405,8 @@
         "fa": "Variety"
       },
       "link": "https://variety.com/2026/film/global/paulo-nascimento-a-chocolate-christmas-gramado-new-york-1236835366/",
-      "date": "2026-08-15T13:23:26.984267+00:00",
+      "date": "2026-08-15T14:13:19.879532+00:00",
       "image": "https://variety.com/wp-content/uploads/2026/08/Paulo-Nascimento-Courtesy-Accorde-Filmes.jpg",
-      "important": false,
-      "score": 0
-    },
-    {
-      "id": "077fbb25775d",
-      "title": {
-        "en": "‘Star Wars: Starfighter’: First Look & Details Unveiled About New Universe Pic At D23",
-        "fa": "«جنگ ستارگان: جنگنده ستارگان»: اولین نگاه و جزئیات درباره عکس جدید جهان در D23 رونمایی شد"
-      },
-      "excerpt": {
-        "en": "We finally have some more details about the Shawn Levy directed, Ryan Gosling starring Star Wars: Starfighter movie after a first look was unveiled tonight at Disney’s D23 fan confab. Previous details revealed that the movie was set a brand new galaxy in the Star Wars canon, free of Skywalker family plot-lines. The Jonathan Tropper […]",
-        "fa": "ما بالاخره جزئیات بیشتری در مورد فیلمی به کارگردانی شاون لوی، رایان گاسلینگ با بازی Star Wars: Starfighter پس از نمایش اولین نگاه امشب در محفل طرفداران دیزنی در D23، داریم. جزئیات قبلی نشان داد که فیلم یک کهکشان کاملاً جدید در مجموعه جنگ ستارگان است، بدون خطوط داستانی خانواده اسکای واکر. جاناتان ترپر"
-      },
-      "content": {
-        "en": "We finally have some more details about the Shawn Levy directed, Ryan Gosling starring Star Wars: Starfighter movie after a first look was unveiled tonight at Disney’s D23 fan confab. Previous details revealed that the movie was set a brand new galaxy in the Star Wars canon, free of Skywalker family plot-lines. The Jonathan Tropper […]",
-        "fa": "ما بالاخره جزئیات بیشتری در مورد فیلمی به کارگردانی شاون لوی، رایان گاسلینگ با بازی Star Wars: Starfighter پس از نمایش اولین نگاه امشب در محفل طرفداران دیزنی در D23، داریم. جزئیات قبلی نشان داد که فیلم یک کهکشان کاملاً جدید در مجموعه جنگ ستارگان است، بدون خطوط داستانی خانواده اسکای واکر. جاناتان ترپر"
-      },
-      "source": {
-        "en": "Deadline",
-        "fa": "Deadline"
-      },
-      "link": "https://deadline.com/2026/08/star-wars-starfighter-ryan-gosling-first-look-d23-1237040930/",
-      "date": "2026-08-15T13:23:26.983825+00:00",
-      "image": "https://deadline.com/wp-content/uploads/2025/09/swars-e1772248610171.png",
       "important": false,
       "score": 0
     },
@@ -381,7 +429,7 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/kieran-culkin-cast-clay-walt-disney-animated-movie-1237041021/",
-      "date": "2026-08-15T13:23:26.983455+00:00",
+      "date": "2026-08-15T14:13:19.878197+00:00",
       "image": "https://deadline.com/wp-content/uploads/2025/05/GettyImages-2176273538.jpg",
       "important": false,
       "score": 0
@@ -405,7 +453,7 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/zootopia-3-d23-1237041333/",
-      "date": "2026-08-15T13:23:26.983143+00:00",
+      "date": "2026-08-15T14:13:19.877811+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/01/ZOOTOPIA-1.11.jpg",
       "important": false,
       "score": 0
@@ -429,7 +477,7 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/bfi-ceo-ben-roberts-keynote-address-uk-film-conference-eiff-1237041496/",
-      "date": "2026-08-15T13:23:26.981852+00:00",
+      "date": "2026-08-15T14:13:19.876600+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/06/Ben-Roberts-BFI-CEO-e1781616847588.jpg",
       "important": false,
       "score": 0
