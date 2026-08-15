@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-15T17:13:15.011206+00:00",
-  "count": 22,
+  "updated_at": "2026-08-15T18:15:28.450939+00:00",
+  "count": 23,
   "news": [
     {
       "id": "00a13ef3b172",
@@ -21,7 +21,7 @@
         "fa": "The Hollywood Reporter"
       },
       "link": "https://www.hollywoodreporter.com/tv/tv-news/lebron-james-starts-youtube-golf-channel-exclusive-trailer-1236673598/",
-      "date": "2026-08-15T17:13:14.830503+00:00",
+      "date": "2026-08-15T18:15:28.239189+00:00",
       "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/Lebron-Golfing-in-Scotland-Main-2026.jpg?w=1296&#038;h=730&#038;crop=1",
       "important": true,
       "score": 7
@@ -45,8 +45,32 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/news/breaking-news/film-independent-biggest-grant-history-juan-devis-1235210522/",
-      "date": "2026-08-15T17:13:14.833359+00:00",
+      "date": "2026-08-15T18:15:28.243547+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/Juan_Devis_2304sm-photo.jpeg?w=650",
+      "important": false,
+      "score": 3
+    },
+    {
+      "id": "e48de6dcccae",
+      "title": {
+        "en": "The 7 Best Rom-Coms on Netflix Right Now",
+        "fa": "7 بهترین رام کام در حال حاضر در نتفلیکس"
+      },
+      "excerpt": {
+        "en": "From a Diane Keaton staple to a Glen Powell banger The post The 7 Best Rom-Coms on Netflix Right Now appeared first on TheWrap .",
+        "fa": "از کالای اصلی دایان کیتون گرفته تا گلن پاول"
+      },
+      "content": {
+        "en": "From a Diane Keaton staple to a Glen Powell banger The post The 7 Best Rom-Coms on Netflix Right Now appeared first on TheWrap .",
+        "fa": "از کالای اصلی دایان کیتون گرفته تا گلن پاول"
+      },
+      "source": {
+        "en": "The Wrap",
+        "fa": "The Wrap"
+      },
+      "link": "https://www.thewrap.com/creative-content/movies/7-best-rom-coms-netflix-august-2026/",
+      "date": "2026-08-15T18:15:28.240473+00:00",
+      "image": "https://www.thewrap.com/wp-content/uploads/2022/04/Keanu-Reeves-in-Always-Be-My-Maybe.jpg",
       "important": false,
       "score": 3
     },
@@ -69,7 +93,7 @@
         "fa": "The Hollywood Reporter"
       },
       "link": "https://www.hollywoodreporter.com/movies/movie-features/lindsey-ryan-capsized-edinburgh-rhys-ifans-lily-rabe-film-1236670841/",
-      "date": "2026-08-15T17:13:14.830910+00:00",
+      "date": "2026-08-15T18:15:28.239594+00:00",
       "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/FotoJet-2026-08-12T125839.497.jpg?w=1440&#038;h=810&#038;crop=1",
       "important": false,
       "score": 3
@@ -93,7 +117,7 @@
         "fa": "Variety"
       },
       "link": "https://variety.com/2026/film/reviews/nowhere-to-lay-my-eyes-review-1236835338/",
-      "date": "2026-08-15T17:13:14.828795+00:00",
+      "date": "2026-08-15T18:15:28.237980+00:00",
       "image": "https://variety.com/wp-content/uploads/2026/07/Nowhere-to-Lay-My-Eyes.jpg",
       "important": false,
       "score": 3
@@ -117,7 +141,7 @@
         "fa": "Variety"
       },
       "link": "https://variety.com/2026/tv/news/nate-bargatze-guinness-world-record-comedy-tour-tickets-sold-1236835016/",
-      "date": "2026-08-15T17:13:14.827620+00:00",
+      "date": "2026-08-15T18:15:28.236853+00:00",
       "image": "https://variety.com/wp-content/uploads/2026/08/Grand-Casion-Arena-e1786754652340.jpg",
       "important": false,
       "score": 3
@@ -141,7 +165,7 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/greatest-showman-musical-west-end-opening-date-1237041487/",
-      "date": "2026-08-15T17:13:14.826251+00:00",
+      "date": "2026-08-15T18:15:28.235304+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/The-Greatest-Showman-Oliver-Tompsett-Samantha-Barks-Photo-by-Sebastian-Nevols.jpg",
       "important": false,
       "score": 3
@@ -165,7 +189,7 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/bill-maher-luigi-mangione-1237041560/",
-      "date": "2026-08-15T17:13:14.823088+00:00",
+      "date": "2026-08-15T18:15:28.232479+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/maher-luigi-copy.jpeg",
       "important": false,
       "score": 3
@@ -189,7 +213,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/features/podcast/screen-talk-podcast-tiff-ceo-cameron-bailey-toronto-2026-1235210516/",
-      "date": "2026-08-15T17:13:14.833503+00:00",
+      "date": "2026-08-15T18:15:28.243686+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/P115U4AG.jpg?w=650",
       "important": false,
       "score": 1
@@ -213,7 +237,7 @@
         "fa": "Variety"
       },
       "link": "https://variety.com/2026/film/box-office/box-office-end-of-oak-street-spider-man-brand-new-day-1236835436/",
-      "date": "2026-08-15T17:13:14.827821+00:00",
+      "date": "2026-08-15T18:15:28.237053+00:00",
       "image": "https://variety.com/wp-content/uploads/2026/08/MCDENOF_WB002.jpg",
       "important": false,
       "score": 1
@@ -237,7 +261,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/criticism/movies/american-doctor-documentary-review-gaza-1235210500/",
-      "date": "2026-08-15T17:13:14.834133+00:00",
+      "date": "2026-08-15T18:15:28.244305+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/ivfj95enlAmerican_Doctor-Still_1.webp?w=650",
       "important": false,
       "score": 0
@@ -261,7 +285,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/news/business/dga-iatse-conditions-paramount-settlement-realistic-1235210398/",
-      "date": "2026-08-15T17:13:14.833873+00:00",
+      "date": "2026-08-15T18:15:28.244072+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/P10XLNE.jpg?w=650",
       "important": false,
       "score": 0
@@ -285,7 +309,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/features/interviews/abbott-elementary-director-randall-einhorn-phillies-game-1235210238/",
-      "date": "2026-08-15T17:13:14.833168+00:00",
+      "date": "2026-08-15T18:15:28.243364+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/178757_1142.jpg?w=650",
       "important": false,
       "score": 0
@@ -294,7 +318,7 @@
       "id": "357806072d79",
       "title": {
         "en": "About That ‘Super Bowl Moment’ in the Middle of ‘Teenage Sex and Death at Camp Miasma’",
-        "fa": "درباره آن \"لحظه سوپر بول\" در وسط \"سکس نوجوانان و مرگ در کمپ میاسما\""
+        "fa": "درباره آن «لحظه سوپر بول» در وسط «سکس و مرگ نوجوانان در کمپ میاسما»"
       },
       "excerpt": {
         "en": "Writer and director Jane Schoenbrun tells IndieWire about the hours of prep (and Counting Crows) that went into the slasher sequence in the middle of their latest film.",
@@ -309,8 +333,56 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/features/craft/jane-schoenbrun-teenage-sex-and-death-at-camp-miasma-1235210237/",
-      "date": "2026-08-15T17:13:14.832920+00:00",
+      "date": "2026-08-15T18:15:28.243142+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/MCDTESE_K3011.jpg?w=650",
+      "important": false,
+      "score": 0
+    },
+    {
+      "id": "e3f4203d95fc",
+      "title": {
+        "en": "Kristen Stewart Recalls ‘Twilight’ Cast and Crew’s ‘Titanic’ Moment During Brazil Storm",
+        "fa": "کریستن استوارت در جریان طوفان برزیل لحظه ای از بازیگران و خدمه تایتانیک را به یاد می آورد"
+      },
+      "excerpt": {
+        "en": "\"There was like one little boat and they were like, 'We can get the cast out,'\" the actress says The post Kristen Stewart Recalls ‘Twilight’ Cast and Crew’s ‘Titanic’ Moment During Brazil Storm appeared first on TheWrap .",
+        "fa": "این بازیگر می گوید: \"مثل یک قایق کوچک بود و آنها می گفتند \"ما می توانیم بازیگران را بیرون بیاوریم.\""
+      },
+      "content": {
+        "en": "\"There was like one little boat and they were like, 'We can get the cast out,'\" the actress says The post Kristen Stewart Recalls ‘Twilight’ Cast and Crew’s ‘Titanic’ Moment During Brazil Storm appeared first on TheWrap .",
+        "fa": "این بازیگر می گوید: \"مثل یک قایق کوچک بود و آنها می گفتند \"ما می توانیم بازیگران را بیرون بیاوریم.\""
+      },
+      "source": {
+        "en": "The Wrap",
+        "fa": "The Wrap"
+      },
+      "link": "https://www.thewrap.com/creative-content/movies/kristen-stewart-recalls-twilight-cast-crew-titanic-moment-brazil-storm/",
+      "date": "2026-08-15T18:15:28.242070+00:00",
+      "image": "https://www.thewrap.com/wp-content/uploads/2026/08/Untitled-design-2026-08-14T210947.781.jpg",
+      "important": false,
+      "score": 0
+    },
+    {
+      "id": "6a9343a3b136",
+      "title": {
+        "en": "Disney’s Animated ‘Hexed’ Adds Jodie Foster and Walton Goggins",
+        "fa": "انیمیشن «Hexed» دیزنی، جودی فاستر و والتون گوگینز را اضافه می کند"
+      },
+      "excerpt": {
+        "en": "The witch-filled fantasy from Fawn Veerasunthorn and Jason Hand arrives this Thanksgiving The post Disney’s Animated ‘Hexed’ Adds Jodie Foster and Walton Goggins appeared first on TheWrap .",
+        "fa": "فانتزی پر از جادوگر از Fawn Veerasunthorn و Jason Hand در روز شکرگزاری می آید"
+      },
+      "content": {
+        "en": "The witch-filled fantasy from Fawn Veerasunthorn and Jason Hand arrives this Thanksgiving The post Disney’s Animated ‘Hexed’ Adds Jodie Foster and Walton Goggins appeared first on TheWrap .",
+        "fa": "فانتزی پر از جادوگر از Fawn Veerasunthorn و Jason Hand در روز شکرگزاری می آید"
+      },
+      "source": {
+        "en": "The Wrap",
+        "fa": "The Wrap"
+      },
+      "link": "https://www.thewrap.com/creative-content/movies/hexed-adds-jodie-foster-walton-goggins-disney-animation/",
+      "date": "2026-08-15T18:15:28.241697+00:00",
+      "image": "https://www.thewrap.com/wp-content/uploads/2026/08/Hexed-1.jpg",
       "important": false,
       "score": 0
     },
@@ -333,7 +405,7 @@
         "fa": "The Hollywood Reporter"
       },
       "link": "https://www.hollywoodreporter.com/movies/movie-news/bfi-ben-roberts-clare-binns-edinburgh-film-obession-odyssey-1236674318/",
-      "date": "2026-08-15T17:13:14.831421+00:00",
+      "date": "2026-08-15T18:15:28.240095+00:00",
       "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/FotoJet-2026-08-15T114410.422.jpg?w=1440&#038;h=810&#038;crop=1",
       "important": false,
       "score": 0
@@ -357,32 +429,8 @@
         "fa": "The Hollywood Reporter"
       },
       "link": "https://www.hollywoodreporter.com/movies/movie-features/george-mackay-rosy-mcewen-mission-paul-wright-edinburgh-1236670925/",
-      "date": "2026-08-15T17:13:14.830395+00:00",
+      "date": "2026-08-15T18:15:28.239084+00:00",
       "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/FotoJet-2026-08-11T163112.153.jpg?w=1440&#038;h=810&#038;crop=1",
-      "important": false,
-      "score": 0
-    },
-    {
-      "id": "8a8f88ca4abc",
-      "title": {
-        "en": "Urša Menart Recalls Finding Inspiration on Influencers’ Fake Tragic Life Stories for Intimate Dramedy ‘Everything That’s Wrong With You’",
-        "fa": "اورشا منارت الهام گرفتن از داستان های زندگی غم انگیز جعلی اینفلوئنسرها را برای درامدی صمیمی «همه چیز که با تو اشتباه است» به یاد می آورد."
-      },
-      "excerpt": {
-        "en": "Right before the COVID-19 pandemic shut down the world, Slovenian director Urša Menart came across a curious phenomenon on the internet: young people, mostly women, making up tragic life stories to gather the increasingly sparse attention span of their followers. Even more curiously, the director realized people would often drop everything to visit these micro-influencers. […]",
-        "fa": "درست قبل از اینکه همه‌گیری کووید-19 جهان را تعطیل کند، کارگردان اسلوونیایی Urša Menart با پدیده عجیبی در اینترنت برخورد کرد: جوانان، عمدتاً زنان، داستان‌های غم‌انگیز زندگی می‌سازند تا دامنه توجه کم‌تر پیروان خود را جمع کنند. جالبتر اینکه کارگردان متوجه شد که مردم اغلب همه چیز را رها می کنند تا از این میکرو اینفلوئنسرها دیدن کنند."
-      },
-      "content": {
-        "en": "Right before the COVID-19 pandemic shut down the world, Slovenian director Urša Menart came across a curious phenomenon on the internet: young people, mostly women, making up tragic life stories to gather the increasingly sparse attention span of their followers. Even more curiously, the director realized people would often drop everything to visit these micro-influencers. […]",
-        "fa": "درست قبل از اینکه همه‌گیری کووید-19 جهان را تعطیل کند، کارگردان اسلوونیایی Urša Menart با پدیده عجیبی در اینترنت برخورد کرد: جوانان، عمدتاً زنان، داستان‌های غم‌انگیز زندگی می‌سازند تا دامنه توجه کم‌تر پیروان خود را جمع کنند. جالبتر اینکه کارگردان متوجه شد که مردم اغلب همه چیز را رها می کنند تا از این میکرو اینفلوئنسرها دیدن کنند."
-      },
-      "source": {
-        "en": "Variety",
-        "fa": "Variety"
-      },
-      "link": "https://variety.com/2026/film/global/ursa-menart-everything-thats-wrong-with-you-influencers-1236833609/",
-      "date": "2026-08-15T17:13:14.829506+00:00",
-      "image": "https://variety.com/wp-content/uploads/2026/08/VARIETY-SIZING-7.png",
       "important": false,
       "score": 0
     },
@@ -405,7 +453,7 @@
         "fa": "Variety"
       },
       "link": "https://variety.com/2026/film/global/paulo-nascimento-a-chocolate-christmas-gramado-new-york-1236835366/",
-      "date": "2026-08-15T17:13:14.829061+00:00",
+      "date": "2026-08-15T18:15:28.238193+00:00",
       "image": "https://variety.com/wp-content/uploads/2026/08/Paulo-Nascimento-Courtesy-Accorde-Filmes.jpg",
       "important": false,
       "score": 0
@@ -429,56 +477,32 @@
         "fa": "Variety"
       },
       "link": "https://variety.com/2026/film/festivals/locarno-marco-cavazzin-mutrion-venice-leopards-of-tomorrow-1236834478/",
-      "date": "2026-08-15T17:13:14.827258+00:00",
+      "date": "2026-08-15T18:15:28.236441+00:00",
       "image": "https://variety.com/wp-content/uploads/2026/08/Mutrion.jpg",
       "important": false,
       "score": 0
     },
     {
-      "id": "6aa65a7992ac",
+      "id": "d7b0c0ab590b",
       "title": {
-        "en": "Kieran Culkin To Lead Voice Cast Of New Disney Animated Movie ‘Clay’ – D23",
-        "fa": "کایران کالکین صداپیشگی فیلم انیمیشن جدید دیزنی به نام Clay – D23"
+        "en": "Dave Marsh, Bruce Springsteen Biographer and Rock Critic, Dies at 76",
+        "fa": "دیو مارش، زندگی‌نامه‌نویس و منتقد راک بروس اسپرینگستین در ۷۶ سالگی درگذشت"
       },
       "excerpt": {
-        "en": "Walt Disney Animation Studios has a new original film in the works, Clay, which will head to theaters in 2028 with Kieran Culkin leading the voice cast. The project was announced at Disney’s Entertainment Showcase at D23 on Friday night. Oscar and Emmy winner Culkin will voice the protagonist, Flip, who might be a little […]",
-        "fa": "استودیوی انیمیشن والت دیزنی یک فیلم اورجینال جدید به نام Clay را در دست ساخت دارد که در سال 2028 به همراه کایران کالکین صداپیشگان را بر عهده دارد. این پروژه جمعه شب در نمایشگاه سرگرمی دیزنی در D23 معرفی شد. کالکین برنده اسکار و امی صداپیشگی شخصیت اصلی فیلم، فلیپ را بر عهده خواهد داشت که شاید کمی باشد"
+        "en": "Dave Marsh, the film critic and biographer who documented the early days of Bruce Springsteen in his influential 1979 book “Born to Run,” died Friday in his Connecticut home. He was 76. Jim Rotolo, who hosts the Springsteen-fan cast “The Wild & The Innocent” on SiriusXM, confirmed Marsh’s death in a Facebook post on Saturday […]",
+        "fa": "دیو مارش، منتقد سینما و زندگی نامه نویسی که روزهای اولیه زندگی بروس اسپرینگستین را در کتاب تأثیرگذار خود در سال 1979 به نام «متولد برای فرار» ثبت کرد، روز جمعه در خانه خود در کنتیکت درگذشت. او 76 سال داشت. جیم روتولو، مجری بازیگران طرفداران اسپرینگستین «The Wild & The Innocent» در SiriusXM، روز شنبه در یک پست فیس بوک مرگ مارش را تایید کرد."
       },
       "content": {
-        "en": "Walt Disney Animation Studios has a new original film in the works, Clay, which will head to theaters in 2028 with Kieran Culkin leading the voice cast. The project was announced at Disney’s Entertainment Showcase at D23 on Friday night. Oscar and Emmy winner Culkin will voice the protagonist, Flip, who might be a little […]",
-        "fa": "استودیوی انیمیشن والت دیزنی یک فیلم اورجینال جدید به نام Clay را در دست ساخت دارد که در سال 2028 به همراه کایران کالکین صداپیشگان را بر عهده دارد. این پروژه جمعه شب در نمایشگاه سرگرمی دیزنی در D23 معرفی شد. کالکین برنده اسکار و امی صداپیشگی شخصیت اصلی فیلم، فلیپ را بر عهده خواهد داشت که شاید کمی باشد"
+        "en": "Dave Marsh, the film critic and biographer who documented the early days of Bruce Springsteen in his influential 1979 book “Born to Run,” died Friday in his Connecticut home. He was 76. Jim Rotolo, who hosts the Springsteen-fan cast “The Wild & The Innocent” on SiriusXM, confirmed Marsh’s death in a Facebook post on Saturday […]",
+        "fa": "دیو مارش، منتقد سینما و زندگی نامه نویسی که روزهای اولیه زندگی بروس اسپرینگستین را در کتاب تأثیرگذار خود در سال 1979 به نام «متولد برای فرار» ثبت کرد، روز جمعه در خانه خود در کنتیکت درگذشت. او 76 سال داشت. جیم روتولو، مجری بازیگران طرفداران اسپرینگستین «The Wild & The Innocent» در SiriusXM، روز شنبه در یک پست فیس بوک مرگ مارش را تایید کرد."
       },
       "source": {
-        "en": "Deadline",
-        "fa": "Deadline"
+        "en": "Variety",
+        "fa": "Variety"
       },
-      "link": "https://deadline.com/2026/08/kieran-culkin-cast-clay-walt-disney-animated-movie-1237041021/",
-      "date": "2026-08-15T17:13:14.826884+00:00",
-      "image": "https://deadline.com/wp-content/uploads/2025/05/GettyImages-2176273538.jpg",
-      "important": false,
-      "score": 0
-    },
-    {
-      "id": "ee1789317722",
-      "title": {
-        "en": "‘Frozen 3’ First Look Teases Wedding Bells & An Icy Villain From A Land “More Wild And Dangerous” Than Ever Before – D23",
-        "fa": "اولین نگاه «یخ‌زده 3» زنگ‌های عروسی و یک تبه‌کار یخی را از سرزمینی «وحشی‌تر و خطرناک‌تر» از همیشه می‌گیرد - D23"
-      },
-      "excerpt": {
-        "en": "The filled Honda Center got a look at Frozen 3 — and let’s just say, there is quite a lot in store. First of all, are those wedding bells, we hear? Indeed, they are! Kristen Bell confirmed at Disney’s D23 entertainment showcase on Friday night that Anna will be marrying her “mountain man” Kristoff (Jonathan […]",
-        "fa": "Honda Center پر شده نگاهی به Frozen 3 انداخت - و بگذارید بگوییم که چیزهای زیادی در انبار وجود دارد. اول از همه، آن زنگ های عروسی، ما می شنویم؟ در واقع، آنها هستند! کریستن بل جمعه شب در نمایشگاه سرگرمی D23 دیزنی تایید کرد که آنا با \"مرد کوهستانی\" خود کریستوف (جاناتان) ازدواج خواهد کرد."
-      },
-      "content": {
-        "en": "The filled Honda Center got a look at Frozen 3 — and let’s just say, there is quite a lot in store. First of all, are those wedding bells, we hear? Indeed, they are! Kristen Bell confirmed at Disney’s D23 entertainment showcase on Friday night that Anna will be marrying her “mountain man” Kristoff (Jonathan […]",
-        "fa": "Honda Center پر شده نگاهی به Frozen 3 انداخت - و بگذارید بگوییم که چیزهای زیادی در انبار وجود دارد. اول از همه، آن زنگ های عروسی، ما می شنویم؟ در واقع، آنها هستند! کریستن بل جمعه شب در نمایشگاه سرگرمی D23 دیزنی تایید کرد که آنا با \"مرد کوهستانی\" خود کریستوف (جاناتان) ازدواج خواهد کرد."
-      },
-      "source": {
-        "en": "Deadline",
-        "fa": "Deadline"
-      },
-      "link": "https://deadline.com/2026/08/frozen-3-footage-d23-anna-wedding-new-villain-1237041024/",
-      "date": "2026-08-15T17:13:14.826733+00:00",
-      "image": "https://deadline.com/wp-content/uploads/2019/12/frozen-dos-e1575648103863.jpg",
+      "link": "https://variety.com/2026/music/news/dave-marsh-dead-bruce-springsteen-born-to-run-1236835488/",
+      "date": "2026-08-15T18:15:28.235696+00:00",
+      "image": "https://variety.com/wp-content/uploads/2026/08/MixCollage-15-Aug-2026-10-47-AM-6065.jpg",
       "important": false,
       "score": 0
     },
@@ -501,7 +525,7 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/zootopia-3-d23-1237041333/",
-      "date": "2026-08-15T17:13:14.826487+00:00",
+      "date": "2026-08-15T18:15:28.235540+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/01/ZOOTOPIA-1.11.jpg",
       "important": false,
       "score": 0
@@ -525,7 +549,7 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/bfi-ceo-ben-roberts-keynote-address-uk-film-conference-eiff-1237041496/",
-      "date": "2026-08-15T17:13:14.825446+00:00",
+      "date": "2026-08-15T18:15:28.234499+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/06/Ben-Roberts-BFI-CEO-e1781616847588.jpg",
       "important": false,
       "score": 0
