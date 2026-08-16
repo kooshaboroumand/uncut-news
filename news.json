@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-16T02:16:40.172569+00:00",
+  "updated_at": "2026-08-16T03:40:29.241239+00:00",
   "count": 24,
   "news": [
     {
@@ -21,10 +21,58 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/all-things-spidey-d23-friendly-neighborhood-amazing-friends-1237040751/",
-      "date": "2026-08-16T02:16:39.945902+00:00",
+      "date": "2026-08-16T03:40:28.969037+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/Spidey65.jpeg",
       "important": true,
       "score": 9
+    },
+    {
+      "id": "91bf49b68467",
+      "title": {
+        "en": "‘The Imagineering Story’ Season 2 Will Debut in Early 2028",
+        "fa": "فصل دوم «داستان تخیل» در اوایل سال 2028 عرضه خواهد شد."
+      },
+      "excerpt": {
+        "en": "Documentarian Leslie Iwerks returns for another round of behind-the-scenes insights on Disney+ The post ‘The Imagineering Story’ Season 2 Will Debut in Early 2028 appeared first on TheWrap .",
+        "fa": "لسلی ایورکس، مستندساز برای دور دیگری از بینش‌های پشت صحنه در دیزنی+ بازگشته است."
+      },
+      "content": {
+        "en": "Documentarian Leslie Iwerks returns for another round of behind-the-scenes insights on Disney+ The post ‘The Imagineering Story’ Season 2 Will Debut in Early 2028 appeared first on TheWrap .",
+        "fa": "لسلی ایورکس، مستندساز برای دور دیگری از بینش‌های پشت صحنه در دیزنی+ بازگشته است."
+      },
+      "source": {
+        "en": "The Wrap",
+        "fa": "The Wrap"
+      },
+      "link": "https://www.thewrap.com/creative-content/tv-shows/the-imagineering-story-season-2-disney-plus-2028/",
+      "date": "2026-08-16T03:40:28.975128+00:00",
+      "image": "https://www.thewrap.com/wp-content/uploads/2026/08/Imagineering-Story-1.jpg",
+      "important": true,
+      "score": 6
+    },
+    {
+      "id": "52a957bef09c",
+      "title": {
+        "en": "Netflix Fires Back Against Tyra Banks’ ‘America’s Next Top Model’ Docuseries Defamation Lawsuit",
+        "fa": "نتفلیکس به شکایت افترا علیه فیلم مستند «مدل بعدی آمریکا» تایرا بنکس پاسخ داد"
+      },
+      "excerpt": {
+        "en": "\"Banks understands editorial discretion. She created, hosted, and executive produced 24 seasons of ANTM, making the same kinds of editorial decisions she now attacks — what footage to include, what to omit, and how to present competing narratives,\" the motion reads.",
+        "fa": "در این حرکت آمده است: \"بانک صلاحدید تحریریه را درک می کند. او 24 فصل ANTM را ایجاد، میزبانی و تولید اجرایی کرد، و همان تصمیمات سرمقاله ای را می گیرد که اکنون به آنها حمله می کند - چه فیلمی باید اضافه شود، چه چیزی حذف شود، و چگونه روایت های رقیب ارائه شود.\""
+      },
+      "content": {
+        "en": "\"Banks understands editorial discretion. She created, hosted, and executive produced 24 seasons of ANTM, making the same kinds of editorial decisions she now attacks — what footage to include, what to omit, and how to present competing narratives,\" the motion reads.",
+        "fa": "در این حرکت آمده است: \"بانک صلاحدید تحریریه را درک می کند. او 24 فصل ANTM را ایجاد، میزبانی و تولید اجرایی کرد، و همان تصمیمات سرمقاله ای را می گیرد که اکنون به آنها حمله می کند - چه فیلمی باید اضافه شود، چه چیزی حذف شود، و چگونه روایت های رقیب ارائه شود.\""
+      },
+      "source": {
+        "en": "The Hollywood Reporter",
+        "fa": "The Hollywood Reporter"
+      },
+      "link": "https://www.hollywoodreporter.com/tv/tv-news/netflix-tyra-banks-antm-defamation-lawsuit-dismiss-1236674506/",
+      "date": "2026-08-16T03:40:28.972989+00:00",
+      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/01/tyra-banks.png?crop=0px%2C7px%2C2438px%2C1364px&#038;resize=1440%2C810",
+      "important": true,
+      "score": 6
     },
     {
       "id": "709fc2a172b1",
@@ -45,7 +93,7 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/scott-foley-returning-scrubs-sean-kelly-season-2-revival-1237041064/",
-      "date": "2026-08-16T02:16:39.945478+00:00",
+      "date": "2026-08-16T03:40:28.968558+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/Scott-Foley-Scrubs.jpg",
       "important": true,
       "score": 6
@@ -69,7 +117,7 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/rupauls-drag-race-renewed-season-19-mtv-1237040720/",
-      "date": "2026-08-16T02:16:39.943799+00:00",
+      "date": "2026-08-16T03:40:28.966761+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/rupauls-drag-race-season-19-mtv.jpg",
       "important": true,
       "score": 6
@@ -93,7 +141,7 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/survivor-cast-creatives-emmy-interview-season-50-future-1237040981/",
-      "date": "2026-08-16T02:16:39.946384+00:00",
+      "date": "2026-08-16T03:40:28.969559+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/Survivor.jpg",
       "important": true,
       "score": 4
@@ -117,7 +165,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/news/breaking-news/film-independent-biggest-grant-history-juan-devis-1235210522/",
-      "date": "2026-08-16T02:16:39.954276+00:00",
+      "date": "2026-08-16T03:40:28.977609+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/Juan_Devis_2304sm-photo.jpeg?w=650",
       "important": false,
       "score": 3
@@ -141,7 +189,7 @@
         "fa": "The Wrap"
       },
       "link": "https://www.thewrap.com/creative-content/movies/7-best-rom-coms-netflix-august-2026/",
-      "date": "2026-08-16T02:16:39.952295+00:00",
+      "date": "2026-08-16T03:40:28.976281+00:00",
       "image": "https://www.thewrap.com/wp-content/uploads/2022/04/Keanu-Reeves-in-Always-Be-My-Maybe.jpg",
       "important": false,
       "score": 3
@@ -165,8 +213,32 @@
         "fa": "The Wrap"
       },
       "link": "https://www.thewrap.com/creative-content/tv-shows/god-of-war-actor-slams-amazon-series-game-writers/",
-      "date": "2026-08-16T02:16:39.951761+00:00",
+      "date": "2026-08-16T03:40:28.975678+00:00",
       "image": "https://www.thewrap.com/wp-content/uploads/2026/08/GodOfWar2018.jpg",
+      "important": false,
+      "score": 3
+    },
+    {
+      "id": "f505ae1cfb27",
+      "title": {
+        "en": "Bryan Cranston and Jamie Lee Curtis Will Star in New Version of Disney’s Carousel of Progress",
+        "fa": "برایان کرانستون و جیمی لی کرتیس در نسخه جدید چرخ فلک پیشرفت دیزنی بازی خواهند کرد."
+      },
+      "excerpt": {
+        "en": "The attraction, which premiered at the 1964-65 World’s Fair, will open in late spring 2027 at Walt Disney World The post Bryan Cranston and Jamie Lee Curtis Will Star in New Version of Disney’s Carousel of Progress appeared first on TheWrap .",
+        "fa": "این جاذبه که در نمایشگاه جهانی 1964-1965 نمایش داده شد، در اواخر بهار 2027 در والت دیزنی ورلد افتتاح خواهد شد."
+      },
+      "content": {
+        "en": "The attraction, which premiered at the 1964-65 World’s Fair, will open in late spring 2027 at Walt Disney World The post Bryan Cranston and Jamie Lee Curtis Will Star in New Version of Disney’s Carousel of Progress appeared first on TheWrap .",
+        "fa": "این جاذبه که در نمایشگاه جهانی 1964-1965 نمایش داده شد، در اواخر بهار 2027 در والت دیزنی ورلد افتتاح خواهد شد."
+      },
+      "source": {
+        "en": "The Wrap",
+        "fa": "The Wrap"
+      },
+      "link": "https://www.thewrap.com/culture-lifestyle/culture/bryan-cranston-jamie-lee-curtis-carousel-of-progress/",
+      "date": "2026-08-16T03:40:28.974895+00:00",
+      "image": "https://www.thewrap.com/wp-content/uploads/2026/08/Carousel-of-Progress.jpg",
       "important": false,
       "score": 3
     },
@@ -189,7 +261,7 @@
         "fa": "The Hollywood Reporter"
       },
       "link": "https://www.hollywoodreporter.com/tv/tv-features/paradise-producer-sinatra-sacrifice-season-two-finale-1236670575/",
-      "date": "2026-08-16T02:16:39.951037+00:00",
+      "date": "2026-08-16T03:40:28.974419+00:00",
       "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/14AFEA-Drama-Series-Paradise-Main-2026.jpg?w=1296&#038;h=730&#038;crop=1",
       "important": false,
       "score": 3
@@ -213,7 +285,7 @@
         "fa": "Variety"
       },
       "link": "https://variety.com/2026/film/festivals/how-would-you-get-this-movie-made-vachon-film4-bbc-1236835455/",
-      "date": "2026-08-16T02:16:39.948800+00:00",
+      "date": "2026-08-16T03:40:28.971835+00:00",
       "image": "https://variety.com/wp-content/uploads/2024/10/Wicker-Man.jpg",
       "important": false,
       "score": 3
@@ -237,7 +309,7 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/mason-thames-mckenna-grace-filmed-nimrods-regretting-you-1237041798/",
-      "date": "2026-08-16T02:16:39.944075+00:00",
+      "date": "2026-08-16T03:40:28.967121+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/Regretting-You-Nimrods-2-shot.jpg",
       "important": false,
       "score": 3
@@ -261,32 +333,8 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/features/podcast/screen-talk-podcast-tiff-ceo-cameron-bailey-toronto-2026-1235210516/",
-      "date": "2026-08-16T02:16:39.954405+00:00",
+      "date": "2026-08-16T03:40:28.977751+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/P115U4AG.jpg?w=650",
-      "important": false,
-      "score": 1
-    },
-    {
-      "id": "489db48b9b1a",
-      "title": {
-        "en": "‘Spider-Man: Brand New Day’ Still on Top at Box Office With $67 Million 3rd Weekend",
-        "fa": "«Spider-Man: Brand New Day» با 67 میلیون دلار در سومین آخر هفته همچنان در صدر باکس آفیس است."
-      },
-      "excerpt": {
-        "en": "\"The End of Oak Street\" leads newcomers with a sluggish $18 million. The post ‘Spider-Man: Brand New Day’ Still on Top at Box Office With $67 Million 3rd Weekend appeared first on TheWrap .",
-        "fa": "«انتهای اوک استریت» با 18 میلیون دلار ضعیف پیشتاز تازه واردان است."
-      },
-      "content": {
-        "en": "\"The End of Oak Street\" leads newcomers with a sluggish $18 million. The post ‘Spider-Man: Brand New Day’ Still on Top at Box Office With $67 Million 3rd Weekend appeared first on TheWrap .",
-        "fa": "«انتهای اوک استریت» با 18 میلیون دلار ضعیف پیشتاز تازه واردان است."
-      },
-      "source": {
-        "en": "The Wrap",
-        "fa": "The Wrap"
-      },
-      "link": "https://www.thewrap.com/industry-news/business/spider-man-brand-new-day-third-weekend-box-office/",
-      "date": "2026-08-16T02:16:39.952672+00:00",
-      "image": "https://www.thewrap.com/wp-content/uploads/2026/08/spider-man-brand-new-day-image.jpg",
       "important": false,
       "score": 1
     },
@@ -309,7 +357,7 @@
         "fa": "The Hollywood Reporter"
       },
       "link": "https://www.hollywoodreporter.com/movies/movie-news/dudley-moore-author-1236671092/",
-      "date": "2026-08-16T02:16:39.950725+00:00",
+      "date": "2026-08-16T03:40:28.974089+00:00",
       "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/15ENDPG-Main-2026.jpg?w=1296&#038;h=730&#038;crop=1",
       "important": false,
       "score": 1
@@ -333,7 +381,7 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/slipknot-announces-sid-wilson-exit-1237041712/",
-      "date": "2026-08-16T02:16:39.946230+00:00",
+      "date": "2026-08-16T03:40:28.969392+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/GettyImages-159688738.jpg",
       "important": false,
       "score": 1
@@ -357,7 +405,7 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/disney-2028-box-office-x-men-tangled-ghost-rider-d23-1237041743/",
-      "date": "2026-08-16T02:16:39.943655+00:00",
+      "date": "2026-08-16T03:40:28.966646+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/Ghost-Market-Ghost-Rider-Lilo-Stitch-2-Tangled-Incredibles-3.jpg",
       "important": false,
       "score": 1
@@ -381,7 +429,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/criticism/movies/american-doctor-documentary-review-gaza-1235210500/",
-      "date": "2026-08-16T02:16:39.954961+00:00",
+      "date": "2026-08-16T03:40:28.978374+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/ivfj95enlAmerican_Doctor-Still_1.webp?w=650",
       "important": false,
       "score": 0
@@ -405,7 +453,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/news/business/dga-iatse-conditions-paramount-settlement-realistic-1235210398/",
-      "date": "2026-08-16T02:16:39.954749+00:00",
+      "date": "2026-08-16T03:40:28.978139+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/P10XLNE.jpg?w=650",
       "important": false,
       "score": 0
@@ -429,7 +477,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/features/interviews/abbott-elementary-director-randall-einhorn-phillies-game-1235210238/",
-      "date": "2026-08-16T02:16:39.954107+00:00",
+      "date": "2026-08-16T03:40:28.977425+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/178757_1142.jpg?w=650",
       "important": false,
       "score": 0
@@ -453,32 +501,32 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/features/craft/jane-schoenbrun-teenage-sex-and-death-at-camp-miasma-1235210237/",
-      "date": "2026-08-16T02:16:39.953904+00:00",
+      "date": "2026-08-16T03:40:28.977200+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/MCDTESE_K3011.jpg?w=650",
       "important": false,
       "score": 0
     },
     {
-      "id": "6cb5043506ea",
+      "id": "2bb84821f0c0",
       "title": {
-        "en": "Disney’s New Animated Original ‘Clay’ Starring Kieran Culkin Arrives in 2028",
-        "fa": "انیمیشن اصلی جدید دیزنی با نام \"Clay\" با بازی کایران کالکین در سال 2028 وارد بازار می شود."
+        "en": "Robert Downey, Jr, Jeremy Renner, Chris Hemsworth and Iman Vellani to Star in New Avengers Attraction",
+        "fa": "رابرت داونی جونیور، جرمی رنر، کریس همسورث و ایمان ولانی در فیلم New Avengers Attraction بازی خواهند کرد."
       },
       "excerpt": {
-        "en": "“Wish” and “Hexed” filmmaker Fawn Veerasunthorn directs The post Disney’s New Animated Original ‘Clay’ Starring Kieran Culkin Arrives in 2028 appeared first on TheWrap .",
-        "fa": "فاون ویراسونتورن، فیلمساز «آرزو» و «هگزد» کارگردانی می‌کند"
+        "en": "Avengers: Infinity Defense is coming to Avengers Campus at Disney California Adventure in 2028 The post Robert Downey, Jr, Jeremy Renner, Chris Hemsworth and Iman Vellani to Star in New Avengers Attraction appeared first on TheWrap .",
+        "fa": "Avengers: Infinity Defense در سال 2028 به پردیس Avengers در Disney California Adventure می آید"
       },
       "content": {
-        "en": "“Wish” and “Hexed” filmmaker Fawn Veerasunthorn directs The post Disney’s New Animated Original ‘Clay’ Starring Kieran Culkin Arrives in 2028 appeared first on TheWrap .",
-        "fa": "فاون ویراسونتورن، فیلمساز «آرزو» و «هگزد» کارگردانی می‌کند"
+        "en": "Avengers: Infinity Defense is coming to Avengers Campus at Disney California Adventure in 2028 The post Robert Downey, Jr, Jeremy Renner, Chris Hemsworth and Iman Vellani to Star in New Avengers Attraction appeared first on TheWrap .",
+        "fa": "Avengers: Infinity Defense در سال 2028 به پردیس Avengers در Disney California Adventure می آید"
       },
       "source": {
         "en": "The Wrap",
         "fa": "The Wrap"
       },
-      "link": "https://www.thewrap.com/creative-content/movies/clay-walt-disney-animation-studios-d23-footage-explained/",
-      "date": "2026-08-16T02:16:39.953049+00:00",
-      "image": "https://www.thewrap.com/wp-content/uploads/2026/08/Clay-1.jpg",
+      "link": "https://www.thewrap.com/creative-content/movies/avengers-infinity-defense-robert-downey-jr-iman-vellani/",
+      "date": "2026-08-16T03:40:28.974781+00:00",
+      "image": "https://www.thewrap.com/wp-content/uploads/2026/08/Ms-Marvel.jpg",
       "important": false,
       "score": 0
     },
@@ -501,7 +549,7 @@
         "fa": "The Hollywood Reporter"
       },
       "link": "https://www.hollywoodreporter.com/tv/tv-features/tiktok-comment-all-her-fault-motherhood-tv-1236672638/",
-      "date": "2026-08-16T02:16:39.950585+00:00",
+      "date": "2026-08-16T03:40:28.973913+00:00",
       "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/14BFEA-Limited-All-Her-Fault-Main-2026.jpg?w=1296&#038;h=730&#038;crop=1",
       "important": false,
       "score": 0
@@ -525,56 +573,8 @@
         "fa": "The Hollywood Reporter"
       },
       "link": "https://www.hollywoodreporter.com/business/digital/disney-epic-games-star-wars-theme-park-ride-fortnite-1236674132/",
-      "date": "2026-08-16T02:16:39.949937+00:00",
+      "date": "2026-08-16T03:40:28.973251+00:00",
       "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/Mersa-Veta-2.png?crop=0px%2C8px%2C3840px%2C2148px&#038;resize=1440%2C810",
-      "important": false,
-      "score": 0
-    },
-    {
-      "id": "351231a3d916",
-      "title": {
-        "en": "‘Lanterns’ Bosses and Stars on How the Show’s Grounded Approach Ushers in an ‘Entirely Different Kind of Superhero’",
-        "fa": "رئیس‌ها و ستاره‌های «فانوس‌ها» در مورد نحوه برخورد پایه‌ای نمایش، «نوع کاملاً متفاوتی از ابرقهرمانان» را به وجود می‌آورد."
-      },
-      "excerpt": {
-        "en": "As part of James Gunn and Peter Safran’s newly expanded DCU, a more grounded take on the “Green Lantern” comics may surprise audiences who associate the character with the Ryan Reynolds film that received poor reviews back in 2011. But for co-creators Chris Mundy, Damon Lindelof and Tom King, “Lanterns” is all about going back […]",
-        "fa": "به عنوان بخشی از DCU تازه توسعه یافته جیمز گان و پیتر سافران، برداشتی بیشتر از کمیک های «فانوس سبز» ممکن است تماشاگرانی را که این شخصیت را با فیلم رایان رینولدز مرتبط می دانند که در سال 2011 نقدهای ضعیفی دریافت کرد، شگفت زده کند. اما برای سازندگان همکار کریس موندی، دیمون لیندلوف و تام کینگ، «همه در مورد بازگشت به لنترن» هستند."
-      },
-      "content": {
-        "en": "As part of James Gunn and Peter Safran’s newly expanded DCU, a more grounded take on the “Green Lantern” comics may surprise audiences who associate the character with the Ryan Reynolds film that received poor reviews back in 2011. But for co-creators Chris Mundy, Damon Lindelof and Tom King, “Lanterns” is all about going back […]",
-        "fa": "به عنوان بخشی از DCU تازه توسعه یافته جیمز گان و پیتر سافران، برداشتی بیشتر از کمیک های «فانوس سبز» ممکن است تماشاگرانی را که این شخصیت را با فیلم رایان رینولدز مرتبط می دانند که در سال 2011 نقدهای ضعیفی دریافت کرد، شگفت زده کند. اما برای سازندگان همکار کریس موندی، دیمون لیندلوف و تام کینگ، «همه در مورد بازگشت به لنترن» هستند."
-      },
-      "source": {
-        "en": "Variety",
-        "fa": "Variety"
-      },
-      "link": "https://variety.com/2026/tv/news/lanterns-creators-grounded-show-future-dcu-1236835494/",
-      "date": "2026-08-16T02:16:39.948614+00:00",
-      "image": "https://variety.com/wp-content/uploads/2026/08/kyle-chandler_9d6a91.jpg",
-      "important": false,
-      "score": 0
-    },
-    {
-      "id": "64ae602fd504",
-      "title": {
-        "en": "Here’s How to Watch Claressa Shields vs. Kaye Scott Boxing Live Online",
-        "fa": "در اینجا نحوه تماشای زنده آنلاین کلرسا شیلدز در مقابل کی اسکات بوکس آمده است"
-      },
-      "excerpt": {
-        "en": "After defending her undisputed women’s heavyweight title against Franchon Crews-Dezurn back in February, American boxer Claressa Shields drops in weight class to middleweight to challenge WBA and WBC champion Australian Kaye Scott. The bout is scheduled for 10 rounds. On Saturday, Aug. 15, Shields (18-0-0) vs. Scott (5-1-1) takes place at State Farm Arena in […]",
-        "fa": "کلرسا شیلدز بوکسور آمریکایی پس از دفاع از عنوان بلامنازع خود در وزن سنگین وزن زنان در ماه فوریه در برابر فرانچون کروز-دزورن، در کلاس وزنی به وزن متوسط ​​سقوط کرد تا قهرمان WBA و WBC استرالیایی، کیه اسکات را به چالش بکشد. این مسابقه در 10 راند برنامه ریزی شده است. شنبه، 15 آگوست، شیلدز در مقابل اسکات در ورزشگاه State Farm Arena برگزار می شود"
-      },
-      "content": {
-        "en": "After defending her undisputed women’s heavyweight title against Franchon Crews-Dezurn back in February, American boxer Claressa Shields drops in weight class to middleweight to challenge WBA and WBC champion Australian Kaye Scott. The bout is scheduled for 10 rounds. On Saturday, Aug. 15, Shields (18-0-0) vs. Scott (5-1-1) takes place at State Farm Arena in […]",
-        "fa": "کلرسا شیلدز بوکسور آمریکایی پس از دفاع از عنوان بلامنازع خود در وزن سنگین وزن زنان در ماه فوریه در برابر فرانچون کروز-دزورن، در کلاس وزنی به وزن متوسط ​​سقوط کرد تا قهرمان WBA و WBC استرالیایی، کیه اسکات را به چالش بکشد. این مسابقه در 10 راند برنامه ریزی شده است. شنبه، 15 آگوست، شیلدز در مقابل اسکات در ورزشگاه State Farm Arena برگزار می شود"
-      },
-      "source": {
-        "en": "Variety",
-        "fa": "Variety"
-      },
-      "link": "https://variety.com/2026/shopping/news/how-to-watch-claressa-shields-vs-kaye-scott-boxing-live-online-1236833217/",
-      "date": "2026-08-16T02:16:39.947945+00:00",
-      "image": "https://variety.com/wp-content/uploads/2026/02/Boxing-Claressa-Shields-Getty-VR-Featured.jpg",
       "important": false,
       "score": 0
     }
