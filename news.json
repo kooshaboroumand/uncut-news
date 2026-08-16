@@ -1,79 +1,7 @@
 {
-  "updated_at": "2026-08-16T19:14:36.320649+00:00",
-  "count": 24,
+  "updated_at": "2026-08-16T20:11:59.696313+00:00",
+  "count": 22,
   "news": [
-    {
-      "id": "52a957bef09c",
-      "title": {
-        "en": "Netflix Fires Back Against Tyra Banks’ ‘America’s Next Top Model’ Docuseries Defamation Lawsuit",
-        "fa": "نتفلیکس به شکایت افترا علیه فیلم مستند «مدل بعدی آمریکا» تایرا بنکس پاسخ داد"
-      },
-      "excerpt": {
-        "en": "\"Banks understands editorial discretion. She created, hosted, and executive produced 24 seasons of ANTM, making the same kinds of editorial decisions she now attacks — what footage to include, what to omit, and how to present competing narratives,\" the motion reads.",
-        "fa": "در این حرکت آمده است: \"بانک صلاحدید تحریریه را درک می کند. او 24 فصل ANTM را ایجاد، میزبانی و تولید اجرایی کرد، و همان تصمیمات سرمقاله ای را می گیرد که اکنون به آنها حمله می کند - چه فیلمی باید اضافه شود، چه چیزی حذف شود، و چگونه روایت های رقیب ارائه شود.\""
-      },
-      "content": {
-        "en": "\"Banks understands editorial discretion. She created, hosted, and executive produced 24 seasons of ANTM, making the same kinds of editorial decisions she now attacks — what footage to include, what to omit, and how to present competing narratives,\" the motion reads.",
-        "fa": "در این حرکت آمده است: \"بانک صلاحدید تحریریه را درک می کند. او 24 فصل ANTM را ایجاد، میزبانی و تولید اجرایی کرد، و همان تصمیمات سرمقاله ای را می گیرد که اکنون به آنها حمله می کند - چه فیلمی باید اضافه شود، چه چیزی حذف شود، و چگونه روایت های رقیب ارائه شود.\""
-      },
-      "source": {
-        "en": "The Hollywood Reporter",
-        "fa": "The Hollywood Reporter"
-      },
-      "link": "https://www.hollywoodreporter.com/tv/tv-news/netflix-tyra-banks-antm-defamation-lawsuit-dismiss-1236674506/",
-      "date": "2026-08-16T19:14:36.113518+00:00",
-      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/01/tyra-banks.png?crop=0px%2C7px%2C2438px%2C1364px&#038;resize=1440%2C810",
-      "important": true,
-      "score": 6
-    },
-    {
-      "id": "068edc9eda7b",
-      "title": {
-        "en": "Locarno Winner ‘Forgotten Spaceman’ Adds Khan & Kumar Media, Prism Entertainment as Executive Producers Ahead of Toronto Bow (EXCLUSIVE)",
-        "fa": "برنده لوکارنو، «مرد فضایی فراموش شده»، خان و کومار مدیا، پریسم اینترتینمنت را به عنوان تهیه‌کنندگان اجرایی پیش از Toronto Bow اضافه کرد."
-      },
-      "excerpt": {
-        "en": "“Forgotten Spaceman,” the documentary short by BAFTA-nominated filmmaker Elham Ehsas that won the Leopard of Tomorrow (International Competition) award at Locarno’s Junior Jury Awards, has added Khan & Kumar Media and Prism Entertainment as executive producers ahead of its Toronto Film Festival premiere next month. The new executive producers are Sharib Khan and Vikas Kumar […]",
-        "fa": "مستند کوتاه «مرد فضایی فراموش شده» ساخته الهام احساس، فیلمساز نامزد بفتا که برنده جایزه پلنگ فردا در جوایز جوایز هیئت داوران لوکارنو شد، پیش از اکران جشنواره فیلم تورنتو در ماه آینده، خان اند کومار مدیا و پریسم اینترتینمنت را به عنوان تهیه کنندگان اجرایی اضافه کرد. تهیه کنندگان اجرایی جدید شریب خان و ویکاس کومار هستند"
-      },
-      "content": {
-        "en": "“Forgotten Spaceman,” the documentary short by BAFTA-nominated filmmaker Elham Ehsas that won the Leopard of Tomorrow (International Competition) award at Locarno’s Junior Jury Awards, has added Khan & Kumar Media and Prism Entertainment as executive producers ahead of its Toronto Film Festival premiere next month. The new executive producers are Sharib Khan and Vikas Kumar […]",
-        "fa": "“Forgotten Spaceman,” the documentary short by BAFTA-nominated filmmaker Elham Ehsas that won the Leopard of Tomorrow (International Competition) award at Locarno’s Junior Jury Awards, has added Khan & Kumar Media and Prism Entertainment as executive producers ahead of its Toronto Film Festival premiere next month. The new executive producers are Sharib Khan and Vikas Kumar […]"
-      },
-      "source": {
-        "en": "Variety",
-        "fa": "Variety"
-      },
-      "link": "https://variety.com/2026/film/festivals/forgotten-spaceman-locarno-leopard-tomorrow-khan-kumar-prism-eps-1236835604/",
-      "date": "2026-08-16T19:14:36.111543+00:00",
-      "image": "https://variety.com/wp-content/uploads/2026/05/Forgotten-Spaceman.jpg",
-      "important": true,
-      "score": 6
-    },
-    {
-      "id": "d99abe54bbeb",
-      "title": {
-        "en": "Astra TV Awards 2026 Winners Include ‘Hacks’, ‘The Pitt’ & ‘Shrinking’ — Full List",
-        "fa": "برندگان جوایز Astra TV 2026 شامل «Hacks»، «The Pitt» و «Shrinking» هستند - فهرست کامل"
-      },
-      "excerpt": {
-        "en": "The Hollywood Creative Alliance has named this year’s best in television with the 6th Astra TV Awards. On Saturday, host Lisa Ann Walter presided over the awards show at the InterContinental in Los Angeles, where HBO’s The Pitt was the big winner of the evening with seven trophies, followed by Netflix’s Beef with five, and […]",
-        "fa": "اتحاد خلاق هالیوود با ششمین دوره جوایز تلویزیون Astra بهترین های تلویزیون امسال را معرفی کرد. روز شنبه، لیزا آن والتر مجری برنامه جوایز را در InterContinental در لس آنجلس رهبری کرد، جایی که پیت از HBO با هفت جایزه برنده بزرگ این شب شد، و پس از آن بیف از نتفلیکس با پنج جایزه، و"
-      },
-      "content": {
-        "en": "The Hollywood Creative Alliance has named this year’s best in television with the 6th Astra TV Awards. On Saturday, host Lisa Ann Walter presided over the awards show at the InterContinental in Los Angeles, where HBO’s The Pitt was the big winner of the evening with seven trophies, followed by Netflix’s Beef with five, and […]",
-        "fa": "اتحاد خلاق هالیوود با ششمین دوره جوایز تلویزیون Astra بهترین های تلویزیون امسال را معرفی کرد. روز شنبه، لیزا آن والتر مجری برنامه جوایز را در InterContinental در لس آنجلس رهبری کرد، جایی که پیت از HBO با هفت جایزه برنده بزرگ این شب شد، و پس از آن بیف از نتفلیکس با پنج جایزه، و"
-      },
-      "source": {
-        "en": "Deadline",
-        "fa": "Deadline"
-      },
-      "link": "https://deadline.com/2026/08/astra-tv-awards-2026-winners-full-list-1237041860/",
-      "date": "2026-08-16T19:14:36.108940+00:00",
-      "image": "https://deadline.com/wp-content/uploads/2026/08/Astra-TV-Award-Winners-2026.jpg",
-      "important": true,
-      "score": 6
-    },
     {
       "id": "c7ce2f3cb78e",
       "title": {
@@ -93,7 +21,7 @@
         "fa": "Variety"
       },
       "link": "https://variety.com/2026/film/box-office/spider-man-brand-new-day-2-billion-worldwide-box-office-second-fastest-milestone-1236834058/",
-      "date": "2026-08-16T19:14:36.111104+00:00",
+      "date": "2026-08-16T20:11:59.528202+00:00",
       "image": "https://variety.com/wp-content/uploads/2026/08/MCDSPMA_CO022.jpg",
       "important": true,
       "score": 4
@@ -117,7 +45,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/news/breaking-news/film-independent-biggest-grant-history-juan-devis-1235210522/",
-      "date": "2026-08-16T19:14:36.116533+00:00",
+      "date": "2026-08-16T20:11:59.533635+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/Juan_Devis_2304sm-photo.jpeg?w=650",
       "important": false,
       "score": 3
@@ -134,14 +62,14 @@
       },
       "content": {
         "en": "Kyle Chandler and Aaron Pierre star in the latest DC Comics series The post ‘Lanterns’ Season 1 Release Schedule: When Are New Episodes Out? appeared first on TheWrap .",
-        "fa": "کایل چندلر و آرون پیر در جدیدترین سریال کامیکس دی سی بازی کردند"
+        "fa": "Kyle Chandler and Aaron Pierre star in the latest DC Comics series The post ‘Lanterns’ Season 1 Release Schedule: When Are New Episodes Out? appeared first on TheWrap ."
       },
       "source": {
         "en": "The Wrap",
         "fa": "The Wrap"
       },
       "link": "https://www.thewrap.com/creative-content/what-to-watch/lanterns-release-date-time-episodes-schedule/",
-      "date": "2026-08-16T19:14:36.113991+00:00",
+      "date": "2026-08-16T20:11:59.530903+00:00",
       "image": "https://www.thewrap.com/wp-content/uploads/2026/08/lanterns-kyle-chandler-hbo.jpg",
       "important": false,
       "score": 3
@@ -165,7 +93,7 @@
         "fa": "Variety"
       },
       "link": "https://variety.com/2026/tv/news/mariska-hargitay-confirms-jalen-brunson-law-order-svu-role-1236835668/",
-      "date": "2026-08-16T19:14:36.109746+00:00",
+      "date": "2026-08-16T20:11:59.526760+00:00",
       "image": "https://variety.com/wp-content/uploads/2026/08/MixCollage-16-Aug-2026-11-40-AM-290.jpg",
       "important": false,
       "score": 3
@@ -178,7 +106,7 @@
       },
       "excerpt": {
         "en": "Widow’s Bay fans rejoice! Creator-showrunner Kate Dippold has a progress report on the Season 2 writers’ room. “It’s great,” she said during a panel at Deadline’s Contenders Television: The Nominees Studio. “Week 3, feeling great. I think it’s fun. I feel like I always look at Season 1 — what was really hard with that is […]",
-        "fa": "Widow’s Bay fans rejoice! Creator-showrunner Kate Dippold has a progress report on the Season 2 writers’ room. “It’s great,” she said during a panel at Deadline’s Contenders Television: The Nominees Studio. “Week 3, feeling great. I think it’s fun. I feel like I always look at Season 1 — what was really hard with that is […]"
+        "fa": "طرفداران Widow’s Bay خوشحال می شوند! کیت دیپولد، سازنده و نمایش دهنده، گزارشی از پیشرفت اتاق نویسندگان فصل دوم دارد. او در طی یک پنل در Deadline's Contenders TV: The Nominees Studio گفت: «خیلی عالی است. \"هفته 3، احساس فوق العاده ای دارم. فکر می کنم سرگرم کننده است. احساس می کنم همیشه به فصل 1 نگاه می کنم - چیزی که واقعا سخت بود این است که"
       },
       "content": {
         "en": "Widow’s Bay fans rejoice! Creator-showrunner Kate Dippold has a progress report on the Season 2 writers’ room. “It’s great,” she said during a panel at Deadline’s Contenders Television: The Nominees Studio. “Week 3, feeling great. I think it’s fun. I feel like I always look at Season 1 — what was really hard with that is […]",
@@ -189,7 +117,7 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/widows-bay-season-2-katie-dippold-matthew-rhys-interview-1237041772/",
-      "date": "2026-08-16T19:14:36.106112+00:00",
+      "date": "2026-08-16T20:11:59.523513+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/Widows-Bay-1.jpg",
       "important": false,
       "score": 3
@@ -213,8 +141,32 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/features/podcast/screen-talk-podcast-tiff-ceo-cameron-bailey-toronto-2026-1235210516/",
-      "date": "2026-08-16T19:14:36.116661+00:00",
+      "date": "2026-08-16T20:11:59.533774+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/P115U4AG.jpg?w=650",
+      "important": false,
+      "score": 1
+    },
+    {
+      "id": "2b4072d9ebee",
+      "title": {
+        "en": "‘Hercules’ Voice Actress Susan Egan Nominates Zendaya & Tom Holland For Potential Live-Action Remake: “The World Needs It” — D23",
+        "fa": "سوزان ایگان، بازیگر صدای «هرکول»، زندایا و تام هالند را برای بازسازی بالقوه لایو اکشن نامزد کرد: «جهان به آن نیاز دارد» — D23"
+      },
+      "excerpt": {
+        "en": "With Spider-Man: Brand New Day a super box office success, Tom Holland and Zendaya might just have their next classic hero adaptation. Speaking with Deadline on the red carpet Sunday at D23, Hercules (1997) voice actress Susan Egan nominated Zendaya to take over her role as Meg in a live-action remake of the Disney animated […]",
+        "fa": "تام هالند و زندایا با موفقیتی فوق العاده در باکس آفیس Spider-Man: Brand New Day، ممکن است اقتباس قهرمان کلاسیک بعدی خود را داشته باشند. سوزان ایگان، صداپیشه هرکول، در صحبت با ددلاین روی فرش قرمز یکشنبه در D23، زندایا را نامزد کرد تا نقش مگ را در بازسازی لایو اکشن انیمیشن دیزنی به عهده بگیرد."
+      },
+      "content": {
+        "en": "With Spider-Man: Brand New Day a super box office success, Tom Holland and Zendaya might just have their next classic hero adaptation. Speaking with Deadline on the red carpet Sunday at D23, Hercules (1997) voice actress Susan Egan nominated Zendaya to take over her role as Meg in a live-action remake of the Disney animated […]",
+        "fa": "تام هالند و زندایا با موفقیتی فوق العاده در باکس آفیس Spider-Man: Brand New Day، ممکن است اقتباس قهرمان کلاسیک بعدی خود را داشته باشند. سوزان ایگان، صداپیشه هرکول، در صحبت با ددلاین روی فرش قرمز یکشنبه در D23، زندایا را نامزد کرد تا نقش مگ را در بازسازی لایو اکشن انیمیشن دیزنی به عهده بگیرد."
+      },
+      "source": {
+        "en": "Deadline",
+        "fa": "Deadline"
+      },
+      "link": "https://deadline.com/2026/08/hercules-susan-egan-nominates-zendaya-tom-holland-remake-1237042242/",
+      "date": "2026-08-16T20:11:59.522140+00:00",
+      "image": "https://deadline.com/wp-content/uploads/2026/08/Hercules-Tom-Holland-Zendaya-2-shot.jpg",
       "important": false,
       "score": 1
     },
@@ -230,14 +182,14 @@
       },
       "content": {
         "en": "Poh Si Teng's remarkable film spotlights the best and most capable among us as part of a uniquely effective call to action.",
-        "fa": "Poh Si Teng's remarkable film spotlights the best and most capable among us as part of a uniquely effective call to action."
+        "fa": "فیلم قابل توجه Poh Si Teng بهترین و تواناترین ما را به عنوان بخشی از یک فراخوان منحصر به فرد موثر به عمل می آورد."
       },
       "source": {
         "en": "IndieWire",
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/criticism/movies/american-doctor-documentary-review-gaza-1235210500/",
-      "date": "2026-08-16T19:14:36.117230+00:00",
+      "date": "2026-08-16T20:11:59.534389+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/ivfj95enlAmerican_Doctor-Still_1.webp?w=650",
       "important": false,
       "score": 0
@@ -261,7 +213,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/news/business/dga-iatse-conditions-paramount-settlement-realistic-1235210398/",
-      "date": "2026-08-16T19:14:36.117013+00:00",
+      "date": "2026-08-16T20:11:59.534139+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/P10XLNE.jpg?w=650",
       "important": false,
       "score": 0
@@ -278,14 +230,14 @@
       },
       "content": {
         "en": "Director Randall Einhorn tells IndieWire about taking the show out to a ballgame and the happy accidents that make the series so special.",
-        "fa": "Director Randall Einhorn tells IndieWire about taking the show out to a ballgame and the happy accidents that make the series so special."
+        "fa": "راندال آینهورن، کارگردان، به IndieWire در مورد بردن نمایش به یک بازی بال و حوادث شادی که سریال را بسیار خاص می‌کند، می‌گوید."
       },
       "source": {
         "en": "IndieWire",
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/features/interviews/abbott-elementary-director-randall-einhorn-phillies-game-1235210238/",
-      "date": "2026-08-16T19:14:36.116362+00:00",
+      "date": "2026-08-16T20:11:59.533444+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/178757_1142.jpg?w=650",
       "important": false,
       "score": 0
@@ -294,11 +246,11 @@
       "id": "357806072d79",
       "title": {
         "en": "About That ‘Super Bowl Moment’ in the Middle of ‘Teenage Sex and Death at Camp Miasma’",
-        "fa": "About That ‘Super Bowl Moment’ in the Middle of ‘Teenage Sex and Death at Camp Miasma’"
+        "fa": "درباره آن «لحظه سوپر بول» در وسط «سکس و مرگ نوجوانان در کمپ میاسما»"
       },
       "excerpt": {
         "en": "Writer and director Jane Schoenbrun tells IndieWire about the hours of prep (and Counting Crows) that went into the slasher sequence in the middle of their latest film.",
-        "fa": "Writer and director Jane Schoenbrun tells IndieWire about the hours of prep (and Counting Crows) that went into the slasher sequence in the middle of their latest film."
+        "fa": "نویسنده و کارگردان جین شوئنبرون به IndieWire در مورد ساعت‌های آماده‌سازی می‌گوید که در اواسط آخرین فیلمشان در سکانس اسلشر انجام شد."
       },
       "content": {
         "en": "Writer and director Jane Schoenbrun tells IndieWire about the hours of prep (and Counting Crows) that went into the slasher sequence in the middle of their latest film.",
@@ -309,32 +261,32 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/features/craft/jane-schoenbrun-teenage-sex-and-death-at-camp-miasma-1235210237/",
-      "date": "2026-08-16T19:14:36.116155+00:00",
+      "date": "2026-08-16T20:11:59.533201+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/MCDTESE_K3011.jpg?w=650",
       "important": false,
       "score": 0
     },
     {
-      "id": "7e3af2272f62",
+      "id": "1d1cb14b35f1",
       "title": {
-        "en": "Harrison Ford Will Appear in New Indiana Jones Attraction at Walt Disney World",
-        "fa": "هریسون فورد در جاذبه جدید ایندیانا جونز در دنیای والت دیزنی ظاهر خواهد شد"
+        "en": "Robert Downey, Jr, Jeremy Renner, Chris Hemsworth and Iman Vellani to Star in Avengers Disney Land Attraction",
+        "fa": "رابرت داونی جونیور، جرمی رنر، کریس همسورث و ایمان ولانی در فیلم Avengers Disney Land Attraction بازی خواهند کرد."
       },
       "excerpt": {
-        "en": "Indiana Jones and the Myth of the Jade Serpent will open at Disney’s Animal Kingdom The post Harrison Ford Will Appear in New Indiana Jones Attraction at Walt Disney World appeared first on TheWrap .",
-        "fa": "ایندیانا جونز و افسانه مار جید در پادشاهی حیوانات دیزنی افتتاح می شود"
+        "en": "Avengers: Infinity Defense is coming to Avengers Campus at Disney California Adventure in 2028 The post Robert Downey, Jr, Jeremy Renner, Chris Hemsworth and Iman Vellani to Star in Avengers Disney Land Attraction appeared first on TheWrap .",
+        "fa": "Avengers: Infinity Defense در سال 2028 به پردیس Avengers در Disney California Adventure می آید"
       },
       "content": {
-        "en": "Indiana Jones and the Myth of the Jade Serpent will open at Disney’s Animal Kingdom The post Harrison Ford Will Appear in New Indiana Jones Attraction at Walt Disney World appeared first on TheWrap .",
-        "fa": "ایندیانا جونز و افسانه مار جید در پادشاهی حیوانات دیزنی افتتاح می شود"
+        "en": "Avengers: Infinity Defense is coming to Avengers Campus at Disney California Adventure in 2028 The post Robert Downey, Jr, Jeremy Renner, Chris Hemsworth and Iman Vellani to Star in Avengers Disney Land Attraction appeared first on TheWrap .",
+        "fa": "Avengers: Infinity Defense در سال 2028 به پردیس Avengers در Disney California Adventure می آید"
       },
       "source": {
         "en": "The Wrap",
         "fa": "The Wrap"
       },
-      "link": "https://www.thewrap.com/creative-content/movies/indiana-jones-and-the-myth-of-the-jade-serpent-harrison-ford-stars/",
-      "date": "2026-08-16T19:14:36.115110+00:00",
-      "image": "https://www.thewrap.com/wp-content/uploads/2026/08/Indiana-Jones-and-the-Myth-of-the-Jade-Serpent-at-Disney-s-Animal-Kingdom-–-Tsukan-Concept-Art.jpg",
+      "link": "https://www.thewrap.com/creative-content/movies/avengers-infinity-defense-robert-downey-jr-iman-vellani/",
+      "date": "2026-08-16T20:11:59.532291+00:00",
+      "image": "https://www.thewrap.com/wp-content/uploads/2026/08/Ms-Marvel.jpg",
       "important": false,
       "score": 0
     },
@@ -357,7 +309,7 @@
         "fa": "The Wrap"
       },
       "link": "https://www.thewrap.com/culture-lifestyle/culture/disney-villains-land-gets-story-ride-details-walt-disney-world/",
-      "date": "2026-08-16T19:14:36.114930+00:00",
+      "date": "2026-08-16T20:11:59.531925+00:00",
       "image": "https://www.thewrap.com/wp-content/uploads/2026/08/Villains-Land.jpg",
       "important": false,
       "score": 0
@@ -381,32 +333,8 @@
         "fa": "The Wrap"
       },
       "link": "https://www.thewrap.com/culture-lifestyle/culture/imagination-pavilion-overhaul-epcot-first-details/",
-      "date": "2026-08-16T19:14:36.114680+00:00",
+      "date": "2026-08-16T20:11:59.531661+00:00",
       "image": "https://www.thewrap.com/wp-content/uploads/2026/08/Imagination-Pavillion.jpg",
-      "important": false,
-      "score": 0
-    },
-    {
-      "id": "adc01a01311d",
-      "title": {
-        "en": "Disney’s Experiences Chief Talks Figment, the Tomorrowland Refresh and All That D23 News",
-        "fa": "Disney’s Experiences Chief Talks Figment، Tomorrowland Refresh و همه آن اخبار D23"
-      },
-      "excerpt": {
-        "en": "Thomas Mazloum spoke to THR in connection with the D23 fan event in Anaheim this weekend.",
-        "fa": "توماس مظلوم در رابطه با رویداد هواداران D23 در آناهیم این هفته با THR صحبت کرد."
-      },
-      "content": {
-        "en": "Thomas Mazloum spoke to THR in connection with the D23 fan event in Anaheim this weekend.",
-        "fa": "Thomas Mazloum spoke to THR in connection with the D23 fan event in Anaheim this weekend."
-      },
-      "source": {
-        "en": "The Hollywood Reporter",
-        "fa": "The Hollywood Reporter"
-      },
-      "link": "https://www.hollywoodreporter.com/business/business-news/disneys-experiences-tomorrowland-figment-refresh-d23-1236673154/",
-      "date": "2026-08-16T19:14:36.113337+00:00",
-      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/Villains-Land-at-Magic-Kingdom-–-Dark-Ride-Attraction-Concept-Art.png?crop=0px%2C431px%2C10500px%2C5875px&#038;resize=1440%2C810",
       "important": false,
       "score": 0
     },
@@ -429,8 +357,32 @@
         "fa": "The Hollywood Reporter"
       },
       "link": "https://www.hollywoodreporter.com/movies/movie-features/jack-rowan-kieron-j-walsh-interview-skintown-film-edinburgh-1236670964/",
-      "date": "2026-08-16T19:14:36.112962+00:00",
+      "date": "2026-08-16T20:11:59.530427+00:00",
       "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/FotoJet-2026-08-12T122302.697.jpg?w=1440&#038;h=810&#038;crop=1",
+      "important": false,
+      "score": 0
+    },
+    {
+      "id": "020543f34cd7",
+      "title": {
+        "en": "‘Love Story’ Producers Didn’t Expect Carolyn Bessette’s TikTok Fan Army to Come for Them",
+        "fa": "تهیه کنندگان «داستان عشق» انتظار نداشتند ارتش طرفداران TikTok کارولین بست به سراغشان بیاید."
+      },
+      "excerpt": {
+        "en": "Nina Jacobson and Brad Simpson reveal how leaked photos sparked a social media firestorm — and how the FX limited series ultimately won over skeptics with seven Emmy nominations.",
+        "fa": "نینا جیکوبسون و برد سیمپسون فاش می‌کنند که چگونه عکس‌های فاش شده طوفان رسانه‌های اجتماعی را برانگیخت - و چگونه سریال محدود FX در نهایت با هفت نامزدی امی، شک‌ها را جلب کرد."
+      },
+      "content": {
+        "en": "Nina Jacobson and Brad Simpson reveal how leaked photos sparked a social media firestorm — and how the FX limited series ultimately won over skeptics with seven Emmy nominations.",
+        "fa": "نینا جیکوبسون و برد سیمپسون فاش می‌کنند که چگونه عکس‌های فاش شده طوفان رسانه‌های اجتماعی را برانگیخت - و چگونه سریال محدود FX در نهایت با هفت نامزدی امی، شک‌ها را جلب کرد."
+      },
+      "source": {
+        "en": "The Hollywood Reporter",
+        "fa": "The Hollywood Reporter"
+      },
+      "link": "https://www.hollywoodreporter.com/tv/tv-features/love-story-producers-react-carolyn-bessette-tiktok-1236672651/",
+      "date": "2026-08-16T20:11:59.528667+00:00",
+      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/14BFEA-Limited-Love-Main-2026.jpg?w=1296&#038;h=730&#038;crop=1",
       "important": false,
       "score": 0
     },
@@ -453,7 +405,7 @@
         "fa": "Variety"
       },
       "link": "https://variety.com/2026/film/news/paul-mescal-barry-keoghan-filming-beatles-biopic-abbey-road-1236835628/",
-      "date": "2026-08-16T19:14:36.110736+00:00",
+      "date": "2026-08-16T20:11:59.527815+00:00",
       "image": "https://variety.com/wp-content/uploads/2026/01/MixCollage-30-Jan-2026-09-27-AM-9912.jpg",
       "important": false,
       "score": 0
@@ -477,80 +429,32 @@
         "fa": "Variety"
       },
       "link": "https://variety.com/2026/film/global/kenneth-branagh-harry-potter-christopher-nolan-1236835634/",
-      "date": "2026-08-16T19:14:36.109591+00:00",
+      "date": "2026-08-16T20:11:59.526587+00:00",
       "image": "https://variety.com/wp-content/uploads/2026/07/Kenneth_Branagh_PhotoCredit_JohanPersson-e1784738510187.jpg",
       "important": false,
       "score": 0
     },
     {
-      "id": "0eb2d9a37b9f",
+      "id": "784443d20b32",
       "title": {
-        "en": "Disney Unveils Avengers Infinity Defense Lead By Ms. Marvel, Return Of Avengers Cast, Harrison Ford Models New Indiana Jones Attraction, Villains Land & More At D23",
-        "fa": "دیزنی از Avengers Infinity Defense به رهبری خانم مارول، بازیگران بازگشت انتقام جویان، هریسون فورد مدل های جدید جاذبه ایندیانا جونز، سرزمین شرور و غیره در D23 رونمایی کرد."
+        "en": "Alex Cooper Poised to Drop UTA After Tough Period of Media Scrutiny",
+        "fa": "الکس کوپر آماده است تا UTA را پس از یک دوره سخت بررسی رسانه ای کنار بگذارد"
       },
       "excerpt": {
-        "en": "The happiest place on earth just got more global. At the D23’s Saturday Parks Panel, host Neil Patrick Harris gave way to several Walt Disney Imagineers who shared the next steps in the mouse house’s billion-dollar expansion.​In the U.S., executives and creative designers showed off a sneak peek of upcoming West Coast attractions at Disney […]",
-        "fa": "شادترین مکان روی زمین به تازگی جهانی تر شده است. در پانل شنبه پارک‌های D23، نیل پاتریک هریس میزبان، جای خود را به چندین تخیل والت دیزنی داد که گام‌های بعدی توسعه میلیارد دلاری خانه موش‌ها را به اشتراک گذاشتند. در ایالات متحده، مدیران اجرایی و طراحان خلاق نگاهی دزدکی به جاذبه‌های آینده ساحل غربی در دیزنی به نمایش گذاشتند."
+        "en": "Alex Cooper seems intent on unraveling some of the current relationships that have helped underpin her production company, Unwell. The star podcaster and media entrepreneur is poised to drop her current talent agency, UTA, according to a person familiar with the matter, frustrated in part by its continuing relationships with Alix Earle and Dave Portnoy, […]",
+        "fa": "به نظر می رسد الکس کوپر قصد دارد برخی از روابط فعلی را که به شرکت سازنده او، Unwell کمک کرده است، باز کند. به گفته یکی از افراد آشنا به این موضوع، این ستاره پادکست و کارآفرین رسانه ای، آژانس استعدادیابی فعلی خود، UTA، که تا حدی از ادامه روابطش با آلیکس ارل و دیو پورتنوی ناامید شده است، آماده است تا آژانس استعدادیابی فعلی خود را کنار بگذارد."
       },
       "content": {
-        "en": "The happiest place on earth just got more global. At the D23’s Saturday Parks Panel, host Neil Patrick Harris gave way to several Walt Disney Imagineers who shared the next steps in the mouse house’s billion-dollar expansion.​In the U.S., executives and creative designers showed off a sneak peek of upcoming West Coast attractions at Disney […]",
-        "fa": "شادترین مکان روی زمین به تازگی جهانی تر شده است. در پانل شنبه پارک‌های D23، نیل پاتریک هریس میزبان، جای خود را به چندین تخیل والت دیزنی داد که گام‌های بعدی توسعه میلیارد دلاری خانه موش‌ها را به اشتراک گذاشتند. در ایالات متحده، مدیران اجرایی و طراحان خلاق نگاهی دزدکی به جاذبه‌های آینده ساحل غربی در دیزنی به نمایش گذاشتند."
+        "en": "Alex Cooper seems intent on unraveling some of the current relationships that have helped underpin her production company, Unwell. The star podcaster and media entrepreneur is poised to drop her current talent agency, UTA, according to a person familiar with the matter, frustrated in part by its continuing relationships with Alix Earle and Dave Portnoy, […]",
+        "fa": "به نظر می رسد الکس کوپر قصد دارد برخی از روابط فعلی را که به شرکت سازنده او، Unwell کمک کرده است، باز کند. به گفته یکی از افراد آشنا به این موضوع، این ستاره پادکست و کارآفرین رسانه ای، آژانس استعدادیابی فعلی خود، UTA، که تا حدی از ادامه روابطش با آلیکس ارل و دیو پورتنوی ناامید شده است، آماده است تا آژانس استعدادیابی فعلی خود را کنار بگذارد."
       },
       "source": {
-        "en": "Deadline",
-        "fa": "Deadline"
+        "en": "Variety",
+        "fa": "Variety"
       },
-      "link": "https://deadline.com/2026/08/disneyland-new-attractions-avengers-1237041853/",
-      "date": "2026-08-16T19:14:36.108739+00:00",
-      "image": "https://deadline.com/wp-content/uploads/2026/08/DCA-Avengers-Infinty-Defense-WDI-Preview-2-edited.jpg",
-      "important": false,
-      "score": 0
-    },
-    {
-      "id": "002b3d32fb1b",
-      "title": {
-        "en": "‘Borges And Me’ Review: Marc Turtletaub’s Hallucinatory ’70s Road Trip Is Smart, Literary And Playful – Edinburgh Film Festival",
-        "fa": "نقد «بورخس و من»: سفر جاده‌ای توهم‌آمیز دهه 70 مارک ترتلتاب هوشمند، ادبی و بازیگوش است - جشنواره فیلم ادینبورگ"
-      },
-      "excerpt": {
-        "en": "Sometimes it feels like the growing subset of films set in the stuffy British academic world of the early ’70s deserve a genre all to themselves. It’s a very interesting visual paradox; young people going out into the world to discover and further themselves in an environment that’s been stained nicotine-brown by the chain-smokers of […]",
-        "fa": "گاهی اوقات به نظر می‌رسد که زیرمجموعه‌های رو به رشد فیلم‌هایی که در دنیای آکادمیک بریتانیایی در اوایل دهه 70 اتفاق می‌افتند، سزاوار یک ژانر هستند. این یک پارادوکس بصری بسیار جالب است. جوانانی که برای کشف و پیشرفت خود در محیطی که توسط سیگاری های زنجیره ای نیکوتین قهوه ای رنگ آمیزی شده است به دنیا می روند."
-      },
-      "content": {
-        "en": "Sometimes it feels like the growing subset of films set in the stuffy British academic world of the early ’70s deserve a genre all to themselves. It’s a very interesting visual paradox; young people going out into the world to discover and further themselves in an environment that’s been stained nicotine-brown by the chain-smokers of […]",
-        "fa": "گاهی اوقات به نظر می‌رسد که زیرمجموعه‌های رو به رشد فیلم‌هایی که در دنیای آکادمیک بریتانیایی در اوایل دهه 70 اتفاق می‌افتند، سزاوار یک ژانر هستند. این یک پارادوکس بصری بسیار جالب است. جوانانی که برای کشف و پیشرفت خود در محیطی که توسط سیگاری های زنجیره ای نیکوتین قهوه ای رنگ آمیزی شده است به دنیا می روند."
-      },
-      "source": {
-        "en": "Deadline",
-        "fa": "Deadline"
-      },
-      "link": "https://deadline.com/2026/08/borges-and-me-review-marc-turtletaub-fionn-whitehead-alan-cumming-1237042032/",
-      "date": "2026-08-16T19:14:36.108588+00:00",
-      "image": "https://deadline.com/wp-content/uploads/2026/08/images.jpeg",
-      "important": false,
-      "score": 0
-    },
-    {
-      "id": "0a07397f2c4a",
-      "title": {
-        "en": "Mira Sorvino Calls ‘Romy & Michele 2’ Co-Star Lisa Kudrow A “Great Acting Partner” & Reveals Why Film Has Withstood The Test Of Time",
-        "fa": "میرا سوروینو، لیزا کودرو، همبازی خود در «رومی و میشل 2» را «شریک بازیگری عالی» می‌خواند و نشان می‌دهد که چرا فیلم در آزمون زمان مقاومت کرده است."
-      },
-      "excerpt": {
-        "en": "Mira Sorvino and Lisa Kudrow are reprising their roles from Romy and Michele’s High School Reunion for the sequel. The duo was at D23: The Ultimate Disney Fan Event in Anaheim, California, to preview Romy and Michele 2, which they both executive produce. With the sequel premiering 30 years after the original was released, Sorvino […]",
-        "fa": "میرا سوروینو و لیزا کودرو دوباره نقش‌های خود را از دیدار مجدد دبیرستان رومی و میشل برای دنباله بازی می‌کنند. این دو در D23: The Ultimate Fan Event در آناهیم، ​​کالیفرنیا، برای پیش نمایش Romy و Michele 2 که هر دو تهیه کننده اجرایی آن هستند، حضور داشتند. با اولین نمایش دنباله 30 سال پس از انتشار نسخه اصلی، Sorvino"
-      },
-      "content": {
-        "en": "Mira Sorvino and Lisa Kudrow are reprising their roles from Romy and Michele’s High School Reunion for the sequel. The duo was at D23: The Ultimate Disney Fan Event in Anaheim, California, to preview Romy and Michele 2, which they both executive produce. With the sequel premiering 30 years after the original was released, Sorvino […]",
-        "fa": "میرا سوروینو و لیزا کودرو دوباره نقش‌های خود را از دیدار مجدد دبیرستان رومی و میشل برای دنباله بازی می‌کنند. این دو در D23: The Ultimate Fan Event در آناهیم، ​​کالیفرنیا، برای پیش نمایش Romy و Michele 2 که هر دو تهیه کننده اجرایی آن هستند، حضور داشتند. با اولین نمایش دنباله 30 سال پس از انتشار نسخه اصلی، Sorvino"
-      },
-      "source": {
-        "en": "Deadline",
-        "fa": "Deadline"
-      },
-      "link": "https://deadline.com/2026/08/mira-sorvino-romy-and-michele-lisa-kudrow-d23-1237042021/",
-      "date": "2026-08-16T19:14:36.108282+00:00",
-      "image": "https://deadline.com/wp-content/uploads/2026/08/lisa-kudrow-and-mira-sorvino-romy-and-michele-2.jpg",
+      "link": "https://variety.com/2026/tv/news/alex-cooper-drop-uta-1236835704/",
+      "date": "2026-08-16T20:11:59.525544+00:00",
+      "image": "https://variety.com/wp-content/uploads/2026/08/Alex-Cooper.jpg",
       "important": false,
       "score": 0
     },
@@ -573,8 +477,56 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/disney-josh-damaro-ceo-opportunities-d23-1237042155/",
-      "date": "2026-08-16T19:14:36.107023+00:00",
+      "date": "2026-08-16T20:11:59.524093+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/josh-damaro-d23.jpg",
+      "important": false,
+      "score": 0
+    },
+    {
+      "id": "f61837612afe",
+      "title": {
+        "en": "Sam Mendes’ Beatles Biopic Recreates ‘Abbey Road’ Album Cover In Behind-The-Scenes Video — Watch",
+        "fa": "فیلم زندگینامه بیتلز سام مندز جلد آلبوم Abbey Road را در پشت صحنه ویدیو بازسازی می کند — تماشا کنید"
+      },
+      "excerpt": {
+        "en": "The Beatles have returned home to Abbey Road as Sam Mendes creates a piece of music history for his upcoming four-part biopic. This weekend, drone footage circulated on social media from above the set of The Beatles — A Four-Film Cinematic Event, where the director recreated the Abbey Road (1969) album cover at the now […]",
+        "fa": "در حالی که سم مندز قطعه ای از تاریخ موسیقی را برای فیلم زندگینامه چهار قسمتی آینده خود می سازد، گروه بیتلز به خانه خود در ابی رود بازگشتند. این آخر هفته، تصاویری از هواپیماهای بدون سرنشین از بالای صحنه فیلم The Beatles - A Four-Film Cinematic Event در رسانه های اجتماعی پخش شد، جایی که کارگردان جلد آلبوم Abbey Road را در حال حاضر بازسازی کرد."
+      },
+      "content": {
+        "en": "The Beatles have returned home to Abbey Road as Sam Mendes creates a piece of music history for his upcoming four-part biopic. This weekend, drone footage circulated on social media from above the set of The Beatles — A Four-Film Cinematic Event, where the director recreated the Abbey Road (1969) album cover at the now […]",
+        "fa": "در حالی که سم مندز قطعه ای از تاریخ موسیقی را برای فیلم زندگینامه چهار قسمتی آینده خود می سازد، گروه بیتلز به خانه خود در ابی رود بازگشتند. این آخر هفته، تصاویری از هواپیماهای بدون سرنشین از بالای صحنه فیلم The Beatles - A Four-Film Cinematic Event در رسانه های اجتماعی پخش شد، جایی که کارگردان جلد آلبوم Abbey Road را در حال حاضر بازسازی کرد."
+      },
+      "source": {
+        "en": "Deadline",
+        "fa": "Deadline"
+      },
+      "link": "https://deadline.com/2026/08/sam-mendes-beatles-biopic-recreates-abbey-road-1237042210/",
+      "date": "2026-08-16T20:11:59.523145+00:00",
+      "image": "https://deadline.com/wp-content/uploads/2023/02/1965-The-Beatles-e1786904609383.jpg",
+      "important": false,
+      "score": 0
+    },
+    {
+      "id": "31fee0f0f904",
+      "title": {
+        "en": "Johnny Depp In Talks For ‘Pirates 6’ Says Jerry Bruckheimer At D23; ‘Top Gun’ Producer Wants To Keep Paramount In Hollywood",
+        "fa": "جانی دپ در گفتگو برای «دزدان دریایی 6» می گوید جری بروکهایمر در D23; تهیه‌کننده «تاپ گان» می‌خواهد در هالیوود جایگاه اول را حفظ کند"
+      },
+      "excerpt": {
+        "en": "We caught up with producer Jerry Bruckheimer at D23 who tells that when it comes to Pirates of the Caribbean 6 “we’re talking with Johnny (Depp), we’re working on a screenplay, and hopefully we can get this done.” Separate from Bruckheimer, some solid sources tell us that the continuation won’t feel like just the nth […]",
+        "fa": "We caught up with producer Jerry Bruckheimer at D23 who tells that when it comes to Pirates of the Caribbean 6 “we’re talking with Johnny (Depp), we’re working on a screenplay, and hopefully we can get this done.” Separate from Bruckheimer, some solid sources tell us that the continuation won’t feel like just the nth […]"
+      },
+      "content": {
+        "en": "We caught up with producer Jerry Bruckheimer at D23 who tells that when it comes to Pirates of the Caribbean 6 “we’re talking with Johnny (Depp), we’re working on a screenplay, and hopefully we can get this done.” Separate from Bruckheimer, some solid sources tell us that the continuation won’t feel like just the nth […]",
+        "fa": "ما با جری بروکهایمر تهیه کننده در D23 صحبت کردیم که می گوید وقتی نوبت به دزدان دریایی کارائیب 6 می شود، \"ما با جانی صحبت می کنیم، در حال کار روی یک فیلمنامه هستیم و امیدواریم بتوانیم این کار را انجام دهیم.\" جدا از بروکهایمر، برخی منابع معتبر به ما می گویند که ادامه فقط شبیه به n نخواهد بود."
+      },
+      "source": {
+        "en": "Deadline",
+        "fa": "Deadline"
+      },
+      "link": "https://deadline.com/2026/08/johnny-depp-pirates-6-bruckheimer-paramount-1237042233/",
+      "date": "2026-08-16T20:11:59.522818+00:00",
+      "image": "https://deadline.com/wp-content/uploads/2026/08/Paramount-Bruckheimer-Pirates-Caribbean-3-shot_262dd0.jpg",
       "important": false,
       "score": 0
     }
