@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-16T22:11:33.698661+00:00",
-  "count": 19,
+  "updated_at": "2026-08-16T23:11:10.298597+00:00",
+  "count": 17,
   "news": [
     {
       "id": "d97f2f1cf7d4",
@@ -21,7 +21,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/news/breaking-news/film-independent-biggest-grant-history-juan-devis-1235210522/",
-      "date": "2026-08-16T22:11:33.569001+00:00",
+      "date": "2026-08-16T23:11:10.158558+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/Juan_Devis_2304sm-photo.jpeg?w=650",
       "important": false,
       "score": 3
@@ -45,7 +45,7 @@
         "fa": "The Wrap"
       },
       "link": "https://www.thewrap.com/creative-content/what-to-watch/lanterns-release-date-time-episodes-schedule/",
-      "date": "2026-08-16T22:11:33.566702+00:00",
+      "date": "2026-08-16T23:11:10.156009+00:00",
       "image": "https://www.thewrap.com/wp-content/uploads/2026/08/lanterns-kyle-chandler-hbo.jpg",
       "important": false,
       "score": 3
@@ -69,7 +69,7 @@
         "fa": "Variety"
       },
       "link": "https://variety.com/2026/tv/news/mariska-hargitay-confirms-jalen-brunson-law-order-svu-role-1236835668/",
-      "date": "2026-08-16T22:11:33.563022+00:00",
+      "date": "2026-08-16T23:11:10.150138+00:00",
       "image": "https://variety.com/wp-content/uploads/2026/08/MixCollage-16-Aug-2026-11-40-AM-290.jpg",
       "important": false,
       "score": 3
@@ -93,7 +93,7 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/jason-segel-shrinking-video-interview-season-4-emmys-1237041926/",
-      "date": "2026-08-16T22:11:33.557173+00:00",
+      "date": "2026-08-16T23:11:10.140467+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/Shrinking.jpg",
       "important": false,
       "score": 3
@@ -117,56 +117,32 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/features/podcast/screen-talk-podcast-tiff-ceo-cameron-bailey-toronto-2026-1235210516/",
-      "date": "2026-08-16T22:11:33.569128+00:00",
+      "date": "2026-08-16T23:11:10.158697+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/P115U4AG.jpg?w=650",
       "important": false,
       "score": 1
     },
     {
-      "id": "f29b3df9e17a",
+      "id": "01f55579559b",
       "title": {
-        "en": "‘Hercules’ Voice Actress Susan Egan Nominates Zendaya & Tom Holland For Live-Action Remake: “The World Needs It” — D23",
-        "fa": "سوزان ایگان، بازیگر صدای «هرکول»، زندایا و تام هالند را برای بازسازی لایو اکشن نامزد کرد: «جهان به آن نیاز دارد» — D23"
+        "en": "Anne Hathaway Tears Up as She’s Named a Disney Legend (and Her 2026 Box Office Crosses $2 Billion): ‘I’m One of the Most Insanely Lucky People in the World’",
+        "fa": "آن هاتاوی با لقب اسطوره دیزنی اشک می ریزد: \"من یکی از دیوانه کننده ترین افراد خوش شانس در جهان هستم\""
       },
       "excerpt": {
-        "en": "With Spider-Man: Brand New Day a super box office success, Tom Holland and Zendaya might just have their next classic hero adaptation. Speaking with Deadline on the red carpet Sunday at D23, Hercules (1997) voice actress Susan Egan nominated Zendaya to take over her role as Meg in a live-action remake of the Disney animated […]",
-        "fa": "تام هالند و زندایا با موفقیتی فوق العاده در باکس آفیس Spider-Man: Brand New Day، ممکن است اقتباس قهرمان کلاسیک بعدی خود را داشته باشند. سوزان ایگان، صداپیشه هرکول، در صحبت با ددلاین روی فرش قرمز یکشنبه در D23، زندایا را نامزد کرد تا نقش مگ را در بازسازی لایو اکشن انیمیشن دیزنی به عهده بگیرد."
+        "en": "Shut up! Oscar winner Anne Hathaway is officially a Disney Legend. Hathaway was officially inducted into Disney’s hall of fame on Sunday afternoon during D23, the company’s weekend-long ultimate fan event. “I am here today because I’m one of the most insanely lucky people in the world,” Hathaway said after her “Devil Wears Prada” director […]",
+        "fa": "خفه شو آن هاتاوی، برنده اسکار، رسما یک اسطوره دیزنی است. هاتاوی بعدازظهر یکشنبه در جریان D23 رسماً وارد تالار مشاهیر دیزنی شد، رویداد نهایی طرفداران آخر هفته این شرکت. هاتاوی پس از کارگردانی «شیطان پرادا می‌پوشد» گفت: «من امروز اینجا هستم زیرا یکی از دیوانه‌وار خوش‌شانس‌ترین آدم‌های دنیا هستم."
       },
       "content": {
-        "en": "With Spider-Man: Brand New Day a super box office success, Tom Holland and Zendaya might just have their next classic hero adaptation. Speaking with Deadline on the red carpet Sunday at D23, Hercules (1997) voice actress Susan Egan nominated Zendaya to take over her role as Meg in a live-action remake of the Disney animated […]",
-        "fa": "With Spider-Man: Brand New Day a super box office success, Tom Holland and Zendaya might just have their next classic hero adaptation. Speaking with Deadline on the red carpet Sunday at D23, Hercules (1997) voice actress Susan Egan nominated Zendaya to take over her role as Meg in a live-action remake of the Disney animated […]"
+        "en": "Shut up! Oscar winner Anne Hathaway is officially a Disney Legend. Hathaway was officially inducted into Disney’s hall of fame on Sunday afternoon during D23, the company’s weekend-long ultimate fan event. “I am here today because I’m one of the most insanely lucky people in the world,” Hathaway said after her “Devil Wears Prada” director […]",
+        "fa": "خفه شو آن هاتاوی، برنده اسکار، رسما یک اسطوره دیزنی است. هاتاوی بعدازظهر یکشنبه در جریان D23 رسماً وارد تالار مشاهیر دیزنی شد، رویداد نهایی طرفداران آخر هفته این شرکت. هاتاوی پس از کارگردانی «شیطان پرادا می‌پوشد» گفت: «من امروز اینجا هستم زیرا یکی از دیوانه‌وار خوش‌شانس‌ترین آدم‌های دنیا هستم."
       },
       "source": {
-        "en": "Deadline",
-        "fa": "Deadline"
+        "en": "Variety",
+        "fa": "Variety"
       },
-      "link": "https://deadline.com/2026/08/hercules-susan-egan-nominates-zendaya-tom-holland-remake-1237042242/",
-      "date": "2026-08-16T22:11:33.559471+00:00",
-      "image": "https://deadline.com/wp-content/uploads/2026/08/Hercules-Tom-Holland-Zendaya-2-shot.jpg",
-      "important": false,
-      "score": 1
-    },
-    {
-      "id": "fefd1aa6060c",
-      "title": {
-        "en": "‘Teenage Sex And Death At Camp Miasma’s Bloody Good Expansion As Indies Flex – Specialty Box Office",
-        "fa": "«سکس نوجوانی و مرگ در کمپ میاسما» گسترش خوب خونین As Indies Flex - باکس آفیس تخصصی"
-      },
-      "excerpt": {
-        "en": "Indie films helped drive a terrific box office weekend with Jane Schoenbrun’s Teenage Sex And Death At Camp Miasma from Mubi a standout. The edgy director with a dedicated fan base of her own tapped the youthful audience that flocked to Obsession and Backrooms as well as fans of the The X-Files (Gillian Anderson stars), […]",
-        "fa": "فیلم‌های مستقل با فیلم «جنس نوجوانی و مرگ در کمپ میاسما» ساخته جین شوئن‌برون از موبی به یک آخر هفته باکس آفیس فوق‌العاده کمک کردند. این کارگردان هیجان‌انگیز با طرفداران اختصاصی خودش، مخاطبان جوانی را که به Obsession و Backrooms هجوم می‌آوردند و همچنین طرفداران The X-Files را مورد توجه قرار داد."
-      },
-      "content": {
-        "en": "Indie films helped drive a terrific box office weekend with Jane Schoenbrun’s Teenage Sex And Death At Camp Miasma from Mubi a standout. The edgy director with a dedicated fan base of her own tapped the youthful audience that flocked to Obsession and Backrooms as well as fans of the The X-Files (Gillian Anderson stars), […]",
-        "fa": "فیلم‌های مستقل با فیلم «جنس نوجوانی و مرگ در کمپ میاسما» ساخته جین شوئن‌برون از موبی به یک آخر هفته باکس آفیس فوق‌العاده کمک کردند. این کارگردان هیجان‌انگیز با طرفداران اختصاصی خودش، مخاطبان جوانی را که به Obsession و Backrooms هجوم می‌آوردند و همچنین طرفداران The X-Files را مورد توجه قرار داد."
-      },
-      "source": {
-        "en": "Deadline",
-        "fa": "Deadline"
-      },
-      "link": "https://deadline.com/2026/08/indie-film-box-office-teenage-sex-and-death-at-camp-miasma-1237042281/",
-      "date": "2026-08-16T22:11:33.557554+00:00",
-      "image": "https://deadline.com/wp-content/uploads/2026/08/Teenage-Sex-and-Death-at-Camp-Miasma-Hannah-Einbinder-Gillian-Anderson-Jane-Schoenbrun.jpeg",
+      "link": "https://variety.com/2026/film/news/anne-hathaway-disney-legend-d23-princess-diaries-devil-wears-prada-1236835727/",
+      "date": "2026-08-16T23:11:10.146536+00:00",
+      "image": "https://variety.com/wp-content/uploads/2026/08/2289787582.jpg",
       "important": false,
       "score": 1
     },
@@ -189,7 +165,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/criticism/movies/american-doctor-documentary-review-gaza-1235210500/",
-      "date": "2026-08-16T22:11:33.569696+00:00",
+      "date": "2026-08-16T23:11:10.159287+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/ivfj95enlAmerican_Doctor-Still_1.webp?w=650",
       "important": false,
       "score": 0
@@ -213,7 +189,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/news/business/dga-iatse-conditions-paramount-settlement-realistic-1235210398/",
-      "date": "2026-08-16T22:11:33.569481+00:00",
+      "date": "2026-08-16T23:11:10.159057+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/P10XLNE.jpg?w=650",
       "important": false,
       "score": 0
@@ -237,32 +213,32 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/features/interviews/abbott-elementary-director-randall-einhorn-phillies-game-1235210238/",
-      "date": "2026-08-16T22:11:33.568833+00:00",
+      "date": "2026-08-16T23:11:10.158334+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/178757_1142.jpg?w=650",
       "important": false,
       "score": 0
     },
     {
-      "id": "7e3af2272f62",
+      "id": "357806072d79",
       "title": {
-        "en": "Harrison Ford Will Appear in New Indiana Jones Attraction at Walt Disney World",
-        "fa": "هریسون فورد در جاذبه جدید ایندیانا جونز در دنیای والت دیزنی ظاهر خواهد شد"
+        "en": "About That ‘Super Bowl Moment’ in the Middle of ‘Teenage Sex and Death at Camp Miasma’",
+        "fa": "About That ‘Super Bowl Moment’ in the Middle of ‘Teenage Sex and Death at Camp Miasma’"
       },
       "excerpt": {
-        "en": "Indiana Jones and the Myth of the Jade Serpent will open at Disney’s Animal Kingdom The post Harrison Ford Will Appear in New Indiana Jones Attraction at Walt Disney World appeared first on TheWrap .",
-        "fa": "ایندیانا جونز و افسانه مار جید در پادشاهی حیوانات دیزنی افتتاح می شود"
+        "en": "Writer and director Jane Schoenbrun tells IndieWire about the hours of prep (and Counting Crows) that went into the slasher sequence in the middle of their latest film.",
+        "fa": "نویسنده و کارگردان جین شوئنبرون به IndieWire در مورد ساعت‌های آماده‌سازی می‌گوید که در اواسط آخرین فیلمشان در سکانس اسلشر انجام شد."
       },
       "content": {
-        "en": "Indiana Jones and the Myth of the Jade Serpent will open at Disney’s Animal Kingdom The post Harrison Ford Will Appear in New Indiana Jones Attraction at Walt Disney World appeared first on TheWrap .",
-        "fa": "ایندیانا جونز و افسانه مار جید در پادشاهی حیوانات دیزنی افتتاح می شود"
+        "en": "Writer and director Jane Schoenbrun tells IndieWire about the hours of prep (and Counting Crows) that went into the slasher sequence in the middle of their latest film.",
+        "fa": "نویسنده و کارگردان جین شوئنبرون به IndieWire در مورد ساعت‌های آماده‌سازی می‌گوید که در اواسط آخرین فیلمشان در سکانس اسلشر انجام شد."
       },
       "source": {
-        "en": "The Wrap",
-        "fa": "The Wrap"
+        "en": "IndieWire",
+        "fa": "IndieWire"
       },
-      "link": "https://www.thewrap.com/creative-content/movies/indiana-jones-and-the-myth-of-the-jade-serpent-harrison-ford-stars/",
-      "date": "2026-08-16T22:11:33.567779+00:00",
-      "image": "https://www.thewrap.com/wp-content/uploads/2026/08/Indiana-Jones-and-the-Myth-of-the-Jade-Serpent-at-Disney-s-Animal-Kingdom-–-Tsukan-Concept-Art.jpg",
+      "link": "https://www.indiewire.com/features/craft/jane-schoenbrun-teenage-sex-and-death-at-camp-miasma-1235210237/",
+      "date": "2026-08-16T23:11:10.158111+00:00",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/08/MCDTESE_K3011.jpg?w=650",
       "important": false,
       "score": 0
     },
@@ -274,7 +250,7 @@
       },
       "excerpt": {
         "en": "All it took was one little spark… The post EPCOT Overhaul: Imagination Pavilion to Be Redone at Disney Park appeared first on TheWrap .",
-        "fa": "تنها چیزی که لازم بود یک جرقه کوچک بود…"
+        "fa": "All it took was one little spark… The post EPCOT Overhaul: Imagination Pavilion to Be Redone at Disney Park appeared first on TheWrap ."
       },
       "content": {
         "en": "All it took was one little spark… The post EPCOT Overhaul: Imagination Pavilion to Be Redone at Disney Park appeared first on TheWrap .",
@@ -285,7 +261,7 @@
         "fa": "The Wrap"
       },
       "link": "https://www.thewrap.com/culture-lifestyle/culture/imagination-pavilion-overhaul-epcot-first-details/",
-      "date": "2026-08-16T22:11:33.567361+00:00",
+      "date": "2026-08-16T23:11:10.156759+00:00",
       "image": "https://www.thewrap.com/wp-content/uploads/2026/08/Imagination-Pavillion.jpg",
       "important": false,
       "score": 0
@@ -309,7 +285,7 @@
         "fa": "The Hollywood Reporter"
       },
       "link": "https://www.hollywoodreporter.com/movies/movie-news/spider-man-brand-new-day-box-office-oak-street-paw-patrol-1236674347/",
-      "date": "2026-08-16T22:11:33.566041+00:00",
+      "date": "2026-08-16T23:11:10.155286+00:00",
       "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/07/MON1420_TRL_comp_SPI_v0153.1270-H-2026.jpg?w=1296&#038;h=730&#038;crop=1",
       "important": false,
       "score": 0
@@ -333,7 +309,7 @@
         "fa": "The Hollywood Reporter"
       },
       "link": "https://www.hollywoodreporter.com/tv/tv-features/love-story-producers-react-carolyn-bessette-tiktok-1236672651/",
-      "date": "2026-08-16T22:11:33.564697+00:00",
+      "date": "2026-08-16T23:11:10.153337+00:00",
       "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/14BFEA-Limited-Love-Main-2026.jpg?w=1296&#038;h=730&#038;crop=1",
       "important": false,
       "score": 0
@@ -357,7 +333,7 @@
         "fa": "Variety"
       },
       "link": "https://variety.com/2026/film/news/paul-mescal-barry-keoghan-filming-beatles-biopic-abbey-road-1236835628/",
-      "date": "2026-08-16T22:11:33.563993+00:00",
+      "date": "2026-08-16T23:11:10.152199+00:00",
       "image": "https://variety.com/wp-content/uploads/2026/01/MixCollage-30-Jan-2026-09-27-AM-9912.jpg",
       "important": false,
       "score": 0
@@ -381,32 +357,8 @@
         "fa": "Variety"
       },
       "link": "https://variety.com/2026/film/global/kenneth-branagh-harry-potter-christopher-nolan-1236835634/",
-      "date": "2026-08-16T22:11:33.562865+00:00",
+      "date": "2026-08-16T23:11:10.149756+00:00",
       "image": "https://variety.com/wp-content/uploads/2026/07/Kenneth_Branagh_PhotoCredit_JohanPersson-e1784738510187.jpg",
-      "important": false,
-      "score": 0
-    },
-    {
-      "id": "2355c1a52a6c",
-      "title": {
-        "en": "Disney’s Josh D’Amaro On The Biggest Opportunities As CEO & Why Other Media Companies “Are Trying To Look Like Disney”",
-        "fa": "Josh D'Amaro از Disney در مورد بزرگترین فرصت ها به عنوان مدیر عامل و چرا سایر شرکت های رسانه ای \"سعی می کنند شبیه دیزنی شوند\""
-      },
-      "excerpt": {
-        "en": "Josh D’Amaro attended his first D23: The Ultimate Disney Fan Event as CEO of the Walt Disney Company, having succeeded Bob Iger five months ago. On Day 3 of the Disney event, D’Amaro had a sit down with Ginnifer Goodwin where he opened up about the future of Disney and how it’s been for him […]",
-        "fa": "جاش دآمارو در اولین رویداد D23: The Ultimate Fan Disney به عنوان مدیر عامل شرکت والت دیزنی شرکت کرد و پنج ماه پیش جانشین باب ایگر شد. در روز سوم رویداد دیزنی، D'Amaro با جینیفر گودوین صحبت کرد و در مورد آینده دیزنی و چگونگی آن صحبت کرد."
-      },
-      "content": {
-        "en": "Josh D’Amaro attended his first D23: The Ultimate Disney Fan Event as CEO of the Walt Disney Company, having succeeded Bob Iger five months ago. On Day 3 of the Disney event, D’Amaro had a sit down with Ginnifer Goodwin where he opened up about the future of Disney and how it’s been for him […]",
-        "fa": "جاش دآمارو در اولین رویداد D23: The Ultimate Fan Disney به عنوان مدیر عامل شرکت والت دیزنی شرکت کرد و پنج ماه پیش جانشین باب ایگر شد. در روز سوم رویداد دیزنی، D'Amaro با جینیفر گودوین صحبت کرد و در مورد آینده دیزنی و چگونگی آن صحبت کرد."
-      },
-      "source": {
-        "en": "Deadline",
-        "fa": "Deadline"
-      },
-      "link": "https://deadline.com/2026/08/disney-josh-damaro-ceo-opportunities-d23-1237042155/",
-      "date": "2026-08-16T22:11:33.561272+00:00",
-      "image": "https://deadline.com/wp-content/uploads/2026/08/josh-damaro-d23.jpg",
       "important": false,
       "score": 0
     },
@@ -429,7 +381,7 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/sam-mendes-beatles-biopic-recreates-abbey-road-1237042210/",
-      "date": "2026-08-16T22:11:33.560389+00:00",
+      "date": "2026-08-16T23:11:10.145459+00:00",
       "image": "https://deadline.com/wp-content/uploads/2023/02/1965-The-Beatles-e1786904609383.jpg",
       "important": false,
       "score": 0
@@ -453,7 +405,7 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/johnny-depp-pirates-6-bruckheimer-paramount-1237042233/",
-      "date": "2026-08-16T22:11:33.560089+00:00",
+      "date": "2026-08-16T23:11:10.144819+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/Paramount-Bruckheimer-Pirates-Caribbean-3-shot_262dd0.jpg",
       "important": false,
       "score": 0
