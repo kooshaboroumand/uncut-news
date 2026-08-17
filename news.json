@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-17T19:21:06.914758+00:00",
+  "updated_at": "2026-08-17T20:16:09.740727+00:00",
   "count": 24,
   "news": [
     {
@@ -21,7 +21,7 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/netflix-a-different-world-trailer-1237043051/",
-      "date": "2026-08-17T19:21:06.649789+00:00",
+      "date": "2026-08-17T20:16:09.485238+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/A_Different_World_n_S1_E1_00_03_29_12_R.jpg",
       "important": true,
       "score": 7
@@ -45,7 +45,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/criticism/shows/lanterns-episode-1-review-hal-jordan-dead-explained-1235210338/",
-      "date": "2026-08-17T19:21:06.659516+00:00",
+      "date": "2026-08-17T20:16:09.493048+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/Lanterns-HBO-series-Kyle-Chandler-as-Hal-Jordan.jpg?w=650",
       "important": true,
       "score": 6
@@ -69,104 +69,32 @@
         "fa": "Variety"
       },
       "link": "https://variety.com/2026/tv/news/industry-season-5-cast-cary-elwes-jessica-brown-findlay-1236836570/",
-      "date": "2026-08-17T19:21:06.652737+00:00",
+      "date": "2026-08-17T20:16:09.487512+00:00",
       "image": "https://variety.com/wp-content/uploads/2026/08/Industry-Season-5-cast.jpg",
       "important": true,
       "score": 6
     },
     {
-      "id": "f363ccf05e8d",
+      "id": "1b3786c4f516",
       "title": {
-        "en": "‘All American’: Tensions High Within The Vortex Amid ICE Raid Aftermath & Fight For Beverly Coach In New Season 8 Clip",
-        "fa": "\"همه آمریکایی\": تنش بالا در میان گرداب در میان پیامدهای حمله یخبندان و مبارزه برای مربی بورلی در کلیپ فصل جدید 8"
+        "en": "CNN Correspondent Elizabeth Wagmeister to Host Pre-Emmy Interview Series (TV News Roundup)",
+        "fa": "الیزابت واگمایستر، خبرنگار سی ان ان مجری سریال مصاحبه قبل از امی خواهد بود"
       },
       "excerpt": {
-        "en": "EXCLUSIVE: Jordan (Michael Evans Behling), Layla (Greta Onieogou) and the rest of the Vortex are helping to pick up the pieces in Monday night’s episode of All American. Deadline can share the above clip exclusively ahead of the episode, featuring the OG members of the Vortex presumably in the hours after both Amina (Alexis Chikaeze) […]",
-        "fa": "اختصاصی: جردن، لیلا و بقیه Vortex به انتخاب قطعات در قسمت دوشنبه شب All American کمک می کنند. ددلاین می‌تواند کلیپ فوق را منحصراً قبل از اپیزود به اشتراک بگذارد که اعضای OG Vortex احتمالاً در ساعاتی پس از هر دو آمنه حضور دارند."
+        "en": "CNN correspondent Elizabeth Wagmeister is set to host a special pre-Emmy interview series airing exclusively on CNN. “Coming Up” will see Wagmeister sit down with Emmy nominees to discuss the stories behind the performances and achievements across their careers in television. The nominated stars include Colman Domingo (“The Four Seasons,” “Euphoria”), Paul W. Downs (“Hacks”), […]",
+        "fa": "CNN correspondent Elizabeth Wagmeister is set to host a special pre-Emmy interview series airing exclusively on CNN. «Coming Up» شاهد نشستن واگمایستر با نامزدهای امی خواهد بود تا در مورد داستان‌های پشت اجراها و دستاوردهای حرفه‌ای خود در تلویزیون صحبت کنند. The nominated stars include Colman Domingo , Paul W. Downs ,"
       },
       "content": {
-        "en": "EXCLUSIVE: Jordan (Michael Evans Behling), Layla (Greta Onieogou) and the rest of the Vortex are helping to pick up the pieces in Monday night’s episode of All American. Deadline can share the above clip exclusively ahead of the episode, featuring the OG members of the Vortex presumably in the hours after both Amina (Alexis Chikaeze) […]",
-        "fa": "اختصاصی: جردن، لیلا و بقیه Vortex به انتخاب قطعات در قسمت دوشنبه شب All American کمک می کنند. ددلاین می‌تواند کلیپ فوق را منحصراً قبل از اپیزود به اشتراک بگذارد که اعضای OG Vortex احتمالاً در ساعاتی پس از هر دو آمنه حضور دارند."
+        "en": "CNN correspondent Elizabeth Wagmeister is set to host a special pre-Emmy interview series airing exclusively on CNN. “Coming Up” will see Wagmeister sit down with Emmy nominees to discuss the stories behind the performances and achievements across their careers in television. The nominated stars include Colman Domingo (“The Four Seasons,” “Euphoria”), Paul W. Downs (“Hacks”), […]",
+        "fa": "الیزابت واگمایستر، خبرنگار سی‌ان‌ان، قرار است میزبان یک مجموعه مصاحبه ویژه قبل از امی باشد که به طور انحصاری از سی‌ان‌ان پخش می‌شود. «Coming Up» شاهد نشستن واگمایستر با نامزدهای امی خواهد بود تا در مورد داستان‌های پشت اجراها و دستاوردهای حرفه‌ای خود در تلویزیون صحبت کنند. ستاره های نامزد شده عبارتند از کلمن دومینگو، پل دبلیو داونز،"
       },
       "source": {
-        "en": "Deadline",
-        "fa": "Deadline"
+        "en": "Variety",
+        "fa": "Variety"
       },
-      "link": "https://deadline.com/2026/08/all-american-season-807-clip-after-ice-raid-1237043148/",
-      "date": "2026-08-17T19:21:06.652041+00:00",
-      "image": "https://deadline.com/wp-content/uploads/2026/08/ALA807_0238-c19cd569d1be6cfd.jpg",
-      "important": true,
-      "score": 6
-    },
-    {
-      "id": "c6730a84268d",
-      "title": {
-        "en": "Stephanie Koenig Joins Apple TV’s ‘Platonic’ For Season 3",
-        "fa": "استفانی کونیگ برای فصل 3 به تلویزیون Apple TV 'Platonic' پیوست"
-      },
-      "excerpt": {
-        "en": "EXCLUSIVE: Stephanie Koenig (Lessons in Chemistry, English Teacher) has joined the cast of Apple TV’s Platonic for Season 3 in a recurring role. She will play Alex, a lawyer who just began working at Charlie’s (played by Luke Macfarlane) firm. From Nicholas Stoller and Francesca Delbanco, Platonic follows a platonic pair of former best friends […]",
-        "fa": "اختصاصی: استفانی کونیگ در نقشی تکرارشونده به بازیگران سریال پلاتونیک اپل تی‌وی برای فصل سوم پیوست. او نقش الکس، وکیلی را بازی خواهد کرد که به تازگی در شرکت چارلی کار می کند. از نیکلاس استولر و فرانچسکا دلبانکو، افلاطونیک جفت دوست صمیمی سابق افلاطونی را دنبال می کند."
-      },
-      "content": {
-        "en": "EXCLUSIVE: Stephanie Koenig (Lessons in Chemistry, English Teacher) has joined the cast of Apple TV’s Platonic for Season 3 in a recurring role. She will play Alex, a lawyer who just began working at Charlie’s (played by Luke Macfarlane) firm. From Nicholas Stoller and Francesca Delbanco, Platonic follows a platonic pair of former best friends […]",
-        "fa": "اختصاصی: استفانی کونیگ در نقشی تکرارشونده به بازیگران سریال پلاتونیک اپل تی‌وی برای فصل سوم پیوست. او نقش الکس، وکیلی را بازی خواهد کرد که به تازگی در شرکت چارلی کار می کند. از نیکلاس استولر و فرانچسکا دلبانکو، افلاطونیک جفت دوست صمیمی سابق افلاطونی را دنبال می کند."
-      },
-      "source": {
-        "en": "Deadline",
-        "fa": "Deadline"
-      },
-      "link": "https://deadline.com/2026/08/stephanie-koenig-cast-apple-tv-platonic-season-3-1237043127/",
-      "date": "2026-08-17T19:21:06.651827+00:00",
-      "image": "https://deadline.com/wp-content/uploads/2026/08/Stephanie-Koenig.jpg",
-      "important": true,
-      "score": 6
-    },
-    {
-      "id": "7ef5fb6ebff1",
-      "title": {
-        "en": "Pierce Brosnan Joins Chris Hemsworth In Netflix’s ‘Extraction 3’",
-        "fa": "پیرس برازنان به کریس همسورث در «Extraction 3» نتفلیکس پیوست."
-      },
-      "excerpt": {
-        "en": "EXCLUSIVE: Extraction 3, the latest entry in Netflix’s action franchise starring Chris Hemsworth, has rounded out its cast with five additions: two-time Golden Globe nominee Pierce Brosnan (MobLand), plus Don Lee (Train to Busan), Joe Taslim (The Furious), Chi Lewis-Parry (28 Years Later: The Bone Temple) and Siena Agudong (Amazon’s upcoming Carrie series). Lee joins after inking a […]",
-        "fa": "انحصاری: Extraction 3، آخرین ورودی مجموعه اکشن نتفلیکس با بازی کریس همسورث، بازیگران خود را با پنج اضافه تکمیل کرد: پیرس برازنان نامزد دوبار گلدن گلوب، به علاوه دان لی، جو تسلیم، چی لوئیس پری و سینا آگودونگ. لی پس از مرکب زدن الف می پیوندد"
-      },
-      "content": {
-        "en": "EXCLUSIVE: Extraction 3, the latest entry in Netflix’s action franchise starring Chris Hemsworth, has rounded out its cast with five additions: two-time Golden Globe nominee Pierce Brosnan (MobLand), plus Don Lee (Train to Busan), Joe Taslim (The Furious), Chi Lewis-Parry (28 Years Later: The Bone Temple) and Siena Agudong (Amazon’s upcoming Carrie series). Lee joins after inking a […]",
-        "fa": "انحصاری: Extraction 3، آخرین ورودی مجموعه اکشن نتفلیکس با بازی کریس همسورث، بازیگران خود را با پنج اضافه تکمیل کرد: پیرس برازنان نامزد دوبار گلدن گلوب، به علاوه دان لی، جو تسلیم، چی لوئیس پری و سینا آگودونگ. لی پس از مرکب زدن الف می پیوندد"
-      },
-      "source": {
-        "en": "Deadline",
-        "fa": "Deadline"
-      },
-      "link": "https://deadline.com/2026/08/extraction-3-cast-adds-pierce-brosnan-don-lee-more-1237042978/",
-      "date": "2026-08-17T19:21:06.651686+00:00",
-      "image": "https://deadline.com/wp-content/uploads/2026/08/Pierce-Brosnan-Don-Lee-Joe-Taslim-Chi-Lewis-Perry-and-Siena-Agudong.jpg",
-      "important": true,
-      "score": 6
-    },
-    {
-      "id": "eb141d79b361",
-      "title": {
-        "en": "‘Your Friends And Neighbors’ Creator On Making Emmy History And How Jon Hamm Turned The Tables On Don Draper – Contenders TV Nominees Studio",
-        "fa": "خالق «دوستان و همسایگان شما» درباره ساختن تاریخچه امی و اینکه چگونه جان هام میزهای دان دریپر را تغییر داد – استودیو Contenders TV Nominees"
-      },
-      "excerpt": {
-        "en": "Apple TV’s Your Friends and Neighbors has been nominated this year in the marquee Emmy category of Outstanding Drama Series. It marks the first-ever Emmy nomination for the series, and it has been achieved in just its second season. It also made a kind of Emmy history as becoming only the second series to score […]",
-        "fa": "دوستان و همسایه‌های شما از اپل تی‌وی امسال در بخش امی خیمه‌ای از سریال‌های درام برجسته نامزد شده است. این اولین نامزدی امی سریال است و تنها در فصل دوم آن به دست آمده است. همچنین به نوعی تاریخ امی را به ثبت رساند که به دومین سریالی تبدیل شد که موفق به گلزنی شد"
-      },
-      "content": {
-        "en": "Apple TV’s Your Friends and Neighbors has been nominated this year in the marquee Emmy category of Outstanding Drama Series. It marks the first-ever Emmy nomination for the series, and it has been achieved in just its second season. It also made a kind of Emmy history as becoming only the second series to score […]",
-        "fa": "دوستان و همسایه‌های شما از اپل تی‌وی امسال در بخش امی خیمه‌ای از سریال‌های درام برجسته نامزد شده است. این اولین نامزدی امی سریال است و تنها در فصل دوم آن به دست آمده است. همچنین به نوعی تاریخ امی را به ثبت رساند که به دومین سریالی تبدیل شد که موفق به گلزنی شد"
-      },
-      "source": {
-        "en": "Deadline",
-        "fa": "Deadline"
-      },
-      "link": "https://deadline.com/2026/08/your-friends-and-neighbors-creator-emmy-interview-1237042890/",
-      "date": "2026-08-17T19:21:06.651258+00:00",
-      "image": "https://deadline.com/wp-content/uploads/2026/08/Your-Friends-and-Neighbors.jpg",
+      "link": "https://variety.com/2026/tv/news/tv-news-roundup-week-of-august-17-1236836383/",
+      "date": "2026-08-17T20:16:09.487053+00:00",
+      "image": "https://variety.com/wp-content/uploads/2021/11/Elizabeth-Wagmeister-Variety-2.jpg",
       "important": true,
       "score": 6
     },
@@ -189,34 +117,58 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/mormon-wives-love-island-stars-sign-select-management-1237040858/",
-      "date": "2026-08-17T19:21:06.649655+00:00",
+      "date": "2026-08-17T20:16:09.485115+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/Ashleigh-Pease-Bri-Davis-Parmida-Keshani-Chelley-B-and-Jimmy-Sotos-.jpg",
       "important": true,
       "score": 6
     },
     {
-      "id": "d97f2f1cf7d4",
+      "id": "a33b7f6a6e4c",
       "title": {
-        "en": "Film Independent Scores Its Biggest Grant Ever — Exclusive",
-        "fa": "فیلم Independent بزرگترین جایزه خود را دریافت می کند - انحصاری"
+        "en": "‘My Brother’s Wedding’ Restoration Trailer: Charles Burnett’s Nearly Lost Masterpiece Gets the Version It Deserves",
+        "fa": "تریلر بازسازی «عروسی برادرم»: شاهکار تقریبا گمشده چارلز برنت نسخه ای را که شایسته آن است دریافت می کند"
       },
       "excerpt": {
-        "en": "New president Juan Devis seeks change at the 45-year-old non-profit. Now, he has the extra funding to execute it.",
-        "fa": "رئیس جمهور جدید خوان دیویس به دنبال تغییر در این موسسه غیرانتفاعی 45 ساله است. اکنون، او بودجه اضافی برای اجرای آن دارد."
+        "en": "Exclusive: The lauded filmmaker's second film gets new life, thanks to a 4K restoration and a fresh edit from Burnett himself.",
+        "fa": "اختصاصی: دومین فیلم این فیلمساز تحسین شده به لطف بازسازی 4K و ویرایش جدید خود برنت جان تازه ای پیدا می کند."
       },
       "content": {
-        "en": "New president Juan Devis seeks change at the 45-year-old non-profit. Now, he has the extra funding to execute it.",
-        "fa": "رئیس جمهور جدید خوان دیویس به دنبال تغییر در این موسسه غیرانتفاعی 45 ساله است. اکنون، او بودجه اضافی برای اجرای آن دارد."
+        "en": "Exclusive: The lauded filmmaker's second film gets new life, thanks to a 4K restoration and a fresh edit from Burnett himself.",
+        "fa": "اختصاصی: دومین فیلم این فیلمساز تحسین شده به لطف بازسازی 4K و ویرایش جدید خود برنت جان تازه ای پیدا می کند."
       },
       "source": {
         "en": "IndieWire",
         "fa": "IndieWire"
       },
-      "link": "https://www.indiewire.com/news/breaking-news/film-independent-biggest-grant-history-juan-devis-1235210522/",
-      "date": "2026-08-17T19:21:06.660771+00:00",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/08/Juan_Devis_2304sm-photo.jpeg?w=650",
-      "important": false,
-      "score": 3
+      "link": "https://www.indiewire.com/news/trailers/my-brothers-wedding-4k-restoration-trailer-charles-burnett-1235210852/",
+      "date": "2026-08-17T20:16:09.492055+00:00",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/08/MyBrothersWedding.jpg?w=650",
+      "important": true,
+      "score": 4
+    },
+    {
+      "id": "5c09cbd2370b",
+      "title": {
+        "en": "Cineverse Acquires Genre-Bending Thriller ‘Eugene The Marine’ Starring Scott Glenn",
+        "fa": "Cineverse به ژانر هیجان انگیز «Eugene The Marine» با بازی اسکات گلن دست یافت"
+      },
+      "excerpt": {
+        "en": "EXCLUSIVE: Terrifier 3 studio, Cineverse, has taken domestic rights to Eugene the Marine starring Scott Glenn (Emmy nominee The White Lotus), Jim Gaffigan (Linoleum) Annette O’Toole (Virgin River), and Shioli Kutsuna (Invasion, Gundam) with plans for a theatrical release in select cities later this year. The Hank Bedford directed and co-written movie follows Glenn as […]",
+        "fa": "اختصاصی: استودیوی Terrifier 3، Cineverse، حقوق داخلی Eugene the Marine با بازی اسکات گلن، جیم گافیگان آنت اوتول، و شیولی کوتسونا را با برنامه‌هایی برای اکران در شهرهای منتخب در اواخر سال جاری دریافت کرده است. فیلمی به کارگردانی و نویسندگی مشترک هنک بدفورد به دنبال گلن است"
+      },
+      "content": {
+        "en": "EXCLUSIVE: Terrifier 3 studio, Cineverse, has taken domestic rights to Eugene the Marine starring Scott Glenn (Emmy nominee The White Lotus), Jim Gaffigan (Linoleum) Annette O’Toole (Virgin River), and Shioli Kutsuna (Invasion, Gundam) with plans for a theatrical release in select cities later this year. The Hank Bedford directed and co-written movie follows Glenn as […]",
+        "fa": "اختصاصی: استودیوی Terrifier 3، Cineverse، حقوق داخلی Eugene the Marine با بازی اسکات گلن، جیم گافیگان آنت اوتول، و شیولی کوتسونا را با برنامه‌هایی برای اکران در شهرهای منتخب در اواخر سال جاری دریافت کرده است. فیلمی به کارگردانی و نویسندگی مشترک هنک بدفورد به دنبال گلن است"
+      },
+      "source": {
+        "en": "Deadline",
+        "fa": "Deadline"
+      },
+      "link": "https://deadline.com/2026/08/eugene-the-marine-cinverse-1237043345/",
+      "date": "2026-08-17T20:16:09.483950+00:00",
+      "image": "https://deadline.com/wp-content/uploads/2026/08/etm_srgb_22gamma_01_43_23_17.jpg",
+      "important": true,
+      "score": 4
     },
     {
       "id": "55aa2e47bd48",
@@ -237,8 +189,32 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/criticism/shows/its-always-sunny-in-philadelphia-season-18-for-the-sickos-1235210525/",
-      "date": "2026-08-17T19:21:06.659417+00:00",
+      "date": "2026-08-17T20:16:09.492954+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/Its-Always-Sunny-in-Philadelphia-Season-18-Frank-Dennis-corpse.jpg?w=650",
+      "important": false,
+      "score": 3
+    },
+    {
+      "id": "572c2223065f",
+      "title": {
+        "en": "Netflix Names Hollywood Veteran Katie Martin Kelley VP of Communications, Film",
+        "fa": "نتفلیکس از کیتی مارتین کلی معاون بخش ارتباطات و فیلم کهنه سرباز هالیوود نام می برد"
+      },
+      "excerpt": {
+        "en": "Kelley will report to Dani Dudeck and most recently worked at Warner Bros. following stints leading comms at MGM and Paramount.",
+        "fa": "کلی به دنی دودک گزارش می دهد و اخیراً در برادران وارنر پس از حضور در MGM و پارامونت، کار کرده است."
+      },
+      "content": {
+        "en": "Kelley will report to Dani Dudeck and most recently worked at Warner Bros. following stints leading comms at MGM and Paramount.",
+        "fa": "کلی به دنی دودک گزارش می دهد و اخیراً در برادران وارنر پس از حضور در MGM و پارامونت، کار کرده است."
+      },
+      "source": {
+        "en": "IndieWire",
+        "fa": "IndieWire"
+      },
+      "link": "https://www.indiewire.com/news/business/netflix-names-katie-martin-kelley-vp-communications-film-1235210788/",
+      "date": "2026-08-17T20:16:09.492403+00:00",
+      "image": "https://www.indiewire.com/wp-content/uploads/2021/02/NetflixBuilding219802.jpg?w=650",
       "important": false,
       "score": 3
     },
@@ -261,7 +237,7 @@
         "fa": "The Wrap"
       },
       "link": "https://www.thewrap.com/creative-content/what-to-watch/new-shows-streaming-this-week-aug-17-23/",
-      "date": "2026-08-17T19:21:06.658337+00:00",
+      "date": "2026-08-17T20:16:09.491953+00:00",
       "image": "https://www.thewrap.com/wp-content/uploads/2026/08/OBX_S5_Wrap_26834RC.jpg",
       "important": false,
       "score": 3
@@ -285,56 +261,32 @@
         "fa": "The Wrap"
       },
       "link": "https://www.thewrap.com/creative-content/tv-shows/dancing-with-the-stars-pro-witney-carson-pregnant-season-35/",
-      "date": "2026-08-17T19:21:06.657898+00:00",
+      "date": "2026-08-17T20:16:09.491519+00:00",
       "image": "https://www.thewrap.com/wp-content/uploads/2026/08/GettyImages-2286435942.jpg",
       "important": false,
       "score": 3
     },
     {
-      "id": "0c1c694f5c90",
+      "id": "3831f1390500",
       "title": {
-        "en": "Zak Santiago Biopic Series ‘Deacon’ in the Works, Jonathan Lloyd Walker to Showrun (Exclusive)",
-        "fa": "سریال بیوگرافی زاک سانتیاگو «دیکن» در دست ساخت است، جاناتان لوید واکر برای نمایش"
+        "en": "The Company Behind AI Film ‘Hell Grind’ Wants to Teach You How to Make AI Movies for Free | Exclusive",
+        "fa": "شرکت پشتیبان فیلم هوش مصنوعی «Hell Grind» می خواهد به شما آموزش دهد چگونه فیلم های هوش مصنوعی را به صورت رایگان بسازید | انحصاری"
       },
       "excerpt": {
-        "en": "Front Street Pictures will launch the TV drama based on the ‘Virgin River’ actor, boxer, DJ and ordained deacon to buyers at the Toronto Film Festival's inaugural Content Market next month.",
-        "fa": "فرانت استریت پیکچرز این درام تلویزیونی را بر اساس بازیگر، بوکسور، دی جی و شماس منصوب شده «رود باکره» در بازار محتوای افتتاحیه جشنواره فیلم تورنتو در ماه آینده برای خریداران عرضه خواهد کرد."
+        "en": "Higgsfield Academy lets anyone see the prompts used to create feature-length AI films like its 95-minute feature that debuted at Cannes The post The Company Behind AI Film ‘Hell Grind’ Wants to Teach You How to Make AI Movies for Free | Exclusive appeared first on TheWrap .",
+        "fa": "آکادمی هیگزفیلد به هر کسی اجازه می‌دهد تا دستورالعمل‌های مورد استفاده برای ساخت فیلم‌های بلند هوش مصنوعی مانند فیلم ۹۵ دقیقه‌ای آن را که در جشنواره کن به نمایش درآمد، ببیند."
       },
       "content": {
-        "en": "Front Street Pictures will launch the TV drama based on the ‘Virgin River’ actor, boxer, DJ and ordained deacon to buyers at the Toronto Film Festival's inaugural Content Market next month.",
-        "fa": "Front Street Pictures will launch the TV drama based on the ‘Virgin River’ actor, boxer, DJ and ordained deacon to buyers at the Toronto Film Festival's inaugural Content Market next month."
+        "en": "Higgsfield Academy lets anyone see the prompts used to create feature-length AI films like its 95-minute feature that debuted at Cannes The post The Company Behind AI Film ‘Hell Grind’ Wants to Teach You How to Make AI Movies for Free | Exclusive appeared first on TheWrap .",
+        "fa": "آکادمی هیگزفیلد به هر کسی اجازه می‌دهد تا دستورالعمل‌های مورد استفاده برای ساخت فیلم‌های بلند هوش مصنوعی مانند فیلم ۹۵ دقیقه‌ای آن را که در جشنواره کن به نمایش درآمد، ببیند."
       },
       "source": {
-        "en": "The Hollywood Reporter",
-        "fa": "The Hollywood Reporter"
+        "en": "The Wrap",
+        "fa": "The Wrap"
       },
-      "link": "https://www.hollywoodreporter.com/tv/tv-news/zak-santiago-biopic-series-deacon-1236675191/",
-      "date": "2026-08-17T19:21:06.656739+00:00",
-      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/Deacon-John-Cassini-Zak-Santiago-Jonathan-Lloyd-Walker-credit-Jason-Benson.jpg?crop=0px%2C152px%2C1024px%2C573px&#038;resize=1440%2C810",
-      "important": false,
-      "score": 3
-    },
-    {
-      "id": "4181c89edf31",
-      "title": {
-        "en": "Jason Bateman Says ‘Uncut Gems’ Was “A Good Shorthand” for ‘Black Rabbit’",
-        "fa": "جیسون بیتمن می‌گوید «جواهرات برش نخورده» برای «خرگوش سیاه» «خرگوشی خوب» بود."
-      },
-      "excerpt": {
-        "en": "The actor not only starred in and executive produced the Netflix series, he also directed two of its episodes, for which he received an Emmy nomination.",
-        "fa": "این بازیگر نه تنها در سریال نتفلیکس نقش آفرینی کرد و تهیه کننده اجرایی آن بود، بلکه دو قسمت از آن را نیز کارگردانی کرد که برای آنها نامزدی امی دریافت کرد."
-      },
-      "content": {
-        "en": "The actor not only starred in and executive produced the Netflix series, he also directed two of its episodes, for which he received an Emmy nomination.",
-        "fa": "این بازیگر نه تنها در سریال نتفلیکس نقش آفرینی کرد و تهیه کننده اجرایی آن بود، بلکه دو قسمت از آن را نیز کارگردانی کرد که برای آنها نامزدی امی دریافت کرد."
-      },
-      "source": {
-        "en": "The Hollywood Reporter",
-        "fa": "The Hollywood Reporter"
-      },
-      "link": "https://www.hollywoodreporter.com/tv/tv-features/jason-bateman-uncut-gems-black-rabbit-dtf-st-louis-1236675047/",
-      "date": "2026-08-17T19:21:06.656510+00:00",
-      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/15BFEA-Directing-Bateman-Main-2026.jpg?w=1296&#038;h=730&#038;crop=1",
+      "link": "https://www.thewrap.com/creative-content/movies/create-ai-movies-for-free-higgsfield-academy/",
+      "date": "2026-08-17T20:16:09.490497+00:00",
+      "image": "https://www.thewrap.com/wp-content/uploads/2026/08/image3.jpg",
       "important": false,
       "score": 3
     },
@@ -357,7 +309,7 @@
         "fa": "The Hollywood Reporter"
       },
       "link": "https://www.hollywoodreporter.com/tv/tv-news/chris-pratt-terminal-list-season-2-photos-1236675402/",
-      "date": "2026-08-17T19:21:06.655624+00:00",
+      "date": "2026-08-17T20:16:09.489297+00:00",
       "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/TMLT_S2_UT_203_250516_GROMAR_00373RC2.jpg?crop=0px%2C0px%2C3900px%2C2182px&#038;resize=1440%2C810",
       "important": false,
       "score": 3
@@ -381,7 +333,7 @@
         "fa": "The Hollywood Reporter"
       },
       "link": "https://www.hollywoodreporter.com/movies/movie-news/ramy-youssef-sharon-stone-to-star-in-comedy-martha-muhammad-1236675411/",
-      "date": "2026-08-17T19:21:06.655497+00:00",
+      "date": "2026-08-17T20:16:09.489172+00:00",
       "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/Ramy-Youssef-Sharon-Stone-Split-Main-2026.jpg?w=1296&#038;h=730&#038;crop=1",
       "important": false,
       "score": 3
@@ -405,7 +357,7 @@
         "fa": "Variety"
       },
       "link": "https://variety.com/2026/artisans/news/bini-sb19-lea-salonga-lead-forgotten-island-full-tracklist-1236836531/",
-      "date": "2026-08-17T19:21:06.653245+00:00",
+      "date": "2026-08-17T20:16:09.488003+00:00",
       "image": "https://variety.com/wp-content/uploads/2026/08/10E66_FP_Forgotte_00089563.png",
       "important": false,
       "score": 3
@@ -414,23 +366,47 @@
       "id": "d536f7a7b92d",
       "title": {
         "en": "‘Clueless’ Eyes More OG Cast Returns Alongside Alicia Silverstone For Paramount+ Limited Series",
-        "fa": "بازیگران «Clueless» Eyes More OG در کنار آلیشیا سیلورستون برای سری محدود Paramount+ بازگشتند"
+        "fa": "بازگشت بازیگران «Clueless» Eyes More OG در کنار آلیشیا سیلورستون برای سری محدود + Paramount"
       },
       "excerpt": {
         "en": "Paramount+ recently greenlighted Clueless as an event series, and is looking to pull all the stops making it an event by reassembling the original cast. As Deadline reported, the project, a sequel to the cult-classic 1995 Paramount Pictures teen comedy film starring Silverstone, landed at Paramount+ after getting a pass at Peacock, with Silverstone set […]",
-        "fa": "Paramount+ اخیراً Clueless را به عنوان یک مجموعه رویداد سبز نشان داده است و به دنبال آن است که با جمع‌آوری مجدد بازیگران اصلی آن را به یک رویداد تبدیل کند. همانطور که ددلاین گزارش داد، این پروژه، دنباله ای بر فیلم کمدی نوجوان پارامونت پیکچرز محصول 1995 با بازی سیلورستون، پس از دریافت مجوز در Peacock، با مجموعه سیلورستون، در Paramount+ فرود آمد."
+        "fa": "Paramount+ اخیراً Clueless را به عنوان یک مجموعه رویداد سبز نشان داده است و به دنبال آن است که با جمع‌آوری مجدد بازیگران اصلی آن را به یک رویداد تبدیل کند. همانطور که ددلاین گزارش داد، این پروژه که دنباله ای بر فیلم کمدی نوجوان پارامونت پیکچرز در سال 1995 با بازی سیلورستون بود، پس از دریافت مجوز در Peacock، با مجموعه سیلورستون، در Paramount+ فرود آمد."
       },
       "content": {
         "en": "Paramount+ recently greenlighted Clueless as an event series, and is looking to pull all the stops making it an event by reassembling the original cast. As Deadline reported, the project, a sequel to the cult-classic 1995 Paramount Pictures teen comedy film starring Silverstone, landed at Paramount+ after getting a pass at Peacock, with Silverstone set […]",
-        "fa": "Paramount+ اخیراً Clueless را به عنوان یک مجموعه رویداد سبز نشان داده است و به دنبال آن است که با جمع‌آوری مجدد بازیگران اصلی آن را به یک رویداد تبدیل کند. همانطور که ددلاین گزارش داد، این پروژه، دنباله ای بر فیلم کمدی نوجوان پارامونت پیکچرز محصول 1995 با بازی سیلورستون، پس از دریافت مجوز در Peacock، با مجموعه سیلورستون، در Paramount+ فرود آمد."
+        "fa": "Paramount+ اخیراً Clueless را به عنوان یک مجموعه رویداد سبز نشان داده است و به دنبال آن است که با جمع‌آوری مجدد بازیگران اصلی آن را به یک رویداد تبدیل کند. همانطور که ددلاین گزارش داد، این پروژه که دنباله ای بر فیلم کمدی نوجوان پارامونت پیکچرز در سال 1995 با بازی سیلورستون بود، پس از دریافت مجوز در Peacock، با مجموعه سیلورستون، در Paramount+ فرود آمد."
       },
       "source": {
         "en": "Deadline",
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/clueless-original-cast-return-paramount-plus-series-1237043200/",
-      "date": "2026-08-17T19:21:06.648963+00:00",
+      "date": "2026-08-17T20:16:09.484740+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/MCDCLUE_EC044.jpg",
+      "important": false,
+      "score": 3
+    },
+    {
+      "id": "34e207be04b7",
+      "title": {
+        "en": "Everything We Know About ‘Percy Jackson And The Olympians’ Season 3 So Far",
+        "fa": "هر آنچه که تاکنون درباره «Percy Jackson And The Olympians» فصل 3 می‌دانیم"
+      },
+      "excerpt": {
+        "en": "Another season of Disney’s television series adaptation of Rick Riordan’s Percy Jackson and the Olympians has come and gone, but Season 3 is close at hand. The series received a very early Season 3 renewal in March 2025, and some very key players have been cast for the third installment. Read on for more details […]",
+        "fa": "فصل دیگری از مجموعه تلویزیونی دیزنی اقتباسی از پرسی جکسون و المپیک ریک ریوردان آمد و رفت، اما فصل 3 نزدیک است. این سریال در مارس 2025 فصل 3 خیلی زود تمدید شد و برخی از بازیگران بسیار کلیدی برای قسمت سوم انتخاب شدند. برای جزئیات بیشتر به ادامه مطلب مراجعه کنید"
+      },
+      "content": {
+        "en": "Another season of Disney’s television series adaptation of Rick Riordan’s Percy Jackson and the Olympians has come and gone, but Season 3 is close at hand. The series received a very early Season 3 renewal in March 2025, and some very key players have been cast for the third installment. Read on for more details […]",
+        "fa": "فصل دیگری از مجموعه تلویزیونی دیزنی اقتباسی از پرسی جکسون و المپیک ریک ریوردان آمد و رفت، اما فصل 3 نزدیک است. این سریال در مارس 2025 فصل 3 خیلی زود تمدید شد و برخی از بازیگران بسیار کلیدی برای قسمت سوم انتخاب شدند. برای جزئیات بیشتر به ادامه مطلب مراجعه کنید"
+      },
+      "source": {
+        "en": "Deadline",
+        "fa": "Deadline"
+      },
+      "link": "https://deadline.com/feature/percy-jackson-and-the-olympians-season-3-news-updates-1236495797/",
+      "date": "2026-08-17T20:16:09.484258+00:00",
+      "image": "https://deadline.com/wp-content/uploads/2025/08/Screenshot-2025-08-22-at-4.25.40 PM-e1755905222323.png",
       "important": false,
       "score": 3
     },
@@ -453,58 +429,82 @@
         "fa": "The Wrap"
       },
       "link": "https://www.thewrap.com/creative-content/tv-shows/the-traitors-new-blood-trailer-nbc/",
-      "date": "2026-08-17T19:21:06.658014+00:00",
+      "date": "2026-08-17T20:16:09.491632+00:00",
       "image": "https://www.thewrap.com/wp-content/uploads/2026/08/The-Traitors-New-Blood-e1786989353697.jpg",
       "important": false,
       "score": 1
     },
     {
-      "id": "e3aba28db55a",
+      "id": "d4904fb3aa2b",
       "title": {
-        "en": "Put Up Or Shut Up! Paramount Demands A Very, Very Big Bond From AGs & WGA Over Costs Of “Roadblock” Antitrust Suit On WBD Merger",
-        "fa": "بگذار یا خفه شو! پارامونت برای ادغام WBD از AGs و WGA نسبت به هزینه های \"Roadblock\" خواستار پیوند بسیار بزرگی است."
+        "en": "Ryan Gosling’s ‘Ghost Rider’ Sets Release Date; Third Marvel Movie on 2028 Calendar",
+        "fa": "تاریخ اکران «Ghost Rider» رایان گاسلینگ تعیین می‌شود. سومین فیلم مارول در تقویم 2028"
       },
       "excerpt": {
-        "en": "Paramount finally is getting serious in its standoff with blue state attorneys general and the Writers Guild of America over the antitrust action aimed at shattering David Ellison’s $111 billion deal to meld Warner Bros Discovery with the home of The Godfather. In the deepest sense of an offer they can’t refuse, make that $1.88 […]",
-        "fa": "سرانجام پارامونت در حال برخورد جدی با دادستان های کل ایالت آبی و انجمن نویسندگان آمریکا بر سر اقدام ضد انحصار با هدف شکست قرارداد 111 میلیارد دلاری دیوید الیسون برای ادغام برادران وارنر دیسکاوری با خانه پدرخوانده است. در عمیق ترین مفهوم پیشنهادی که نمی توانند رد کنند، آن 1.88 دلار را بسازید"
+        "en": "Disney has dated Ryan Gosling’s “Ghost Rider” movie for July 28, 2028, making it the third Marvel movie set for 2028. “Black Panther 3” is for Dec. 15, 2028, while the as-yet untitled “X-Men” movie comes out on May 5, 2028. The two titles were part of a large number of release updates made by […]",
+        "fa": "دیزنی با فیلم Ghost Rider ساخته رایان گاسلینگ برای 28 ژوئیه 2028 قرار گذاشته است و آن را به سومین مجموعه فیلم مارول برای سال 2028 تبدیل کرده است. Black Panther 3 برای 15 دسامبر 2028 است، در حالی که هنوز نامی از فیلم \"X-Men\" منتشر شده است. دو عنوان به روز شده در 5 می 20 به روزرسانی از فیلم بزرگ ساخته شده است."
       },
       "content": {
-        "en": "Paramount finally is getting serious in its standoff with blue state attorneys general and the Writers Guild of America over the antitrust action aimed at shattering David Ellison’s $111 billion deal to meld Warner Bros Discovery with the home of The Godfather. In the deepest sense of an offer they can’t refuse, make that $1.88 […]",
-        "fa": "سرانجام پارامونت در حال برخورد جدی با دادستان های کل ایالت آبی و انجمن نویسندگان آمریکا بر سر اقدام ضد انحصار با هدف شکست قرارداد 111 میلیارد دلاری دیوید الیسون برای ادغام برادران وارنر دیسکاوری با خانه پدرخوانده است. در عمیق ترین مفهوم پیشنهادی که نمی توانند رد کنند، آن 1.88 دلار را بسازید"
+        "en": "Disney has dated Ryan Gosling’s “Ghost Rider” movie for July 28, 2028, making it the third Marvel movie set for 2028. “Black Panther 3” is for Dec. 15, 2028, while the as-yet untitled “X-Men” movie comes out on May 5, 2028. The two titles were part of a large number of release updates made by […]",
+        "fa": "دیزنی با فیلم Ghost Rider ساخته رایان گاسلینگ برای 28 ژوئیه 2028 قرار گذاشته است و آن را به سومین مجموعه فیلم مارول برای سال 2028 تبدیل کرده است. Black Panther 3 برای 15 دسامبر 2028 است، در حالی که هنوز نامی از فیلم \"X-Men\" منتشر شده است. دو عنوان به روز شده در 5 می 20 به روزرسانی از فیلم بزرگ ساخته شده است."
+      },
+      "source": {
+        "en": "Variety",
+        "fa": "Variety"
+      },
+      "link": "https://variety.com/2026/film/news/ryan-gosling-ghost-rider-third-marvel-movie-2028-1236836635/",
+      "date": "2026-08-17T20:16:09.486854+00:00",
+      "image": "https://variety.com/wp-content/uploads/2022/07/Screen-Shot-2022-07-25-at-10.58.48-AM.png",
+      "important": false,
+      "score": 1
+    },
+    {
+      "id": "93250977d3e9",
+      "title": {
+        "en": "CNN Has Prime-Time Anchors Locked In Ahead of Paramount Deal",
+        "fa": "سی ان ان مجریان پرایم تایم را قبل از قرارداد پارامونت قفل کرده است"
+      },
+      "excerpt": {
+        "en": "Executives at Paramount Skydance have agreed to pay billions to acquire Warner Bros. Discovery, but they may have to do a little more work if they want to put their own stamp on the programming at CNN. CNN recently struck a new deal with Abby Phillip, anchor of the raucous 10 p.m. roundtable “NewsNight” that […]",
+        "fa": "مدیران پارامونت اسکای‌دنس موافقت کرده‌اند که میلیاردها دلار برای خرید برادران وارنر دیسکاوری بپردازند، اما اگر بخواهند مهر خود را بر برنامه‌نویسی در CNN بگذارند، ممکن است مجبور باشند کمی بیشتر کار کنند. سی‌ان‌ان اخیراً قرارداد جدیدی با ابی فیلیپ، مجری برنامه‌های پرشور ساعت 10 شب منعقد کرده است. میزگرد «News Night» که"
+      },
+      "content": {
+        "en": "Executives at Paramount Skydance have agreed to pay billions to acquire Warner Bros. Discovery, but they may have to do a little more work if they want to put their own stamp on the programming at CNN. CNN recently struck a new deal with Abby Phillip, anchor of the raucous 10 p.m. roundtable “NewsNight” that […]",
+        "fa": "مدیران پارامونت اسکای‌دنس موافقت کرده‌اند که میلیاردها دلار برای خرید برادران وارنر دیسکاوری بپردازند، اما اگر بخواهند مهر خود را بر برنامه‌نویسی در CNN بگذارند، ممکن است مجبور باشند کمی بیشتر کار کنند. سی‌ان‌ان اخیراً قرارداد جدیدی با ابی فیلیپ، مجری برنامه‌های پرشور ساعت 10 شب منعقد کرده است. میزگرد «News Night» که"
+      },
+      "source": {
+        "en": "Variety",
+        "fa": "Variety"
+      },
+      "link": "https://variety.com/2026/tv/news/cnn-prime-time-anchors-locked-paramount-1236836589/",
+      "date": "2026-08-17T20:16:09.486354+00:00",
+      "image": "https://variety.com/wp-content/uploads/2026/08/anderson-cooper.png",
+      "important": false,
+      "score": 1
+    },
+    {
+      "id": "523c77cd05af",
+      "title": {
+        "en": "‘Spider-Man: Brand New Day’ $71M Second-Best 3rd Frame Ever; ‘End Of Oak Street’ $21M Louder Than ‘Paw Patrol’ In Dino Battle – Box Office Update",
+        "fa": "«مرد عنکبوتی: روز کاملاً جدید» 71 میلیون دلار دومین فریم سوم بهترین فریم تاریخ. «End Of Oak Street» ۲۱ میلیون دلار بلندتر از «Paw Patrol» در Dino Battle - به‌روزرسانی باکس آفیس"
+      },
+      "excerpt": {
+        "en": "MONDAY AM UPDATE: Sony/Marvel Studio’s Spider-Man: Brand New Day came in higher in its third weekend with $71M, still the second-best third frame ever stateside after Force Awakens ($90.2M) with a -51% hold. That third weekend decline is better than Avengers: Endgame‘s (-57%). Spider-Man: No Way Home‘s -34% third weekend dip isn’t a comp here […]",
+        "fa": "به روز رسانی دوشنبه صبح: Spider-Man: Brand New Day محصول سونی/مارول استودیو در سومین آخر هفته خود با 71 میلیون دلار بالاتر رفت و همچنان دومین فریم سوم بهترین فریم تاریخ بعد از Force Awakens با -51 درصد ماندگاری است. سومین افت آخر هفته بهتر از فیلم Avengers: Endgame است. سومین افت آخر هفته -34 درصدی Spider-Man: No Way Home در اینجا قابل مقایسه نیست."
+      },
+      "content": {
+        "en": "MONDAY AM UPDATE: Sony/Marvel Studio’s Spider-Man: Brand New Day came in higher in its third weekend with $71M, still the second-best third frame ever stateside after Force Awakens ($90.2M) with a -51% hold. That third weekend decline is better than Avengers: Endgame‘s (-57%). Spider-Man: No Way Home‘s -34% third weekend dip isn’t a comp here […]",
+        "fa": "به روز رسانی دوشنبه صبح: Spider-Man: Brand New Day محصول سونی/مارول استودیو در سومین آخر هفته خود با 71 میلیون دلار بالاتر رفت و همچنان دومین فریم سوم بهترین فریم تاریخ بعد از Force Awakens با -51 درصد ماندگاری است. سومین افت آخر هفته بهتر از فیلم Avengers: Endgame است. سومین افت آخر هفته -34 درصدی Spider-Man: No Way Home در اینجا قابل مقایسه نیست."
       },
       "source": {
         "en": "Deadline",
         "fa": "Deadline"
       },
-      "link": "https://deadline.com/2026/08/paramount-merger-antitrust-suit-bond-1237043023/",
-      "date": "2026-08-17T19:21:06.650980+00:00",
-      "image": "https://deadline.com/wp-content/uploads/2026/08/Rob-Bonta-and-Letitia-James.jpg",
+      "link": "https://deadline.com/2026/08/box-office-spider-man-the-end-of-oak-street-1237033458/",
+      "date": "2026-08-17T20:16:09.484160+00:00",
+      "image": "https://deadline.com/wp-content/uploads/2026/08/MCDSPMA_SP148_c26a9e.jpg",
       "important": false,
       "score": 1
-    },
-    {
-      "id": "0d8bf60aee15",
-      "title": {
-        "en": "‘Abbott Elementary’ Is Always in the Right Ballpark — Literally So, for One Very Special Episode",
-        "fa": "Abbott Elementary همیشه در بال پارک مناسب است - به معنای واقعی کلمه، برای یک قسمت بسیار ویژه"
-      },
-      "excerpt": {
-        "en": "Director Randall Einhorn tells IndieWire about taking the show out to a ballgame and the happy accidents that make the series so special.",
-        "fa": "راندال آینهورن، کارگردان، به IndieWire در مورد بردن نمایش به یک بازی بال و حوادث شادی که سریال را بسیار خاص می‌کند، می‌گوید."
-      },
-      "content": {
-        "en": "Director Randall Einhorn tells IndieWire about taking the show out to a ballgame and the happy accidents that make the series so special.",
-        "fa": "راندال آینهورن، کارگردان، به IndieWire در مورد بردن نمایش به یک بازی بال و حوادث شادی که سریال را بسیار خاص می‌کند، می‌گوید."
-      },
-      "source": {
-        "en": "IndieWire",
-        "fa": "IndieWire"
-      },
-      "link": "https://www.indiewire.com/features/interviews/abbott-elementary-director-randall-einhorn-phillies-game-1235210238/",
-      "date": "2026-08-17T19:21:06.660601+00:00",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/08/178757_1142.jpg?w=650",
-      "important": false,
-      "score": 0
     },
     {
       "id": "357806072d79",
@@ -525,7 +525,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/features/craft/jane-schoenbrun-teenage-sex-and-death-at-camp-miasma-1235210237/",
-      "date": "2026-08-17T19:21:06.660394+00:00",
+      "date": "2026-08-17T20:16:09.493908+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/MCDTESE_K3011.jpg?w=650",
       "important": false,
       "score": 0
@@ -549,7 +549,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/criticism/movies/dreams-in-nightmares-review-shatara-michelle-ford-1235030591/",
-      "date": "2026-08-17T19:21:06.659067+00:00",
+      "date": "2026-08-17T20:16:09.492612+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2024/07/DIN_5.jpg?w=650",
       "important": false,
       "score": 0
@@ -573,7 +573,7 @@
         "fa": "The Wrap"
       },
       "link": "https://www.thewrap.com/creative-content/tv-shows/hayden-panettiere-tribute-hollywood-abuse-sexism/",
-      "date": "2026-08-17T19:21:06.658195+00:00",
+      "date": "2026-08-17T20:16:09.491811+00:00",
       "image": "https://www.thewrap.com/wp-content/uploads/2026/08/hayden-panettiere-getty.jpg",
       "important": false,
       "score": 0
