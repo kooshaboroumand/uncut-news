@@ -1,31 +1,7 @@
 {
-  "updated_at": "2026-08-17T02:14:17.553702+00:00",
+  "updated_at": "2026-08-17T03:41:30.886500+00:00",
   "count": 18,
   "news": [
-    {
-      "id": "c753e4d9425a",
-      "title": {
-        "en": "‘Lanterns’ Review: Episode 1 Lights Up Small-Town America with Big Mysteries and a Massive Twist — Spoilers",
-        "fa": "نقد و بررسی «Lanterns»: قسمت 1 شهر کوچک آمریکا را با اسرار بزرگ و پیچش عظیم روشن می کند - اسپویل"
-      },
-      "excerpt": {
-        "en": "The premiere of HBO's gritty \"Green Lantern\" series serves as a rollicking introduction despite overloading on information and ending on a big ol' downer.",
-        "fa": "اولین نمایش سریال پررنگ «فانوس سبز» شبکه HBO، علیرغم اینکه اطلاعات بیش از حد بارگذاری شده و در یک رویداد بزرگ به پایان می رسد، به عنوان یک مقدمه مهیج عمل می کند."
-      },
-      "content": {
-        "en": "The premiere of HBO's gritty \"Green Lantern\" series serves as a rollicking introduction despite overloading on information and ending on a big ol' downer.",
-        "fa": "اولین نمایش سریال پررنگ «فانوس سبز» شبکه HBO، علیرغم اینکه اطلاعات بیش از حد بارگذاری شده و در یک رویداد بزرگ به پایان می رسد، به عنوان یک مقدمه مهیج عمل می کند."
-      },
-      "source": {
-        "en": "IndieWire",
-        "fa": "IndieWire"
-      },
-      "link": "https://www.indiewire.com/criticism/shows/lanterns-episode-1-review-hal-jordan-dead-explained-1235210338/",
-      "date": "2026-08-17T02:14:17.416581+00:00",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/08/Lanterns-HBO-series-Kyle-Chandler-as-Hal-Jordan.jpg?w=650",
-      "important": true,
-      "score": 6
-    },
     {
       "id": "8b342c5cb38a",
       "title": {
@@ -45,8 +21,32 @@
         "fa": "The Wrap"
       },
       "link": "https://www.thewrap.com/creative-content/tv-shows/lanerns-episode-1-hal-jordan-death-explained/",
-      "date": "2026-08-17T02:14:17.414665+00:00",
+      "date": "2026-08-17T03:41:30.756841+00:00",
       "image": "https://www.thewrap.com/wp-content/uploads/2026/08/Kelly-Macdonald-Aaron-Piere-Kyle-Chandler-Lanterns.jpg",
+      "important": true,
+      "score": 6
+    },
+    {
+      "id": "a61ff1241954",
+      "title": {
+        "en": "‘Lanterns’ Star Kyle Chandler Weighs In On Premiere Twist That Sets In Motion “The Whole Mystery” Of HBO Series",
+        "fa": "‘Lanterns’ Star Kyle Chandler Weighs In On Premiere Twist That Sets In Motion “The Whole Mystery” Of HBO Series"
+      },
+      "excerpt": {
+        "en": "SPOILER ALERT! This post contains details from the premiere of HBO’s Lanterns. All is not what it seems in HBO’s Lanterns. The series premiered Sunday night, introducing audiences to Kyle Chandler as the legendary Lantern Hal Jordan and his trainee John Stewart (played by Aaron Pierre). Whatever plans Hal has for John’s training regimen are […]",
+        "fa": "هشدار اسپویلر! این پست حاوی جزئیاتی از اولین نمایش HBO’s Lanterns است. همه چیز آنطور که در فانوس های HBO به نظر می رسد نیست. این سریال یکشنبه شب پخش شد و مخاطبان را با کایل چندلر در نقش فانوس افسانه ای هال جردن و کارآموزش جان استوارت آشنا کرد. هر برنامه ای که هال برای رژیم تمرینی جان دارد"
+      },
+      "content": {
+        "en": "SPOILER ALERT! This post contains details from the premiere of HBO’s Lanterns. All is not what it seems in HBO’s Lanterns. The series premiered Sunday night, introducing audiences to Kyle Chandler as the legendary Lantern Hal Jordan and his trainee John Stewart (played by Aaron Pierre). Whatever plans Hal has for John’s training regimen are […]",
+        "fa": "هشدار اسپویلر! این پست حاوی جزئیاتی از اولین نمایش HBO’s Lanterns است. همه چیز آنطور که در فانوس های HBO به نظر می رسد نیست. این سریال یکشنبه شب پخش شد و مخاطبان را با کایل چندلر در نقش فانوس افسانه ای هال جردن و کارآموزش جان استوارت آشنا کرد. هر برنامه ای که هال برای رژیم تمرینی جان دارد"
+      },
+      "source": {
+        "en": "Deadline",
+        "fa": "Deadline"
+      },
+      "link": "https://deadline.com/2026/08/lanterns-premiere-twist-hal-jordan-kyle-chandler-interview-1237042293/",
+      "date": "2026-08-17T03:41:30.748710+00:00",
+      "image": "https://deadline.com/wp-content/uploads/2026/08/kyle-chandler-garret-dillahunt.jpg",
       "important": true,
       "score": 6
     },
@@ -69,7 +69,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/news/breaking-news/film-independent-biggest-grant-history-juan-devis-1235210522/",
-      "date": "2026-08-17T02:14:17.417839+00:00",
+      "date": "2026-08-17T03:41:30.759860+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/Juan_Devis_2304sm-photo.jpeg?w=650",
       "important": false,
       "score": 3
@@ -93,7 +93,7 @@
         "fa": "The Wrap"
       },
       "link": "https://www.thewrap.com/creative-content/what-to-watch/lanterns-release-date-time-episodes-schedule/",
-      "date": "2026-08-17T02:14:17.415936+00:00",
+      "date": "2026-08-17T03:41:30.758231+00:00",
       "image": "https://www.thewrap.com/wp-content/uploads/2026/08/lanterns-kyle-chandler-hbo.jpg",
       "important": false,
       "score": 3
@@ -102,7 +102,7 @@
       "id": "3dbffeb4a9c3",
       "title": {
         "en": "Jason Segel Says ‘Shrinking’ Season 4 Will Move Past Acute Grief: “Like A Rom-Com To Me To Try Again At 45 Years Old” – Contenders TV Nominees Studio",
-        "fa": "جیسون سیگل می‌گوید «کوچک شدن» فصل 4 غم و اندوه حاد را پشت سر می‌گذارد: «مثل یک Rom-Com برای من که در 45 سالگی دوباره امتحان کنم» - استودیو Contenders TV Nominees"
+        "fa": "Jason Segel Says ‘Shrinking’ Season 4 Will Move Past Acute Grief: “Like A Rom-Com To Me To Try Again At 45 Years Old” – Contenders TV Nominees Studio"
       },
       "excerpt": {
         "en": "They’re already shooting Season 4, but the Shrinking cast — co-creator/co-writer Jason Segel, Harrison Ford, Jessica Williams and Michael Urie — took a break to chat about their Emmy-nominated third season at Deadline’s Contenders Television: The Nominees Studio. Segel, who stars as Jimmy and serves as executive producer and writer alongside Bill Lawrence and Brett Goldstein, teased […]",
@@ -117,7 +117,7 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/jason-segel-shrinking-video-interview-season-4-emmys-1237041926/",
-      "date": "2026-08-17T02:14:17.407876+00:00",
+      "date": "2026-08-17T03:41:30.750113+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/Shrinking.jpg",
       "important": false,
       "score": 3
@@ -130,18 +130,18 @@
       },
       "excerpt": {
         "en": "Warning: This podcast and write-up has spoilers about the ending of tonight’s first episode of HBO/DC’s Lanterns We can’t even say it in a blunt, straight sentence. But, first episode in, something crazy happened to Kyle Chandler’s O.G. Green Lantern, Hal Jordan, in a time jump. It’s an outcome that sets up for an interesting […]",
-        "fa": "هشدار: این پادکست و نوشته دارای اسپویلرهایی درباره پایان اولین قسمت امشب HBO/DC's Lanterns است، ما حتی نمی توانیم آن را با یک جمله صریح و صریح بگوییم. اما، در قسمت اول، اتفاق دیوانه‌واری برای O.G کایل چندلر افتاد. گرین لنترن، هال جردن، در یک پرش زمانی. این نتیجه ای است که برای یک اتفاق جالب آماده می شود"
+        "fa": "Warning: This podcast and write-up has spoilers about the ending of tonight’s first episode of HBO/DC’s Lanterns We can’t even say it in a blunt, straight sentence. But, first episode in, something crazy happened to Kyle Chandler’s O.G. Green Lantern, Hal Jordan, in a time jump. It’s an outcome that sets up for an interesting […]"
       },
       "content": {
         "en": "Warning: This podcast and write-up has spoilers about the ending of tonight’s first episode of HBO/DC’s Lanterns We can’t even say it in a blunt, straight sentence. But, first episode in, something crazy happened to Kyle Chandler’s O.G. Green Lantern, Hal Jordan, in a time jump. It’s an outcome that sets up for an interesting […]",
-        "fa": "هشدار: این پادکست و نوشته دارای اسپویلرهایی درباره پایان اولین قسمت امشب HBO/DC's Lanterns است، ما حتی نمی توانیم آن را با یک جمله صریح و صریح بگوییم. اما، در قسمت اول، اتفاق دیوانه‌واری برای O.G کایل چندلر افتاد. گرین لنترن، هال جردن، در یک پرش زمانی. این نتیجه ای است که برای یک اتفاق جالب آماده می شود"
+        "fa": "هشدار: این پادکست و نوشته دارای اسپویلرهایی درباره پایان اولین قسمت امشب HBO/DC's Lanterns است، ما حتی نمی توانیم آن را با یک جمله صریح و صریح بگوییم. اما، در قسمت اول، اتفاقی دیوانه‌وار برای O.G کایل چندلر افتاد. گرین لنترن، هال جردن، در یک پرش زمانی. این نتیجه ای است که برای یک اتفاق جالب آماده می شود"
       },
       "source": {
         "en": "Deadline",
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/lanterns-first-episode-hal-jordan-podcast-damon-lindelof-1237042209/",
-      "date": "2026-08-17T02:14:17.406199+00:00",
+      "date": "2026-08-17T03:41:30.749029+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/Damon-Lindelof-Chris-Mundy-Tom-King-Crew-Call.jpg",
       "important": false,
       "score": 3
@@ -165,7 +165,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/features/podcast/screen-talk-podcast-tiff-ceo-cameron-bailey-toronto-2026-1235210516/",
-      "date": "2026-08-17T02:14:17.417968+00:00",
+      "date": "2026-08-17T03:41:30.760002+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/P115U4AG.jpg?w=650",
       "important": false,
       "score": 1
@@ -178,7 +178,7 @@
       },
       "excerpt": {
         "en": "Shut up! Oscar winner Anne Hathaway is officially a Disney Legend. Hathaway was officially inducted into Disney’s hall of fame on Sunday afternoon during D23, the company’s weekend-long ultimate fan event. “I am here today because I’m one of the most insanely lucky people in the world,” Hathaway said after her “Devil Wears Prada” director […]",
-        "fa": "خفه شو آن هاتاوی، برنده اسکار، رسما یک اسطوره دیزنی است. هاتاوی بعدازظهر یکشنبه در جریان D23 رسماً وارد تالار مشاهیر دیزنی شد، رویداد نهایی طرفداران آخر هفته این شرکت. هاتاوی پس از کارگردانی «شیطان پرادا می‌پوشد» گفت: «من امروز اینجا هستم زیرا یکی از دیوانه‌وار خوش‌شانس‌ترین آدم‌های دنیا هستم."
+        "fa": "Shut up! Oscar winner Anne Hathaway is officially a Disney Legend. Hathaway was officially inducted into Disney’s hall of fame on Sunday afternoon during D23, the company’s weekend-long ultimate fan event. “I am here today because I’m one of the most insanely lucky people in the world,” Hathaway said after her “Devil Wears Prada” director […]"
       },
       "content": {
         "en": "Shut up! Oscar winner Anne Hathaway is officially a Disney Legend. Hathaway was officially inducted into Disney’s hall of fame on Sunday afternoon during D23, the company’s weekend-long ultimate fan event. “I am here today because I’m one of the most insanely lucky people in the world,” Hathaway said after her “Devil Wears Prada” director […]",
@@ -189,7 +189,7 @@
         "fa": "Variety"
       },
       "link": "https://variety.com/2026/film/news/anne-hathaway-disney-legend-d23-princess-diaries-devil-wears-prada-1236835727/",
-      "date": "2026-08-17T02:14:17.411674+00:00",
+      "date": "2026-08-17T03:41:30.753729+00:00",
       "image": "https://variety.com/wp-content/uploads/2026/08/2289787582.jpg",
       "important": false,
       "score": 1
@@ -198,22 +198,22 @@
       "id": "adb30dd27eb8",
       "title": {
         "en": "‘American Doctor’ Review: Three Doctors Travel to Gaza in a Bracing and Essential Documentary About Treating the Despair of an Ongoing Genocide",
-        "fa": "نقد و بررسی «پزشک آمریکایی»: سفر سه پزشک به غزه در یک مستند آماده و ضروری درباره درمان ناامیدی از یک نسل کشی در حال انجام"
+        "fa": "‘American Doctor’ Review: Three Doctors Travel to Gaza in a Bracing and Essential Documentary About Treating the Despair of an Ongoing Genocide"
       },
       "excerpt": {
         "en": "Poh Si Teng's remarkable film spotlights the best and most capable among us as part of a uniquely effective call to action.",
-        "fa": "فیلم قابل توجه Poh Si Teng بهترین و تواناترین ما را به عنوان بخشی از یک فراخوان منحصر به فرد موثر به عمل می آورد."
+        "fa": "فیلم قابل توجه Poh Si Teng بهترین و تواناترین را در میان ما به عنوان بخشی از یک فراخوان منحصر به فرد موثر به عمل می آورد."
       },
       "content": {
         "en": "Poh Si Teng's remarkable film spotlights the best and most capable among us as part of a uniquely effective call to action.",
-        "fa": "فیلم قابل توجه Poh Si Teng بهترین و تواناترین ما را به عنوان بخشی از یک فراخوان منحصر به فرد موثر به عمل می آورد."
+        "fa": "فیلم قابل توجه Poh Si Teng بهترین و تواناترین را در میان ما به عنوان بخشی از یک فراخوان منحصر به فرد موثر به عمل می آورد."
       },
       "source": {
         "en": "IndieWire",
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/criticism/movies/american-doctor-documentary-review-gaza-1235210500/",
-      "date": "2026-08-17T02:14:17.418538+00:00",
+      "date": "2026-08-17T03:41:30.760626+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/ivfj95enlAmerican_Doctor-Still_1.webp?w=650",
       "important": false,
       "score": 0
@@ -237,7 +237,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/news/business/dga-iatse-conditions-paramount-settlement-realistic-1235210398/",
-      "date": "2026-08-17T02:14:17.418322+00:00",
+      "date": "2026-08-17T03:41:30.760389+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/P10XLNE.jpg?w=650",
       "important": false,
       "score": 0
@@ -261,7 +261,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/features/interviews/abbott-elementary-director-randall-einhorn-phillies-game-1235210238/",
-      "date": "2026-08-17T02:14:17.417667+00:00",
+      "date": "2026-08-17T03:41:30.759674+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/178757_1142.jpg?w=650",
       "important": false,
       "score": 0
@@ -285,7 +285,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/features/craft/jane-schoenbrun-teenage-sex-and-death-at-camp-miasma-1235210237/",
-      "date": "2026-08-17T02:14:17.417458+00:00",
+      "date": "2026-08-17T03:41:30.759447+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/MCDTESE_K3011.jpg?w=650",
       "important": false,
       "score": 0
@@ -309,32 +309,56 @@
         "fa": "The Wrap"
       },
       "link": "https://www.thewrap.com/creative-content/movies/best-movies-prime-video-this-week-august-17-23/",
-      "date": "2026-08-17T02:14:17.416082+00:00",
+      "date": "2026-08-17T03:41:30.758395+00:00",
       "image": "https://www.thewrap.com/wp-content/uploads/2026/08/late-bloomers-karen-gillan.jpg",
       "important": false,
       "score": 0
     },
     {
-      "id": "f4d1aa23fdfe",
+      "id": "ebd12963c3a9",
       "title": {
-        "en": "‘Spider-Man: Brand New Day’ Hits $2B Globally to Top ‘No Way Home’ as Sony’s Biggest Release",
-        "fa": "«Spider-Man: Brand New Day» با فروش 2 میلیارد دلاری در سطح جهانی به عنوان بزرگ‌ترین نسخه سونی، «No Way Home» را از آن خود کرد."
+        "en": "Johnny Depp in Talks for ‘Pirates of the Caribbean 6,’ Says Jerry Bruckheimer",
+        "fa": "جری بروکهایمر می گوید که جانی دپ در گفتگو برای «دزدان دریایی کارائیب 6»"
       },
       "excerpt": {
-        "en": "Tom Holland's superhero juggernaut collected $70 million domestically in its third weekend, alongside the debuts of 'The End of Oak Street' and 'PAW Patrol: The Dino Movie.'",
-        "fa": "ابرقهرمان تام هالند در سومین آخر هفته اکران خود 70 میلیون دلار در داخل کشور جمع آوری کرد، در کنار اولین فیلم های «پایان خیابان بلوط» و «پاور پاترول: فیلم دینو»."
+        "en": "The series producer gives an update on the long-awaited next entry The post Johnny Depp in Talks for ‘Pirates of the Caribbean 6,’ Says Jerry Bruckheimer appeared first on TheWrap .",
+        "fa": "تهیه‌کننده سریال به‌روزرسانی جدیدی در مورد ورودی بعدی که مدت‌ها منتظرش بودیم ارائه می‌دهد"
       },
       "content": {
-        "en": "Tom Holland's superhero juggernaut collected $70 million domestically in its third weekend, alongside the debuts of 'The End of Oak Street' and 'PAW Patrol: The Dino Movie.'",
-        "fa": "ابرقهرمان تام هالند در سومین آخر هفته اکران خود 70 میلیون دلار در داخل کشور جمع آوری کرد، در کنار اولین فیلم های «پایان خیابان بلوط» و «پاور پاترول: فیلم دینو»."
+        "en": "The series producer gives an update on the long-awaited next entry The post Johnny Depp in Talks for ‘Pirates of the Caribbean 6,’ Says Jerry Bruckheimer appeared first on TheWrap .",
+        "fa": "تهیه‌کننده سریال به‌روزرسانی جدیدی در مورد ورودی بعدی که مدت‌ها منتظرش بودیم ارائه می‌دهد"
       },
       "source": {
-        "en": "The Hollywood Reporter",
-        "fa": "The Hollywood Reporter"
+        "en": "The Wrap",
+        "fa": "The Wrap"
       },
-      "link": "https://www.hollywoodreporter.com/movies/movie-news/spider-man-brand-new-day-box-office-oak-street-paw-patrol-1236674347/",
-      "date": "2026-08-17T02:14:17.414572+00:00",
-      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/07/MON1420_TRL_comp_SPI_v0153.1270-H-2026.jpg?w=1296&#038;h=730&#038;crop=1",
+      "link": "https://www.thewrap.com/creative-content/movies/johnny-depp-in-talks-pirates-of-the-caribbean-6/",
+      "date": "2026-08-17T03:41:30.757733+00:00",
+      "image": "https://www.thewrap.com/wp-content/uploads/2026/08/JohnnyDeppPirates.jpg",
+      "important": false,
+      "score": 0
+    },
+    {
+      "id": "8e6336661df9",
+      "title": {
+        "en": "Nick Reiner Files New Petition for Access to Family Trust Fund Ahead of Murder Trial for Parents’ Deaths",
+        "fa": "نیک راینر دادخواست جدیدی برای دسترسی به صندوق امانی خانواده پیش از محاکمه قتل برای مرگ والدین ارائه می کند"
+      },
+      "excerpt": {
+        "en": "In a new filing, Reiner renews his demand for a portion of the fund, estimated at $558,000 The post Nick Reiner Files New Petition for Access to Family Trust Fund Ahead of Murder Trial for Parents’ Deaths appeared first on TheWrap .",
+        "fa": "در یک پرونده جدید، راینر تقاضای خود را برای بخشی از صندوق، که 558000 دلار تخمین زده می شود، تجدید می کند."
+      },
+      "content": {
+        "en": "In a new filing, Reiner renews his demand for a portion of the fund, estimated at $558,000 The post Nick Reiner Files New Petition for Access to Family Trust Fund Ahead of Murder Trial for Parents’ Deaths appeared first on TheWrap .",
+        "fa": "در یک پرونده جدید، راینر تقاضای خود را برای بخشی از صندوق، که 558000 دلار تخمین زده می شود، تجدید می کند."
+      },
+      "source": {
+        "en": "The Wrap",
+        "fa": "The Wrap"
+      },
+      "link": "https://www.thewrap.com/industry-news/public-policy-legal/nick-reiner-blocked-family-trust-fund-murder-trial/",
+      "date": "2026-08-17T03:41:30.756473+00:00",
+      "image": "https://www.thewrap.com/wp-content/uploads/2026/08/NickReinerCourt.jpg",
       "important": false,
       "score": 0
     },
@@ -357,7 +381,7 @@
         "fa": "The Hollywood Reporter"
       },
       "link": "https://www.hollywoodreporter.com/tv/tv-features/love-story-producers-react-carolyn-bessette-tiktok-1236672651/",
-      "date": "2026-08-17T02:14:17.413155+00:00",
+      "date": "2026-08-17T03:41:30.755163+00:00",
       "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/14BFEA-Limited-Love-Main-2026.jpg?w=1296&#038;h=730&#038;crop=1",
       "important": false,
       "score": 0
@@ -381,7 +405,7 @@
         "fa": "Variety"
       },
       "link": "https://variety.com/2026/film/news/dwayne-johnson-disney-legend-d23-emily-blunt-1236833908/",
-      "date": "2026-08-17T02:14:17.411199+00:00",
+      "date": "2026-08-17T03:41:30.753279+00:00",
       "image": "https://variety.com/wp-content/uploads/2026/08/GettyImages-2290753699.jpg",
       "important": false,
       "score": 0
@@ -405,32 +429,8 @@
         "fa": "Variety"
       },
       "link": "https://variety.com/2026/tv/columns/noah-wyle-david-ellison-move-paramount-out-of-california-1236835892/",
-      "date": "2026-08-17T02:14:17.410965+00:00",
+      "date": "2026-08-17T03:41:30.753012+00:00",
       "image": "https://variety.com/wp-content/uploads/2026/08/MixCollage-16-Aug-2026-04-28-PM-9388.jpg",
-      "important": false,
-      "score": 0
-    },
-    {
-      "id": "54647390a69e",
-      "title": {
-        "en": "Johnny Depp In Talks For ‘Pirates 6’, Says Jerry Bruckheimer At D23; ‘Top Gun’ Producer Wants To Keep Paramount In Hollywood",
-        "fa": "جری بروکهایمر در D23 می گوید: جانی دپ در گفتگو برای «دزدان دریایی 6»؛ تهیه‌کننده «تاپ گان» می‌خواهد در هالیوود جایگاه اول را حفظ کند"
-      },
-      "excerpt": {
-        "en": "We caught up with producer Jerry Bruckheimer at D23, who tells that when it comes to Pirates of the Caribbean 6, “we’re talking with Johnny [Depp], we’re working on a screenplay, and hopefully we can get this done.” Separate from Bruckheimer, some solid sources tell us that the continuation won’t feel like just the nth […]",
-        "fa": "ما با جری بروکهایمر تهیه کننده در D23 صحبت کردیم، که می گوید وقتی صحبت از دزدان دریایی کارائیب 6 می شود، \"ما با جانی صحبت می کنیم، در حال کار بر روی یک فیلمنامه هستیم و امیدواریم بتوانیم این کار را انجام دهیم.\" جدا از بروکهایمر، برخی منابع معتبر به ما می گویند که ادامه فقط شبیه به n نخواهد بود."
-      },
-      "content": {
-        "en": "We caught up with producer Jerry Bruckheimer at D23, who tells that when it comes to Pirates of the Caribbean 6, “we’re talking with Johnny [Depp], we’re working on a screenplay, and hopefully we can get this done.” Separate from Bruckheimer, some solid sources tell us that the continuation won’t feel like just the nth […]",
-        "fa": "We caught up with producer Jerry Bruckheimer at D23, who tells that when it comes to Pirates of the Caribbean 6, “we’re talking with Johnny [Depp], we’re working on a screenplay, and hopefully we can get this done.” Separate from Bruckheimer, some solid sources tell us that the continuation won’t feel like just the nth […]"
-      },
-      "source": {
-        "en": "Deadline",
-        "fa": "Deadline"
-      },
-      "link": "https://deadline.com/2026/08/johnny-depp-pirates-6-bruckheimer-paramount-1237042233/",
-      "date": "2026-08-17T02:14:17.409918+00:00",
-      "image": "https://deadline.com/wp-content/uploads/2026/08/Paramount-Bruckheimer-Pirates-Caribbean-3-shot_262dd0.jpg",
       "important": false,
       "score": 0
     }
