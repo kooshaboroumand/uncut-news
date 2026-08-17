@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-17T12:24:25.119095+00:00",
+  "updated_at": "2026-08-17T13:32:58.274129+00:00",
   "count": 24,
   "news": [
     {
@@ -21,10 +21,34 @@
         "fa": "The Hollywood Reporter"
       },
       "link": "https://www.hollywoodreporter.com/movies/movie-news/oasis-film-trailer-venice-school-outcasts-violence-forest-1236674663/",
-      "date": "2026-08-17T12:24:24.811765+00:00",
+      "date": "2026-08-17T13:32:57.996650+00:00",
       "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/Oasis-film-still-Zeitgeist-Filmproduktion-H-2026.jpg?w=1227&#038;h=691&#038;crop=1",
       "important": true,
       "score": 7
+    },
+    {
+      "id": "c753e4d9425a",
+      "title": {
+        "en": "‘Lanterns’ Review: Episode 1 Lights Up Small-Town America with Big Mysteries and a Massive Twist — Spoilers",
+        "fa": "نقد و بررسی «Lanterns»: قسمت 1 شهر کوچک آمریکا را با اسرار بزرگ و پیچش عظیم روشن می کند - اسپویل"
+      },
+      "excerpt": {
+        "en": "The premiere of HBO's gritty \"Green Lantern\" series serves as a rollicking introduction despite overloading on information and ending on a big ol' downer.",
+        "fa": "اولین نمایش سریال پررنگ «فانوس سبز» شبکه HBO، علیرغم اینکه اطلاعات بیش از حد بارگذاری شده و در یک رویداد بزرگ به پایان می رسد، به عنوان یک مقدمه مهیج عمل می کند."
+      },
+      "content": {
+        "en": "The premiere of HBO's gritty \"Green Lantern\" series serves as a rollicking introduction despite overloading on information and ending on a big ol' downer.",
+        "fa": "اولین نمایش سریال پررنگ «فانوس سبز» شبکه HBO، علیرغم اینکه اطلاعات بیش از حد بارگذاری شده و در یک رویداد بزرگ به پایان می رسد، به عنوان یک مقدمه مهیج عمل می کند."
+      },
+      "source": {
+        "en": "IndieWire",
+        "fa": "IndieWire"
+      },
+      "link": "https://www.indiewire.com/criticism/shows/lanterns-episode-1-review-hal-jordan-dead-explained-1235210338/",
+      "date": "2026-08-17T13:32:57.998527+00:00",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/08/Lanterns-HBO-series-Kyle-Chandler-as-Hal-Jordan.jpg?w=650",
+      "important": true,
+      "score": 6
     },
     {
       "id": "8b342c5cb38a",
@@ -45,7 +69,7 @@
         "fa": "The Wrap"
       },
       "link": "https://www.thewrap.com/creative-content/tv-shows/lanerns-episode-1-hal-jordan-death-explained/",
-      "date": "2026-08-17T12:24:24.813206+00:00",
+      "date": "2026-08-17T13:32:57.997922+00:00",
       "image": "https://www.thewrap.com/wp-content/uploads/2026/08/Kelly-Macdonald-Aaron-Piere-Kyle-Chandler-Lanterns.jpg",
       "important": true,
       "score": 6
@@ -69,34 +93,58 @@
         "fa": "Variety"
       },
       "link": "https://variety.com/2026/theater/news/rhea-norwood-susan-wokoma-james-graham-national-youth-theatre-1236835453/",
-      "date": "2026-08-17T12:24:24.809708+00:00",
+      "date": "2026-08-17T13:32:57.995178+00:00",
       "image": "https://variety.com/wp-content/uploads/2026/08/Rhea-Norwood-Susan-Wokoma-James-Graham.jpg",
       "important": true,
       "score": 6
     },
     {
-      "id": "a61ff1241954",
+      "id": "59a297847518",
       "title": {
-        "en": "‘Lanterns’ Star Kyle Chandler Weighs In On Premiere Twist That Sets In Motion “The Whole Mystery” Of HBO Series",
-        "fa": "کایل چندلر، ستاره «فانوس‌ها» در اولین فیلمی که «کل رمز و راز» سریال HBO را به حرکت در می‌آورد وزن می‌دهد."
+        "en": "‘The Terminal List’ Reveals Season 2 Premiere Date & First-Look Photos",
+        "fa": "«فهرست ترمینال» تاریخ پخش فصل دوم و عکس‌های اولین نگاه را نشان می‌دهد"
       },
       "excerpt": {
-        "en": "SPOILER ALERT! This post contains details from the premiere of HBO’s Lanterns. All is not what it seems in HBO’s Lanterns. The series premiered Sunday night, introducing audiences to Kyle Chandler as the legendary Lantern Hal Jordan and his trainee John Stewart (played by Aaron Pierre). Whatever plans Hal has for John’s training regimen are […]",
-        "fa": "هشدار اسپویلر! این پست حاوی جزئیاتی از اولین نمایش HBO’s Lanterns است. همه چیز آنطور که در فانوس های HBO به نظر می رسد نیست. این سریال یکشنبه شب پخش شد و مخاطبان را با کایل چندلر در نقش فانوس افسانه ای هال جردن و کارآموزش جان استوارت آشنا کرد. هر برنامه ای که هال برای رژیم تمرینی جان دارد"
+        "en": "Prime Video’s The Terminal List is kick-starting promotions for Season 2 with a set of first-look photos featuring Chris Pratt as James Reece (above and below). All eight episodes will premiere on Wednesday, October 21. From the best-selling novels by Jack Carr of the same name, The Terminal List centers on Navy SEAL Commander James Reece as […]",
+        "fa": "Prime Video's The Terminal List شروع کننده تبلیغات فصل 2 با مجموعه ای از عکس های ظاهر اول است که کریس پرت را در نقش جیمز ریس نشان می دهد. هر هشت قسمت در روز چهارشنبه، 21 اکتبر پخش خواهد شد. از رمان های پرفروش جک کار به همین نام، فهرست ترمینال بر روی فرمانده نیروی دریایی جیمز ریس تمرکز دارد."
       },
       "content": {
-        "en": "SPOILER ALERT! This post contains details from the premiere of HBO’s Lanterns. All is not what it seems in HBO’s Lanterns. The series premiered Sunday night, introducing audiences to Kyle Chandler as the legendary Lantern Hal Jordan and his trainee John Stewart (played by Aaron Pierre). Whatever plans Hal has for John’s training regimen are […]",
-        "fa": "هشدار اسپویلر! این پست حاوی جزئیاتی از اولین نمایش HBO’s Lanterns است. همه چیز آنطور که در فانوس های HBO به نظر می رسد نیست. این سریال یکشنبه شب پخش شد و مخاطبان را با کایل چندلر در نقش فانوس افسانه ای هال جردن و کارآموزش جان استوارت آشنا کرد. هر برنامه ای که هال برای رژیم تمرینی جان دارد"
+        "en": "Prime Video’s The Terminal List is kick-starting promotions for Season 2 with a set of first-look photos featuring Chris Pratt as James Reece (above and below). All eight episodes will premiere on Wednesday, October 21. From the best-selling novels by Jack Carr of the same name, The Terminal List centers on Navy SEAL Commander James Reece as […]",
+        "fa": "Prime Video's The Terminal List شروع کننده تبلیغات فصل 2 با مجموعه ای از عکس های ظاهر اول است که کریس پرت را در نقش جیمز ریس نشان می دهد. هر هشت قسمت در روز چهارشنبه، 21 اکتبر پخش خواهد شد. از رمان های پرفروش جک کار به همین نام، فهرست ترمینال بر روی فرمانده نیروی دریایی جیمز ریس تمرکز دارد."
       },
       "source": {
         "en": "Deadline",
         "fa": "Deadline"
       },
-      "link": "https://deadline.com/2026/08/lanterns-premiere-twist-hal-jordan-kyle-chandler-interview-1237042293/",
-      "date": "2026-08-17T12:24:24.807864+00:00",
-      "image": "https://deadline.com/wp-content/uploads/2026/08/kyle-chandler-garret-dillahunt.jpg",
+      "link": "https://deadline.com/2026/08/the-terminal-list-season-2-premiere-date-photos-1237042586/",
+      "date": "2026-08-17T13:32:57.989184+00:00",
+      "image": "https://deadline.com/wp-content/uploads/2026/08/TMLT_S2_UT_201_250414_LUBJUS_00132RC2.jpg",
       "important": true,
       "score": 6
+    },
+    {
+      "id": "b045e2bcd765",
+      "title": {
+        "en": "Witney Carson Is Pregnant and Returning for ‘Dancing With the Stars’ Season 35",
+        "fa": "ویتنی کارسون باردار است و برای فصل 35 \"Dancing With the Stars\" بازگشته است."
+      },
+      "excerpt": {
+        "en": "The professional dancer reflects on her first-of-its-kind casting in conversation with THR, and the announcement that Guillermo Rodriguez will be her celebrity partner for the upcoming season: \"If I can do both and the baby is healthy, then I am gonna try and do it all, because women are amazing.\"",
+        "fa": "این رقصنده حرفه‌ای در گفتگو با THR، اولین بازیگری در نوع خود را منعکس می‌کند و اعلام می‌کند که گیرمو رودریگز شریک مشهور او در فصل آینده خواهد بود: \"اگر من بتوانم هر دو را انجام دهم و کودک سالم باشد، پس سعی خواهم کرد همه این کارها را انجام دهم، زیرا زنان شگفت‌انگیز هستند.\""
+      },
+      "content": {
+        "en": "The professional dancer reflects on her first-of-its-kind casting in conversation with THR, and the announcement that Guillermo Rodriguez will be her celebrity partner for the upcoming season: \"If I can do both and the baby is healthy, then I am gonna try and do it all, because women are amazing.\"",
+        "fa": "این رقصنده حرفه‌ای در گفتگو با THR، اولین بازیگری در نوع خود را منعکس می‌کند و اعلام می‌کند که گیرمو رودریگز شریک مشهور او در فصل آینده خواهد بود: \"اگر من بتوانم هر دو را انجام دهم و کودک سالم باشد، پس سعی خواهم کرد همه این کارها را انجام دهم، زیرا زنان شگفت‌انگیز هستند.\""
+      },
+      "source": {
+        "en": "The Hollywood Reporter",
+        "fa": "The Hollywood Reporter"
+      },
+      "link": "https://www.hollywoodreporter.com/tv/tv-news/witney-carson-pregnant-dancing-with-the-stars-season-35-1236674102/",
+      "date": "2026-08-17T13:32:57.995589+00:00",
+      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/GettyImages-2286455420-e1786753237916.jpg?w=1440&#038;h=810&#038;crop=1",
+      "important": true,
+      "score": 4
     },
     {
       "id": "1fa533676d00",
@@ -117,7 +165,7 @@
         "fa": "Variety"
       },
       "link": "https://variety.com/2026/film/news/deluxe-tohokushinsha-apac-localization-partnership-1236836079/",
-      "date": "2026-08-17T12:24:24.809452+00:00",
+      "date": "2026-08-17T13:32:57.994959+00:00",
       "image": "https://variety.com/wp-content/uploads/2026/08/Deluxe-TFC.jpg",
       "important": true,
       "score": 4
@@ -141,7 +189,7 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/vigil-season-3-teaser-trailer-bbc-1237042789/",
-      "date": "2026-08-17T12:24:24.806255+00:00",
+      "date": "2026-08-17T13:32:57.991996+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/1.-Suranne-Jones-Amy-Silva-and-Rose-Leslie-Kirsten-Longacre.jpg",
       "important": true,
       "score": 4
@@ -165,56 +213,32 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/news/breaking-news/film-independent-biggest-grant-history-juan-devis-1235210522/",
-      "date": "2026-08-17T12:24:24.816151+00:00",
+      "date": "2026-08-17T13:32:57.999676+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/Juan_Devis_2304sm-photo.jpeg?w=650",
       "important": false,
       "score": 3
     },
     {
-      "id": "c9d6cffba07a",
+      "id": "5be5bc16a93e",
       "title": {
-        "en": "‘Lanterns’ Season 1 Release Schedule: When Are New Episodes Out?",
-        "fa": "برنامه پخش فصل 1 \"Lanterns\": قسمت های جدید کی منتشر می شوند؟"
+        "en": "‘Lanterns’ Stars Kyle Chandler and Aaron Pierre Break Down HBO Drama’s Grounded Approach",
+        "fa": "ستاره‌های «فانوس‌ها»، کایل چندلر و آرون پیر، رویکرد پایه‌ای درام HBO را شکست می‌دهند."
       },
       "excerpt": {
-        "en": "Kyle Chandler and Aaron Pierre star in the latest DC Comics series The post ‘Lanterns’ Season 1 Release Schedule: When Are New Episodes Out? appeared first on TheWrap .",
-        "fa": "کایل چندلر و آرون پیر در جدیدترین سریال کامیکس دی سی بازی کردند"
+        "en": "\"It wasn’t intimidating until somebody said, ‘You better not screw this up,'\" Chandler tells TheWrap The post ‘Lanterns’ Stars Kyle Chandler and Aaron Pierre Break Down HBO Drama’s Grounded Approach appeared first on TheWrap .",
+        "fa": "چندلر به TheWrap می‌گوید: «تا زمانی که کسی نگفت، «بهتر است این را خراب نکنی» ترسناک نبود."
       },
       "content": {
-        "en": "Kyle Chandler and Aaron Pierre star in the latest DC Comics series The post ‘Lanterns’ Season 1 Release Schedule: When Are New Episodes Out? appeared first on TheWrap .",
-        "fa": "کایل چندلر و آرون پیر در جدیدترین سریال کامیکس دی سی بازی کردند"
+        "en": "\"It wasn’t intimidating until somebody said, ‘You better not screw this up,'\" Chandler tells TheWrap The post ‘Lanterns’ Stars Kyle Chandler and Aaron Pierre Break Down HBO Drama’s Grounded Approach appeared first on TheWrap .",
+        "fa": "چندلر به TheWrap می‌گوید: «تا زمانی که کسی نگفت، «بهتر است این را خراب نکنی» ترسناک نبود."
       },
       "source": {
         "en": "The Wrap",
         "fa": "The Wrap"
       },
-      "link": "https://www.thewrap.com/creative-content/what-to-watch/lanterns-release-date-time-episodes-schedule/",
-      "date": "2026-08-17T12:24:24.814515+00:00",
-      "image": "https://www.thewrap.com/wp-content/uploads/2026/08/lanterns-kyle-chandler-hbo.jpg",
-      "important": false,
-      "score": 3
-    },
-    {
-      "id": "c8eb25edfb71",
-      "title": {
-        "en": "Mexico’s Madrefoca Boards ‘Isabel Hernández’ as Zoe Films Builds Festival Momentum (EXCLUSIVE)",
-        "fa": "فیلم Madrefoca مکزیک با «ایزابل هرناندز» در نقش Zoe Films شتاب جشنواره را می‌سازد"
-      },
-      "excerpt": {
-        "en": "Mexico’s Madrefoca Cine has boarded “Isabel Hernández,” Italian filmmaker Giorgio Giampà’s feature debut, joining Zoe Films, LaDoc and Fiasco on the Italy-Mexico co-production. The project is among the 15 titles selected for the 2026 Europe-Latin America Co-Production Forum at the San Sebastián Film Festival. Its San Sebastián berth comes as Zoe Films builds a growing […]",
-        "fa": "سینما Madrefoca مکزیک با «ایزابل هرناندز»، اولین فیلم بلند جورجیو جیامپا، فیلمساز ایتالیایی، به فیلم‌های Zoe، LaDoc و Fiasco در تولید مشترک ایتالیا و مکزیک پیوست. این پروژه در میان 15 عنوان انتخاب شده برای انجمن تولید مشترک اروپا و آمریکای لاتین 2026 در جشنواره فیلم سن سباستین است. اسکله آن در سن سباستین در حالی است که Zoe Films در حال رشد است"
-      },
-      "content": {
-        "en": "Mexico’s Madrefoca Cine has boarded “Isabel Hernández,” Italian filmmaker Giorgio Giampà’s feature debut, joining Zoe Films, LaDoc and Fiasco on the Italy-Mexico co-production. The project is among the 15 titles selected for the 2026 Europe-Latin America Co-Production Forum at the San Sebastián Film Festival. Its San Sebastián berth comes as Zoe Films builds a growing […]",
-        "fa": "سینما Madrefoca مکزیک با «ایزابل هرناندز»، اولین فیلم بلند جورجیو جیامپا، فیلمساز ایتالیایی، به فیلم‌های Zoe، LaDoc و Fiasco در تولید مشترک ایتالیا و مکزیک پیوست. این پروژه در میان 15 عنوان انتخاب شده برای انجمن تولید مشترک اروپا و آمریکای لاتین 2026 در جشنواره فیلم سن سباستین است. اسکله آن در سن سباستین در حالی است که Zoe Films در حال رشد است"
-      },
-      "source": {
-        "en": "Variety",
-        "fa": "Variety"
-      },
-      "link": "https://variety.com/2026/film/markets-festivals/madrefoca-isabel-hernandez-zoe-films-san-sebastian-1236833977/",
-      "date": "2026-08-17T12:24:24.810411+00:00",
-      "image": "https://variety.com/wp-content/uploads/2026/08/ISABEL_3.jpg",
+      "link": "https://www.thewrap.com/creative-content/tv-shows/lanterns-kyle-chandler-aaron-pierre-interview/",
+      "date": "2026-08-17T13:32:57.998100+00:00",
+      "image": "https://www.thewrap.com/wp-content/uploads/2026/08/Aaron-Pierre-Kyle-Chandler-Lanterns.jpg",
       "important": false,
       "score": 3
     },
@@ -237,8 +261,32 @@
         "fa": "Variety"
       },
       "link": "https://variety.com/2026/film/global/iranian-director-ali-asgari-a-bit-of-light-first-clip-1236836044/",
-      "date": "2026-08-17T12:24:24.808230+00:00",
+      "date": "2026-08-17T13:32:57.993903+00:00",
       "image": "https://variety.com/wp-content/uploads/2026/08/A-Bit-of-Light.jpg",
+      "important": false,
+      "score": 3
+    },
+    {
+      "id": "056370d246a7",
+      "title": {
+        "en": "Johnnie To’s English-Language Debut ‘Two Gun Cohen’ Launches Former XYZ Films Exec Todd Brown’s Rawk Moving Pictures Corp (EXCLUSIVE)",
+        "fa": "اولین فیلم انگلیسی زبان جانی تو با نام «Two Gun Cohen»، مدیر اجرایی سابق XYZ Films، شرکت Rawk Moving Pictures Corp تاد براون را راه اندازی کرد."
+      },
+      "excerpt": {
+        "en": "Film executive Todd Brown has launched Rawk Moving Pictures Corp, a new Canadian production house. One of the company’s first titles is “Two Gun Cohen,” the English-language debut of Hong Kong director Johnnie To. Brown, also a film critic and festival programmer, spent 17 years as head of international acquisitions at XYZ Films, where his […]",
+        "fa": "تاد براون، مدیر اجرایی فیلم، Rawk Moving Pictures Corp، یک خانه تولید کانادایی جدید را راه اندازی کرده است. یکی از اولین عناوین این شرکت، \"Two Gun Cohen\" است که اولین فیلم انگلیسی زبان جانی تو کارگردان هنگ کنگی است. براون، منتقد سینما و برنامه‌ریز جشنواره، 17 سال به عنوان رئیس شرکت‌های بین‌المللی در XYZ Films گذراند."
+      },
+      "content": {
+        "en": "Film executive Todd Brown has launched Rawk Moving Pictures Corp, a new Canadian production house. One of the company’s first titles is “Two Gun Cohen,” the English-language debut of Hong Kong director Johnnie To. Brown, also a film critic and festival programmer, spent 17 years as head of international acquisitions at XYZ Films, where his […]",
+        "fa": "تاد براون، مدیر اجرایی فیلم، Rawk Moving Pictures Corp، یک خانه تولید کانادایی جدید را راه اندازی کرده است. یکی از اولین عناوین این شرکت، \"Two Gun Cohen\" است که اولین فیلم انگلیسی زبان جانی تو کارگردان هنگ کنگی است. براون، منتقد سینما و برنامه‌ریز جشنواره، 17 سال به عنوان رئیس شرکت‌های بین‌المللی در XYZ Films گذراند."
+      },
+      "source": {
+        "en": "Variety",
+        "fa": "Variety"
+      },
+      "link": "https://variety.com/2026/film/news/johnnie-to-english-debut-two-gun-cohen-todd-brown-rawk-1236836089/",
+      "date": "2026-08-17T13:32:57.993304+00:00",
+      "image": "https://variety.com/wp-content/uploads/2026/08/Todd-Brown-Two-Gun-Cohen-poster.jpg",
       "important": false,
       "score": 3
     },
@@ -261,7 +309,7 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/babita-singh-reporting-prime-video-global-launch-date-1237040426/",
-      "date": "2026-08-17T12:24:24.807112+00:00",
+      "date": "2026-08-17T13:32:57.992752+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/Babita-Singh-Reporting.jpg",
       "important": false,
       "score": 3
@@ -285,8 +333,32 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/diane-kruger-dany-boon-nazi-hunt-tim-roth-projet-k-netflix-1237042784/",
-      "date": "2026-08-17T12:24:24.806472+00:00",
+      "date": "2026-08-17T13:32:57.992182+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/projet-k-cast.jpg",
+      "important": false,
+      "score": 3
+    },
+    {
+      "id": "6d601896da45",
+      "title": {
+        "en": "DramaBox Sets Brazilian Vertical Series From Cimarron & Trio Of Colombian Originals In Latin American Push",
+        "fa": "مجموعه DramaBox مجموعه‌های عمودی برزیلی از Cimarron و سه نسخه اصلی کلمبیایی در آمریکای لاتین Push"
+      },
+      "excerpt": {
+        "en": "EXCLUSIVE: DramaBox is going deeper into the Latin American verticals world. We can reveal the microdrama platform has put into production a Brazilian series starring telenovela actor Duda Reis with regional production powerhouse Cimarrón and is rolling out a trio of productions from Colombia: Mi Barco del Amor Zarpó Sin Ti, Besando al Hermano Equivocado […]",
+        "fa": "انحصاری: DramaBox عمیق تر به دنیای عمودی آمریکای لاتین می رود. ما می‌توانیم فاش کنیم که پلتفرم میکرودرام یک سریال برزیلی با بازی دودا ریس بازیگر تله‌نوولایی با شرکت قدرتمند تولید منطقه‌ای Cimarrón به تولید رسانده است و سه محصول از کلمبیا را عرضه می‌کند: Mi Barco del Amor Zarpó Sin Ti، Besando al Hermano Equivocado."
+      },
+      "content": {
+        "en": "EXCLUSIVE: DramaBox is going deeper into the Latin American verticals world. We can reveal the microdrama platform has put into production a Brazilian series starring telenovela actor Duda Reis with regional production powerhouse Cimarrón and is rolling out a trio of productions from Colombia: Mi Barco del Amor Zarpó Sin Ti, Besando al Hermano Equivocado […]",
+        "fa": "انحصاری: DramaBox عمیق تر به دنیای عمودی آمریکای لاتین می رود. ما می‌توانیم فاش کنیم که پلتفرم میکرودرام یک سریال برزیلی با بازی دودا ریس بازیگر تله‌نوولایی با شرکت قدرتمند تولید منطقه‌ای Cimarrón به تولید رسانده است و سه محصول از کلمبیا را عرضه می‌کند: Mi Barco del Amor Zarpó Sin Ti، Besando al Hermano Equivocado."
+      },
+      "source": {
+        "en": "Deadline",
+        "fa": "Deadline"
+      },
+      "link": "https://deadline.com/2026/08/dramabox-cimarron-brazil-series-colombia-rollout-1237040433/",
+      "date": "2026-08-17T13:32:57.990836+00:00",
+      "image": "https://deadline.com/wp-content/uploads/2026/08/DramaBox-shows.png",
       "important": false,
       "score": 3
     },
@@ -309,32 +381,80 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/features/podcast/screen-talk-podcast-tiff-ceo-cameron-bailey-toronto-2026-1235210516/",
-      "date": "2026-08-17T12:24:24.816291+00:00",
+      "date": "2026-08-17T13:32:57.999801+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/P115U4AG.jpg?w=650",
       "important": false,
       "score": 1
     },
     {
-      "id": "9ccdbd982a4e",
+      "id": "a9e8d3ec4434",
       "title": {
-        "en": "Korea Box Office: Christopher Nolan’s ‘The Odyssey’ Outpaces ‘Spider-Man: Brand New Day’ Again in Strong Second Weekend",
-        "fa": "باکس آفیس کره: «اودیسه» کریستوفر نولان در آخر هفته دوم قوی بار دیگر از «مرد عنکبوتی: روز کاملاً جدید» پیشی گرفت."
+        "en": "Prepare for ‘Dunesday’: ‘Avengers’ and ‘Dune 3’ Presales Have Already Set the Stage for a Historic Holiday Box Office",
+        "fa": "برای «Dunesday» آماده شوید: پیش فروش های «انتقام جویان» و «تلماسه 3» از قبل صحنه را برای یک باکس آفیس تعطیلات تاریخی آماده کرده اند."
       },
       "excerpt": {
-        "en": "“The Odyssey” ruled the South Korean box office during the weekend of Aug. 14–16. According to data from KOBIS, the tracking service operated by the Korean Film Council, the Christopher Nolan-directed tentpole generated $13.2 million from 1,691,744 admissions over the three-day frame across 2,114 screens, capturing 59.07% of the total weekend market. The film grew […]",
-        "fa": "«اودیسه» در آخر هفته 14 تا 16 آگوست بر باکس آفیس کره جنوبی حکومت کرد. طبق داده‌های KOBIS، سرویس ردیابی که توسط شورای فیلم کره اداره می‌شود، فیلم سینمایی به کارگردانی کریستوفر نولان ۱۳.۲ میلیون دلار از ۱۶۹۱،۷۴۴ پذیرش در یک فریم سه روزه در ۲۱۱۴ صفحه نمایش به‌دست آورد و ۵۹.۰۷ درصد از کل بازار آخر هفته را به خود اختصاص داد. فیلم رشد کرد"
+        "en": "Demand for Marvel's blockbuster team-up is through the roof, and Imax 70mm tickets for Denis Villeneuve's finale are selling fast too The post Prepare for ‘Dunesday’: ‘Avengers’ and ‘Dune 3’ Presales Have Already Set the Stage for a Historic Holiday Box Office appeared first on TheWrap .",
+        "fa": "تقاضا برای تیم پرفروش مارول از پشت بام است و بلیط های Imax 70mm برای فینال دنیس ویلنوو نیز به سرعت فروخته می شوند."
       },
       "content": {
-        "en": "“The Odyssey” ruled the South Korean box office during the weekend of Aug. 14–16. According to data from KOBIS, the tracking service operated by the Korean Film Council, the Christopher Nolan-directed tentpole generated $13.2 million from 1,691,744 admissions over the three-day frame across 2,114 screens, capturing 59.07% of the total weekend market. The film grew […]",
-        "fa": "«اودیسه» در آخر هفته 14 تا 16 آگوست بر باکس آفیس کره جنوبی حکومت کرد. طبق داده‌های KOBIS، سرویس ردیابی که توسط شورای فیلم کره اداره می‌شود، فیلم سینمایی به کارگردانی کریستوفر نولان ۱۳.۲ میلیون دلار از ۱۶۹۱،۷۴۴ پذیرش در یک فریم سه روزه در ۲۱۱۴ صفحه نمایش به‌دست آورد و ۵۹.۰۷ درصد از کل بازار آخر هفته را به خود اختصاص داد. فیلم رشد کرد"
+        "en": "Demand for Marvel's blockbuster team-up is through the roof, and Imax 70mm tickets for Denis Villeneuve's finale are selling fast too The post Prepare for ‘Dunesday’: ‘Avengers’ and ‘Dune 3’ Presales Have Already Set the Stage for a Historic Holiday Box Office appeared first on TheWrap .",
+        "fa": "تقاضا برای تیم پرفروش مارول از پشت بام است و بلیط های Imax 70mm برای فینال دنیس ویلنوو نیز به سرعت فروخته می شوند."
+      },
+      "source": {
+        "en": "The Wrap",
+        "fa": "The Wrap"
+      },
+      "link": "https://www.thewrap.com/creative-content/movies/avengers-and-dune-3-are-already-setting-the-foundation-for-a-historic-box-office-dunesday/",
+      "date": "2026-08-17T13:32:57.998423+00:00",
+      "image": "https://www.thewrap.com/wp-content/uploads/2026/07/Dune-Part-Three-Avengers-Doomsday.jpg",
+      "important": false,
+      "score": 1
+    },
+    {
+      "id": "360bae4eed2c",
+      "title": {
+        "en": "Motion Picture Association Inks AI IP Protection Deal With ByteDance",
+        "fa": "انجمن تصاویر متحرک جوهر حفاظت از IP AI با ByteDance معامله می کند"
+      },
+      "excerpt": {
+        "en": "The agreement covers the Chinese tech giant's Seedance video models, as well as TikTok and other products.",
+        "fa": "این قرارداد شامل مدل‌های ویدیویی Seedance غول فناوری چینی و همچنین TikTok و سایر محصولات می‌شود."
+      },
+      "content": {
+        "en": "The agreement covers the Chinese tech giant's Seedance video models, as well as TikTok and other products.",
+        "fa": "این قرارداد شامل مدل‌های ویدیویی Seedance غول فناوری چینی و همچنین TikTok و سایر محصولات می‌شود."
+      },
+      "source": {
+        "en": "The Hollywood Reporter",
+        "fa": "The Hollywood Reporter"
+      },
+      "link": "https://www.hollywoodreporter.com/business/digital/mpa-inks-ai-video-ip-protection-bytedance-1236675016/",
+      "date": "2026-08-17T13:32:57.995362+00:00",
+      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2025/05/GettyImages-2207982283-1.jpg?w=1296&#038;h=730&#038;crop=1",
+      "important": false,
+      "score": 1
+    },
+    {
+      "id": "444d5f189fc4",
+      "title": {
+        "en": "Lena Dunham, Carly Rae Jepsen ’10 Things I Hate About You’ Musical Sets 2027 Broadway Debut",
+        "fa": "مجموعه‌های موزیکال لنا دانهام، کارلی رائه جپسن «10 چیزی که از تو متنفرم» اولین بار در برادوی 2027"
+      },
+      "excerpt": {
+        "en": "Lena Dunham and Carly Rae Jepsen’s “10 Things I Hate About You” musical is coming to Broadway next year. The show, based on the 1999 rom-com starring Julia Stiles and Heath Ledger, will begin preview performances exactly one year from now, on Aug. 17, 2027. Opening night, as well as casting and theater information haven’t […]",
+        "fa": "موزیکال لنا دانهام و کارلی رائه جپسن با نام «10 چیزی که از تو متنفرم» سال آینده به برادوی می آید. این نمایش که بر اساس رام کام 1999 با بازی جولیا استایلز و هیث لجر ساخته شده است، اجراهای پیش نمایش را دقیقاً یک سال بعد در 17 آگوست 2027 آغاز خواهد کرد."
+      },
+      "content": {
+        "en": "Lena Dunham and Carly Rae Jepsen’s “10 Things I Hate About You” musical is coming to Broadway next year. The show, based on the 1999 rom-com starring Julia Stiles and Heath Ledger, will begin preview performances exactly one year from now, on Aug. 17, 2027. Opening night, as well as casting and theater information haven’t […]",
+        "fa": "موزیکال لنا دانهام و کارلی رائه جپسن با نام «10 چیزی که از تو متنفرم» سال آینده به برادوی می آید. این نمایش که بر اساس رام کام 1999 با بازی جولیا استایلز و هیث لجر ساخته شده است، اجراهای پیش نمایش را دقیقاً یک سال بعد در 17 آگوست 2027 آغاز خواهد کرد."
       },
       "source": {
         "en": "Variety",
         "fa": "Variety"
       },
-      "link": "https://variety.com/2026/film/box-office/korea-box-office-the-odyssey-outpaces-spider-man-brand-new-day-1236836058/",
-      "date": "2026-08-17T12:24:24.810616+00:00",
-      "image": "https://variety.com/wp-content/uploads/2026/08/Odyssey-Spider-Man.jpg",
+      "link": "https://variety.com/2026/legit/news/10-things-i-hate-about-you-musical-broadway-date-lena-dunham-1236836227/",
+      "date": "2026-08-17T13:32:57.993011+00:00",
+      "image": "https://variety.com/wp-content/uploads/2020/05/MSDTETH_EC003.jpg",
       "important": false,
       "score": 1
     },
@@ -346,18 +466,18 @@
       },
       "excerpt": {
         "en": "Poh Si Teng's remarkable film spotlights the best and most capable among us as part of a uniquely effective call to action.",
-        "fa": "فیلم قابل توجه Poh Si Teng بهترین و تواناترین ما را به عنوان بخشی از یک فراخوان منحصر به فرد موثر به عمل می آورد."
+        "fa": "فیلم قابل توجه Poh Si Teng بهترین و تواناترین را در میان ما به عنوان بخشی از یک فراخوان منحصر به فرد موثر به عمل می آورد."
       },
       "content": {
         "en": "Poh Si Teng's remarkable film spotlights the best and most capable among us as part of a uniquely effective call to action.",
-        "fa": "فیلم قابل توجه Poh Si Teng بهترین و تواناترین ما را به عنوان بخشی از یک فراخوان منحصر به فرد موثر به عمل می آورد."
+        "fa": "فیلم قابل توجه Poh Si Teng بهترین و تواناترین را در میان ما به عنوان بخشی از یک فراخوان منحصر به فرد موثر به عمل می آورد."
       },
       "source": {
         "en": "IndieWire",
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/criticism/movies/american-doctor-documentary-review-gaza-1235210500/",
-      "date": "2026-08-17T12:24:24.816892+00:00",
+      "date": "2026-08-17T13:32:58.000311+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/ivfj95enlAmerican_Doctor-Still_1.webp?w=650",
       "important": false,
       "score": 0
@@ -381,7 +501,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/news/business/dga-iatse-conditions-paramount-settlement-realistic-1235210398/",
-      "date": "2026-08-17T12:24:24.816659+00:00",
+      "date": "2026-08-17T13:32:58.000111+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/P10XLNE.jpg?w=650",
       "important": false,
       "score": 0
@@ -405,7 +525,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/features/interviews/abbott-elementary-director-randall-einhorn-phillies-game-1235210238/",
-      "date": "2026-08-17T12:24:24.815958+00:00",
+      "date": "2026-08-17T13:32:57.999515+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/178757_1142.jpg?w=650",
       "important": false,
       "score": 0
@@ -429,32 +549,8 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/features/craft/jane-schoenbrun-teenage-sex-and-death-at-camp-miasma-1235210237/",
-      "date": "2026-08-17T12:24:24.815715+00:00",
+      "date": "2026-08-17T13:32:57.999312+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/MCDTESE_K3011.jpg?w=650",
-      "important": false,
-      "score": 0
-    },
-    {
-      "id": "ebd12963c3a9",
-      "title": {
-        "en": "Johnny Depp in Talks for ‘Pirates of the Caribbean 6,’ Says Jerry Bruckheimer",
-        "fa": "جری بروکهایمر می گوید که جانی دپ در حال گفتگو برای «دزدان دریایی کارائیب 6» است."
-      },
-      "excerpt": {
-        "en": "The series producer gives an update on the long-awaited next entry The post Johnny Depp in Talks for ‘Pirates of the Caribbean 6,’ Says Jerry Bruckheimer appeared first on TheWrap .",
-        "fa": "تهیه‌کننده سریال به‌روزرسانی جدیدی را در مورد ورودی بعدی که مدت‌ها منتظرش بودیم ارائه می‌کند"
-      },
-      "content": {
-        "en": "The series producer gives an update on the long-awaited next entry The post Johnny Depp in Talks for ‘Pirates of the Caribbean 6,’ Says Jerry Bruckheimer appeared first on TheWrap .",
-        "fa": "تهیه‌کننده سریال به‌روزرسانی جدیدی را در مورد ورودی بعدی که مدت‌ها منتظرش بودیم ارائه می‌کند"
-      },
-      "source": {
-        "en": "The Wrap",
-        "fa": "The Wrap"
-      },
-      "link": "https://www.thewrap.com/creative-content/movies/johnny-depp-in-talks-pirates-of-the-caribbean-6/",
-      "date": "2026-08-17T12:24:24.814041+00:00",
-      "image": "https://www.thewrap.com/wp-content/uploads/2026/08/JohnnyDeppPirates.jpg",
       "important": false,
       "score": 0
     },
@@ -477,104 +573,8 @@
         "fa": "The Wrap"
       },
       "link": "https://www.thewrap.com/industry-news/public-policy-legal/nick-reiner-blocked-family-trust-fund-murder-trial/",
-      "date": "2026-08-17T12:24:24.812819+00:00",
+      "date": "2026-08-17T13:32:57.997622+00:00",
       "image": "https://www.thewrap.com/wp-content/uploads/2026/08/NickReinerCourt.jpg",
-      "important": false,
-      "score": 0
-    },
-    {
-      "id": "020543f34cd7",
-      "title": {
-        "en": "‘Love Story’ Producers Didn’t Expect Carolyn Bessette’s TikTok Fan Army to Come for Them",
-        "fa": "تهیه کنندگان «داستان عشق» انتظار نداشتند ارتش طرفداران TikTok کارولین بست به سراغشان بیاید."
-      },
-      "excerpt": {
-        "en": "Nina Jacobson and Brad Simpson reveal how leaked photos sparked a social media firestorm — and how the FX limited series ultimately won over skeptics with seven Emmy nominations.",
-        "fa": "نینا جیکوبسون و برد سیمپسون فاش می‌کنند که چگونه عکس‌های فاش شده طوفان رسانه‌های اجتماعی را برانگیخت - و چگونه سریال محدود FX در نهایت با هفت نامزدی امی، شک‌ها را جلب کرد."
-      },
-      "content": {
-        "en": "Nina Jacobson and Brad Simpson reveal how leaked photos sparked a social media firestorm — and how the FX limited series ultimately won over skeptics with seven Emmy nominations.",
-        "fa": "نینا جیکوبسون و برد سیمپسون فاش می‌کنند که چگونه عکس‌های فاش شده طوفان رسانه‌های اجتماعی را برانگیخت - و چگونه سریال محدود FX در نهایت با هفت نامزدی امی، شک‌ها را جلب کرد."
-      },
-      "source": {
-        "en": "The Hollywood Reporter",
-        "fa": "The Hollywood Reporter"
-      },
-      "link": "https://www.hollywoodreporter.com/tv/tv-features/love-story-producers-react-carolyn-bessette-tiktok-1236672651/",
-      "date": "2026-08-17T12:24:24.812717+00:00",
-      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/14BFEA-Limited-Love-Main-2026.jpg?w=1296&#038;h=730&#038;crop=1",
-      "important": false,
-      "score": 0
-    },
-    {
-      "id": "0d8f279e1958",
-      "title": {
-        "en": "Bob Iger Takes Victory Lap As He’s Named a Disney Legend, Applauds New CEO Josh D’Amaro: “You’re Wearing That Title Really Well”",
-        "fa": "باب ایگر در حالی که به عنوان اسطوره دیزنی نامیده می شود دور پیروزی می زند، مدیر عامل جدید جاش دامارو را تحسین می کند: \"شما واقعاً آن عنوان را به خوبی می پوشید\""
-      },
-      "excerpt": {
-        "en": "The former Disney boss was honored alongside Anne Hathaway, Dwayne Johnson, Lin-Manuel Miranda and Jerry Bruckheimer at the D23 event.",
-        "fa": "رئیس سابق دیزنی در کنار آن هاتاوی، دواین جانسون، لین مانوئل میراندا و جری بروکهایمر در رویداد D23 مورد تقدیر قرار گرفت."
-      },
-      "content": {
-        "en": "The former Disney boss was honored alongside Anne Hathaway, Dwayne Johnson, Lin-Manuel Miranda and Jerry Bruckheimer at the D23 event.",
-        "fa": "رئیس سابق دیزنی در کنار آن هاتاوی، دواین جانسون، لین مانوئل میراندا و جری بروکهایمر در رویداد D23 مورد تقدیر قرار گرفت."
-      },
-      "source": {
-        "en": "The Hollywood Reporter",
-        "fa": "The Hollywood Reporter"
-      },
-      "link": "https://www.hollywoodreporter.com/business/business-news/bob-iger-disney-legend-josh-damaro-d23-1236674802/",
-      "date": "2026-08-17T12:24:24.811974+00:00",
-      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/GettyImages-2290753477.jpg?crop=0px%2C49px%2C5000px%2C2798px&#038;resize=1440%2C810",
-      "important": false,
-      "score": 0
-    },
-    {
-      "id": "9f2877bfe76b",
-      "title": {
-        "en": "‘Snapshot’ Review: A Nifty Calling-Card Debut Refashions the Jack the Ripper Story as Found-Footage Horror",
-        "fa": "نقد و بررسی «Snapshot»: اولین کارت تلفن زیبا، داستان جک چاک‌دهنده را به‌عنوان فیلمی ترسناک بازسازی می‌کند"
-      },
-      "excerpt": {
-        "en": "Found footage may be a fairly stale gimmick in horror these days, but the low-budget British indie “Snapshot” finds a way to freshen up the idea — and if that largely amounts to layering another technical gimmick over it, the results are nonetheless striking. Emulating the look of 19th-century pinhole photography, with the entire film […]",
-        "fa": "فیلم‌های یافت شده ممکن است این روزها یک ترفند نسبتاً قدیمی در وحشت باشد، اما فیلم مستقل بریتانیایی کم‌هزینه «Snapshot» راهی برای تازه‌تر کردن این ایده پیدا می‌کند - و اگر این تا حد زیادی به معنای لایه‌برداری یک ترفند فنی دیگر بر روی آن باشد، با این وجود نتایج قابل توجه است. شبیه سازی ظاهر عکاسی سوراخ سوزنی قرن 19، با کل فیلم"
-      },
-      "content": {
-        "en": "Found footage may be a fairly stale gimmick in horror these days, but the low-budget British indie “Snapshot” finds a way to freshen up the idea — and if that largely amounts to layering another technical gimmick over it, the results are nonetheless striking. Emulating the look of 19th-century pinhole photography, with the entire film […]",
-        "fa": "فیلم‌های یافت شده ممکن است این روزها یک ترفند نسبتاً قدیمی در وحشت باشد، اما فیلم مستقل بریتانیایی کم‌هزینه «Snapshot» راهی برای تازه‌تر کردن این ایده پیدا می‌کند - و اگر این تا حد زیادی به معنای لایه‌برداری یک ترفند فنی دیگر بر روی آن باشد، با این وجود نتایج قابل توجه است. شبیه سازی ظاهر عکاسی سوراخ سوزنی قرن 19، با کل فیلم"
-      },
-      "source": {
-        "en": "Variety",
-        "fa": "Variety"
-      },
-      "link": "https://variety.com/2026/film/news/snapshot-review-1236835669/",
-      "date": "2026-08-17T12:24:24.810067+00:00",
-      "image": "https://variety.com/wp-content/uploads/2026/08/Snapshot.webp",
-      "important": false,
-      "score": 0
-    },
-    {
-      "id": "956f98d7751a",
-      "title": {
-        "en": "‘Supporting Role’ Review: Dato Bakhtadze Captivates in a Nocturnal Odyssey Through Tbilisi",
-        "fa": "نقد و بررسی «نقش پشتیبان»: داتو بختادزه در یک ادیسه شبانه از طریق تفلیس اسیر می شود"
-      },
-      "excerpt": {
-        "en": "A nocturnal odyssey through the spectral streets of Tbilisi is conjured with mesmerizing effect in Georgian writer-director Ana Urushadze’s “Supporting Role.” On the heavy heels of Niaz (Dato Bakhtadze), a lumbering Georgian movie star whose glory days are behind him, Urushadze’s second feature plays like an old-school Jim Jarmusch joint — all existential wandering and weird, […]",
-        "fa": "اودیسه ای شبانه در خیابان های طیفی تفلیس با جلوه ای مسحورکننده در «نقش حمایتی» نویسنده و کارگردان گرجستانی آنا اوروشادزه ترسیم شده است. در پاشنه‌های سنگین نیاز، یک ستاره سینمای گرجستانی که روزهای شکوهش پشت سر اوست، دومین فیلم اوروشادزه مانند یک جیم جارموش قدیمی مدرسه بازی می‌کند - همه چیز سرگردان وجودی و عجیب است."
-      },
-      "content": {
-        "en": "A nocturnal odyssey through the spectral streets of Tbilisi is conjured with mesmerizing effect in Georgian writer-director Ana Urushadze’s “Supporting Role.” On the heavy heels of Niaz (Dato Bakhtadze), a lumbering Georgian movie star whose glory days are behind him, Urushadze’s second feature plays like an old-school Jim Jarmusch joint — all existential wandering and weird, […]",
-        "fa": "اودیسه ای شبانه در خیابان های طیفی تفلیس با جلوه ای مسحورکننده در «نقش حمایتی» نویسنده و کارگردان گرجستانی آنا اوروشادزه ترسیم شده است. در پاشنه‌های سنگین نیاز، یک ستاره سینمای گرجستانی که روزهای شکوهش پشت سر اوست، دومین فیلم اوروشادزه مانند یک جیم جارموش قدیمی مدرسه بازی می‌کند - همه چیز سرگردان وجودی و عجیب است."
-      },
-      "source": {
-        "en": "Variety",
-        "fa": "Variety"
-      },
-      "link": "https://variety.com/2026/film/reviews/supporting-role-review-1236836132/",
-      "date": "2026-08-17T12:24:24.808722+00:00",
-      "image": "https://variety.com/wp-content/uploads/2024/05/Supporting-Role-003.jpg",
       "important": false,
       "score": 0
     }
