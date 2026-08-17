@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-17T05:26:58.242213+00:00",
-  "count": 19,
+  "updated_at": "2026-08-17T06:35:21.160180+00:00",
+  "count": 20,
   "news": [
     {
       "id": "8b342c5cb38a",
@@ -21,7 +21,7 @@
         "fa": "The Wrap"
       },
       "link": "https://www.thewrap.com/creative-content/tv-shows/lanerns-episode-1-hal-jordan-death-explained/",
-      "date": "2026-08-17T05:26:58.093437+00:00",
+      "date": "2026-08-17T06:35:20.949292+00:00",
       "image": "https://www.thewrap.com/wp-content/uploads/2026/08/Kelly-Macdonald-Aaron-Piere-Kyle-Chandler-Lanterns.jpg",
       "important": true,
       "score": 6
@@ -45,7 +45,7 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/lanterns-premiere-twist-hal-jordan-kyle-chandler-interview-1237042293/",
-      "date": "2026-08-17T05:26:58.085161+00:00",
+      "date": "2026-08-17T06:35:20.936115+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/kyle-chandler-garret-dillahunt.jpg",
       "important": true,
       "score": 6
@@ -69,7 +69,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/news/breaking-news/film-independent-biggest-grant-history-juan-devis-1235210522/",
-      "date": "2026-08-17T05:26:58.096872+00:00",
+      "date": "2026-08-17T06:35:20.954059+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/Juan_Devis_2304sm-photo.jpeg?w=650",
       "important": false,
       "score": 3
@@ -93,7 +93,7 @@
         "fa": "The Wrap"
       },
       "link": "https://www.thewrap.com/creative-content/what-to-watch/lanterns-release-date-time-episodes-schedule/",
-      "date": "2026-08-17T05:26:58.095159+00:00",
+      "date": "2026-08-17T06:35:20.951626+00:00",
       "image": "https://www.thewrap.com/wp-content/uploads/2026/08/lanterns-kyle-chandler-hbo.jpg",
       "important": false,
       "score": 3
@@ -117,7 +117,7 @@
         "fa": "Variety"
       },
       "link": "https://variety.com/2026/tv/news/john-oliver-mocks-trump-sacrificing-staff-airplane-swap-incident-iran-1236836013/",
-      "date": "2026-08-17T05:26:58.088449+00:00",
+      "date": "2026-08-17T06:35:20.941115+00:00",
       "image": "https://variety.com/wp-content/uploads/2026/08/john-oliver-last-week-tonight-social.jpg",
       "important": false,
       "score": 3
@@ -141,7 +141,7 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/jason-segel-shrinking-video-interview-season-4-emmys-1237041926/",
-      "date": "2026-08-17T05:26:58.086607+00:00",
+      "date": "2026-08-17T06:35:20.938106+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/Shrinking.jpg",
       "important": false,
       "score": 3
@@ -165,8 +165,32 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/lanterns-first-episode-hal-jordan-podcast-damon-lindelof-1237042209/",
-      "date": "2026-08-17T05:26:58.085463+00:00",
+      "date": "2026-08-17T06:35:20.936382+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/Damon-Lindelof-Chris-Mundy-Tom-King-Crew-Call.jpg",
+      "important": false,
+      "score": 3
+    },
+    {
+      "id": "dc8b2cac996e",
+      "title": {
+        "en": "Prime Video Sets Global Launch Date For Indian Investigative Drama ‘Babita Singh Reporting’",
+        "fa": "ویدیوی پرایم تاریخ اکران جهانی را برای درام تحقیقی هندی «گزارش بابیتا سینگ» تعیین می کند"
+      },
+      "excerpt": {
+        "en": "EXCLUSIVE: Babita Singh Reporting, Prime Video’s next pic out of India, will launch globally on August 28. Directed by Ambiecka Pandit and written by Amita Vyas, the investigative drama features stars Nimisha Sajayan, Barun Sobti, and Anshumaan Pushkar. Saurabh Malhotra, Manuj Mittra, and Tina Tharwani are producing through Film Squad Productions in association with Act […]",
+        "fa": "انحصاری: بابیتا سینگ ریپورتینگ، عکس بعدی پرایم ویدیو از هند، در 28 آگوست به صورت جهانی پخش خواهد شد. این درام تحقیقاتی به کارگردانی Ambiecka Pandit و نویسندگی آمیتا ویاس، نیمیشا ساجایان، بارون سوبتی و آنشومان پوشکار را به نمایش می‌گذارد. Saurabh Malhotra، Manuj Mittra، و Tina Tharwani از طریق Film Squad Productions در ارتباط با Act تهیه می کنند."
+      },
+      "content": {
+        "en": "EXCLUSIVE: Babita Singh Reporting, Prime Video’s next pic out of India, will launch globally on August 28. Directed by Ambiecka Pandit and written by Amita Vyas, the investigative drama features stars Nimisha Sajayan, Barun Sobti, and Anshumaan Pushkar. Saurabh Malhotra, Manuj Mittra, and Tina Tharwani are producing through Film Squad Productions in association with Act […]",
+        "fa": "انحصاری: بابیتا سینگ ریپورتینگ، عکس بعدی پرایم ویدیو از هند، در 28 آگوست به صورت جهانی پخش خواهد شد. این درام تحقیقاتی به کارگردانی Ambiecka Pandit و نویسندگی آمیتا ویاس، نیمیشا ساجایان، بارون سوبتی و آنشومان پوشکار را به نمایش می‌گذارد. Saurabh Malhotra، Manuj Mittra، و Tina Tharwani از طریق Film Squad Productions در ارتباط با Act تهیه می کنند."
+      },
+      "source": {
+        "en": "Deadline",
+        "fa": "Deadline"
+      },
+      "link": "https://deadline.com/2026/08/babita-singh-reporting-prime-video-global-launch-date-1237040426/",
+      "date": "2026-08-17T06:35:20.934624+00:00",
+      "image": "https://deadline.com/wp-content/uploads/2026/08/Babita-Singh-Reporting.jpg",
       "important": false,
       "score": 3
     },
@@ -189,32 +213,32 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/features/podcast/screen-talk-podcast-tiff-ceo-cameron-bailey-toronto-2026-1235210516/",
-      "date": "2026-08-17T05:26:58.097029+00:00",
+      "date": "2026-08-17T06:35:20.954203+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/P115U4AG.jpg?w=650",
       "important": false,
       "score": 1
     },
     {
-      "id": "01f55579559b",
+      "id": "71610f12fd32",
       "title": {
-        "en": "Anne Hathaway Tears Up as She’s Named a Disney Legend (and Her 2026 Box Office Crosses $2 Billion): ‘I’m One of the Most Insanely Lucky People in the World’",
-        "fa": "آن هاتاوی با لقب اسطوره دیزنی اشک می ریزد: \"من یکی از دیوانه کننده ترین افراد خوش شانس در جهان هستم\""
+        "en": "China Box Office: ‘Once Upon a Time in the Middle East’ Dominates With $70 Million Weekend as Christopher Nolan’s ‘The Odyssey’ Debuts Second",
+        "fa": "باکس آفیس چین: «روزی روزگاری در خاورمیانه» با 70 میلیون دلار آخر هفته در اکران دوم «اودیسه» کریستوفر نولان غالب شد."
       },
       "excerpt": {
-        "en": "Shut up! Oscar winner Anne Hathaway is officially a Disney Legend. Hathaway was officially inducted into Disney’s hall of fame on Sunday afternoon during D23, the company’s weekend-long ultimate fan event. “I am here today because I’m one of the most insanely lucky people in the world,” Hathaway said after her “Devil Wears Prada” director […]",
-        "fa": "خفه شو آن هاتاوی، برنده اسکار، رسما یک اسطوره دیزنی است. هاتاوی بعدازظهر یکشنبه در جریان D23 رسماً وارد تالار مشاهیر دیزنی شد، رویداد نهایی طرفداران آخر هفته این شرکت. هاتاوی پس از کارگردانی «شیطان پرادا می‌پوشد» گفت: «من امروز اینجا هستم زیرا یکی از دیوانه‌وار خوش‌شانس‌ترین آدم‌های دنیا هستم."
+        "en": "Dirty Monkeys’ war comedy-drama “Once Upon a Time in the Middle East” took command of the mainland China box office during the Aug. 14–16 weekend, grossing RMB477.9 million ($70.3 million) over the three-day frame, according to data from Artisan Gateway. Following its Tuesday, Aug. 11 rollout and earlier previews, the production has amassed a cumulative […]",
+        "fa": "بر اساس داده‌های Artisan Gateway، درام جنگی کمدی میمون‌های کثیف «روزی روزگاری در خاورمیانه» در آخر هفته 14 تا 16 آگوست باکس آفیس سرزمین اصلی چین را به دست گرفت و بر اساس داده‌های Artisan Gateway در مدت سه روز این فیلم به فروش 477.9 میلیون یوان رسید. پس از عرضه سه‌شنبه، 11 آگوست و پیش‌نمایش‌های قبلی، این تولید انباشته شده است."
       },
       "content": {
-        "en": "Shut up! Oscar winner Anne Hathaway is officially a Disney Legend. Hathaway was officially inducted into Disney’s hall of fame on Sunday afternoon during D23, the company’s weekend-long ultimate fan event. “I am here today because I’m one of the most insanely lucky people in the world,” Hathaway said after her “Devil Wears Prada” director […]",
-        "fa": "خفه شو آن هاتاوی، برنده اسکار، رسما یک اسطوره دیزنی است. هاتاوی بعدازظهر یکشنبه در جریان D23 رسماً وارد تالار مشاهیر دیزنی شد، رویداد نهایی طرفداران آخر هفته این شرکت. هاتاوی پس از کارگردانی «شیطان پرادا می‌پوشد» گفت: «من امروز اینجا هستم زیرا یکی از دیوانه‌وار خوش‌شانس‌ترین آدم‌های دنیا هستم."
+        "en": "Dirty Monkeys’ war comedy-drama “Once Upon a Time in the Middle East” took command of the mainland China box office during the Aug. 14–16 weekend, grossing RMB477.9 million ($70.3 million) over the three-day frame, according to data from Artisan Gateway. Following its Tuesday, Aug. 11 rollout and earlier previews, the production has amassed a cumulative […]",
+        "fa": "بر اساس داده‌های Artisan Gateway، درام جنگی کمدی میمون‌های کثیف «روزی روزگاری در خاورمیانه» در آخر هفته 14 تا 16 آگوست باکس آفیس سرزمین اصلی چین را به دست گرفت و بر اساس داده‌های Artisan Gateway در مدت سه روز این فیلم به فروش 477.9 میلیون یوان رسید. پس از عرضه سه‌شنبه، 11 آگوست و پیش‌نمایش‌های قبلی، این تولید انباشته شده است."
       },
       "source": {
         "en": "Variety",
         "fa": "Variety"
       },
-      "link": "https://variety.com/2026/film/news/anne-hathaway-disney-legend-d23-princess-diaries-devil-wears-prada-1236835727/",
-      "date": "2026-08-17T05:26:58.090611+00:00",
-      "image": "https://variety.com/wp-content/uploads/2026/08/2289787582.jpg",
+      "link": "https://variety.com/2026/film/box-office/china-box-office-once-upon-a-time-in-the-middle-east-the-odyssey-1236836046/",
+      "date": "2026-08-17T06:35:20.940149+00:00",
+      "image": "https://variety.com/wp-content/uploads/2026/08/Once-Upon-a-Time-in-the-Middle-East.jpg",
       "important": false,
       "score": 1
     },
@@ -237,7 +261,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/criticism/movies/american-doctor-documentary-review-gaza-1235210500/",
-      "date": "2026-08-17T05:26:58.097637+00:00",
+      "date": "2026-08-17T06:35:20.954851+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/ivfj95enlAmerican_Doctor-Still_1.webp?w=650",
       "important": false,
       "score": 0
@@ -261,7 +285,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/news/business/dga-iatse-conditions-paramount-settlement-realistic-1235210398/",
-      "date": "2026-08-17T05:26:58.097402+00:00",
+      "date": "2026-08-17T06:35:20.954608+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/P10XLNE.jpg?w=650",
       "important": false,
       "score": 0
@@ -285,56 +309,8 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/features/interviews/abbott-elementary-director-randall-einhorn-phillies-game-1235210238/",
-      "date": "2026-08-17T05:26:58.096643+00:00",
+      "date": "2026-08-17T06:35:20.953871+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/178757_1142.jpg?w=650",
-      "important": false,
-      "score": 0
-    },
-    {
-      "id": "357806072d79",
-      "title": {
-        "en": "About That ‘Super Bowl Moment’ in the Middle of ‘Teenage Sex and Death at Camp Miasma’",
-        "fa": "درباره آن «لحظه سوپر بول» در وسط «سکس و مرگ نوجوانان در کمپ میاسما»"
-      },
-      "excerpt": {
-        "en": "Writer and director Jane Schoenbrun tells IndieWire about the hours of prep (and Counting Crows) that went into the slasher sequence in the middle of their latest film.",
-        "fa": "نویسنده و کارگردان جین شوئنبرون به IndieWire در مورد ساعت‌های آماده‌سازی می‌گوید که در اواسط آخرین فیلمشان در سکانس اسلشر انجام شد."
-      },
-      "content": {
-        "en": "Writer and director Jane Schoenbrun tells IndieWire about the hours of prep (and Counting Crows) that went into the slasher sequence in the middle of their latest film.",
-        "fa": "نویسنده و کارگردان جین شوئنبرون به IndieWire در مورد ساعت‌های آماده‌سازی می‌گوید که در اواسط آخرین فیلمشان در سکانس اسلشر انجام شد."
-      },
-      "source": {
-        "en": "IndieWire",
-        "fa": "IndieWire"
-      },
-      "link": "https://www.indiewire.com/features/craft/jane-schoenbrun-teenage-sex-and-death-at-camp-miasma-1235210237/",
-      "date": "2026-08-17T05:26:58.096411+00:00",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/08/MCDTESE_K3011.jpg?w=650",
-      "important": false,
-      "score": 0
-    },
-    {
-      "id": "91404f928cf6",
-      "title": {
-        "en": "The 3 Best Movies to Watch on Prime Video This Week",
-        "fa": "3 بهترین فیلم برای تماشا در پرایم ویدیو این هفته"
-      },
-      "excerpt": {
-        "en": "From a Karen Gillan dramedy to Keanu Reeves as an angel The post The 3 Best Movies to Watch on Prime Video This Week appeared first on TheWrap .",
-        "fa": "از درامدی کارن گیلان تا کیانو ریوز در نقش یک فرشته"
-      },
-      "content": {
-        "en": "From a Karen Gillan dramedy to Keanu Reeves as an angel The post The 3 Best Movies to Watch on Prime Video This Week appeared first on TheWrap .",
-        "fa": "از درامدی کارن گیلان تا کیانو ریوز در نقش یک فرشته"
-      },
-      "source": {
-        "en": "The Wrap",
-        "fa": "The Wrap"
-      },
-      "link": "https://www.thewrap.com/creative-content/movies/best-movies-prime-video-this-week-august-17-23/",
-      "date": "2026-08-17T05:26:58.095337+00:00",
-      "image": "https://www.thewrap.com/wp-content/uploads/2026/08/late-bloomers-karen-gillan.jpg",
       "important": false,
       "score": 0
     },
@@ -357,7 +333,7 @@
         "fa": "The Wrap"
       },
       "link": "https://www.thewrap.com/creative-content/movies/johnny-depp-in-talks-pirates-of-the-caribbean-6/",
-      "date": "2026-08-17T05:26:58.094656+00:00",
+      "date": "2026-08-17T06:35:20.950955+00:00",
       "image": "https://www.thewrap.com/wp-content/uploads/2026/08/JohnnyDeppPirates.jpg",
       "important": false,
       "score": 0
@@ -381,7 +357,7 @@
         "fa": "The Wrap"
       },
       "link": "https://www.thewrap.com/industry-news/public-policy-legal/nick-reiner-blocked-family-trust-fund-murder-trial/",
-      "date": "2026-08-17T05:26:58.093067+00:00",
+      "date": "2026-08-17T06:35:20.948552+00:00",
       "image": "https://www.thewrap.com/wp-content/uploads/2026/08/NickReinerCourt.jpg",
       "important": false,
       "score": 0
@@ -405,7 +381,7 @@
         "fa": "The Hollywood Reporter"
       },
       "link": "https://www.hollywoodreporter.com/tv/tv-features/love-story-producers-react-carolyn-bessette-tiktok-1236672651/",
-      "date": "2026-08-17T05:26:58.091918+00:00",
+      "date": "2026-08-17T06:35:20.946429+00:00",
       "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/14BFEA-Limited-Love-Main-2026.jpg?w=1296&#038;h=730&#038;crop=1",
       "important": false,
       "score": 0
@@ -429,7 +405,7 @@
         "fa": "Variety"
       },
       "link": "https://variety.com/2026/film/news/dwayne-johnson-disney-legend-d23-emily-blunt-1236833908/",
-      "date": "2026-08-17T05:26:58.090153+00:00",
+      "date": "2026-08-17T06:35:20.944220+00:00",
       "image": "https://variety.com/wp-content/uploads/2026/08/GettyImages-2290753699.jpg",
       "important": false,
       "score": 0
@@ -453,8 +429,56 @@
         "fa": "Variety"
       },
       "link": "https://variety.com/2026/tv/columns/noah-wyle-david-ellison-move-paramount-out-of-california-1236835892/",
-      "date": "2026-08-17T05:26:58.089897+00:00",
+      "date": "2026-08-17T06:35:20.943734+00:00",
       "image": "https://variety.com/wp-content/uploads/2026/08/MixCollage-16-Aug-2026-04-28-PM-9388.jpg",
+      "important": false,
+      "score": 0
+    },
+    {
+      "id": "5c0d2e329e7b",
+      "title": {
+        "en": "Harrison Ford, Robert Downey Jr. & Ellen Pompeo Pay Tribute To Bob Iger As He Becomes A Disney Legend",
+        "fa": "هریسون فورد، رابرت داونی جونیور و الن پمپئو با تبدیل شدنش به اسطوره دیزنی از باب ایگر ادای احترام کردند."
+      },
+      "excerpt": {
+        "en": "It’s been quite a week for Bob Iger. First, the former Disney CEO managed to buy one of America’s most-coveted sports franchises — which wasn’t even officially for sale — and today he became a Disney Legend. For those unfamiliar with the honor, it is given to those who have “made a significant impact on […]",
+        "fa": "یک هفته برای باب ایگر گذشته است. ابتدا، مدیر عامل سابق دیزنی موفق شد یکی از پرطرفدارترین فرنچایزهای ورزشی آمریکا را بخرد - که حتی به طور رسمی برای فروش نبود - و امروز به یک اسطوره دیزنی تبدیل شد. برای کسانی که با این افتخار آشنا نیستند، به کسانی داده می شود که «تأثیر قابل توجهی در"
+      },
+      "content": {
+        "en": "It’s been quite a week for Bob Iger. First, the former Disney CEO managed to buy one of America’s most-coveted sports franchises — which wasn’t even officially for sale — and today he became a Disney Legend. For those unfamiliar with the honor, it is given to those who have “made a significant impact on […]",
+        "fa": "یک هفته برای باب ایگر گذشته است. ابتدا، مدیر عامل سابق دیزنی موفق شد یکی از پرطرفدارترین فرنچایزهای ورزشی آمریکا را بخرد - که حتی به طور رسمی برای فروش نبود - و امروز به یک اسطوره دیزنی تبدیل شد. برای کسانی که با این افتخار آشنا نیستند، به کسانی داده می شود که «تأثیر قابل توجهی در"
+      },
+      "source": {
+        "en": "Deadline",
+        "fa": "Deadline"
+      },
+      "link": "https://deadline.com/2026/08/bob-iger-disney-legend-1237042336/",
+      "date": "2026-08-17T06:35:20.936735+00:00",
+      "image": "https://deadline.com/wp-content/uploads/2026/08/bob-iger.png",
+      "important": false,
+      "score": 0
+    },
+    {
+      "id": "cece3dbba1a2",
+      "title": {
+        "en": "‘Douglas Gordon By Douglas Gordon’ Director Finlay Pretsell On His Portrait Of An Eccentric Genius: “This Is The Mind Of A Conceptual Artist” – Edinburgh Film Festival",
+        "fa": "فینلی پرتسل کارگردان «داگلاس گوردون نوشته داگلاس گوردون» در پرتره‌اش از یک نابغه عجیب: «این ذهن یک هنرمند مفهومی است» - جشنواره فیلم ادینبورگ"
+      },
+      "excerpt": {
+        "en": "On the face of it, Finlay Pretsell’s first feature, Time Trial (2017), seemed like any other underdog sports movie, chronicling the last hurrah of disgraced Scottish cyclist David Millar in his last year as a professional rider at the Tour De France. Others might have taken the easy option and milked this against-all-odds story for […]",
+        "fa": "در ظاهر، اولین فیلم بلند فینلی پرتسل، «محاکمه زمانی»، شبیه هر فیلم ورزشی ضعیف دیگری به نظر می‌رسید که آخرین طوفان دوچرخه‌سوار اسکاتلندی رسوایی دیوید میلار را در آخرین سال خود به عنوان یک دوچرخه‌سوار حرفه‌ای در تور دو فرانس نشان می‌دهد. دیگران ممکن است گزینه آسان را انتخاب کرده و این داستان را بر خلاف همه شانس دوشیده باشند"
+      },
+      "content": {
+        "en": "On the face of it, Finlay Pretsell’s first feature, Time Trial (2017), seemed like any other underdog sports movie, chronicling the last hurrah of disgraced Scottish cyclist David Millar in his last year as a professional rider at the Tour De France. Others might have taken the easy option and milked this against-all-odds story for […]",
+        "fa": "در ظاهر، اولین فیلم بلند فینلی پرتسل، «محاکمه زمانی»، شبیه هر فیلم ورزشی ضعیف دیگری به نظر می‌رسید که آخرین طوفان دوچرخه‌سوار اسکاتلندی رسوایی دیوید میلار را در آخرین سال خود به عنوان یک دوچرخه‌سوار حرفه‌ای در تور دو فرانس نشان می‌دهد. دیگران ممکن است گزینه آسان را انتخاب کرده و این داستان را بر خلاف همه شانس دوشیده باشند"
+      },
+      "source": {
+        "en": "Deadline",
+        "fa": "Deadline"
+      },
+      "link": "https://deadline.com/2026/08/douglas-gordon-by-douglas-gordon-director-finlay-pretsell-1237042674/",
+      "date": "2026-08-17T06:35:20.935267+00:00",
+      "image": "https://deadline.com/wp-content/uploads/2026/08/202604430_1_RWD_1380.jpg",
       "important": false,
       "score": 0
     }
