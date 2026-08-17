@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-17T08:32:46.693902+00:00",
+  "updated_at": "2026-08-17T09:31:56.319934+00:00",
   "count": 24,
   "news": [
     {
@@ -21,7 +21,7 @@
         "fa": "The Hollywood Reporter"
       },
       "link": "https://www.hollywoodreporter.com/movies/movie-news/oasis-film-trailer-venice-school-outcasts-violence-forest-1236674663/",
-      "date": "2026-08-17T08:32:46.445556+00:00",
+      "date": "2026-08-17T09:31:56.061078+00:00",
       "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/Oasis-film-still-Zeitgeist-Filmproduktion-H-2026.jpg?w=1227&#038;h=691&#038;crop=1",
       "important": true,
       "score": 7
@@ -45,7 +45,7 @@
         "fa": "The Wrap"
       },
       "link": "https://www.thewrap.com/creative-content/tv-shows/lanerns-episode-1-hal-jordan-death-explained/",
-      "date": "2026-08-17T08:32:46.447772+00:00",
+      "date": "2026-08-17T09:31:56.062887+00:00",
       "image": "https://www.thewrap.com/wp-content/uploads/2026/08/Kelly-Macdonald-Aaron-Piere-Kyle-Chandler-Lanterns.jpg",
       "important": true,
       "score": 6
@@ -69,7 +69,7 @@
         "fa": "Variety"
       },
       "link": "https://variety.com/2026/theater/news/rhea-norwood-susan-wokoma-james-graham-national-youth-theatre-1236835453/",
-      "date": "2026-08-17T08:32:46.443181+00:00",
+      "date": "2026-08-17T09:31:56.058675+00:00",
       "image": "https://variety.com/wp-content/uploads/2026/08/Rhea-Norwood-Susan-Wokoma-James-Graham.jpg",
       "important": true,
       "score": 6
@@ -93,7 +93,7 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/lanterns-premiere-twist-hal-jordan-kyle-chandler-interview-1237042293/",
-      "date": "2026-08-17T08:32:46.440554+00:00",
+      "date": "2026-08-17T09:31:56.056943+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/kyle-chandler-garret-dillahunt.jpg",
       "important": true,
       "score": 6
@@ -117,8 +117,32 @@
         "fa": "Variety"
       },
       "link": "https://variety.com/2026/film/news/deluxe-tohokushinsha-apac-localization-partnership-1236836079/",
-      "date": "2026-08-17T08:32:46.442905+00:00",
+      "date": "2026-08-17T09:31:56.058454+00:00",
       "image": "https://variety.com/wp-content/uploads/2026/08/Deluxe-TFC.jpg",
+      "important": true,
+      "score": 4
+    },
+    {
+      "id": "406f6232cc91",
+      "title": {
+        "en": "BBC’s ‘Vigil’ Season 3 Teaser Sees Suranne Jones & Rose Leslie’s Detective Pair On An Artic Trek In Search Of Answers",
+        "fa": "تیزر فصل 3 \"Vigil\" بی بی سی زوج کارآگاه سوران جونز و رز لزلی را در یک سفر هنری در جستجوی پاسخ می بیند"
+      },
+      "excerpt": {
+        "en": "Here’s your first look at Suranne Jones and Rose Leslie in Season 3 of BBC police drama Vigil. A teaser shows the pair trekking across a frozen tundra, long-range rifle strapped to their backs, as their latest high-stakes investigation takes them to a remote Arctic research station. “In the Arctic, you don’t understand what’s coming,” […]",
+        "fa": "این اولین نگاه شما به سوران جونز و رز لزلی در فصل 3 سریال پلیسی بی‌بی‌سی Vigil است. یک تیزر نشان می‌دهد که این زوج در حال پیاده‌روی در میان یک تفنگ دوربرد تاندرای یخ‌زده که به پشت آن‌ها بسته شده است، در حالی که آخرین تحقیقات مربوط به ریسک بالا آنها را به یک ایستگاه تحقیقاتی دورافتاده در قطب شمال می‌برد. \"در قطب شمال، شما نمی دانید چه چیزی در راه است.\""
+      },
+      "content": {
+        "en": "Here’s your first look at Suranne Jones and Rose Leslie in Season 3 of BBC police drama Vigil. A teaser shows the pair trekking across a frozen tundra, long-range rifle strapped to their backs, as their latest high-stakes investigation takes them to a remote Arctic research station. “In the Arctic, you don’t understand what’s coming,” […]",
+        "fa": "این اولین نگاه شما به سوران جونز و رز لزلی در فصل 3 سریال پلیسی بی‌بی‌سی Vigil است. یک تیزر نشان می‌دهد که این زوج در حال پیاده‌روی در میان یک تفنگ دوربرد تاندرای یخ‌زده که به پشت آن‌ها بسته شده است، در حالی که آخرین تحقیقات مربوط به ریسک بالا آنها را به یک ایستگاه تحقیقاتی دورافتاده در قطب شمال می‌برد. \"در قطب شمال، شما نمی دانید چه چیزی در راه است.\""
+      },
+      "source": {
+        "en": "Deadline",
+        "fa": "Deadline"
+      },
+      "link": "https://deadline.com/2026/08/vigil-season-3-teaser-trailer-bbc-1237042789/",
+      "date": "2026-08-17T09:31:56.054367+00:00",
+      "image": "https://deadline.com/wp-content/uploads/2026/08/1.-Suranne-Jones-Amy-Silva-and-Rose-Leslie-Kirsten-Longacre.jpg",
       "important": true,
       "score": 4
     },
@@ -141,7 +165,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/news/breaking-news/film-independent-biggest-grant-history-juan-devis-1235210522/",
-      "date": "2026-08-17T08:32:46.450743+00:00",
+      "date": "2026-08-17T09:31:56.065492+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/Juan_Devis_2304sm-photo.jpeg?w=650",
       "important": false,
       "score": 3
@@ -165,7 +189,7 @@
         "fa": "The Wrap"
       },
       "link": "https://www.thewrap.com/creative-content/what-to-watch/lanterns-release-date-time-episodes-schedule/",
-      "date": "2026-08-17T08:32:46.449056+00:00",
+      "date": "2026-08-17T09:31:56.064059+00:00",
       "image": "https://www.thewrap.com/wp-content/uploads/2026/08/lanterns-kyle-chandler-hbo.jpg",
       "important": false,
       "score": 3
@@ -189,7 +213,7 @@
         "fa": "Variety"
       },
       "link": "https://variety.com/2026/tv/news/john-oliver-mocks-trump-sacrificing-staff-airplane-swap-incident-iran-1236836013/",
-      "date": "2026-08-17T08:32:46.445149+00:00",
+      "date": "2026-08-17T09:31:56.060604+00:00",
       "image": "https://variety.com/wp-content/uploads/2026/08/john-oliver-last-week-tonight-social.jpg",
       "important": false,
       "score": 3
@@ -213,7 +237,7 @@
         "fa": "Variety"
       },
       "link": "https://variety.com/2026/film/markets-festivals/madrefoca-isabel-hernandez-zoe-films-san-sebastian-1236833977/",
-      "date": "2026-08-17T08:32:46.443823+00:00",
+      "date": "2026-08-17T09:31:56.059306+00:00",
       "image": "https://variety.com/wp-content/uploads/2026/08/ISABEL_3.jpg",
       "important": false,
       "score": 3
@@ -237,7 +261,7 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/jason-segel-shrinking-video-interview-season-4-emmys-1237041926/",
-      "date": "2026-08-17T08:32:46.441986+00:00",
+      "date": "2026-08-17T09:31:56.058136+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/Shrinking.jpg",
       "important": false,
       "score": 3
@@ -261,7 +285,7 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/lanterns-first-episode-hal-jordan-podcast-damon-lindelof-1237042209/",
-      "date": "2026-08-17T08:32:46.440814+00:00",
+      "date": "2026-08-17T09:31:56.057162+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/Damon-Lindelof-Chris-Mundy-Tom-King-Crew-Call.jpg",
       "important": false,
       "score": 3
@@ -285,8 +309,32 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/babita-singh-reporting-prime-video-global-launch-date-1237040426/",
-      "date": "2026-08-17T08:32:46.439356+00:00",
+      "date": "2026-08-17T09:31:56.055869+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/Babita-Singh-Reporting.jpg",
+      "important": false,
+      "score": 3
+    },
+    {
+      "id": "b7a57aa9d0d4",
+      "title": {
+        "en": "Diane Kruger & Dany Boon Are Nazi Hunters On The Trail Of Tim Roth’s Klaus Barbie In Netflix’s ‘Projet K’",
+        "fa": "دایان کروگر و دنی بون شکارچیان نازی هستند که در رد پای کلاوس باربی تیم راث در فیلم «Projet K» نتفلیکس هستند."
+      },
+      "excerpt": {
+        "en": "Diane Kruger and Dany Boon will play Nazi hunters on the trail of Tim Roth’s Klaus Barbie, in Projet K for Netflix. Kruger and Boon will portray Beate and Serge Klarsfeld, the real-life husband-and-wife Nazi hunters. The couple spent years tracking down Nazis after the end of World War II. Famously, they pursued Klaus Barbie […]",
+        "fa": "دایان کروگر و دنی بون در فیلم Projet K برای نتفلیکس نقش شکارچیان نازی را در رد پای کلاوس باربی تیم راث بازی خواهند کرد. کروگر و بون نقش بیت و سرژ کلارسفلد، زن و شوهرهای واقعی شکارچیان نازی را بازی خواهند کرد. این زوج پس از پایان جنگ جهانی دوم سال‌ها به دنبال نازی‌ها بودند. معروف است که آنها کلاوس باربی را تعقیب کردند"
+      },
+      "content": {
+        "en": "Diane Kruger and Dany Boon will play Nazi hunters on the trail of Tim Roth’s Klaus Barbie, in Projet K for Netflix. Kruger and Boon will portray Beate and Serge Klarsfeld, the real-life husband-and-wife Nazi hunters. The couple spent years tracking down Nazis after the end of World War II. Famously, they pursued Klaus Barbie […]",
+        "fa": "دایان کروگر و دنی بون در فیلم Projet K برای نتفلیکس نقش شکارچیان نازی را در رد پای کلاوس باربی تیم راث بازی خواهند کرد. کروگر و بون نقش بیت و سرژ کلارسفلد، زن و شوهرهای واقعی شکارچیان نازی را بازی خواهند کرد. این زوج پس از پایان جنگ جهانی دوم سال‌ها به دنبال نازی‌ها بودند. معروف است که آنها کلاوس باربی را تعقیب کردند"
+      },
+      "source": {
+        "en": "Deadline",
+        "fa": "Deadline"
+      },
+      "link": "https://deadline.com/2026/08/diane-kruger-dany-boon-nazi-hunt-tim-roth-projet-k-netflix-1237042784/",
+      "date": "2026-08-17T09:31:56.054921+00:00",
+      "image": "https://deadline.com/wp-content/uploads/2026/08/projet-k-cast.jpg",
       "important": false,
       "score": 3
     },
@@ -309,7 +357,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/features/podcast/screen-talk-podcast-tiff-ceo-cameron-bailey-toronto-2026-1235210516/",
-      "date": "2026-08-17T08:32:46.450882+00:00",
+      "date": "2026-08-17T09:31:56.065610+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/P115U4AG.jpg?w=650",
       "important": false,
       "score": 1
@@ -333,7 +381,7 @@
         "fa": "Variety"
       },
       "link": "https://variety.com/2026/film/box-office/korea-box-office-the-odyssey-outpaces-spider-man-brand-new-day-1236836058/",
-      "date": "2026-08-17T08:32:46.444025+00:00",
+      "date": "2026-08-17T09:31:56.059499+00:00",
       "image": "https://variety.com/wp-content/uploads/2026/08/Odyssey-Spider-Man.jpg",
       "important": false,
       "score": 1
@@ -357,7 +405,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/criticism/movies/american-doctor-documentary-review-gaza-1235210500/",
-      "date": "2026-08-17T08:32:46.451530+00:00",
+      "date": "2026-08-17T09:31:56.066143+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/ivfj95enlAmerican_Doctor-Still_1.webp?w=650",
       "important": false,
       "score": 0
@@ -381,7 +429,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/news/business/dga-iatse-conditions-paramount-settlement-realistic-1235210398/",
-      "date": "2026-08-17T08:32:46.451290+00:00",
+      "date": "2026-08-17T09:31:56.065931+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/P10XLNE.jpg?w=650",
       "important": false,
       "score": 0
@@ -405,7 +453,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/features/interviews/abbott-elementary-director-randall-einhorn-phillies-game-1235210238/",
-      "date": "2026-08-17T08:32:46.450556+00:00",
+      "date": "2026-08-17T09:31:56.065336+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/178757_1142.jpg?w=650",
       "important": false,
       "score": 0
@@ -429,7 +477,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/features/craft/jane-schoenbrun-teenage-sex-and-death-at-camp-miasma-1235210237/",
-      "date": "2026-08-17T08:32:46.450330+00:00",
+      "date": "2026-08-17T09:31:56.065132+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/MCDTESE_K3011.jpg?w=650",
       "important": false,
       "score": 0
@@ -453,7 +501,7 @@
         "fa": "The Wrap"
       },
       "link": "https://www.thewrap.com/creative-content/movies/johnny-depp-in-talks-pirates-of-the-caribbean-6/",
-      "date": "2026-08-17T08:32:46.448591+00:00",
+      "date": "2026-08-17T09:31:56.063628+00:00",
       "image": "https://www.thewrap.com/wp-content/uploads/2026/08/JohnnyDeppPirates.jpg",
       "important": false,
       "score": 0
@@ -477,7 +525,7 @@
         "fa": "The Wrap"
       },
       "link": "https://www.thewrap.com/industry-news/public-policy-legal/nick-reiner-blocked-family-trust-fund-murder-trial/",
-      "date": "2026-08-17T08:32:46.447400+00:00",
+      "date": "2026-08-17T09:31:56.062561+00:00",
       "image": "https://www.thewrap.com/wp-content/uploads/2026/08/NickReinerCourt.jpg",
       "important": false,
       "score": 0
@@ -501,7 +549,7 @@
         "fa": "The Hollywood Reporter"
       },
       "link": "https://www.hollywoodreporter.com/tv/tv-features/love-story-producers-react-carolyn-bessette-tiktok-1236672651/",
-      "date": "2026-08-17T08:32:46.446485+00:00",
+      "date": "2026-08-17T09:31:56.061881+00:00",
       "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/14BFEA-Limited-Love-Main-2026.jpg?w=1296&#038;h=730&#038;crop=1",
       "important": false,
       "score": 0
@@ -525,56 +573,8 @@
         "fa": "Variety"
       },
       "link": "https://variety.com/2026/film/news/snapshot-review-1236835669/",
-      "date": "2026-08-17T08:32:46.443497+00:00",
+      "date": "2026-08-17T09:31:56.058974+00:00",
       "image": "https://variety.com/wp-content/uploads/2026/08/Snapshot.webp",
-      "important": false,
-      "score": 0
-    },
-    {
-      "id": "5c0d2e329e7b",
-      "title": {
-        "en": "Harrison Ford, Robert Downey Jr. & Ellen Pompeo Pay Tribute To Bob Iger As He Becomes A Disney Legend",
-        "fa": "هریسون فورد، رابرت داونی جونیور و الن پمپئو با تبدیل شدنش به اسطوره دیزنی از باب ایگر ادای احترام کردند."
-      },
-      "excerpt": {
-        "en": "It’s been quite a week for Bob Iger. First, the former Disney CEO managed to buy one of America’s most-coveted sports franchises — which wasn’t even officially for sale — and today he became a Disney Legend. For those unfamiliar with the honor, it is given to those who have “made a significant impact on […]",
-        "fa": "یک هفته برای باب ایگر گذشته است. ابتدا، مدیر عامل سابق دیزنی موفق شد یکی از پرطرفدارترین فرنچایزهای ورزشی آمریکا را بخرد - که حتی به طور رسمی برای فروش نبود - و امروز به یک اسطوره دیزنی تبدیل شد. برای کسانی که با این افتخار آشنا نیستند، به کسانی داده می شود که «تأثیر قابل توجهی در"
-      },
-      "content": {
-        "en": "It’s been quite a week for Bob Iger. First, the former Disney CEO managed to buy one of America’s most-coveted sports franchises — which wasn’t even officially for sale — and today he became a Disney Legend. For those unfamiliar with the honor, it is given to those who have “made a significant impact on […]",
-        "fa": "یک هفته برای باب ایگر گذشته است. ابتدا، مدیر عامل سابق دیزنی موفق شد یکی از پرطرفدارترین فرنچایزهای ورزشی آمریکا را بخرد - که حتی به طور رسمی برای فروش نبود - و امروز به یک اسطوره دیزنی تبدیل شد. برای کسانی که با این افتخار آشنا نیستند، به کسانی داده می شود که «تأثیر قابل توجهی در"
-      },
-      "source": {
-        "en": "Deadline",
-        "fa": "Deadline"
-      },
-      "link": "https://deadline.com/2026/08/bob-iger-disney-legend-1237042336/",
-      "date": "2026-08-17T08:32:46.441051+00:00",
-      "image": "https://deadline.com/wp-content/uploads/2026/08/bob-iger.png",
-      "important": false,
-      "score": 0
-    },
-    {
-      "id": "c9f5ff114a6e",
-      "title": {
-        "en": "Kenneth Branagh On Moving From Shakespeare To Action-Comedy In ‘Mayday’: “I Thought Zach Galifianakis Should Play The Part, But I Was Very Pleased They Asked Me” – Edinburgh Film Festival",
-        "fa": "کنت برانا در مورد انتقال از شکسپیر به کمدی اکشن در «میدی»: «فکر می‌کردم زک گالیفیاناکیس باید این نقش را بازی کند، اما بسیار خوشحالم که از من پرسیدند» - جشنواره فیلم ادینبورگ"
-      },
-      "excerpt": {
-        "en": "Actor-director Kenneth Branagh arrived in Edinburgh to accept the festival’s inaugural Outstanding Contribution to Cinema award from festival director Paul Ridd and immediately joked that he would break it up into little pieces. “Actually, I wouldn’t,” he told the audience, “but if I did, I would give to you, and I’m not just being sappy. […]",
-        "fa": "کنت برانا، بازیگر و کارگردان، وارد ادینبورگ شد تا جایزه افتتاحیه جشنواره را از سوی پل رید، مدیر جشنواره در سینما، دریافت کند و بلافاصله به شوخی گفت که آن را به قطعات کوچک تقسیم خواهد کرد. او به حضار گفت: «در واقع این کار را نمی‌کردم، اما اگر این کار را می‌کردم، به شما می‌دادم، و من فقط خسته نیستم."
-      },
-      "content": {
-        "en": "Actor-director Kenneth Branagh arrived in Edinburgh to accept the festival’s inaugural Outstanding Contribution to Cinema award from festival director Paul Ridd and immediately joked that he would break it up into little pieces. “Actually, I wouldn’t,” he told the audience, “but if I did, I would give to you, and I’m not just being sappy. […]",
-        "fa": "کنت برانا، بازیگر و کارگردان، وارد ادینبورگ شد تا جایزه افتتاحیه جشنواره را از سوی پل رید، مدیر جشنواره در سینما، دریافت کند و بلافاصله به شوخی گفت که آن را به قطعات کوچک تقسیم خواهد کرد. او به حضار گفت: «در واقع این کار را نمی‌کردم، اما اگر این کار را می‌کردم، به شما می‌دادم، و من فقط خسته نیستم."
-      },
-      "source": {
-        "en": "Deadline",
-        "fa": "Deadline"
-      },
-      "link": "https://deadline.com/2026/08/kenneth-branagh-mayday-ryan-reynolds-edinburgh-1237042763/",
-      "date": "2026-08-17T08:32:46.439019+00:00",
-      "image": "https://deadline.com/wp-content/uploads/2026/02/mayday.image_.jpeg",
       "important": false,
       "score": 0
     }
