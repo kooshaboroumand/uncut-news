@@ -1,55 +1,7 @@
 {
-  "updated_at": "2026-08-18T20:13:04.825687+00:00",
-  "count": 24,
+  "updated_at": "2026-08-18T21:14:26.561818+00:00",
+  "count": 18,
   "news": [
-    {
-      "id": "79c1c0111918",
-      "title": {
-        "en": "Lifetime Unveils September Slate With 2 Movies Ripped From the Headlines | Exclusive",
-        "fa": "لایف تایم از تخته سنگ سپتامبر با 2 فیلم بریده شده از سرفصل ها رونمایی کرد | انحصاری"
-      },
-      "excerpt": {
-        "en": "\"Sole Survivor of Flight 119\" and \"The Ocean Between Them\" will premiere during the network's Strength of a Lifetime movie event next month The post Lifetime Unveils September Slate With 2 Movies Ripped From the Headlines | Exclusive appeared first on TheWrap .",
-        "fa": "\"تنها بازمانده از پرواز 119\" و \"اقیانوس بین آنها\" در جریان رویداد سینمایی \"قدرت یک زندگی\" شبکه ماه آینده نمایش داده می شود."
-      },
-      "content": {
-        "en": "\"Sole Survivor of Flight 119\" and \"The Ocean Between Them\" will premiere during the network's Strength of a Lifetime movie event next month The post Lifetime Unveils September Slate With 2 Movies Ripped From the Headlines | Exclusive appeared first on TheWrap .",
-        "fa": "\"تنها بازمانده از پرواز 119\" و \"اقیانوس بین آنها\" در جریان رویداد سینمایی \"قدرت یک زندگی\" شبکه ماه آینده نمایش داده می شود."
-      },
-      "source": {
-        "en": "The Wrap",
-        "fa": "The Wrap"
-      },
-      "link": "https://www.thewrap.com/creative-content/movies/lifetime-movies-september-2026/",
-      "date": "2026-08-18T20:13:04.610791+00:00",
-      "image": "https://www.thewrap.com/wp-content/uploads/2026/08/SoleSurvivor.jpg",
-      "important": true,
-      "score": 6
-    },
-    {
-      "id": "7c51a384baa7",
-      "title": {
-        "en": "‘My Life With the Walter Boys’ Season 3 Tops Netflix TV Charts in Week 2 With 8.7 Million Views",
-        "fa": "فصل 3 «زندگی من با پسران والتر» با 8.7 میلیون بازدید، برترین نمودارهای تلویزیونی نتفلیکس در هفته دوم است."
-      },
-      "excerpt": {
-        "en": "\"The Last House\" maintained its lead on the film side with 33.5 million views The post ‘My Life With the Walter Boys’ Season 3 Tops Netflix TV Charts in Week 2 With 8.7 Million Views appeared first on TheWrap .",
-        "fa": "«آخرین خانه» با 33.5 میلیون بازدید همچنان پیشتاز خود را در بخش فیلم حفظ کرد"
-      },
-      "content": {
-        "en": "\"The Last House\" maintained its lead on the film side with 33.5 million views The post ‘My Life With the Walter Boys’ Season 3 Tops Netflix TV Charts in Week 2 With 8.7 Million Views appeared first on TheWrap .",
-        "fa": "«آخرین خانه» با 33.5 میلیون بازدید همچنان پیشتاز خود را در بخش فیلم حفظ کرد"
-      },
-      "source": {
-        "en": "The Wrap",
-        "fa": "The Wrap"
-      },
-      "link": "https://www.thewrap.com/creative-content/tv-shows/my-life-with-the-walter-boys-season-3-viewership-netflix/",
-      "date": "2026-08-18T20:13:04.610293+00:00",
-      "image": "https://www.thewrap.com/wp-content/uploads/2025/08/My_Life_With_the_Walter_Boys_n_S2_E1_00_34_53_06R.jpg",
-      "important": true,
-      "score": 6
-    },
     {
       "id": "003ca8fddf08",
       "title": {
@@ -69,16 +21,64 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/hulu-chicks-pilot-cast-three-leads-max-winkler-director-1237044434/",
-      "date": "2026-08-18T20:13:04.600948+00:00",
+      "date": "2026-08-18T21:14:26.451807+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/Jason-Schmidt-Julia-Lester-Piper-Runge-and-Max-Winkler.jpg",
       "important": true,
       "score": 6
     },
     {
+      "id": "a38406f31053",
+      "title": {
+        "en": "‘The Rivals of Amziah King’ Wasn’t the Sleeper Indie Box Office Darling We Hoped",
+        "fa": "«رقبای امزیا کینگ» باکس آفیس مستقل خواب‌آلود نبود عزیزم که امیدوار بودیم"
+      },
+      "excerpt": {
+        "en": "With just over $1 million from a limited release, Matthew McConaughey's return to the big screen wasn't as heralded as a strong SXSW premiere suggested.",
+        "fa": "با کمی بیش از 1 میلیون دلار از یک اکران محدود، بازگشت متیو مک‌کانهی به صفحه بزرگ آنطور که اولین نمایش قدرتمند SXSW پیشنهاد می‌شد، اعلام نشده بود."
+      },
+      "content": {
+        "en": "With just over $1 million from a limited release, Matthew McConaughey's return to the big screen wasn't as heralded as a strong SXSW premiere suggested.",
+        "fa": "با کمی بیش از 1 میلیون دلار از یک اکران محدود، بازگشت متیو مک‌کانهی به صفحه بزرگ آنطور که اولین نمایش قدرتمند SXSW پیشنهاد می‌شد، اعلام نشده بود."
+      },
+      "source": {
+        "en": "IndieWire",
+        "fa": "IndieWire"
+      },
+      "link": "https://www.indiewire.com/news/box-office/rivals-amziah-king-box-office-black-bear-1235210853/",
+      "date": "2026-08-18T21:14:26.459154+00:00",
+      "image": "https://www.indiewire.com/wp-content/uploads/2025/03/the-rivals-of-amziah-king-319857_c200b9.webp?w=650",
+      "important": true,
+      "score": 4
+    },
+    {
+      "id": "e7591c3d4f47",
+      "title": {
+        "en": "Briarcliff Acquires North American Rights to ‘Ash and Crayons,’ Ukraine Doc From Oscar Nominee Evgeny Afineevsky (Exclusive)",
+        "fa": "بریارکلیف حقوق آمریکای شمالی را برای «خاکستر و مداد رنگی» به دست می‌آورد، مستند اوکراین از نامزد اسکار اوگنی آفینیفسکی"
+      },
+      "excerpt": {
+        "en": "The film, which highlights seven children whose lives have been upended by the ongoing war in Ukraine, will be released in the U.S. on Nov. 20.",
+        "fa": "این فیلم که هفت کودک را نشان می‌دهد که زندگی‌شان به دلیل جنگ جاری در اوکراین به هم ریخته است، در 20 نوامبر در ایالات متحده اکران خواهد شد."
+      },
+      "content": {
+        "en": "The film, which highlights seven children whose lives have been upended by the ongoing war in Ukraine, will be released in the U.S. on Nov. 20.",
+        "fa": "این فیلم که هفت کودک را نشان می‌دهد که زندگی‌شان به دلیل جنگ جاری در اوکراین به هم ریخته است، در 20 نوامبر در ایالات متحده اکران خواهد شد."
+      },
+      "source": {
+        "en": "The Hollywood Reporter",
+        "fa": "The Hollywood Reporter"
+      },
+      "link": "https://www.hollywoodreporter.com/movies/movie-news/briarcliff-acquires-north-american-rights-ash-and-crayons-1236676348/",
+      "date": "2026-08-18T21:14:26.456622+00:00",
+      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/Ash-and-Crayons-Main-New-2026.jpg?w=1296&#038;h=730&#038;crop=1",
+      "important": true,
+      "score": 4
+    },
+    {
       "id": "5b6c016e10ba",
       "title": {
         "en": "SXSW 2027 Shifts Film Premieres from Paramount Theatre to ACL Live, Adds Podcast Festival",
-        "fa": "جشنواره پادکست SXSW 2027 اولین نمایش فیلم را از سالن پارامونت به ACL Live تغییر می‌دهد"
+        "fa": "جشنواره پادکست SXSW 2027 اولین نمایش فیلم را از تئاتر پارامونت به ACL Live تغییر می‌دهد"
       },
       "excerpt": {
         "en": "The multidisciplinary festival continues to navigate a series of renovations to its most iconic venues.",
@@ -93,7 +93,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/news/festivals/sxsw-2027-venue-changes-podcast-festival-1235211013/",
-      "date": "2026-08-18T20:13:04.612835+00:00",
+      "date": "2026-08-18T21:14:26.458631+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/03-14-26_Over_Your_Dead_Body_Chris_Saucedo-40.jpg?w=650",
       "important": false,
       "score": 3
@@ -117,80 +117,56 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/news/festivals/nyff-2026-revivals-ken-russell-the-devils-1235210928/",
-      "date": "2026-08-18T20:13:04.612737+00:00",
+      "date": "2026-08-18T21:14:26.458544+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/57097357-4bf5-4f7f-9db5-43513d5746bc.jpeg?w=650",
       "important": false,
       "score": 3
     },
     {
-      "id": "3692c72b6ea4",
+      "id": "45023ec50c36",
       "title": {
-        "en": "Starz #TakeTheLead Writers Program Returns for 5th Year | Exclusive",
-        "fa": "برنامه Starz #TakeTheLead Writers برای پنجمین سال بازمی گردد | انحصاری"
+        "en": "Sundance Prizewinner Blerta Basholli on Kosovar War Drama ‘Dua’: ‘Teenagers Growing Up in Conflict Zones Are No Different From Any of Us’",
+        "fa": "برتا باشولی برنده جایزه ساندنس درباره درام جنگی کوزوو \"دعا\": \"نوجوانانی که در مناطق درگیری بزرگ می شوند با هیچ یک از ما تفاوتی ندارند\""
       },
       "excerpt": {
-        "en": "The intensive is in partnership with the National Association of Latino Independent Producers and NewFilmmakers Los Angeles The post Starz #TakeTheLead Writers Program Returns for 5th Year | Exclusive appeared first on TheWrap .",
-        "fa": "این فشرده با مشارکت انجمن ملی تهیه کنندگان مستقل لاتین و فیلمسازان جدید لس آنجلس انجام می شود."
+        "en": "Kosovar filmmaker Blerta Basholli’s debut “Hive” won the Grand Jury Prize, the Directing Award and the Audience Award in the World Cinema Dramatic Competition at the Sundance Film Festival in 2021. In May, she premiered her second feature film, “Dua,” in Cannes’ Critics’ Week, and this week the film screened at Sarajevo Film Festival. Variety […]",
+        "fa": "بلرتا باشولی، اولین فیلمساز اهل کوزوو، «کندو» برنده جایزه بزرگ هیئت داوران، جایزه کارگردانی و جایزه تماشاگران در رقابت دراماتیک سینمای جهان در جشنواره فیلم ساندنس در سال 2021 شد. او در ماه می، دومین فیلم بلند خود، «دوآ» را در هفته منتقدان کن به نمایش گذاشت و این هفته در جشنواره فیلم ساراو به نمایش درآمد. تنوع"
       },
       "content": {
-        "en": "The intensive is in partnership with the National Association of Latino Independent Producers and NewFilmmakers Los Angeles The post Starz #TakeTheLead Writers Program Returns for 5th Year | Exclusive appeared first on TheWrap .",
-        "fa": "این فشرده با مشارکت انجمن ملی تهیه کنندگان مستقل لاتین و فیلمسازان جدید لس آنجلس انجام می شود."
+        "en": "Kosovar filmmaker Blerta Basholli’s debut “Hive” won the Grand Jury Prize, the Directing Award and the Audience Award in the World Cinema Dramatic Competition at the Sundance Film Festival in 2021. In May, she premiered her second feature film, “Dua,” in Cannes’ Critics’ Week, and this week the film screened at Sarajevo Film Festival. Variety […]",
+        "fa": "بلرتا باشولی، اولین فیلمساز اهل کوزوو، «کندو» برنده جایزه بزرگ هیئت داوران، جایزه کارگردانی و جایزه تماشاگران در رقابت دراماتیک سینمای جهان در جشنواره فیلم ساندنس در سال 2021 شد. او در ماه می، دومین فیلم بلند خود، «دوآ» را در هفته منتقدان کن به نمایش گذاشت و این هفته در جشنواره فیلم ساراو به نمایش درآمد. تنوع"
       },
       "source": {
-        "en": "The Wrap",
-        "fa": "The Wrap"
+        "en": "Variety",
+        "fa": "Variety"
       },
-      "link": "https://www.thewrap.com/media-platforms/tv/starz-takethethelead-writers-program-2026-details/",
-      "date": "2026-08-18T20:13:04.611513+00:00",
-      "image": "https://www.thewrap.com/wp-content/uploads/2025/11/Starz.jpg",
+      "link": "https://variety.com/2026/film/global/dua-blerta-basholli-interview-cannes-critics-week-1236742446/",
+      "date": "2026-08-18T21:14:26.454181+00:00",
+      "image": "https://variety.com/wp-content/uploads/2026/05/DUA_3-Ikone-Studio-Alva-Film-Kazak-Productions.jpg",
       "important": false,
       "score": 3
     },
     {
-      "id": "faa4ea9ffc03",
+      "id": "00b983fdca8d",
       "title": {
-        "en": "Film Academy’s Pickford Center Set to Undergo Three-Year Renovation (Exclusive)",
-        "fa": "مرکز پیکفورد آکادمی فیلم به مدت سه سال تحت بازسازی قرار می گیرد"
+        "en": "Oscars Budget, ‘Engaging’ With AI and Hot Memorabilia: Inside the Academy’s Annual All-Members Meeting (EXCLUSIVE)",
+        "fa": "بودجه اسکار، «درگیر شدن» با هوش مصنوعی و خاطرات داغ: در جلسه سالانه همه اعضا آکادمی"
       },
       "excerpt": {
-        "en": "The building in Hollywood houses the Academy's film archive.",
-        "fa": "این ساختمان در هالیوود آرشیو فیلم آکادمی را در خود جای داده است."
+        "en": "The Academy of Motion Picture Arts and Sciences got down to business on Tuesday, setting its agenda for the next year in an all-hands meeting with its membership. The official purpose, as noted in the annual virtual meeting’s invite, was to educate roughly 11,000 members “about the Academy’s leadership structure, budget, goals and priorities.” The […]",
+        "fa": "آکادمی علوم و هنرهای تصاویر متحرک روز سه شنبه دست به کار شد و دستور کار سال آینده خود را در نشستی همه جانبه با اعضای خود تنظیم کرد. هدف رسمی، همانطور که در دعوت جلسه مجازی سالانه ذکر شد، آموزش تقریباً 11000 عضو «در مورد ساختار رهبری، بودجه، اهداف و اولویت‌های آکادمی» بود. را"
       },
       "content": {
-        "en": "The building in Hollywood houses the Academy's film archive.",
-        "fa": "این ساختمان در هالیوود آرشیو فیلم آکادمی را در خود جای داده است."
+        "en": "The Academy of Motion Picture Arts and Sciences got down to business on Tuesday, setting its agenda for the next year in an all-hands meeting with its membership. The official purpose, as noted in the annual virtual meeting’s invite, was to educate roughly 11,000 members “about the Academy’s leadership structure, budget, goals and priorities.” The […]",
+        "fa": "آکادمی علوم و هنرهای تصاویر متحرک روز سه شنبه دست به کار شد و دستور کار سال آینده خود را در نشستی همه جانبه با اعضای خود تنظیم کرد. هدف رسمی، همانطور که در دعوت جلسه مجازی سالانه ذکر شد، آموزش تقریباً 11000 عضو «در مورد ساختار رهبری، بودجه، اهداف و اولویت‌های آکادمی» بود. را"
       },
       "source": {
-        "en": "The Hollywood Reporter",
-        "fa": "The Hollywood Reporter"
+        "en": "Variety",
+        "fa": "Variety"
       },
-      "link": "https://www.hollywoodreporter.com/movies/movie-news/film-academy-pickford-center-three-year-renovation-1236676178/",
-      "date": "2026-08-18T20:13:04.609395+00:00",
-      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/Pickford-Center_courtesy-of-the-Academy.jpg?w=1440&#038;h=810&#038;crop=1",
-      "important": false,
-      "score": 3
-    },
-    {
-      "id": "6f20b6cb176f",
-      "title": {
-        "en": "DOC NYC Set To Honor Documentary Visionaries Alex Gibney, JT Takagi, Stephen Maing, And Raney Aronson-Rath",
-        "fa": "DOC NYC از مستندسازان رویایی الکس گیبنی، جی تی تاکاگی، استیون ماینگ و رینی آرونسون رات تقدیر می کند."
-      },
-      "excerpt": {
-        "en": "EXCLUSIVE: DOC NYC has announced a distinguished group of honorees for its upcoming 13th edition, set to unspool in New York this November. The annual Visionaries Tribute, to be held on the festival’s opening day at Gotham Hall in Manhattan, will see Oscar-winning filmmaker Alex Gibney and filmmaker-sound recordist JT Takagi honored with Lifetime Achievement […]",
-        "fa": "اختصاصی: DOC NYC یک گروه برجسته از برگزیدگان را برای سیزدهمین نسخه آینده خود اعلام کرده است که قرار است در نوامبر امسال در نیویورک منتشر شود. ادای احترام سالانه Visionaries، که در روز افتتاحیه جشنواره در سالن گاتهام منهتن برگزار می شود، الکس گیبنی فیلمساز برنده اسکار و جی تی تاکاگی، فیلمساز و ضبط کننده صدا، با جایزه یک عمر دستاورد تجلیل خواهند شد."
-      },
-      "content": {
-        "en": "EXCLUSIVE: DOC NYC has announced a distinguished group of honorees for its upcoming 13th edition, set to unspool in New York this November. The annual Visionaries Tribute, to be held on the festival’s opening day at Gotham Hall in Manhattan, will see Oscar-winning filmmaker Alex Gibney and filmmaker-sound recordist JT Takagi honored with Lifetime Achievement […]",
-        "fa": "اختصاصی: DOC NYC یک گروه برجسته از برگزیدگان را برای سیزدهمین نسخه آینده خود اعلام کرده است که قرار است در نوامبر امسال در نیویورک منتشر شود. ادای احترام سالانه Visionaries، که در روز افتتاحیه جشنواره در سالن گاتهام منهتن برگزار می شود، الکس گیبنی فیلمساز برنده اسکار و جی تی تاکاگی، فیلمساز و ضبط کننده صدا، با جایزه یک عمر دستاورد تجلیل خواهند شد."
-      },
-      "source": {
-        "en": "Deadline",
-        "fa": "Deadline"
-      },
-      "link": "https://deadline.com/2026/08/2026-doc-nyc-visionaries-tribute-honorees-1237044399/",
-      "date": "2026-08-18T20:13:04.603005+00:00",
-      "image": "https://deadline.com/wp-content/uploads/2026/08/Alex-Gibney-J.T.-Takagi-Stephen-Maing-and-Raney-Aronson-Rath.jpg",
+      "link": "https://variety.com/2026/film/columns/oscars-youtube-ai-annual-budgets-member-meeting-1236837376/",
+      "date": "2026-08-18T21:14:26.453172+00:00",
+      "image": "https://variety.com/wp-content/uploads/2018/12/Oscars-Placeholder.jpg",
       "important": false,
       "score": 3
     },
@@ -213,7 +189,7 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/anna-todd-tv-series-house-of-crowns-amazon-mgm-in-works-1237044493/",
-      "date": "2026-08-18T20:13:04.602305+00:00",
+      "date": "2026-08-18T21:14:26.453046+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/Anna-Todd.jpeg",
       "important": false,
       "score": 3
@@ -237,7 +213,7 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/feature/east-of-eden-netflix-series-news-updates-everything-we-know-1237013616/",
-      "date": "2026-08-18T20:13:04.601728+00:00",
+      "date": "2026-08-18T21:14:26.452517+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/EDEN_104_Unit_01134R5.jpg",
       "important": false,
       "score": 3
@@ -261,58 +237,10 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/the-pitt-season-3-sepideh-moafi-interview-1237043457/",
-      "date": "2026-08-18T20:13:04.601245+00:00",
+      "date": "2026-08-18T21:14:26.452090+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/05/sepideh-moafi.jpg",
       "important": false,
       "score": 3
-    },
-    {
-      "id": "9de247f98284",
-      "title": {
-        "en": "The Academy Announces Sean Baker and Samantha Quan as Chairs Overseeing Its New Marquee Theater List",
-        "fa": "آکادمی، شان بیکر و سامانتا کوان را به‌عنوان صندلی‌هایی که بر فهرست جدید تئاترهای مارکی نظارت می‌کنند، معرفی می‌کند."
-      },
-      "excerpt": {
-        "en": "The Academy of Motion Picture Arts and Sciences revealed the chairs and vice chairs for its 2026-2027 committees and affinity groups.",
-        "fa": "آکادمی علوم و هنرهای تصاویر متحرک، رئیس‌ها و معاونان کمیته‌های 2026-2027 و گروه‌های وابسته خود را معرفی کرد."
-      },
-      "content": {
-        "en": "The Academy of Motion Picture Arts and Sciences revealed the chairs and vice chairs for its 2026-2027 committees and affinity groups.",
-        "fa": "آکادمی علوم و هنرهای تصاویر متحرک، رئیس‌ها و معاونان کمیته‌های 2026-2027 و گروه‌های وابسته خود را معرفی کرد."
-      },
-      "source": {
-        "en": "IndieWire",
-        "fa": "IndieWire"
-      },
-      "link": "https://www.indiewire.com/awards/industry/sean-baker-samantha-quan-chair-academy-marquee-theater-list-1235211131/",
-      "date": "2026-08-18T20:13:04.612396+00:00",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/08/P10ZCQ5.jpg?w=650",
-      "important": false,
-      "score": 1
-    },
-    {
-      "id": "45d7b9a23dbd",
-      "title": {
-        "en": "‘Ragtime’ Sets Lincoln Center Record In Its Final Week; ‘Paranormal Activity’ Sells Out First Four Previews – Broadway Box Office Report",
-        "fa": "«Ragtime» در آخرین هفته خود رکورد مرکز لینکلن را به ثبت رساند. \"فعالیت ماوراء الطبیعه\" چهار پیش نمایش اول را به فروش می رساند - گزارش باکس آفیس برادوی"
-      },
-      "excerpt": {
-        "en": "Broadway’s Ragtime went out on a huge note Sunday, breaking its own box office record to become the highest grossing Broadway show in the history of Lincoln Center Theater. The musical revival, directed by Lincoln Center Theater’s artistic director Lear deBessonet, grossed a whooping $1,963,666 for its final eight performances. Only the 27 productions running […]",
-        "fa": "رگ تایم برادوی روز یکشنبه با پرفروش‌ترین نمایش اکران شد و رکورد باکس آفیس خود را شکست و به پردرآمدترین نمایش برادوی در تاریخ تئاتر لینکلن سنتر تبدیل شد. احیای موسیقی که توسط کارگردان هنری Lincoln Center Theatre Lear deBessonet کارگردانی شد، برای هشت اجرای پایانی خود 1,963,666 دلار فروش داشت. فقط 27 تولید در حال اجرا است"
-      },
-      "content": {
-        "en": "Broadway’s Ragtime went out on a huge note Sunday, breaking its own box office record to become the highest grossing Broadway show in the history of Lincoln Center Theater. The musical revival, directed by Lincoln Center Theater’s artistic director Lear deBessonet, grossed a whooping $1,963,666 for its final eight performances. Only the 27 productions running […]",
-        "fa": "رگ تایم برادوی روز یکشنبه با پرفروش‌ترین نمایش اکران شد و رکورد باکس آفیس خود را شکست و به پردرآمدترین نمایش برادوی در تاریخ تئاتر لینکلن سنتر تبدیل شد. احیای موسیقی که توسط کارگردان هنری Lincoln Center Theatre Lear deBessonet کارگردانی شد، برای هشت اجرای پایانی خود 1,963,666 دلار فروش داشت. فقط 27 تولید در حال اجرا است"
-      },
-      "source": {
-        "en": "Deadline",
-        "fa": "Deadline"
-      },
-      "link": "https://deadline.com/2026/08/broadway-box-office-ragtime-paranormal-activity-1237044419/",
-      "date": "2026-08-18T20:13:04.603209+00:00",
-      "image": "https://deadline.com/wp-content/uploads/2026/08/0816_Ragtime-Closing-Performance_RebeccaJMichelson-78-e1787077169703.jpg",
-      "important": false,
-      "score": 1
     },
     {
       "id": "2e444a5895aa",
@@ -322,18 +250,18 @@
       },
       "excerpt": {
         "en": "In addition to the Best International First Feature and Digital Creator Award categories, Film Independent has added the Berlinale as a qualifying festival for the 2027 Film Independent Spirit Awards.",
-        "fa": "علاوه بر دسته‌های جایزه بهترین فیلم اول بین‌المللی و جایزه خلاق دیجیتال، فیلم مستقل جشنواره برلیناله را به عنوان جشنواره واجد شرایط برای جوایز روح مستقل فیلم ۲۰۲۷ اضافه کرده است."
+        "fa": "علاوه بر دسته‌های جایزه بهترین فیلم اول بین‌المللی و جایزه خلاق دیجیتال، فیلم مستقل برلیناله را به عنوان جشنواره واجد شرایط برای جوایز روح مستقل فیلم ۲۰۲۷ اضافه کرده است."
       },
       "content": {
         "en": "In addition to the Best International First Feature and Digital Creator Award categories, Film Independent has added the Berlinale as a qualifying festival for the 2027 Film Independent Spirit Awards.",
-        "fa": "In addition to the Best International First Feature and Digital Creator Award categories, Film Independent has added the Berlinale as a qualifying festival for the 2027 Film Independent Spirit Awards."
+        "fa": "علاوه بر دسته‌های جایزه بهترین فیلم اول بین‌المللی و جایزه خلاق دیجیتال، فیلم مستقل برلیناله را به عنوان جشنواره واجد شرایط برای جوایز روح مستقل فیلم ۲۰۲۷ اضافه کرده است."
       },
       "source": {
         "en": "IndieWire",
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/awards/industry/independent-spirit-awards-categories-creators-international-1235211062/",
-      "date": "2026-08-18T20:13:04.613052+00:00",
+      "date": "2026-08-18T21:14:26.458831+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/P10442BC.jpg?w=650",
       "important": false,
       "score": 0
@@ -357,8 +285,32 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/news/festivals/fantastic-fest-2026-lineup-resident-evil-carrie-1235210870/",
-      "date": "2026-08-18T20:13:04.612625+00:00",
+      "date": "2026-08-18T21:14:26.458441+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/RESIDENT_EVIL_Still.jpg?w=650",
+      "important": false,
+      "score": 0
+    },
+    {
+      "id": "9ab41b71d5f7",
+      "title": {
+        "en": "Cinemark Joins Regal and AMC in Supporting Paramount-Warner Bros. Merger as Movie Theaters’ Opposition Crumbles",
+        "fa": "Cinemark به Regal و AMC در حمایت از ادغام برادران پارامونت-وارنر در حالی که مخالفت سینماها در حال فروپاشی است می‌پیوندد."
+      },
+      "excerpt": {
+        "en": "The three largest exhibitors are signing up for David Ellison's vision in a blow to critics.",
+        "fa": "سه غرفه‌دار بزرگ در حال ثبت نام برای دیدگاه دیوید الیسون در ضربه‌ای به منتقدان هستند."
+      },
+      "content": {
+        "en": "The three largest exhibitors are signing up for David Ellison's vision in a blow to critics.",
+        "fa": "سه غرفه‌دار بزرگ در حال ثبت نام برای دیدگاه دیوید الیسون در ضربه‌ای به منتقدان هستند."
+      },
+      "source": {
+        "en": "IndieWire",
+        "fa": "IndieWire"
+      },
+      "link": "https://www.indiewire.com/news/business/cinemark-regal-amc-support-paramount-warner-bros-merger-1235211181/",
+      "date": "2026-08-18T21:14:26.458037+00:00",
+      "image": "https://www.indiewire.com/wp-content/uploads/2024/08/GettyImages-2163358707.jpg?w=650",
       "important": false,
       "score": 0
     },
@@ -370,7 +322,7 @@
       },
       "excerpt": {
         "en": "Before she was cast in the Apple TV hit, the first-time Emmy nominee had never even been to Los Angeles. Now, she tells IndieWire, she's basking in the kind of \"fairy tale\" she knows doesn't happen often. At least BFF Jonathan Bailey can advise on navigating all that .",
-        "fa": "Before she was cast in the Apple TV hit, the first-time Emmy nominee had never even been to Los Angeles. Now, she tells IndieWire, she's basking in the kind of \"fairy tale\" she knows doesn't happen often. At least BFF Jonathan Bailey can advise on navigating all that ."
+        "fa": "قبل از اینکه برای بازی در تلویزیون اپل انتخاب شود، اولین نامزد امی حتی هرگز به لس آنجلس نرفته بود. حالا، او به IndieWire می‌گوید، او از نوعی «افسانه» لذت می‌برد که می‌داند اغلب اتفاق نمی‌افتد. حداقل BFF جاناتان بیلی می تواند در مورد پیمایش همه اینها راهنمایی کند."
       },
       "content": {
         "en": "Before she was cast in the Apple TV hit, the first-time Emmy nominee had never even been to Los Angeles. Now, she tells IndieWire, she's basking in the kind of \"fairy tale\" she knows doesn't happen often. At least BFF Jonathan Bailey can advise on navigating all that .",
@@ -381,7 +333,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/awards/consider-this/widows-bay-kate-oflynn-patricia-weirdo-interview-1235210474/",
-      "date": "2026-08-18T20:13:04.611908+00:00",
+      "date": "2026-08-18T21:14:26.457856+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/GettyImages-2289884113.jpg?w=650",
       "important": false,
       "score": 0
@@ -390,7 +342,7 @@
       "id": "d41cbb4ab96f",
       "title": {
         "en": "Early YouTube Pioneer Felicia Day’s ‘The Guild’ Movie Is About to Break a Kickstarter Record",
-        "fa": "Early YouTube Pioneer Felicia Day’s ‘The Guild’ Movie Is About to Break a Kickstarter Record"
+        "fa": "فیلم The Guild از پیشگامان یوتیوب Felicia Day در آستانه شکستن یک رکورد کیک استارتر"
       },
       "excerpt": {
         "en": "\"The Guild\" was one of the first breakout web series on YouTube in 2007. Now, Felicia Day and friends are bringing it back, and it's already one of the most successful film Kickstarters of all time.",
@@ -405,104 +357,8 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/features/craft/the-guild-ren-faired-felicia-day-kickstarter-interview-1235211080/",
-      "date": "2026-08-18T20:13:04.611760+00:00",
+      "date": "2026-08-18T21:14:26.457720+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/Screenshot-2026-08-18-at-10.35.18.png?w=650",
-      "important": false,
-      "score": 0
-    },
-    {
-      "id": "bac143963933",
-      "title": {
-        "en": "Cinemark Endorses Paramount-Warner Merger, Cinema United Calls for Settlement as Theater Execs Change Course",
-        "fa": "Cinemark از ادغام پارامونت-وارنر حمایت می کند، Cinema United خواستار حل و فصل به عنوان دوره تغییر مدیران تئاتر است"
-      },
-      "excerpt": {
-        "en": "Trade org calls for key conditions in a settlement between California AG Rob Bonta and the studio The post Cinemark Endorses Paramount-Warner Merger, Cinema United Calls for Settlement as Theater Execs Change Course appeared first on TheWrap .",
-        "fa": "سازمان تجارت خواستار شرایط کلیدی در حل و فصل بین کالیفرنیا AG راب بونتا و استودیو است"
-      },
-      "content": {
-        "en": "Trade org calls for key conditions in a settlement between California AG Rob Bonta and the studio The post Cinemark Endorses Paramount-Warner Merger, Cinema United Calls for Settlement as Theater Execs Change Course appeared first on TheWrap .",
-        "fa": "سازمان تجارت خواستار شرایط کلیدی در حل و فصل بین کالیفرنیا AG راب بونتا و استودیو است"
-      },
-      "source": {
-        "en": "The Wrap",
-        "fa": "The Wrap"
-      },
-      "link": "https://www.thewrap.com/creative-content/movies/cinema-united-paramount-warner-merger-settlement/",
-      "date": "2026-08-18T20:13:04.610685+00:00",
-      "image": "https://www.thewrap.com/wp-content/uploads/2026/06/GettyImages-1289415859-scaled.jpg",
-      "important": false,
-      "score": 0
-    },
-    {
-      "id": "600fea2f45de",
-      "title": {
-        "en": "The 3 Best Movies on Paramount+ This Week",
-        "fa": "3 بهترین فیلم در Paramount+ این هفته"
-      },
-      "excerpt": {
-        "en": "\"Arrival\" headlines our picks The post The 3 Best Movies on Paramount+ This Week appeared first on TheWrap .",
-        "fa": "«ورود» سرفصل انتخاب های ما است"
-      },
-      "content": {
-        "en": "\"Arrival\" headlines our picks The post The 3 Best Movies on Paramount+ This Week appeared first on TheWrap .",
-        "fa": "«ورود» سرفصل انتخاب های ما است"
-      },
-      "source": {
-        "en": "The Wrap",
-        "fa": "The Wrap"
-      },
-      "link": "https://www.thewrap.com/creative-content/what-to-watch/best-movies-on-paramount-plus-august-18-23/",
-      "date": "2026-08-18T20:13:04.610458+00:00",
-      "image": "https://www.thewrap.com/wp-content/uploads/2026/08/Amy-Adams-Arrival.jpg",
-      "important": false,
-      "score": 0
-    },
-    {
-      "id": "3dd4d72b77ca",
-      "title": {
-        "en": "THR Live: As Final Voting Is Underway, Which Shows Are Going to Win Emmy Gold?",
-        "fa": "THR Live: همانطور که رای گیری نهایی در حال انجام است، کدام نمایش ها طلای امی را دریافت خواهند کرد؟"
-      },
-      "excerpt": {
-        "en": "The Hollywood Reporter awards editors Beatrice Verhoeven and Brande Victorian discuss which categories seem locked, which are up in the air and recent rule changes in the variety talk series area.",
-        "fa": "سردبیران جوایز هالیوود ریپورتر، بئاتریس ورهوفن و برند ویکتوریان درباره این که کدام دسته بندی ها قفل شده به نظر می رسند، کدام ها در هوا هستند و تغییرات اخیر قوانین در حوزه مجموعه های گفتگوی متنوع بحث می کنند."
-      },
-      "content": {
-        "en": "The Hollywood Reporter awards editors Beatrice Verhoeven and Brande Victorian discuss which categories seem locked, which are up in the air and recent rule changes in the variety talk series area.",
-        "fa": "سردبیران جوایز هالیوود ریپورتر، بئاتریس ورهوفن و برند ویکتوریان درباره این که کدام دسته بندی ها قفل شده به نظر می رسند، کدام ها در هوا هستند و تغییرات اخیر قوانین در حوزه مجموعه های گفتگوی متنوع بحث می کنند."
-      },
-      "source": {
-        "en": "The Hollywood Reporter",
-        "fa": "The Hollywood Reporter"
-      },
-      "link": "https://www.hollywoodreporter.com/tv/tv-news/thr-live-emmy-winners-final-voting-1236676152/",
-      "date": "2026-08-18T20:13:04.609145+00:00",
-      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/01/noah-wyle-katherine-lanasa-sepideh-moafi-EMBED-2026.jpg?crop=0px%2C13px%2C1000px%2C560px&#038;resize=1440%2C810",
-      "important": false,
-      "score": 0
-    },
-    {
-      "id": "a98f8cc10d34",
-      "title": {
-        "en": "‘Fast & Furious’ Stars Tease Upcoming TV Series and Final Movie ‘Fast Forever’: No More “007, Bring Your Cars to Space Sh**”",
-        "fa": "ستارگان «سریع و خشمگین» سری‌های تلویزیونی آینده و فیلم نهایی «سریع برای همیشه» را متلک می‌کنند: دیگر خبری از «۰۰۷، ماشین‌های خود را به فضا بیاورید Sh**»"
-      },
-      "excerpt": {
-        "en": "Vin Diesel, Michelle Rodriguez and Jordana Brewster celebrated the 25th anniversary of 'The Fast and the Furious' on Monday night, while also dropping some hints at what's next.",
-        "fa": "وین دیزل، میشل رودریگز و جوردانا بروستر بیست و پنجمین سالگرد «سریع و خشمگین» را دوشنبه شب جشن گرفتند و در عین حال نکاتی را نیز در مورد اتفاقات بعدی ارائه کردند."
-      },
-      "content": {
-        "en": "Vin Diesel, Michelle Rodriguez and Jordana Brewster celebrated the 25th anniversary of 'The Fast and the Furious' on Monday night, while also dropping some hints at what's next.",
-        "fa": "وین دیزل، میشل رودریگز و جوردانا بروستر بیست و پنجمین سالگرد «سریع و خشمگین» را دوشنبه شب جشن گرفتند و در عین حال نکاتی را نیز در مورد اتفاقات بعدی ارائه کردند."
-      },
-      "source": {
-        "en": "The Hollywood Reporter",
-        "fa": "The Hollywood Reporter"
-      },
-      "link": "https://www.hollywoodreporter.com/movies/movie-news/fast-furious-tv-series-final-movie-fast-forever-1236676129/",
-      "date": "2026-08-18T20:13:04.608002+00:00",
-      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/GettyImages-2290940176.jpg?crop=0px%2C221px%2C4915px%2C2750px&#038;resize=1440%2C810",
       "important": false,
       "score": 0
     },
@@ -510,7 +366,7 @@
       "id": "5c83c75869fc",
       "title": {
         "en": "‘Nashville’ Alum Charles Esten Notes “Strange Coincidence” of Being in Greenville, South Carolina Days Before Hayden Panettiere’s Death",
-        "fa": "آلوم «نشویل» چارلز استن به «تصادف عجیب» حضور در گرینویل، کارولینای جنوبی، چند روز قبل از مرگ هیدن پانتییر اشاره می‌کند."
+        "fa": "‘Nashville’ Alum Charles Esten Notes “Strange Coincidence” of Being in Greenville, South Carolina Days Before Hayden Panettiere’s Death"
       },
       "excerpt": {
         "en": "The actor says he \"wish[es]\" he'd had a chance to see and reconnect with Panettiere as he recalls how they became \"fast friends\" during the audition process and early days of making ABC drama series.",
@@ -525,56 +381,56 @@
         "fa": "The Hollywood Reporter"
       },
       "link": "https://www.hollywoodreporter.com/news/general-news/hayden-panettiere-death-charles-esten-nashville-coincidence-1236676365/",
-      "date": "2026-08-18T20:13:04.607087+00:00",
+      "date": "2026-08-18T21:14:26.457141+00:00",
       "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/TCDNASH_EC025.jpg?crop=0px%2C272px%2C3000px%2C1679px&#038;resize=1440%2C810",
       "important": false,
       "score": 0
     },
     {
-      "id": "c34383f7edf1",
+      "id": "42e45da47c09",
       "title": {
-        "en": "Laci Mosley’s ‘Scam Goddess’ Comedy Podcast Launches Video Episodes on YouTube, Joins Will Ferrell’s Big Money Players Network at iHeart",
-        "fa": "پادکست کمدی «الهه کلاهبردار» Laci Mosley قسمت‌های ویدیویی خود را در یوتیوب راه‌اندازی می‌کند، به شبکه بزرگ پول‌بازان ویل فرل در iHeart می‌پیوندد."
+        "en": "Emmys: A Breakdown of the Music Nominees From Lady Gaga’s ‘Dead Dance’ to Hans Zimmer’s Race for His First Win",
+        "fa": "امی: تفکیک نامزدهای موسیقی از «رقص مرده» لیدی گاگا تا مسابقه هانس زیمر برای اولین بردش"
       },
       "excerpt": {
-        "en": "“Scam Goddess,” comedy podcast in which Laci Mosley and friends feast on crazy stories about frauds past and present, is now coming at you in video. “Scam Goddess” has joined iHeartMedia and Will Ferrell’s Big Money Players comedy podcast network — and the show has expanded into video, with a new YouTube channel where fans […]",
-        "fa": "«الهه کلاهبرداری»، پادکست کمدی که در آن لاسی موزلی و دوستانش با داستان‌های دیوانه‌کننده درباره کلاهبرداری‌های گذشته و حال جشن می‌گیرند، اکنون به صورت ویدیویی به سراغ شما می‌آیند. \"الهه کلاهبرداری\" به شبکه پادکست کمدی Big Money Players iHeartMedia و Will Ferrell ملحق شده است - و این نمایش با یک کانال YouTube جدید که در آن طرفداران در آن به ویدئو تبدیل شده است."
+        "en": "Emmy’s music branch continues to welcome newcomers. Eighteen of this year’s 54 nominees, or one-third of the total in seven categories, are first-timers to the competition. And only 12 are previous winners of TV’s highest honor. Composer Dave Porter, whose long professional relationship with creator-producer Vince Gilligan dates back to “Breaking Bad,” earned his first […]",
+        "fa": "شاخه موسیقی امی به استقبال تازه واردان ادامه می دهد. هجده نفر از 54 نامزد امسال، یا یک سوم از مجموع هفت بخش، برای اولین بار در این رقابت شرکت می کنند. و تنها 12 نفر برنده قبلی بالاترین افتخار تلویزیون هستند. آهنگساز دیو پورتر، که رابطه حرفه ای طولانی مدتش با خالق و تهیه کننده وینس گیلیگان به «برکینگ بد» برمی گردد، اولین رابطه اش را به دست آورد."
       },
       "content": {
-        "en": "“Scam Goddess,” comedy podcast in which Laci Mosley and friends feast on crazy stories about frauds past and present, is now coming at you in video. “Scam Goddess” has joined iHeartMedia and Will Ferrell’s Big Money Players comedy podcast network — and the show has expanded into video, with a new YouTube channel where fans […]",
-        "fa": "«الهه کلاهبرداری»، پادکست کمدی که در آن لاسی موزلی و دوستانش با داستان‌های دیوانه‌کننده درباره کلاهبرداری‌های گذشته و حال جشن می‌گیرند، اکنون به صورت ویدیویی به سراغ شما می‌آیند. \"الهه کلاهبرداری\" به شبکه پادکست کمدی Big Money Players iHeartMedia و Will Ferrell ملحق شده است - و این نمایش با یک کانال YouTube جدید که در آن طرفداران در آن به ویدئو تبدیل شده است."
+        "en": "Emmy’s music branch continues to welcome newcomers. Eighteen of this year’s 54 nominees, or one-third of the total in seven categories, are first-timers to the competition. And only 12 are previous winners of TV’s highest honor. Composer Dave Porter, whose long professional relationship with creator-producer Vince Gilligan dates back to “Breaking Bad,” earned his first […]",
+        "fa": "شاخه موسیقی امی به استقبال تازه واردان ادامه می دهد. هجده نفر از 54 نامزد امسال، یا یک سوم از مجموع هفت بخش، برای اولین بار در این رقابت شرکت می کنند. و تنها 12 نفر برنده قبلی بالاترین افتخار تلویزیون هستند. آهنگساز دیو پورتر، که رابطه حرفه ای طولانی مدتش با خالق و تهیه کننده وینس گیلیگان به «برکینگ بد» برمی گردد، اولین رابطه اش را به دست آورد."
       },
       "source": {
         "en": "Variety",
         "fa": "Variety"
       },
-      "link": "https://variety.com/2026/digital/news/scam-goddess-video-youtube-laci-mosley-will-ferrell-iheartmedia-1236837124/",
-      "date": "2026-08-18T20:13:04.606052+00:00",
-      "image": "https://variety.com/wp-content/uploads/2026/08/Scam-Goddess-Laci-Mosley.jpg",
+      "link": "https://variety.com/2026/artisans/news/emmys-music-nominations-1236834113/",
+      "date": "2026-08-18T21:14:26.455814+00:00",
+      "image": "https://variety.com/wp-content/uploads/2025/09/WEDNESDAY_HS_X_111124_00012R_CC3.jpg",
       "important": false,
       "score": 0
     },
     {
-      "id": "3665ca535e96",
+      "id": "75f124067feb",
       "title": {
-        "en": "Will David Ellison Say Goodbye to Hollywood? Some See Paramount’s Potential Exit From California as ‘Strategically Unwise’ — but Others Say It’s Just Smart Business",
-        "fa": "آیا دیوید الیسون با هالیوود خداحافظی خواهد کرد؟ برخی خروج احتمالی پارامونت از کالیفرنیا را «از نظر استراتژیک نابخردانه» می‌دانند – اما برخی دیگر می‌گویند این فقط یک تجارت هوشمند است"
+        "en": "Peacock Hikes Prices Across All Subscription Plans",
+        "fa": "قیمت‌های Peacock در همه طرح‌های اشتراک افزایش می‌یابد"
       },
       "excerpt": {
-        "en": "David Ellison, we have been told, loves Hollywood. He loves movies. In trying to rally industry support behind the Paramount-Warner Bros. megamerger, he has claimed the combined studios will release an unprecedented 30-plus films a year. Waving the banner for the entertainment industry in his home state, Ellison also has been lobbying for bipartisan federal […]",
-        "fa": "به ما گفته شده است که دیوید الیسون عاشق هالیوود است. او عاشق فیلم است. او در تلاش برای جلب حمایت صنعت پشت ادغام بزرگ پارامونت و برادران وارنر، ادعا کرده است که استودیوهای ترکیبی سالانه بیش از 30 فیلم بی‌سابقه منتشر خواهند کرد. الیسون با تکان دادن بنر صنعت سرگرمی در ایالت خود، برای فدرال دو حزبی لابی کرده است."
+        "en": "NBCUniversal streamer Peacock is raising the price of all its monthly and annual plans effective August 18 for new and returning subscribers “These price changes,” the service said on its website, “allow Peacock to continue to create the best experience for its viewers, remain competitive in the marketplace, and deliver unique content across all genres. […]",
+        "fa": "پخش‌کننده NBCUniversal Peacock قیمت تمام برنامه‌های ماهانه و سالانه خود را افزایش می‌دهد که از 18 آگوست برای مشترکین جدید و بازگشته اعمال می‌شود. این سرویس در وب‌سایت خود گفت: «این تغییرات قیمت به Peacock اجازه می‌دهد تا به ایجاد بهترین تجربه برای بینندگان خود ادامه دهد، در بازار رقابت باقی بماند و محتوای منحصربه‌فرد را در همه ژانرها ارائه دهد."
       },
       "content": {
-        "en": "David Ellison, we have been told, loves Hollywood. He loves movies. In trying to rally industry support behind the Paramount-Warner Bros. megamerger, he has claimed the combined studios will release an unprecedented 30-plus films a year. Waving the banner for the entertainment industry in his home state, Ellison also has been lobbying for bipartisan federal […]",
-        "fa": "به ما گفته شده است که دیوید الیسون عاشق هالیوود است. او عاشق فیلم است. او در تلاش برای جلب حمایت صنعت پشت ادغام بزرگ پارامونت و برادران وارنر، ادعا کرده است که استودیوهای ترکیبی سالانه بیش از 30 فیلم بی‌سابقه منتشر خواهند کرد. الیسون با تکان دادن بنر صنعت سرگرمی در ایالت خود، برای فدرال دو حزبی لابی کرده است."
+        "en": "NBCUniversal streamer Peacock is raising the price of all its monthly and annual plans effective August 18 for new and returning subscribers “These price changes,” the service said on its website, “allow Peacock to continue to create the best experience for its viewers, remain competitive in the marketplace, and deliver unique content across all genres. […]",
+        "fa": "پخش‌کننده NBCUniversal Peacock قیمت تمام برنامه‌های ماهانه و سالانه خود را افزایش می‌دهد که از 18 آگوست برای مشترکین جدید و بازگشته اعمال می‌شود. این سرویس در وب‌سایت خود گفت: «این تغییرات قیمت به Peacock اجازه می‌دهد تا به ایجاد بهترین تجربه برای بینندگان خود ادامه دهد، در بازار رقابت باقی بماند و محتوای منحصربه‌فرد را در همه ژانرها ارائه دهد."
       },
       "source": {
-        "en": "Variety",
-        "fa": "Variety"
+        "en": "Deadline",
+        "fa": "Deadline"
       },
-      "link": "https://variety.com/2026/film/news/goodbye-to-hollywood-paramount-california-exit-david-ellison-1236837300/",
-      "date": "2026-08-18T20:13:04.605324+00:00",
-      "image": "https://variety.com/wp-content/uploads/2026/08/David-Ellison-Paramount-Leaving-California.png",
+      "link": "https://deadline.com/2026/08/peacock-raises-prices-across-plans-1237044536/",
+      "date": "2026-08-18T21:14:26.452774+00:00",
+      "image": "https://deadline.com/wp-content/uploads/2019/09/peacock-1.jpeg",
       "important": false,
       "score": 0
     }
