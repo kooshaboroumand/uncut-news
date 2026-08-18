@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-08-18T12:26:23.721768+00:00",
-  "count": 23,
+  "updated_at": "2026-08-18T13:35:34.424363+00:00",
+  "count": 24,
   "news": [
+    {
+      "id": "3ea545bd15aa",
+      "title": {
+        "en": "‘Toxic’ Season 2, Hosted by Elizabeth Chambers, Sets Investigation Discovery Premiere Date, Unveils First Trailer (EXCLUSIVE)",
+        "fa": "فصل 2 «سمی»، با میزبانی الیزابت چمبرز، تاریخ پخش اولین تریلر را معرفی می‌کند."
+      },
+      "excerpt": {
+        "en": "Season 2 of “Toxic,” the Elizabeth Chambers-hosted true crime series that explores poisonous romantic relationships and the trauma they cause, will premiere on Investigation Discovery on Sept. 15. According to ID’s announcement, the series will continue doing what it does best, following “Chambers as she speaks with survivors of toxic relationships, domestic abuse, and intimate […]",
+        "fa": "فصل 2 «سمی»، سریال جنایی واقعی به میزبانی الیزابت چمبرز که به بررسی روابط عاشقانه سمی و آسیب‌های ناشی از آن می‌پردازد، در «اکتشافات تحقیقاتی» در 15 سپتامبر پخش می‌شود. طبق اعلام ID، سریال پس از «چمبرز در حالی که از رابطه‌های مسموم، خشونت‌آمیز، بدرفتاری‌های خانگی، سوءاستفاده‌های خانگی، و رابطه‌های مسموم با انسان‌ها صحبت می‌کند، به بهترین شکل خود ادامه خواهد داد.»"
+      },
+      "content": {
+        "en": "Season 2 of “Toxic,” the Elizabeth Chambers-hosted true crime series that explores poisonous romantic relationships and the trauma they cause, will premiere on Investigation Discovery on Sept. 15. According to ID’s announcement, the series will continue doing what it does best, following “Chambers as she speaks with survivors of toxic relationships, domestic abuse, and intimate […]",
+        "fa": "فصل 2 «سمی»، سریال جنایی واقعی به میزبانی الیزابت چمبرز که به بررسی روابط عاشقانه سمی و آسیب‌های ناشی از آن می‌پردازد، در «اکتشافات تحقیقاتی» در 15 سپتامبر پخش می‌شود. طبق اعلام ID، سریال پس از «چمبرز در حالی که از رابطه‌های مسموم، خشونت‌آمیز، بدرفتاری‌های خانگی، سوءاستفاده‌های خانگی، و رابطه‌های مسموم با انسان‌ها صحبت می‌کند، به بهترین شکل خود ادامه خواهد داد.»"
+      },
+      "source": {
+        "en": "Variety",
+        "fa": "Variety"
+      },
+      "link": "https://variety.com/2026/tv/news/toxic-season-2-trailer-elizabeth-chambers-id-series-premiere-date-1236834163/",
+      "date": "2026-08-18T13:35:34.226315+00:00",
+      "image": "https://variety.com/wp-content/uploads/2026/08/Toxic-Take2.jpg",
+      "important": true,
+      "score": 10
+    },
     {
       "id": "e61feb00106a",
       "title": {
@@ -21,7 +45,7 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/100-years-of-solitude-finale-cast-trailer-netflix-1237044029/",
-      "date": "2026-08-18T12:26:23.518901+00:00",
+      "date": "2026-08-18T13:35:34.223988+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/100-year-of-solitude.jpg",
       "important": true,
       "score": 7
@@ -45,32 +69,32 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/criticism/shows/lanterns-episode-1-review-hal-jordan-dead-explained-1235210338/",
-      "date": "2026-08-18T12:26:23.534365+00:00",
+      "date": "2026-08-18T13:35:34.233470+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/Lanterns-HBO-series-Kyle-Chandler-as-Hal-Jordan.jpg?w=650",
       "important": true,
       "score": 6
     },
     {
-      "id": "958e635ccdd5",
+      "id": "f7b9bb847f8b",
       "title": {
-        "en": "Lisa Kudrow on Watching ‘Friends’ After Matthew Perry’s Death, ‘Romy & Michele’ Sequel and Why ‘The Comeback’ May Be “Highlight” of Her Career",
-        "fa": "لیزا کودرو درباره تماشای «دوستان» پس از مرگ متیو پری، دنباله «رومی و میشل» و چرا «بازگشت» می‌تواند «برجسته‌ترین» حرفه‌اش باشد"
+        "en": "‘How to Change the World,’ Exec Produced by Mark Cuban, Puts Spotlight on Social Entrepreneurs (Exclusive)",
+        "fa": "«چگونه جهان را تغییر دهیم» به تهیه کنندگی مارک کوبان، کارآفرینان اجتماعی را مورد توجه قرار می دهد"
       },
       "excerpt": {
-        "en": "Twenty-eight years after becoming the first 'Friends' star to win an Emmy, the beloved actress/writer is poised to take home another one — or two — having been nominated for acting and writing on the third and final season of her HBO comedy series.",
-        "fa": "بیست و هشت سال پس از تبدیل شدن به اولین ستاره «دوستان» که برنده جایزه امی شده است، این بازیگر/نویسنده دوست داشتنی آماده است تا یکی دو – یا دو – را که نامزد بازیگری و نویسندگی در فصل سوم و آخر سریال کمدی HBO خود شده است، به خانه ببرد."
+        "en": "The 10-episode series from World Within Studios, in partnership with Religion of Sports, will premiere on YouTube in September and feature such expert voices as former Starbucks CEO Howard Schultz.",
+        "fa": "این مجموعه 10 قسمتی از World Within Studios، با مشارکت Religion of Sports، در ماه سپتامبر در یوتیوب پخش خواهد شد و صداهای متخصصی مانند هاوارد شولتز، مدیر عامل سابق استارباکس را به نمایش می گذارد."
       },
       "content": {
-        "en": "Twenty-eight years after becoming the first 'Friends' star to win an Emmy, the beloved actress/writer is poised to take home another one — or two — having been nominated for acting and writing on the third and final season of her HBO comedy series.",
-        "fa": "بیست و هشت سال پس از تبدیل شدن به اولین ستاره «دوستان» که برنده جایزه امی شده است، این بازیگر/نویسنده دوست داشتنی آماده است تا یکی دو – یا دو – را که نامزد بازیگری و نویسندگی در فصل سوم و آخر سریال کمدی HBO خود شده است، به خانه ببرد."
+        "en": "The 10-episode series from World Within Studios, in partnership with Religion of Sports, will premiere on YouTube in September and feature such expert voices as former Starbucks CEO Howard Schultz.",
+        "fa": "این مجموعه 10 قسمتی از World Within Studios، با مشارکت Religion of Sports، در ماه سپتامبر در یوتیوب پخش خواهد شد و صداهای متخصصی مانند هاوارد شولتز، مدیر عامل سابق استارباکس را به نمایش می گذارد."
       },
       "source": {
         "en": "The Hollywood Reporter",
         "fa": "The Hollywood Reporter"
       },
-      "link": "https://www.hollywoodreporter.com/tv/tv-news/lisa-kudrow-friends-romy-michele-sequel-the-comeback-interview-1236675072/",
-      "date": "2026-08-18T12:26:23.526746+00:00",
-      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/Awards-Chatter-Lisa-Kudrow-Main-2026.jpg?w=1296&#038;h=730&#038;crop=1",
+      "link": "https://www.hollywoodreporter.com/tv/tv-news/how-to-change-the-world-youtube-series-mark-cuban-1236675908/",
+      "date": "2026-08-18T13:35:34.228724+00:00",
+      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2025/06/Mark-Cuban-getty-H-2025.png?w=1296&#038;h=730&#038;crop=1",
       "important": true,
       "score": 6
     },
@@ -93,7 +117,7 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/jon-ronson-things-fell-apart-returns-season-3-bbc-1237042799/",
-      "date": "2026-08-18T12:26:23.520405+00:00",
+      "date": "2026-08-18T13:35:34.225446+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/Things-Fell-Apart.webp",
       "important": true,
       "score": 6
@@ -117,8 +141,32 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/news/trailers/my-brothers-wedding-4k-restoration-trailer-charles-burnett-1235210852/",
-      "date": "2026-08-18T12:26:23.532401+00:00",
+      "date": "2026-08-18T13:35:34.232511+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/MyBrothersWedding.jpg?w=650",
+      "important": true,
+      "score": 4
+    },
+    {
+      "id": "a3d97c0bd56d",
+      "title": {
+        "en": "Snips Partners With Banijay Rights and BIG Media to Turn Library Titles Like ‘Big Brother’ and ‘Humans’ Into Short-Form, Vertical Episodes (EXCLUSIVE)",
+        "fa": "برای تبدیل عناوین کتابخانه‌ای مانند «برادر بزرگ» و «انسان‌ها» به اپیزودهای عمودی و کوتاه، با حقوق بانیجی و رسانه‌های بزرگ شریک می‌شود."
+      },
+      "excerpt": {
+        "en": "Digital startup Snips — which mines TV and film libraries to turn existing content into short-form, vertical (or “microseries”) fare — has sealed new deals with Banijay Rights and BIG Media to adapt some of their series and movies into minute-long episodes. Banijay Rights is the global distribution arm of Banijay Entertainment (“Big Brother,” “MasterChef”), […]",
+        "fa": "استارت‌آپ دیجیتال Snips - که کتابخانه‌های تلویزیونی و فیلم را استخراج می‌کند تا محتوای موجود را به شکل کوتاه و عمودی تبدیل کند - قراردادهای جدیدی را با Banijay Rights و BIG Media بسته است تا برخی از سریال‌ها و فیلم‌های آنها را در قسمت‌های یک دقیقه‌ای اقتباس کند. Banijay Rights بازوی توزیع جهانی Banijay Entertainment است."
+      },
+      "content": {
+        "en": "Digital startup Snips — which mines TV and film libraries to turn existing content into short-form, vertical (or “microseries”) fare — has sealed new deals with Banijay Rights and BIG Media to adapt some of their series and movies into minute-long episodes. Banijay Rights is the global distribution arm of Banijay Entertainment (“Big Brother,” “MasterChef”), […]",
+        "fa": "استارت‌آپ دیجیتال Snips - که کتابخانه‌های تلویزیونی و فیلم را استخراج می‌کند تا محتوای موجود را به شکل کوتاه و عمودی تبدیل کند - قراردادهای جدیدی را با Banijay Rights و BIG Media بسته است تا برخی از سریال‌ها و فیلم‌های آنها را در قسمت‌های یک دقیقه‌ای اقتباس کند. Banijay Rights بازوی توزیع جهانی Banijay Entertainment است."
+      },
+      "source": {
+        "en": "Variety",
+        "fa": "Variety"
+      },
+      "link": "https://variety.com/2026/tv/news/snips-banijay-rights-big-media-vertical-episodes-1236836812/",
+      "date": "2026-08-18T13:35:34.227083+00:00",
+      "image": "https://variety.com/wp-content/uploads/2026/08/Snips.jpg",
       "important": true,
       "score": 4
     },
@@ -141,7 +189,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/criticism/shows/its-always-sunny-in-philadelphia-season-18-for-the-sickos-1235210525/",
-      "date": "2026-08-18T12:26:23.534169+00:00",
+      "date": "2026-08-18T13:35:34.233385+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/Its-Always-Sunny-in-Philadelphia-Season-18-Frank-Dennis-corpse.jpg?w=650",
       "important": false,
       "score": 3
@@ -165,128 +213,80 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/news/business/netflix-names-katie-martin-kelley-vp-communications-film-1235210788/",
-      "date": "2026-08-18T12:26:23.533081+00:00",
+      "date": "2026-08-18T13:35:34.232843+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2021/02/NetflixBuilding219802.jpg?w=650",
       "important": false,
       "score": 3
     },
     {
-      "id": "d5a0098c1e23",
+      "id": "f80332aeb9bc",
       "title": {
-        "en": "Witney Carson Answers Burning ‘DWTS’ Questions After Pregnancy Announcement, Chats ‘Next Pro’",
-        "fa": "ویتنی کارسون پس از اعلام بارداری به سوالات سوزاندن \"DWTS\" پاسخ می دهد، چت \"Pro بعدی\""
+        "en": "‘Spider-Man’ Windfall: Tom Holland to Make Over $100 Million for ‘Brand New Day’ | Exclusive",
+        "fa": "«مرد عنکبوتی» Windfall: تام هالند برای «روز کاملاً جدید» بیش از 100 میلیون دلار درآمد خواهد داشت | انحصاری"
       },
       "excerpt": {
-        "en": "The pro dancer revealed on Monday morning that she is pregnant and returning for season 35. In conversation with THR, she details her plans for navigating her pregnancy while competing and why she surprisingly loved guest judging on the dancing spinoff.",
-        "fa": "این رقصنده حرفه ای صبح دوشنبه فاش کرد که باردار است و برای فصل 35 بازگشته است. او در گفتگو با THR، برنامه های خود را برای هدایت دوران بارداری خود در حین رقابت و اینکه چرا به طور شگفت انگیزی دوست داشت مهمان در مورد اسپین آف رقصنده قضاوت کند، توضیح می دهد."
+        "en": "The 30-year-old actor will pull in a massive payday as the movie soars past $2 billion The post ‘Spider-Man’ Windfall: Tom Holland to Make Over $100 Million for ‘Brand New Day’ | Exclusive appeared first on TheWrap .",
+        "fa": "این بازیگر 30 ساله با افزایش بیش از 2 میلیارد دلاری فیلم، دستمزد هنگفتی خواهد گرفت."
       },
       "content": {
-        "en": "The pro dancer revealed on Monday morning that she is pregnant and returning for season 35. In conversation with THR, she details her plans for navigating her pregnancy while competing and why she surprisingly loved guest judging on the dancing spinoff.",
-        "fa": "این رقصنده حرفه ای صبح دوشنبه فاش کرد که باردار است و برای فصل 35 بازگشته است. او در گفتگو با THR، برنامه های خود را برای هدایت دوران بارداری خود در حین رقابت و اینکه چرا به طور شگفت انگیزی دوست داشت مهمان در مورد اسپین آف رقصنده قضاوت کند، توضیح می دهد."
+        "en": "The 30-year-old actor will pull in a massive payday as the movie soars past $2 billion The post ‘Spider-Man’ Windfall: Tom Holland to Make Over $100 Million for ‘Brand New Day’ | Exclusive appeared first on TheWrap .",
+        "fa": "این بازیگر 30 ساله با افزایش بیش از 2 میلیارد دلاری فیلم، دستمزد هنگفتی خواهد گرفت."
       },
       "source": {
-        "en": "The Hollywood Reporter",
-        "fa": "The Hollywood Reporter"
+        "en": "The Wrap",
+        "fa": "The Wrap"
       },
-      "link": "https://www.hollywoodreporter.com/tv/tv-features/witney-carson-dwts-pregnancy-next-pro-interview-1236674489/",
-      "date": "2026-08-18T12:26:23.527191+00:00",
-      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/181638_1200-e1786837916887.jpg?w=1440&#038;h=810&#038;crop=1",
+      "link": "https://www.thewrap.com/creative-content/movies/tom-holland-spider-man-brand-new-day-salary-box-office-bonus/",
+      "date": "2026-08-18T13:35:34.230489+00:00",
+      "image": "https://www.thewrap.com/wp-content/uploads/2026/08/081026-Spiderman.gif?width=1024&height=576&fit=bounds",
       "important": false,
       "score": 3
     },
     {
-      "id": "9feebb54130f",
+      "id": "0d4eceb16eee",
       "title": {
-        "en": "Sundance Breakout ‘Thelma’ Set for Mandarin Remake by Stars Collective, Titled ‘Grandma, Please’ (EXCLUSIVE)",
-        "fa": "مجموعه Sundance Breakout \"Thelma\" برای بازسازی ماندارین توسط Stars Collective، با عنوان \"Grandma, Please\""
+        "en": "Oasis Documentary Trailer Takes Fans Behind the Scenes of Band’s Dramatic Reunion: ‘Will It Fall Apart Again?’",
+        "fa": "تریلر مستند Oasis طرفداران را به پشت صحنه نشست دراماتیک گروه می برد: \"آیا دوباره از هم می پاشد؟\""
       },
       "excerpt": {
-        "en": "Stars Collective has acquired the Mandarin-language remake rights to “Thelma,” the 2024 Sundance Film Festival breakout that became Magnolia Pictures’ highest-grossing narrative feature, and is developing an adaptation titled “Grandma, Please.” In “Grandma, Please,” an 80-year-old grandmother is swindled out of her life savings by a scammer who uses AI to clone her late husband’s […]",
-        "fa": "استارز کالکتیو حقوق بازسازی به زبان ماندارین را برای «تلما»، جشنواره فیلم ساندنس 2024 که به پردرآمدترین فیلم روایی Magnolia Pictures تبدیل شد، به دست آورد و در حال توسعه یک اقتباس با عنوان «بزرگ، لطفاً» است. در «مادربزرگ، لطفاً»، یک مادربزرگ 80 ساله توسط یک کلاهبردار که از هوش مصنوعی برای شبیه‌سازی همسر مرحومش استفاده می‌کند، از پس‌انداز زندگی‌اش کلاهبرداری می‌کند."
+        "en": "The Gallagher brothers get reflective, philosophical and, less unexpectedly, foul-mouthed in the first trailer for Oasis documentary “Oasis: Don’t Look Back in Anger.” “The way it finished … unacceptable … it didn’t sit right with me,” says Liam Gallagher in the opening moments. “I just don’t see myself with Liam,” adds Noel Gallagher. “I don’t […]",
+        "fa": "برادران گالاگر در اولین تریلر مستند Oasis \"Oasis: Don't Look Back in Anger\" (واحه: با عصبانیت به عقب نگاه نکن) تامل‌کننده، فلسفی و کمتر غیرمنتظره‌ای بددهنی می‌شوند. لیام گالاگر در لحظات ابتدایی می‌گوید: «همانطور که به پایان رسید... غیرقابل قبول بود... برای من مناسب نبود. نوئل گالاگر می افزاید: «من خودم را با لیام نمی بینم. \"من نه"
       },
       "content": {
-        "en": "Stars Collective has acquired the Mandarin-language remake rights to “Thelma,” the 2024 Sundance Film Festival breakout that became Magnolia Pictures’ highest-grossing narrative feature, and is developing an adaptation titled “Grandma, Please.” In “Grandma, Please,” an 80-year-old grandmother is swindled out of her life savings by a scammer who uses AI to clone her late husband’s […]",
-        "fa": "استارز کالکتیو حقوق بازسازی به زبان ماندارین را برای «تلما»، جشنواره فیلم ساندنس 2024 که به پردرآمدترین فیلم روایی Magnolia Pictures تبدیل شد، به دست آورد و در حال توسعه یک اقتباس با عنوان «بزرگ، لطفاً» است. در «مادربزرگ، لطفاً»، یک مادربزرگ 80 ساله توسط یک کلاهبردار که از هوش مصنوعی برای شبیه‌سازی همسر مرحومش استفاده می‌کند، از پس‌انداز زندگی‌اش کلاهبرداری می‌کند."
-      },
-      "source": {
-        "en": "Variety",
-        "fa": "Variety"
-      },
-      "link": "https://variety.com/2026/film/news/sundance-hit-thelma-mandarin-remake-stars-collective-1236836962/",
-      "date": "2026-08-18T12:26:23.523814+00:00",
-      "image": "https://variety.com/wp-content/uploads/2024/01/Thelma-June-Squibb-Fred-Hechinger.jpeg",
-      "important": false,
-      "score": 3
-    },
-    {
-      "id": "5803f912e527",
-      "title": {
-        "en": "Croatian Crime Drama ‘Red Water,’ Directed by Cannes Prizewinner Antoneta Alamat Kusijanovic, to Be Co-Produced by ZDF/Arte, Beta Film (EXCLUSIVE)",
-        "fa": "درام جنایی کرواسی «آب سرخ» به کارگردانی برنده جایزه کن آنتونتا آلامات کوسیجانوویچ، محصول مشترک ZDF/Arte، بتا فیلم خواهد بود."
-      },
-      "excerpt": {
-        "en": "Beta Film has teamed up with ZDF/Arte and Antitalent to co-produce the Croatian crime drama “Red Water,” winner of the 2025 Council of Europe Series Co-Production Development Award at the Sarajevo Film Festival’s CineLink Industry Days. “Red Water,” a six-hour series, is based on Jurica Pavičić’s bestselling novel of the same name, which ranked among […]",
-        "fa": "بتا فیلم با ZDF/Arte و Antitalent همکاری کرده تا درام جنایی کرواسی \"Red Water\" را که برنده جایزه توسعه تولید مشترک سری شورای اروپا در سال 2025 در روزهای صنعت CineLink جشنواره فیلم سارایوو شده است، تهیه کنند. سریال شش ساعته «آب سرخ» بر اساس رمان پرفروش یوریکا پاویچیچ به همین نام ساخته شده است."
-      },
-      "content": {
-        "en": "Beta Film has teamed up with ZDF/Arte and Antitalent to co-produce the Croatian crime drama “Red Water,” winner of the 2025 Council of Europe Series Co-Production Development Award at the Sarajevo Film Festival’s CineLink Industry Days. “Red Water,” a six-hour series, is based on Jurica Pavičić’s bestselling novel of the same name, which ranked among […]",
-        "fa": "بتا فیلم با ZDF/Arte و Antitalent همکاری کرده تا درام جنایی کرواسی \"Red Water\" را که برنده جایزه توسعه تولید مشترک سری شورای اروپا در سال 2025 در روزهای صنعت CineLink جشنواره فیلم سارایوو شده است، تهیه کنند. سریال شش ساعته «آب سرخ» بر اساس رمان پرفروش یوریکا پاویچیچ به همین نام ساخته شده است."
+        "en": "The Gallagher brothers get reflective, philosophical and, less unexpectedly, foul-mouthed in the first trailer for Oasis documentary “Oasis: Don’t Look Back in Anger.” “The way it finished … unacceptable … it didn’t sit right with me,” says Liam Gallagher in the opening moments. “I just don’t see myself with Liam,” adds Noel Gallagher. “I don’t […]",
+        "fa": "برادران گالاگر در اولین تریلر مستند Oasis \"Oasis: Don't Look Back in Anger\" (واحه: با عصبانیت به عقب نگاه نکن) تامل‌کننده، فلسفی و کمتر غیرمنتظره‌ای بددهنی می‌شوند. لیام گالاگر در لحظات ابتدایی می‌گوید: «همانطور که به پایان رسید... غیرقابل قبول بود... برای من مناسب نبود. نوئل گالاگر می افزاید: «من خودم را با لیام نمی بینم. \"من نه"
       },
       "source": {
         "en": "Variety",
         "fa": "Variety"
       },
-      "link": "https://variety.com/2026/tv/global/red-water-antoneta-alamat-kusijanovic-zdf-arte-beta-film-1236836971/",
-      "date": "2026-08-18T12:26:23.523486+00:00",
-      "image": "https://variety.com/wp-content/uploads/2026/08/Red-Water-2.jpg",
+      "link": "https://variety.com/2026/film/global/oasis-documentary-trailer-dont-look-back-in-anger-1236837083/",
+      "date": "2026-08-18T13:35:34.226204+00:00",
+      "image": "https://variety.com/wp-content/uploads/2026/08/oasis-doc.jpg",
       "important": false,
-      "score": 3
+      "score": 1
     },
     {
-      "id": "ae5b95823265",
+      "id": "d9aae16eb1da",
       "title": {
-        "en": "Before She Hosts Primetime Emmy Awards, Mariska Hargitay Goes For Gold With Triple Nominee ‘My Mom Jayne’",
-        "fa": "ماریسکا هارگیتی قبل از اینکه میزبان جوایز امی پرایم تایم باشد، با نامزد سه گانه «مامان جین من» به دنبال طلاست."
+        "en": "‘Spider-Man: Brand New Day’ Becomes Second-Fastest To Cross $2B WW – Global Top 10 Box Office Update",
+        "fa": "‘Spider-Man: Brand New Day’ Becomes Second-Fastest To Cross $2B WW – Global Top 10 Box Office Update"
       },
       "excerpt": {
-        "en": "As Mariska Hargitay reflects on the past year in her life – a momentous one for the actress and filmmaker – a word comes to her mind to describe it: “cathartic.” She completed her 27th season starring as Capt. Olivia Benson on Law & Order: SVU and in May made her Broadway debut in the […]",
-        "fa": "همانطور که ماریسکا هارگیتای در مورد یک سال گذشته در زندگی خود فکر می کند - سالی مهم برای این بازیگر و فیلمساز - کلمه ای برای توصیف آن به ذهنش خطور می کند: \"مطمئن کننده\". او بیست و هفتمین فصل خود را با بازی در نقش کاپیتان اولیویا بنسون در قانون و نظم: SVU به پایان رساند و در ماه مه اولین بازی خود را در برادوی انجام داد."
+        "en": "Monday Update: Holy cow! Or whatever kind of Holy is yelled out in a comic book, but Sony/Marvel Studio’s Spider-Man: Brand New Day crossed the $2 billion global mark, becoming the second-fastest movie to do so and the eighth movie to ever cross that benchmark. Brand New Day pulls off this feat in 17 days […]",
+        "fa": "به روز رسانی دوشنبه: گاو مقدس! یا هر نوع مقدسی که در یک کتاب کمیک فریاد می‌زند، اما Spider-Man: Brand New Day محصول سونی/مارول استودیو از مرز ۲ میلیارد دلار عبور کرد و تبدیل به دومین فیلم سریع‌تر و هشتمین فیلمی شد که از این معیار عبور کرد. روز کاملاً جدید این شاهکار را در 17 روز انجام می دهد"
       },
       "content": {
-        "en": "As Mariska Hargitay reflects on the past year in her life – a momentous one for the actress and filmmaker – a word comes to her mind to describe it: “cathartic.” She completed her 27th season starring as Capt. Olivia Benson on Law & Order: SVU and in May made her Broadway debut in the […]",
-        "fa": "همانطور که ماریسکا هارگیتای در مورد یک سال گذشته در زندگی خود فکر می کند - سالی مهم برای این بازیگر و فیلمساز - کلمه ای برای توصیف آن به ذهنش خطور می کند: \"مطمئن کننده\". او بیست و هفتمین فصل خود را با بازی در نقش کاپیتان اولیویا بنسون در قانون و نظم: SVU به پایان رساند و در ماه مه اولین بازی خود را در برادوی انجام داد."
+        "en": "Monday Update: Holy cow! Or whatever kind of Holy is yelled out in a comic book, but Sony/Marvel Studio’s Spider-Man: Brand New Day crossed the $2 billion global mark, becoming the second-fastest movie to do so and the eighth movie to ever cross that benchmark. Brand New Day pulls off this feat in 17 days […]",
+        "fa": "به روز رسانی دوشنبه: گاو مقدس! یا هر نوع مقدسی که در یک کتاب کمیک فریاد می‌زند، اما Spider-Man: Brand New Day محصول سونی/مارول استودیو از مرز ۲ میلیارد دلار عبور کرد و تبدیل به دومین فیلم سریع‌تر و هشتمین فیلمی شد که از این معیار عبور کرد. روز کاملاً جدید این شاهکار را در 17 روز انجام می دهد"
       },
       "source": {
         "en": "Deadline",
         "fa": "Deadline"
       },
-      "link": "https://deadline.com/2026/08/mariska-hargitay-interview-my-mom-jayne-1237043627/",
-      "date": "2026-08-18T12:26:23.521222+00:00",
-      "image": "https://deadline.com/wp-content/uploads/2025/12/My-Mom-Jayne-02.jpeg",
-      "important": false,
-      "score": 3
-    },
-    {
-      "id": "7413d2c9085b",
-      "title": {
-        "en": "‘Spider-Man: Brand New Day,’ ‘The Odyssey’ Continue Tussle Atop U.K., Ireland Box Office",
-        "fa": "«Spider-Man: Brand New Day»، «The Odyssey» Continue Tussle Atop U.K., Ireland Box Office"
-      },
-      "excerpt": {
-        "en": "Sony’s superhero tentpole “Spider-Man: Brand New Day” dominated the U.K. and Ireland box office for a third consecutive weekend, adding £6.1 million ($8.3 million), elevating its running total to $106.5 million after 20 days of release. Universal’s epic “The Odyssey” held onto second place in its fifth frame. Directed by Christopher Nolan, the wide release […]",
-        "fa": "فیلم ابرقهرمانی سونی، «مرد عنکبوتی: روز کاملاً جدید» برای سومین آخر هفته متوالی بر باکس آفیس بریتانیا و ایرلند تسلط یافت و 6.1 میلیون پوند اضافه کرد و مجموع فروش خود را پس از 20 روز اکران به 106.5 میلیون دلار رساند. حماسه یونیورسال \"اودیسه\" در قاب پنجم خود در جایگاه دوم قرار گرفت. به کارگردانی کریستوفر نولان، اکران گسترده"
-      },
-      "content": {
-        "en": "Sony’s superhero tentpole “Spider-Man: Brand New Day” dominated the U.K. and Ireland box office for a third consecutive weekend, adding £6.1 million ($8.3 million), elevating its running total to $106.5 million after 20 days of release. Universal’s epic “The Odyssey” held onto second place in its fifth frame. Directed by Christopher Nolan, the wide release […]",
-        "fa": "فیلم ابرقهرمانی سونی، «مرد عنکبوتی: روز کاملاً جدید» برای سومین آخر هفته متوالی بر باکس آفیس بریتانیا و ایرلند تسلط یافت و 6.1 میلیون پوند اضافه کرد و مجموع فروش خود را پس از 20 روز اکران به 106.5 میلیون دلار رساند. حماسه یونیورسال \"اودیسه\" در قاب پنجم خود در جایگاه دوم قرار گرفت. به کارگردانی کریستوفر نولان، اکران گسترده"
-      },
-      "source": {
-        "en": "Variety",
-        "fa": "Variety"
-      },
-      "link": "https://variety.com/2026/film/box-office/spider-man-brand-new-day-the-odyssey-continue-tussle-uk-ireland-box-office-1236836944/",
-      "date": "2026-08-18T12:26:23.523995+00:00",
-      "image": "https://variety.com/wp-content/uploads/2026/08/Spider-Man-Odyssey.jpg",
+      "link": "https://deadline.com/2026/08/box-office-global-spider-man-brand-new-day-2-1237042050/",
+      "date": "2026-08-18T13:35:34.226071+00:00",
+      "image": "https://deadline.com/wp-content/uploads/2026/08/MCDSPMA_SP129.jpg",
       "important": false,
       "score": 1
     },
@@ -309,7 +309,7 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/ministry-of-time-casts-aoife-hinds-billy-howle-bbc-a24-1237044013/",
-      "date": "2026-08-18T12:26:23.519399+00:00",
+      "date": "2026-08-18T13:35:34.224446+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/Aoife-Hinds-and-Billy-Howle.jpg",
       "important": false,
       "score": 1
@@ -333,32 +333,32 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/criticism/movies/dreams-in-nightmares-review-shatara-michelle-ford-1235030591/",
-      "date": "2026-08-18T12:26:23.533499+00:00",
+      "date": "2026-08-18T13:35:34.233042+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2024/07/DIN_5.jpg?w=650",
       "important": false,
       "score": 0
     },
     {
-      "id": "88b43e0d1527",
+      "id": "8d74e9442548",
       "title": {
-        "en": "Lionsgate Taps David F. Sandberg to Direct Horror Movie ‘Mommy’s Home’",
-        "fa": "لاینزگیت از دیوید اف سندبرگ برای کارگردانی فیلم ترسناک «خانه مادری» استفاده می کند."
+        "en": "‘The Devils’: Everything You Need to Know About the Unlikely Restoration of Ken Russell’s Scandalous, Sexually Charged Film",
+        "fa": "«شیاطین»: هر آنچه که باید در مورد بازسازی غیرمحتمل فیلم رسوایی کن راسل و اتهامات جنسی بدانید"
       },
       "excerpt": {
-        "en": "“David’s mastery of horror and off-kilter sense of humor make him the perfect match for this material,\" Erin Westerman, the studio's president, says The post Lionsgate Taps David F. Sandberg to Direct Horror Movie ‘Mommy’s Home’ appeared first on TheWrap .",
-        "fa": "ارین وسترمن، رئیس استودیو، می‌گوید: «تسلط دیوید بر ترس و شوخ طبعی، او را به بهترین وجه برای این مواد تبدیل کرده است."
+        "en": "15 years after Russell's death, the director's cut of his notorious and censored epic is one of 2026's most anticipated releases",
+        "fa": "15 سال پس از مرگ راسل، برش کارگردان از حماسه بدنام و سانسور شده او یکی از موردانتظارترین اکران های سال 2026 است."
       },
       "content": {
-        "en": "“David’s mastery of horror and off-kilter sense of humor make him the perfect match for this material,\" Erin Westerman, the studio's president, says The post Lionsgate Taps David F. Sandberg to Direct Horror Movie ‘Mommy’s Home’ appeared first on TheWrap .",
-        "fa": "ارین وسترمن، رئیس استودیو، می‌گوید: «تسلط دیوید بر ترس و شوخ طبعی، او را به بهترین وجه برای این مواد تبدیل کرده است."
+        "en": "15 years after Russell's death, the director's cut of his notorious and censored epic is one of 2026's most anticipated releases",
+        "fa": "15 سال پس از مرگ راسل، برش کارگردان از حماسه بدنام و سانسور شده او یکی از موردانتظارترین اکران های سال 2026 است."
       },
       "source": {
-        "en": "The Wrap",
-        "fa": "The Wrap"
+        "en": "IndieWire",
+        "fa": "IndieWire"
       },
-      "link": "https://www.thewrap.com/creative-content/movies/david-f-sandberg-to-direct-horror-movie-mommys-home-lionsgate/",
-      "date": "2026-08-18T12:26:23.529607+00:00",
-      "image": "https://www.thewrap.com/wp-content/uploads/2026/08/Untitled-design-2026-08-17T181923.591.jpg",
+      "link": "https://www.indiewire.com/news/general-news/the-devils-ken-russell-directors-cut-explained-censored-nuns-sex-1235210957/",
+      "date": "2026-08-18T13:35:34.231928+00:00",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/08/Ken-Russells-The-Devils.jpeg?w=650",
       "important": false,
       "score": 0
     },
@@ -381,8 +381,32 @@
         "fa": "The Wrap"
       },
       "link": "https://www.thewrap.com/media-platforms/tv/streaming-broadcast-cable-tv-viewership-nielsen-gauge-june-2026/",
-      "date": "2026-08-18T12:26:23.527475+00:00",
+      "date": "2026-08-18T13:35:34.230800+00:00",
       "image": "https://www.thewrap.com/wp-content/uploads/2026/07/GettyImages-2286805736-1-e1784571493563.jpg",
+      "important": false,
+      "score": 0
+    },
+    {
+      "id": "d07412e1df5c",
+      "title": {
+        "en": "Why Alex Cooper Left UTA for CAA",
+        "fa": "چرا الکس کوپر UTA را برای CAA ترک کرد؟"
+      },
+      "excerpt": {
+        "en": "The Unwell entrepreneur and podcast host abruptly switched agencies amidst an investment windfall and a series of scandals The post Why Alex Cooper Left UTA for CAA appeared first on TheWrap .",
+        "fa": "کارآفرین ناخوشایند و میزبان پادکست به طور ناگهانی آژانس را در میان یک سرمایه گذاری بادآورده و یک سری رسوایی تغییر داد."
+      },
+      "content": {
+        "en": "The Unwell entrepreneur and podcast host abruptly switched agencies amidst an investment windfall and a series of scandals The post Why Alex Cooper Left UTA for CAA appeared first on TheWrap .",
+        "fa": "کارآفرین ناخوشایند و میزبان پادکست به طور ناگهانی آژانس را در میان یک سرمایه گذاری بادآورده و یک سری رسوایی تغییر داد."
+      },
+      "source": {
+        "en": "The Wrap",
+        "fa": "The Wrap"
+      },
+      "link": "https://www.thewrap.com/industry-news/business/why-alex-cooper-left-uta-for-caa/",
+      "date": "2026-08-18T13:35:34.229969+00:00",
+      "image": "https://www.thewrap.com/wp-content/uploads/2026/08/GettyImages-2276122370.jpg",
       "important": false,
       "score": 0
     },
@@ -405,56 +429,32 @@
         "fa": "The Hollywood Reporter"
       },
       "link": "https://www.hollywoodreporter.com/movies/movie-features/asghar-farhadi-director-film-war-iran-sarajevo-interview-1236675940/",
-      "date": "2026-08-18T12:26:23.524935+00:00",
+      "date": "2026-08-18T13:35:34.229132+00:00",
       "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/FotoJet-2026-08-18T125500.601.jpg?w=1440&#038;h=810&#038;crop=1",
       "important": false,
       "score": 0
     },
     {
-      "id": "72225f0d8f5a",
+      "id": "a01a5b68240d",
       "title": {
-        "en": "Diego Luna on Challenging How Migrants Are Viewed With ‘Ashes’: ‘We’re Not Thinking About What They Left Behind’",
-        "fa": "دیگو لونا درباره به چالش کشیدن نحوه نگاه کردن به مهاجران با «خاکستر»: «ما به آنچه که آنها پشت سر گذاشتند فکر نمی کنیم»"
+        "en": "Peacock Reveals Another Price Hike After NBCU Streamer’s First Profitable Quarter",
+        "fa": "Peacock پس از اولین سه ماهه سودآور NBCU Streamer یک افزایش قیمت دیگر را فاش کرد"
       },
       "excerpt": {
-        "en": "Between conducting a masterclass and attending an open-air screening of his fourth directorial feature, “Ashes,” Diego Luna dropped by the Variety Lounge presented by the Sarajevo Film Festival and BH Telecom to chat about his first time in the Bosnian capital. The Mexican actor-director-producer, who broke out in Alfonso Cuaron’s “Y Tu Mama Tambien” and […]",
-        "fa": "دیگو لونا بین برگزاری یک مسترکلاس و شرکت در نمایش فضای باز چهارمین فیلم کارگردانی خود، «خاکستر»، از سالن Variety Lounge که توسط جشنواره فیلم سارایوو و BH Telecom ارائه شده بود رفت تا درباره اولین حضورش در پایتخت بوسنی گپ بزند. بازیگر، کارگردان و تهیه کننده مکزیکی که در فیلم «Y Tu Mama Tambien» آلفونسو کوارون نقش آفرینی کرد و"
+        "en": "Subscription rates for new and returning customers are on the way up, again, after the studio's marquee streaming platform recently posted its first quarterly profit.",
+        "fa": "پس از اینکه پلتفرم استریم خیمه شب بازی استودیو اخیرا اولین سود سه ماهه خود را منتشر کرد، نرخ اشتراک برای مشتریان جدید و بازگشتی دوباره در راه است."
       },
       "content": {
-        "en": "Between conducting a masterclass and attending an open-air screening of his fourth directorial feature, “Ashes,” Diego Luna dropped by the Variety Lounge presented by the Sarajevo Film Festival and BH Telecom to chat about his first time in the Bosnian capital. The Mexican actor-director-producer, who broke out in Alfonso Cuaron’s “Y Tu Mama Tambien” and […]",
-        "fa": "دیگو لونا بین برگزاری یک مسترکلاس و شرکت در نمایش فضای باز چهارمین فیلم کارگردانی خود، «خاکستر»، از سالن Variety Lounge که توسط جشنواره فیلم سارایوو و BH Telecom ارائه شده بود رفت تا درباره اولین حضورش در پایتخت بوسنی گپ بزند. بازیگر، کارگردان و تهیه کننده مکزیکی که در فیلم «Y Tu Mama Tambien» آلفونسو کوارون نقش آفرینی کرد و"
+        "en": "Subscription rates for new and returning customers are on the way up, again, after the studio's marquee streaming platform recently posted its first quarterly profit.",
+        "fa": "پس از اینکه پلتفرم استریم خیمه شب بازی استودیو اخیرا اولین سود سه ماهه خود را منتشر کرد، نرخ اشتراک برای مشتریان جدید و بازگشتی دوباره در راه است."
       },
       "source": {
-        "en": "Variety",
-        "fa": "Variety"
+        "en": "The Hollywood Reporter",
+        "fa": "The Hollywood Reporter"
       },
-      "link": "https://variety.com/2026/film/global/diego-luna-ashes-sarajevo-1236836130/",
-      "date": "2026-08-18T12:26:23.522811+00:00",
-      "image": "https://variety.com/wp-content/uploads/2026/08/Diego-Luna-and-Beatrice.jpg",
-      "important": false,
-      "score": 0
-    },
-    {
-      "id": "01c93628384e",
-      "title": {
-        "en": "Oscars: Taiwan Selects ‘A Foggy Tale’ for International Feature Race",
-        "fa": "اسکار: تایوان \"داستان مه آلود\" را برای مسابقه بین المللی فیلم انتخاب می کند"
-      },
-      "excerpt": {
-        "en": "“A Foggy Tale,” directed by Chen Yu-hsun, has been selected to represent Taiwan in the best international feature film category at the 99th Academy Awards, Taiwan’s Ministry of Culture has revealed. The film was chosen from seven domestic submissions by majority vote. The selection committee praised the film for its “vivid characters, smooth narrative and […]",
-        "fa": "وزارت فرهنگ تایوان فاش کرد که \"داستان مه آلود\" به کارگردانی چن یو هسون به عنوان نماینده تایوان در بخش بهترین فیلم بلند بین المللی در نود و نهمین دوره جوایز اسکار انتخاب شده است. این فیلم از بین هفت فیلم ارسالی داخلی با اکثریت آرا انتخاب شد. کمیته انتخاب فیلم را به خاطر «شخصیت های زنده، روایت روان و"
-      },
-      "content": {
-        "en": "“A Foggy Tale,” directed by Chen Yu-hsun, has been selected to represent Taiwan in the best international feature film category at the 99th Academy Awards, Taiwan’s Ministry of Culture has revealed. The film was chosen from seven domestic submissions by majority vote. The selection committee praised the film for its “vivid characters, smooth narrative and […]",
-        "fa": "وزارت فرهنگ تایوان فاش کرد که \"داستان مه آلود\" به کارگردانی چن یو هسون به عنوان نماینده تایوان در بخش بهترین فیلم بلند بین المللی در نود و نهمین دوره جوایز اسکار انتخاب شده است. این فیلم از بین هفت فیلم ارسالی داخلی با اکثریت آرا انتخاب شد. کمیته انتخاب فیلم را به خاطر «شخصیت های زنده، روایت روان و"
-      },
-      "source": {
-        "en": "Variety",
-        "fa": "Variety"
-      },
-      "link": "https://variety.com/2026/film/awards/oscars-taiwan-a-foggy-tale-international-feature-1236837005/",
-      "date": "2026-08-18T12:26:23.522486+00:00",
-      "image": "https://variety.com/wp-content/uploads/2025/10/A-Foggy-Tale.jpg",
+      "link": "https://www.hollywoodreporter.com/business/business-news/peacock-price-hike-nbcuniversal-2-1236675963/",
+      "date": "2026-08-18T13:35:34.228632+00:00",
+      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/14FEA-Reality-Love-Island-USA-Embed-2026.jpg?w=1047&#038;h=698&#038;crop=1",
       "important": false,
       "score": 0
     },
@@ -462,7 +462,7 @@
       "id": "cdff6d433a32",
       "title": {
         "en": "Peacock Raises Prices Across All Plans, NBCU’s Fourth Increase in Four Years",
-        "fa": "Peacock قیمت ها را در همه برنامه ها افزایش می دهد، چهارمین افزایش NBCU در چهار سال گذشته"
+        "fa": "Peacock Raises Prices Across All Plans, NBCU’s Fourth Increase in Four Years"
       },
       "excerpt": {
         "en": "NBCUniversal’s Peacock just turned profitable for the first time. And now the company is raising prices for all customers, marking the streamer’s fourth fee increase in four years. Starting Aug. 18, Peacock will increase its prices for new and returning customers, and on or after Sept. 17 for current customers (depending on their next billing […]",
@@ -477,7 +477,7 @@
         "fa": "Variety"
       },
       "link": "https://variety.com/2026/tv/news/peacock-raises-prices-fourth-time-in-four-years-1236837016/",
-      "date": "2026-08-18T12:26:23.521856+00:00",
+      "date": "2026-08-18T13:35:34.227906+00:00",
       "image": "https://variety.com/wp-content/uploads/2026/08/Love-Island-USA-Season-8.png",
       "important": false,
       "score": 0
@@ -501,32 +501,32 @@
         "fa": "Variety"
       },
       "link": "https://variety.com/2026/tv/news/abc-first-amendment-lawsuit-fcc-1236837028/",
-      "date": "2026-08-18T12:26:23.521573+00:00",
-      "image": "https://variety.com/wp-content/uploads/2019/03/disney-fox-takeover-placeholder.jpg",
+      "date": "2026-08-18T13:35:34.227640+00:00",
+      "image": "https://variety.com/wp-content/uploads/2026/08/ABC-Sues-FCC-First-Amendment.jpg",
       "important": false,
       "score": 0
     },
     {
-      "id": "52b7dcc28214",
+      "id": "bb1fe069f46b",
       "title": {
-        "en": "Kevin Macdonald On Capturing Pep Guardiola For Prime Video’s ‘A Beautiful Obsession’: “Like Having Robert De Niro Play A Football Coach”",
-        "fa": "کوین مک‌دونالد در مورد جذب پپ گواردیولا برای فیلم «A Beautiful Obsession» در Prime Video: «مثل اینکه رابرت دنیرو یک مربی فوتبال بازی کند»"
+        "en": "Edinburgh Film Festival Competition Directors on the Craziest, Most Challenging Moments Making Their First Features and Why They Can’t Wait to Do It Again: ‘It’s an Addiction’",
+        "fa": "کارگردانان مسابقه جشنواره فیلم ادینبورگ در مورد دیوانه‌ترین، چالش‌برانگیزترین لحظه‌ها که اولین ویژگی‌هایشان را می‌سازند و چرا نمی‌توانند صبر کنند تا دوباره آن را انجام دهند: \"این یک اعتیاد است\""
       },
       "excerpt": {
-        "en": "“Pep playing himself is a bit like having Robert De Niro play a football coach.” Those are the musings of Oscar-winning director Kevin Macdonald, who has just spent two years charting the exploits of Pep Guardiola and Manchester City for A Beautiful Obsession and yet had barely heard of Guardiola before he was brought on […]",
-        "fa": "\"پپ خودش را بازی می کند تا حدی شبیه این است که رابرت دنیرو مربی فوتبال باشد.\" اینها تفکرات کوین مکدونالد کارگردان برنده اسکار است که به تازگی دو سال را صرف ترسیم نقش های پپ گواردیولا و منچسترسیتی برای فیلم A Beautiful Obsession کرده است و با این حال قبل از به خدمت گرفتن گواردیولا به سختی نام گواردیولا را شنیده بود."
+        "en": "The chaos, hard graft and — ultimately — privileged thrill of feature filmmaking were the central themes of conversation at the Variety Lounge at Edinburgh International Film Festival as the rising directors in official competition sat down to discuss their craft. Supported by VisitScotland and held in Edinburgh’s historic Caledonian Hotel, the Variety Lounge welcomed the 11 […]",
+        "fa": "هرج و مرج، پیوند سخت و – در نهایت – هیجان ممتاز فیلم‌سازی، موضوع اصلی گفتگو در سالن Variety در جشنواره بین‌المللی فیلم ادینبورگ بود، در حالی که کارگردانان در حال ظهور در رقابت رسمی نشستند تا در مورد هنر خود صحبت کنند. با حمایت VisitScotland و در هتل تاریخی Caledonian ادینبورگ برگزار شد، Variety Lounge از 11 استقبال کرد."
       },
       "content": {
-        "en": "“Pep playing himself is a bit like having Robert De Niro play a football coach.” Those are the musings of Oscar-winning director Kevin Macdonald, who has just spent two years charting the exploits of Pep Guardiola and Manchester City for A Beautiful Obsession and yet had barely heard of Guardiola before he was brought on […]",
-        "fa": "\"پپ خودش را بازی می کند تا حدی شبیه این است که رابرت دنیرو مربی فوتبال باشد.\" اینها تفکرات کوین مکدونالد کارگردان برنده اسکار است که به تازگی دو سال را صرف ترسیم نقش های پپ گواردیولا و منچسترسیتی برای فیلم A Beautiful Obsession کرده است و با این حال قبل از به خدمت گرفتن گواردیولا به سختی نام گواردیولا را شنیده بود."
+        "en": "The chaos, hard graft and — ultimately — privileged thrill of feature filmmaking were the central themes of conversation at the Variety Lounge at Edinburgh International Film Festival as the rising directors in official competition sat down to discuss their craft. Supported by VisitScotland and held in Edinburgh’s historic Caledonian Hotel, the Variety Lounge welcomed the 11 […]",
+        "fa": "The chaos, hard graft and — ultimately — privileged thrill of feature filmmaking were the central themes of conversation at the Variety Lounge at Edinburgh International Film Festival as the rising directors in official competition sat down to discuss their craft. Supported by VisitScotland and held in Edinburgh’s historic Caledonian Hotel, the Variety Lounge welcomed the 11 […]"
       },
       "source": {
-        "en": "Deadline",
-        "fa": "Deadline"
+        "en": "Variety",
+        "fa": "Variety"
       },
-      "link": "https://deadline.com/2026/08/kevin-macdonald-pep-guardiola-man-city-beautiful-obsession-1237014372/",
-      "date": "2026-08-18T12:26:23.521477+00:00",
-      "image": "https://deadline.com/wp-content/uploads/2026/06/City-Studios_Manchester-City-Docuseries-1.jpeg",
+      "link": "https://variety.com/2026/film/global/edinburgh-film-festival-competition-director-variety-lounge-1236836981/",
+      "date": "2026-08-18T13:35:34.226755+00:00",
+      "image": "https://variety.com/wp-content/uploads/2026/08/EIFF-2026-Variety-Lounge-Connery-Prize_August-14-2026_Photo-Credit-Robin-Mair-24.jpg",
       "important": false,
       "score": 0
     },
@@ -549,8 +549,32 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/charles-esten-tribute-hayden-panettiere-nashville-dead-1237043868/",
-      "date": "2026-08-18T12:26:23.520563+00:00",
+      "date": "2026-08-18T13:35:34.225594+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/hayden-panettiere-charles-esten-nashville.jpg",
+      "important": false,
+      "score": 0
+    },
+    {
+      "id": "a6a53fd6d66d",
+      "title": {
+        "en": "Christopher Nolan’s ‘The Odyssey’ Becomes Biggest Film Ever At BFI IMAX",
+        "fa": "«اودیسه» کریستوفر نولان به بزرگترین فیلم تاریخ در BFI IMAX تبدیل شد"
+      },
+      "excerpt": {
+        "en": "Christopher Nolan’s acclaimed epic The Odyssey is now the biggest film of all time at the UK’s largest cinema, the BFI IMAX. To date, BFI IMAX has sold more than 101,000 admissions for the movie, generating £2,683,987 gross in ticket sales from a single screen and achieving a 95% occupancy rate across all showtimes currently […]",
+        "fa": "حماسه تحسین شده کریستوفر نولان، ادیسه، اکنون بزرگترین فیلم تمام دوران در بزرگترین سینمای بریتانیا، BFI IMAX است. تا به امروز، BFI IMAX بیش از 101000 پذیرش برای این فیلم فروخته است که 2,683,987 پوند فروش ناخالص بلیت را از یک صفحه به دست آورده است و به نرخ اشغال 95 درصد در تمام زمان‌های نمایش دست یافته است."
+      },
+      "content": {
+        "en": "Christopher Nolan’s acclaimed epic The Odyssey is now the biggest film of all time at the UK’s largest cinema, the BFI IMAX. To date, BFI IMAX has sold more than 101,000 admissions for the movie, generating £2,683,987 gross in ticket sales from a single screen and achieving a 95% occupancy rate across all showtimes currently […]",
+        "fa": "حماسه تحسین شده کریستوفر نولان، ادیسه، اکنون بزرگترین فیلم تمام دوران در بزرگترین سینمای بریتانیا، BFI IMAX است. تا به امروز، BFI IMAX بیش از 101000 پذیرش برای این فیلم فروخته است که 2,683,987 پوند فروش ناخالص بلیت را از یک صفحه به دست آورده است و به نرخ اشغال 95 درصد در تمام زمان‌های نمایش دست یافته است."
+      },
+      "source": {
+        "en": "Deadline",
+        "fa": "Deadline"
+      },
+      "link": "https://deadline.com/2026/08/the-odyssey-becomes-biggest-film-ever-at-bfi-imax-avatar-1237044031/",
+      "date": "2026-08-18T13:35:34.224303+00:00",
+      "image": "https://deadline.com/wp-content/uploads/2026/07/CT-54129_MSG.jpg",
       "important": false,
       "score": 0
     }
