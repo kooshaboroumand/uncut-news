@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-18T13:35:34.424363+00:00",
+  "updated_at": "2026-08-18T14:23:42.348784+00:00",
   "count": 24,
   "news": [
     {
@@ -21,16 +21,16 @@
         "fa": "Variety"
       },
       "link": "https://variety.com/2026/tv/news/toxic-season-2-trailer-elizabeth-chambers-id-series-premiere-date-1236834163/",
-      "date": "2026-08-18T13:35:34.226315+00:00",
+      "date": "2026-08-18T14:23:42.104724+00:00",
       "image": "https://variety.com/wp-content/uploads/2026/08/Toxic-Take2.jpg",
       "important": true,
       "score": 10
     },
     {
-      "id": "e61feb00106a",
+      "id": "94fc56f438f5",
       "title": {
-        "en": "‘100 Years Of Solitude’ Stars On Adapting García Márquez’s “Impossible” Novel; Watch The Finale Trailer",
-        "fa": "«100 سال تنهایی» با اقتباس از رمان «غیرممکن» گارسیا مارکز. تریلر The Finale را تماشا کنید"
+        "en": "‘One Hundred Years Of Solitude’ Stars On Adapting García Márquez’s “Impossible” Novel; Watch The Finale Trailer",
+        "fa": "«صد سال تنهایی» با اقتباس از رمان «غیرممکن» گارسیا مارکز. تریلر The Finale را تماشا کنید"
       },
       "excerpt": {
         "en": "EXCLUSIVE: Cast members including iconic Colombian star Margarita Rosa de Francisco came on board Part Two of Netflix’s 100 Years Of Solitude, and with the finale of the epic adaptation about to launch, several of the stars who appear in the series-closing episode spoke exclusively to Deadline. We are also first with the trailer for […]",
@@ -45,7 +45,7 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/100-years-of-solitude-finale-cast-trailer-netflix-1237044029/",
-      "date": "2026-08-18T13:35:34.223988+00:00",
+      "date": "2026-08-18T14:23:42.100881+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/100-year-of-solitude.jpg",
       "important": true,
       "score": 7
@@ -69,7 +69,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/criticism/shows/lanterns-episode-1-review-hal-jordan-dead-explained-1235210338/",
-      "date": "2026-08-18T13:35:34.233470+00:00",
+      "date": "2026-08-18T14:23:42.110417+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/Lanterns-HBO-series-Kyle-Chandler-as-Hal-Jordan.jpg?w=650",
       "important": true,
       "score": 6
@@ -93,7 +93,7 @@
         "fa": "The Hollywood Reporter"
       },
       "link": "https://www.hollywoodreporter.com/tv/tv-news/how-to-change-the-world-youtube-series-mark-cuban-1236675908/",
-      "date": "2026-08-18T13:35:34.228724+00:00",
+      "date": "2026-08-18T14:23:42.106121+00:00",
       "image": "https://www.hollywoodreporter.com/wp-content/uploads/2025/06/Mark-Cuban-getty-H-2025.png?w=1296&#038;h=730&#038;crop=1",
       "important": true,
       "score": 6
@@ -117,7 +117,7 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/jon-ronson-things-fell-apart-returns-season-3-bbc-1237042799/",
-      "date": "2026-08-18T13:35:34.225446+00:00",
+      "date": "2026-08-18T14:23:42.102311+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/Things-Fell-Apart.webp",
       "important": true,
       "score": 6
@@ -141,32 +141,56 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/news/trailers/my-brothers-wedding-4k-restoration-trailer-charles-burnett-1235210852/",
-      "date": "2026-08-18T13:35:34.232511+00:00",
+      "date": "2026-08-18T14:23:42.109420+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/MyBrothersWedding.jpg?w=650",
       "important": true,
       "score": 4
     },
     {
-      "id": "a3d97c0bd56d",
+      "id": "a38406f31053",
       "title": {
-        "en": "Snips Partners With Banijay Rights and BIG Media to Turn Library Titles Like ‘Big Brother’ and ‘Humans’ Into Short-Form, Vertical Episodes (EXCLUSIVE)",
-        "fa": "برای تبدیل عناوین کتابخانه‌ای مانند «برادر بزرگ» و «انسان‌ها» به اپیزودهای عمودی و کوتاه، با حقوق بانیجی و رسانه‌های بزرگ شریک می‌شود."
+        "en": "‘The Rivals of Amziah King’ Wasn’t the Sleeper Indie Box Office Darling We Hoped",
+        "fa": "«رقبای امزیا کینگ» باکس آفیس مستقل خواب‌آلود نبود عزیزم که امیدوار بودیم"
       },
       "excerpt": {
-        "en": "Digital startup Snips — which mines TV and film libraries to turn existing content into short-form, vertical (or “microseries”) fare — has sealed new deals with Banijay Rights and BIG Media to adapt some of their series and movies into minute-long episodes. Banijay Rights is the global distribution arm of Banijay Entertainment (“Big Brother,” “MasterChef”), […]",
-        "fa": "استارت‌آپ دیجیتال Snips - که کتابخانه‌های تلویزیونی و فیلم را استخراج می‌کند تا محتوای موجود را به شکل کوتاه و عمودی تبدیل کند - قراردادهای جدیدی را با Banijay Rights و BIG Media بسته است تا برخی از سریال‌ها و فیلم‌های آنها را در قسمت‌های یک دقیقه‌ای اقتباس کند. Banijay Rights بازوی توزیع جهانی Banijay Entertainment است."
+        "en": "With just over $1 million from a limited release, Matthew McConaughey's return to the big screen wasn't as heralded as a strong SXSW premiere suggested.",
+        "fa": "با کمی بیش از 1 میلیون دلار از یک اکران محدود، بازگشت متیو مک‌کانهی به صفحه بزرگ آنطور که اولین نمایش قدرتمند SXSW پیشنهاد می‌شد، اعلام نشده بود."
       },
       "content": {
-        "en": "Digital startup Snips — which mines TV and film libraries to turn existing content into short-form, vertical (or “microseries”) fare — has sealed new deals with Banijay Rights and BIG Media to adapt some of their series and movies into minute-long episodes. Banijay Rights is the global distribution arm of Banijay Entertainment (“Big Brother,” “MasterChef”), […]",
-        "fa": "استارت‌آپ دیجیتال Snips - که کتابخانه‌های تلویزیونی و فیلم را استخراج می‌کند تا محتوای موجود را به شکل کوتاه و عمودی تبدیل کند - قراردادهای جدیدی را با Banijay Rights و BIG Media بسته است تا برخی از سریال‌ها و فیلم‌های آنها را در قسمت‌های یک دقیقه‌ای اقتباس کند. Banijay Rights بازوی توزیع جهانی Banijay Entertainment است."
+        "en": "With just over $1 million from a limited release, Matthew McConaughey's return to the big screen wasn't as heralded as a strong SXSW premiere suggested.",
+        "fa": "با کمی بیش از 1 میلیون دلار از یک اکران محدود، بازگشت متیو مک‌کانهی به صفحه بزرگ آنطور که اولین نمایش قدرتمند SXSW پیشنهاد می‌شد، اعلام نشده بود."
       },
       "source": {
-        "en": "Variety",
-        "fa": "Variety"
+        "en": "IndieWire",
+        "fa": "IndieWire"
       },
-      "link": "https://variety.com/2026/tv/news/snips-banijay-rights-big-media-vertical-episodes-1236836812/",
-      "date": "2026-08-18T13:35:34.227083+00:00",
-      "image": "https://variety.com/wp-content/uploads/2026/08/Snips.jpg",
+      "link": "https://www.indiewire.com/news/box-office/rivals-amziah-king-box-office-black-bear-1235210853/",
+      "date": "2026-08-18T14:23:42.108909+00:00",
+      "image": "https://www.indiewire.com/wp-content/uploads/2025/03/the-rivals-of-amziah-king-319857_c200b9.webp?w=650",
+      "important": true,
+      "score": 4
+    },
+    {
+      "id": "71d7a3b5425e",
+      "title": {
+        "en": "Lesbian Romance ‘Maya & Samar’, Whose NC-17 Rating Drew Heat, Gets U.S. Distribution Deal",
+        "fa": "لزبین عاشقانه «مایا و سامار»، که رتبه بندی NC-17 او گرما را جلب کرد، قرارداد توزیع ایالات متحده را دریافت کرد"
+      },
+      "excerpt": {
+        "en": "EXCLUSIVE: Robert Lantos-produced lesbian romance Maya & Samar, whose NC-17 rating generated some heat late last year, has secured U.S. distribution with Quiver. The film tells the story of a brief yet torrid love affair between a Canadian journalist and a queer Afghan refugee whose lives intersect over the course of several days in Athens. […]",
+        "fa": "انحصاری: رمان عاشقانه لزبین مایا و سامار که توسط رابرت لانتوس تولید شده است، که رتبه NC-17 آن در اواخر سال گذشته مقداری گرما ایجاد کرد، توزیع ایالات متحده را با Quiver تضمین کرده است. این فیلم داستان یک رابطه عاشقانه کوتاه و در عین حال وحشتناک بین یک روزنامه‌نگار کانادایی و یک پناهجوی دگرباش افغان است که زندگی‌شان در طول چند روز در آتن با هم تلاقی می‌کند."
+      },
+      "content": {
+        "en": "EXCLUSIVE: Robert Lantos-produced lesbian romance Maya & Samar, whose NC-17 rating generated some heat late last year, has secured U.S. distribution with Quiver. The film tells the story of a brief yet torrid love affair between a Canadian journalist and a queer Afghan refugee whose lives intersect over the course of several days in Athens. […]",
+        "fa": "انحصاری: رمان عاشقانه لزبین مایا و سامار که توسط رابرت لانتوس تولید شده است، که رتبه NC-17 آن در اواخر سال گذشته مقداری گرما ایجاد کرد، توزیع ایالات متحده را با Quiver تضمین کرده است. این فیلم داستان یک رابطه عاشقانه کوتاه و در عین حال وحشتناک بین یک روزنامه‌نگار کانادایی و یک پناهجوی دگرباش افغان است که زندگی‌شان در طول چند روز در آتن با هم تلاقی می‌کند."
+      },
+      "source": {
+        "en": "Deadline",
+        "fa": "Deadline"
+      },
+      "link": "https://deadline.com/2026/08/lesbian-romance-maya-samar-getting-us-release-quiver-1237044132/",
+      "date": "2026-08-18T14:23:42.099418+00:00",
+      "image": "https://deadline.com/wp-content/uploads/2024/09/Maya-Samar.jpg",
       "important": true,
       "score": 4
     },
@@ -189,7 +213,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/criticism/shows/its-always-sunny-in-philadelphia-season-18-for-the-sickos-1235210525/",
-      "date": "2026-08-18T13:35:34.233385+00:00",
+      "date": "2026-08-18T14:23:42.110312+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/Its-Always-Sunny-in-Philadelphia-Season-18-Frank-Dennis-corpse.jpg?w=650",
       "important": false,
       "score": 3
@@ -202,18 +226,18 @@
       },
       "excerpt": {
         "en": "Kelley will report to Dani Dudeck and most recently worked at Warner Bros. following stints leading comms at MGM and Paramount.",
-        "fa": "کلی به دنی دودک گزارش می دهد و اخیراً در برادران وارنر پس از حضور در MGM و پارامونت، کار کرده است."
+        "fa": "کلی به دنی دودک گزارش می دهد و اخیراً در برادران وارنر پس از حضور در MGM و پارامونت کار کرده است."
       },
       "content": {
         "en": "Kelley will report to Dani Dudeck and most recently worked at Warner Bros. following stints leading comms at MGM and Paramount.",
-        "fa": "کلی به دنی دودک گزارش می دهد و اخیراً در برادران وارنر پس از حضور در MGM و پارامونت، کار کرده است."
+        "fa": "کلی به دنی دودک گزارش می دهد و اخیراً در برادران وارنر پس از حضور در MGM و پارامونت کار کرده است."
       },
       "source": {
         "en": "IndieWire",
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/news/business/netflix-names-katie-martin-kelley-vp-communications-film-1235210788/",
-      "date": "2026-08-18T13:35:34.232843+00:00",
+      "date": "2026-08-18T14:23:42.109761+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2021/02/NetflixBuilding219802.jpg?w=650",
       "important": false,
       "score": 3
@@ -237,8 +261,56 @@
         "fa": "The Wrap"
       },
       "link": "https://www.thewrap.com/creative-content/movies/tom-holland-spider-man-brand-new-day-salary-box-office-bonus/",
-      "date": "2026-08-18T13:35:34.230489+00:00",
+      "date": "2026-08-18T14:23:42.107851+00:00",
       "image": "https://www.thewrap.com/wp-content/uploads/2026/08/081026-Spiderman.gif?width=1024&height=576&fit=bounds",
+      "important": false,
+      "score": 3
+    },
+    {
+      "id": "a1d99cd8ac16",
+      "title": {
+        "en": "Culinary Talent Eitan Bernath Signs With CAA (Exclusive)",
+        "fa": "استعداد آشپزی ایتان برنات با CAA امضا می کند"
+      },
+      "excerpt": {
+        "en": "He has around 10 million social media followers and regularly appears on ‘The Drew Barrymore Show.’",
+        "fa": "او حدود 10 میلیون دنبال کننده در رسانه های اجتماعی دارد و به طور مرتب در \"شوی درو بریمور\" ظاهر می شود."
+      },
+      "content": {
+        "en": "He has around 10 million social media followers and regularly appears on ‘The Drew Barrymore Show.’",
+        "fa": "او حدود 10 میلیون دنبال کننده در رسانه های اجتماعی دارد و به طور مرتب در \"شوی درو بریمور\" ظاهر می شود."
+      },
+      "source": {
+        "en": "The Hollywood Reporter",
+        "fa": "The Hollywood Reporter"
+      },
+      "link": "https://www.hollywoodreporter.com/business/business-news/eitan-bernath-signs-caa-1236675999/",
+      "date": "2026-08-18T14:23:42.105482+00:00",
+      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/Headshots_BO_161.jpg?crop=0px%2C0px%2C8192px%2C4584px&#038;resize=1440%2C810",
+      "important": false,
+      "score": 3
+    },
+    {
+      "id": "f6311086bffc",
+      "title": {
+        "en": "‘Elle’ Star Jacob Moskovitz To Play Marlon Brando In Chicago Presentation Of ‘Kowalski’",
+        "fa": "جیکوب موسکوویتز، ستاره «ال» برای بازی در نقش مارلون براندو در نمایش «کووالسکی» در شیکاگو"
+      },
+      "excerpt": {
+        "en": "EXCLUSIVE: Jacob Moskovitz, star of Prime Video’s Elle, is joining the cast of Kowalski as Marlon Brando. Moskovitz will join Johnny Galecki as Tennessee Williams in the Gregg Ostrin play directed by Colin Hanlon. The play will run from September 15 through October 25 at Chicago’s Lookingglass Theatre Company at the historic Water Tower Water […]",
+        "fa": "اختصاصی: جاکوب موسکوویتز، ستاره سریال Prime Video's Elle، به بازیگران کوالسکی در نقش مارلون براندو می‌پیوندد. موسکوویتز به جانی گالکی در نقش تنسی ویلیامز در نمایش گرگ اوسترین به کارگردانی کالین هانلون خواهد پیوست. این نمایش از 15 سپتامبر تا 25 اکتبر در شرکت تئاتر Lookingglass شیکاگو در آب برج تاریخی آب اجرا می شود."
+      },
+      "content": {
+        "en": "EXCLUSIVE: Jacob Moskovitz, star of Prime Video’s Elle, is joining the cast of Kowalski as Marlon Brando. Moskovitz will join Johnny Galecki as Tennessee Williams in the Gregg Ostrin play directed by Colin Hanlon. The play will run from September 15 through October 25 at Chicago’s Lookingglass Theatre Company at the historic Water Tower Water […]",
+        "fa": "اختصاصی: جاکوب موسکوویتز، ستاره سریال Prime Video's Elle، به بازیگران کوالسکی در نقش مارلون براندو می‌پیوندد. موسکوویتز به جانی گالکی در نقش تنسی ویلیامز در نمایش گرگ اوسترین به کارگردانی کالین هانلون خواهد پیوست. این نمایش از 15 سپتامبر تا 25 اکتبر در شرکت تئاتر Lookingglass شیکاگو در آب برج تاریخی آب اجرا می شود."
+      },
+      "source": {
+        "en": "Deadline",
+        "fa": "Deadline"
+      },
+      "link": "https://deadline.com/2026/08/elle-jacob-moskovitz-marlon-brando-kowalski-1237043872/",
+      "date": "2026-08-18T14:23:42.099617+00:00",
+      "image": "https://deadline.com/wp-content/uploads/2026/08/jacob-moskovitz-marlon-brando-kowalski.jpg",
       "important": false,
       "score": 3
     },
@@ -249,44 +321,20 @@
         "fa": "تریلر مستند Oasis طرفداران را به پشت صحنه نشست دراماتیک گروه می برد: \"آیا دوباره از هم می پاشد؟\""
       },
       "excerpt": {
-        "en": "The Gallagher brothers get reflective, philosophical and, less unexpectedly, foul-mouthed in the first trailer for Oasis documentary “Oasis: Don’t Look Back in Anger.” “The way it finished … unacceptable … it didn’t sit right with me,” says Liam Gallagher in the opening moments. “I just don’t see myself with Liam,” adds Noel Gallagher. “I don’t […]",
-        "fa": "برادران گالاگر در اولین تریلر مستند Oasis \"Oasis: Don't Look Back in Anger\" (واحه: با عصبانیت به عقب نگاه نکن) تامل‌کننده، فلسفی و کمتر غیرمنتظره‌ای بددهنی می‌شوند. لیام گالاگر در لحظات ابتدایی می‌گوید: «همانطور که به پایان رسید... غیرقابل قبول بود... برای من مناسب نبود. نوئل گالاگر می افزاید: «من خودم را با لیام نمی بینم. \"من نه"
+        "en": "The Gallagher brothers get reflective, philosophical and, less unexpectedly, foul-mouthed in the first trailer for Oasis documentary “Oasis: Don’t Look Back in Anger.” “The way it finished … unacceptable … it didn’t sit right with me,” says Liam Gallagher in the opening moments. “I just don’t see myself on stage with Liam,” adds Noel Gallagher. […]",
+        "fa": "برادران گالاگر در اولین تریلر مستند Oasis \"Oasis: Don't Look Back in Anger\" (واحه: با عصبانیت به عقب نگاه نکن) تامل‌کننده، فلسفی و کمتر غیرمنتظره‌ای بددهنی می‌شوند. لیام گالاگر در لحظات ابتدایی می‌گوید: «همانطور که به پایان رسید... غیرقابل قبول بود... برای من مناسب نبود. نوئل گالاگر می افزاید: «من خودم را روی صحنه با لیام نمی بینم."
       },
       "content": {
-        "en": "The Gallagher brothers get reflective, philosophical and, less unexpectedly, foul-mouthed in the first trailer for Oasis documentary “Oasis: Don’t Look Back in Anger.” “The way it finished … unacceptable … it didn’t sit right with me,” says Liam Gallagher in the opening moments. “I just don’t see myself with Liam,” adds Noel Gallagher. “I don’t […]",
-        "fa": "برادران گالاگر در اولین تریلر مستند Oasis \"Oasis: Don't Look Back in Anger\" (واحه: با عصبانیت به عقب نگاه نکن) تامل‌کننده، فلسفی و کمتر غیرمنتظره‌ای بددهنی می‌شوند. لیام گالاگر در لحظات ابتدایی می‌گوید: «همانطور که به پایان رسید... غیرقابل قبول بود... برای من مناسب نبود. نوئل گالاگر می افزاید: «من خودم را با لیام نمی بینم. \"من نه"
+        "en": "The Gallagher brothers get reflective, philosophical and, less unexpectedly, foul-mouthed in the first trailer for Oasis documentary “Oasis: Don’t Look Back in Anger.” “The way it finished … unacceptable … it didn’t sit right with me,” says Liam Gallagher in the opening moments. “I just don’t see myself on stage with Liam,” adds Noel Gallagher. […]",
+        "fa": "برادران گالاگر در اولین تریلر مستند Oasis \"Oasis: Don't Look Back in Anger\" (واحه: با عصبانیت به عقب نگاه نکن) تامل‌کننده، فلسفی و کمتر غیرمنتظره‌ای بددهنی می‌شوند. لیام گالاگر در لحظات ابتدایی می‌گوید: «همانطور که به پایان رسید... غیرقابل قبول بود... برای من مناسب نبود. نوئل گالاگر می افزاید: «من خودم را روی صحنه با لیام نمی بینم."
       },
       "source": {
         "en": "Variety",
         "fa": "Variety"
       },
       "link": "https://variety.com/2026/film/global/oasis-documentary-trailer-dont-look-back-in-anger-1236837083/",
-      "date": "2026-08-18T13:35:34.226204+00:00",
+      "date": "2026-08-18T14:23:42.104610+00:00",
       "image": "https://variety.com/wp-content/uploads/2026/08/oasis-doc.jpg",
-      "important": false,
-      "score": 1
-    },
-    {
-      "id": "d9aae16eb1da",
-      "title": {
-        "en": "‘Spider-Man: Brand New Day’ Becomes Second-Fastest To Cross $2B WW – Global Top 10 Box Office Update",
-        "fa": "‘Spider-Man: Brand New Day’ Becomes Second-Fastest To Cross $2B WW – Global Top 10 Box Office Update"
-      },
-      "excerpt": {
-        "en": "Monday Update: Holy cow! Or whatever kind of Holy is yelled out in a comic book, but Sony/Marvel Studio’s Spider-Man: Brand New Day crossed the $2 billion global mark, becoming the second-fastest movie to do so and the eighth movie to ever cross that benchmark. Brand New Day pulls off this feat in 17 days […]",
-        "fa": "به روز رسانی دوشنبه: گاو مقدس! یا هر نوع مقدسی که در یک کتاب کمیک فریاد می‌زند، اما Spider-Man: Brand New Day محصول سونی/مارول استودیو از مرز ۲ میلیارد دلار عبور کرد و تبدیل به دومین فیلم سریع‌تر و هشتمین فیلمی شد که از این معیار عبور کرد. روز کاملاً جدید این شاهکار را در 17 روز انجام می دهد"
-      },
-      "content": {
-        "en": "Monday Update: Holy cow! Or whatever kind of Holy is yelled out in a comic book, but Sony/Marvel Studio’s Spider-Man: Brand New Day crossed the $2 billion global mark, becoming the second-fastest movie to do so and the eighth movie to ever cross that benchmark. Brand New Day pulls off this feat in 17 days […]",
-        "fa": "به روز رسانی دوشنبه: گاو مقدس! یا هر نوع مقدسی که در یک کتاب کمیک فریاد می‌زند، اما Spider-Man: Brand New Day محصول سونی/مارول استودیو از مرز ۲ میلیارد دلار عبور کرد و تبدیل به دومین فیلم سریع‌تر و هشتمین فیلمی شد که از این معیار عبور کرد. روز کاملاً جدید این شاهکار را در 17 روز انجام می دهد"
-      },
-      "source": {
-        "en": "Deadline",
-        "fa": "Deadline"
-      },
-      "link": "https://deadline.com/2026/08/box-office-global-spider-man-brand-new-day-2-1237042050/",
-      "date": "2026-08-18T13:35:34.226071+00:00",
-      "image": "https://deadline.com/wp-content/uploads/2026/08/MCDSPMA_SP129.jpg",
       "important": false,
       "score": 1
     },
@@ -309,7 +357,7 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/ministry-of-time-casts-aoife-hinds-billy-howle-bbc-a24-1237044013/",
-      "date": "2026-08-18T13:35:34.224446+00:00",
+      "date": "2026-08-18T14:23:42.101312+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/Aoife-Hinds-and-Billy-Howle.jpg",
       "important": false,
       "score": 1
@@ -333,7 +381,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/criticism/movies/dreams-in-nightmares-review-shatara-michelle-ford-1235030591/",
-      "date": "2026-08-18T13:35:34.233042+00:00",
+      "date": "2026-08-18T14:23:42.109971+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2024/07/DIN_5.jpg?w=650",
       "important": false,
       "score": 0
@@ -357,7 +405,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/news/general-news/the-devils-ken-russell-directors-cut-explained-censored-nuns-sex-1235210957/",
-      "date": "2026-08-18T13:35:34.231928+00:00",
+      "date": "2026-08-18T14:23:42.108812+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/Ken-Russells-The-Devils.jpeg?w=650",
       "important": false,
       "score": 0
@@ -381,8 +429,32 @@
         "fa": "The Wrap"
       },
       "link": "https://www.thewrap.com/media-platforms/tv/streaming-broadcast-cable-tv-viewership-nielsen-gauge-june-2026/",
-      "date": "2026-08-18T13:35:34.230800+00:00",
+      "date": "2026-08-18T14:23:42.108185+00:00",
       "image": "https://www.thewrap.com/wp-content/uploads/2026/07/GettyImages-2286805736-1-e1784571493563.jpg",
+      "important": false,
+      "score": 0
+    },
+    {
+      "id": "3b91d17cd86e",
+      "title": {
+        "en": "ABC Files First Amendment Lawsuit Against FCC Over ‘Retaliatory Campaign’",
+        "fa": "ABC اولین اصلاحیه شکایت علیه FCC را به دلیل \"کمپین تلافی جویانه\" ارائه کرد"
+      },
+      "excerpt": {
+        "en": "Disney's network accuses the Trump administration of \"acting through the Federal Communications Commission\" to attack free speech The post ABC Files First Amendment Lawsuit Against FCC Over ‘Retaliatory Campaign’ appeared first on TheWrap .",
+        "fa": "شبکه دیزنی، دولت ترامپ را به «عملکرد از طریق کمیسیون ارتباطات فدرال» برای حمله به آزادی بیان متهم کرد."
+      },
+      "content": {
+        "en": "Disney's network accuses the Trump administration of \"acting through the Federal Communications Commission\" to attack free speech The post ABC Files First Amendment Lawsuit Against FCC Over ‘Retaliatory Campaign’ appeared first on TheWrap .",
+        "fa": "شبکه دیزنی، دولت ترامپ را به «عملکرد از طریق کمیسیون ارتباطات فدرال» برای حمله به آزادی بیان متهم کرد."
+      },
+      "source": {
+        "en": "The Wrap",
+        "fa": "The Wrap"
+      },
+      "link": "https://www.thewrap.com/industry-news/public-policy-legal/abc-first-amendment-lawsuit-fcc-trump-administration-disney/",
+      "date": "2026-08-18T14:23:42.108028+00:00",
+      "image": "https://www.thewrap.com/wp-content/uploads/2026/07/ABC-The-View-July-2026.jpg",
       "important": false,
       "score": 0
     },
@@ -405,8 +477,32 @@
         "fa": "The Wrap"
       },
       "link": "https://www.thewrap.com/industry-news/business/why-alex-cooper-left-uta-for-caa/",
-      "date": "2026-08-18T13:35:34.229969+00:00",
+      "date": "2026-08-18T14:23:42.107309+00:00",
       "image": "https://www.thewrap.com/wp-content/uploads/2026/08/GettyImages-2276122370.jpg",
+      "important": false,
+      "score": 0
+    },
+    {
+      "id": "7510978bab4b",
+      "title": {
+        "en": "Peacock Raises Prices Again After First Profitable Quarter Ever",
+        "fa": "Peacock پس از اولین سه ماهه سودآور تاریخ، دوباره قیمت ها را افزایش داد"
+      },
+      "excerpt": {
+        "en": "The NBC streamer's premium subscription with ads is now $12.99 per month, up from $10.99 The post Peacock Raises Prices Again After First Profitable Quarter Ever appeared first on TheWrap .",
+        "fa": "اشتراک ممتاز پخش کننده NBC با تبلیغات اکنون 12.99 دلار در ماه است که از 10.99 دلار افزایش یافته است."
+      },
+      "content": {
+        "en": "The NBC streamer's premium subscription with ads is now $12.99 per month, up from $10.99 The post Peacock Raises Prices Again After First Profitable Quarter Ever appeared first on TheWrap .",
+        "fa": "اشتراک ممتاز پخش کننده NBC با تبلیغات اکنون 12.99 دلار در ماه است که از 10.99 دلار افزایش یافته است."
+      },
+      "source": {
+        "en": "The Wrap",
+        "fa": "The Wrap"
+      },
+      "link": "https://www.thewrap.com/media-platforms/streaming/peacock-price-increase-august-2026/",
+      "date": "2026-08-18T14:23:42.107129+00:00",
+      "image": "https://www.thewrap.com/wp-content/uploads/2024/11/peacock-logo-streaming.jpg",
       "important": false,
       "score": 0
     },
@@ -429,80 +525,8 @@
         "fa": "The Hollywood Reporter"
       },
       "link": "https://www.hollywoodreporter.com/movies/movie-features/asghar-farhadi-director-film-war-iran-sarajevo-interview-1236675940/",
-      "date": "2026-08-18T13:35:34.229132+00:00",
+      "date": "2026-08-18T14:23:42.106541+00:00",
       "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/FotoJet-2026-08-18T125500.601.jpg?w=1440&#038;h=810&#038;crop=1",
-      "important": false,
-      "score": 0
-    },
-    {
-      "id": "a01a5b68240d",
-      "title": {
-        "en": "Peacock Reveals Another Price Hike After NBCU Streamer’s First Profitable Quarter",
-        "fa": "Peacock پس از اولین سه ماهه سودآور NBCU Streamer یک افزایش قیمت دیگر را فاش کرد"
-      },
-      "excerpt": {
-        "en": "Subscription rates for new and returning customers are on the way up, again, after the studio's marquee streaming platform recently posted its first quarterly profit.",
-        "fa": "پس از اینکه پلتفرم استریم خیمه شب بازی استودیو اخیرا اولین سود سه ماهه خود را منتشر کرد، نرخ اشتراک برای مشتریان جدید و بازگشتی دوباره در راه است."
-      },
-      "content": {
-        "en": "Subscription rates for new and returning customers are on the way up, again, after the studio's marquee streaming platform recently posted its first quarterly profit.",
-        "fa": "پس از اینکه پلتفرم استریم خیمه شب بازی استودیو اخیرا اولین سود سه ماهه خود را منتشر کرد، نرخ اشتراک برای مشتریان جدید و بازگشتی دوباره در راه است."
-      },
-      "source": {
-        "en": "The Hollywood Reporter",
-        "fa": "The Hollywood Reporter"
-      },
-      "link": "https://www.hollywoodreporter.com/business/business-news/peacock-price-hike-nbcuniversal-2-1236675963/",
-      "date": "2026-08-18T13:35:34.228632+00:00",
-      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/14FEA-Reality-Love-Island-USA-Embed-2026.jpg?w=1047&#038;h=698&#038;crop=1",
-      "important": false,
-      "score": 0
-    },
-    {
-      "id": "cdff6d433a32",
-      "title": {
-        "en": "Peacock Raises Prices Across All Plans, NBCU’s Fourth Increase in Four Years",
-        "fa": "Peacock Raises Prices Across All Plans, NBCU’s Fourth Increase in Four Years"
-      },
-      "excerpt": {
-        "en": "NBCUniversal’s Peacock just turned profitable for the first time. And now the company is raising prices for all customers, marking the streamer’s fourth fee increase in four years. Starting Aug. 18, Peacock will increase its prices for new and returning customers, and on or after Sept. 17 for current customers (depending on their next billing […]",
-        "fa": "طاووس NBCUniversal برای اولین بار سودآور شد. و اکنون این شرکت قیمت‌ها را برای همه مشتریان افزایش می‌دهد و چهارمین افزایش کارمزد پخش‌کننده در چهار سال گذشته را رقم می‌زند. از 18 آگوست، Peacock قیمت های خود را برای مشتریان جدید و بازگشتی، و در یا بعد از 17 سپتامبر برای مشتریان فعلی (بسته به صورتحساب بعدی آنها) افزایش می دهد."
-      },
-      "content": {
-        "en": "NBCUniversal’s Peacock just turned profitable for the first time. And now the company is raising prices for all customers, marking the streamer’s fourth fee increase in four years. Starting Aug. 18, Peacock will increase its prices for new and returning customers, and on or after Sept. 17 for current customers (depending on their next billing […]",
-        "fa": "طاووس NBCUniversal برای اولین بار سودآور شد. و اکنون این شرکت قیمت‌ها را برای همه مشتریان افزایش می‌دهد و چهارمین افزایش کارمزد پخش‌کننده در چهار سال گذشته را رقم می‌زند. از 18 آگوست، Peacock قیمت های خود را برای مشتریان جدید و بازگشتی، و در یا بعد از 17 سپتامبر برای مشتریان فعلی (بسته به صورتحساب بعدی آنها) افزایش می دهد."
-      },
-      "source": {
-        "en": "Variety",
-        "fa": "Variety"
-      },
-      "link": "https://variety.com/2026/tv/news/peacock-raises-prices-fourth-time-in-four-years-1236837016/",
-      "date": "2026-08-18T13:35:34.227906+00:00",
-      "image": "https://variety.com/wp-content/uploads/2026/08/Love-Island-USA-Season-8.png",
-      "important": false,
-      "score": 0
-    },
-    {
-      "id": "f8263fc7f7dd",
-      "title": {
-        "en": "ABC Files First Amendment Lawsuit Against FCC",
-        "fa": "پرونده های ABC اولین اصلاحیه شکایت علیه FCC"
-      },
-      "excerpt": {
-        "en": "Disney’s ABC filed a First Amendment lawsuit against the Federal Communications Commission on Tuesday, raising the pitch of the company’s efforts to countermand unusual pressure from the federal government to force the company’s stations to submit licenses for early renewal proceedings. ABC has found itself at cross purposes with the FCC at several moments in […]",
-        "fa": "ABC دیزنی روز سه شنبه شکایتی را علیه کمیسیون ارتباطات فدرال تنظیم کرد و تلاش های این شرکت را برای مقابله با فشارهای غیرعادی دولت فدرال برای وادار کردن ایستگاه های شرکت به ارائه مجوز برای رسیدگی های زودهنگام افزایش داد. ABC در چند لحظه در اهداف متقابل با FCC قرار گرفته است"
-      },
-      "content": {
-        "en": "Disney’s ABC filed a First Amendment lawsuit against the Federal Communications Commission on Tuesday, raising the pitch of the company’s efforts to countermand unusual pressure from the federal government to force the company’s stations to submit licenses for early renewal proceedings. ABC has found itself at cross purposes with the FCC at several moments in […]",
-        "fa": "ABC دیزنی روز سه شنبه شکایتی را علیه کمیسیون ارتباطات فدرال تنظیم کرد و تلاش های این شرکت را برای مقابله با فشارهای غیرعادی دولت فدرال برای وادار کردن ایستگاه های شرکت به ارائه مجوز برای رسیدگی های زودهنگام افزایش داد. ABC در چند لحظه در اهداف متقابل با FCC قرار گرفته است"
-      },
-      "source": {
-        "en": "Variety",
-        "fa": "Variety"
-      },
-      "link": "https://variety.com/2026/tv/news/abc-first-amendment-lawsuit-fcc-1236837028/",
-      "date": "2026-08-18T13:35:34.227640+00:00",
-      "image": "https://variety.com/wp-content/uploads/2026/08/ABC-Sues-FCC-First-Amendment.jpg",
       "important": false,
       "score": 0
     },
@@ -514,67 +538,43 @@
       },
       "excerpt": {
         "en": "The chaos, hard graft and — ultimately — privileged thrill of feature filmmaking were the central themes of conversation at the Variety Lounge at Edinburgh International Film Festival as the rising directors in official competition sat down to discuss their craft. Supported by VisitScotland and held in Edinburgh’s historic Caledonian Hotel, the Variety Lounge welcomed the 11 […]",
-        "fa": "هرج و مرج، پیوند سخت و – در نهایت – هیجان ممتاز فیلم‌سازی، موضوع اصلی گفتگو در سالن Variety در جشنواره بین‌المللی فیلم ادینبورگ بود، در حالی که کارگردانان در حال ظهور در رقابت رسمی نشستند تا در مورد هنر خود صحبت کنند. با حمایت VisitScotland و در هتل تاریخی Caledonian ادینبورگ برگزار شد، Variety Lounge از 11 استقبال کرد."
+        "fa": "هرج و مرج، پیوند سخت و – در نهایت – هیجان ممتاز ساخت فیلم بلند موضوع اصلی گفتگو در سالن Variety در جشنواره بین‌المللی فیلم ادینبورگ بود، در حالی که کارگردانان در حال ظهور در رقابت رسمی نشستند تا در مورد هنر خود صحبت کنند. با حمایت VisitScotland و در هتل تاریخی Caledonian ادینبورگ برگزار شد، Variety Lounge از 11 استقبال کرد."
       },
       "content": {
         "en": "The chaos, hard graft and — ultimately — privileged thrill of feature filmmaking were the central themes of conversation at the Variety Lounge at Edinburgh International Film Festival as the rising directors in official competition sat down to discuss their craft. Supported by VisitScotland and held in Edinburgh’s historic Caledonian Hotel, the Variety Lounge welcomed the 11 […]",
-        "fa": "The chaos, hard graft and — ultimately — privileged thrill of feature filmmaking were the central themes of conversation at the Variety Lounge at Edinburgh International Film Festival as the rising directors in official competition sat down to discuss their craft. Supported by VisitScotland and held in Edinburgh’s historic Caledonian Hotel, the Variety Lounge welcomed the 11 […]"
+        "fa": "هرج و مرج، پیوند سخت و – در نهایت – هیجان ممتاز ساخت فیلم بلند موضوع اصلی گفتگو در سالن Variety در جشنواره بین‌المللی فیلم ادینبورگ بود، در حالی که کارگردانان در حال ظهور در رقابت رسمی نشستند تا در مورد هنر خود صحبت کنند. با حمایت VisitScotland و در هتل تاریخی Caledonian ادینبورگ برگزار شد، Variety Lounge از 11 استقبال کرد."
       },
       "source": {
         "en": "Variety",
         "fa": "Variety"
       },
       "link": "https://variety.com/2026/film/global/edinburgh-film-festival-competition-director-variety-lounge-1236836981/",
-      "date": "2026-08-18T13:35:34.226755+00:00",
+      "date": "2026-08-18T14:23:42.105169+00:00",
       "image": "https://variety.com/wp-content/uploads/2026/08/EIFF-2026-Variety-Lounge-Connery-Prize_August-14-2026_Photo-Credit-Robin-Mair-24.jpg",
       "important": false,
       "score": 0
     },
     {
-      "id": "024dce93d6b3",
+      "id": "ae9ae22a1b36",
       "title": {
-        "en": "Charles Esten Recounts Sweet First Encounter With Hayden Panettiere During ‘Nashville’ Audition: “What A Great Gift It Was To Act With You”",
-        "fa": "چارلز استن اولین برخورد شیرین با هیدن پانتی یر را در طول آزمایشی «نشویل» بازگو می کند: «چه هدیه بزرگی بود که با تو بازی کردم»"
+        "en": "‘Bluey’ Leads as Australia’s Screen and Games Sector Hits $7.9 Billion, Study Finds",
+        "fa": "تحقیقات نشان می‌دهد که «Bluey» پیشتاز فروش صفحه نمایش و بازی‌های استرالیا به 7.9 میلیارد دلار است."
       },
       "excerpt": {
-        "en": "Following Connie Britton’s heartfelt tribute to Hayden Panettiere, who died Sunday at the age of 36, fellow Nashville alum Charles Esten also remembered his former co-star. Esten was a late cast addition to the Nashville pilot and the last series regular to be announced in March 2012 on the country music drama about fading Nashville […]",
-        "fa": "پس از ادای احترام صمیمانه کانی بریتون به هیدن پانتییر، که یکشنبه در سن 36 سالگی درگذشت، چارلز استن، دانشمند نشویل، همبازی سابق خود را به یاد آورد. استن یکی از بازیگران دیرهنگام سریال نشویل بود و آخرین سریالی بود که در مارس 2012 در درام موسیقی کانتری درباره محو شدن نشویل اعلام شد."
+        "en": "Australia’s screen and games sector contributed AUD11.1 billion ($7.9 billion) to the economy in gross value added in fiscal year 2023/24 and directly employed 68,844 people in FY 2024/25, according to Screen Currency 2026, a landmark Screen Australia study. The report singles out “Bluey” as the country’s most effective cultural export, citing the children’s series […]",
+        "fa": "بر اساس یک مطالعه برجسته Screen Australia در سال مالی 2024/25، بخش صفحه نمایش و بازی استرالیا 11.1 میلیارد AUD در ارزش افزوده ناخالص به اقتصاد کمک کرد و در سال مالی 2024/25 به طور مستقیم 68844 نفر را استخدام کرد. این گزارش با استناد به سریال کودک، «آبی» را به عنوان موثرترین صادرات فرهنگی کشور معرفی می کند"
       },
       "content": {
-        "en": "Following Connie Britton’s heartfelt tribute to Hayden Panettiere, who died Sunday at the age of 36, fellow Nashville alum Charles Esten also remembered his former co-star. Esten was a late cast addition to the Nashville pilot and the last series regular to be announced in March 2012 on the country music drama about fading Nashville […]",
-        "fa": "پس از ادای احترام صمیمانه کانی بریتون به هیدن پانتییر، که یکشنبه در سن 36 سالگی درگذشت، چارلز استن، دانشمند نشویل، همبازی سابق خود را به یاد آورد. استن یکی از بازیگران دیرهنگام سریال نشویل بود و آخرین سریالی بود که در مارس 2012 در درام موسیقی کانتری درباره محو شدن نشویل اعلام شد."
+        "en": "Australia’s screen and games sector contributed AUD11.1 billion ($7.9 billion) to the economy in gross value added in fiscal year 2023/24 and directly employed 68,844 people in FY 2024/25, according to Screen Currency 2026, a landmark Screen Australia study. The report singles out “Bluey” as the country’s most effective cultural export, citing the children’s series […]",
+        "fa": "بر اساس یک مطالعه برجسته Screen Australia در سال مالی 2024/25، بخش صفحه نمایش و بازی استرالیا 11.1 میلیارد AUD در ارزش افزوده ناخالص به اقتصاد کمک کرد و در سال مالی 2024/25 به طور مستقیم 68844 نفر را استخدام کرد. این گزارش با استناد به سریال کودک، «آبی» را به عنوان موثرترین صادرات فرهنگی کشور معرفی می کند"
       },
       "source": {
-        "en": "Deadline",
-        "fa": "Deadline"
+        "en": "Variety",
+        "fa": "Variety"
       },
-      "link": "https://deadline.com/2026/08/charles-esten-tribute-hayden-panettiere-nashville-dead-1237043868/",
-      "date": "2026-08-18T13:35:34.225594+00:00",
-      "image": "https://deadline.com/wp-content/uploads/2026/08/hayden-panettiere-charles-esten-nashville.jpg",
-      "important": false,
-      "score": 0
-    },
-    {
-      "id": "a6a53fd6d66d",
-      "title": {
-        "en": "Christopher Nolan’s ‘The Odyssey’ Becomes Biggest Film Ever At BFI IMAX",
-        "fa": "«اودیسه» کریستوفر نولان به بزرگترین فیلم تاریخ در BFI IMAX تبدیل شد"
-      },
-      "excerpt": {
-        "en": "Christopher Nolan’s acclaimed epic The Odyssey is now the biggest film of all time at the UK’s largest cinema, the BFI IMAX. To date, BFI IMAX has sold more than 101,000 admissions for the movie, generating £2,683,987 gross in ticket sales from a single screen and achieving a 95% occupancy rate across all showtimes currently […]",
-        "fa": "حماسه تحسین شده کریستوفر نولان، ادیسه، اکنون بزرگترین فیلم تمام دوران در بزرگترین سینمای بریتانیا، BFI IMAX است. تا به امروز، BFI IMAX بیش از 101000 پذیرش برای این فیلم فروخته است که 2,683,987 پوند فروش ناخالص بلیت را از یک صفحه به دست آورده است و به نرخ اشغال 95 درصد در تمام زمان‌های نمایش دست یافته است."
-      },
-      "content": {
-        "en": "Christopher Nolan’s acclaimed epic The Odyssey is now the biggest film of all time at the UK’s largest cinema, the BFI IMAX. To date, BFI IMAX has sold more than 101,000 admissions for the movie, generating £2,683,987 gross in ticket sales from a single screen and achieving a 95% occupancy rate across all showtimes currently […]",
-        "fa": "حماسه تحسین شده کریستوفر نولان، ادیسه، اکنون بزرگترین فیلم تمام دوران در بزرگترین سینمای بریتانیا، BFI IMAX است. تا به امروز، BFI IMAX بیش از 101000 پذیرش برای این فیلم فروخته است که 2,683,987 پوند فروش ناخالص بلیت را از یک صفحه به دست آورده است و به نرخ اشغال 95 درصد در تمام زمان‌های نمایش دست یافته است."
-      },
-      "source": {
-        "en": "Deadline",
-        "fa": "Deadline"
-      },
-      "link": "https://deadline.com/2026/08/the-odyssey-becomes-biggest-film-ever-at-bfi-imax-avatar-1237044031/",
-      "date": "2026-08-18T13:35:34.224303+00:00",
-      "image": "https://deadline.com/wp-content/uploads/2026/07/CT-54129_MSG.jpg",
+      "link": "https://variety.com/2026/film/news/bluey-screen-australia-study-1236836967/",
+      "date": "2026-08-18T14:23:42.103790+00:00",
+      "image": "https://variety.com/wp-content/uploads/2025/06/Bluey.jpg",
       "important": false,
       "score": 0
     }
