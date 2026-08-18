@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-18T10:19:00.540492+00:00",
-  "count": 21,
+  "updated_at": "2026-08-18T11:16:49.463394+00:00",
+  "count": 22,
   "news": [
     {
       "id": "c753e4d9425a",
@@ -21,7 +21,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/criticism/shows/lanterns-episode-1-review-hal-jordan-dead-explained-1235210338/",
-      "date": "2026-08-18T10:19:00.396202+00:00",
+      "date": "2026-08-18T11:16:49.274871+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/Lanterns-HBO-series-Kyle-Chandler-as-Hal-Jordan.jpg?w=650",
       "important": true,
       "score": 6
@@ -45,7 +45,7 @@
         "fa": "The Hollywood Reporter"
       },
       "link": "https://www.hollywoodreporter.com/tv/tv-news/lisa-kudrow-friends-romy-michele-sequel-the-comeback-interview-1236675072/",
-      "date": "2026-08-18T10:19:00.392358+00:00",
+      "date": "2026-08-18T11:16:49.270445+00:00",
       "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/Awards-Chatter-Lisa-Kudrow-Main-2026.jpg?w=1296&#038;h=730&#038;crop=1",
       "important": true,
       "score": 6
@@ -69,7 +69,7 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/feature/the-gilded-age-season-4-news-updates-everything-we-know-1236748421/",
-      "date": "2026-08-18T10:19:00.389174+00:00",
+      "date": "2026-08-18T11:16:49.265824+00:00",
       "image": "https://deadline.com/wp-content/uploads/2025/07/carrie-coon-merritt-wever-e1752281224589.jpg",
       "important": true,
       "score": 6
@@ -93,7 +93,7 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/jon-ronson-things-fell-apart-returns-season-3-bbc-1237042799/",
-      "date": "2026-08-18T10:19:00.388050+00:00",
+      "date": "2026-08-18T11:16:49.264483+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/Things-Fell-Apart.webp",
       "important": true,
       "score": 6
@@ -117,32 +117,8 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/news/trailers/my-brothers-wedding-4k-restoration-trailer-charles-burnett-1235210852/",
-      "date": "2026-08-18T10:19:00.395377+00:00",
+      "date": "2026-08-18T11:16:49.273859+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/MyBrothersWedding.jpg?w=650",
-      "important": true,
-      "score": 4
-    },
-    {
-      "id": "5617ae70c7ec",
-      "title": {
-        "en": "‘The Drop’ Trailer Sees ‘Snowfall’ Characters Go After “New Gold Rush” of West Coast Rap",
-        "fa": "تریلر «قطره» کاراکترهای «بارش برف» را پس از «هفت طلای جدید» رپ ساحل غربی می‌بیند"
-      },
-      "excerpt": {
-        "en": "'Snowfall' alums Wanda (Gail Bean) and Leon (Isaiah John) try to reinvent themselves in '90s Los Angeles in the new FX series, set to premiere on Sept. 8 on FX and Hulu.",
-        "fa": "واندا و لئون، آلوم‌های «بارش برف» در سری جدید FX که قرار است در 8 سپتامبر در FX و Hulu نمایش داده شود، تلاش می‌کنند خود را در لس‌آنجلس دهه 90 دوباره اختراع کنند."
-      },
-      "content": {
-        "en": "'Snowfall' alums Wanda (Gail Bean) and Leon (Isaiah John) try to reinvent themselves in '90s Los Angeles in the new FX series, set to premiere on Sept. 8 on FX and Hulu.",
-        "fa": "واندا و لئون، آلوم‌های «بارش برف» در سری جدید FX که قرار است در 8 سپتامبر در FX و Hulu نمایش داده شود، تلاش می‌کنند خود را در لس‌آنجلس دهه 90 دوباره اختراع کنند."
-      },
-      "source": {
-        "en": "The Hollywood Reporter",
-        "fa": "The Hollywood Reporter"
-      },
-      "link": "https://www.hollywoodreporter.com/tv/tv-news/the-drop-snowfall-spinoff-trailer-wanda-leon-west-coast-rap-1236675808/",
-      "date": "2026-08-18T10:19:00.392781+00:00",
-      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/06/FXs-The-Drop-Premieres-September-8-on-FX-and-Hulu.jpg?w=1295&#038;h=730&#038;crop=1",
       "important": true,
       "score": 4
     },
@@ -165,7 +141,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/criticism/shows/its-always-sunny-in-philadelphia-season-18-for-the-sickos-1235210525/",
-      "date": "2026-08-18T10:19:00.396124+00:00",
+      "date": "2026-08-18T11:16:49.274776+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/Its-Always-Sunny-in-Philadelphia-Season-18-Frank-Dennis-corpse.jpg?w=650",
       "important": false,
       "score": 3
@@ -189,7 +165,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/news/business/netflix-names-katie-martin-kelley-vp-communications-film-1235210788/",
-      "date": "2026-08-18T10:19:00.395659+00:00",
+      "date": "2026-08-18T11:16:49.274220+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2021/02/NetflixBuilding219802.jpg?w=650",
       "important": false,
       "score": 3
@@ -213,7 +189,7 @@
         "fa": "The Hollywood Reporter"
       },
       "link": "https://www.hollywoodreporter.com/tv/tv-features/witney-carson-dwts-pregnancy-next-pro-interview-1236674489/",
-      "date": "2026-08-18T10:19:00.392563+00:00",
+      "date": "2026-08-18T11:16:49.270692+00:00",
       "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/181638_1200-e1786837916887.jpg?w=1440&#038;h=810&#038;crop=1",
       "important": false,
       "score": 3
@@ -237,7 +213,7 @@
         "fa": "Variety"
       },
       "link": "https://variety.com/2026/film/news/sundance-hit-thelma-mandarin-remake-stars-collective-1236836962/",
-      "date": "2026-08-18T10:19:00.390018+00:00",
+      "date": "2026-08-18T11:16:49.267810+00:00",
       "image": "https://variety.com/wp-content/uploads/2024/01/Thelma-June-Squibb-Fred-Hechinger.jpeg",
       "important": false,
       "score": 3
@@ -261,7 +237,7 @@
         "fa": "Variety"
       },
       "link": "https://variety.com/2026/tv/global/red-water-antoneta-alamat-kusijanovic-zdf-arte-beta-film-1236836971/",
-      "date": "2026-08-18T10:19:00.389754+00:00",
+      "date": "2026-08-18T11:16:49.267488+00:00",
       "image": "https://variety.com/wp-content/uploads/2026/08/Red-Water-2.jpg",
       "important": false,
       "score": 3
@@ -285,7 +261,7 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/mariska-hargitay-interview-my-mom-jayne-1237043627/",
-      "date": "2026-08-18T10:19:00.388735+00:00",
+      "date": "2026-08-18T11:16:49.265293+00:00",
       "image": "https://deadline.com/wp-content/uploads/2025/12/My-Mom-Jayne-02.jpeg",
       "important": false,
       "score": 3
@@ -309,7 +285,7 @@
         "fa": "Variety"
       },
       "link": "https://variety.com/2026/film/box-office/spider-man-brand-new-day-the-odyssey-continue-tussle-uk-ireland-box-office-1236836944/",
-      "date": "2026-08-18T10:19:00.390170+00:00",
+      "date": "2026-08-18T11:16:49.267990+00:00",
       "image": "https://variety.com/wp-content/uploads/2026/08/Spider-Man-Odyssey.jpg",
       "important": false,
       "score": 1
@@ -333,7 +309,7 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/ministry-of-time-casts-aoife-hinds-billy-howle-bbc-a24-1237044013/",
-      "date": "2026-08-18T10:19:00.386948+00:00",
+      "date": "2026-08-18T11:16:49.263139+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/Aoife-Hinds-and-Billy-Howle.jpg",
       "important": false,
       "score": 1
@@ -357,8 +333,32 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/criticism/movies/dreams-in-nightmares-review-shatara-michelle-ford-1235030591/",
-      "date": "2026-08-18T10:19:00.395842+00:00",
+      "date": "2026-08-18T11:16:49.274432+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2024/07/DIN_5.jpg?w=650",
+      "important": false,
+      "score": 0
+    },
+    {
+      "id": "88b43e0d1527",
+      "title": {
+        "en": "Lionsgate Taps David F. Sandberg to Direct Horror Movie ‘Mommy’s Home’",
+        "fa": "لاینزگیت از دیوید اف سندبرگ برای کارگردانی فیلم ترسناک «خانه مادری» استفاده می کند."
+      },
+      "excerpt": {
+        "en": "“David’s mastery of horror and off-kilter sense of humor make him the perfect match for this material,\" Erin Westerman, the studio's president, says The post Lionsgate Taps David F. Sandberg to Direct Horror Movie ‘Mommy’s Home’ appeared first on TheWrap .",
+        "fa": "ارین وسترمن، رئیس استودیو، می‌گوید: «تسلط دیوید بر ترس و شوخ طبعی، او را به بهترین وجه برای این مواد تبدیل کرده است."
+      },
+      "content": {
+        "en": "“David’s mastery of horror and off-kilter sense of humor make him the perfect match for this material,\" Erin Westerman, the studio's president, says The post Lionsgate Taps David F. Sandberg to Direct Horror Movie ‘Mommy’s Home’ appeared first on TheWrap .",
+        "fa": "ارین وسترمن، رئیس استودیو، می‌گوید: «تسلط دیوید بر ترس و شوخ طبعی، او را به بهترین وجه برای این مواد تبدیل کرده است."
+      },
+      "source": {
+        "en": "The Wrap",
+        "fa": "The Wrap"
+      },
+      "link": "https://www.thewrap.com/creative-content/movies/david-f-sandberg-to-direct-horror-movie-mommys-home-lionsgate/",
+      "date": "2026-08-18T11:16:49.272067+00:00",
+      "image": "https://www.thewrap.com/wp-content/uploads/2026/08/Untitled-design-2026-08-17T181923.591.jpg",
       "important": false,
       "score": 0
     },
@@ -381,56 +381,32 @@
         "fa": "The Hollywood Reporter"
       },
       "link": "https://www.hollywoodreporter.com/tv/tv-news/amazon-melania-followup-1236675598/",
-      "date": "2026-08-18T10:19:00.392697+00:00",
+      "date": "2026-08-18T11:16:49.270848+00:00",
       "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/01/Melania_2026_003_CREDIT__Amazon_MGM_Studios-H-2026.jpg?w=1296&#038;h=730&#038;crop=1",
       "important": false,
       "score": 0
     },
     {
-      "id": "d6a7ed90c3a4",
+      "id": "71b95cc64563",
       "title": {
-        "en": "LISTEN: How Chris Carter Got a Second Shot at ‘The X-Files: I Want to Believe’ Film",
-        "fa": "بشنوید: چگونه کریس کارتر دومین شات را در فیلم The X-Files: I Want to Believe دریافت کرد"
+        "en": "“I Don’t Believe Cinema Is Dying”: Asghar Farhadi on War, Hope and Receiving Sarajevo’s Most Prestigious Honor",
+        "fa": "اصغر فرهادی درباره جنگ، امید و دریافت معتبرترین افتخار سارایوو، «باور ندارم سینما در حال مرگ است»"
       },
       "excerpt": {
-        "en": "On today’s episode of “Daily Variety” podcast, “The X-Files” creator Chris Carter explains to Variety’s Michael Schneider how he got the chance to do a director’s cut of his 2008 “The X-Files: I Want to Believe” feature film. The new cut dubbed “The X-Files: I Want to Believe: Vrach Frankenshteyn” debuted Aug. 14 on Hulu […]",
-        "fa": "در اپیزود امروز پادکست «Daily Variety»، کریس کارتر، خالق «پرونده‌های ایکس» به مایکل اشنایدر از ورایتی توضیح می‌دهد که چگونه این شانس را پیدا کرده است که برش کارگردانی از فیلم سینمایی «پرونده‌های ایکس: می‌خواهم باور کنم» در سال 2008 را انجام دهد. برش جدید با نام «پرونده‌های ایکس: می‌خواهم باور کنم: وراچ فرانکشتاین» در 14 آگوست در Hulu منتشر شد."
+        "en": "The Oscar winner talks to The Hollywood Reporter at the Sarajevo Film Festival about his next film – and why the people of his native Iran deserve more than conflict: \"I love them, I love that culture.\"",
+        "fa": "برنده اسکار در جشنواره فیلم سارایوو با هالیوود ریپورتر درباره فیلم بعدی خود صحبت می کند - و اینکه چرا مردم زادگاهش ایران سزاوار بیش از درگیری هستند: \"من آنها را دوست دارم، من آن فرهنگ را دوست دارم.\""
       },
       "content": {
-        "en": "On today’s episode of “Daily Variety” podcast, “The X-Files” creator Chris Carter explains to Variety’s Michael Schneider how he got the chance to do a director’s cut of his 2008 “The X-Files: I Want to Believe” feature film. The new cut dubbed “The X-Files: I Want to Believe: Vrach Frankenshteyn” debuted Aug. 14 on Hulu […]",
-        "fa": "در اپیزود امروز پادکست «Daily Variety»، کریس کارتر، خالق «پرونده‌های ایکس» به مایکل اشنایدر از ورایتی توضیح می‌دهد که چگونه این شانس را پیدا کرده است که برش کارگردانی از فیلم سینمایی «پرونده‌های ایکس: می‌خواهم باور کنم» در سال 2008 را انجام دهد. برش جدید با نام «پرونده‌های ایکس: می‌خواهم باور کنم: وراچ فرانکشتاین» در 14 آگوست در Hulu منتشر شد."
+        "en": "The Oscar winner talks to The Hollywood Reporter at the Sarajevo Film Festival about his next film – and why the people of his native Iran deserve more than conflict: \"I love them, I love that culture.\"",
+        "fa": "برنده اسکار در جشنواره فیلم سارایوو با هالیوود ریپورتر درباره فیلم بعدی خود صحبت می کند - و اینکه چرا مردم زادگاهش ایران سزاوار بیش از درگیری هستند: \"من آنها را دوست دارم، من آن فرهنگ را دوست دارم.\""
       },
       "source": {
-        "en": "Variety",
-        "fa": "Variety"
+        "en": "The Hollywood Reporter",
+        "fa": "The Hollywood Reporter"
       },
-      "link": "https://variety.com/2026/tv/news/chris-carter-x-files-i-want-to-believe-directors-cut-1236836849/",
-      "date": "2026-08-18T10:19:00.391495+00:00",
-      "image": "https://variety.com/wp-content/uploads/2026/08/GettyImages-1457306222-e1787012171950.jpg",
-      "important": false,
-      "score": 0
-    },
-    {
-      "id": "27c494eb74fb",
-      "title": {
-        "en": "David F. Sandberg to Direct Horror Movie ‘Mommy’s Home’ for Lionsgate",
-        "fa": "دیوید اف سندبرگ کارگردانی فیلم ترسناک «خانه مادری» برای Lionsgate"
-      },
-      "excerpt": {
-        "en": "David F. Sandberg has been tapped to direct a new psychological horror movie, “Mommy’s Home,” for Lionsgate. From screenwriter James Morosini, “Mommy’s Home” follows “a young dad whose family life becomes terrifyingly unhinged when his cryogenically preserved mom is unfrozen and sent to live with him,” according to an official logline. Sandberg is probably best […]",
-        "fa": "دیوید اف سندبرگ برای کارگردانی یک فیلم ترسناک روانشناختی جدید به نام «خانه مادری» برای لاینزگیت انتخاب شده است. از جیمز موروسینی، فیلمنامه نویس، «خانه مادری» را دنبال می کند: «پدر جوانی که زندگی خانوادگی اش به طرز وحشتناکی از بین می رود، زمانی که مادرش که از نظر سرمایشی حفظ شده است، منجمد می شود و برای زندگی با او فرستاده می شود». سندبرگ احتمالا بهترین است"
-      },
-      "content": {
-        "en": "David F. Sandberg has been tapped to direct a new psychological horror movie, “Mommy’s Home,” for Lionsgate. From screenwriter James Morosini, “Mommy’s Home” follows “a young dad whose family life becomes terrifyingly unhinged when his cryogenically preserved mom is unfrozen and sent to live with him,” according to an official logline. Sandberg is probably best […]",
-        "fa": "دیوید اف سندبرگ برای کارگردانی یک فیلم ترسناک روانشناختی جدید به نام «خانه مادری» برای لاینزگیت انتخاب شده است. از جیمز موروسینی، فیلمنامه نویس، «خانه مادری» را دنبال می کند: «پدر جوانی که زندگی خانوادگی اش به طرز وحشتناکی از بین می رود، زمانی که مادرش که از نظر سرمایشی حفظ شده است، منجمد می شود و برای زندگی با او فرستاده می شود». سندبرگ احتمالا بهترین است"
-      },
-      "source": {
-        "en": "Variety",
-        "fa": "Variety"
-      },
-      "link": "https://variety.com/2026/film/news/david-f-sandberg-direct-mommys-home-lionsgate-1236836858/",
-      "date": "2026-08-18T10:19:00.391319+00:00",
-      "image": "https://variety.com/wp-content/uploads/2026/08/MixCollage-17-Aug-2026-05-49-PM-8447.jpg",
+      "link": "https://www.hollywoodreporter.com/movies/movie-features/asghar-farhadi-director-film-war-iran-sarajevo-interview-1236675940/",
+      "date": "2026-08-18T11:16:49.269398+00:00",
+      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/FotoJet-2026-08-18T125500.601.jpg?w=1440&#038;h=810&#038;crop=1",
       "important": false,
       "score": 0
     },
@@ -442,19 +418,67 @@
       },
       "excerpt": {
         "en": "Vin Diesel says filming for “Fast Forever” has a start date. “We start shooting in December, if I can make good on the request from the studio,” Diesel told Variety Monday night at the 25th anniversary screening of “The Fast and the Furious.” “I’m in a good place, though. I had to go through four […]",
-        "fa": "وین دیزل می گوید فیلمبرداری «Fast Forever» تاریخ شروعی دارد. دیزل دوشنبه شب در مراسم اکران بیست و پنجمین سالگرد فیلم «سریع و خشمگین» به ورایتی گفت: «در صورت درخواست استودیو، فیلمبرداری را در دسامبر شروع می‌کنیم.» با این حال، من در مکان خوبی هستم. باید از چهار مرحله عبور می کردم"
+        "fa": "وین دیزل می‌گوید فیلمبرداری «Fast Forever» تاریخ شروعی دارد. دیزل دوشنبه شب در مراسم اکران بیست و پنجمین سالگرد فیلم «سریع و خشمگین» به ورایتی گفت: «اگر بتوانم به درخواست استودیو خوب عمل کنم، فیلمبرداری را در دسامبر شروع می‌کنیم.» با این حال، من در مکان خوبی هستم. باید از چهار مرحله عبور می کردم"
       },
       "content": {
         "en": "Vin Diesel says filming for “Fast Forever” has a start date. “We start shooting in December, if I can make good on the request from the studio,” Diesel told Variety Monday night at the 25th anniversary screening of “The Fast and the Furious.” “I’m in a good place, though. I had to go through four […]",
-        "fa": "وین دیزل می گوید فیلمبرداری «Fast Forever» تاریخ شروعی دارد. دیزل دوشنبه شب در مراسم اکران بیست و پنجمین سالگرد فیلم «سریع و خشمگین» به ورایتی گفت: «در صورت درخواست استودیو، فیلمبرداری را در دسامبر شروع می‌کنیم.» با این حال، من در مکان خوبی هستم. باید از چهار مرحله عبور می کردم"
+        "fa": "وین دیزل می‌گوید فیلمبرداری «Fast Forever» تاریخ شروعی دارد. دیزل دوشنبه شب در مراسم اکران بیست و پنجمین سالگرد فیلم «سریع و خشمگین» به ورایتی گفت: «اگر بتوانم به درخواست استودیو خوب عمل کنم، فیلمبرداری را در دسامبر شروع می‌کنیم.» با این حال، من در مکان خوبی هستم. باید از چهار مرحله عبور می کردم"
       },
       "source": {
         "en": "Variety",
         "fa": "Variety"
       },
       "link": "https://variety.com/2026/film/news/vin-diesel-fast-forever-starts-shooting-december-1236836906/",
-      "date": "2026-08-18T10:19:00.390686+00:00",
+      "date": "2026-08-18T11:16:49.268621+00:00",
       "image": "https://variety.com/wp-content/uploads/2026/08/GettyImages-2290414513.jpg",
+      "important": false,
+      "score": 0
+    },
+    {
+      "id": "72225f0d8f5a",
+      "title": {
+        "en": "Diego Luna on Challenging How Migrants Are Viewed With ‘Ashes’: ‘We’re Not Thinking About What They Left Behind’",
+        "fa": "دیگو لونا درباره به چالش کشیدن نحوه نگاه کردن به مهاجران با «خاکستر»: «ما به آنچه که آنها پشت سر گذاشتند فکر نمی کنیم»"
+      },
+      "excerpt": {
+        "en": "Between conducting a masterclass and attending an open-air screening of his fourth directorial feature, “Ashes,” Diego Luna dropped by the Variety Lounge presented by the Sarajevo Film Festival and BH Telecom to chat about his first time in the Bosnian capital. The Mexican actor-director-producer, who broke out in Alfonso Cuaron’s “Y Tu Mama Tambien” and […]",
+        "fa": "دیگو لونا بین برگزاری یک مسترکلاس و شرکت در نمایش فضای باز چهارمین فیلم کارگردانی خود، «خاکستر»، از سالن Variety Lounge که توسط جشنواره فیلم سارایوو و BH Telecom ارائه شده بود رفت تا درباره اولین حضورش در پایتخت بوسنی گپ بزند. بازیگر، کارگردان و تهیه کننده مکزیکی که در فیلم «Y Tu Mama Tambien» آلفونسو کوارون نقش آفرینی کرد و"
+      },
+      "content": {
+        "en": "Between conducting a masterclass and attending an open-air screening of his fourth directorial feature, “Ashes,” Diego Luna dropped by the Variety Lounge presented by the Sarajevo Film Festival and BH Telecom to chat about his first time in the Bosnian capital. The Mexican actor-director-producer, who broke out in Alfonso Cuaron’s “Y Tu Mama Tambien” and […]",
+        "fa": "دیگو لونا بین برگزاری یک مسترکلاس و شرکت در نمایش فضای باز چهارمین فیلم کارگردانی خود، «خاکستر»، از سالن Variety Lounge که توسط جشنواره فیلم سارایوو و BH Telecom ارائه شده بود رفت تا درباره اولین حضورش در پایتخت بوسنی گپ بزند. بازیگر، کارگردان و تهیه کننده مکزیکی که در فیلم «Y Tu Mama Tambien» آلفونسو کوارون نقش آفرینی کرد و"
+      },
+      "source": {
+        "en": "Variety",
+        "fa": "Variety"
+      },
+      "link": "https://variety.com/2026/film/global/diego-luna-ashes-sarajevo-1236836130/",
+      "date": "2026-08-18T11:16:49.266786+00:00",
+      "image": "https://variety.com/wp-content/uploads/2026/08/Diego-Luna-and-Beatrice.jpg",
+      "important": false,
+      "score": 0
+    },
+    {
+      "id": "01c93628384e",
+      "title": {
+        "en": "Oscars: Taiwan Selects ‘A Foggy Tale’ for International Feature Race",
+        "fa": "اسکار: تایوان \"داستان مه آلود\" را برای مسابقه بین المللی فیلم انتخاب می کند"
+      },
+      "excerpt": {
+        "en": "“A Foggy Tale,” directed by Chen Yu-hsun, has been selected to represent Taiwan in the best international feature film category at the 99th Academy Awards, Taiwan’s Ministry of Culture has revealed. The film was chosen from seven domestic submissions by majority vote. The selection committee praised the film for its “vivid characters, smooth narrative and […]",
+        "fa": "وزارت فرهنگ تایوان فاش کرد که \"داستان مه آلود\" به کارگردانی چن یو هسون به عنوان نماینده تایوان در بخش بهترین فیلم بلند بین المللی در نود و نهمین دوره جوایز اسکار انتخاب شده است. این فیلم از بین هفت فیلم ارسالی داخلی با اکثریت آرا انتخاب شد. کمیته انتخاب فیلم را به خاطر «شخصیت های زنده، روایت روان و"
+      },
+      "content": {
+        "en": "“A Foggy Tale,” directed by Chen Yu-hsun, has been selected to represent Taiwan in the best international feature film category at the 99th Academy Awards, Taiwan’s Ministry of Culture has revealed. The film was chosen from seven domestic submissions by majority vote. The selection committee praised the film for its “vivid characters, smooth narrative and […]",
+        "fa": "وزارت فرهنگ تایوان فاش کرد که \"داستان مه آلود\" به کارگردانی چن یو هسون به عنوان نماینده تایوان در بخش بهترین فیلم بلند بین المللی در نود و نهمین دوره جوایز اسکار انتخاب شده است. این فیلم از بین هفت فیلم ارسالی داخلی با اکثریت آرا انتخاب شد. کمیته انتخاب فیلم را به خاطر «شخصیت های زنده، روایت روان و"
+      },
+      "source": {
+        "en": "Variety",
+        "fa": "Variety"
+      },
+      "link": "https://variety.com/2026/film/awards/oscars-taiwan-a-foggy-tale-international-feature-1236837005/",
+      "date": "2026-08-18T11:16:49.266472+00:00",
+      "image": "https://variety.com/wp-content/uploads/2025/10/A-Foggy-Tale.jpg",
       "important": false,
       "score": 0
     },
@@ -477,7 +501,7 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/kevin-macdonald-pep-guardiola-man-city-beautiful-obsession-1237014372/",
-      "date": "2026-08-18T10:19:00.388948+00:00",
+      "date": "2026-08-18T11:16:49.265549+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/06/City-Studios_Manchester-City-Docuseries-1.jpeg",
       "important": false,
       "score": 0
@@ -501,7 +525,7 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/charles-esten-tribute-hayden-panettiere-nashville-dead-1237043868/",
-      "date": "2026-08-18T10:19:00.388183+00:00",
+      "date": "2026-08-18T11:16:49.264645+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/hayden-panettiere-charles-esten-nashville.jpg",
       "important": false,
       "score": 0
