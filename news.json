@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-18T18:24:04.161880+00:00",
+  "updated_at": "2026-08-18T19:21:15.334822+00:00",
   "count": 24,
   "news": [
     {
@@ -21,7 +21,7 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/east-of-eden-netflix-release-date-photos-florence-pugh-1237044324/",
-      "date": "2026-08-18T18:24:03.896223+00:00",
+      "date": "2026-08-18T19:21:15.024134+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/East_of_Eden_n_S1_E3_00_28_43_09R2X.jpg",
       "important": true,
       "score": 7
@@ -45,8 +45,32 @@
         "fa": "The Wrap"
       },
       "link": "https://www.thewrap.com/creative-content/movies/lifetime-movies-september-2026/",
-      "date": "2026-08-18T18:24:03.902564+00:00",
+      "date": "2026-08-18T19:21:15.031065+00:00",
       "image": "https://www.thewrap.com/wp-content/uploads/2026/08/SoleSurvivor.jpg",
+      "important": true,
+      "score": 6
+    },
+    {
+      "id": "7c51a384baa7",
+      "title": {
+        "en": "‘My Life With the Walter Boys’ Season 3 Tops Netflix TV Charts in Week 2 With 8.7 Million Views",
+        "fa": "فصل 3 «زندگی من با پسران والتر» با 8.7 میلیون بازدید برترین نمودارهای تلویزیونی نتفلیکس در هفته دوم است."
+      },
+      "excerpt": {
+        "en": "\"The Last House\" maintained its lead on the film side with 33.5 million views The post ‘My Life With the Walter Boys’ Season 3 Tops Netflix TV Charts in Week 2 With 8.7 Million Views appeared first on TheWrap .",
+        "fa": "«آخرین خانه» با 33.5 میلیون بازدید همچنان پیشتاز خود را در بخش فیلم حفظ کرد"
+      },
+      "content": {
+        "en": "\"The Last House\" maintained its lead on the film side with 33.5 million views The post ‘My Life With the Walter Boys’ Season 3 Tops Netflix TV Charts in Week 2 With 8.7 Million Views appeared first on TheWrap .",
+        "fa": "«آخرین خانه» با 33.5 میلیون بازدید همچنان پیشتاز خود را در بخش فیلم حفظ کرد"
+      },
+      "source": {
+        "en": "The Wrap",
+        "fa": "The Wrap"
+      },
+      "link": "https://www.thewrap.com/creative-content/tv-shows/my-life-with-the-walter-boys-season-3-viewership-netflix/",
+      "date": "2026-08-18T19:21:15.030578+00:00",
+      "image": "https://www.thewrap.com/wp-content/uploads/2025/08/My_Life_With_the_Walter_Boys_n_S2_E1_00_34_53_06R.jpg",
       "important": true,
       "score": 6
     },
@@ -69,56 +93,32 @@
         "fa": "Variety"
       },
       "link": "https://variety.com/2026/film/news/kevin-hart-henry-cavill-netflix-movie-jason-isaacs-justine-lupe-1236837383/",
-      "date": "2026-08-18T18:24:03.899345+00:00",
+      "date": "2026-08-18T19:21:15.028041+00:00",
       "image": "https://variety.com/wp-content/uploads/2026/08/MixCollage-18-Aug-2026-10-04-AM-3401-e1787072722486.jpg",
       "important": true,
       "score": 6
     },
     {
-      "id": "06345f17d5fe",
+      "id": "abfc4680ac50",
       "title": {
-        "en": "Verve Signs Filmmaker Anna Mastro",
-        "fa": "آنا ماسترو، فیلمساز Verve Signs"
+        "en": "Steven Zaillian & Richard Price Limited Series Getting Netflix Order, Reuniting ‘The Night Of’ Duo",
+        "fa": "استیون زیلیان و ریچارد پرایس سریال لیمیتد سفارش نتفلیکس را دریافت می‌کنند و دوتایی «The Night Of» را دوباره به هم می‌رسانند."
       },
       "excerpt": {
-        "en": "EXCLUSIVE: Verve has signed Anna Mastro for representation. A filmmaker active across both film and television, Mastro is helming the feature adaptation of action-adventure game Gravity Rush for PlayStation Productions and Scott Free. Also attached to direct the romantic comedy Katfished for Rebelle Media, her earlier feature directing credits include Disney+’s Secret Society of Second Born Royals and the indie dramedy Walter. In […]",
-        "fa": "اختصاصی: Verve برای نمایندگی با آنا ماسترو قرارداد امضا کرده است. Mastro که یک فیلمساز فعال در سینما و تلویزیون است، اقتباسی از بازی اکشن ماجراجویی Gravity Rush را برای PlayStation Productions و Scott Free انجام می دهد. همچنین به کارگردانی کمدی عاشقانه Katfished برای Rebelle Media، از جمله فیلم‌های سینمایی Disney+'s Secret Society of Second Born Royals و درام مستقل والتر است. در"
+        "en": "EXCLUSIVE: More than three years ago, Netflix swooped in to take Ripley, Steven Zaillian’s limited series starring Andrew Scott, amid a programming strategy shift at Showtime, where the project had been set. The move was a success, with Ripley landing 13 Emmy nominations and winning four awards, including for Zaillian’s directing work. Out of that […]",
+        "fa": "انحصاری: بیش از سه سال پیش، نتفلیکس برای گرفتن ریپلی، سریال محدود استیون زیلیان با بازی اندرو اسکات، در بحبوحه تغییر استراتژی برنامه‌نویسی در Showtime، جایی که پروژه در آن قرار داشت، وارد عمل شد. این حرکت موفقیت آمیز بود و ریپلی 13 نامزدی امی دریافت کرد و چهار جایزه از جمله برای کارگردانی زیلیان را به دست آورد. خارج از آن"
       },
       "content": {
-        "en": "EXCLUSIVE: Verve has signed Anna Mastro for representation. A filmmaker active across both film and television, Mastro is helming the feature adaptation of action-adventure game Gravity Rush for PlayStation Productions and Scott Free. Also attached to direct the romantic comedy Katfished for Rebelle Media, her earlier feature directing credits include Disney+’s Secret Society of Second Born Royals and the indie dramedy Walter. In […]",
-        "fa": "اختصاصی: Verve برای نمایندگی با آنا ماسترو قرارداد امضا کرده است. Mastro که یک فیلمساز فعال در سینما و تلویزیون است، اقتباسی از بازی اکشن ماجراجویی Gravity Rush را برای PlayStation Productions و Scott Free انجام می دهد. همچنین به کارگردانی کمدی عاشقانه Katfished برای Rebelle Media، از جمله فیلم‌های سینمایی Disney+'s Secret Society of Second Born Royals و درام مستقل والتر است. در"
+        "en": "EXCLUSIVE: More than three years ago, Netflix swooped in to take Ripley, Steven Zaillian’s limited series starring Andrew Scott, amid a programming strategy shift at Showtime, where the project had been set. The move was a success, with Ripley landing 13 Emmy nominations and winning four awards, including for Zaillian’s directing work. Out of that […]",
+        "fa": "انحصاری: بیش از سه سال پیش، نتفلیکس برای گرفتن ریپلی، سریال محدود استیون زیلیان با بازی اندرو اسکات، در بحبوحه تغییر استراتژی برنامه‌نویسی در Showtime، جایی که پروژه در آن قرار داشت، وارد عمل شد. این حرکت موفقیت آمیز بود و ریپلی 13 نامزدی امی دریافت کرد و چهار جایزه از جمله برای کارگردانی زیلیان را به دست آورد. خارج از آن"
       },
       "source": {
         "en": "Deadline",
         "fa": "Deadline"
       },
-      "link": "https://deadline.com/2026/08/anna-mastro-signs-verve-1237044200/",
-      "date": "2026-08-18T18:24:03.898165+00:00",
-      "image": "https://deadline.com/wp-content/uploads/2026/08/Screenshot-2026-08-18-at-8.00.48-AM.png",
-      "important": true,
-      "score": 6
-    },
-    {
-      "id": "a159877c2343",
-      "title": {
-        "en": "Ken Kao’s Waypoint Strikes First-Look With ‘Splitsville’ & ‘80 For Brady’ Outfit Watch This Ready; First Project Revealed",
-        "fa": "Waypoint's Ken Kao با لباس «Splitsville» و «80 For Brady» این آماده را تماشا کنید. اولین پروژه فاش شد"
-      },
-      "excerpt": {
-        "en": "EXCLUSIVE: Ken Kao’s prolific financier-producer Waypoint Entertainment has struck a first-look partnership with Watch This Ready, the indie production company co-founded by filmmakers Kyle Marvin and Michael Angelo Covino, alongside producer Emily Korteweg. The two companies previously collaborated on the Dakota Johnson starrer Splitsville, which premiered at the Cannes Film Festival last year and was […]",
-        "fa": "انحصاری: Waypoint Entertainment، سرمایه‌دار و تهیه‌کننده پرکار کن کائو، با Watch This Ready، شرکت تولید مستقلی که توسط فیلم‌سازان کایل ماروین و مایکل آنجلو کووینو تأسیس شده است، در کنار امیلی کورت‌ویگ، تهیه‌کننده همکاری کرده است. این دو شرکت قبلاً در فیلم Splitsville بازیگر داکوتا جانسون که سال گذشته در جشنواره فیلم کن به نمایش درآمد همکاری داشتند."
-      },
-      "content": {
-        "en": "EXCLUSIVE: Ken Kao’s prolific financier-producer Waypoint Entertainment has struck a first-look partnership with Watch This Ready, the indie production company co-founded by filmmakers Kyle Marvin and Michael Angelo Covino, alongside producer Emily Korteweg. The two companies previously collaborated on the Dakota Johnson starrer Splitsville, which premiered at the Cannes Film Festival last year and was […]",
-        "fa": "انحصاری: Waypoint Entertainment، سرمایه‌دار و تهیه‌کننده پرکار کن کائو، با Watch This Ready، شرکت تولید مستقلی که توسط فیلم‌سازان کایل ماروین و مایکل آنجلو کووینو تأسیس شده است، در کنار امیلی کورت‌ویگ، تهیه‌کننده همکاری کرده است. این دو شرکت قبلاً در فیلم Splitsville بازیگر داکوتا جانسون که سال گذشته در جشنواره فیلم کن به نمایش درآمد همکاری داشتند."
-      },
-      "source": {
-        "en": "Deadline",
-        "fa": "Deadline"
-      },
-      "link": "https://deadline.com/2026/08/waypoint-first-look-splitsville-80-brady-watch-this-ready-1237044260/",
-      "date": "2026-08-18T18:24:03.897951+00:00",
-      "image": "https://deadline.com/wp-content/uploads/2026/08/Waypoint-Watch-This-Ready.png",
+      "link": "https://deadline.com/2026/08/steven-zaillian-richard-price-limited-series-netflix-1237044251/",
+      "date": "2026-08-18T19:21:15.022539+00:00",
+      "image": "https://deadline.com/wp-content/uploads/2026/08/GettyImages-2182750561.jpg",
       "important": true,
       "score": 6
     },
@@ -141,32 +141,8 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/news/trailers/my-brothers-wedding-4k-restoration-trailer-charles-burnett-1235210852/",
-      "date": "2026-08-18T18:24:03.905625+00:00",
+      "date": "2026-08-18T19:21:15.034272+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/MyBrothersWedding.jpg?w=650",
-      "important": true,
-      "score": 4
-    },
-    {
-      "id": "a38406f31053",
-      "title": {
-        "en": "‘The Rivals of Amziah King’ Wasn’t the Sleeper Indie Box Office Darling We Hoped",
-        "fa": "«رقبای امزیا کینگ» باکس آفیس مستقل خواب‌آلود نبود عزیزم که امیدوار بودیم"
-      },
-      "excerpt": {
-        "en": "With just over $1 million from a limited release, Matthew McConaughey's return to the big screen wasn't as heralded as a strong SXSW premiere suggested.",
-        "fa": "با کمی بیش از 1 میلیون دلار از یک اکران محدود، بازگشت متیو مک‌کانهی به صفحه بزرگ آنطور که اولین نمایش قدرتمند SXSW پیشنهاد می‌شد، اعلام نشده بود."
-      },
-      "content": {
-        "en": "With just over $1 million from a limited release, Matthew McConaughey's return to the big screen wasn't as heralded as a strong SXSW premiere suggested.",
-        "fa": "با کمی بیش از 1 میلیون دلار از یک اکران محدود، بازگشت متیو مک‌کانهی به صفحه بزرگ آنطور که اولین نمایش قدرتمند SXSW پیشنهاد می‌شد، اعلام نشده بود."
-      },
-      "source": {
-        "en": "IndieWire",
-        "fa": "IndieWire"
-      },
-      "link": "https://www.indiewire.com/news/box-office/rivals-amziah-king-box-office-black-bear-1235210853/",
-      "date": "2026-08-18T18:24:03.905163+00:00",
-      "image": "https://www.indiewire.com/wp-content/uploads/2025/03/the-rivals-of-amziah-king-319857_c200b9.webp?w=650",
       "important": true,
       "score": 4
     },
@@ -189,7 +165,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/news/business/netflix-names-katie-martin-kelley-vp-communications-film-1235210788/",
-      "date": "2026-08-18T18:24:03.905952+00:00",
+      "date": "2026-08-18T19:21:15.034659+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2021/02/NetflixBuilding219802.jpg?w=650",
       "important": false,
       "score": 3
@@ -213,7 +189,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/news/festivals/sxsw-2027-venue-changes-podcast-festival-1235211013/",
-      "date": "2026-08-18T18:24:03.904673+00:00",
+      "date": "2026-08-18T19:21:15.033147+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/03-14-26_Over_Your_Dead_Body_Chris_Saucedo-40.jpg?w=650",
       "important": false,
       "score": 3
@@ -237,56 +213,8 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/news/festivals/nyff-2026-revivals-ken-russell-the-devils-1235210928/",
-      "date": "2026-08-18T18:24:03.904591+00:00",
+      "date": "2026-08-18T19:21:15.033049+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/57097357-4bf5-4f7f-9db5-43513d5746bc.jpeg?w=650",
-      "important": false,
-      "score": 3
-    },
-    {
-      "id": "26bd3f0018f8",
-      "title": {
-        "en": "Margaret Mendelson Joins Independent Artist Group | Exclusive",
-        "fa": "مارگارت مندلسون به گروه هنرمندان مستقل پیوست | انحصاری"
-      },
-      "excerpt": {
-        "en": "“We are thrilled to have the opportunity to work alongside Margaret after years of respect and admiration from afar,” IAG EVP and partner Lindsay Howard Parker says The post Margaret Mendelson Joins Independent Artist Group | Exclusive appeared first on TheWrap .",
-        "fa": "لیندسی هاوارد پارکر، EVP و شریک IAG می‌گوید: «ما از اینکه پس از سال‌ها احترام و تحسین از راه دور فرصتی برای همکاری در کنار مارگارت داریم، هیجان‌زده هستیم."
-      },
-      "content": {
-        "en": "“We are thrilled to have the opportunity to work alongside Margaret after years of respect and admiration from afar,” IAG EVP and partner Lindsay Howard Parker says The post Margaret Mendelson Joins Independent Artist Group | Exclusive appeared first on TheWrap .",
-        "fa": "لیندسی هاوارد پارکر، EVP و شریک IAG می‌گوید: «ما از اینکه پس از سال‌ها احترام و تحسین از راه دور فرصتی برای همکاری در کنار مارگارت داریم، هیجان‌زده هستیم."
-      },
-      "source": {
-        "en": "The Wrap",
-        "fa": "The Wrap"
-      },
-      "link": "https://www.thewrap.com/industry-news/business/margaret-mendelson-joins-independent-artist-group/",
-      "date": "2026-08-18T18:24:03.904112+00:00",
-      "image": "https://www.thewrap.com/wp-content/uploads/2026/08/Margaret-Mendelsohn-IAG.jpg",
-      "important": false,
-      "score": 3
-    },
-    {
-      "id": "4fa96fcade74",
-      "title": {
-        "en": "Love After Weight Loss Reality Dating Show Lands at Netflix",
-        "fa": "نمایش واقعی دوستیابی عشق پس از کاهش وزن در نتفلیکس"
-      },
-      "excerpt": {
-        "en": "\"Weight to Date\" follows singles during and after extreme weight loss The post Love After Weight Loss Reality Dating Show Lands at Netflix appeared first on TheWrap .",
-        "fa": "\"وزن تا تاریخ\" به دنبال تک آهنگ ها در طول و بعد از کاهش وزن شدید است"
-      },
-      "content": {
-        "en": "\"Weight to Date\" follows singles during and after extreme weight loss The post Love After Weight Loss Reality Dating Show Lands at Netflix appeared first on TheWrap .",
-        "fa": "\"وزن تا تاریخ\" به دنبال تک آهنگ ها در طول و بعد از کاهش وزن شدید است"
-      },
-      "source": {
-        "en": "The Wrap",
-        "fa": "The Wrap"
-      },
-      "link": "https://www.thewrap.com/creative-content/tv-shows/weight-to-date-netflix-reality-show/",
-      "date": "2026-08-18T18:24:03.903873+00:00",
-      "image": "https://www.thewrap.com/wp-content/uploads/2026/08/weight-loss-getty.jpg",
       "important": false,
       "score": 3
     },
@@ -309,104 +237,32 @@
         "fa": "The Wrap"
       },
       "link": "https://www.thewrap.com/media-platforms/tv/starz-takethethelead-writers-program-2026-details/",
-      "date": "2026-08-18T18:24:03.903179+00:00",
+      "date": "2026-08-18T19:21:15.031784+00:00",
       "image": "https://www.thewrap.com/wp-content/uploads/2025/11/Starz.jpg",
       "important": false,
       "score": 3
     },
     {
-      "id": "deb5b7bd9553",
+      "id": "faa4ea9ffc03",
       "title": {
-        "en": "Story Syndicate Promotes Jon Bardin to President of Documentary and Unscripted (Exclusive)",
-        "fa": "Story Syndicate جان باردین را به عنوان رئیس فیلم مستند و بدون فیلمنامه ارتقا داد"
+        "en": "Film Academy’s Pickford Center Set to Undergo Three-Year Renovation (Exclusive)",
+        "fa": "مرکز پیکفورد آکادمی فیلم به مدت سه سال تحت بازسازی قرار می گیرد"
       },
       "excerpt": {
-        "en": "The ‘Maternal Instinct’ and ‘Last Take’ producer has been supervising the company’s expansion into more recurring series like ‘Solo Traveling with Tracee Ellis Ross.’",
-        "fa": "تهیه‌کننده «غریزه مادری» و «آخرین برداشت» بر گسترش شرکت به سریال‌های تکراری‌تر مانند «سفر انفرادی با تریسی الیس راس» نظارت می‌کند."
+        "en": "The building in Hollywood houses the Academy's film archive.",
+        "fa": "این ساختمان در هالیوود آرشیو فیلم آکادمی را در خود جای داده است."
       },
       "content": {
-        "en": "The ‘Maternal Instinct’ and ‘Last Take’ producer has been supervising the company’s expansion into more recurring series like ‘Solo Traveling with Tracee Ellis Ross.’",
-        "fa": "تهیه‌کننده «غریزه مادری» و «آخرین برداشت» بر گسترش شرکت به سریال‌های تکراری‌تر مانند «سفر انفرادی با تریسی الیس راس» نظارت می‌کند."
+        "en": "The building in Hollywood houses the Academy's film archive.",
+        "fa": "این ساختمان در هالیوود آرشیو فیلم آکادمی را در خود جای داده است."
       },
       "source": {
         "en": "The Hollywood Reporter",
         "fa": "The Hollywood Reporter"
       },
-      "link": "https://www.hollywoodreporter.com/business/business-news/story-syndicate-promotes-jon-bardin-1236675464/",
-      "date": "2026-08-18T18:24:03.902257+00:00",
-      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/Jon-Bardin-Headshot-Main-2026.jpg?w=1296&#038;h=730&#038;crop=1",
-      "important": false,
-      "score": 3
-    },
-    {
-      "id": "df97b36fa2bf",
-      "title": {
-        "en": "Olivia Colman Joins ‘Only Murders in the Building’ Season 6",
-        "fa": "اولیویا کولمن به فصل ششم «Only Murders in the Building» پیوست"
-      },
-      "excerpt": {
-        "en": "Olivia Colman has joined the London-set sixth season of “Only Murders in the Building.” The Oscar winner was revealed as the Hulu series’ latest guest star in a video posted on its Instagram account on Tuesday featuring cast members Selena Gomez, Meryl Streep and Martin Short. “We have had so many amazing guest stars for […]",
-        "fa": "اولیویا کولمن به فصل ششم سریال «فقط قتل‌ها در ساختمان» در لندن پیوست. برنده اسکار به عنوان آخرین ستاره مهمان سریال Hulu در ویدیویی که روز سه‌شنبه در حساب اینستاگرام خود منتشر شد با حضور سلنا گومز، مریل استریپ و مارتین شورت از بازیگران این سریال مشخص شد. ما ستاره‌های مهمان شگفت‌انگیز زیادی داشته‌ایم"
-      },
-      "content": {
-        "en": "Olivia Colman has joined the London-set sixth season of “Only Murders in the Building.” The Oscar winner was revealed as the Hulu series’ latest guest star in a video posted on its Instagram account on Tuesday featuring cast members Selena Gomez, Meryl Streep and Martin Short. “We have had so many amazing guest stars for […]",
-        "fa": "اولیویا کولمن به فصل ششم سریال «فقط قتل‌ها در ساختمان» در لندن پیوست. برنده اسکار به عنوان آخرین ستاره مهمان سریال Hulu در ویدیویی که روز سه‌شنبه در حساب اینستاگرام خود منتشر شد با حضور سلنا گومز، مریل استریپ و مارتین شورت از بازیگران این سریال مشخص شد. ما ستاره‌های مهمان شگفت‌انگیز زیادی داشته‌ایم"
-      },
-      "source": {
-        "en": "Variety",
-        "fa": "Variety"
-      },
-      "link": "https://variety.com/2026/tv/global/olivia-colman-only-murders-in-the-building-season-6-1236837324/",
-      "date": "2026-08-18T18:24:03.900676+00:00",
-      "image": "https://variety.com/wp-content/uploads/2026/08/olivia.jpg",
-      "important": false,
-      "score": 3
-    },
-    {
-      "id": "79e61235b27c",
-      "title": {
-        "en": "‘Heated Rivalry’ Sets Collector’s Edition Blu-ray Release With Steamy Posters, Collectible Art Cards and Special Features",
-        "fa": "«رقابت داغ» نسخه کلکسیونی نسخه بلوری را با پوسترهای Steamy، کارت‌های هنری کلکسیونی و ویژگی‌های ویژه تنظیم می‌کند"
-      },
-      "excerpt": {
-        "en": "“Heated Rivalry” fans, rejoice! A collector’s Blu-ray edition of the show’s first season was announced Tuesday morning. The physical release won’t ship out until April of 2027 but is already available to pre-order online. The upcoming releases include Blu-ray, DVD and 4K editions, all advertised as special collector’s editions although there are no details yet […]",
-        "fa": "طرفداران \"رقابت داغ\"، شاد باشید! نسخه بلوری کلکسیونی فصل اول سریال صبح روز سه شنبه اعلام شد. نسخه فیزیکی تا آوریل 2027 عرضه نمی شود، اما در حال حاضر برای پیش خرید آنلاین در دسترس است. نسخه‌های آتی شامل نسخه‌های بلوری، دی‌وی‌دی و 4K هستند که همگی به‌عنوان نسخه‌های جمع‌آوری ویژه تبلیغ می‌شوند، اگرچه هنوز جزئیاتی در دست نیست."
-      },
-      "content": {
-        "en": "“Heated Rivalry” fans, rejoice! A collector’s Blu-ray edition of the show’s first season was announced Tuesday morning. The physical release won’t ship out until April of 2027 but is already available to pre-order online. The upcoming releases include Blu-ray, DVD and 4K editions, all advertised as special collector’s editions although there are no details yet […]",
-        "fa": "طرفداران \"رقابت داغ\"، شاد باشید! نسخه بلوری کلکسیونی فصل اول سریال صبح روز سه شنبه اعلام شد. نسخه فیزیکی تا آوریل 2027 عرضه نمی شود، اما در حال حاضر برای پیش خرید آنلاین در دسترس است. نسخه‌های آتی شامل نسخه‌های بلوری، دی‌وی‌دی و 4K هستند که همگی به‌عنوان نسخه‌های جمع‌آوری ویژه تبلیغ می‌شوند، اگرچه هنوز جزئیاتی در دست نیست."
-      },
-      "source": {
-        "en": "Variety",
-        "fa": "Variety"
-      },
-      "link": "https://variety.com/2026/shopping/news/heated-rivalry-blu-ray-collectors-edition-buy-online-1236764955/",
-      "date": "2026-08-18T18:24:03.899819+00:00",
-      "image": "https://variety.com/wp-content/uploads/2026/06/81hlii9uf4L._SL1500_.jpg",
-      "important": false,
-      "score": 3
-    },
-    {
-      "id": "537d758d972f",
-      "title": {
-        "en": "Macaulay Culkin Signs With CAA",
-        "fa": "مکالی کالکین با CAA امضا می کند"
-      },
-      "excerpt": {
-        "en": "EXCLUSIVE: Actor Macaulay Culkin has signed with CAA. One of those actors who will be forever linked to an iconic film, Culkin is known for his role as Kevin McCallister in John Hughes’ holiday classic Home Alone, one of only a handful of films in the last 50 years to have remained at #1 at the box […]",
-        "fa": "انحصاری: بازیگر مکالی کالکین با CAA قرارداد بسته است. یکی از آن بازیگرانی که برای همیشه با یک فیلم نمادین مرتبط خواهند بود، کالکین برای بازی در نقش کوین مک کالیستر در فیلم کلاسیک تعطیلات جان هیوز در خانه تنها در خانه، یکی از معدود فیلم‌هایی در 50 سال گذشته که در رتبه اول باقی مانده است، شناخته می‌شود."
-      },
-      "content": {
-        "en": "EXCLUSIVE: Actor Macaulay Culkin has signed with CAA. One of those actors who will be forever linked to an iconic film, Culkin is known for his role as Kevin McCallister in John Hughes’ holiday classic Home Alone, one of only a handful of films in the last 50 years to have remained at #1 at the box […]",
-        "fa": "انحصاری: بازیگر مکالی کالکین با CAA قرارداد بسته است. یکی از آن بازیگرانی که برای همیشه با یک فیلم نمادین مرتبط خواهند بود، کالکین برای بازی در نقش کوین مک کالیستر در فیلم کلاسیک تعطیلات جان هیوز در خانه تنها در خانه، یکی از معدود فیلم‌هایی در 50 سال گذشته که در رتبه اول باقی مانده است، شناخته می‌شود."
-      },
-      "source": {
-        "en": "Deadline",
-        "fa": "Deadline"
-      },
-      "link": "https://deadline.com/2026/08/macaulay-culkin-signs-caa-1237044228/",
-      "date": "2026-08-18T18:24:03.897397+00:00",
-      "image": "https://deadline.com/wp-content/uploads/2026/08/GettyImages-2241657325.jpg",
+      "link": "https://www.hollywoodreporter.com/movies/movie-news/film-academy-pickford-center-three-year-renovation-1236676178/",
+      "date": "2026-08-18T19:21:15.030192+00:00",
+      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/Pickford-Center_courtesy-of-the-Academy.jpg?w=1440&#038;h=810&#038;crop=1",
       "important": false,
       "score": 3
     },
@@ -429,7 +285,7 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/vault-entertainment-promotes-preslee-krout-talent-manager-1237040730/",
-      "date": "2026-08-18T18:24:03.896896+00:00",
+      "date": "2026-08-18T19:21:15.024955+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/vault-entertainment-1.jpg",
       "important": false,
       "score": 3
@@ -453,8 +309,56 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/dan-perlman-coming-of-age-comedy-wraps-production-unveils-cast-1237044367/",
-      "date": "2026-08-18T18:24:03.896578+00:00",
+      "date": "2026-08-18T19:21:15.024595+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/Romo-Lee-Lucas-Adler-Maria-Bamford-Laura-Benanti-Gary-Gulman-Sean-Patton-Jamie-Lee-and-Yamaneika-Saunders.jpg",
+      "important": false,
+      "score": 3
+    },
+    {
+      "id": "1c6a45acbf2d",
+      "title": {
+        "en": "Jack Reynor Joins Lily James In Drew Hancock’s Horror Film ‘Seasons’ For Amazon MGM",
+        "fa": "جک رینور به لیلی جیمز در فیلم ترسناک \"فصول\" ساخته درو هنکاک برای آمازون MGM می پیوندد."
+      },
+      "excerpt": {
+        "en": "After starring in Lee Cronin’s The Mummy, Jack Reynor has found his next horror vehicle in Seasons, Drew Hancock’s film for Amazon MGM Studios, where he’ll star opposite Lily James, Deadline can confirm. Fka My Wife and I Bought a Ranch, Seasons is based on a viral horror short story by Matt & Harrison Query, which first appeared on Reddit […]",
+        "fa": "پس از بازی در مومیایی لی کرونین، جک رینور وسیله نقلیه ترسناک بعدی خود را در فصل‌ها، فیلم درو هنکاک برای استودیوی آمازون ام جی‌ام، پیدا کرده است، جایی که او در کنار لیلی جیمز بازی خواهد کرد. Fka My Wife and I Bought a Ranch، Seasons بر اساس یک داستان کوتاه ترسناک ویروسی نوشته مت و هریسون کوئری است که برای اولین بار در Reddit ظاهر شد."
+      },
+      "content": {
+        "en": "After starring in Lee Cronin’s The Mummy, Jack Reynor has found his next horror vehicle in Seasons, Drew Hancock’s film for Amazon MGM Studios, where he’ll star opposite Lily James, Deadline can confirm. Fka My Wife and I Bought a Ranch, Seasons is based on a viral horror short story by Matt & Harrison Query, which first appeared on Reddit […]",
+        "fa": "پس از بازی در مومیایی لی کرونین، جک رینور وسیله نقلیه ترسناک بعدی خود را در فصل‌ها، فیلم درو هنکاک برای استودیوی آمازون ام جی‌ام، پیدا کرده است، جایی که او در کنار لیلی جیمز بازی خواهد کرد. Fka My Wife and I Bought a Ranch، Seasons بر اساس یک داستان کوتاه ترسناک ویروسی نوشته مت و هریسون کوئری است که برای اولین بار در Reddit ظاهر شد."
+      },
+      "source": {
+        "en": "Deadline",
+        "fa": "Deadline"
+      },
+      "link": "https://deadline.com/2026/08/seasons-jack-reynor-joins-amazon-horror-film-1237044444/",
+      "date": "2026-08-18T19:21:15.022806+00:00",
+      "image": "https://deadline.com/wp-content/uploads/2026/08/Jack-Reynor-1.jpg",
+      "important": false,
+      "score": 3
+    },
+    {
+      "id": "6f20b6cb176f",
+      "title": {
+        "en": "DOC NYC Set To Honor Documentary Visionaries Alex Gibney, JT Takagi, Stephen Maing, And Raney Aronson-Rath",
+        "fa": "DOC NYC از مستندسازان رویایی الکس گیبنی، جی تی تاکاگی، استیون ماینگ و رینی آرونسون رات تقدیر می کند."
+      },
+      "excerpt": {
+        "en": "EXCLUSIVE: DOC NYC has announced a distinguished group of honorees for its upcoming 13th edition, set to unspool in New York this November. The annual Visionaries Tribute, to be held on the festival’s opening day at Gotham Hall in Manhattan, will see Oscar-winning filmmaker Alex Gibney and filmmaker-sound recordist JT Takagi honored with Lifetime Achievement […]",
+        "fa": "اختصاصی: DOC NYC یک گروه برجسته از برگزیدگان را برای سیزدهمین دوره آینده خود اعلام کرده است که قرار است در نوامبر امسال در نیویورک منتشر شود. ادای احترام سالانه Visionaries، که در روز افتتاحیه جشنواره در سالن گاتهام در منهتن برگزار می شود، الکس گیبنی فیلمساز برنده اسکار و جی تی تاکاگی، فیلمساز و ضبط کننده صدا، با جایزه یک عمر دستاورد تجلیل خواهند شد."
+      },
+      "content": {
+        "en": "EXCLUSIVE: DOC NYC has announced a distinguished group of honorees for its upcoming 13th edition, set to unspool in New York this November. The annual Visionaries Tribute, to be held on the festival’s opening day at Gotham Hall in Manhattan, will see Oscar-winning filmmaker Alex Gibney and filmmaker-sound recordist JT Takagi honored with Lifetime Achievement […]",
+        "fa": "اختصاصی: DOC NYC یک گروه برجسته از برگزیدگان را برای سیزدهمین دوره آینده خود اعلام کرده است که قرار است در نوامبر امسال در نیویورک منتشر شود. ادای احترام سالانه Visionaries، که در روز افتتاحیه جشنواره در سالن گاتهام در منهتن برگزار می شود، الکس گیبنی فیلمساز برنده اسکار و جی تی تاکاگی، فیلمساز و ضبط کننده صدا، با جایزه یک عمر دستاورد تجلیل خواهند شد."
+      },
+      "source": {
+        "en": "Deadline",
+        "fa": "Deadline"
+      },
+      "link": "https://deadline.com/2026/08/2026-doc-nyc-visionaries-tribute-honorees-1237044399/",
+      "date": "2026-08-18T19:21:15.022129+00:00",
+      "image": "https://deadline.com/wp-content/uploads/2026/08/Alex-Gibney-J.T.-Takagi-Stephen-Maing-and-Raney-Aronson-Rath.jpg",
       "important": false,
       "score": 3
     },
@@ -465,19 +369,19 @@
         "fa": "Cinemark به AMC Theater و Regal در حمایت از ادغام Discovery Bros. Paramount-Warner می پیوندد."
       },
       "excerpt": {
-        "en": "Cinemark has endorsed the Paramount and Warner Bros. Discovery merger, meaning all three of the country’s major movie theater chains are backing the $111 billion deal. “The enduring success of our industry requires a healthy theatrical ecosystem supported by financially sound studios and exhibitors that can effectively create, distribute and exhibit high-quality films to consumers […]",
-        "fa": "Cinemark ادغام پارامونت و برادران وارنر دیسکاوری را تایید کرده است، به این معنی که هر سه سینمای زنجیره‌ای بزرگ کشور از قرارداد 111 میلیارد دلاری حمایت می‌کنند. موفقیت پایدار صنعت ما مستلزم یک اکوسیستم نمایشی سالم است که توسط استودیوها و غرفه دارانی که از نظر مالی خوب پشتیبانی می شوند و می توانند به طور مؤثر فیلم های باکیفیت را برای مصرف کنندگان ایجاد، توزیع و به نمایش بگذارند."
+        "en": "Cinemark has endorsed the Paramount and Warner Bros. Discovery merger, which means all three of the country’s major movie theater chains are backing the $111 billion deal. “The enduring success of our industry requires a healthy theatrical ecosystem supported by financially sound studios and exhibitors that can effectively create, distribute and exhibit high-quality films to […]",
+        "fa": "Cinemark ادغام پارامونت و برادران وارنر دیسکاوری را تایید کرده است، به این معنی که هر سه سینمای زنجیره‌ای بزرگ کشور از قرارداد 111 میلیارد دلاری حمایت می‌کنند. موفقیت پایدار صنعت ما مستلزم یک اکوسیستم نمایشی سالم است که توسط استودیوها و غرفه دارانی که از نظر مالی سالم پشتیبانی می شوند، که بتوانند به طور موثر فیلم های با کیفیت بالا را ایجاد، توزیع و به نمایش بگذارند."
       },
       "content": {
-        "en": "Cinemark has endorsed the Paramount and Warner Bros. Discovery merger, meaning all three of the country’s major movie theater chains are backing the $111 billion deal. “The enduring success of our industry requires a healthy theatrical ecosystem supported by financially sound studios and exhibitors that can effectively create, distribute and exhibit high-quality films to consumers […]",
-        "fa": "Cinemark ادغام پارامونت و برادران وارنر دیسکاوری را تایید کرده است، به این معنی که هر سه سینمای زنجیره‌ای بزرگ کشور از قرارداد 111 میلیارد دلاری حمایت می‌کنند. موفقیت پایدار صنعت ما مستلزم یک اکوسیستم نمایشی سالم است که توسط استودیوها و غرفه دارانی که از نظر مالی خوب پشتیبانی می شوند و می توانند به طور مؤثر فیلم های باکیفیت را برای مصرف کنندگان ایجاد، توزیع و به نمایش بگذارند."
+        "en": "Cinemark has endorsed the Paramount and Warner Bros. Discovery merger, which means all three of the country’s major movie theater chains are backing the $111 billion deal. “The enduring success of our industry requires a healthy theatrical ecosystem supported by financially sound studios and exhibitors that can effectively create, distribute and exhibit high-quality films to […]",
+        "fa": "Cinemark ادغام پارامونت و برادران وارنر دیسکاوری را تایید کرده است، به این معنی که هر سه سینمای زنجیره‌ای بزرگ کشور از قرارداد 111 میلیارد دلاری حمایت می‌کنند. موفقیت پایدار صنعت ما مستلزم یک اکوسیستم نمایشی سالم است که توسط استودیوها و غرفه دارانی که از نظر مالی سالم پشتیبانی می شوند، که بتوانند به طور موثر فیلم های با کیفیت بالا را ایجاد، توزیع و به نمایش بگذارند."
       },
       "source": {
         "en": "Variety",
         "fa": "Variety"
       },
       "link": "https://variety.com/2026/film/news/cinemark-paramount-warner-bros-merger-amc-theatres-regal-1236836310/",
-      "date": "2026-08-18T18:24:03.898889+00:00",
+      "date": "2026-08-18T19:21:15.027517+00:00",
       "image": "https://variety.com/wp-content/uploads/2020/10/movietheatresvalley218946.jpg",
       "important": false,
       "score": 1
@@ -501,10 +405,58 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/motion-picture-academy-announces-2026-2027-committee-and-affinity-group-chairs-1237044340/",
-      "date": "2026-08-18T18:24:03.894852+00:00",
+      "date": "2026-08-18T19:21:15.023256+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/05/GettyImages-1204102669.jpg",
       "important": false,
       "score": 1
+    },
+    {
+      "id": "45d7b9a23dbd",
+      "title": {
+        "en": "‘Ragtime’ Sets Lincoln Center Record In Its Final Week; ‘Paranormal Activity’ Sells Out First Four Previews – Broadway Box Office Report",
+        "fa": "«Ragtime» در آخرین هفته خود رکورد مرکز لینکلن را به ثبت رساند. \"فعالیت ماوراء الطبیعه\" چهار پیش نمایش اول را به فروش می رساند - گزارش باکس آفیس برادوی"
+      },
+      "excerpt": {
+        "en": "Broadway’s Ragtime went out on a huge note Sunday, breaking its own box office record to become the highest grossing Broadway show in the history of Lincoln Center Theater. The musical revival, directed by Lincoln Center Theater’s artistic director Lear deBessonet, grossed a whooping $1,963,666 for its final eight performances. Only the 27 productions running […]",
+        "fa": "رگ تایم برادوی روز یکشنبه با پرفروش‌ترین نمایش اکران شد و رکورد باکس آفیس خود را شکست و به پردرآمدترین نمایش برادوی در تاریخ تئاتر لینکلن سنتر تبدیل شد. احیای موسیقی که توسط کارگردان هنری Lincoln Center Theatre Lear deBessonet کارگردانی شد، برای هشت اجرای پایانی خود 1,963,666 دلار فروش داشت. فقط 27 تولید در حال اجرا است"
+      },
+      "content": {
+        "en": "Broadway’s Ragtime went out on a huge note Sunday, breaking its own box office record to become the highest grossing Broadway show in the history of Lincoln Center Theater. The musical revival, directed by Lincoln Center Theater’s artistic director Lear deBessonet, grossed a whooping $1,963,666 for its final eight performances. Only the 27 productions running […]",
+        "fa": "رگ تایم برادوی روز یکشنبه با پرفروش‌ترین نمایش اکران شد و رکورد باکس آفیس خود را شکست و به پردرآمدترین نمایش برادوی در تاریخ تئاتر لینکلن سنتر تبدیل شد. احیای موسیقی که توسط کارگردان هنری Lincoln Center Theatre Lear deBessonet کارگردانی شد، برای هشت اجرای پایانی خود 1,963,666 دلار فروش داشت. فقط 27 تولید در حال اجرا است"
+      },
+      "source": {
+        "en": "Deadline",
+        "fa": "Deadline"
+      },
+      "link": "https://deadline.com/2026/08/broadway-box-office-ragtime-paranormal-activity-1237044419/",
+      "date": "2026-08-18T19:21:15.022366+00:00",
+      "image": "https://deadline.com/wp-content/uploads/2026/08/0816_Ragtime-Closing-Performance_RebeccaJMichelson-78-e1787077169703.jpg",
+      "important": false,
+      "score": 1
+    },
+    {
+      "id": "2e444a5895aa",
+      "title": {
+        "en": "The Film Independent Spirit Awards Are Adding Categories for Creators and International Features",
+        "fa": "جوایز روح مستقل فیلم دسته‌هایی را برای سازندگان و فیلم‌های بین‌المللی اضافه می‌کنند"
+      },
+      "excerpt": {
+        "en": "In addition to the Best International First Feature and Digital Creator Award categories, Film Independent has added the Berlinale as a qualifying festival for the 2027 Film Independent Spirit Awards.",
+        "fa": "علاوه بر دسته‌های جایزه بهترین فیلم اول بین‌المللی و جایزه خلاق دیجیتال، فیلم مستقل برلیناله را به عنوان جشنواره واجد شرایط برای جوایز روح مستقل فیلم ۲۰۲۷ اضافه کرده است."
+      },
+      "content": {
+        "en": "In addition to the Best International First Feature and Digital Creator Award categories, Film Independent has added the Berlinale as a qualifying festival for the 2027 Film Independent Spirit Awards.",
+        "fa": "علاوه بر دسته‌های جایزه بهترین فیلم اول بین‌المللی و جایزه خلاق دیجیتال، فیلم مستقل برلیناله را به عنوان جشنواره واجد شرایط برای جوایز روح مستقل فیلم ۲۰۲۷ اضافه کرده است."
+      },
+      "source": {
+        "en": "IndieWire",
+        "fa": "IndieWire"
+      },
+      "link": "https://www.indiewire.com/awards/industry/independent-spirit-awards-categories-creators-international-1235211062/",
+      "date": "2026-08-18T19:21:15.033397+00:00",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/08/P10442BC.jpg?w=650",
+      "important": false,
+      "score": 0
     },
     {
       "id": "220a0400890e",
@@ -525,7 +477,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/news/festivals/fantastic-fest-2026-lineup-resident-evil-carrie-1235210870/",
-      "date": "2026-08-18T18:24:03.904495+00:00",
+      "date": "2026-08-18T19:21:15.032937+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/RESIDENT_EVIL_Still.jpg?w=650",
       "important": false,
       "score": 0
@@ -538,43 +490,91 @@
       },
       "excerpt": {
         "en": "The regulator maintains it is operating in the public interest, even if Disney is \"obviously very concerned\" about the proceeding The post FCC Slams ABC for ‘Ongoing Disinformation Campaign’ in Wake of First Amendment Lawsuit appeared first on TheWrap .",
-        "fa": "The regulator maintains it is operating in the public interest, even if Disney is \"obviously very concerned\" about the proceeding The post FCC Slams ABC for ‘Ongoing Disinformation Campaign’ in Wake of First Amendment Lawsuit appeared first on TheWrap ."
+        "fa": "رگولاتور معتقد است که در راستای منافع عمومی عمل می کند، حتی اگر دیزنی «بدیهی است که نگران این روند» است."
       },
       "content": {
         "en": "The regulator maintains it is operating in the public interest, even if Disney is \"obviously very concerned\" about the proceeding The post FCC Slams ABC for ‘Ongoing Disinformation Campaign’ in Wake of First Amendment Lawsuit appeared first on TheWrap .",
-        "fa": "رگولاتور معتقد است که در راستای منافع عمومی عمل می‌کند، حتی اگر دیزنی «بدیهی است که نگران این روند» باشد."
+        "fa": "رگولاتور معتقد است که در راستای منافع عمومی عمل می کند، حتی اگر دیزنی «بدیهی است که نگران این روند» است."
       },
       "source": {
         "en": "The Wrap",
         "fa": "The Wrap"
       },
       "link": "https://www.thewrap.com/industry-news/public-policy-legal/fcc-disney-abc-first-amendment-lawsuit-response/",
-      "date": "2026-08-18T18:24:03.903738+00:00",
+      "date": "2026-08-18T19:21:15.032487+00:00",
       "image": "https://www.thewrap.com/wp-content/uploads/2026/08/brendan-carr-fcc-1-1.jpg",
       "important": false,
       "score": 0
     },
     {
-      "id": "9ee8c3ebc7dd",
+      "id": "dbc641cf6b78",
       "title": {
-        "en": "Laurie May Stepping Down From Elevation Pictures",
-        "fa": "لوری می از Elevation Pictures کناره گیری کرد"
+        "en": "Disney’s Next ‘Descendants’ Story Taps Sherry Cola as Yzma, Darren Criss as Jiminy Cricket",
+        "fa": "داستان بعدی «فرزندان» دیزنی، شری کولا در نقش یزما، دارن کریس در نقش جیمینی کریکت نقش بسته است."
       },
       "excerpt": {
-        "en": "She leaves the indie film distribution giant she founded 13 years ago, with Noah Segal remaining at the helm as president.",
-        "fa": "او غول پخش فیلم مستقلی را که 13 سال پیش تأسیس کرده بود ترک می کند و نوح سگال همچنان به عنوان رئیس جمهور در راس آن باقی می ماند."
+        "en": "\"Hidden Heroes: A Descendants Story\" centers on the children of Disney sidekicks this time around The post Disney’s Next ‘Descendants’ Story Taps Sherry Cola as Yzma, Darren Criss as Jiminy Cricket appeared first on TheWrap .",
+        "fa": "«قهرمانان پنهان: داستان فرزندان» این بار بر روی بچه‌های طرفداران دیزنی متمرکز است."
       },
       "content": {
-        "en": "She leaves the indie film distribution giant she founded 13 years ago, with Noah Segal remaining at the helm as president.",
-        "fa": "او غول پخش فیلم مستقلی را که 13 سال پیش تأسیس کرده بود ترک می کند و نوح سگال همچنان به عنوان رئیس جمهور در راس آن باقی می ماند."
+        "en": "\"Hidden Heroes: A Descendants Story\" centers on the children of Disney sidekicks this time around The post Disney’s Next ‘Descendants’ Story Taps Sherry Cola as Yzma, Darren Criss as Jiminy Cricket appeared first on TheWrap .",
+        "fa": "«قهرمانان پنهان: داستان فرزندان» این بار بر روی بچه‌های طرفداران دیزنی متمرکز است."
+      },
+      "source": {
+        "en": "The Wrap",
+        "fa": "The Wrap"
+      },
+      "link": "https://www.thewrap.com/industry-news/casting/disney-hidden-heroes-descendants-cast-sherry-cola-yzma-darren-criss/",
+      "date": "2026-08-18T19:21:15.031980+00:00",
+      "image": "https://www.thewrap.com/wp-content/uploads/2026/08/Untitled-design-92.jpg",
+      "important": false,
+      "score": 0
+    },
+    {
+      "id": "600fea2f45de",
+      "title": {
+        "en": "The 3 Best Movies on Paramount+ This Week",
+        "fa": "3 بهترین فیلم در Paramount+ این هفته"
+      },
+      "excerpt": {
+        "en": "\"Arrival\" headlines our picks The post The 3 Best Movies on Paramount+ This Week appeared first on TheWrap .",
+        "fa": "«ورود» سرفصل انتخاب های ما است"
+      },
+      "content": {
+        "en": "\"Arrival\" headlines our picks The post The 3 Best Movies on Paramount+ This Week appeared first on TheWrap .",
+        "fa": "«ورود» سرفصل انتخاب های ما است"
+      },
+      "source": {
+        "en": "The Wrap",
+        "fa": "The Wrap"
+      },
+      "link": "https://www.thewrap.com/creative-content/what-to-watch/best-movies-on-paramount-plus-august-18-23/",
+      "date": "2026-08-18T19:21:15.030729+00:00",
+      "image": "https://www.thewrap.com/wp-content/uploads/2026/08/Amy-Adams-Arrival.jpg",
+      "important": false,
+      "score": 0
+    },
+    {
+      "id": "3dd4d72b77ca",
+      "title": {
+        "en": "THR Live: As Final Voting Is Underway, Which Shows Are Going to Win Emmy Gold?",
+        "fa": "THR Live: همانطور که رای گیری نهایی در حال انجام است، کدام نمایش ها طلای امی را دریافت خواهند کرد؟"
+      },
+      "excerpt": {
+        "en": "The Hollywood Reporter awards editors Beatrice Verhoeven and Brande Victorian discuss which categories seem locked, which are up in the air and recent rule changes in the variety talk series area.",
+        "fa": "سردبیران جوایز هالیوود ریپورتر، بئاتریس ورهوفن و برند ویکتوریان درباره این که کدام دسته بندی ها قفل شده به نظر می رسند، کدام ها در هوا هستند و تغییرات اخیر قوانین در حوزه مجموعه های گفتگوی متنوع بحث می کنند."
+      },
+      "content": {
+        "en": "The Hollywood Reporter awards editors Beatrice Verhoeven and Brande Victorian discuss which categories seem locked, which are up in the air and recent rule changes in the variety talk series area.",
+        "fa": "سردبیران جوایز هالیوود ریپورتر، بئاتریس ورهوفن و برند ویکتوریان درباره این که کدام دسته بندی ها قفل شده به نظر می رسند، کدام ها در هوا هستند و تغییرات اخیر قوانین در حوزه مجموعه های گفتگوی متنوع بحث می کنند."
       },
       "source": {
         "en": "The Hollywood Reporter",
         "fa": "The Hollywood Reporter"
       },
-      "link": "https://www.hollywoodreporter.com/business/business-news/laurie-may-elevation-pictures-1236676141/",
-      "date": "2026-08-18T18:24:03.901581+00:00",
-      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2023/05/NEW-26-Laurie-May-Co-president-Elevation-Pictures-Canada-Getty-H-2023.jpg?w=1296&#038;h=730&#038;crop=1",
+      "link": "https://www.hollywoodreporter.com/tv/tv-news/thr-live-emmy-winners-final-voting-1236676152/",
+      "date": "2026-08-18T19:21:15.030057+00:00",
+      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/01/noah-wyle-katherine-lanasa-sepideh-moafi-EMBED-2026.jpg?crop=0px%2C13px%2C1000px%2C560px&#038;resize=1440%2C810",
       "important": false,
       "score": 0
     }
