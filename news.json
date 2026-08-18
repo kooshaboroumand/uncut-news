@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-18T22:13:15.083754+00:00",
-  "count": 21,
+  "updated_at": "2026-08-18T23:13:19.106646+00:00",
+  "count": 24,
   "news": [
     {
       "id": "003ca8fddf08",
@@ -21,7 +21,7 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/hulu-chicks-pilot-cast-three-leads-max-winkler-director-1237044434/",
-      "date": "2026-08-18T22:13:14.924391+00:00",
+      "date": "2026-08-18T23:13:18.962400+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/Jason-Schmidt-Julia-Lester-Piper-Runge-and-Max-Winkler.jpg",
       "important": true,
       "score": 6
@@ -45,7 +45,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/news/box-office/rivals-amziah-king-box-office-black-bear-1235210853/",
-      "date": "2026-08-18T22:13:14.931018+00:00",
+      "date": "2026-08-18T23:13:18.967771+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2025/03/the-rivals-of-amziah-king-319857_c200b9.webp?w=650",
       "important": true,
       "score": 4
@@ -69,7 +69,7 @@
         "fa": "The Hollywood Reporter"
       },
       "link": "https://www.hollywoodreporter.com/movies/movie-news/briarcliff-acquires-north-american-rights-ash-and-crayons-1236676348/",
-      "date": "2026-08-18T22:13:14.928301+00:00",
+      "date": "2026-08-18T23:13:18.966372+00:00",
       "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/Ash-and-Crayons-Main-New-2026.jpg?w=1296&#038;h=730&#038;crop=1",
       "important": true,
       "score": 4
@@ -93,7 +93,7 @@
         "fa": "Variety"
       },
       "link": "https://variety.com/2026/digital/news/clive-barker-kickstarter-series-library-of-the-dead-1236837367/",
-      "date": "2026-08-18T22:13:14.925175+00:00",
+      "date": "2026-08-18T23:13:18.963589+00:00",
       "image": "https://variety.com/wp-content/uploads/2026/08/CLIVE-BARKER-3-NEW-BOOKS-LIBRARY-OF-THE-DEAD-ANGLE.png",
       "important": true,
       "score": 4
@@ -117,7 +117,7 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/david-heyman-film-deal-amazon-mgm-studios-exit-warner-bros-1237044515/",
-      "date": "2026-08-18T22:13:14.923799+00:00",
+      "date": "2026-08-18T23:13:18.961955+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/David-Heyman-.jpg",
       "important": true,
       "score": 4
@@ -141,7 +141,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/news/festivals/sxsw-2027-venue-changes-podcast-festival-1235211013/",
-      "date": "2026-08-18T22:13:14.930455+00:00",
+      "date": "2026-08-18T23:13:18.967366+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/03-14-26_Over_Your_Dead_Body_Chris_Saucedo-40.jpg?w=650",
       "important": false,
       "score": 3
@@ -165,8 +165,32 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/news/festivals/nyff-2026-revivals-ken-russell-the-devils-1235210928/",
-      "date": "2026-08-18T22:13:14.930356+00:00",
+      "date": "2026-08-18T23:13:18.967301+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/57097357-4bf5-4f7f-9db5-43513d5746bc.jpeg?w=650",
+      "important": false,
+      "score": 3
+    },
+    {
+      "id": "8dfff8eb0800",
+      "title": {
+        "en": "Shawn Hatosy on ‘The Pitt,’ Calls for a Night Shift Spinoff and Projects That Got Away — Including ‘Breaking Bad’!",
+        "fa": "Shawn Hatosy در «The Pitt»، فراخوانی برای اسپین‌آف شیفت شب و پروژه‌هایی که از بین رفتند - از جمله «Breaking Bad»!"
+      },
+      "excerpt": {
+        "en": "The longtime actor, who starred on 'Southland' and 'Animal Kingdom' before winning a guest acting Emmy for the first season — and landing a best supporting actor Emmy nom for the second season — of 'The Pitt,' also confirms that he is directing another episode of the show for its third season.",
+        "fa": "این بازیگر باسابقه که در «Southland» و «Animal Kingdom» بازی کرد قبل از برنده شدن جایزه امی مهمان برای فصل اول - و نامزدی بهترین بازیگر نقش مکمل مرد برای امی برای فصل دوم - «The Pitt»، همچنین تأیید می کند که کارگردانی قسمت دیگری از سریال را برای فصل سوم آن دارد."
+      },
+      "content": {
+        "en": "The longtime actor, who starred on 'Southland' and 'Animal Kingdom' before winning a guest acting Emmy for the first season — and landing a best supporting actor Emmy nom for the second season — of 'The Pitt,' also confirms that he is directing another episode of the show for its third season.",
+        "fa": "این بازیگر باسابقه که در «Southland» و «Animal Kingdom» بازی کرد قبل از برنده شدن جایزه امی مهمان برای فصل اول - و نامزدی بهترین بازیگر نقش مکمل مرد برای امی برای فصل دوم - «The Pitt»، همچنین تأیید می کند که کارگردانی قسمت دیگری از سریال را برای فصل سوم آن دارد."
+      },
+      "source": {
+        "en": "The Hollywood Reporter",
+        "fa": "The Hollywood Reporter"
+      },
+      "link": "https://www.hollywoodreporter.com/tv/tv-news/shawn-hatosy-the-pitt-night-shift-spinoff-breaking-bad-1236676193/",
+      "date": "2026-08-18T23:13:18.965706+00:00",
+      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/Awards-Chatter-Shawn-Hatosy-Main-2026.jpg?w=1296&#038;h=730&#038;crop=1",
       "important": false,
       "score": 3
     },
@@ -189,7 +213,7 @@
         "fa": "Variety"
       },
       "link": "https://variety.com/2026/film/columns/oscars-youtube-ai-annual-budgets-member-meeting-1236837376/",
-      "date": "2026-08-18T22:13:14.926912+00:00",
+      "date": "2026-08-18T23:13:18.965004+00:00",
       "image": "https://variety.com/wp-content/uploads/2018/12/Oscars-Placeholder.jpg",
       "important": false,
       "score": 3
@@ -213,7 +237,7 @@
         "fa": "Variety"
       },
       "link": "https://variety.com/2026/tv/news/john-oliver-wanted-to-be-slapped-days-of-our-lives-1236837667/",
-      "date": "2026-08-18T22:13:14.925448+00:00",
+      "date": "2026-08-18T23:13:18.963796+00:00",
       "image": "https://variety.com/wp-content/uploads/2026/08/DanFeuerriegel-MaggieCarney-JO.jpg",
       "important": false,
       "score": 3
@@ -237,7 +261,7 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/the-pitt-season-3-sepideh-moafi-interview-1237043457/",
-      "date": "2026-08-18T22:13:14.924676+00:00",
+      "date": "2026-08-18T23:13:18.962619+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/05/sepideh-moafi.jpg",
       "important": false,
       "score": 3
@@ -261,7 +285,7 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/the-pitt-production-designer-interview-season-2-1237044580/",
-      "date": "2026-08-18T22:13:14.922422+00:00",
+      "date": "2026-08-18T23:13:18.960933+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/thepitt2.jpeg",
       "important": false,
       "score": 3
@@ -285,16 +309,16 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/the-diplomat-netflix-creative-team-interview-1237044316/",
-      "date": "2026-08-18T22:13:14.922050+00:00",
+      "date": "2026-08-18T23:13:18.960641+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/Backstory_Diplomat_Thumbnail.png",
       "important": false,
       "score": 3
     },
     {
-      "id": "ed38dd8b92a6",
+      "id": "1adcde6779e8",
       "title": {
-        "en": "Leslie Grossman Joins ‘Power: Origins,’ Reprising As ‘Raising Kanan’ Character Flossie",
-        "fa": "لزلی گروسمن به «Power: Origins» ملحق شد و در نقش فلوسی «Raising Kanan» را بازی کرد."
+        "en": "Leslie Grossman Joins ‘Power: Origins’, Returning As ‘Raising Kanan’ Character Flossie",
+        "fa": "لزلی گروسمن به «Power: Origins» ملحق شد و به عنوان شخصیت فلوسی «Raising Kanan» بازگشت."
       },
       "excerpt": {
         "en": "EXCLUSIVE: If Queen Flossie left you wanting more on Power Book III: Raising Kanan, Leslie Grossman will be back to reprise the role in the new prequel Power: Origins. Grossman will recur in the new prequel series, which picks up after the events of the Raising Kanan series finale. When we last saw Florence “Flossie” […]",
@@ -302,14 +326,14 @@
       },
       "content": {
         "en": "EXCLUSIVE: If Queen Flossie left you wanting more on Power Book III: Raising Kanan, Leslie Grossman will be back to reprise the role in the new prequel Power: Origins. Grossman will recur in the new prequel series, which picks up after the events of the Raising Kanan series finale. When we last saw Florence “Flossie” […]",
-        "fa": "EXCLUSIVE: If Queen Flossie left you wanting more on Power Book III: Raising Kanan, Leslie Grossman will be back to reprise the role in the new prequel Power: Origins. Grossman will recur in the new prequel series, which picks up after the events of the Raising Kanan series finale. When we last saw Florence “Flossie” […]"
+        "fa": "انحصاری: اگر ملکه فلوسی تمایل بیشتری به Power Book III: Raising Kanan داشته باشد، لزلی گراسمن برای ایفای مجدد این نقش در پیش درآمد جدید Power: Origins بازخواهد گشت. گروسمن در سری جدید پیش درآمد، که پس از وقایع پایانی سری Raising Kanan آغاز می‌شود، تکرار خواهد شد. آخرین باری که فلورانس فلوسی را دیدیم"
       },
       "source": {
         "en": "Deadline",
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/leslie-grossman-cast-power-origins-flossie-1237043664/",
-      "date": "2026-08-18T22:13:14.921737+00:00",
+      "date": "2026-08-18T23:13:18.960400+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/Leslie-Grossman_4d7ffa.jpg",
       "important": false,
       "score": 3
@@ -333,7 +357,7 @@
         "fa": "Variety"
       },
       "link": "https://variety.com/2026/film/news/california-tax-cap-deal-film-credits-1236836863/",
-      "date": "2026-08-18T22:13:14.926494+00:00",
+      "date": "2026-08-18T23:13:18.964641+00:00",
       "image": "https://variety.com/wp-content/uploads/2025/05/GettyImages-1760960350.jpg",
       "important": false,
       "score": 1
@@ -357,31 +381,31 @@
         "fa": "Variety"
       },
       "link": "https://variety.com/2026/shopping/news/best-walmart-plus-deals-streaming-offers-1236040212/",
-      "date": "2026-08-18T22:13:14.924962+00:00",
+      "date": "2026-08-18T23:13:18.963424+00:00",
       "image": "https://variety.com/wp-content/uploads/2024/06/GettyImages-2152961478.jpg",
       "important": false,
       "score": 1
     },
     {
-      "id": "2eda5c0d85a5",
+      "id": "109f960b7402",
       "title": {
-        "en": "John Irvin, Director Of ‘Hamburger Hill’ & ‘Tinker Tailor Soldier Spy’ TV Drama, Dies Aged 86",
-        "fa": "جان اروین کارگردان درام تلویزیونی «Hamburger Hill» و «Tinker Tailor Soldier Spy» در ۸۶ سالگی درگذشت."
+        "en": "John Irvin Dies: Director Of ‘Hamburger Hill’ & TV Drama ‘Tinker Tailor Soldier Spy’ Was 86",
+        "fa": "جان ایروین درگذشت: کارگردان «همبرگر هیل» و درام تلویزیونی «سرباز خیاط سرهم‌بند جاسوس» ۸۶ ساله بود."
       },
       "excerpt": {
-        "en": "British filmmaker John Irvin, known for action movies including Hamburger Hill and Raw Deal and BAFTA-winning TV series Tinker Tailor Soldier Spy, has died aged 86. According to Irvin’s producers, the BAFTA-winning filmmaker died peacefully at the UK home of his sister-in-law on 11th August, surrounded by his family. Irvin made more than thirty features […]",
-        "fa": "جان اروین، فیلمساز بریتانیایی، که برای فیلم‌های اکشن از جمله تپه همبرگر و معامله خام و سریال‌های تلویزیونی برنده بفتا Tinker Tailor Soldier Spy شناخته می‌شد، در سن 86 سالگی درگذشت. به گفته تهیه‌کنندگان اروین، این فیلمساز برنده بفتا در 1 اوت در خانه خواهر شوهرش در بریتانیا درگذشت. ایروین بیش از سی ویژگی ساخت"
+        "en": "British filmmaker John Irvin, known for action movies including Hamburger Hill and Raw Deal and the BAFTA-winning TV series Tinker Tailor Soldier Spy, has died. He was 86. According to Irvin’s producers, the filmmaker died peacefully at the UK home of his sister-in-law on August 11, surrounded by his family. Irvin made more than 30 […]",
+        "fa": "جان اروین فیلمساز بریتانیایی که به خاطر فیلم‌های اکشن از جمله تپه همبرگر و معامله خام و سریال تلویزیونی جاسوس سرباز خیاط خیاط برنده بفتا شناخته می‌شد، درگذشت. او 86 سال داشت. به گفته تهیه کنندگان ایروین، فیلمساز در 11 آگوست در خانه خواهر شوهرش در بریتانیا در حالی که توسط خانواده اش احاطه شده بود در آرامش درگذشت. اروین بیش از 30 کار کرد"
       },
       "content": {
-        "en": "British filmmaker John Irvin, known for action movies including Hamburger Hill and Raw Deal and BAFTA-winning TV series Tinker Tailor Soldier Spy, has died aged 86. According to Irvin’s producers, the BAFTA-winning filmmaker died peacefully at the UK home of his sister-in-law on 11th August, surrounded by his family. Irvin made more than thirty features […]",
-        "fa": "جان اروین، فیلمساز بریتانیایی، که برای فیلم‌های اکشن از جمله تپه همبرگر و معامله خام و سریال‌های تلویزیونی برنده بفتا Tinker Tailor Soldier Spy شناخته می‌شد، در سن 86 سالگی درگذشت. به گفته تهیه‌کنندگان اروین، این فیلمساز برنده بفتا در 1 اوت در خانه خواهر شوهرش در بریتانیا درگذشت. ایروین بیش از سی ویژگی ساخت"
+        "en": "British filmmaker John Irvin, known for action movies including Hamburger Hill and Raw Deal and the BAFTA-winning TV series Tinker Tailor Soldier Spy, has died. He was 86. According to Irvin’s producers, the filmmaker died peacefully at the UK home of his sister-in-law on August 11, surrounded by his family. Irvin made more than 30 […]",
+        "fa": "جان اروین فیلمساز بریتانیایی که به خاطر فیلم‌های اکشن از جمله تپه همبرگر و معامله خام و سریال تلویزیونی جاسوس سرباز خیاط خیاط برنده بفتا شناخته می‌شد، درگذشت. او 86 سال داشت. به گفته تهیه کنندگان ایروین، فیلمساز در 11 آگوست در خانه خواهر شوهرش در بریتانیا در حالی که توسط خانواده اش احاطه شده بود در آرامش درگذشت. اروین بیش از 30 کار کرد"
       },
       "source": {
         "en": "Deadline",
         "fa": "Deadline"
       },
-      "link": "https://deadline.com/2026/08/john-irvin-hamburger-hill-raw-deal-director-dies-aged-86-1237044695/",
-      "date": "2026-08-18T22:13:14.921372+00:00",
+      "link": "https://deadline.com/2026/08/john-irvin-dead-hamburger-hill-raw-deal-director-1237044695/",
+      "date": "2026-08-18T23:13:18.960116+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/MBDHAHI_EC011.jpg",
       "important": false,
       "score": 1
@@ -405,7 +429,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/awards/industry/independent-spirit-awards-categories-creators-international-1235211062/",
-      "date": "2026-08-18T22:13:14.930676+00:00",
+      "date": "2026-08-18T23:13:18.967528+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/P10442BC.jpg?w=650",
       "important": false,
       "score": 0
@@ -429,7 +453,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/news/festivals/fantastic-fest-2026-lineup-resident-evil-carrie-1235210870/",
-      "date": "2026-08-18T22:13:14.930221+00:00",
+      "date": "2026-08-18T23:13:18.967223+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/RESIDENT_EVIL_Still.jpg?w=650",
       "important": false,
       "score": 0
@@ -453,32 +477,56 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/awards/consider-this/widows-bay-kate-oflynn-patricia-weirdo-interview-1235210474/",
-      "date": "2026-08-18T22:13:14.929593+00:00",
+      "date": "2026-08-18T23:13:18.966750+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/GettyImages-2289884113.jpg?w=650",
       "important": false,
       "score": 0
     },
     {
-      "id": "d41cbb4ab96f",
+      "id": "ad094cbc527b",
       "title": {
-        "en": "Early YouTube Pioneer Felicia Day’s ‘The Guild’ Movie Is About to Break a Kickstarter Record",
-        "fa": "فیلم The Guild از پیشگامان یوتیوب Felicia Day در آستانه شکستن یک رکورد کیک استارتر"
+        "en": "Marilyn Monroe’s 100th Birthday Brings Official Coffee Table Book, Barbie, Brut and More",
+        "fa": "صدمین زادروز مرلین مونرو کتاب رسمی میز قهوه، باربی، بروت و موارد دیگر را به ارمغان می آورد."
       },
       "excerpt": {
-        "en": "\"The Guild\" was one of the first breakout web series on YouTube in 2007. Now, Felicia Day and friends are bringing it back, and it's already one of the most successful film Kickstarters of all time.",
-        "fa": "«The Guild» یکی از اولین سریال‌های وب پرفروش در YouTube در سال 2007 بود. اکنون، Felicia Day و دوستانش آن را برمی‌گردانند، و در حال حاضر یکی از موفق‌ترین فیلم‌های Kickstarter در تمام دوران است."
+        "en": "The Estate of Marilyn Monroe continues to unveil authorized merchandise and brand collaborations for her centennial celebration.",
+        "fa": "Estate of Marilyn Monroe همچنان به رونمایی از کالاها و همکاری های تجاری مجاز برای جشن صدمین سالگرد او ادامه می دهد."
       },
       "content": {
-        "en": "\"The Guild\" was one of the first breakout web series on YouTube in 2007. Now, Felicia Day and friends are bringing it back, and it's already one of the most successful film Kickstarters of all time.",
-        "fa": "«The Guild» یکی از اولین سریال‌های وب پرفروش در YouTube در سال 2007 بود. اکنون، Felicia Day و دوستانش آن را برمی‌گردانند، و در حال حاضر یکی از موفق‌ترین فیلم‌های Kickstarter در تمام دوران است."
+        "en": "The Estate of Marilyn Monroe continues to unveil authorized merchandise and brand collaborations for her centennial celebration.",
+        "fa": "Estate of Marilyn Monroe همچنان به رونمایی از کالاها و همکاری های تجاری مجاز برای جشن صدمین سالگرد او ادامه می دهد."
       },
       "source": {
-        "en": "IndieWire",
-        "fa": "IndieWire"
+        "en": "The Hollywood Reporter",
+        "fa": "The Hollywood Reporter"
       },
-      "link": "https://www.indiewire.com/features/craft/the-guild-ren-faired-felicia-day-kickstarter-interview-1235211080/",
-      "date": "2026-08-18T22:13:14.929442+00:00",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/08/Screenshot-2026-08-18-at-10.35.18.png?w=650",
+      "link": "https://www.hollywoodreporter.com/lifestyle/shopping/marilyn-monroe-100th-birthday-book-collectibles-memorabilia-1236526925/",
+      "date": "2026-08-18T23:13:18.965255+00:00",
+      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/03/Marilyn-Monroes-100th-Birthday-Brings-Official-Coffee-Table-Book-and-Collectibles-MAIN.jpg?w=1296&#038;h=730&#038;crop=1",
+      "important": false,
+      "score": 0
+    },
+    {
+      "id": "c618ec899e44",
+      "title": {
+        "en": "‘Down the Arm of God’ Review: Caleb Landry Jones in a Sincere, if Heavy-Handed, Drama About a Texas Pastor Tackling Homelessness, and His Own Congregation",
+        "fa": "نقد و بررسی «پایین به بازوی خدا»: کالب لندری جونز در درام صادقانه، اگر سنگین دست، درباره کشیش تگزاسی که با بی خانمانی مقابله می کند و جماعت خودش"
+      },
+      "excerpt": {
+        "en": "Nick Stahl and Mena Suvari costar in the Locarno-premiering film, produced by Luc Besson and directed by Peter Brunner.",
+        "fa": "نیک استال و منا سوواری بازیگر نقش اول فیلم لوکارنو به تهیه کنندگی لوک بسون و کارگردانی پیتر برونر هستند."
+      },
+      "content": {
+        "en": "Nick Stahl and Mena Suvari costar in the Locarno-premiering film, produced by Luc Besson and directed by Peter Brunner.",
+        "fa": "نیک استال و منا سوواری بازیگر نقش اول فیلم لوکارنو به تهیه کنندگی لوک بسون و کارگردانی پیتر برونر هستند."
+      },
+      "source": {
+        "en": "The Hollywood Reporter",
+        "fa": "The Hollywood Reporter"
+      },
+      "link": "https://www.hollywoodreporter.com/movies/movie-reviews/down-the-arm-of-god-review-caleb-landry-jones-1236675972/",
+      "date": "2026-08-18T23:13:18.965183+00:00",
+      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/Down-the-Arm-of-God-film-still-6-EuropaCorp-H-2026.webp?w=969&#038;h=545&#038;crop=1",
       "important": false,
       "score": 0
     },
@@ -501,8 +549,32 @@
         "fa": "Variety"
       },
       "link": "https://variety.com/2026/tv/news/hayden-panettiere-defended-mistreated-background-actors-heroes-set-1236837264/",
-      "date": "2026-08-18T22:13:14.925792+00:00",
+      "date": "2026-08-18T23:13:18.964078+00:00",
       "image": "https://variety.com/wp-content/uploads/2026/08/TCDHERO_EC191-e1787074640885.jpg",
+      "important": false,
+      "score": 0
+    },
+    {
+      "id": "2e3313f88d28",
+      "title": {
+        "en": "Felicia Day, Wil Wheaton on New Tabletop Gaming Show ‘Conludo,’ How ‘The Guild’ Reunion Movie Will Be Impacted by a Denied California Tax Credit",
+        "fa": "Felicia Day، Wil Wheaton در برنامه جدید بازی‌های رومیزی «Conludo»، چگونه فیلم «The Guild» تحت تأثیر اعتبار مالیاتی کالیفرنیا رد می‌شود"
+      },
+      "excerpt": {
+        "en": "Reunions all around for Felicia Day these days: Amid a massive fundraiser for a movie reunion of her series “The Guild,” Day is reteaming with longtime friend and collaborator Wil Wheaton for a new kind of board game TV series. Launching as fan-unlocked content tied to “The Guild: Ren Faire’d” movie’s ongoing Kickstarter campaign (which […]",
+        "fa": "این روزها گردهمایی‌های همه جانبه برای Felicia Day: در میان جمع‌آوری کمک مالی گسترده برای یک فیلم سینمایی از مجموعه او \"The Guild\"، دی دوباره با دوست و همکار قدیمی ویل ویتون برای نوع جدیدی از مجموعه تلویزیونی بازی‌های رومیزی همراه می‌شود. عرضه به عنوان محتوای بدون قفل توسط طرفداران مرتبط با کمپین در حال انجام فیلم «The Guild: Ren Faire'd» در Kickstarter (که"
+      },
+      "content": {
+        "en": "Reunions all around for Felicia Day these days: Amid a massive fundraiser for a movie reunion of her series “The Guild,” Day is reteaming with longtime friend and collaborator Wil Wheaton for a new kind of board game TV series. Launching as fan-unlocked content tied to “The Guild: Ren Faire’d” movie’s ongoing Kickstarter campaign (which […]",
+        "fa": "این روزها گردهمایی‌های همه جانبه برای Felicia Day: در میان جمع‌آوری کمک مالی گسترده برای یک فیلم سینمایی از مجموعه او \"The Guild\"، دی دوباره با دوست و همکار قدیمی ویل ویتون برای نوع جدیدی از مجموعه تلویزیونی بازی‌های رومیزی همراه می‌شود. عرضه به عنوان محتوای بدون قفل توسط طرفداران مرتبط با کمپین در حال انجام فیلم «The Guild: Ren Faire'd» در Kickstarter (که"
+      },
+      "source": {
+        "en": "Variety",
+        "fa": "Variety"
+      },
+      "link": "https://variety.com/2026/tv/news/felicia-day-wil-wheaton-the-guild-movie-show-conludo-1236837516/",
+      "date": "2026-08-18T23:13:18.963196+00:00",
+      "image": "https://variety.com/wp-content/uploads/2026/08/Felicia-Day-Wil-Wheaton.jpeg",
       "important": false,
       "score": 0
     }
