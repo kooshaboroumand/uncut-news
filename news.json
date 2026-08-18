@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-08-18T11:16:49.463394+00:00",
-  "count": 22,
+  "updated_at": "2026-08-18T12:26:23.721768+00:00",
+  "count": 23,
   "news": [
+    {
+      "id": "e61feb00106a",
+      "title": {
+        "en": "‘100 Years Of Solitude’ Stars On Adapting García Márquez’s “Impossible” Novel; Watch The Finale Trailer",
+        "fa": "«100 سال تنهایی» با اقتباس از رمان «غیرممکن» گارسیا مارکز. تریلر The Finale را تماشا کنید"
+      },
+      "excerpt": {
+        "en": "EXCLUSIVE: Cast members including iconic Colombian star Margarita Rosa de Francisco came on board Part Two of Netflix’s 100 Years Of Solitude, and with the finale of the epic adaptation about to launch, several of the stars who appear in the series-closing episode spoke exclusively to Deadline. We are also first with the trailer for […]",
+        "fa": "انحصاری: بازیگران از جمله ستاره مشهور کلمبیایی مارگاریتا رزا د فرانسیسکو در قسمت دوم 100 Years Of Solitude نتفلیکس حضور پیدا کردند و با پایان یافتن این اقتباس حماسی که در شرف آغاز به کار است، چندین ستاره که در قسمت پایانی سریال حضور داشتند، به طور انحصاری با Deadline صحبت کردند. ما همچنین با تریلر برای اولین بار هستیم"
+      },
+      "content": {
+        "en": "EXCLUSIVE: Cast members including iconic Colombian star Margarita Rosa de Francisco came on board Part Two of Netflix’s 100 Years Of Solitude, and with the finale of the epic adaptation about to launch, several of the stars who appear in the series-closing episode spoke exclusively to Deadline. We are also first with the trailer for […]",
+        "fa": "انحصاری: بازیگران از جمله ستاره مشهور کلمبیایی مارگاریتا رزا د فرانسیسکو در قسمت دوم 100 Years Of Solitude نتفلیکس حضور پیدا کردند و با پایان یافتن این اقتباس حماسی که در شرف آغاز به کار است، چندین ستاره که در قسمت پایانی سریال حضور داشتند، به طور انحصاری با Deadline صحبت کردند. ما همچنین با تریلر برای اولین بار هستیم"
+      },
+      "source": {
+        "en": "Deadline",
+        "fa": "Deadline"
+      },
+      "link": "https://deadline.com/2026/08/100-years-of-solitude-finale-cast-trailer-netflix-1237044029/",
+      "date": "2026-08-18T12:26:23.518901+00:00",
+      "image": "https://deadline.com/wp-content/uploads/2026/08/100-year-of-solitude.jpg",
+      "important": true,
+      "score": 7
+    },
     {
       "id": "c753e4d9425a",
       "title": {
@@ -21,7 +45,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/criticism/shows/lanterns-episode-1-review-hal-jordan-dead-explained-1235210338/",
-      "date": "2026-08-18T11:16:49.274871+00:00",
+      "date": "2026-08-18T12:26:23.534365+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/Lanterns-HBO-series-Kyle-Chandler-as-Hal-Jordan.jpg?w=650",
       "important": true,
       "score": 6
@@ -45,32 +69,8 @@
         "fa": "The Hollywood Reporter"
       },
       "link": "https://www.hollywoodreporter.com/tv/tv-news/lisa-kudrow-friends-romy-michele-sequel-the-comeback-interview-1236675072/",
-      "date": "2026-08-18T11:16:49.270445+00:00",
+      "date": "2026-08-18T12:26:23.526746+00:00",
       "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/Awards-Chatter-Lisa-Kudrow-Main-2026.jpg?w=1296&#038;h=730&#038;crop=1",
-      "important": true,
-      "score": 6
-    },
-    {
-      "id": "2997e0ca2896",
-      "title": {
-        "en": "Everything We Know About ‘The Gilded Age’ Season 4 So Far",
-        "fa": "هر آنچه در مورد فصل چهارم «عصر طلایی» تاکنون می‌دانیم"
-      },
-      "excerpt": {
-        "en": "The culture clash will continue in Season 4 of Julian Fellowes’ HBO period drama The Gilded Age, based on the turn-of-the-century time period in America that lasted between 1870 and 1900. Some familiar faces have been promoted to series regulars since Season 3, and some new faces are joining the cast to play big-name historical […]",
-        "fa": "این تضاد فرهنگی در فصل 4 درام دوره HBO جولیان فلووز، دوران طلایی، بر اساس دوره زمانی پایانی قرن در آمریکا که بین سال‌های 1870 تا 1900 به طول انجامید، ادامه خواهد یافت. برخی از چهره‌های آشنا از فصل 3 به سریال‌های ثابت تبدیل شده‌اند، و برخی از چهره‌های جدید در حال پیوستن به بازیگران تاریخی برای ایفای نام بزرگ هستند."
-      },
-      "content": {
-        "en": "The culture clash will continue in Season 4 of Julian Fellowes’ HBO period drama The Gilded Age, based on the turn-of-the-century time period in America that lasted between 1870 and 1900. Some familiar faces have been promoted to series regulars since Season 3, and some new faces are joining the cast to play big-name historical […]",
-        "fa": "این تضاد فرهنگی در فصل 4 درام دوره HBO جولیان فلووز، دوران طلایی، بر اساس دوره زمانی پایانی قرن در آمریکا که بین سال‌های 1870 تا 1900 به طول انجامید، ادامه خواهد یافت. برخی از چهره‌های آشنا از فصل 3 به سریال‌های ثابت تبدیل شده‌اند، و برخی از چهره‌های جدید در حال پیوستن به بازیگران تاریخی برای ایفای نام بزرگ هستند."
-      },
-      "source": {
-        "en": "Deadline",
-        "fa": "Deadline"
-      },
-      "link": "https://deadline.com/feature/the-gilded-age-season-4-news-updates-everything-we-know-1236748421/",
-      "date": "2026-08-18T11:16:49.265824+00:00",
-      "image": "https://deadline.com/wp-content/uploads/2025/07/carrie-coon-merritt-wever-e1752281224589.jpg",
       "important": true,
       "score": 6
     },
@@ -93,7 +93,7 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/jon-ronson-things-fell-apart-returns-season-3-bbc-1237042799/",
-      "date": "2026-08-18T11:16:49.264483+00:00",
+      "date": "2026-08-18T12:26:23.520405+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/Things-Fell-Apart.webp",
       "important": true,
       "score": 6
@@ -117,7 +117,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/news/trailers/my-brothers-wedding-4k-restoration-trailer-charles-burnett-1235210852/",
-      "date": "2026-08-18T11:16:49.273859+00:00",
+      "date": "2026-08-18T12:26:23.532401+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/MyBrothersWedding.jpg?w=650",
       "important": true,
       "score": 4
@@ -141,7 +141,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/criticism/shows/its-always-sunny-in-philadelphia-season-18-for-the-sickos-1235210525/",
-      "date": "2026-08-18T11:16:49.274776+00:00",
+      "date": "2026-08-18T12:26:23.534169+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/Its-Always-Sunny-in-Philadelphia-Season-18-Frank-Dennis-corpse.jpg?w=650",
       "important": false,
       "score": 3
@@ -165,7 +165,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/news/business/netflix-names-katie-martin-kelley-vp-communications-film-1235210788/",
-      "date": "2026-08-18T11:16:49.274220+00:00",
+      "date": "2026-08-18T12:26:23.533081+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2021/02/NetflixBuilding219802.jpg?w=650",
       "important": false,
       "score": 3
@@ -189,7 +189,7 @@
         "fa": "The Hollywood Reporter"
       },
       "link": "https://www.hollywoodreporter.com/tv/tv-features/witney-carson-dwts-pregnancy-next-pro-interview-1236674489/",
-      "date": "2026-08-18T11:16:49.270692+00:00",
+      "date": "2026-08-18T12:26:23.527191+00:00",
       "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/181638_1200-e1786837916887.jpg?w=1440&#038;h=810&#038;crop=1",
       "important": false,
       "score": 3
@@ -213,7 +213,7 @@
         "fa": "Variety"
       },
       "link": "https://variety.com/2026/film/news/sundance-hit-thelma-mandarin-remake-stars-collective-1236836962/",
-      "date": "2026-08-18T11:16:49.267810+00:00",
+      "date": "2026-08-18T12:26:23.523814+00:00",
       "image": "https://variety.com/wp-content/uploads/2024/01/Thelma-June-Squibb-Fred-Hechinger.jpeg",
       "important": false,
       "score": 3
@@ -237,7 +237,7 @@
         "fa": "Variety"
       },
       "link": "https://variety.com/2026/tv/global/red-water-antoneta-alamat-kusijanovic-zdf-arte-beta-film-1236836971/",
-      "date": "2026-08-18T11:16:49.267488+00:00",
+      "date": "2026-08-18T12:26:23.523486+00:00",
       "image": "https://variety.com/wp-content/uploads/2026/08/Red-Water-2.jpg",
       "important": false,
       "score": 3
@@ -261,7 +261,7 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/mariska-hargitay-interview-my-mom-jayne-1237043627/",
-      "date": "2026-08-18T11:16:49.265293+00:00",
+      "date": "2026-08-18T12:26:23.521222+00:00",
       "image": "https://deadline.com/wp-content/uploads/2025/12/My-Mom-Jayne-02.jpeg",
       "important": false,
       "score": 3
@@ -285,7 +285,7 @@
         "fa": "Variety"
       },
       "link": "https://variety.com/2026/film/box-office/spider-man-brand-new-day-the-odyssey-continue-tussle-uk-ireland-box-office-1236836944/",
-      "date": "2026-08-18T11:16:49.267990+00:00",
+      "date": "2026-08-18T12:26:23.523995+00:00",
       "image": "https://variety.com/wp-content/uploads/2026/08/Spider-Man-Odyssey.jpg",
       "important": false,
       "score": 1
@@ -297,19 +297,19 @@
         "fa": "آئویف هیندز و بیلی هاول برای هدایت سریال‌های بی‌بی‌سی و A24 «وزارت زمان»"
       },
       "excerpt": {
-        "en": "Aoife Hinds (Dune: Prophecy, Normal People) and Billy Howle (The Perfect Couple, Under the Banner of Heaven) will star in BBC and A24 fantasy series The Ministry of Time. Hinds will play Sophy and Howle will be Commander Graham Gore, with filming beginning in and around London, as we reported earlier this year. Further casting […]",
-        "fa": "Aoife Hinds و Billy Howle در سریال های فانتزی BBC و A24 وزارت زمان بازی خواهند کرد. هیندز نقش سوفی را بازی خواهد کرد و هاول فرمانده گراهام گور خواهد بود و فیلمبرداری آن در لندن و اطراف آن آغاز می شود، همانطور که اوایل امسال گزارش دادیم. بازیگری بیشتر"
+        "en": "Aoife Hinds (Dune: Prophecy, Normal People) and Billy Howle (The Perfect Couple, Under the Banner of Heaven) will star in BBC and A24 drama series The Ministry of Time. Hinds will play Sophy and Howle will be Commander Graham Gore, with filming beginning in and around London, as we reported earlier this year. Further casting […]",
+        "fa": "آئویف هیندز و بیلی هاول در سریال های درام وزارت زمان بی بی سی و A24 بازی خواهند کرد. هیندز نقش سوفی را بازی خواهد کرد و هاول فرمانده گراهام گور خواهد بود و فیلمبرداری آن در لندن و اطراف آن آغاز می شود، همانطور که اوایل امسال گزارش دادیم. بازیگری بیشتر"
       },
       "content": {
-        "en": "Aoife Hinds (Dune: Prophecy, Normal People) and Billy Howle (The Perfect Couple, Under the Banner of Heaven) will star in BBC and A24 fantasy series The Ministry of Time. Hinds will play Sophy and Howle will be Commander Graham Gore, with filming beginning in and around London, as we reported earlier this year. Further casting […]",
-        "fa": "Aoife Hinds و Billy Howle در سریال های فانتزی BBC و A24 وزارت زمان بازی خواهند کرد. هیندز نقش سوفی را بازی خواهد کرد و هاول فرمانده گراهام گور خواهد بود و فیلمبرداری آن در لندن و اطراف آن آغاز می شود، همانطور که اوایل امسال گزارش دادیم. بازیگری بیشتر"
+        "en": "Aoife Hinds (Dune: Prophecy, Normal People) and Billy Howle (The Perfect Couple, Under the Banner of Heaven) will star in BBC and A24 drama series The Ministry of Time. Hinds will play Sophy and Howle will be Commander Graham Gore, with filming beginning in and around London, as we reported earlier this year. Further casting […]",
+        "fa": "آئویف هیندز و بیلی هاول در سریال های درام وزارت زمان بی بی سی و A24 بازی خواهند کرد. هیندز نقش سوفی را بازی خواهد کرد و هاول فرمانده گراهام گور خواهد بود و فیلمبرداری آن در لندن و اطراف آن آغاز می شود، همانطور که اوایل امسال گزارش دادیم. بازیگری بیشتر"
       },
       "source": {
         "en": "Deadline",
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/ministry-of-time-casts-aoife-hinds-billy-howle-bbc-a24-1237044013/",
-      "date": "2026-08-18T11:16:49.263139+00:00",
+      "date": "2026-08-18T12:26:23.519399+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/Aoife-Hinds-and-Billy-Howle.jpg",
       "important": false,
       "score": 1
@@ -333,7 +333,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/criticism/movies/dreams-in-nightmares-review-shatara-michelle-ford-1235030591/",
-      "date": "2026-08-18T11:16:49.274432+00:00",
+      "date": "2026-08-18T12:26:23.533499+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2024/07/DIN_5.jpg?w=650",
       "important": false,
       "score": 0
@@ -357,32 +357,32 @@
         "fa": "The Wrap"
       },
       "link": "https://www.thewrap.com/creative-content/movies/david-f-sandberg-to-direct-horror-movie-mommys-home-lionsgate/",
-      "date": "2026-08-18T11:16:49.272067+00:00",
+      "date": "2026-08-18T12:26:23.529607+00:00",
       "image": "https://www.thewrap.com/wp-content/uploads/2026/08/Untitled-design-2026-08-17T181923.591.jpg",
       "important": false,
       "score": 0
     },
     {
-      "id": "170f74c5f16e",
+      "id": "7d2e5ee9381c",
       "title": {
-        "en": "Details of Amazon’s ‘Melania’ Followup Begin to Emerge",
-        "fa": "جزئیات پیگیری «ملانیا» آمازون شروع به ظهور کرد"
+        "en": "World Cup, NBA Finals Lift Broadcast Viewership to 19.8% in June",
+        "fa": "جام جهانی، فینال NBA بینندگان پخش را در ژوئن به 19.8 درصد افزایش داد"
       },
       "excerpt": {
-        "en": "The director of the original film, Brett Ratner, said that two new docuseries “chapters” are forthcoming to the platform.",
-        "fa": "کارگردان فیلم اصلی، برت رتنر، گفت که دو فیلم مستند جدید «فصل» در راه است."
+        "en": "Fox and NBCU/Versant were the biggest beneficiaries, but their gains were not enough to topple YouTube and Disney The post World Cup, NBA Finals Lift Broadcast Viewership to 19.8% in June appeared first on TheWrap .",
+        "fa": "فاکس و NBCU/Versant بزرگترین ذینفعان بودند، اما دستاوردهای آنها برای سرنگونی یوتیوب و دیزنی کافی نبود."
       },
       "content": {
-        "en": "The director of the original film, Brett Ratner, said that two new docuseries “chapters” are forthcoming to the platform.",
-        "fa": "کارگردان فیلم اصلی، برت رتنر، گفت که دو فیلم مستند جدید «فصل» در راه است."
+        "en": "Fox and NBCU/Versant were the biggest beneficiaries, but their gains were not enough to topple YouTube and Disney The post World Cup, NBA Finals Lift Broadcast Viewership to 19.8% in June appeared first on TheWrap .",
+        "fa": "فاکس و NBCU/Versant بزرگترین ذینفعان بودند، اما دستاوردهای آنها برای سرنگونی یوتیوب و دیزنی کافی نبود."
       },
       "source": {
-        "en": "The Hollywood Reporter",
-        "fa": "The Hollywood Reporter"
+        "en": "The Wrap",
+        "fa": "The Wrap"
       },
-      "link": "https://www.hollywoodreporter.com/tv/tv-news/amazon-melania-followup-1236675598/",
-      "date": "2026-08-18T11:16:49.270848+00:00",
-      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/01/Melania_2026_003_CREDIT__Amazon_MGM_Studios-H-2026.jpg?w=1296&#038;h=730&#038;crop=1",
+      "link": "https://www.thewrap.com/media-platforms/tv/streaming-broadcast-cable-tv-viewership-nielsen-gauge-june-2026/",
+      "date": "2026-08-18T12:26:23.527475+00:00",
+      "image": "https://www.thewrap.com/wp-content/uploads/2026/07/GettyImages-2286805736-1-e1784571493563.jpg",
       "important": false,
       "score": 0
     },
@@ -405,32 +405,8 @@
         "fa": "The Hollywood Reporter"
       },
       "link": "https://www.hollywoodreporter.com/movies/movie-features/asghar-farhadi-director-film-war-iran-sarajevo-interview-1236675940/",
-      "date": "2026-08-18T11:16:49.269398+00:00",
+      "date": "2026-08-18T12:26:23.524935+00:00",
       "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/FotoJet-2026-08-18T125500.601.jpg?w=1440&#038;h=810&#038;crop=1",
-      "important": false,
-      "score": 0
-    },
-    {
-      "id": "95660837341a",
-      "title": {
-        "en": "Vin Diesel Says ‘Fast Forever’ Starts Shooting in December",
-        "fa": "وین دیزل می گوید فیلمبرداری «Fast Forever» در ماه دسامبر آغاز می شود"
-      },
-      "excerpt": {
-        "en": "Vin Diesel says filming for “Fast Forever” has a start date. “We start shooting in December, if I can make good on the request from the studio,” Diesel told Variety Monday night at the 25th anniversary screening of “The Fast and the Furious.” “I’m in a good place, though. I had to go through four […]",
-        "fa": "وین دیزل می‌گوید فیلمبرداری «Fast Forever» تاریخ شروعی دارد. دیزل دوشنبه شب در مراسم اکران بیست و پنجمین سالگرد فیلم «سریع و خشمگین» به ورایتی گفت: «اگر بتوانم به درخواست استودیو خوب عمل کنم، فیلمبرداری را در دسامبر شروع می‌کنیم.» با این حال، من در مکان خوبی هستم. باید از چهار مرحله عبور می کردم"
-      },
-      "content": {
-        "en": "Vin Diesel says filming for “Fast Forever” has a start date. “We start shooting in December, if I can make good on the request from the studio,” Diesel told Variety Monday night at the 25th anniversary screening of “The Fast and the Furious.” “I’m in a good place, though. I had to go through four […]",
-        "fa": "وین دیزل می‌گوید فیلمبرداری «Fast Forever» تاریخ شروعی دارد. دیزل دوشنبه شب در مراسم اکران بیست و پنجمین سالگرد فیلم «سریع و خشمگین» به ورایتی گفت: «اگر بتوانم به درخواست استودیو خوب عمل کنم، فیلمبرداری را در دسامبر شروع می‌کنیم.» با این حال، من در مکان خوبی هستم. باید از چهار مرحله عبور می کردم"
-      },
-      "source": {
-        "en": "Variety",
-        "fa": "Variety"
-      },
-      "link": "https://variety.com/2026/film/news/vin-diesel-fast-forever-starts-shooting-december-1236836906/",
-      "date": "2026-08-18T11:16:49.268621+00:00",
-      "image": "https://variety.com/wp-content/uploads/2026/08/GettyImages-2290414513.jpg",
       "important": false,
       "score": 0
     },
@@ -453,7 +429,7 @@
         "fa": "Variety"
       },
       "link": "https://variety.com/2026/film/global/diego-luna-ashes-sarajevo-1236836130/",
-      "date": "2026-08-18T11:16:49.266786+00:00",
+      "date": "2026-08-18T12:26:23.522811+00:00",
       "image": "https://variety.com/wp-content/uploads/2026/08/Diego-Luna-and-Beatrice.jpg",
       "important": false,
       "score": 0
@@ -477,8 +453,56 @@
         "fa": "Variety"
       },
       "link": "https://variety.com/2026/film/awards/oscars-taiwan-a-foggy-tale-international-feature-1236837005/",
-      "date": "2026-08-18T11:16:49.266472+00:00",
+      "date": "2026-08-18T12:26:23.522486+00:00",
       "image": "https://variety.com/wp-content/uploads/2025/10/A-Foggy-Tale.jpg",
+      "important": false,
+      "score": 0
+    },
+    {
+      "id": "cdff6d433a32",
+      "title": {
+        "en": "Peacock Raises Prices Across All Plans, NBCU’s Fourth Increase in Four Years",
+        "fa": "Peacock قیمت ها را در همه برنامه ها افزایش می دهد، چهارمین افزایش NBCU در چهار سال گذشته"
+      },
+      "excerpt": {
+        "en": "NBCUniversal’s Peacock just turned profitable for the first time. And now the company is raising prices for all customers, marking the streamer’s fourth fee increase in four years. Starting Aug. 18, Peacock will increase its prices for new and returning customers, and on or after Sept. 17 for current customers (depending on their next billing […]",
+        "fa": "طاووس NBCUniversal برای اولین بار سودآور شد. و اکنون این شرکت قیمت‌ها را برای همه مشتریان افزایش می‌دهد و چهارمین افزایش کارمزد پخش‌کننده در چهار سال گذشته را رقم می‌زند. از 18 آگوست، Peacock قیمت های خود را برای مشتریان جدید و بازگشتی، و در یا بعد از 17 سپتامبر برای مشتریان فعلی (بسته به صورتحساب بعدی آنها) افزایش می دهد."
+      },
+      "content": {
+        "en": "NBCUniversal’s Peacock just turned profitable for the first time. And now the company is raising prices for all customers, marking the streamer’s fourth fee increase in four years. Starting Aug. 18, Peacock will increase its prices for new and returning customers, and on or after Sept. 17 for current customers (depending on their next billing […]",
+        "fa": "طاووس NBCUniversal برای اولین بار سودآور شد. و اکنون این شرکت قیمت‌ها را برای همه مشتریان افزایش می‌دهد و چهارمین افزایش کارمزد پخش‌کننده در چهار سال گذشته را رقم می‌زند. از 18 آگوست، Peacock قیمت های خود را برای مشتریان جدید و بازگشتی، و در یا بعد از 17 سپتامبر برای مشتریان فعلی (بسته به صورتحساب بعدی آنها) افزایش می دهد."
+      },
+      "source": {
+        "en": "Variety",
+        "fa": "Variety"
+      },
+      "link": "https://variety.com/2026/tv/news/peacock-raises-prices-fourth-time-in-four-years-1236837016/",
+      "date": "2026-08-18T12:26:23.521856+00:00",
+      "image": "https://variety.com/wp-content/uploads/2026/08/Love-Island-USA-Season-8.png",
+      "important": false,
+      "score": 0
+    },
+    {
+      "id": "f8263fc7f7dd",
+      "title": {
+        "en": "ABC Files First Amendment Lawsuit Against FCC",
+        "fa": "پرونده های ABC اولین اصلاحیه شکایت علیه FCC"
+      },
+      "excerpt": {
+        "en": "Disney’s ABC filed a First Amendment lawsuit against the Federal Communications Commission on Tuesday, raising the pitch of the company’s efforts to countermand unusual pressure from the federal government to force the company’s stations to submit licenses for early renewal proceedings. ABC has found itself at cross purposes with the FCC at several moments in […]",
+        "fa": "ABC دیزنی روز سه شنبه شکایتی را علیه کمیسیون ارتباطات فدرال تنظیم کرد و تلاش های این شرکت را برای مقابله با فشارهای غیرعادی دولت فدرال برای وادار کردن ایستگاه های شرکت به ارائه مجوز برای رسیدگی های زودهنگام افزایش داد. ABC در چند لحظه در اهداف متقابل با FCC قرار گرفته است"
+      },
+      "content": {
+        "en": "Disney’s ABC filed a First Amendment lawsuit against the Federal Communications Commission on Tuesday, raising the pitch of the company’s efforts to countermand unusual pressure from the federal government to force the company’s stations to submit licenses for early renewal proceedings. ABC has found itself at cross purposes with the FCC at several moments in […]",
+        "fa": "ABC دیزنی روز سه شنبه شکایتی را علیه کمیسیون ارتباطات فدرال تنظیم کرد و تلاش های این شرکت را برای مقابله با فشارهای غیرعادی دولت فدرال برای وادار کردن ایستگاه های شرکت به ارائه مجوز برای رسیدگی های زودهنگام افزایش داد. ABC در چند لحظه در اهداف متقابل با FCC قرار گرفته است"
+      },
+      "source": {
+        "en": "Variety",
+        "fa": "Variety"
+      },
+      "link": "https://variety.com/2026/tv/news/abc-first-amendment-lawsuit-fcc-1236837028/",
+      "date": "2026-08-18T12:26:23.521573+00:00",
+      "image": "https://variety.com/wp-content/uploads/2019/03/disney-fox-takeover-placeholder.jpg",
       "important": false,
       "score": 0
     },
@@ -501,7 +525,7 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/kevin-macdonald-pep-guardiola-man-city-beautiful-obsession-1237014372/",
-      "date": "2026-08-18T11:16:49.265549+00:00",
+      "date": "2026-08-18T12:26:23.521477+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/06/City-Studios_Manchester-City-Docuseries-1.jpeg",
       "important": false,
       "score": 0
@@ -525,7 +549,7 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/charles-esten-tribute-hayden-panettiere-nashville-dead-1237043868/",
-      "date": "2026-08-18T11:16:49.264645+00:00",
+      "date": "2026-08-18T12:26:23.520563+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/hayden-panettiere-charles-esten-nashville.jpg",
       "important": false,
       "score": 0
