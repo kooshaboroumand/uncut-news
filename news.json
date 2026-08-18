@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-18T07:30:23.893960+00:00",
-  "count": 23,
+  "updated_at": "2026-08-18T08:24:48.139830+00:00",
+  "count": 24,
   "news": [
     {
       "id": "c753e4d9425a",
@@ -21,7 +21,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/criticism/shows/lanterns-episode-1-review-hal-jordan-dead-explained-1235210338/",
-      "date": "2026-08-18T07:30:23.712833+00:00",
+      "date": "2026-08-18T08:24:47.927993+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/Lanterns-HBO-series-Kyle-Chandler-as-Hal-Jordan.jpg?w=650",
       "important": true,
       "score": 6
@@ -45,7 +45,7 @@
         "fa": "The Hollywood Reporter"
       },
       "link": "https://www.hollywoodreporter.com/tv/tv-news/lisa-kudrow-friends-romy-michele-sequel-the-comeback-interview-1236675072/",
-      "date": "2026-08-18T07:30:23.707251+00:00",
+      "date": "2026-08-18T08:24:47.922642+00:00",
       "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/Awards-Chatter-Lisa-Kudrow-Main-2026.jpg?w=1296&#038;h=730&#038;crop=1",
       "important": true,
       "score": 6
@@ -69,8 +69,32 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/feature/the-gilded-age-season-4-news-updates-everything-we-know-1236748421/",
-      "date": "2026-08-18T07:30:23.702096+00:00",
+      "date": "2026-08-18T08:24:47.917968+00:00",
       "image": "https://deadline.com/wp-content/uploads/2025/07/carrie-coon-merritt-wever-e1752281224589.jpg",
+      "important": true,
+      "score": 6
+    },
+    {
+      "id": "94f8077d6908",
+      "title": {
+        "en": "Jon Ronson Culture Wars Series ‘Things Fell Apart’ Returns For Third Season On BBC – This Time Exploring David Vs. Goliath Stories",
+        "fa": "سریال John Ronson Culture Wars «Things Fell Apart» برای فصل سوم در بی‌بی‌سی بازمی‌گردد - این بار کاوش دیوید در مقابل. داستان های جالوت"
+      },
+      "excerpt": {
+        "en": "EXCLUSIVE: Jon Ronson’s audio series Things Fell Apart is returning for a third season next year. The new season, the show’s first in three years, will follow the British-American gonzo journalist as he explores eight stories of outsiders fighting powerful institutions. Per the synopsis, it will include “all too human stories about the moment one person decides […]",
+        "fa": "اختصاصی: سریال صوتی جان رونسون Things Fell Apart سال آینده برای فصل سوم باز می گردد. فصل جدید، اولین سریال در سه سال اخیر، گونزو روزنامه‌نگار بریتانیایی-آمریکایی را دنبال می‌کند که هشت داستان از افراد خارجی را که با نهادهای قدرتمند مبارزه می‌کنند، بررسی می‌کند. بر اساس خلاصه، این شامل «داستان‌های بیش از حد انسانی درباره لحظه‌ای است که یک فرد تصمیم می‌گیرد"
+      },
+      "content": {
+        "en": "EXCLUSIVE: Jon Ronson’s audio series Things Fell Apart is returning for a third season next year. The new season, the show’s first in three years, will follow the British-American gonzo journalist as he explores eight stories of outsiders fighting powerful institutions. Per the synopsis, it will include “all too human stories about the moment one person decides […]",
+        "fa": "اختصاصی: سریال صوتی جان رونسون Things Fell Apart سال آینده برای فصل سوم باز می گردد. فصل جدید، اولین سریال در سه سال اخیر، گونزو روزنامه‌نگار بریتانیایی-آمریکایی را دنبال می‌کند که هشت داستان از افراد خارجی را که با نهادهای قدرتمند مبارزه می‌کنند، بررسی می‌کند. بر اساس خلاصه، این شامل «داستان‌های بیش از حد انسانی درباره لحظه‌ای است که یک فرد تصمیم می‌گیرد"
+      },
+      "source": {
+        "en": "Deadline",
+        "fa": "Deadline"
+      },
+      "link": "https://deadline.com/2026/08/jon-ronson-things-fell-apart-returns-season-3-bbc-1237042799/",
+      "date": "2026-08-18T08:24:47.916060+00:00",
+      "image": "https://deadline.com/wp-content/uploads/2026/08/Things-Fell-Apart.webp",
       "important": true,
       "score": 6
     },
@@ -93,7 +117,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/news/trailers/my-brothers-wedding-4k-restoration-trailer-charles-burnett-1235210852/",
-      "date": "2026-08-18T07:30:23.711690+00:00",
+      "date": "2026-08-18T08:24:47.926896+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/MyBrothersWedding.jpg?w=650",
       "important": true,
       "score": 4
@@ -106,18 +130,18 @@
       },
       "excerpt": {
         "en": "'Snowfall' alums Wanda (Gail Bean) and Leon (Isaiah John) try to reinvent themselves in '90s Los Angeles in the new FX series, set to premiere on Sept. 8 on FX and Hulu.",
-        "fa": "واندا و لئون، آلوم های «بارش برف» در سری جدید FX که قرار است در 8 سپتامبر در FX و Hulu نمایش داده شود، تلاش می کنند خود را در دهه 90 لس آنجلس دوباره اختراع کنند."
+        "fa": "واندا و لئون، آلوم‌های «بارش برف» در سری جدید FX که قرار است در 8 سپتامبر در FX و Hulu نمایش داده شود، تلاش می‌کنند خود را در لس‌آنجلس دهه 90 دوباره اختراع کنند."
       },
       "content": {
         "en": "'Snowfall' alums Wanda (Gail Bean) and Leon (Isaiah John) try to reinvent themselves in '90s Los Angeles in the new FX series, set to premiere on Sept. 8 on FX and Hulu.",
-        "fa": "واندا و لئون، آلوم های «بارش برف» در سری جدید FX که قرار است در 8 سپتامبر در FX و Hulu نمایش داده شود، تلاش می کنند خود را در دهه 90 لس آنجلس دوباره اختراع کنند."
+        "fa": "واندا و لئون، آلوم‌های «بارش برف» در سری جدید FX که قرار است در 8 سپتامبر در FX و Hulu نمایش داده شود، تلاش می‌کنند خود را در لس‌آنجلس دهه 90 دوباره اختراع کنند."
       },
       "source": {
         "en": "The Hollywood Reporter",
         "fa": "The Hollywood Reporter"
       },
       "link": "https://www.hollywoodreporter.com/tv/tv-news/the-drop-snowfall-spinoff-trailer-wanda-leon-west-coast-rap-1236675808/",
-      "date": "2026-08-18T07:30:23.707820+00:00",
+      "date": "2026-08-18T08:24:47.923197+00:00",
       "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/06/FXs-The-Drop-Premieres-September-8-on-FX-and-Hulu.jpg?w=1295&#038;h=730&#038;crop=1",
       "important": true,
       "score": 4
@@ -141,7 +165,7 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/dan-harmon-rick-and-morty-emmy-interview-1237043095/",
-      "date": "2026-08-18T07:30:23.703103+00:00",
+      "date": "2026-08-18T08:24:47.918957+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/Rock-and-Morty.jpg",
       "important": true,
       "score": 4
@@ -165,7 +189,7 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/abby-phillip-cnn-contract-1237043487/",
-      "date": "2026-08-18T07:30:23.702527+00:00",
+      "date": "2026-08-18T08:24:47.918387+00:00",
       "image": "https://deadline.com/wp-content/uploads/2022/08/Abby-Phillip-_-CNN.jpg",
       "important": true,
       "score": 4
@@ -189,7 +213,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/criticism/shows/its-always-sunny-in-philadelphia-season-18-for-the-sickos-1235210525/",
-      "date": "2026-08-18T07:30:23.712722+00:00",
+      "date": "2026-08-18T08:24:47.927881+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/Its-Always-Sunny-in-Philadelphia-Season-18-Frank-Dennis-corpse.jpg?w=650",
       "important": false,
       "score": 3
@@ -213,7 +237,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/news/business/netflix-names-katie-martin-kelley-vp-communications-film-1235210788/",
-      "date": "2026-08-18T07:30:23.712095+00:00",
+      "date": "2026-08-18T08:24:47.927265+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2021/02/NetflixBuilding219802.jpg?w=650",
       "important": false,
       "score": 3
@@ -237,7 +261,7 @@
         "fa": "The Hollywood Reporter"
       },
       "link": "https://www.hollywoodreporter.com/tv/tv-features/field-of-dreams-game-2026-iowa-score-netflix-where-to-watch-1236674694/",
-      "date": "2026-08-18T07:30:23.708205+00:00",
+      "date": "2026-08-18T08:24:47.923550+00:00",
       "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/2026FOD_PM_3887A.jpg?crop=0px%2C200px%2C3414px%2C1910px&#038;resize=1440%2C810",
       "important": false,
       "score": 3
@@ -261,8 +285,32 @@
         "fa": "The Hollywood Reporter"
       },
       "link": "https://www.hollywoodreporter.com/tv/tv-features/witney-carson-dwts-pregnancy-next-pro-interview-1236674489/",
-      "date": "2026-08-18T07:30:23.707532+00:00",
+      "date": "2026-08-18T08:24:47.922918+00:00",
       "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/181638_1200-e1786837916887.jpg?w=1440&#038;h=810&#038;crop=1",
+      "important": false,
+      "score": 3
+    },
+    {
+      "id": "9feebb54130f",
+      "title": {
+        "en": "Sundance Breakout ‘Thelma’ Set for Mandarin Remake by Stars Collective, Titled ‘Grandma, Please’ (EXCLUSIVE)",
+        "fa": "مجموعه Sundance Breakout \"Thelma\" برای بازسازی ماندارین توسط Stars Collective، با عنوان \"Grandma, Please\""
+      },
+      "excerpt": {
+        "en": "Stars Collective has acquired the Mandarin-language remake rights to “Thelma,” the 2024 Sundance Film Festival breakout that became Magnolia Pictures’ highest-grossing narrative feature, and is developing an adaptation titled “Grandma, Please.” In “Grandma, Please,” an 80-year-old grandmother is swindled out of her life savings by a scammer who uses AI to clone her late husband’s […]",
+        "fa": "استارز کالکتیو حقوق بازسازی به زبان ماندارین را برای «تلما»، جشنواره فیلم ساندنس 2024 که به پردرآمدترین فیلم روایی Magnolia Pictures تبدیل شد، به دست آورد و در حال توسعه یک اقتباس با عنوان «بزرگ، لطفاً» است. در «مادربزرگ، لطفاً»، یک مادربزرگ 80 ساله توسط یک کلاهبردار که از هوش مصنوعی برای شبیه‌سازی همسر مرحومش استفاده می‌کند، از پس‌انداز زندگی‌اش کلاهبرداری می‌کند."
+      },
+      "content": {
+        "en": "Stars Collective has acquired the Mandarin-language remake rights to “Thelma,” the 2024 Sundance Film Festival breakout that became Magnolia Pictures’ highest-grossing narrative feature, and is developing an adaptation titled “Grandma, Please.” In “Grandma, Please,” an 80-year-old grandmother is swindled out of her life savings by a scammer who uses AI to clone her late husband’s […]",
+        "fa": "استارز کالکتیو حقوق بازسازی به زبان ماندارین را برای «تلما»، جشنواره فیلم ساندنس 2024 که به پردرآمدترین فیلم روایی Magnolia Pictures تبدیل شد، به دست آورد و در حال توسعه یک اقتباس با عنوان «بزرگ، لطفاً» است. در «مادربزرگ، لطفاً»، یک مادربزرگ 80 ساله توسط یک کلاهبردار که از هوش مصنوعی برای شبیه‌سازی همسر مرحومش استفاده می‌کند، از پس‌انداز زندگی‌اش کلاهبرداری می‌کند."
+      },
+      "source": {
+        "en": "Variety",
+        "fa": "Variety"
+      },
+      "link": "https://variety.com/2026/film/news/sundance-hit-thelma-mandarin-remake-stars-collective-1236836962/",
+      "date": "2026-08-18T08:24:47.919291+00:00",
+      "image": "https://variety.com/wp-content/uploads/2024/01/Thelma-June-Squibb-Fred-Hechinger.jpeg",
       "important": false,
       "score": 3
     },
@@ -285,7 +333,7 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/mariska-hargitay-interview-my-mom-jayne-1237043627/",
-      "date": "2026-08-18T07:30:23.701472+00:00",
+      "date": "2026-08-18T08:24:47.917350+00:00",
       "image": "https://deadline.com/wp-content/uploads/2025/12/My-Mom-Jayne-02.jpeg",
       "important": false,
       "score": 3
@@ -309,7 +357,7 @@
         "fa": "Variety"
       },
       "link": "https://variety.com/2026/film/box-office/spider-man-brand-new-day-the-odyssey-continue-tussle-uk-ireland-box-office-1236836944/",
-      "date": "2026-08-18T07:30:23.703613+00:00",
+      "date": "2026-08-18T08:24:47.919485+00:00",
       "image": "https://variety.com/wp-content/uploads/2026/08/Spider-Man-Odyssey.jpg",
       "important": false,
       "score": 1
@@ -333,7 +381,7 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/ghost-rider-2028-disney-release-dates-1237043467/",
-      "date": "2026-08-18T07:30:23.702753+00:00",
+      "date": "2026-08-18T08:24:47.918634+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/07/Ryan-Gosling-Ghost-Rider-2-shot.jpg",
       "important": false,
       "score": 1
@@ -357,7 +405,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/criticism/movies/dreams-in-nightmares-review-shatara-michelle-ford-1235030591/",
-      "date": "2026-08-18T07:30:23.712343+00:00",
+      "date": "2026-08-18T08:24:47.927497+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2024/07/DIN_5.jpg?w=650",
       "important": false,
       "score": 0
@@ -381,7 +429,7 @@
         "fa": "The Hollywood Reporter"
       },
       "link": "https://www.hollywoodreporter.com/tv/tv-news/amazon-melania-followup-1236675598/",
-      "date": "2026-08-18T07:30:23.707705+00:00",
+      "date": "2026-08-18T08:24:47.923085+00:00",
       "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/01/Melania_2026_003_CREDIT__Amazon_MGM_Studios-H-2026.jpg?w=1296&#038;h=730&#038;crop=1",
       "important": false,
       "score": 0
@@ -394,18 +442,18 @@
       },
       "excerpt": {
         "en": "“Crystal Lake” star Linda Cardellini is teasing the upcoming “Friday the 13th” prequel television series. Cardellini stars in the Peacock series as the franchise antagonist Pamela Voorhees. The show, premiering Oct. 15 on the streamer, follows Voorhees’ life prior to the events of the first “Friday the 13th” film. It also stars William Catlett as […]",
-        "fa": "لیندا کاردلینی، ستاره «دریاچه کریستال» در حال پخش سریال تلویزیونی پیش درآمد «جمعه سیزدهم» است. کاردلینی در سریال Peacock در نقش آنتاگونیست فرنچایز Pamela Voorhees بازی می کند. این نمایش که در 15 اکتبر در استریمر پخش می‌شود، زندگی ورهیز را قبل از رویدادهای اولین فیلم «جمعه سیزدهم» دنبال می‌کند. در این فیلم ویلیام کتلت نیز نقش اصلی را بازی می کند"
+        "fa": "لیندا کاردلینی، ستاره «دریاچه کریستال» در حال پخش سریال تلویزیونی پیش درآمد «جمعه سیزدهم» است. کاردلینی در سریال Peacock در نقش آنتاگونیست فرنچایز Pamela Voorhees بازی می کند. این نمایش که در 15 اکتبر در استریمر پخش می‌شود، زندگی ورهیز را قبل از رویدادهای اولین فیلم «جمعه سیزدهم» دنبال می‌کند. در این فیلم ویلیام کتلت نیز نقش آفرینی می کند"
       },
       "content": {
         "en": "“Crystal Lake” star Linda Cardellini is teasing the upcoming “Friday the 13th” prequel television series. Cardellini stars in the Peacock series as the franchise antagonist Pamela Voorhees. The show, premiering Oct. 15 on the streamer, follows Voorhees’ life prior to the events of the first “Friday the 13th” film. It also stars William Catlett as […]",
-        "fa": "لیندا کاردلینی، ستاره «دریاچه کریستال» در حال پخش سریال تلویزیونی پیش درآمد «جمعه سیزدهم» است. کاردلینی در سریال Peacock در نقش آنتاگونیست فرنچایز Pamela Voorhees بازی می کند. این نمایش که در 15 اکتبر در استریمر پخش می‌شود، زندگی ورهیز را قبل از رویدادهای اولین فیلم «جمعه سیزدهم» دنبال می‌کند. در این فیلم ویلیام کتلت نیز نقش اصلی را بازی می کند"
+        "fa": "لیندا کاردلینی، ستاره «دریاچه کریستال» در حال پخش سریال تلویزیونی پیش درآمد «جمعه سیزدهم» است. کاردلینی در سریال Peacock در نقش آنتاگونیست فرنچایز Pamela Voorhees بازی می کند. این نمایش که در 15 اکتبر در استریمر پخش می‌شود، زندگی ورهیز را قبل از رویدادهای اولین فیلم «جمعه سیزدهم» دنبال می‌کند. در این فیلم ویلیام کتلت نیز نقش آفرینی می کند"
       },
       "source": {
         "en": "Variety",
         "fa": "Variety"
       },
       "link": "https://variety.com/2026/tv/columns/crystal-lake-linda-cardellini-friday-the-13th-prequel-series-gory-gross-blood-1236836771/",
-      "date": "2026-08-18T07:30:23.706085+00:00",
+      "date": "2026-08-18T08:24:47.921908+00:00",
       "image": "https://variety.com/wp-content/uploads/2026/07/NUP_211121_00008.jpg",
       "important": false,
       "score": 0
@@ -429,7 +477,7 @@
         "fa": "Variety"
       },
       "link": "https://variety.com/2026/tv/news/chris-carter-x-files-i-want-to-believe-directors-cut-1236836849/",
-      "date": "2026-08-18T07:30:23.705352+00:00",
+      "date": "2026-08-18T08:24:47.921208+00:00",
       "image": "https://variety.com/wp-content/uploads/2026/08/GettyImages-1457306222-e1787012171950.jpg",
       "important": false,
       "score": 0
@@ -453,7 +501,7 @@
         "fa": "Variety"
       },
       "link": "https://variety.com/2026/film/news/david-f-sandberg-direct-mommys-home-lionsgate-1236836858/",
-      "date": "2026-08-18T07:30:23.705119+00:00",
+      "date": "2026-08-18T08:24:47.920978+00:00",
       "image": "https://variety.com/wp-content/uploads/2026/08/MixCollage-17-Aug-2026-05-49-PM-8447.jpg",
       "important": false,
       "score": 0
@@ -466,18 +514,18 @@
       },
       "excerpt": {
         "en": "Vin Diesel says filming for “Fast Forever” has a start date. “We start shooting in December, if I can make good on the request from the studio,” Diesel told Variety Monday night at the 25th anniversary screening of “The Fast and the Furious.” “I’m in a good place, though. I had to go through four […]",
-        "fa": "وین دیزل می‌گوید فیلمبرداری «Fast Forever» تاریخ شروعی دارد. دیزل دوشنبه شب در مراسم اکران بیست و پنجمین سالگرد فیلم «سریع و خشمگین» به ورایتی گفت: «اگر بتوانم به درخواست استودیو خوب عمل کنم، فیلمبرداری را در دسامبر شروع می‌کنیم.» با این حال، من در مکان خوبی هستم. باید از چهار مرحله عبور می کردم"
+        "fa": "وین دیزل می گوید فیلمبرداری «Fast Forever» تاریخ شروعی دارد. دیزل دوشنبه شب در مراسم اکران بیست و پنجمین سالگرد فیلم «سریع و خشمگین» به ورایتی گفت: «در صورت درخواست استودیو، فیلمبرداری را در دسامبر شروع می‌کنیم.» با این حال، من در مکان خوبی هستم. باید از چهار مرحله عبور می کردم"
       },
       "content": {
         "en": "Vin Diesel says filming for “Fast Forever” has a start date. “We start shooting in December, if I can make good on the request from the studio,” Diesel told Variety Monday night at the 25th anniversary screening of “The Fast and the Furious.” “I’m in a good place, though. I had to go through four […]",
-        "fa": "وین دیزل می‌گوید فیلمبرداری «Fast Forever» تاریخ شروعی دارد. دیزل دوشنبه شب در مراسم اکران بیست و پنجمین سالگرد فیلم «سریع و خشمگین» به ورایتی گفت: «اگر بتوانم به درخواست استودیو خوب عمل کنم، فیلمبرداری را در دسامبر شروع می‌کنیم.» با این حال، من در مکان خوبی هستم. باید از چهار مرحله عبور می کردم"
+        "fa": "وین دیزل می گوید فیلمبرداری «Fast Forever» تاریخ شروعی دارد. دیزل دوشنبه شب در مراسم اکران بیست و پنجمین سالگرد فیلم «سریع و خشمگین» به ورایتی گفت: «در صورت درخواست استودیو، فیلمبرداری را در دسامبر شروع می‌کنیم.» با این حال، من در مکان خوبی هستم. باید از چهار مرحله عبور می کردم"
       },
       "source": {
         "en": "Variety",
         "fa": "Variety"
       },
       "link": "https://variety.com/2026/film/news/vin-diesel-fast-forever-starts-shooting-december-1236836906/",
-      "date": "2026-08-18T07:30:23.704278+00:00",
+      "date": "2026-08-18T08:24:47.920142+00:00",
       "image": "https://variety.com/wp-content/uploads/2026/08/GettyImages-2290414513.jpg",
       "important": false,
       "score": 0
@@ -486,7 +534,7 @@
       "id": "282aad74ec73",
       "title": {
         "en": "‘All Her Fault’ Creator On Challenging How Society Views Women & Mothers In Thriller Series",
-        "fa": "خالق «همه تقصیر او» درباره نحوه نگرش جامعه به زنان و مادران در سریال های هیجان انگیز"
+        "fa": "خالق «همه تقصیر او» درباره چالش‌برانگیز بودن دیدگاه جامعه درباره زنان و مادران در سریال‌های هیجان‌انگیز"
       },
       "excerpt": {
         "en": "Of all the feedback she’s received on All Her Fault, there is one comment that sticks with creator and showrunner Megan Gallagher: “Those are two of the worst husbands I’ve ever seen on television, and neither one of them were having an affair.” It certainly would’ve been easy (and predictable) to fuel audiences’ distaste for […]",
@@ -501,7 +549,7 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/all-her-fault-creator-megan-gallagher-interview-1237043228/",
-      "date": "2026-08-18T07:30:23.702421+00:00",
+      "date": "2026-08-18T08:24:47.918282+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/Megan-Gallagher-All-Her-Fault-Panel.jpg",
       "important": false,
       "score": 0
@@ -525,32 +573,8 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/kevin-macdonald-pep-guardiola-man-city-beautiful-obsession-1237014372/",
-      "date": "2026-08-18T07:30:23.701747+00:00",
+      "date": "2026-08-18T08:24:47.917651+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/06/City-Studios_Manchester-City-Docuseries-1.jpeg",
-      "important": false,
-      "score": 0
-    },
-    {
-      "id": "024dce93d6b3",
-      "title": {
-        "en": "Charles Esten Recounts Sweet First Encounter With Hayden Panettiere During ‘Nashville’ Audition: “What A Great Gift It Was To Act With You”",
-        "fa": "چارلز استن اولین برخورد شیرین با هیدن پانتی یر را در طول آزمایشی «نشویل» بازگو می کند: «چه هدیه بزرگی بود که با تو بازی کردم»"
-      },
-      "excerpt": {
-        "en": "Following Connie Britton’s heartfelt tribute to Hayden Panettiere, who died Sunday at the age of 36, fellow Nashville alum Charles Esten also remembered his former co-star. Esten was a late cast addition to the Nashville pilot and the last series regular to be announced in March 2012 on the country music drama about fading Nashville […]",
-        "fa": "پس از ادای احترام صمیمانه کانی بریتون به هیدن پانتییر، که یکشنبه در سن 36 سالگی درگذشت، چارلز استن، دانشمند نشویل، همبازی سابق خود را به یاد آورد. استن یکی از بازیگران دیرهنگام سریال نشویل بود و آخرین سریالی بود که در مارس 2012 در درام موسیقی کانتری درباره محو شدن نشویل اعلام شد."
-      },
-      "content": {
-        "en": "Following Connie Britton’s heartfelt tribute to Hayden Panettiere, who died Sunday at the age of 36, fellow Nashville alum Charles Esten also remembered his former co-star. Esten was a late cast addition to the Nashville pilot and the last series regular to be announced in March 2012 on the country music drama about fading Nashville […]",
-        "fa": "پس از ادای احترام صمیمانه کانی بریتون به هیدن پانتییر، که یکشنبه در سن 36 سالگی درگذشت، چارلز استن، دانشمند نشویل، همبازی سابق خود را به یاد آورد. استن یکی از بازیگران دیرهنگام سریال نشویل بود و آخرین سریالی بود که در مارس 2012 در درام موسیقی کانتری درباره محو شدن نشویل اعلام شد."
-      },
-      "source": {
-        "en": "Deadline",
-        "fa": "Deadline"
-      },
-      "link": "https://deadline.com/2026/08/charles-esten-tribute-hayden-panettiere-nashville-dead-1237043868/",
-      "date": "2026-08-18T07:30:23.699673+00:00",
-      "image": "https://deadline.com/wp-content/uploads/2026/08/hayden-panettiere-charles-esten-nashville.jpg",
       "important": false,
       "score": 0
     }
