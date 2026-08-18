@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-17T23:14:10.486523+00:00",
+  "updated_at": "2026-08-18T00:41:50.983700+00:00",
   "count": 24,
   "news": [
     {
@@ -21,7 +21,7 @@
         "fa": "Variety"
       },
       "link": "https://variety.com/2026/tv/news/netflix-a-different-world-sequel-series-trailer-images-1236836718/",
-      "date": "2026-08-17T23:14:10.305009+00:00",
+      "date": "2026-08-18T00:41:50.846965+00:00",
       "image": "https://variety.com/wp-content/uploads/2026/08/A_Different_World_n_S1_E1_00_03_29_12_R.jpg",
       "important": true,
       "score": 7
@@ -45,7 +45,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/criticism/shows/lanterns-episode-1-review-hal-jordan-dead-explained-1235210338/",
-      "date": "2026-08-17T23:14:10.312080+00:00",
+      "date": "2026-08-18T00:41:50.852465+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/Lanterns-HBO-series-Kyle-Chandler-as-Hal-Jordan.jpg?w=650",
       "important": true,
       "score": 6
@@ -54,7 +54,7 @@
       "id": "2997e0ca2896",
       "title": {
         "en": "Everything We Know About ‘The Gilded Age’ Season 4 So Far",
-        "fa": "Everything We Know About ‘The Gilded Age’ Season 4 So Far"
+        "fa": "هر آنچه در مورد فصل چهارم «عصر طلایی» تاکنون می‌دانیم"
       },
       "excerpt": {
         "en": "The culture clash will continue in Season 4 of Julian Fellowes’ HBO period drama The Gilded Age, based on the turn-of-the-century time period in America that lasted between 1870 and 1900. Some familiar faces have been promoted to series regulars since Season 3, and some new faces are joining the cast to play big-name historical […]",
@@ -69,7 +69,7 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/feature/the-gilded-age-season-4-news-updates-everything-we-know-1236748421/",
-      "date": "2026-08-17T23:14:10.300783+00:00",
+      "date": "2026-08-18T00:41:50.843048+00:00",
       "image": "https://deadline.com/wp-content/uploads/2025/07/carrie-coon-merritt-wever-e1752281224589.jpg",
       "important": true,
       "score": 6
@@ -93,7 +93,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/news/trailers/my-brothers-wedding-4k-restoration-trailer-charles-burnett-1235210852/",
-      "date": "2026-08-17T23:14:10.311079+00:00",
+      "date": "2026-08-18T00:41:50.851612+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/MyBrothersWedding.jpg?w=650",
       "important": true,
       "score": 4
@@ -117,8 +117,32 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/news/box-office/rivals-amziah-king-box-office-black-bear-1235210853/",
-      "date": "2026-08-17T23:14:10.310585+00:00",
+      "date": "2026-08-18T00:41:50.851187+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2025/03/the-rivals-of-amziah-king-319857_c200b9.webp?w=650",
+      "important": true,
+      "score": 4
+    },
+    {
+      "id": "5617ae70c7ec",
+      "title": {
+        "en": "‘The Drop’ Trailer Sees ‘Snowfall’ Characters Go After “New Gold Rush” of West Coast Rap",
+        "fa": "تریلر «قطره» کاراکترهای «بارش برف» را پس از «هفت طلای جدید» رپ ساحل غربی می‌بیند"
+      },
+      "excerpt": {
+        "en": "'Snowfall' alums Wanda (Gail Bean) and Leon (Isaiah John) try to reinvent themselves in '90s Los Angeles in the new FX series, set to premiere on Sept. 8 on FX and Hulu.",
+        "fa": "واندا و لئون، آلوم های «بارش برف» در سری جدید FX که قرار است در 8 سپتامبر در FX و Hulu نمایش داده شود، تلاش می کنند خود را در دهه 90 لس آنجلس دوباره اختراع کنند."
+      },
+      "content": {
+        "en": "'Snowfall' alums Wanda (Gail Bean) and Leon (Isaiah John) try to reinvent themselves in '90s Los Angeles in the new FX series, set to premiere on Sept. 8 on FX and Hulu.",
+        "fa": "واندا و لئون، آلوم های «بارش برف» در سری جدید FX که قرار است در 8 سپتامبر در FX و Hulu نمایش داده شود، تلاش می کنند خود را در دهه 90 لس آنجلس دوباره اختراع کنند."
+      },
+      "source": {
+        "en": "The Hollywood Reporter",
+        "fa": "The Hollywood Reporter"
+      },
+      "link": "https://www.hollywoodreporter.com/tv/tv-news/the-drop-snowfall-spinoff-trailer-wanda-leon-west-coast-rap-1236675808/",
+      "date": "2026-08-18T00:41:50.847802+00:00",
+      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/06/FXs-The-Drop-Premieres-September-8-on-FX-and-Hulu.jpg?w=1295&#038;h=730&#038;crop=1",
       "important": true,
       "score": 4
     },
@@ -141,7 +165,7 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/dan-harmon-rick-and-morty-emmy-interview-1237043095/",
-      "date": "2026-08-17T23:14:10.301964+00:00",
+      "date": "2026-08-18T00:41:50.844096+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/Rock-and-Morty.jpg",
       "important": true,
       "score": 4
@@ -165,7 +189,7 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/abby-phillip-cnn-contract-1237043487/",
-      "date": "2026-08-17T23:14:10.301447+00:00",
+      "date": "2026-08-18T00:41:50.843596+00:00",
       "image": "https://deadline.com/wp-content/uploads/2022/08/Abby-Phillip-_-CNN.jpg",
       "important": true,
       "score": 4
@@ -189,7 +213,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/criticism/shows/its-always-sunny-in-philadelphia-season-18-for-the-sickos-1235210525/",
-      "date": "2026-08-17T23:14:10.311987+00:00",
+      "date": "2026-08-18T00:41:50.852390+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/Its-Always-Sunny-in-Philadelphia-Season-18-Frank-Dennis-corpse.jpg?w=650",
       "important": false,
       "score": 3
@@ -202,43 +226,19 @@
       },
       "excerpt": {
         "en": "Kelley will report to Dani Dudeck and most recently worked at Warner Bros. following stints leading comms at MGM and Paramount.",
-        "fa": "کلی به دنی دودک گزارش می دهد و اخیراً در برادران وارنر پس از حضور در MGM و پارامونت، کار کرده است."
+        "fa": "کلی به دنی دودک گزارش می دهد و اخیراً در برادران وارنر پس از حضور در MGM و پارامونت کار کرده است."
       },
       "content": {
         "en": "Kelley will report to Dani Dudeck and most recently worked at Warner Bros. following stints leading comms at MGM and Paramount.",
-        "fa": "کلی به دنی دودک گزارش می دهد و اخیراً در برادران وارنر پس از حضور در MGM و پارامونت، کار کرده است."
+        "fa": "کلی به دنی دودک گزارش می دهد و اخیراً در برادران وارنر پس از حضور در MGM و پارامونت کار کرده است."
       },
       "source": {
         "en": "IndieWire",
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/news/business/netflix-names-katie-martin-kelley-vp-communications-film-1235210788/",
-      "date": "2026-08-17T23:14:10.311440+00:00",
+      "date": "2026-08-18T00:41:50.851923+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2021/02/NetflixBuilding219802.jpg?w=650",
-      "important": false,
-      "score": 3
-    },
-    {
-      "id": "f051767296cf",
-      "title": {
-        "en": "Peggy Webber, Prolific Radio Actress Who Worked for Orson Welles and Alfred Hitchcock on Film, Dies at 100",
-        "fa": "پگی وبر، بازیگر پرکار رادیو که برای اورسن ولز و آلفرد هیچکاک در فیلم کار می کرد، در 100 سالگی درگذشت."
-      },
-      "excerpt": {
-        "en": "She shared mics with Basil Rathbone, Lionel Barrymore, Harold Lloyd and Herbert Marshall, created a TV show that turned out to be ‘Our Miss Brooks’ and starred in ‘The Screaming Skull.’",
-        "fa": "او با بازیل راثبون، لیونل بریمور، هارولد لوید و هربرت مارشال میکروفون به اشتراک گذاشت، یک برنامه تلویزیونی ساخت که معلوم شد «خانم بروکس ما» است و در «جمجمه جیغ» بازی کرد."
-      },
-      "content": {
-        "en": "She shared mics with Basil Rathbone, Lionel Barrymore, Harold Lloyd and Herbert Marshall, created a TV show that turned out to be ‘Our Miss Brooks’ and starred in ‘The Screaming Skull.’",
-        "fa": "او با بازیل راثبون، لیونل بریمور، هارولد لوید و هربرت مارشال میکروفون به اشتراک گذاشت، یک برنامه تلویزیونی ساخت که معلوم شد «خانم بروکس ما» است و در «جمجمه جیغ» بازی کرد."
-      },
-      "source": {
-        "en": "The Hollywood Reporter",
-        "fa": "The Hollywood Reporter"
-      },
-      "link": "https://www.hollywoodreporter.com/movies/movie-news/peggy-webber-dead-radio-actress-orson-welles-hitchcock-1236675526/",
-      "date": "2026-08-17T23:14:10.308233+00:00",
-      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/Peggy-Webber-Obit-Main-2026.jpg?w=1296&#038;h=730&#038;crop=1",
       "important": false,
       "score": 3
     },
@@ -261,7 +261,7 @@
         "fa": "The Hollywood Reporter"
       },
       "link": "https://www.hollywoodreporter.com/tv/tv-features/lanterns-kyle-chandler-and-aaron-pierre-death-1236675601/",
-      "date": "2026-08-17T23:14:10.307467+00:00",
+      "date": "2026-08-18T00:41:50.848928+00:00",
       "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/Lanterns-Pierre-Chandler-Main-2026-.jpg?w=1296&#038;h=730&#038;crop=1",
       "important": false,
       "score": 3
@@ -270,7 +270,7 @@
       "id": "d965a8868e74",
       "title": {
         "en": "Connie Britton Praises Hayden Panettiere’s ‘Brilliance’ After ‘Nashville’ Co-Star’s Death: ‘I Love You Girl. Sleep Easy Now’",
-        "fa": "کانی بریتون «درخشش» هیدن پانتییر را پس از مرگ همبازی «نشویل» تمجید می‌کند: «دوستت دارم دختر». حالا راحت بخواب"
+        "fa": "کانی بریتون «درخشش» هیدن پانتییر را پس از مرگ همبازی «نشویل» می‌ستاید: «دختر دوستت دارم». حالا راحت بخواب"
       },
       "excerpt": {
         "en": "Connie Britton has “no words” following the death of her “Nashville” co-star Hayden Panettiere at 36 years old. The duo starred together on five seasons of the ABC country music drama from 2012 to 2016, with Panettiere headlining the series solo during its sixth and final season in 2018. Britton returned as a guest star […]",
@@ -285,7 +285,7 @@
         "fa": "Variety"
       },
       "link": "https://variety.com/2026/film/news/connie-britton-hayden-panettiere-death-nashville-1236836675/",
-      "date": "2026-08-17T23:14:10.305622+00:00",
+      "date": "2026-08-18T00:41:50.847484+00:00",
       "image": "https://variety.com/wp-content/uploads/2016/08/connie-britton-and-hayden-panetierre-nashville.jpg",
       "important": false,
       "score": 3
@@ -309,7 +309,7 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/blake-levin-joins-iag-media-finance-role-1237043412/",
-      "date": "2026-08-17T23:14:10.303284+00:00",
+      "date": "2026-08-18T00:41:50.845263+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/IMG_0204.jpeg",
       "important": false,
       "score": 3
@@ -333,34 +333,34 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/hulu-prison-break-reboot-series-cast-sam-trammell-chris-coy-1237043324/",
-      "date": "2026-08-17T23:14:10.302722+00:00",
+      "date": "2026-08-18T00:41:50.844794+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/Sam-Trammell-Sean-Bridgers-Kerry-Bishe-Robin-Weigert-Jean-Louisa-Kelly-and-Chris-Coy.jpg",
       "important": false,
       "score": 3
     },
     {
-      "id": "93250977d3e9",
+      "id": "ae5b95823265",
       "title": {
-        "en": "CNN Has Prime-Time Anchors Locked In Ahead of Paramount Deal",
-        "fa": "سی ان ان مجریان پرایم تایم را قبل از قرارداد پارامونت قفل کرده است"
+        "en": "Before She Hosts Primetime Emmy Awards, Mariska Hargitay Goes For Gold With Triple Nominee ‘My Mom Jayne’",
+        "fa": "ماریسکا هارگیتی قبل از اینکه میزبان جوایز امی پرایم تایم باشد، با نامزد سه گانه «مامان جین من» به دنبال طلاست."
       },
       "excerpt": {
-        "en": "Executives at Paramount Skydance have agreed to pay billions to acquire Warner Bros. Discovery, but they may have to do a little more work if they want to put their own stamp on the programming at CNN. CNN recently struck a new deal with Abby Phillip, anchor of the raucous 10 p.m. roundtable “NewsNight,” that […]",
-        "fa": "مدیران پارامونت اسکای‌دنس موافقت کرده‌اند که میلیاردها دلار برای خرید برادران وارنر دیسکاوری بپردازند، اما اگر بخواهند مهر خود را بر برنامه‌نویسی در CNN بگذارند، ممکن است مجبور باشند کمی بیشتر کار کنند. سی‌ان‌ان اخیراً قرارداد جدیدی با ابی فیلیپ، مجری برنامه‌های پرشور ساعت 10 شب منعقد کرده است. میزگرد «شب خبری»، که"
+        "en": "As Mariska Hargitay reflects on the past year in her life – a momentous one for the actress and filmmaker – a word comes to her mind to describe it: “cathartic.” She completed her 27th season starring as Capt. Olivia Benson on Law & Order: SVU and in May made her Broadway debut in the […]",
+        "fa": "همانطور که ماریسکا هارگیتای در مورد یک سال گذشته در زندگی خود فکر می کند - سالی مهم برای این بازیگر و فیلمساز - کلمه ای برای توصیف آن به ذهنش خطور می کند: \"مطمئن کننده\". او بیست و هفتمین فصل خود را با بازی در نقش کاپیتان اولیویا بنسون در قانون و نظم: SVU به پایان رساند و در ماه مه اولین بازی خود را در برادوی انجام داد."
       },
       "content": {
-        "en": "Executives at Paramount Skydance have agreed to pay billions to acquire Warner Bros. Discovery, but they may have to do a little more work if they want to put their own stamp on the programming at CNN. CNN recently struck a new deal with Abby Phillip, anchor of the raucous 10 p.m. roundtable “NewsNight,” that […]",
-        "fa": "مدیران پارامونت اسکای‌دنس موافقت کرده‌اند که میلیاردها دلار برای خرید برادران وارنر دیسکاوری بپردازند، اما اگر بخواهند مهر خود را بر برنامه‌نویسی در CNN بگذارند، ممکن است مجبور باشند کمی بیشتر کار کنند. سی‌ان‌ان اخیراً قرارداد جدیدی با ابی فیلیپ، مجری برنامه‌های پرشور ساعت 10 شب منعقد کرده است. میزگرد «شب خبری»، که"
+        "en": "As Mariska Hargitay reflects on the past year in her life – a momentous one for the actress and filmmaker – a word comes to her mind to describe it: “cathartic.” She completed her 27th season starring as Capt. Olivia Benson on Law & Order: SVU and in May made her Broadway debut in the […]",
+        "fa": "همانطور که ماریسکا هارگیتای در مورد یک سال گذشته در زندگی خود فکر می کند - سالی مهم برای این بازیگر و فیلمساز - کلمه ای برای توصیف آن به ذهنش خطور می کند: \"مطمئن کننده\". او بیست و هفتمین فصل خود را با بازی در نقش کاپیتان اولیویا بنسون در قانون و نظم: SVU به پایان رساند و در ماه مه اولین بازی خود را در برادوی انجام داد."
       },
       "source": {
-        "en": "Variety",
-        "fa": "Variety"
+        "en": "Deadline",
+        "fa": "Deadline"
       },
-      "link": "https://variety.com/2026/tv/news/cnn-prime-time-anchors-locked-paramount-1236836589/",
-      "date": "2026-08-17T23:14:10.306147+00:00",
-      "image": "https://variety.com/wp-content/uploads/2026/08/anderson-cooper.png",
+      "link": "https://deadline.com/2026/08/mariska-hargitay-interview-my-mom-jayne-1237043627/",
+      "date": "2026-08-18T00:41:50.842234+00:00",
+      "image": "https://deadline.com/wp-content/uploads/2025/12/My-Mom-Jayne-02.jpeg",
       "important": false,
-      "score": 1
+      "score": 3
     },
     {
       "id": "692c8ca36dd5",
@@ -381,7 +381,7 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/ghost-rider-2028-disney-release-dates-1237043467/",
-      "date": "2026-08-17T23:14:10.301660+00:00",
+      "date": "2026-08-18T00:41:50.843773+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/07/Ryan-Gosling-Ghost-Rider-2-shot.jpg",
       "important": false,
       "score": 1
@@ -405,32 +405,8 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/criticism/movies/dreams-in-nightmares-review-shatara-michelle-ford-1235030591/",
-      "date": "2026-08-17T23:14:10.311648+00:00",
+      "date": "2026-08-18T00:41:50.852099+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2024/07/DIN_5.jpg?w=650",
-      "important": false,
-      "score": 0
-    },
-    {
-      "id": "e47aceae9e45",
-      "title": {
-        "en": "‘60 Minutes’ Adds The New Yorker’s Ariel Levy as CBS Series Keeps Staffing Up",
-        "fa": "«60 دقیقه» آریل لوی از نیویورکر را به عنوان سریال CBS اضافه می کند"
-      },
-      "excerpt": {
-        "en": "'60' EP Nick Bilton praised Levy as an “astonishingly original writer and reporter” in announcing her addition as a contributor to staff Monday.",
-        "fa": "نیک بیلتون EP '60' لوی را به عنوان یک \"نویسنده و گزارشگر شگفت انگیز اصیل\" با اعلام اضافه شدن او به عنوان یکی از همکاران در روز دوشنبه تحسین کرد."
-      },
-      "content": {
-        "en": "'60' EP Nick Bilton praised Levy as an “astonishingly original writer and reporter” in announcing her addition as a contributor to staff Monday.",
-        "fa": "نیک بیلتون EP '60' لوی را به عنوان یک \"نویسنده و گزارشگر شگفت انگیز اصیل\" با اعلام اضافه شدن او به عنوان یکی از همکاران در روز دوشنبه تحسین کرد."
-      },
-      "source": {
-        "en": "The Hollywood Reporter",
-        "fa": "The Hollywood Reporter"
-      },
-      "link": "https://www.hollywoodreporter.com/tv/tv-news/cbs-60-minutes-adds-the-new-yorkers-ariel-levy-contributor-1236675574/",
-      "date": "2026-08-17T23:14:10.307994+00:00",
-      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/GettyImages-457027880.jpg?crop=0px%2C64px%2C3000px%2C1679px&#038;resize=1440%2C810",
       "important": false,
       "score": 0
     },
@@ -453,7 +429,7 @@
         "fa": "Variety"
       },
       "link": "https://variety.com/2026/tv/news/peacock-test-membership-rewards-program-discounts-free-pizzas-1236836638/",
-      "date": "2026-08-17T23:14:10.305904+00:00",
+      "date": "2026-08-18T00:41:50.847723+00:00",
       "image": "https://variety.com/wp-content/uploads/2025/05/best-peacock-deals-2026.jpg",
       "important": false,
       "score": 0
@@ -477,7 +453,7 @@
         "fa": "Variety"
       },
       "link": "https://variety.com/2026/film/news/california-paramount-bonta-do-over-bond-1236836713/",
-      "date": "2026-08-17T23:14:10.304895+00:00",
+      "date": "2026-08-18T00:41:50.846863+00:00",
       "image": "https://variety.com/wp-content/uploads/2026/07/Rob-Bonta.jpg",
       "important": false,
       "score": 0
@@ -490,19 +466,43 @@
       },
       "excerpt": {
         "en": "“Crystal Lake” star Linda Cardellini is teasing the upcoming “Friday the 13th” prequel television series. Cardellini stars in the Peacock series as the franchise antagonist Pamela Voorhees. The show, premiering Oct. 15 on the streamer, follows Voorhees’ life prior to the events of the first “Friday the 13th” film. It also stars William Catlett as […]",
-        "fa": "لیندا کاردلینی، ستاره «دریاچه کریستال» در حال پخش سریال تلویزیونی پیش درآمد «جمعه سیزدهم» است. کاردلینی در سریال Peacock در نقش آنتاگونیست فرنچایز Pamela Voorhees بازی می کند. این نمایش که در 15 اکتبر در استریمر پخش می‌شود، زندگی ورهیز را قبل از رویدادهای اولین فیلم «جمعه سیزدهم» دنبال می‌کند. در این فیلم ویلیام کتلت نیز نقش اصلی را بازی می کند"
+        "fa": "لیندا کاردلینی، ستاره «دریاچه کریستال» در حال پخش سریال تلویزیونی پیش درآمد «جمعه سیزدهم» است. کاردلینی در سریال Peacock در نقش آنتاگونیست فرنچایز Pamela Voorhees بازی می کند. این نمایش که در 15 اکتبر در استریمر پخش می‌شود، زندگی ورهیز را قبل از رویدادهای اولین فیلم «جمعه سیزدهم» دنبال می‌کند. در این فیلم ویلیام کتلت نیز نقش آفرینی می کند"
       },
       "content": {
         "en": "“Crystal Lake” star Linda Cardellini is teasing the upcoming “Friday the 13th” prequel television series. Cardellini stars in the Peacock series as the franchise antagonist Pamela Voorhees. The show, premiering Oct. 15 on the streamer, follows Voorhees’ life prior to the events of the first “Friday the 13th” film. It also stars William Catlett as […]",
-        "fa": "لیندا کاردلینی، ستاره «دریاچه کریستال» در حال پخش سریال تلویزیونی پیش درآمد «جمعه سیزدهم» است. کاردلینی در سریال Peacock در نقش آنتاگونیست فرنچایز Pamela Voorhees بازی می کند. این نمایش که در 15 اکتبر در استریمر پخش می‌شود، زندگی ورهیز را قبل از رویدادهای اولین فیلم «جمعه سیزدهم» دنبال می‌کند. در این فیلم ویلیام کتلت نیز نقش اصلی را بازی می کند"
+        "fa": "لیندا کاردلینی، ستاره «دریاچه کریستال» در حال پخش سریال تلویزیونی پیش درآمد «جمعه سیزدهم» است. کاردلینی در سریال Peacock در نقش آنتاگونیست فرنچایز Pamela Voorhees بازی می کند. این نمایش که در 15 اکتبر در استریمر پخش می‌شود، زندگی ورهیز را قبل از رویدادهای اولین فیلم «جمعه سیزدهم» دنبال می‌کند. در این فیلم ویلیام کتلت نیز نقش آفرینی می کند"
       },
       "source": {
         "en": "Variety",
         "fa": "Variety"
       },
       "link": "https://variety.com/2026/tv/columns/crystal-lake-linda-cardellini-friday-the-13th-prequel-series-gory-gross-blood-1236836771/",
-      "date": "2026-08-17T23:14:10.303897+00:00",
+      "date": "2026-08-18T00:41:50.846017+00:00",
       "image": "https://variety.com/wp-content/uploads/2026/07/NUP_211121_00008.jpg",
+      "important": false,
+      "score": 0
+    },
+    {
+      "id": "d6a7ed90c3a4",
+      "title": {
+        "en": "LISTEN: How Chris Carter Got a Second Shot at ‘The X-Files: I Want to Believe’ Film",
+        "fa": "بشنوید: چگونه کریس کارتر دومین شات را در فیلم The X-Files: I Want to Believe دریافت کرد"
+      },
+      "excerpt": {
+        "en": "On today’s episode of “Daily Variety” podcast, “The X-Files” creator Chris Carter explains to Variety’s Michael Schneider how he got the chance to do a director’s cut of his 2008 “The X-Files: I Want to Believe” feature film. The new cut dubbed “The X-Files: I Wanted to Believe: Vrach Frankenshteyn” debuted Aug. 14 on Hulu […]",
+        "fa": "در اپیزود امروز پادکست «Daily Variety»، کریس کارتر، خالق «پرونده‌های ایکس» به مایکل اشنایدر از ورایتی توضیح می‌دهد که چگونه این شانس را پیدا کرده است که برش کارگردانی از فیلم سینمایی «پرونده‌های ایکس: می‌خواهم باور کنم» در سال 2008 را انجام دهد. برش جدید با نام «پرونده‌های ایکس: می‌خواستم باور کنم: وراچ فرانکشتاین» در 14 آگوست در Hulu منتشر شد."
+      },
+      "content": {
+        "en": "On today’s episode of “Daily Variety” podcast, “The X-Files” creator Chris Carter explains to Variety’s Michael Schneider how he got the chance to do a director’s cut of his 2008 “The X-Files: I Want to Believe” feature film. The new cut dubbed “The X-Files: I Wanted to Believe: Vrach Frankenshteyn” debuted Aug. 14 on Hulu […]",
+        "fa": "در اپیزود امروز پادکست «Daily Variety»، کریس کارتر، خالق «پرونده‌های ایکس» به مایکل اشنایدر از ورایتی توضیح می‌دهد که چگونه این شانس را پیدا کرده است که برش کارگردانی از فیلم سینمایی «پرونده‌های ایکس: می‌خواهم باور کنم» در سال 2008 را انجام دهد. برش جدید با نام «پرونده‌های ایکس: می‌خواستم باور کنم: وراچ فرانکشتاین» در 14 آگوست در Hulu منتشر شد."
+      },
+      "source": {
+        "en": "Variety",
+        "fa": "Variety"
+      },
+      "link": "https://variety.com/2026/tv/news/chris-carter-x-files-i-want-to-believe-directors-cut-1236836849/",
+      "date": "2026-08-18T00:41:50.845443+00:00",
+      "image": "https://variety.com/wp-content/uploads/2026/08/GettyImages-1457306222-e1787012171950.jpg",
       "important": false,
       "score": 0
     },
@@ -525,7 +525,7 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/lakers-iger-buss-family-stak-1237043368/",
-      "date": "2026-08-17T23:14:10.302929+00:00",
+      "date": "2026-08-18T00:41:50.844978+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/Jeannie-Buss-Josh-Kushner-and-Bob-Iger.jpg",
       "important": false,
       "score": 0
@@ -534,7 +534,7 @@
       "id": "282aad74ec73",
       "title": {
         "en": "‘All Her Fault’ Creator On Challenging How Society Views Women & Mothers In Thriller Series",
-        "fa": "خالق «همه تقصیر او» درباره نحوه نگرش جامعه به زنان و مادران در سریال های هیجان انگیز"
+        "fa": "خالق «همه تقصیر او» درباره چالش‌برانگیز بودن دیدگاه جامعه درباره زنان و مادران در سریال‌های هیجان‌انگیز"
       },
       "excerpt": {
         "en": "Of all the feedback she’s received on All Her Fault, there is one comment that sticks with creator and showrunner Megan Gallagher: “Those are two of the worst husbands I’ve ever seen on television, and neither one of them were having an affair.” It certainly would’ve been easy (and predictable) to fuel audiences’ distaste for […]",
@@ -549,7 +549,7 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/all-her-fault-creator-megan-gallagher-interview-1237043228/",
-      "date": "2026-08-17T23:14:10.301346+00:00",
+      "date": "2026-08-18T00:41:50.843520+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/Megan-Gallagher-All-Her-Fault-Panel.jpg",
       "important": false,
       "score": 0
@@ -573,7 +573,7 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/kevin-macdonald-pep-guardiola-man-city-beautiful-obsession-1237014372/",
-      "date": "2026-08-17T23:14:10.300455+00:00",
+      "date": "2026-08-18T00:41:50.842767+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/06/City-Studios_Manchester-City-Docuseries-1.jpeg",
       "important": false,
       "score": 0
