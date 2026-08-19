@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-18T23:13:19.106646+00:00",
+  "updated_at": "2026-08-19T00:42:21.399667+00:00",
   "count": 24,
   "news": [
     {
@@ -21,7 +21,7 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/hulu-chicks-pilot-cast-three-leads-max-winkler-director-1237044434/",
-      "date": "2026-08-18T23:13:18.962400+00:00",
+      "date": "2026-08-19T00:42:21.171635+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/Jason-Schmidt-Julia-Lester-Piper-Runge-and-Max-Winkler.jpg",
       "important": true,
       "score": 6
@@ -45,32 +45,8 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/news/box-office/rivals-amziah-king-box-office-black-bear-1235210853/",
-      "date": "2026-08-18T23:13:18.967771+00:00",
+      "date": "2026-08-19T00:42:21.178824+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2025/03/the-rivals-of-amziah-king-319857_c200b9.webp?w=650",
-      "important": true,
-      "score": 4
-    },
-    {
-      "id": "e7591c3d4f47",
-      "title": {
-        "en": "Briarcliff Acquires North American Rights to ‘Ash and Crayons,’ Ukraine Doc From Oscar Nominee Evgeny Afineevsky (Exclusive)",
-        "fa": "بریارکلیف حقوق آمریکای شمالی را برای «خاکستر و مداد رنگی» به دست می‌آورد، مستند اوکراین از نامزد اسکار اوگنی آفینیفسکی"
-      },
-      "excerpt": {
-        "en": "The film, which highlights seven children whose lives have been upended by the ongoing war in Ukraine, will be released in the U.S. on Nov. 20.",
-        "fa": "این فیلم که هفت کودک را نشان می‌دهد که زندگی‌شان به دلیل جنگ جاری در اوکراین به هم ریخته است، در 20 نوامبر در ایالات متحده اکران خواهد شد."
-      },
-      "content": {
-        "en": "The film, which highlights seven children whose lives have been upended by the ongoing war in Ukraine, will be released in the U.S. on Nov. 20.",
-        "fa": "این فیلم که هفت کودک را نشان می‌دهد که زندگی‌شان به دلیل جنگ جاری در اوکراین به هم ریخته است، در 20 نوامبر در ایالات متحده اکران خواهد شد."
-      },
-      "source": {
-        "en": "The Hollywood Reporter",
-        "fa": "The Hollywood Reporter"
-      },
-      "link": "https://www.hollywoodreporter.com/movies/movie-news/briarcliff-acquires-north-american-rights-ash-and-crayons-1236676348/",
-      "date": "2026-08-18T23:13:18.966372+00:00",
-      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/Ash-and-Crayons-Main-New-2026.jpg?w=1296&#038;h=730&#038;crop=1",
       "important": true,
       "score": 4
     },
@@ -93,7 +69,7 @@
         "fa": "Variety"
       },
       "link": "https://variety.com/2026/digital/news/clive-barker-kickstarter-series-library-of-the-dead-1236837367/",
-      "date": "2026-08-18T23:13:18.963589+00:00",
+      "date": "2026-08-19T00:42:21.173171+00:00",
       "image": "https://variety.com/wp-content/uploads/2026/08/CLIVE-BARKER-3-NEW-BOOKS-LIBRARY-OF-THE-DEAD-ANGLE.png",
       "important": true,
       "score": 4
@@ -117,7 +93,7 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/david-heyman-film-deal-amazon-mgm-studios-exit-warner-bros-1237044515/",
-      "date": "2026-08-18T23:13:18.961955+00:00",
+      "date": "2026-08-19T00:42:21.171047+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/David-Heyman-.jpg",
       "important": true,
       "score": 4
@@ -126,7 +102,7 @@
       "id": "5b6c016e10ba",
       "title": {
         "en": "SXSW 2027 Shifts Film Premieres from Paramount Theatre to ACL Live, Adds Podcast Festival",
-        "fa": "جشنواره پادکست SXSW 2027 اولین نمایش فیلم را از تئاتر پارامونت به ACL Live تغییر می‌دهد"
+        "fa": "جشنواره پادکست SXSW 2027 اولین نمایش فیلم را از سالن پارامونت به ACL Live تغییر می‌دهد"
       },
       "excerpt": {
         "en": "The multidisciplinary festival continues to navigate a series of renovations to its most iconic venues.",
@@ -141,7 +117,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/news/festivals/sxsw-2027-venue-changes-podcast-festival-1235211013/",
-      "date": "2026-08-18T23:13:18.967366+00:00",
+      "date": "2026-08-19T00:42:21.178248+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/03-14-26_Over_Your_Dead_Body_Chris_Saucedo-40.jpg?w=650",
       "important": false,
       "score": 3
@@ -165,7 +141,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/news/festivals/nyff-2026-revivals-ken-russell-the-devils-1235210928/",
-      "date": "2026-08-18T23:13:18.967301+00:00",
+      "date": "2026-08-19T00:42:21.178152+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/57097357-4bf5-4f7f-9db5-43513d5746bc.jpeg?w=650",
       "important": false,
       "score": 3
@@ -189,32 +165,8 @@
         "fa": "The Hollywood Reporter"
       },
       "link": "https://www.hollywoodreporter.com/tv/tv-news/shawn-hatosy-the-pitt-night-shift-spinoff-breaking-bad-1236676193/",
-      "date": "2026-08-18T23:13:18.965706+00:00",
+      "date": "2026-08-19T00:42:21.176336+00:00",
       "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/Awards-Chatter-Shawn-Hatosy-Main-2026.jpg?w=1296&#038;h=730&#038;crop=1",
-      "important": false,
-      "score": 3
-    },
-    {
-      "id": "00b983fdca8d",
-      "title": {
-        "en": "Oscars Budget, ‘Engaging’ With AI and Hot Memorabilia: Inside the Academy’s Annual All-Members Meeting (EXCLUSIVE)",
-        "fa": "بودجه اسکار، «درگیر شدن» با هوش مصنوعی و خاطرات داغ: در جلسه سالانه همه اعضا آکادمی"
-      },
-      "excerpt": {
-        "en": "The Academy of Motion Picture Arts and Sciences got down to business on Tuesday, setting its agenda for the next year in an all-hands meeting with its membership. The official purpose, as noted in the annual virtual meeting’s invite, was to educate roughly 11,000 members “about the Academy’s leadership structure, budget, goals and priorities.” The […]",
-        "fa": "آکادمی علوم و هنرهای تصاویر متحرک روز سه شنبه دست به کار شد و دستور کار سال آینده خود را در نشستی همه جانبه با اعضای خود تنظیم کرد. هدف رسمی، همانطور که در دعوت جلسه مجازی سالانه ذکر شد، آموزش تقریباً 11000 عضو «در مورد ساختار رهبری، بودجه، اهداف و اولویت‌های آکادمی» بود. را"
-      },
-      "content": {
-        "en": "The Academy of Motion Picture Arts and Sciences got down to business on Tuesday, setting its agenda for the next year in an all-hands meeting with its membership. The official purpose, as noted in the annual virtual meeting’s invite, was to educate roughly 11,000 members “about the Academy’s leadership structure, budget, goals and priorities.” The […]",
-        "fa": "آکادمی علوم و هنرهای تصاویر متحرک روز سه شنبه دست به کار شد و دستور کار سال آینده خود را در نشستی همه جانبه با اعضای خود تنظیم کرد. هدف رسمی، همانطور که در دعوت جلسه مجازی سالانه ذکر شد، آموزش تقریباً 11000 عضو «در مورد ساختار رهبری، بودجه، اهداف و اولویت‌های آکادمی» بود. را"
-      },
-      "source": {
-        "en": "Variety",
-        "fa": "Variety"
-      },
-      "link": "https://variety.com/2026/film/columns/oscars-youtube-ai-annual-budgets-member-meeting-1236837376/",
-      "date": "2026-08-18T23:13:18.965004+00:00",
-      "image": "https://variety.com/wp-content/uploads/2018/12/Oscars-Placeholder.jpg",
       "important": false,
       "score": 3
     },
@@ -237,32 +189,8 @@
         "fa": "Variety"
       },
       "link": "https://variety.com/2026/tv/news/john-oliver-wanted-to-be-slapped-days-of-our-lives-1236837667/",
-      "date": "2026-08-18T23:13:18.963796+00:00",
+      "date": "2026-08-19T00:42:21.173418+00:00",
       "image": "https://variety.com/wp-content/uploads/2026/08/DanFeuerriegel-MaggieCarney-JO.jpg",
-      "important": false,
-      "score": 3
-    },
-    {
-      "id": "efb897b00f81",
-      "title": {
-        "en": "‘The Pitt’s Sepideh Moafi Will Be “Running A Tight Ship” In Season 3",
-        "fa": "«سپیده معافی پیت» در فصل سوم «کشتی تنگ را می‌چرخاند»"
-      },
-      "excerpt": {
-        "en": "Being the first woman of Middle Eastern descent to be nominated for a Primetime Emmy Award in the supporting actress category is still something Sepideh Moafi is wrapping her head around. “My life story is crazy,” says the Iranian-American actress, who was born in a refugee camp in Germany after her parents escaped the Islamic […]",
-        "fa": "اینکه سپیده معافی اولین زن خاورمیانه‌ای است که نامزد دریافت جایزه امی در بخش بازیگر نقش مکمل زن شده است، هنوز هم چیزی است که سپیده معافی به آن مشغول است. بازیگر ایرانی-آمریکایی که پس از فرار والدینش از اسلام در اردوگاه پناهندگان در آلمان به دنیا آمد، می گوید: داستان زندگی من دیوانه است."
-      },
-      "content": {
-        "en": "Being the first woman of Middle Eastern descent to be nominated for a Primetime Emmy Award in the supporting actress category is still something Sepideh Moafi is wrapping her head around. “My life story is crazy,” says the Iranian-American actress, who was born in a refugee camp in Germany after her parents escaped the Islamic […]",
-        "fa": "اینکه سپیده معافی اولین زن خاورمیانه‌ای است که نامزد دریافت جایزه امی در بخش بازیگر نقش مکمل زن شده است، هنوز هم چیزی است که سپیده معافی به آن مشغول است. بازیگر ایرانی-آمریکایی که پس از فرار والدینش از اسلام در اردوگاه پناهندگان در آلمان به دنیا آمد، می گوید: داستان زندگی من دیوانه است."
-      },
-      "source": {
-        "en": "Deadline",
-        "fa": "Deadline"
-      },
-      "link": "https://deadline.com/2026/08/the-pitt-season-3-sepideh-moafi-interview-1237043457/",
-      "date": "2026-08-18T23:13:18.962619+00:00",
-      "image": "https://deadline.com/wp-content/uploads/2026/05/sepideh-moafi.jpg",
       "important": false,
       "score": 3
     },
@@ -285,7 +213,7 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/the-pitt-production-designer-interview-season-2-1237044580/",
-      "date": "2026-08-18T23:13:18.960933+00:00",
+      "date": "2026-08-19T00:42:21.169704+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/thepitt2.jpeg",
       "important": false,
       "score": 3
@@ -309,7 +237,7 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/the-diplomat-netflix-creative-team-interview-1237044316/",
-      "date": "2026-08-18T23:13:18.960641+00:00",
+      "date": "2026-08-19T00:42:21.169352+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/Backstory_Diplomat_Thumbnail.png",
       "important": false,
       "score": 3
@@ -333,10 +261,34 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/leslie-grossman-cast-power-origins-flossie-1237043664/",
-      "date": "2026-08-18T23:13:18.960400+00:00",
+      "date": "2026-08-19T00:42:21.169047+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/Leslie-Grossman_4d7ffa.jpg",
       "important": false,
       "score": 3
+    },
+    {
+      "id": "9de247f98284",
+      "title": {
+        "en": "The Academy Announces Sean Baker and Samantha Quan as Chairs Overseeing Its New Marquee Theater List",
+        "fa": "آکادمی، شان بیکر و سامانتا کوان را به‌عنوان صندلی‌هایی که بر فهرست جدید تئاترهای مارکی نظارت می‌کنند، معرفی می‌کند."
+      },
+      "excerpt": {
+        "en": "The Academy of Motion Picture Arts and Sciences revealed the chairs and vice chairs for its 2026-2027 committees and affinity groups.",
+        "fa": "آکادمی علوم و هنرهای تصاویر متحرک، رئیس‌ها و معاونان کمیته‌های 2026-2027 و گروه‌های وابسته خود را معرفی کرد."
+      },
+      "content": {
+        "en": "The Academy of Motion Picture Arts and Sciences revealed the chairs and vice chairs for its 2026-2027 committees and affinity groups.",
+        "fa": "آکادمی علوم و هنرهای تصاویر متحرک، رئیس‌ها و معاونان کمیته‌های 2026-2027 و گروه‌های وابسته خود را معرفی کرد."
+      },
+      "source": {
+        "en": "IndieWire",
+        "fa": "IndieWire"
+      },
+      "link": "https://www.indiewire.com/awards/industry/sean-baker-samantha-quan-chair-academy-marquee-theater-list-1235211131/",
+      "date": "2026-08-19T00:42:21.177829+00:00",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/08/P10ZCQ5.jpg?w=650",
+      "important": false,
+      "score": 1
     },
     {
       "id": "2f3d892e445c",
@@ -357,7 +309,7 @@
         "fa": "Variety"
       },
       "link": "https://variety.com/2026/film/news/california-tax-cap-deal-film-credits-1236836863/",
-      "date": "2026-08-18T23:13:18.964641+00:00",
+      "date": "2026-08-19T00:42:21.174593+00:00",
       "image": "https://variety.com/wp-content/uploads/2025/05/GettyImages-1760960350.jpg",
       "important": false,
       "score": 1
@@ -370,18 +322,18 @@
       },
       "excerpt": {
         "en": "Walmart is offering up some new deals, discounts and special offers right now, including a way to get a Peacock streaming subscription for free. While Walmart is touting its back to school deals right now, the retailer is also offering access to its Walmart+ membership program for just $1 for your first month. Regularly $12.95/month, […]",
-        "fa": "والمارت در حال حاضر برخی از معاملات جدید، تخفیف‌ها و پیشنهادهای ویژه را ارائه می‌کند، از جمله راهی برای دریافت اشتراک پخش رایگان Peacock. در حالی که Walmart در حال حاضر در حال تبلیغ برای بازگشت به مدارس است، خرده‌فروش همچنین دسترسی به برنامه عضویت Walmart+ خود را تنها با 1 دلار در ماه اول شما ارائه می‌دهد. به طور منظم 12.95 دلار در ماه،"
+        "fa": "والمارت در حال حاضر برخی از معاملات جدید، تخفیف‌ها و پیشنهادهای ویژه را ارائه می‌کند، از جمله راهی برای دریافت اشتراک پخش رایگان Peacock. در حالی که Walmart در حال حاضر در حال تبلیغ برای بازگشت به مدارس است، خرده فروش همچنین دسترسی به برنامه عضویت Walmart+ خود را تنها با 1 دلار در ماه اول شما ارائه می دهد. به طور منظم 12.95 دلار در ماه،"
       },
       "content": {
         "en": "Walmart is offering up some new deals, discounts and special offers right now, including a way to get a Peacock streaming subscription for free. While Walmart is touting its back to school deals right now, the retailer is also offering access to its Walmart+ membership program for just $1 for your first month. Regularly $12.95/month, […]",
-        "fa": "والمارت در حال حاضر برخی از معاملات جدید، تخفیف‌ها و پیشنهادهای ویژه را ارائه می‌کند، از جمله راهی برای دریافت اشتراک پخش رایگان Peacock. در حالی که Walmart در حال حاضر در حال تبلیغ برای بازگشت به مدارس است، خرده‌فروش همچنین دسترسی به برنامه عضویت Walmart+ خود را تنها با 1 دلار در ماه اول شما ارائه می‌دهد. به طور منظم 12.95 دلار در ماه،"
+        "fa": "Walmart is offering up some new deals, discounts and special offers right now, including a way to get a Peacock streaming subscription for free. While Walmart is touting its back to school deals right now, the retailer is also offering access to its Walmart+ membership program for just $1 for your first month. Regularly $12.95/month, […]"
       },
       "source": {
         "en": "Variety",
         "fa": "Variety"
       },
       "link": "https://variety.com/2026/shopping/news/best-walmart-plus-deals-streaming-offers-1236040212/",
-      "date": "2026-08-18T23:13:18.963424+00:00",
+      "date": "2026-08-19T00:42:21.172959+00:00",
       "image": "https://variety.com/wp-content/uploads/2024/06/GettyImages-2152961478.jpg",
       "important": false,
       "score": 1
@@ -405,7 +357,7 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/john-irvin-dead-hamburger-hill-raw-deal-director-1237044695/",
-      "date": "2026-08-18T23:13:18.960116+00:00",
+      "date": "2026-08-19T00:42:21.168724+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/MBDHAHI_EC011.jpg",
       "important": false,
       "score": 1
@@ -414,22 +366,22 @@
       "id": "2e444a5895aa",
       "title": {
         "en": "The Film Independent Spirit Awards Are Adding Categories for Creators and International Features",
-        "fa": "جوایز روح مستقل فیلم دسته‌هایی را برای سازندگان و فیلم‌های بین‌المللی اضافه می‌کنند"
+        "fa": "The Film Independent Spirit Awards Are Adding Categories for Creators and International Features"
       },
       "excerpt": {
         "en": "In addition to the Best International First Feature and Digital Creator Award categories, Film Independent has added the Berlinale as a qualifying festival for the 2027 Film Independent Spirit Awards.",
-        "fa": "علاوه بر دسته‌های جایزه بهترین فیلم اول بین‌المللی و جایزه خلاق دیجیتال، فیلم مستقل برلیناله را به عنوان جشنواره واجد شرایط برای جوایز روح مستقل فیلم ۲۰۲۷ اضافه کرده است."
+        "fa": "علاوه بر دسته‌های جایزه بهترین فیلم اول بین‌المللی و جایزه خلاق دیجیتال، فیلم مستقل جشنواره برلیناله را به عنوان جشنواره واجد شرایط برای جوایز روح مستقل فیلم ۲۰۲۷ اضافه کرده است."
       },
       "content": {
         "en": "In addition to the Best International First Feature and Digital Creator Award categories, Film Independent has added the Berlinale as a qualifying festival for the 2027 Film Independent Spirit Awards.",
-        "fa": "علاوه بر دسته‌های جایزه بهترین فیلم اول بین‌المللی و جایزه خلاق دیجیتال، فیلم مستقل برلیناله را به عنوان جشنواره واجد شرایط برای جوایز روح مستقل فیلم ۲۰۲۷ اضافه کرده است."
+        "fa": "علاوه بر دسته‌های جایزه بهترین فیلم اول بین‌المللی و جایزه خلاق دیجیتال، فیلم مستقل جشنواره برلیناله را به عنوان جشنواره واجد شرایط برای جوایز روح مستقل فیلم ۲۰۲۷ اضافه کرده است."
       },
       "source": {
         "en": "IndieWire",
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/awards/industry/independent-spirit-awards-categories-creators-international-1235211062/",
-      "date": "2026-08-18T23:13:18.967528+00:00",
+      "date": "2026-08-19T00:42:21.178465+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/P10442BC.jpg?w=650",
       "important": false,
       "score": 0
@@ -453,7 +405,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/news/festivals/fantastic-fest-2026-lineup-resident-evil-carrie-1235210870/",
-      "date": "2026-08-18T23:13:18.967223+00:00",
+      "date": "2026-08-19T00:42:21.178039+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/RESIDENT_EVIL_Still.jpg?w=650",
       "important": false,
       "score": 0
@@ -477,8 +429,32 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/awards/consider-this/widows-bay-kate-oflynn-patricia-weirdo-interview-1235210474/",
-      "date": "2026-08-18T23:13:18.966750+00:00",
+      "date": "2026-08-19T00:42:21.177401+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/GettyImages-2289884113.jpg?w=650",
+      "important": false,
+      "score": 0
+    },
+    {
+      "id": "bd37b3300be9",
+      "title": {
+        "en": "Disney and ABC Pushing Back on the Trump FCC Is a Sneaky, Low-Risk Move That Could Make Them Look Like Heroes",
+        "fa": "عقب نشینی دیزنی و ABC به FCC ترامپ یک حرکت ابلهانه و کم خطر است که می تواند آنها را شبیه به قهرمانان کند."
+      },
+      "excerpt": {
+        "en": "Disney and ABC sued the federal government Tuesday, accusing it of violating Disney's free speech rights, a response to threats over Jimmy Kimmel, \"The View,\" and ABC News.",
+        "fa": "دیزنی و ABC روز سه شنبه از دولت فدرال شکایت کردند و آن را به نقض حقوق آزادی بیان دیزنی، پاسخی به تهدیدهای جیمی کیمل، \"نما\" و ABC News متهم کردند."
+      },
+      "content": {
+        "en": "Disney and ABC sued the federal government Tuesday, accusing it of violating Disney's free speech rights, a response to threats over Jimmy Kimmel, \"The View,\" and ABC News.",
+        "fa": "دیزنی و ABC روز سه شنبه از دولت فدرال شکایت کردند و آن را به نقض حقوق آزادی بیان دیزنی، پاسخی به تهدیدهای جیمی کیمل، \"نما\" و ABC News متهم کردند."
+      },
+      "source": {
+        "en": "IndieWire",
+        "fa": "IndieWire"
+      },
+      "link": "https://www.indiewire.com/news/business/abc-pushing-back-trump-fcc-lawsuit-analysis-1235211108/",
+      "date": "2026-08-19T00:42:21.177008+00:00",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/03/GettyImages-2262359610.jpg?w=650",
       "important": false,
       "score": 0
     },
@@ -501,7 +477,7 @@
         "fa": "The Hollywood Reporter"
       },
       "link": "https://www.hollywoodreporter.com/lifestyle/shopping/marilyn-monroe-100th-birthday-book-collectibles-memorabilia-1236526925/",
-      "date": "2026-08-18T23:13:18.965255+00:00",
+      "date": "2026-08-19T00:42:21.175790+00:00",
       "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/03/Marilyn-Monroes-100th-Birthday-Brings-Official-Coffee-Table-Book-and-Collectibles-MAIN.jpg?w=1296&#038;h=730&#038;crop=1",
       "important": false,
       "score": 0
@@ -525,8 +501,32 @@
         "fa": "The Hollywood Reporter"
       },
       "link": "https://www.hollywoodreporter.com/movies/movie-reviews/down-the-arm-of-god-review-caleb-landry-jones-1236675972/",
-      "date": "2026-08-18T23:13:18.965183+00:00",
+      "date": "2026-08-19T00:42:21.175679+00:00",
       "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/Down-the-Arm-of-God-film-still-6-EuropaCorp-H-2026.webp?w=969&#038;h=545&#038;crop=1",
+      "important": false,
+      "score": 0
+    },
+    {
+      "id": "653a866c03b4",
+      "title": {
+        "en": "For Jacob Whiteduck-Lavoie, Everyday on ‘Sterling Point‘ Was the “Best Day Ever”",
+        "fa": "برای جیکوب وایتداک-لاووی، هر روز در «استرلینگ پوینت» «بهترین روز تاریخ» بود."
+      },
+      "excerpt": {
+        "en": "The 23-year-old Canadian actor digs into booking the Prime Video YA series and how he made the jump to English-speaking roles.",
+        "fa": "این بازیگر 23 ساله کانادایی به دنبال رزرو سریال Prime Video YA و چگونگی جهش به نقش های انگلیسی زبان است."
+      },
+      "content": {
+        "en": "The 23-year-old Canadian actor digs into booking the Prime Video YA series and how he made the jump to English-speaking roles.",
+        "fa": "این بازیگر 23 ساله کانادایی به دنبال رزرو سریال Prime Video YA و چگونگی جهش به نقش های انگلیسی زبان است."
+      },
+      "source": {
+        "en": "The Hollywood Reporter",
+        "fa": "The Hollywood Reporter"
+      },
+      "link": "https://www.hollywoodreporter.com/tv/tv-features/jacob-whiteduck-lavoie-sterling-point-interview-1236676550/",
+      "date": "2026-08-19T00:42:21.175282+00:00",
+      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/Jacob_SP.png?w=1440&#038;h=810&#038;crop=1",
       "important": false,
       "score": 0
     },
@@ -549,7 +549,7 @@
         "fa": "Variety"
       },
       "link": "https://variety.com/2026/tv/news/hayden-panettiere-defended-mistreated-background-actors-heroes-set-1236837264/",
-      "date": "2026-08-18T23:13:18.964078+00:00",
+      "date": "2026-08-19T00:42:21.173782+00:00",
       "image": "https://variety.com/wp-content/uploads/2026/08/TCDHERO_EC191-e1787074640885.jpg",
       "important": false,
       "score": 0
@@ -573,7 +573,7 @@
         "fa": "Variety"
       },
       "link": "https://variety.com/2026/tv/news/felicia-day-wil-wheaton-the-guild-movie-show-conludo-1236837516/",
-      "date": "2026-08-18T23:13:18.963196+00:00",
+      "date": "2026-08-19T00:42:21.172667+00:00",
       "image": "https://variety.com/wp-content/uploads/2026/08/Felicia-Day-Wil-Wheaton.jpeg",
       "important": false,
       "score": 0
