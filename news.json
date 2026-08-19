@@ -1,100 +1,124 @@
 {
-  "updated_at": "2026-08-19T14:23:47.235452+00:00",
+  "updated_at": "2026-08-19T15:21:56.072151+00:00",
   "count": 24,
   "news": [
     {
-      "id": "67d588331bad",
+      "id": "950f029f35df",
       "title": {
-        "en": "Jo Koy Sets Sixth Netflix Comedy Special ‘Blue In The Face’",
-        "fa": "جو کوی ششمین کمدی ویژه نتفلیکس «آبی در چهره» را تنظیم می کند"
+        "en": "‘Outer Banks’ Prequel Coming Together At Netflix As Hit YA Series Wraps Five-Season Run",
+        "fa": "پیش درآمد «Outer Banks» در نتفلیکس در حالی که سریال موفق YA به پایان می رسد پنج فصل با هم می آید"
       },
       "excerpt": {
-        "en": "EXCLUSIVE: Comedian Jo Koy has announced his sixth Netflix special, Blue in the Face, which will premiere globally on September 15. Filmed before a sold-out crowd at Stockton Arena, Koy’s new hour sees him relive a wild dental disaster, recount getting fired from McDonald’s, and celebrate his veteran stepdad. Check out a clip above. With Blue in the […]",
-        "fa": "اختصاصی: جو کوی، کمدین، ششمین ویژه نتفلیکس خود را با نام Blue in the Face اعلام کرده است که در 15 سپتامبر در سطح جهانی به نمایش در خواهد آمد. در ساعت جدید کوی که در استوکتون آرنا فیلمبرداری شده است، یک فاجعه دندانپزشکی وحشی را دوباره تجربه می کند، اخراج شدن از مک دونالد را بازگو می کند و قدمت را جشن می گیرد. یک کلیپ بالا را ببینید. با آبی در"
+        "en": "EXCLUSIVE: Behind the globe-trotting adventures and the treasure hunts, Netflix’s Outer Banks is a story of haves and have-nots: the working-class locals, Pogues, and the wealthy seasonal residents, the Kooks, who live in The Cut and Figure Eight neighborhoods, respectively, of Outer Banks‘ fictional Kildare Island. Outer Banks creators Josh Pate, Jonas Pate and Shannon […]",
+        "fa": "انحصاری: پشت ماجراهای غواصی جهان و شکار گنج، بانک های بیرونی نتفلیکس داستانی از افراد دارای و نداشتن است: مردم محلی طبقه کارگر، پوگ ها، و ساکنان فصلی ثروتمند، کوک ها، که در محله های The Cut and Figure Eight زندگی می کنند. جاش پیت، جوناس پیت و شانون خالقان Outer Banks"
       },
       "content": {
-        "en": "EXCLUSIVE: Comedian Jo Koy has announced his sixth Netflix special, Blue in the Face, which will premiere globally on September 15. Filmed before a sold-out crowd at Stockton Arena, Koy’s new hour sees him relive a wild dental disaster, recount getting fired from McDonald’s, and celebrate his veteran stepdad. Check out a clip above. With Blue in the […]",
-        "fa": "اختصاصی: جو کوی، کمدین، ششمین ویژه نتفلیکس خود را با نام Blue in the Face اعلام کرده است که در 15 سپتامبر در سطح جهانی به نمایش در خواهد آمد. در ساعت جدید کوی که در استوکتون آرنا فیلمبرداری شده است، یک فاجعه دندانپزشکی وحشی را دوباره تجربه می کند، اخراج شدن از مک دونالد را بازگو می کند و قدمت را جشن می گیرد. یک کلیپ بالا را ببینید. با آبی در"
+        "en": "EXCLUSIVE: Behind the globe-trotting adventures and the treasure hunts, Netflix’s Outer Banks is a story of haves and have-nots: the working-class locals, Pogues, and the wealthy seasonal residents, the Kooks, who live in The Cut and Figure Eight neighborhoods, respectively, of Outer Banks‘ fictional Kildare Island. Outer Banks creators Josh Pate, Jonas Pate and Shannon […]",
+        "fa": "انحصاری: پشت ماجراهای غواصی جهان و شکار گنج، بانک های بیرونی نتفلیکس داستانی از افراد دارای و نداشتن است: مردم محلی طبقه کارگر، پوگ ها، و ساکنان فصلی ثروتمند، کوک ها، که در محله های The Cut and Figure Eight زندگی می کنند. جاش پیت، جوناس پیت و شانون خالقان Outer Banks"
       },
       "source": {
         "en": "Deadline",
         "fa": "Deadline"
       },
-      "link": "https://deadline.com/2026/08/jo-koy-new-netflix-special-premiere-date-blue-in-the-face-1237044411/",
-      "date": "2026-08-19T14:23:46.965852+00:00",
-      "image": "https://deadline.com/wp-content/uploads/2026/08/JKSS_2026_Unit_00967R2.jpg",
+      "link": "https://deadline.com/2026/08/outer-banks-prequel-series-kildare-netflix-1237044715/",
+      "date": "2026-08-19T15:21:55.863255+00:00",
+      "image": "https://deadline.com/wp-content/uploads/2026/08/OUTERBANKS_101_SG_00027R2.jpg",
       "important": true,
-      "score": 9
+      "score": 12
     },
     {
-      "id": "2b3c61b36b72",
+      "id": "8c4f5c5f3ad6",
       "title": {
-        "en": "Former NBCU Marketing Whizz Kevin Harrington Launches New Entertainment Agency Patrick Patrick",
-        "fa": "کوین هرینگتون سابق NBCU Marketing Whiz آژانس سرگرمی جدیدی را راه اندازی کرد پاتریک پاتریک"
+        "en": "‘The End of Times’ Acquired by Split Screen Ahead of Venice Premiere (EXCLUSIVE)",
+        "fa": "\"پایان زمان\" توسط Split Screen قبل از اولین نمایش ونیز خریداری شد"
       },
       "excerpt": {
-        "en": "EXCLUSIVE: Former NBCUniversal marketing guru Kevin Harrington has launched a new entertainment marketing agency dubbed Patrick Patrick. The company, which quietly launched earlier this year, is already working with major clients such as Netflix, Universal Pictures and AMC on strategic and 360-degree campaigns. Harrington, who was previously Senior Director, Planning at NBC for Scripted and […]",
-        "fa": "اختصاصی: کوین هرینگتون، مربی سابق بازاریابی NBCUniversal، یک آژانس بازاریابی سرگرمی جدید به نام پاتریک پاتریک راه اندازی کرده است. این شرکت که در اوایل سال جاری بی سر و صدا راه اندازی شد، در حال حاضر با مشتریان اصلی مانند نتفلیکس، یونیورسال پیکچرز و AMC روی کمپین های استراتژیک و 360 درجه کار می کند. هرینگتون که قبلاً مدیر ارشد برنامه ریزی در NBC برای فیلمنامه و"
+        "en": "Zagreb-based sales outlet Split Screen has secured international rights to “The End of Times” ahead of its world premiere in Critics’ Week, an independent sidebar to the Venice Film Festival. In Bibiana Rojas Gómez and Juan David Cárdenas Maldonado’s film, Salomé searches through five decades of family footage for the reasons for her mother’s sadness. […]",
+        "fa": "فروشگاه Split Screen مستقر در زاگرب حقوق بین‌المللی «پایان زمان» را پیش از اکران جهانی آن در هفته منتقدان، نوار فرعی مستقل جشنواره فیلم ونیز، تضمین کرده است. در فیلم بیبیانا روجاس گومز و خوان دیوید کاردناس مالدونادو، سالومه در میان پنج دهه فیلم خانوادگی دلایل غم و اندوه مادرش را جستجو می کند."
       },
       "content": {
-        "en": "EXCLUSIVE: Former NBCUniversal marketing guru Kevin Harrington has launched a new entertainment marketing agency dubbed Patrick Patrick. The company, which quietly launched earlier this year, is already working with major clients such as Netflix, Universal Pictures and AMC on strategic and 360-degree campaigns. Harrington, who was previously Senior Director, Planning at NBC for Scripted and […]",
-        "fa": "اختصاصی: کوین هرینگتون، مربی سابق بازاریابی NBCUniversal، یک آژانس بازاریابی سرگرمی جدید به نام پاتریک پاتریک راه اندازی کرده است. این شرکت که در اوایل سال جاری بی سر و صدا راه اندازی شد، در حال حاضر با مشتریان اصلی مانند نتفلیکس، یونیورسال پیکچرز و AMC روی کمپین های استراتژیک و 360 درجه کار می کند. هرینگتون که قبلاً مدیر ارشد برنامه ریزی در NBC برای فیلمنامه و"
-      },
-      "source": {
-        "en": "Deadline",
-        "fa": "Deadline"
-      },
-      "link": "https://deadline.com/2026/08/nbcu-marketing-whizz-kevin-harrington-lpatrick-patrick-1237045133/",
-      "date": "2026-08-19T14:23:46.966317+00:00",
-      "image": "https://deadline.com/wp-content/uploads/2026/08/MixCollage-19-Aug-2026-01-45-PM-5913.jpg",
-      "important": true,
-      "score": 6
-    },
-    {
-      "id": "c58a26a85a5d",
-      "title": {
-        "en": "Apple TV Sets Return Of ‘Bad Monkey’ With Season 2 Premiere Date & First-Look Photos",
-        "fa": "Apple TV مجموعه‌های بازگشت «میمون بد» با تاریخ پخش فصل 2 و عکس‌های اولین نگاه"
-      },
-      "excerpt": {
-        "en": "Vince Vaughn’s Andrew Yancy will return in Bad Monkey Season 2, which debuts December 2 on Apple TV. Based on Carl Hiaasen’s New York Times bestselling novel and enduring cult favorite, the 10-episode sophomore season will revolve around an all-new original story, making its global debut on Apple TV Dec. 2 with its first episode followed […]",
-        "fa": "اندرو یانسی از وینس وان در فصل 2 Bad Monkey بازخواهد گشت که در 2 دسامبر از تلویزیون اپل پخش می شود. بر اساس رمان پرفروش نیویورک تایمز کارل هیاسن و مورد علاقه فرقه ماندگار، فصل دوم 10 قسمتی حول یک داستان اصلی کاملاً جدید می چرخد ​​و اولین اپیزود جهانی خود را در 2 دسامبر در Apple TV انجام می دهد و اولین قسمت آن دنبال می شود."
-      },
-      "content": {
-        "en": "Vince Vaughn’s Andrew Yancy will return in Bad Monkey Season 2, which debuts December 2 on Apple TV. Based on Carl Hiaasen’s New York Times bestselling novel and enduring cult favorite, the 10-episode sophomore season will revolve around an all-new original story, making its global debut on Apple TV Dec. 2 with its first episode followed […]",
-        "fa": "اندرو یانسی از وینس وان در فصل 2 Bad Monkey بازخواهد گشت که در 2 دسامبر از تلویزیون اپل پخش می شود. بر اساس رمان پرفروش نیویورک تایمز کارل هیاسن و مورد علاقه فرقه ماندگار، فصل دوم 10 قسمتی حول یک داستان اصلی کاملاً جدید می چرخد ​​و اولین اپیزود جهانی خود را در 2 دسامبر در Apple TV انجام می دهد و اولین قسمت آن دنبال می شود."
-      },
-      "source": {
-        "en": "Deadline",
-        "fa": "Deadline"
-      },
-      "link": "https://deadline.com/2026/08/bad-monkey-season-2-release-date-first-look-photos-1237044890/",
-      "date": "2026-08-19T14:23:46.965700+00:00",
-      "image": "https://deadline.com/wp-content/uploads/2026/08/BadMonkey_201_04759F.jpg",
-      "important": true,
-      "score": 6
-    },
-    {
-      "id": "bb2ab1b62529",
-      "title": {
-        "en": "Hook, AI-Powered Music Remixing App, Strikes UMG Deal as It Takes Social-Forward Approach to Fan-Created Remixes (EXCLUSIVE)",
-        "fa": "هوک، برنامه ریمیکس موسیقی مبتنی بر هوش مصنوعی، معامله UMG را به‌عنوان یک رویکرد اجتماعی رو به جلو برای ریمیکس‌های ایجاد شده توسط طرفداران انجام می‌دهد."
-      },
-      "excerpt": {
-        "en": "In an era where AI music generation has ruptured the music industry, a social-forward music remixing app is aiming to stand out among the rest — with the help of one of the major labels. Hook, an AI-powered app where fans can create minute-long clips that remixes or mashes up a licensed artist’s track to share […]",
-        "fa": "در دوره‌ای که نسل موسیقی هوش مصنوعی صنعت موسیقی را متلاشی کرده است، یک برنامه بازمیکس موسیقی اجتماعی با کمک یکی از برچسب‌های اصلی قصد دارد در میان بقیه متمایز شود. هوک، یک برنامه مجهز به هوش مصنوعی که در آن طرفداران می‌توانند کلیپ‌های چند دقیقه‌ای ایجاد کنند که آهنگ یک هنرمند دارای مجوز را برای اشتراک‌گذاری مجددا میکس یا ترکیب می‌کند."
-      },
-      "content": {
-        "en": "In an era where AI music generation has ruptured the music industry, a social-forward music remixing app is aiming to stand out among the rest — with the help of one of the major labels. Hook, an AI-powered app where fans can create minute-long clips that remixes or mashes up a licensed artist’s track to share […]",
-        "fa": "در دوره‌ای که نسل موسیقی هوش مصنوعی صنعت موسیقی را متلاشی کرده است، یک برنامه بازمیکس موسیقی اجتماعی با کمک یکی از برچسب‌های اصلی قصد دارد در میان بقیه متمایز شود. هوک، یک برنامه مجهز به هوش مصنوعی که در آن طرفداران می‌توانند کلیپ‌های چند دقیقه‌ای ایجاد کنند که آهنگ یک هنرمند دارای مجوز را برای اشتراک‌گذاری مجددا میکس یا ترکیب می‌کند."
+        "en": "Zagreb-based sales outlet Split Screen has secured international rights to “The End of Times” ahead of its world premiere in Critics’ Week, an independent sidebar to the Venice Film Festival. In Bibiana Rojas Gómez and Juan David Cárdenas Maldonado’s film, Salomé searches through five decades of family footage for the reasons for her mother’s sadness. […]",
+        "fa": "فروشگاه Split Screen مستقر در زاگرب حقوق بین‌المللی «پایان زمان» را پیش از اکران جهانی آن در هفته منتقدان، نوار فرعی مستقل جشنواره فیلم ونیز، تضمین کرده است. در فیلم بیبیانا روجاس گومز و خوان دیوید کاردناس مالدونادو، سالومه در میان پنج دهه فیلم خانوادگی دلایل غم و اندوه مادرش را جستجو می کند."
       },
       "source": {
         "en": "Variety",
         "fa": "Variety"
       },
-      "link": "https://variety.com/2026/digital/news/hook-ai-powered-music-remixing-app-strikes-umg-deal-1236838121/",
-      "date": "2026-08-19T14:23:46.968703+00:00",
-      "image": "https://variety.com/wp-content/uploads/2026/08/hook-x-umg-horizontal-1.png",
+      "link": "https://variety.com/2026/film/global/the-end-of-times-split-screen-venice-1236838224/",
+      "date": "2026-08-19T15:21:55.864799+00:00",
+      "image": "https://variety.com/wp-content/uploads/2026/08/The-End-of-Times.jpg",
+      "important": true,
+      "score": 6
+    },
+    {
+      "id": "d30e22351268",
+      "title": {
+        "en": "Ariana Madix Sets ‘St. Denis Medical’ Season 3 Return",
+        "fa": "آریانا مادیکس «St. بازگشت فصل 3 دنیس مدیکال"
+      },
+      "excerpt": {
+        "en": "EXCLUSIVE: Ariana Madix is set to return to NBC’s St. Denis Medical when the mockumentary returns for Season 3. The Emmy-nominated Love Island USA host will reprise her role as Dr. Brooke Emerson, a cardiac surgeon and former girlfriend of Josh Lawson’s Bruce. Deadline has learned that Madix will guest star in at least three episodes next […]",
+        "fa": "انحصاری: آریانا مدیکس قرار است با بازگشت این سریال برای فصل 3 به St. Denis Medical NBC بازگردد. مجری نامزد جایزه امی Love Island USA دوباره نقش دکتر بروک امرسون، جراح قلب و دوست دختر سابق بروس جاش لاوسون را بازی خواهد کرد. ددلاین دریافته است که مدیکس حداقل در سه قسمت بعدی به عنوان مهمان حضور خواهد داشت"
+      },
+      "content": {
+        "en": "EXCLUSIVE: Ariana Madix is set to return to NBC’s St. Denis Medical when the mockumentary returns for Season 3. The Emmy-nominated Love Island USA host will reprise her role as Dr. Brooke Emerson, a cardiac surgeon and former girlfriend of Josh Lawson’s Bruce. Deadline has learned that Madix will guest star in at least three episodes next […]",
+        "fa": "انحصاری: آریانا مدیکس قرار است با بازگشت این سریال برای فصل 3 به St. Denis Medical NBC بازگردد. مجری نامزد جایزه امی Love Island USA دوباره نقش دکتر بروک امرسون، جراح قلب و دوست دختر سابق بروس جاش لاوسون را بازی خواهد کرد. ددلاین دریافته است که مدیکس حداقل در سه قسمت بعدی به عنوان مهمان حضور خواهد داشت"
+      },
+      "source": {
+        "en": "Deadline",
+        "fa": "Deadline"
+      },
+      "link": "https://deadline.com/2026/08/love-island-usa-ariana-madix-st-denis-medical-season-3-return-1237045203/",
+      "date": "2026-08-19T15:21:55.862970+00:00",
+      "image": "https://deadline.com/wp-content/uploads/2026/08/ariana-madix-st-denis-medical.jpg",
+      "important": true,
+      "score": 6
+    },
+    {
+      "id": "35d8c40ee754",
+      "title": {
+        "en": "Jackbox Games Sets ‘Party Pack 12,’ ‘Trivia Murder Party 3’ Releases as CEO Teases New Streaming Service (EXCLUSIVE)",
+        "fa": "مجموعه‌های Jackbox Games «Party Pack 12»، «Trivia Murder Party 3» در حالی منتشر می‌شوند که مدیرعامل سرویس استریم جدید را تیز می‌کند."
+      },
+      "excerpt": {
+        "en": "Jackbox Games has unveiled the release dates and trailers for its upcoming “Trivia Murder Party 3″ and “Party Pack 12.” “Party Pack 12″ (unveiled in the trailer above) will be available Oct. 15. “Trivia Murder Party 3″ (featured in the announcement video below) will launch Sept. 17. The launches come as Jackbox is experiencing a […]",
+        "fa": "جک باکس گیمز تاریخ انتشار و تریلرهای «Trivia Murder Party 3» و «Party Pack 12» را معرفی کرد. \"Party Pack 12\" در تاریخ 15 اکتبر در دسترس خواهد بود. \"Trivia Murder Party 3\" در 17 سپتامبر عرضه می شود. این راه اندازی در حالی است که Jackbox در حال تجربه است."
+      },
+      "content": {
+        "en": "Jackbox Games has unveiled the release dates and trailers for its upcoming “Trivia Murder Party 3″ and “Party Pack 12.” “Party Pack 12″ (unveiled in the trailer above) will be available Oct. 15. “Trivia Murder Party 3″ (featured in the announcement video below) will launch Sept. 17. The launches come as Jackbox is experiencing a […]",
+        "fa": "جک باکس گیمز تاریخ انتشار و تریلرهای «Trivia Murder Party 3» و «Party Pack 12» را معرفی کرد. \"Party Pack 12\" در تاریخ 15 اکتبر در دسترس خواهد بود. \"Trivia Murder Party 3\" در 17 سپتامبر عرضه می شود. این راه اندازی در حالی است که Jackbox در حال تجربه است."
+      },
+      "source": {
+        "en": "Variety",
+        "fa": "Variety"
+      },
+      "link": "https://variety.com/2026/gaming/news/jackbox-party-pack-12-trivia-murder-party-3-release-dates-1236838174/",
+      "date": "2026-08-19T15:21:55.865142+00:00",
+      "image": "https://variety.com/wp-content/uploads/2026/08/Trivia-Murder-Party-3.png",
+      "important": true,
+      "score": 5
+    },
+    {
+      "id": "45e5aadfbad7",
+      "title": {
+        "en": "Jordan Firstman Plays Unexpected Dad in ‘Club Kid’ Trailer",
+        "fa": "جردن فرستمن در تریلر «بچه باشگاه» نقش پدر غیرمنتظره را بازی می کند"
+      },
+      "excerpt": {
+        "en": "His directorial debut, which premiered in Cannes, sees a washed-up club promoter suddenly landed with the son he never knew he had.",
+        "fa": "اولین کارگردانی او که برای اولین بار در کن اکران شد، می بیند که یک مروج باشگاه به طور ناگهانی با پسری که هرگز نمی دانست او دارد فرود آمد."
+      },
+      "content": {
+        "en": "His directorial debut, which premiered in Cannes, sees a washed-up club promoter suddenly landed with the son he never knew he had.",
+        "fa": "اولین کارگردانی او که برای اولین بار در کن اکران شد، می بیند که یک مروج باشگاه به طور ناگهانی با پسری که هرگز نمی دانست او دارد فرود آمد."
+      },
+      "source": {
+        "en": "The Hollywood Reporter",
+        "fa": "The Hollywood Reporter"
+      },
+      "link": "https://www.hollywoodreporter.com/movies/movie-news/club-kid-trailer-jordan-firstman-unexpected-dad-1236676942/",
+      "date": "2026-08-19T15:21:55.867063+00:00",
+      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/07/https___cdn.sanity.io_images_xq1bjtf4_production_849740546f383645f26fcc7c641557cf1000b3e3-7992x4320-H-2026.jpg?w=1296&#038;h=730&#038;crop=1",
       "important": true,
       "score": 4
     },
@@ -117,34 +141,10 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/catherine-zeta-jones-kill-jackie-release-date-amc-1237045160/",
-      "date": "2026-08-19T14:23:46.964521+00:00",
+      "date": "2026-08-19T15:21:55.864148+00:00",
       "image": "https://deadline.com/wp-content/uploads/2025/10/KillJackie_FIRST-LOOK_FINAL-1.jpg",
       "important": true,
       "score": 4
-    },
-    {
-      "id": "5b6c016e10ba",
-      "title": {
-        "en": "SXSW 2027 Shifts Film Premieres from Paramount Theatre to ACL Live, Adds Podcast Festival",
-        "fa": "جشنواره پادکست SXSW 2027 اولین نمایش فیلم را از تئاتر پارامونت به ACL Live تغییر می‌دهد"
-      },
-      "excerpt": {
-        "en": "The multidisciplinary festival continues to navigate a series of renovations to its most iconic venues.",
-        "fa": "این جشنواره چند رشته ای به دنبال یک سری از بازسازی ها به نمادین ترین مکان های خود ادامه می دهد."
-      },
-      "content": {
-        "en": "The multidisciplinary festival continues to navigate a series of renovations to its most iconic venues.",
-        "fa": "این جشنواره چند رشته ای به دنبال یک سری از بازسازی ها به نمادین ترین مکان های خود ادامه می دهد."
-      },
-      "source": {
-        "en": "IndieWire",
-        "fa": "IndieWire"
-      },
-      "link": "https://www.indiewire.com/news/festivals/sxsw-2027-venue-changes-podcast-festival-1235211013/",
-      "date": "2026-08-19T14:23:46.972051+00:00",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/08/03-14-26_Over_Your_Dead_Body_Chris_Saucedo-40.jpg?w=650",
-      "important": false,
-      "score": 3
     },
     {
       "id": "a538423b4f7b",
@@ -165,32 +165,8 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/news/festivals/nyff-2026-revivals-ken-russell-the-devils-1235210928/",
-      "date": "2026-08-19T14:23:46.971998+00:00",
+      "date": "2026-08-19T15:21:55.870585+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/57097357-4bf5-4f7f-9db5-43513d5746bc.jpeg?w=650",
-      "important": false,
-      "score": 3
-    },
-    {
-      "id": "0bfd39ed4914",
-      "title": {
-        "en": "Christian Metal Band Demon Hunter Sues Netflix, AEG Over ‘KPop Demon Hunters’ Trademark",
-        "fa": "شکارچی شیطان گروه کریستین متال از نتفلیکس و AEG به دلیل علامت تجاری KPop Demon Hunters شکایت کرد."
-      },
-      "excerpt": {
-        "en": "The group argues they have been “forced to surrender control over its commercial identity simply because Defendants have greater resources\" The post Christian Metal Band Demon Hunter Sues Netflix, AEG Over ‘KPop Demon Hunters’ Trademark appeared first on TheWrap .",
-        "fa": "این گروه استدلال می کند که آنها \"مجبور شده اند کنترل هویت تجاری خود را صرفاً به این دلیل که متهمان منابع بیشتری دارند\" تسلیم کنند."
-      },
-      "content": {
-        "en": "The group argues they have been “forced to surrender control over its commercial identity simply because Defendants have greater resources\" The post Christian Metal Band Demon Hunter Sues Netflix, AEG Over ‘KPop Demon Hunters’ Trademark appeared first on TheWrap .",
-        "fa": "این گروه استدلال می کند که آنها \"مجبور شده اند کنترل هویت تجاری خود را صرفاً به این دلیل که متهمان منابع بیشتری دارند\" تسلیم کنند."
-      },
-      "source": {
-        "en": "The Wrap",
-        "fa": "The Wrap"
-      },
-      "link": "https://www.thewrap.com/industry-news/public-policy-legal/band-demon-hunter-sues-netflix-aeg-over-kpop-demon-hunters-trademark/",
-      "date": "2026-08-19T14:23:46.970964+00:00",
-      "image": "https://www.thewrap.com/wp-content/uploads/2026/08/Untitled-design-2026-08-18T214329.905.jpg",
       "important": false,
       "score": 3
     },
@@ -213,7 +189,7 @@
         "fa": "The Wrap"
       },
       "link": "https://www.thewrap.com/creative-content/tv-shows/jean-smart-brushes-off-emmy-record-technicality/",
-      "date": "2026-08-19T14:23:46.970219+00:00",
+      "date": "2026-08-19T15:21:55.868474+00:00",
       "image": "https://www.thewrap.com/wp-content/uploads/2026/08/jean-smart-kimmel.jpg",
       "important": false,
       "score": 3
@@ -237,80 +213,8 @@
         "fa": "The Hollywood Reporter"
       },
       "link": "https://www.hollywoodreporter.com/tv/tv-features/lucky-finale-explained-no-season-2-showrunners-interview-1236676734/",
-      "date": "2026-08-19T14:23:46.969285+00:00",
+      "date": "2026-08-19T15:21:55.867536+00:00",
       "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/Lucky_Photo_010703.jpg?w=1440&#038;h=810&#038;crop=1",
-      "important": false,
-      "score": 3
-    },
-    {
-      "id": "e4b9122a2779",
-      "title": {
-        "en": "Steven Soderbergh Teams With British Arthouse Chain Everyman, Singani 63 on ‘A Man Under the Influence’ London Screening Series (EXCLUSIVE)",
-        "fa": "تیم استیون سودربرگ با شرکت زنجیره ای هنری بریتانیایی Everyman، Singani 63 در سریال اکران لندن \"مردی تحت تاثیر\""
-      },
-      "excerpt": {
-        "en": "Steven Soderbergh is creating what he hopes will be a heady cocktail by mixing two of his greatest passions: mind-altering movies and Bolivian brandy brand Singani 63. Over the course of 63 days, from Sept. 3 through Oct. 30, Singani 63 and British arthouse movie theater chain Everyman will present “A Man Under the Influence: […]",
-        "fa": "استیون سودربرگ در حال خلق چیزی است که امیدوار است با ترکیب دو مورد از بزرگ‌ترین علایقش، یک کوکتل مهیج باشد: فیلم‌های متحول کننده ذهن و برندی بولیویایی Singani 63. در طول 63 روز، از 3 سپتامبر تا 30 اکتبر، Singani 63 و سینماهای زنجیره‌ای بریتانیایی هنری Under the Man: \"Anfluence:Anfluence:Anfluence:"
-      },
-      "content": {
-        "en": "Steven Soderbergh is creating what he hopes will be a heady cocktail by mixing two of his greatest passions: mind-altering movies and Bolivian brandy brand Singani 63. Over the course of 63 days, from Sept. 3 through Oct. 30, Singani 63 and British arthouse movie theater chain Everyman will present “A Man Under the Influence: […]",
-        "fa": "استیون سودربرگ در حال خلق چیزی است که امیدوار است با ترکیب دو مورد از بزرگ‌ترین علایقش، یک کوکتل مهیج باشد: فیلم‌های متحول کننده ذهن و برندی بولیویایی Singani 63. در طول 63 روز، از 3 سپتامبر تا 30 اکتبر، Singani 63 و سینماهای زنجیره‌ای بریتانیایی هنری Under the Man: \"Anfluence:Anfluence:Anfluence:"
-      },
-      "source": {
-        "en": "Variety",
-        "fa": "Variety"
-      },
-      "link": "https://variety.com/2026/film/global/steven-soderbergh-a-man-under-the-influence-london-1236838097/",
-      "date": "2026-08-19T14:23:46.968278+00:00",
-      "image": "https://variety.com/wp-content/uploads/2026/08/Steven-Soderbergh.jpeg",
-      "important": false,
-      "score": 3
-    },
-    {
-      "id": "dd065920e1b7",
-      "title": {
-        "en": "‘Les Mis’ Star Bradley Jaden to Make Broadway Debut in ‘Wanted’ Musical (EXCLUSIVE)",
-        "fa": "بردلی جدن، ستاره «Les Mis» برای اولین بار در برادوی در موزیکال «تحت تعقیب» حضور خواهد داشت"
-      },
-      "excerpt": {
-        "en": "Bradley Jaden, who just wrapped an acclaimed run as Javert in “Les Misérables: The Arena Concert Spectacular,” is making his Broadway debut in the fall. The actor is joining the company of “Wanted” alongside the previously announced cast of Solea Pfeiffer, Liisi LaFontaine, Luke James and Ledisi. Described as a “soulful and dangerous” and “mostly-true” […]",
-        "fa": "بردلی جیدن، که به تازگی در نقش ژاور در فیلم «بیچارگان: کنسرت آرنا تماشایی» موفق شد، اولین حضور خود در برادوی را در پاییز انجام دهد. این بازیگر در کنار بازیگرانی که قبلا اعلام شده بود سولیا فایفر، لیسی لافونتین، لوک جیمز و لدیسی به کمپانی \"تحت تعقیب\" می پیوندد. توصیف شده به عنوان \"روح و خطرناک\" و \"بیشتر واقعی\""
-      },
-      "content": {
-        "en": "Bradley Jaden, who just wrapped an acclaimed run as Javert in “Les Misérables: The Arena Concert Spectacular,” is making his Broadway debut in the fall. The actor is joining the company of “Wanted” alongside the previously announced cast of Solea Pfeiffer, Liisi LaFontaine, Luke James and Ledisi. Described as a “soulful and dangerous” and “mostly-true” […]",
-        "fa": "بردلی جیدن، که به تازگی در نقش ژاور در فیلم «بیچارگان: کنسرت آرنا تماشایی» موفق شد، اولین حضور خود در برادوی را در پاییز انجام دهد. این بازیگر در کنار بازیگرانی که قبلا اعلام شده بود سولیا فایفر، لیسی لافونتین، لوک جیمز و لدیسی به کمپانی \"تحت تعقیب\" می پیوندد. توصیف شده به عنوان \"روح و خطرناک\" و \"بیشتر واقعی\""
-      },
-      "source": {
-        "en": "Variety",
-        "fa": "Variety"
-      },
-      "link": "https://variety.com/2026/legit/news/les-mis-bradley-jaden-broadway-debut-wanted-1236837187/",
-      "date": "2026-08-19T14:23:46.967825+00:00",
-      "image": "https://variety.com/wp-content/uploads/2026/08/GettyImages-2212851967.jpg",
-      "important": false,
-      "score": 3
-    },
-    {
-      "id": "84e659c8d537",
-      "title": {
-        "en": "Aliens vs. Devil Horror Story ‘Haunting Skies’ Sets Film Adaptation; Author Christian Kang Bachini to Direct, Natasha Halevi and Emily Ashby to Star (EXCLUSIVE)",
-        "fa": "بیگانه ها علیه شیطان داستان ترسناک «آسمان های تسخیر شده» مجموعه های فیلم اقتباسی; نویسنده کریستین کانگ باچینی به کارگردانی، ناتاشا هالوی و امیلی اشبی برای ستاره"
-      },
-      "excerpt": {
-        "en": "Indie horror novel “Haunting Skies” is primed for an on-screen adaptation. Christian Kang Bachini, a filmmaker who wrote the novel, is set to helm the film version of “Haunting Skies” via Via Mantra Productions, Variety can report. Per the logline, “Haunting Skies” “imagines an Earth already conquered by alien invaders, who abduct the remaining survivors […]",
-        "fa": "رمان ترسناک مستقل \"آسمان های تسخیر شده\" برای اقتباس روی صفحه آماده شده است. به گزارش ورایتی، کریستین کانگ باچینی، فیلمسازی که این رمان را نوشته، قرار است نسخه سینمایی «آسمان های تسخیر شده» را از طریق Via Mantra Productions هدایت کند. طبق لاگ لاین، «آسمان های تسخیر شده» «زمینی را تصور می کند که قبلاً توسط مهاجمان بیگانه تسخیر شده است، که بازماندگان باقی مانده را ربوده اند."
-      },
-      "content": {
-        "en": "Indie horror novel “Haunting Skies” is primed for an on-screen adaptation. Christian Kang Bachini, a filmmaker who wrote the novel, is set to helm the film version of “Haunting Skies” via Via Mantra Productions, Variety can report. Per the logline, “Haunting Skies” “imagines an Earth already conquered by alien invaders, who abduct the remaining survivors […]",
-        "fa": "رمان ترسناک مستقل \"آسمان های تسخیر شده\" برای اقتباس روی صفحه آماده شده است. به گزارش ورایتی، کریستین کانگ باچینی، فیلمسازی که این رمان را نوشته، قرار است نسخه سینمایی «آسمان های تسخیر شده» را از طریق Via Mantra Productions هدایت کند. طبق لاگ لاین، «آسمان های تسخیر شده» «زمینی را تصور می کند که قبلاً توسط مهاجمان بیگانه تسخیر شده است، که بازماندگان باقی مانده را ربوده اند."
-      },
-      "source": {
-        "en": "Variety",
-        "fa": "Variety"
-      },
-      "link": "https://variety.com/2026/film/news/haunting-skies-aliens-devil-horror-novel-film-adaptation-1236837878/",
-      "date": "2026-08-19T14:23:46.967299+00:00",
-      "image": "https://variety.com/wp-content/uploads/2026/08/Haunting-Skies.png",
       "important": false,
       "score": 3
     },
@@ -333,7 +237,7 @@
         "fa": "Variety"
       },
       "link": "https://variety.com/2026/tv/global/rafael-nadal-primetime-emmy-skydance-netflix-non-english-1236838145/",
-      "date": "2026-08-19T14:23:46.967153+00:00",
+      "date": "2026-08-19T15:21:55.866267+00:00",
       "image": "https://variety.com/wp-content/uploads/2026/08/Rafa.jpg",
       "important": false,
       "score": 3
@@ -346,7 +250,7 @@
       },
       "excerpt": {
         "en": "“Murderbot” has added a murderer’s row of talent for its upcoming second season. The Apple TV sci-fi series, which stars Alexander Skarsgård as the titular Murderbot, has added the following cast members for Season 2: Blair UnderwoodBrendan HuntBridget EverettBritne OldfordDamian YoungDivian LadwaElla Jay BascoEtienne BeydonGriffin NewmanJaedynn LatterJason GeorgeKali ReisKaty O’BrianMaddy StraussMarc MenchacaMartha PlimptonMeredith SalengerMichael SheenNia […]",
-        "fa": "\"Murderbot\" ردیف استعدادهای یک قاتل را برای فصل دوم خود اضافه کرده است. سریال علمی تخیلی اپل تی‌وی با بازی الکساندر اسکارسگارد در نقش ربات مرد مرد، بازیگران زیر را برای فصل 2 اضافه کرده است: بلر آندروود برندان هانت بریجت اورت بریتن اولدفورددامیان یانگ دیویان لادوالا جی باسکو اتین بیدون گریفین نیومن جیادین استراوس مارک منچاکا مارتا پلمپتون مردیت سلنجر مایکل شین نیا"
+        "fa": "\"Murderbot\" ردیف استعدادهای یک قاتل را برای فصل دوم خود اضافه کرده است. سریال علمی تخیلی اپل تی‌وی با بازی الکساندر اسکارسگارد در نقش ربات مرد مرد، بازیگران زیر را برای فصل دوم اضافه کرده است: بلر آندروود برندان هانت بریجت اورت بریتن اولدفورددامیان یانگ دیویان لادوالا جی باسکو اتین بیدون گریفین نیومن جیادین استراوس مارک منچاکا مارتا پلمپتون مردیت سلنجر مایکل شین نیا"
       },
       "content": {
         "en": "“Murderbot” has added a murderer’s row of talent for its upcoming second season. The Apple TV sci-fi series, which stars Alexander Skarsgård as the titular Murderbot, has added the following cast members for Season 2: Blair UnderwoodBrendan HuntBridget EverettBritne OldfordDamian YoungDivian LadwaElla Jay BascoEtienne BeydonGriffin NewmanJaedynn LatterJason GeorgeKali ReisKaty O’BrianMaddy StraussMarc MenchacaMartha PlimptonMeredith SalengerMichael SheenNia […]",
@@ -357,82 +261,58 @@
         "fa": "Variety"
       },
       "link": "https://variety.com/2026/tv/news/steve-buscemi-tramell-tillman-murderbot-season-2-1236838167/",
-      "date": "2026-08-19T14:23:46.967010+00:00",
+      "date": "2026-08-19T15:21:55.866092+00:00",
       "image": "https://variety.com/wp-content/uploads/2026/08/Murderbot-season-2-cast.jpg",
       "important": false,
       "score": 3
     },
     {
-      "id": "03a789b85c8d",
+      "id": "b901dfde33c4",
       "title": {
-        "en": "Chulpan Khamatova To Lead Alexander Molochnikov’s ‘The Extremists’ From AR Content & Forma Pro Films",
-        "fa": "چولپان خاماتووا برای هدایت فیلم «افراطی‌ها» اثر الکساندر مولوچنیکوف از محتوای AR و فیلم‌های Forma Pro"
+        "en": "Prime Video’s ‘Bloodaxe’ Season 2 Adds Five To Cast",
+        "fa": "فصل 2 «Bloodaxe» Prime Video پنج نفر را به بازیگران اضافه می کند"
       },
       "excerpt": {
-        "en": "EXCLUSIVE: Chulpan Khamatova (Good Bye Lenin) has been set to star in Alexander Molochnikov’s The Extremists, a feature length version of the director’s Oscar-shortlisted short film Extremist. The original short centered on a young Russian artist who secretly replaced food labels in a Moscow supermarket with pacifist messages, an act that ultimately led to her […]",
-        "fa": "انحصاری: چولپان خاماتووا قرار است در فیلم افراطی‌ها به کارگردانی الکساندر مولوچنیکف بازی کند که نسخه‌ای بلند از فیلم کوتاه اسکار این کارگردان افراطی است. داستان کوتاه اصلی درباره یک هنرمند جوان روسی بود که به طور مخفیانه برچسب های مواد غذایی را در سوپرمارکت مسکو با پیام های صلح طلبانه جایگزین کرد، اقدامی که در نهایت به او منجر شد."
+        "en": "The second season of Prime Video’s historical drama Bloodaxe has added five to the cast. Gard Løkke (Home for Christmas, The Trip to the Northern Lights) will join as a series regular, and Melina Åkerman (Succedera Questa Notte, Granite Harbour), Kieran Bew (House of the Dragon, Beowulf), Sebastian Bull (2 Days, Azrael) and George Burgess […]",
+        "fa": "فصل دوم درام تاریخی Bloodaxe از Prime Video پنج نفر به بازیگران اضافه شده است. Gard Løkke به عنوان یک سریال معمولی، و Melina Åkerman، Kieran Bew، Sebastian Bull و George Burgess به این سریال خواهند پیوست."
       },
       "content": {
-        "en": "EXCLUSIVE: Chulpan Khamatova (Good Bye Lenin) has been set to star in Alexander Molochnikov’s The Extremists, a feature length version of the director’s Oscar-shortlisted short film Extremist. The original short centered on a young Russian artist who secretly replaced food labels in a Moscow supermarket with pacifist messages, an act that ultimately led to her […]",
-        "fa": "انحصاری: چولپان خاماتووا قرار است در فیلم افراطی‌ها به کارگردانی الکساندر مولوچنیکف بازی کند که نسخه‌ای بلند از فیلم کوتاه اسکار این کارگردان افراطی است. داستان کوتاه اصلی درباره یک هنرمند جوان روسی بود که به طور مخفیانه برچسب های مواد غذایی را در سوپرمارکت مسکو با پیام های صلح طلبانه جایگزین کرد، اقدامی که در نهایت به او منجر شد."
+        "en": "The second season of Prime Video’s historical drama Bloodaxe has added five to the cast. Gard Løkke (Home for Christmas, The Trip to the Northern Lights) will join as a series regular, and Melina Åkerman (Succedera Questa Notte, Granite Harbour), Kieran Bew (House of the Dragon, Beowulf), Sebastian Bull (2 Days, Azrael) and George Burgess […]",
+        "fa": "فصل دوم درام تاریخی Bloodaxe از Prime Video پنج نفر به بازیگران اضافه شده است. Gard Løkke به عنوان یک سریال معمولی، و Melina Åkerman، Kieran Bew، Sebastian Bull و George Burgess به این سریال خواهند پیوست."
       },
       "source": {
         "en": "Deadline",
         "fa": "Deadline"
       },
-      "link": "https://deadline.com/2026/08/chulpan-khamatova-star-in-alexander-molochnikov-extremists-1237045109/",
-      "date": "2026-08-19T14:23:46.966667+00:00",
-      "image": "https://deadline.com/wp-content/uploads/2022/03/MEGA770748_013-e1648305269612.jpg",
+      "link": "https://deadline.com/2026/08/prime-video-bloodaxe-season-2-adds-cast-1237045000/",
+      "date": "2026-08-19T15:21:55.863080+00:00",
+      "image": "https://deadline.com/wp-content/uploads/2026/08/Bloodaxe.jpg",
       "important": false,
       "score": 3
     },
     {
-      "id": "7671b7313888",
+      "id": "eb2a08d44c8c",
       "title": {
-        "en": "Zero Gravity Management Signs Horror Director Alex Kahuam",
-        "fa": "الکس کاهوم کارگردان ترسناک مدیریت جاذبه صفر نشانه ها"
+        "en": "Zurich Summit: Kane Parsons, Kevin Maher, Efe Cakarel & AI Actor Tilly Norwood Among Speakers",
+        "fa": "نشست زوریخ: کین پارسونز، کوین ماهر، افه کاکارل و بازیگر هوش مصنوعی تیلی نوروود در میان سخنرانان"
       },
       "excerpt": {
-        "en": "EXCLUSIVE: Alex Kahuam, director of Failure! and The Remedy, has signed with Zero Gravity Management. The Mexican filmmaker, who is best known for his work in the indie horror features space, will be represented by Zero Gravity’s David Romero. Kahuam was the writer and director of Tallinn Black Nights pic Failure! and Forgiveness, which screened […]",
-        "fa": "اختصاصی: الکس کاهوم، کارگردان فیلم Failure! و The Remedy با Zero Gravity Management قرارداد امضا کرده است. این فیلمساز مکزیکی که بیشتر به خاطر آثارش در فضای ترسناک مستقل شناخته می شود، توسط دیوید رومرو از Zero Gravity نماینده خواهد شد. کاهوم نویسنده و کارگردان فیلم شکست شب های سیاه تالین بود! و بخشش که نمایش داده شد"
+        "en": "EXCLUSIVE: The Zurich Summit has scored a coup with a strong lineup this year headlined by Backrooms director Kane Parsons. The lineup of speakers at the annual industry conference, dubbed the “Davos of the film industry”, also includes Academy of Motion Picture Arts and Sciences CEO Bill Kramer, Candle Media Co-Founder and Co-CEO Kevin Mayer, […]",
+        "fa": "انحصاری: نشست زوریخ با یک ترکیب قوی در سال جاری که توسط کارگردان Backrooms کین پارسونز سرلوحه آن بود، یک کودتا به ثمر رساند. گروه سخنرانان کنفرانس سالانه صنعت، که \"داووس صنعت فیلم\" نامیده می شود، همچنین شامل بیل کرامر، مدیر عامل آکادمی علوم و هنرهای تصاویر متحرک، یکی از بنیانگذاران Candle Media و همکار، کوین مایر، می شود."
       },
       "content": {
-        "en": "EXCLUSIVE: Alex Kahuam, director of Failure! and The Remedy, has signed with Zero Gravity Management. The Mexican filmmaker, who is best known for his work in the indie horror features space, will be represented by Zero Gravity’s David Romero. Kahuam was the writer and director of Tallinn Black Nights pic Failure! and Forgiveness, which screened […]",
-        "fa": "اختصاصی: الکس کاهوم، کارگردان فیلم Failure! و The Remedy با Zero Gravity Management قرارداد امضا کرده است. این فیلمساز مکزیکی که بیشتر به خاطر آثارش در فضای ترسناک مستقل شناخته می شود، توسط دیوید رومرو از Zero Gravity نماینده خواهد شد. کاهوم نویسنده و کارگردان فیلم شکست شب های سیاه تالین بود! و بخشش که نمایش داده شد"
+        "en": "EXCLUSIVE: The Zurich Summit has scored a coup with a strong lineup this year headlined by Backrooms director Kane Parsons. The lineup of speakers at the annual industry conference, dubbed the “Davos of the film industry”, also includes Academy of Motion Picture Arts and Sciences CEO Bill Kramer, Candle Media Co-Founder and Co-CEO Kevin Mayer, […]",
+        "fa": "انحصاری: نشست زوریخ با یک ترکیب قوی در سال جاری که توسط کارگردان Backrooms کین پارسونز سرلوحه آن بود، یک کودتا به ثمر رساند. گروه سخنرانان کنفرانس سالانه صنعت، که \"داووس صنعت فیلم\" نامیده می شود، همچنین شامل بیل کرامر، مدیر عامل آکادمی علوم و هنرهای تصاویر متحرک، یکی از بنیانگذاران Candle Media و همکار، کوین مایر، می شود."
       },
       "source": {
         "en": "Deadline",
         "fa": "Deadline"
       },
-      "link": "https://deadline.com/2026/08/zero-gravity-management-signs-alex-kahuam-1237045046/",
-      "date": "2026-08-19T14:23:46.966096+00:00",
-      "image": "https://deadline.com/wp-content/uploads/2026/08/Alex-Kahuam-e1787130767388.jpg",
+      "link": "https://deadline.com/2026/08/kane-parsons-kevin-maher-tilly-norwood-at-zurich-summit-1237045144/",
+      "date": "2026-08-19T15:21:55.862819+00:00",
+      "image": "https://deadline.com/wp-content/uploads/2026/08/Zurich-Summit-2026.png",
       "important": false,
       "score": 3
-    },
-    {
-      "id": "ca289f4d0b76",
-      "title": {
-        "en": "‘Wildwood’ Trailer: Laika Returns To Its Nature With Latest Stop-Motion Fantasy Adventure",
-        "fa": "تریلر «Wildwood»: Laika با جدیدترین استاپ موشن فانتزی ماجراجویی به طبیعت خود بازگشت"
-      },
-      "excerpt": {
-        "en": "UPDATED, 6:48 AM: Laika has now dropped the full trailer for Wildwood, the first stop-motion animated movie from the studio since 2019’s The Missing Link. Check it out above. PREVIOUSLY: Laika on Wednesday released the first teaser trailer for Wildwood, the first stop-motion animated movie from the studio since 2019’s The Missing Link, the most […]",
-        "fa": "به روز شده، 6:48 صبح: Laika اکنون تریلر کامل Wildwood را منتشر کرده است، اولین انیمیشن استاپ موشن استودیو از زمان The Missing Link در سال 2019. آن را در بالا بررسی کنید. قبلا: Laika روز چهارشنبه اولین تیزر تریلر Wildwood را منتشر کرد، اولین انیمیشن استاپ موشن استودیو پس از The Missing Link در سال 2019، بیشترین"
-      },
-      "content": {
-        "en": "UPDATED, 6:48 AM: Laika has now dropped the full trailer for Wildwood, the first stop-motion animated movie from the studio since 2019’s The Missing Link. Check it out above. PREVIOUSLY: Laika on Wednesday released the first teaser trailer for Wildwood, the first stop-motion animated movie from the studio since 2019’s The Missing Link, the most […]",
-        "fa": "به روز شده، 6:48 صبح: Laika اکنون تریلر کامل Wildwood را منتشر کرده است، اولین انیمیشن استاپ موشن استودیو از زمان The Missing Link در سال 2019. آن را در بالا بررسی کنید. قبلا: Laika روز چهارشنبه اولین تیزر تریلر Wildwood را منتشر کرد، اولین انیمیشن استاپ موشن استودیو پس از The Missing Link در سال 2019، بیشترین"
-      },
-      "source": {
-        "en": "Deadline",
-        "fa": "Deadline"
-      },
-      "link": "https://deadline.com/2026/08/wildwood-trailer-laika-movie-1236900381/",
-      "date": "2026-08-19T14:23:46.965781+00:00",
-      "image": "https://deadline.com/wp-content/uploads/2026/05/Wildwood.jpg",
-      "important": false,
-      "score": 2
     },
     {
       "id": "9de247f98284",
@@ -453,8 +333,56 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/awards/industry/sean-baker-samantha-quan-chair-academy-marquee-theater-list-1235211131/",
-      "date": "2026-08-19T14:23:46.971792+00:00",
+      "date": "2026-08-19T15:21:55.870355+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/P10ZCQ5.jpg?w=650",
+      "important": false,
+      "score": 1
+    },
+    {
+      "id": "a8651609291e",
+      "title": {
+        "en": "‘Club Kid’ Trailer: Jordan Firstman’s Hugely Crowd-Pleasing, Heartfelt, Hilarious Debut Is A24’s Next Big Thing",
+        "fa": "تریلر «Club Kid»: جردن Firstman's Hugely Crowd-Pleasing, Heartfully, خنده دار اولین چیز بزرگ بعدی A24 است"
+      },
+      "excerpt": {
+        "en": "Firstman writes, directs, and stars in \"Club Kid\" as a partied-out club promoter whose redemption arrives in the form of a 10-year-old. It's also a surefire Oscar contender for A24.",
+        "fa": "Firstman می نویسد، کارگردانی می کند و در \"Club Kid\" در نقش یک مروج باشگاه که بازخریدش در قالب یک کودک 10 ساله می رسد، بازی می کند. همچنین یک رقیب مطمئن اسکار برای A24 است."
+      },
+      "content": {
+        "en": "Firstman writes, directs, and stars in \"Club Kid\" as a partied-out club promoter whose redemption arrives in the form of a 10-year-old. It's also a surefire Oscar contender for A24.",
+        "fa": "Firstman می نویسد، کارگردانی می کند و در \"Club Kid\" در نقش یک مروج باشگاه که بازخریدش در قالب یک کودک 10 ساله می رسد، بازی می کند. همچنین یک رقیب مطمئن اسکار برای A24 است."
+      },
+      "source": {
+        "en": "IndieWire",
+        "fa": "IndieWire"
+      },
+      "link": "https://www.indiewire.com/news/trailers/club-kid-trailer-jordan-firstman-a24-movie-1235211254/",
+      "date": "2026-08-19T15:21:55.869655+00:00",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/05/Screenshot-2026-05-09-at-9.06.54 PM.png?w=650",
+      "important": false,
+      "score": 1
+    },
+    {
+      "id": "a4659e77f630",
+      "title": {
+        "en": "‘Wildwood’ Trailer: Laika Heads to the Forest for an Epic Fantasy Adventure",
+        "fa": "تریلر «Wildwood»: لایکا برای یک ماجراجویی فانتزی حماسی به جنگل می رود"
+      },
+      "excerpt": {
+        "en": "Fathom Entertainment releases the film in theaters this October.",
+        "fa": "Fathom Entertainment این فیلم را اکتبر امسال در سینماها اکران می کند."
+      },
+      "content": {
+        "en": "Fathom Entertainment releases the film in theaters this October.",
+        "fa": "Fathom Entertainment این فیلم را اکتبر امسال در سینماها اکران می کند."
+      },
+      "source": {
+        "en": "IndieWire",
+        "fa": "IndieWire"
+      },
+      "link": "https://www.indiewire.com/news/trailers/wildwood-trailer-laika-1235211327/",
+      "date": "2026-08-19T15:21:55.869573+00:00",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/05/WW_PrueCurtis_Still_16x9_3578x2013px_72DPI_RGB_WIDE-2.jpg?w=650",
       "important": false,
       "score": 1
     },
@@ -466,93 +394,21 @@
       },
       "excerpt": {
         "en": "Reel to Real: \"The End of Oak Street\" marks the latest disappointing release from the studio after its red-hot 2025 The post Warner Bros.’ Box Office Cold Streak Continues appeared first on TheWrap .",
-        "fa": "Reel to Real: \"The End of Oak Street\" آخرین نسخه ناامید کننده استودیو را پس از داغ سال 2025 نشان می دهد."
+        "fa": "Reel to Real: \"The End of Oak Street\" آخرین نسخه ناامیدکننده استودیو پس از داغ سال 2025 را نشان می دهد."
       },
       "content": {
         "en": "Reel to Real: \"The End of Oak Street\" marks the latest disappointing release from the studio after its red-hot 2025 The post Warner Bros.’ Box Office Cold Streak Continues appeared first on TheWrap .",
-        "fa": "Reel to Real: \"The End of Oak Street\" آخرین نسخه ناامید کننده استودیو را پس از داغ سال 2025 نشان می دهد."
+        "fa": "Reel to Real: \"The End of Oak Street\" آخرین نسخه ناامیدکننده استودیو پس از داغ سال 2025 را نشان می دهد."
       },
       "source": {
         "en": "The Wrap",
         "fa": "The Wrap"
       },
       "link": "https://www.thewrap.com/creative-content/movies/warner-bros-box-office-cold-streak-end-of-oak-street/",
-      "date": "2026-08-19T14:23:46.970306+00:00",
+      "date": "2026-08-19T15:21:55.868580+00:00",
       "image": "https://www.thewrap.com/wp-content/uploads/2026/08/the-end-of-oak-street-ewan-mcgregor.jpg",
       "important": false,
       "score": 1
-    },
-    {
-      "id": "f860e42dfa79",
-      "title": {
-        "en": "Sandra Wollner and ‘Everytime’ Hit Sarajevo on the Festival Circuit: “You Can Feel the History Here”",
-        "fa": "ساندرا وولنر و \"Everytime\" در پیست جشنواره به سارایوو رسیدند: \"شما می توانید تاریخ را اینجا احساس کنید\""
-      },
-      "excerpt": {
-        "en": "The Austrian filmmaker also touches on possibly casting a Hollywood name and why she is pragmatic about the future of European cinema: \"I don’t think culture is an 'added value,' a kind of luxury item. It’s part of how a society understands itself.\"",
-        "fa": "این فیلمساز اتریشی همچنین به احتمال انتخاب نام هالیوود و اینکه چرا درباره آینده سینمای اروپا عمل گرا است اشاره می کند: \"فکر نمی کنم فرهنگ یک \"ارزش افزوده\"، نوعی کالای تجملی باشد. این بخشی از نحوه درک جامعه از خود است.\""
-      },
-      "content": {
-        "en": "The Austrian filmmaker also touches on possibly casting a Hollywood name and why she is pragmatic about the future of European cinema: \"I don’t think culture is an 'added value,' a kind of luxury item. It’s part of how a society understands itself.\"",
-        "fa": "این فیلمساز اتریشی همچنین به احتمال انتخاب نام هالیوود و اینکه چرا درباره آینده سینمای اروپا عمل گرا است اشاره می کند: \"فکر نمی کنم فرهنگ یک \"ارزش افزوده\"، نوعی کالای تجملی باشد. این بخشی از نحوه درک جامعه از خود است.\""
-      },
-      "source": {
-        "en": "The Hollywood Reporter",
-        "fa": "The Hollywood Reporter"
-      },
-      "link": "https://www.hollywoodreporter.com/movies/movie-features/sandra-wollner-everytime-sarajevo-film-festival-competition-1236676154/",
-      "date": "2026-08-19T14:23:46.969752+00:00",
-      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/FotoJet-2026-08-19T090718.984.jpg?w=1440&#038;h=810&#038;crop=1",
-      "important": false,
-      "score": 1
-    },
-    {
-      "id": "7070a454997a",
-      "title": {
-        "en": "‘Club Kid’ Trailer: Jordan Firstman Is A Messy Father In His Buzzy Directorial Debut",
-        "fa": "تریلر «Club Kid»: جردن فرستمن پدری آشفته در اولین کارگردانی پر سر و صدا است"
-      },
-      "excerpt": {
-        "en": "Here’s the first trailer for Jordan Firstman’s buzzy feature debut, Club Kid. A24, which acquired the film out of Cannes, will place the title in a limited theatrical release from Nov. 6. The movie follows Firstman as a hard-partying New York City club promoter whose life is upended by the arrival of the 10-year-old son […]",
-        "fa": "این اولین تریلر اولین فیلم پرهیاهوی جردن فرستمن، کلاب کید است. A24 که این فیلم را از کن خریداری کرد، این عنوان را در یک اکران محدود سینما از 6 نوامبر قرار خواهد داد. فیلم Firstman را به عنوان یک مروج باشگاه نیویورک سیتی دنبال می کند که زندگی اش با آمدن پسر 10 ساله به هم می ریزد."
-      },
-      "content": {
-        "en": "Here’s the first trailer for Jordan Firstman’s buzzy feature debut, Club Kid. A24, which acquired the film out of Cannes, will place the title in a limited theatrical release from Nov. 6. The movie follows Firstman as a hard-partying New York City club promoter whose life is upended by the arrival of the 10-year-old son […]",
-        "fa": "این اولین تریلر اولین فیلم پرهیاهوی جردن فرستمن، کلاب کید است. A24 که این فیلم را از کن خریداری کرد، این عنوان را در یک اکران محدود سینما از 6 نوامبر قرار خواهد داد. فیلم Firstman را به عنوان یک مروج باشگاه نیویورک سیتی دنبال می کند که زندگی اش با آمدن پسر 10 ساله به هم می ریزد."
-      },
-      "source": {
-        "en": "Deadline",
-        "fa": "Deadline"
-      },
-      "link": "https://deadline.com/2026/08/club-kid-trailer-jordan-firstman-a24-1237045141/",
-      "date": "2026-08-19T14:23:46.966173+00:00",
-      "image": "https://deadline.com/wp-content/uploads/2026/05/Club-Kid_Credit-Adam-Newport-Berra.jpg",
-      "important": false,
-      "score": 1
-    },
-    {
-      "id": "2e444a5895aa",
-      "title": {
-        "en": "The Film Independent Spirit Awards Are Adding Categories for Creators and International Features",
-        "fa": "جوایز روح مستقل فیلم دسته‌هایی را برای سازندگان و فیلم‌های بین‌المللی اضافه می‌کنند"
-      },
-      "excerpt": {
-        "en": "In addition to the Best International First Feature and Digital Creator Award categories, Film Independent has added the Berlinale as a qualifying festival for the 2027 Film Independent Spirit Awards.",
-        "fa": "علاوه بر دسته‌های جایزه بهترین فیلم اول بین‌المللی و جایزه خلاق دیجیتال، فیلم مستقل برلیناله را به عنوان جشنواره واجد شرایط برای جوایز روح مستقل فیلم ۲۰۲۷ اضافه کرده است."
-      },
-      "content": {
-        "en": "In addition to the Best International First Feature and Digital Creator Award categories, Film Independent has added the Berlinale as a qualifying festival for the 2027 Film Independent Spirit Awards.",
-        "fa": "علاوه بر دسته‌های جایزه بهترین فیلم اول بین‌المللی و جایزه خلاق دیجیتال، فیلم مستقل برلیناله را به عنوان جشنواره واجد شرایط برای جوایز روح مستقل فیلم ۲۰۲۷ اضافه کرده است."
-      },
-      "source": {
-        "en": "IndieWire",
-        "fa": "IndieWire"
-      },
-      "link": "https://www.indiewire.com/awards/industry/independent-spirit-awards-categories-creators-international-1235211062/",
-      "date": "2026-08-19T14:23:46.972180+00:00",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/08/P10442BC.jpg?w=650",
-      "important": false,
-      "score": 0
     },
     {
       "id": "220a0400890e",
@@ -573,8 +429,152 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/news/festivals/fantastic-fest-2026-lineup-resident-evil-carrie-1235210870/",
-      "date": "2026-08-19T14:23:46.971933+00:00",
+      "date": "2026-08-19T15:21:55.870508+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/RESIDENT_EVIL_Still.jpg?w=650",
+      "important": false,
+      "score": 0
+    },
+    {
+      "id": "2d1deed72bf5",
+      "title": {
+        "en": "‘Widow’s Bay’ Breakout Kate O’Flynn Knows Patricia Is a ‘Weirdo’ — and That’s Why People Love Her Character",
+        "fa": "ماجرای «خلیج بیوه» کیت اوفلین می‌داند که پاتریشیا یک «عجیب» است - و به همین دلیل است که مردم شخصیت او را دوست دارند"
+      },
+      "excerpt": {
+        "en": "Before she was cast in the Apple TV hit, the first-time Emmy nominee had never even been to Los Angeles. Now, she tells IndieWire, she's basking in the kind of \"fairy tale\" she knows doesn't happen often. At least BFF Jonathan Bailey can advise on navigating all that .",
+        "fa": "قبل از اینکه برای بازی در تلویزیون اپل انتخاب شود، اولین نامزد امی حتی هرگز به لس آنجلس نرفته بود. حالا، او به IndieWire می‌گوید، او از نوعی «افسانه» لذت می‌برد که می‌داند اغلب اتفاق نمی‌افتد. حداقل BFF جاناتان بیلی می تواند در مورد پیمایش همه اینها راهنمایی کند."
+      },
+      "content": {
+        "en": "Before she was cast in the Apple TV hit, the first-time Emmy nominee had never even been to Los Angeles. Now, she tells IndieWire, she's basking in the kind of \"fairy tale\" she knows doesn't happen often. At least BFF Jonathan Bailey can advise on navigating all that .",
+        "fa": "قبل از اینکه برای بازی در تلویزیون اپل انتخاب شود، اولین نامزد امی حتی هرگز به لس آنجلس نرفته بود. حالا، او به IndieWire می‌گوید، او از نوعی «افسانه» لذت می‌برد که می‌داند اغلب اتفاق نمی‌افتد. حداقل BFF جاناتان بیلی می تواند در مورد پیمایش همه اینها راهنمایی کند."
+      },
+      "source": {
+        "en": "IndieWire",
+        "fa": "IndieWire"
+      },
+      "link": "https://www.indiewire.com/awards/consider-this/widows-bay-kate-oflynn-patricia-weirdo-interview-1235210474/",
+      "date": "2026-08-19T15:21:55.870057+00:00",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/08/GettyImages-2289884113.jpg?w=650",
+      "important": false,
+      "score": 0
+    },
+    {
+      "id": "d41cbb4ab96f",
+      "title": {
+        "en": "Early YouTube Pioneer Felicia Day’s ‘The Guild’ Movie Is About to Break a Kickstarter Record",
+        "fa": "فیلم The Guild از پیشگامان یوتیوب Felicia Day در آستانه شکستن یک رکورد کیک استارتر"
+      },
+      "excerpt": {
+        "en": "\"The Guild\" was one of the first breakout web series on YouTube in 2007. Now, Felicia Day and friends are bringing it back, and it's already one of the most successful film Kickstarters of all time.",
+        "fa": "«The Guild» یکی از اولین سریال‌های وب پرفروش در YouTube در سال 2007 بود. اکنون، Felicia Day و دوستانش آن را برمی‌گردانند، و در حال حاضر یکی از موفق‌ترین فیلم‌های Kickstarter در تمام دوران است."
+      },
+      "content": {
+        "en": "\"The Guild\" was one of the first breakout web series on YouTube in 2007. Now, Felicia Day and friends are bringing it back, and it's already one of the most successful film Kickstarters of all time.",
+        "fa": "«The Guild» یکی از اولین سریال‌های وب پرفروش در YouTube در سال 2007 بود. اکنون، Felicia Day و دوستانش آن را برمی‌گردانند، و در حال حاضر یکی از موفق‌ترین فیلم‌های Kickstarter در تمام دوران است."
+      },
+      "source": {
+        "en": "IndieWire",
+        "fa": "IndieWire"
+      },
+      "link": "https://www.indiewire.com/features/craft/the-guild-ren-faired-felicia-day-kickstarter-interview-1235211080/",
+      "date": "2026-08-19T15:21:55.869952+00:00",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/08/Screenshot-2026-08-18-at-10.35.18.png?w=650",
+      "important": false,
+      "score": 0
+    },
+    {
+      "id": "a5803383f616",
+      "title": {
+        "en": "‘None of Us Knew What We Had’: Jordana Brewster Looks Back at 25 Years of ‘The Fast and the Furious’",
+        "fa": "«هیچ یک از ما نمی‌دانستیم چه داریم»: جوردانا بروستر به 25 سال فیلم «سریع و خشمگین» نگاه می‌کند."
+      },
+      "excerpt": {
+        "en": "As the modest street-racing movie that launched a seven-billion-dollar franchise returns to theaters, the actor tells IndieWire about channeling Anna Magnani, finding chemistry with Paul Walker, and revisiting the film at Cannes.",
+        "fa": "در حالی که فیلم مسابقه خیابانی متوسطی که یک فرنچایز هفت میلیارد دلاری را راه اندازی کرد، به سینماها بازمی گردد، این بازیگر به IndieWire در مورد کانالیزی آنا مگنانی، یافتن شیمی با پل واکر، و بازدید مجدد از فیلم در کن می گوید."
+      },
+      "content": {
+        "en": "As the modest street-racing movie that launched a seven-billion-dollar franchise returns to theaters, the actor tells IndieWire about channeling Anna Magnani, finding chemistry with Paul Walker, and revisiting the film at Cannes.",
+        "fa": "در حالی که فیلم مسابقه خیابانی متوسطی که یک فرنچایز هفت میلیارد دلاری را راه اندازی کرد، به سینماها بازمی گردد، این بازیگر به IndieWire در مورد کانالیزی آنا مگنانی، یافتن شیمی با پل واکر، و بازدید مجدد از فیلم در کن می گوید."
+      },
+      "source": {
+        "en": "IndieWire",
+        "fa": "IndieWire"
+      },
+      "link": "https://www.indiewire.com/features/interviews/jordana-brewster-fast-and-the-furious-25th-anniversary-1235210010/",
+      "date": "2026-08-19T15:21:55.869247+00:00",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/08/2275_K01_0029.jpg?w=650",
+      "important": false,
+      "score": 0
+    },
+    {
+      "id": "5081dc1e735d",
+      "title": {
+        "en": "Disney Takes on Trump: Can ABC Win Its First Amendment Suit Against the FCC? | Analysis",
+        "fa": "دیزنی با ترامپ برخورد می کند: آیا ABC می تواند اولین متمم خود را علیه FCC برنده شود؟ | تجزیه و تحلیل"
+      },
+      "excerpt": {
+        "en": "Experts say the network has a strong case, but appeals could delay a resolution The post Disney Takes on Trump: Can ABC Win Its First Amendment Suit Against the FCC? | Analysis appeared first on TheWrap .",
+        "fa": "کارشناسان می گویند که این شبکه یک پرونده قوی دارد، اما درخواست تجدید نظر می تواند حل و فصل را به تاخیر بیاندازد"
+      },
+      "content": {
+        "en": "Experts say the network has a strong case, but appeals could delay a resolution The post Disney Takes on Trump: Can ABC Win Its First Amendment Suit Against the FCC? | Analysis appeared first on TheWrap .",
+        "fa": "کارشناسان می گویند که این شبکه یک پرونده قوی دارد، اما درخواست تجدید نظر می تواند حل و فصل را به تاخیر بیاندازد"
+      },
+      "source": {
+        "en": "The Wrap",
+        "fa": "The Wrap"
+      },
+      "link": "https://www.thewrap.com/industry-news/public-policy-legal/can-abc-win-lawsuit-against-trump-fcc/",
+      "date": "2026-08-19T15:21:55.869043+00:00",
+      "image": "https://www.thewrap.com/wp-content/uploads/2026/08/081826-DAmaro-Carr-v3.jpg",
+      "important": false,
+      "score": 0
+    },
+    {
+      "id": "c9f73de76169",
+      "title": {
+        "en": "Cinerama Dome Is Just the Start: LA Is Living a Movie Palace Renaissance",
+        "fa": "Cinerama Dome فقط شروع است: LA در حال زندگی در یک کاخ فیلم رنسانس است"
+      },
+      "excerpt": {
+        "en": "From the Bruin in Westwood to the dormant Downtown Theatre District, the fight is on to reopen historic cinemas across Los Angeles The post Cinerama Dome Is Just the Start: LA Is Living a Movie Palace Renaissance appeared first on TheWrap .",
+        "fa": "از بروین در وست‌وود تا منطقه‌ی خفته تئاتر مرکز شهر، مبارزه برای بازگشایی سینماهای تاریخی در سراسر لس‌آنجلس ادامه دارد."
+      },
+      "content": {
+        "en": "From the Bruin in Westwood to the dormant Downtown Theatre District, the fight is on to reopen historic cinemas across Los Angeles The post Cinerama Dome Is Just the Start: LA Is Living a Movie Palace Renaissance appeared first on TheWrap .",
+        "fa": "از بروین در وست‌وود تا منطقه‌ی خفته تئاتر مرکز شهر، مبارزه برای بازگشایی سینماهای تاریخی در سراسر لس‌آنجلس ادامه دارد."
+      },
+      "source": {
+        "en": "The Wrap",
+        "fa": "The Wrap"
+      },
+      "link": "https://www.thewrap.com/creative-content/movies/how-cinerama-dome-reopened-la-theater-boom/",
+      "date": "2026-08-19T15:21:55.868754+00:00",
+      "image": "https://www.thewrap.com/wp-content/uploads/2026/08/Cinerama-Dome-e1786655082247.jpg",
+      "important": false,
+      "score": 0
+    },
+    {
+      "id": "299ed985c55c",
+      "title": {
+        "en": "‘The Tonight Show’ Thinks Up New Taylor Sheridan Shows to Keep Fans on Paramount+ Amid Merger Struggles",
+        "fa": "«The Tonight Show» به برنامه‌های جدید تیلور شریدان فکر می‌کند تا طرفداران را در پارامونت نگه دارد+ در میان مبارزات ادغام"
+      },
+      "excerpt": {
+        "en": "From 'Gender-Swapped Yellowstone' to 'Dusty Horse Boys and One Woman' The post ‘The Tonight Show’ Thinks Up New Taylor Sheridan Shows to Keep Fans on Paramount+ Amid Merger Struggles appeared first on TheWrap .",
+        "fa": "از \"Yellowstone-Swapped Yellowstone\" تا \"Dusty Horse Boys and One Woman\""
+      },
+      "content": {
+        "en": "From 'Gender-Swapped Yellowstone' to 'Dusty Horse Boys and One Woman' The post ‘The Tonight Show’ Thinks Up New Taylor Sheridan Shows to Keep Fans on Paramount+ Amid Merger Struggles appeared first on TheWrap .",
+        "fa": "از \"Yellowstone-Swapped Yellowstone\" تا \"Dusty Horse Boys and One Woman\""
+      },
+      "source": {
+        "en": "The Wrap",
+        "fa": "The Wrap"
+      },
+      "link": "https://www.thewrap.com/creative-content/tv-shows/the-tonight-show-paramount-merger-struggles-new-taylor-sheridan-shows/",
+      "date": "2026-08-19T15:21:55.867836+00:00",
+      "image": "https://www.thewrap.com/wp-content/uploads/2026/08/fake-taylor-sheridan-show.jpg",
       "important": false,
       "score": 0
     }
