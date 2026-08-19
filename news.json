@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-19T22:15:06.761027+00:00",
+  "updated_at": "2026-08-19T23:14:42.822631+00:00",
   "count": 24,
   "news": [
     {
@@ -21,7 +21,7 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/nicola-coughlan-smaller-bridgerton-season-5-role-1237045587/",
-      "date": "2026-08-19T22:15:06.549902+00:00",
+      "date": "2026-08-19T23:14:42.605357+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/BRIDGERTON_407_Unit_02146R.jpg",
       "important": true,
       "score": 6
@@ -45,8 +45,32 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/feature/outer-banks-season-5-news-updates-everything-we-know-1237012550/",
-      "date": "2026-08-19T22:15:06.549229+00:00",
+      "date": "2026-08-19T23:14:42.604588+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/07/OUTERBANKS_508_Unit_01793RC.jpg",
+      "important": true,
+      "score": 6
+    },
+    {
+      "id": "5687ae36a1a7",
+      "title": {
+        "en": "‘Widow’s Bay’ Ups Jeff Hiller To Series Regular For Season 2",
+        "fa": "«خلیج بیوه» جف هیلر را به سریال معمولی برای فصل 2 سوق می دهد"
+      },
+      "excerpt": {
+        "en": "EXCLUSIVE: Widow’s Bay fans can look forward to a lot more laughs (and possibly screams) with Jeff Hiller in future, Deadline has learned. Come Season 2, Hiller will make the jump from guest star to series regular on the mega-hit much Emmy-nominated show about a haunted Massachusetts island. Hiller, who is repped by Innovative Artists […]",
+        "fa": "انحصاری: طرفداران Widow’s Bay می توانند در آینده منتظر خنده های بسیار بیشتری با جف هیلر باشند، ددلاین آموخته است. بیایید در فصل دوم، هیلر از ستاره مهمان به سریالی دیگر در سریال پرفروش و نامزد دریافت جایزه امی درباره جزیره جن زده ماساچوست پرش خواهد کرد. هیلر، که توسط هنرمندان مبتکر تکرار شده است"
+      },
+      "content": {
+        "en": "EXCLUSIVE: Widow’s Bay fans can look forward to a lot more laughs (and possibly screams) with Jeff Hiller in future, Deadline has learned. Come Season 2, Hiller will make the jump from guest star to series regular on the mega-hit much Emmy-nominated show about a haunted Massachusetts island. Hiller, who is repped by Innovative Artists […]",
+        "fa": "انحصاری: طرفداران Widow’s Bay می توانند در آینده منتظر خنده های بسیار بیشتری با جف هیلر باشند، ددلاین آموخته است. بیایید در فصل دوم، هیلر از ستاره مهمان به سریالی دیگر در سریال پرفروش و نامزد دریافت جایزه امی درباره جزیره جن زده ماساچوست پرش خواهد کرد. هیلر، که توسط هنرمندان مبتکر تکرار شده است"
+      },
+      "source": {
+        "en": "Deadline",
+        "fa": "Deadline"
+      },
+      "link": "https://deadline.com/2026/08/widows-bay-season-2-jeff-hiller-1237045620/",
+      "date": "2026-08-19T23:14:42.603251+00:00",
+      "image": "https://deadline.com/wp-content/uploads/2026/08/Widows_Bay_Photo_010401.jpg",
       "important": true,
       "score": 6
     },
@@ -69,8 +93,56 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/news/trailers/brotherhood-a-cinematic-musical-trailer-1235211243/",
-      "date": "2026-08-19T22:15:06.557363+00:00",
+      "date": "2026-08-19T23:14:42.610351+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/Mauricio-Martinez-the-Cast-of-Brotherhood-2.png?w=650",
+      "important": true,
+      "score": 4
+    },
+    {
+      "id": "95573848ba31",
+      "title": {
+        "en": "‘Earle Meets World’ Trailer Goes Inside Alix Earle’s Dramatic, Rumor-Filled Year: “Nothing Is Off Limits”",
+        "fa": "تریلر «Earle Meets World» وارد سال دراماتیک و پر شایعه Alix Earle شد: «Nothing Is Off Limits»"
+      },
+      "excerpt": {
+        "en": "The Netflix reality series will release its eight episodes on the streamer on Sept. 4.",
+        "fa": "سریال واقعیت نتفلیکس هشت قسمت خود را در تاریخ 4 سپتامبر روی استریمر منتشر خواهد کرد."
+      },
+      "content": {
+        "en": "The Netflix reality series will release its eight episodes on the streamer on Sept. 4.",
+        "fa": "سریال واقعیت نتفلیکس هشت قسمت خود را در تاریخ 4 سپتامبر روی استریمر منتشر خواهد کرد."
+      },
+      "source": {
+        "en": "The Hollywood Reporter",
+        "fa": "The Hollywood Reporter"
+      },
+      "link": "https://www.hollywoodreporter.com/tv/tv-news/earle-meets-world-trailer-alix-earle-tom-brady-1236677198/",
+      "date": "2026-08-19T23:14:42.606119+00:00",
+      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/Earle-Meets-World.jpg?w=986&#038;h=555&#038;crop=1",
+      "important": true,
+      "score": 4
+    },
+    {
+      "id": "3ab0226cb140",
+      "title": {
+        "en": "Prince Harry & Meghan Markle Leaving L.A. & Heading Back To The UK",
+        "fa": "شاهزاده هری و مگان مارکل در حال ترک لس آنجلس و بازگشت به بریتانیا"
+      },
+      "excerpt": {
+        "en": "Prince Harry and Meghan Markle may still have a first look deal at Netflix, but the duo has decided to decamp from Hollywood. The Duke and Duchess of Sussex will be taking their children back to the UK, according to multiple reports. The duo made headlines in 2020, when they stepped away from their duties […]",
+        "fa": "شاهزاده هری و مگان مارکل ممکن است هنوز یک قرارداد نگاه اول به نتفلیکس داشته باشند، اما این دو تصمیم گرفته اند از هالیوود دور شوند. بر اساس گزارش های متعدد، دوک و دوشس ساسکس فرزندان خود را به بریتانیا خواهند برد. این دو در سال 2020، زمانی که از وظایف خود کنار رفتند، خبرساز شدند"
+      },
+      "content": {
+        "en": "Prince Harry and Meghan Markle may still have a first look deal at Netflix, but the duo has decided to decamp from Hollywood. The Duke and Duchess of Sussex will be taking their children back to the UK, according to multiple reports. The duo made headlines in 2020, when they stepped away from their duties […]",
+        "fa": "شاهزاده هری و مگان مارکل ممکن است هنوز یک قرارداد نگاه اول به نتفلیکس داشته باشند، اما این دو تصمیم گرفته اند از هالیوود دور شوند. بر اساس گزارش های متعدد، دوک و دوشس ساسکس فرزندان خود را به بریتانیا خواهند برد. این دو در سال 2020، زمانی که از وظایف خود کنار رفتند، خبرساز شدند"
+      },
+      "source": {
+        "en": "Deadline",
+        "fa": "Deadline"
+      },
+      "link": "https://deadline.com/2026/08/prince-harry-meghan-markle-moving-to-uk-1237045751/",
+      "date": "2026-08-19T23:14:42.603443+00:00",
+      "image": "https://deadline.com/wp-content/uploads/2026/05/GettyImages-2271530771.jpg",
       "important": true,
       "score": 4
     },
@@ -93,7 +165,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/features/commentary/disney-kingdom-hearts-series-commentary-1235211019/",
-      "date": "2026-08-19T22:15:06.558198+00:00",
+      "date": "2026-08-19T23:14:42.611333+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/VIA_D23_16x9_DCD.jpg?w=650",
       "important": false,
       "score": 3
@@ -117,104 +189,8 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/news/business/val-kilmer-ai-movie-footage-as-deep-as-the-grave-1235211459/",
-      "date": "2026-08-19T22:15:06.557559+00:00",
+      "date": "2026-08-19T23:14:42.610590+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/Screen-Shot-2026-08-19-at-7.08.47-AM.png?w=650",
-      "important": false,
-      "score": 3
-    },
-    {
-      "id": "08e875ad2cf3",
-      "title": {
-        "en": "‘Love Lessons’ Review: A Retired Teacher Dithers Over His Dating Options in Seductive Seaside French Fluff",
-        "fa": "بررسی «درس های عشق»: معلمی بازنشسته در مورد گزینه های قرار ملاقاتش در فرنچ فرنچ ساحلی اغواکننده"
-      },
-      "excerpt": {
-        "en": "Fabrice Luchini stars alongside Emmanuelle Devos, Chiara Mastroianni and Carole Bouquet in the latest from writer-director Martin Provost ('Violette'), which premiered at Locarno.",
-        "fa": "فابریس لوچینی در کنار امانوئل دووس، کیارا ماسترویانی و کارول بوکت در جدیدترین فیلم مارتین پرووست، نویسنده و کارگردان، که در لوکارنو به نمایش درآمد، بازی می کند."
-      },
-      "content": {
-        "en": "Fabrice Luchini stars alongside Emmanuelle Devos, Chiara Mastroianni and Carole Bouquet in the latest from writer-director Martin Provost ('Violette'), which premiered at Locarno.",
-        "fa": "فابریس لوچینی در کنار امانوئل دووس، کیارا ماسترویانی و کارول بوکت در جدیدترین فیلم مارتین پرووست، نویسنده و کارگردان، که در لوکارنو به نمایش درآمد، بازی می کند."
-      },
-      "source": {
-        "en": "The Hollywood Reporter",
-        "fa": "The Hollywood Reporter"
-      },
-      "link": "https://www.hollywoodreporter.com/movies/movie-reviews/love-lessons-review-fabrice-luchini-martin-provost-1236674557/",
-      "date": "2026-08-19T22:15:06.554470+00:00",
-      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/Love-Lessons-Main-2026.jpg?w=1296&#038;h=730&#038;crop=1",
-      "important": false,
-      "score": 3
-    },
-    {
-      "id": "685490674b2c",
-      "title": {
-        "en": "‘Even Stevens’ Star Christy Carlson Romano Says ‘Early Fame Is Like CTE’ After Hayden Panettiere’s Death: ‘Another Performer I Grew Up With, Gone Too Soon’",
-        "fa": "کریستی کارلسون رومانو، ستاره «Even Stevens» می‌گوید «شهرت اولیه مانند CTE است» پس از مرگ هیدن پانتییر: «بازیگر دیگری که با او بزرگ شدم، خیلی زود رفت»"
-      },
-      "excerpt": {
-        "en": "Christy Carlson Romano, a Disney Channel teen icon after playing Ren Stevens on “Even Stevens” and voicing the title character on “Kim Possible,” published an emotional essay on Elle’s website in the wake of Hayden Panettiere’s death. The two actors got their breakthroughs in 2000, the year both “Even Stevens” and “Remember the Titans” premiered, […]",
-        "fa": "کریستی کارلسون رومانو، یکی از نمادهای نوجوان کانال دیزنی پس از بازی در نقش رن استیونز در سریال \"Even Stevens\" و صداپیشگی شخصیت عنوان در \"Kim Possible\"، پس از مرگ هیدن پانتییر، مقاله ای احساسی در وب سایت Elle منتشر کرد. این دو بازیگر در سال 2000 به موفقیت دست یافتند، سالی که هر دو «حتی استیونز» و «تایتان‌ها را به خاطر بسپار»"
-      },
-      "content": {
-        "en": "Christy Carlson Romano, a Disney Channel teen icon after playing Ren Stevens on “Even Stevens” and voicing the title character on “Kim Possible,” published an emotional essay on Elle’s website in the wake of Hayden Panettiere’s death. The two actors got their breakthroughs in 2000, the year both “Even Stevens” and “Remember the Titans” premiered, […]",
-        "fa": "کریستی کارلسون رومانو، یکی از نمادهای نوجوان کانال دیزنی پس از بازی در نقش رن استیونز در سریال \"Even Stevens\" و صداپیشگی شخصیت عنوان در \"Kim Possible\"، پس از مرگ هیدن پانتییر، مقاله ای احساسی در وب سایت Elle منتشر کرد. این دو بازیگر در سال 2000 به موفقیت دست یافتند، سالی که هر دو «حتی استیونز» و «تایتان‌ها را به خاطر بسپار»"
-      },
-      "source": {
-        "en": "Variety",
-        "fa": "Variety"
-      },
-      "link": "https://variety.com/2026/tv/news/christy-carlson-romano-hayden-panettiere-death-child-fame-cte-even-stevens-1236838299/",
-      "date": "2026-08-19T22:15:06.552248+00:00",
-      "image": "https://variety.com/wp-content/uploads/2026/08/Ice-Princess-Even-Stevens-2.jpg",
-      "important": false,
-      "score": 3
-    },
-    {
-      "id": "c95b1dad6a5c",
-      "title": {
-        "en": "Jane Curtin Boards ‘Little Five’ Film From Anne Hathaway’s Somewhere Pictures & Pigasus Pictures",
-        "fa": "جین کرتین فیلم «پنج کوچولو» را از فیلم Somewhere Pictures و Pigasus Pictures Anne Hathaway می‌گیرد."
-      },
-      "excerpt": {
-        "en": "EXCLUSIVE: Jane Curtin (Coneheads, Saturday Night Live) will round out the cast of Little Five, from Anne Hathaway‘s production company Somewhere Pictures and Pigasus Pictures. An original cast member of Saturday Night Live, Curtin will play Dean Weston, the formidable academic leader at Indiana University who serves as a crucial mentor and foil to the young team […]",
-        "fa": "اختصاصی: جین کرتین بازیگران فیلم پنج کوچولو از کمپانی سازنده آن هاتاوی Somewhere Pictures و Pigasus Pictures را تکمیل خواهد کرد. کرتین یکی از بازیگران اصلی برنامه Saturday Night Live، نقش دین وستون، رهبر آکادمیک برجسته در دانشگاه ایندیانا را بازی خواهد کرد که به عنوان یک مربی حیاتی و کمک کننده به تیم جوان عمل می کند."
-      },
-      "content": {
-        "en": "EXCLUSIVE: Jane Curtin (Coneheads, Saturday Night Live) will round out the cast of Little Five, from Anne Hathaway‘s production company Somewhere Pictures and Pigasus Pictures. An original cast member of Saturday Night Live, Curtin will play Dean Weston, the formidable academic leader at Indiana University who serves as a crucial mentor and foil to the young team […]",
-        "fa": "اختصاصی: جین کرتین بازیگران فیلم پنج کوچولو از کمپانی سازنده آن هاتاوی Somewhere Pictures و Pigasus Pictures را تکمیل خواهد کرد. کرتین یکی از بازیگران اصلی برنامه Saturday Night Live، نقش دین وستون، رهبر آکادمیک برجسته در دانشگاه ایندیانا را بازی خواهد کرد که به عنوان یک مربی حیاتی و کمک کننده به تیم جوان عمل می کند."
-      },
-      "source": {
-        "en": "Deadline",
-        "fa": "Deadline"
-      },
-      "link": "https://deadline.com/2026/08/jane-curtin-little-five-film-anne-hathaway-producing-1237045480/",
-      "date": "2026-08-19T22:15:06.551326+00:00",
-      "image": "https://deadline.com/wp-content/uploads/2026/08/GettyImages-2199446507.jpg",
-      "important": false,
-      "score": 3
-    },
-    {
-      "id": "d2658277eb80",
-      "title": {
-        "en": "Alison Hurbert-Burns & Bruna Papandrea’s Made Up Stories Launch Australian Production House The Set Up",
-        "fa": "داستان های ساخته شده توسط آلیسون هربرت برنز و برونا پاپاندریا راه اندازی خانه تولید استرالیا The Set Up"
-      },
-      "excerpt": {
-        "en": "EXCLUSIVE: Here’s a big one out of Australia. Former Binge content chief Alison Hurbert-Burns, who commissioned Colin From Accounts, is teaming with Bruna Papandrea and Steve Hutensky’s Made Up Stories to launch a production business. Respected Australian commissioner Hurbert-Burns will be CEO of The Set Up, with Papandrea and Hutensky joining her as co-founders, we […]",
-        "fa": "انحصاری: اینجا یک مورد بزرگ خارج از استرالیا است. مدیر سابق محتوای Binge، آلیسون هربرت برنز، که کالین از حساب‌ها را سفارش داده بود، با Bruna Papandrea و Made Up Stories ساخته Steve Hutensky همکاری می‌کند تا یک تجارت تولیدی راه‌اندازی کند. کمیسر محترم استرالیایی Hurbert-Burns مدیرعامل The Set Up خواهد بود و پاپاندریا و هوتنسکی به عنوان بنیانگذاران به او ملحق می شوند."
-      },
-      "content": {
-        "en": "EXCLUSIVE: Here’s a big one out of Australia. Former Binge content chief Alison Hurbert-Burns, who commissioned Colin From Accounts, is teaming with Bruna Papandrea and Steve Hutensky’s Made Up Stories to launch a production business. Respected Australian commissioner Hurbert-Burns will be CEO of The Set Up, with Papandrea and Hutensky joining her as co-founders, we […]",
-        "fa": "انحصاری: اینجا یک مورد بزرگ خارج از استرالیا است. مدیر سابق محتوای Binge، آلیسون هربرت برنز، که کالین از حساب‌ها را سفارش داده بود، با Bruna Papandrea و Made Up Stories ساخته Steve Hutensky همکاری می‌کند تا یک تجارت تولیدی راه‌اندازی کند. کمیسر محترم استرالیایی Hurbert-Burns مدیرعامل The Set Up خواهد بود و پاپاندریا و هوتنسکی به عنوان بنیانگذاران به او ملحق می شوند."
-      },
-      "source": {
-        "en": "Deadline",
-        "fa": "Deadline"
-      },
-      "link": "https://deadline.com/2026/08/alison-hurbert-made-up-stories-launch-the-set-up-australia-1237044057/",
-      "date": "2026-08-19T22:15:06.550625+00:00",
-      "image": "https://deadline.com/wp-content/uploads/2026/08/The-Set-Up-execs.jpg",
       "important": false,
       "score": 3
     },
@@ -237,8 +213,32 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/josh-radnor-not-close-how-i-met-your-mother-co-stars-1237045701/",
-      "date": "2026-08-19T22:15:06.549074+00:00",
+      "date": "2026-08-19T23:14:42.604410+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/josh-radnor-how-i-met-your-mother.jpg",
+      "important": false,
+      "score": 3
+    },
+    {
+      "id": "79b0c57d9bde",
+      "title": {
+        "en": "Adèle Exarchopoulos Joins Zoë Kravitz In Apple Film From ‘My Old Ass’ Director Megan Park",
+        "fa": "ادل اگزارچوپولوس به زوئه کراویتز در فیلم اپل از کارگردان «الاغ قدیمی من» مگان پارک پیوست."
+      },
+      "excerpt": {
+        "en": "EXCLUSIVE: Adèle Exarchopoulos (Blue Is the Warmest Color) has landed a lead role opposite Zoë Kravitz in Apple’s mystery movie from My Old Ass helmer Megan Park, sources tell Deadline. No word yet on Exarchopoulos’ part. Reps for Apple declined to comment. This will mark the decorated French actress’s first American studio lead role. Park’s new film is […]",
+        "fa": "انحصاری: منابع به ددلاین می‌گویند که ادل اگزارچوپولوس نقش اصلی را در مقابل زوئه کراویتز در فیلم اسرارآمیز اپل از مگان پارک بازی کرده است. هنوز در مورد اگزارچوپولوس صحبتی نشده است. نمایندگان اپل از اظهار نظر خودداری کردند. این اولین نقش اول استودیو آمریکایی بازیگر زن فرانسوی را نشان می دهد. فیلم جدید پارک است"
+      },
+      "content": {
+        "en": "EXCLUSIVE: Adèle Exarchopoulos (Blue Is the Warmest Color) has landed a lead role opposite Zoë Kravitz in Apple’s mystery movie from My Old Ass helmer Megan Park, sources tell Deadline. No word yet on Exarchopoulos’ part. Reps for Apple declined to comment. This will mark the decorated French actress’s first American studio lead role. Park’s new film is […]",
+        "fa": "انحصاری: منابع به ددلاین می‌گویند که ادل اگزارچوپولوس نقش اصلی را در مقابل زوئه کراویتز در فیلم اسرارآمیز اپل از مگان پارک بازی کرده است. هنوز در مورد اگزارچوپولوس صحبتی نشده است. نمایندگان اپل از اظهار نظر خودداری کردند. این اولین نقش اول استودیو آمریکایی بازیگر زن فرانسوی را نشان می دهد. فیلم جدید پارک است"
+      },
+      "source": {
+        "en": "Deadline",
+        "fa": "Deadline"
+      },
+      "link": "https://deadline.com/2026/08/adele-exarchopoulos-joins-megan-park-apple-movie-1237045734/",
+      "date": "2026-08-19T23:14:42.603938+00:00",
+      "image": "https://deadline.com/wp-content/uploads/2026/08/PHOTO-2026-08-19-12-56-24.jpg",
       "important": false,
       "score": 3
     },
@@ -261,8 +261,32 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/news/trailers/wildwood-trailer-laika-1235211327/",
-      "date": "2026-08-19T22:15:06.558424+00:00",
+      "date": "2026-08-19T23:14:42.611596+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/05/WW_PrueCurtis_Still_16x9_3578x2013px_72DPI_RGB_WIDE-2.jpg?w=650",
+      "important": false,
+      "score": 1
+    },
+    {
+      "id": "61f010d3f39c",
+      "title": {
+        "en": "Indie Specialized Box Office: ‘Teenage Sex and Death at Camp Miasma’ and ‘Tony’ Nearly Tied After Expansion",
+        "fa": "باکس آفیس تخصصی Indie: «سکس و مرگ نوجوان در کمپ میاسما» و «تونی» تقریباً پس از گسترش به هم پیوستند"
+      },
+      "excerpt": {
+        "en": "The MUBI and A24 films have each grossed $1.268M while still in limited release.",
+        "fa": "فیلم‌های MUBI و A24 هر کدام ۱.۲۶۸ میلیون دلار در حالی که هنوز اکران محدودی دارند، فروش داشته‌اند."
+      },
+      "content": {
+        "en": "The MUBI and A24 films have each grossed $1.268M while still in limited release.",
+        "fa": "فیلم‌های MUBI و A24 هر کدام ۱.۲۶۸ میلیون دلار در حالی که هنوز اکران محدودی دارند، فروش داشته‌اند."
+      },
+      "source": {
+        "en": "IndieWire",
+        "fa": "IndieWire"
+      },
+      "link": "https://www.indiewire.com/news/box-office/indie-specialized-box-office-camp-miasma-tony-expansion-1235211578/",
+      "date": "2026-08-19T23:14:42.610265+00:00",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/08/MCDTESE_K3001.jpg?w=650",
       "important": false,
       "score": 1
     },
@@ -285,32 +309,32 @@
         "fa": "The Wrap"
       },
       "link": "https://www.thewrap.com/culture-lifestyle/culture/larry-david-trump-lawyer-alan-dershowitz-fight-friendship-ended/",
-      "date": "2026-08-19T22:15:06.555674+00:00",
+      "date": "2026-08-19T23:14:42.608615+00:00",
       "image": "https://www.thewrap.com/wp-content/uploads/2026/08/Larry-David-red-carpet.jpg",
       "important": false,
       "score": 1
     },
     {
-      "id": "89dad0549c10",
+      "id": "4eb7d2fc07e4",
       "title": {
-        "en": "Chris Hansen Questions “Hollywood’s Motive” With A24’s ‘Primetime’, Reacts To Robert Pattinson Casting: “I’m Going To See It”",
-        "fa": "کریس هنسن «انگیزه هالیوود» را با «Primetime» A24 زیر سوال می‌برد، به بازیگری رابرت پتینسون واکنش نشان می‌دهد: «من می‌روم آن را ببینم»"
+        "en": "Decision On Paramount’s $1.88B WBD Merger Bond Pushed Close To Ticking Fee Start Date; L.A. County Report Again Predicts Big Job Losses If Deal Goes Through",
+        "fa": "تصمیم در مورد ادغام 1.88 میلیارد دلاری اوراق قرضه WBD پارامونت به تاریخ شروع کارمزد نزدیک شد. گزارش کانتی لس آنجلس دوباره از دست دادن مشاغل بزرگ در صورت انجام معامله را پیش بینی می کند"
       },
       "excerpt": {
-        "en": "As Chris Hansen gets the A24 treatment with Primetime, he’s keeping an open mind. The former host of To Catch a Predator recently confirmed he’s “going to see” the Lance Oppenheim-helmed thriller, which stars Robert Pattinson as Hansen, after the film’s team invited him to a private screening. “We had heard that this was in […]",
-        "fa": "همانطور که کریس هنسن درمان A24 را با Primetime دریافت می کند، ذهن خود را باز نگه می دارد. مجری سابق فیلم To Catch a Predator اخیرا تایید کرده است که پس از دعوت تیم فیلم از او به یک نمایش خصوصی، فیلم هیجان انگیز لنس اوپنهایم را که رابرت پتینسون در آن نقش هنسن را بازی می کند، \"می بیند\". \"ما شنیده بودیم که این در"
+        "en": "The results of a court hearing in Oakland on Wednesday might be a little to close for comfort for Paramount and David Ellison. Additionally, the findings of a report submitted to the Los Angeles County Board of Supervisors might prove very scary in terms of potential job losses and more if the $111 billion merger […]",
+        "fa": "نتایج جلسه دادگاه در اوکلند در روز چهارشنبه ممکن است برای راحتی پارامونت و دیوید الیسون کمی بسته باشد. علاوه بر این، یافته های یک گزارش ارائه شده به هیئت نظارت شهرستان لس آنجلس ممکن است از نظر از دست دادن مشاغل بالقوه بسیار ترسناک باشد و در صورت ادغام 111 میلیارد دلاری."
       },
       "content": {
-        "en": "As Chris Hansen gets the A24 treatment with Primetime, he’s keeping an open mind. The former host of To Catch a Predator recently confirmed he’s “going to see” the Lance Oppenheim-helmed thriller, which stars Robert Pattinson as Hansen, after the film’s team invited him to a private screening. “We had heard that this was in […]",
-        "fa": "همانطور که کریس هنسن درمان A24 را با Primetime دریافت می کند، ذهن خود را باز نگه می دارد. مجری سابق فیلم To Catch a Predator اخیرا تایید کرده است که پس از دعوت تیم فیلم از او به یک نمایش خصوصی، فیلم هیجان انگیز لنس اوپنهایم را که رابرت پتینسون در آن نقش هنسن را بازی می کند، \"می بیند\". \"ما شنیده بودیم که این در"
+        "en": "The results of a court hearing in Oakland on Wednesday might be a little to close for comfort for Paramount and David Ellison. Additionally, the findings of a report submitted to the Los Angeles County Board of Supervisors might prove very scary in terms of potential job losses and more if the $111 billion merger […]",
+        "fa": "نتایج جلسه دادگاه در اوکلند در روز چهارشنبه ممکن است برای راحتی پارامونت و دیوید الیسون کمی بسته باشد. علاوه بر این، یافته های یک گزارش ارائه شده به هیئت نظارت شهرستان لس آنجلس ممکن است از نظر از دست دادن مشاغل بالقوه بسیار ترسناک باشد و در صورت ادغام 111 میلیارد دلاری."
       },
       "source": {
         "en": "Deadline",
         "fa": "Deadline"
       },
-      "link": "https://deadline.com/2026/08/chris-hansen-questions-hollywoods-motive-primetime-1237045541/",
-      "date": "2026-08-19T22:15:06.550018+00:00",
-      "image": "https://deadline.com/wp-content/uploads/2026/08/Robert-Pattinson-Primetime-Chris-Hansen-2-shot.jpg",
+      "link": "https://deadline.com/2026/08/paramount-merger-suit-bond-ruling-latest-1237045521/",
+      "date": "2026-08-19T23:14:42.604859+00:00",
+      "image": "https://deadline.com/wp-content/uploads/2025/10/lots.jpg",
       "important": false,
       "score": 1
     },
@@ -333,7 +357,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/features/interviews/jordana-brewster-fast-and-the-furious-25th-anniversary-1235210010/",
-      "date": "2026-08-19T22:15:06.558077+00:00",
+      "date": "2026-08-19T23:14:42.611193+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/2275_K01_0029.jpg?w=650",
       "important": false,
       "score": 0
@@ -357,7 +381,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/criticism/movies/tony-movie-review-anthony-bourdain-1235207248/",
-      "date": "2026-08-19T22:15:06.557877+00:00",
+      "date": "2026-08-19T23:14:42.610960+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/07/image-w1280-2.webp?w=650",
       "important": false,
       "score": 0
@@ -381,7 +405,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/features/interviews/ai-filmmaking-will-fail-james-gray-paper-tiger-director-1235211572/",
-      "date": "2026-08-19T22:15:06.557186+00:00",
+      "date": "2026-08-19T23:14:42.610155+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/GettyImages-2276688682.jpg?w=650",
       "important": false,
       "score": 0
@@ -405,7 +429,7 @@
         "fa": "The Wrap"
       },
       "link": "https://www.thewrap.com/industry-news/business/avengers-doomsday-excitement-ebbs-despite-splashy-d23-tease-chart/",
-      "date": "2026-08-19T22:15:06.556517+00:00",
+      "date": "2026-08-19T23:14:42.609601+00:00",
       "image": "https://www.thewrap.com/wp-content/uploads/2026/08/081926-TOP-TEN-MENTIONS.png",
       "important": false,
       "score": 0
@@ -429,8 +453,32 @@
         "fa": "The Wrap"
       },
       "link": "https://www.thewrap.com/commentary-analysis/columns/creatorverse-alex-cooper-unwell-uta-breakdown/",
-      "date": "2026-08-19T22:15:06.555851+00:00",
+      "date": "2026-08-19T23:14:42.608823+00:00",
       "image": "https://www.thewrap.com/wp-content/uploads/2026/08/alex-cooper.jpg",
+      "important": false,
+      "score": 0
+    },
+    {
+      "id": "0e3d3fa41f19",
+      "title": {
+        "en": "Charlie Hunnam and ‘Sons of Anarchy’ Cast to Reunite as Themselves in FX and Hulu Meta Thriller ‘Legends’",
+        "fa": "چارلی هانام و «Sons of Anarchy» بازیگران نقش خود را در FX و Hulu Meta Thriller «Legends» دوباره متحد می‌کنند."
+      },
+      "excerpt": {
+        "en": "The limited series executive produced by Rob Mac will follow the cast of \"Sons of Anarchy\" reuniting at a fan convention The post Charlie Hunnam and ‘Sons of Anarchy’ Cast to Reunite as Themselves in FX and Hulu Meta Thriller ‘Legends’ appeared first on TheWrap .",
+        "fa": "مجری سریال محدود تهیه‌شده توسط راب مک، گروه بازیگران «پسران آنارشی» را دنبال می‌کند که در یک کنوانسیون طرفداران با هم متحد می‌شوند."
+      },
+      "content": {
+        "en": "The limited series executive produced by Rob Mac will follow the cast of \"Sons of Anarchy\" reuniting at a fan convention The post Charlie Hunnam and ‘Sons of Anarchy’ Cast to Reunite as Themselves in FX and Hulu Meta Thriller ‘Legends’ appeared first on TheWrap .",
+        "fa": "مجری سریال محدود تهیه‌شده توسط راب مک، گروه بازیگران «پسران آنارشی» را دنبال می‌کند که در یک کنوانسیون طرفداران با هم متحد می‌شوند."
+      },
+      "source": {
+        "en": "The Wrap",
+        "fa": "The Wrap"
+      },
+      "link": "https://www.thewrap.com/creative-content/tv-shows/sons-of-anarchy-limited-series-legends-ordered-fx/",
+      "date": "2026-08-19T23:14:42.608027+00:00",
+      "image": "https://www.thewrap.com/wp-content/uploads/2023/05/sons-of-anarchy.jpg",
       "important": false,
       "score": 0
     },
@@ -453,128 +501,80 @@
         "fa": "The Hollywood Reporter"
       },
       "link": "https://www.hollywoodreporter.com/movies/movie-features/ana-urushadze-supporting-role-georgia-sarajevo-film-1236677153/",
-      "date": "2026-08-19T22:15:06.553796+00:00",
+      "date": "2026-08-19T23:14:42.606628+00:00",
       "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/FotoJet-2026-08-19T202546.555.jpg?w=1440&#038;h=810&#038;crop=1",
       "important": false,
       "score": 0
     },
     {
-      "id": "8ef078e2e65e",
+      "id": "09db99fc5f52",
       "title": {
-        "en": "Peacock Just Raised Its Prices — Here’s How to Get It Free With Walmart+",
-        "fa": "Peacock فقط قیمت های خود را افزایش داد - در اینجا نحوه دریافت رایگان آن با Walmart+ آمده است"
+        "en": "Jack Coleman Remembers ‘Heroes’ Co-Star Hayden Panettiere, Says He‘s “Filled With Sorrow, Regret and Anger” Over Death",
+        "fa": "جک کلمن، هیدن پانتییر، بازیگر نقش اول «قهرمانان» را به یاد می‌آورد و می‌گوید که به خاطر مرگ «پر از اندوه، پشیمانی و خشم» است."
       },
       "excerpt": {
-        "en": "Peacock just got more expensive, but Walmart+ members have a way around the latest price hike. The NBC streamer raised prices across all three of its plans on Aug. 18, with its ad-supported Peacock Premium tier jumping from $10.99 to $12.99 per month, or from $109.99 to $129.99 annually. Premium Plus, which removes most ads […]",
-        "fa": "Peacock به تازگی گران شده است، اما اعضای Walmart+ راهی برای دور زدن آخرین افزایش قیمت دارند. پخش‌کننده NBC قیمت‌ها را در هر سه طرح خود در 18 آگوست افزایش داد و ردیف Peacock Premium با پشتیبانی تبلیغات از 10.99 دلار به 12.99 دلار در ماه یا از 109.99 دلار به 129.99 دلار در سال افزایش یافت. Premium Plus که اکثر تبلیغات را حذف می کند"
+        "en": "“I love you, Hayden. I’ll miss you. I’m so sorry you suffered,“ the actor, who played the actress‘ TV dad on the NBC series.",
+        "fa": "بازیگر نقش پدر تلویزیونی بازیگر زن در سریال NBC: \"دوستت دارم هیدن. دلم برایت تنگ خواهد شد. خیلی متاسفم که رنج کشیدی.\""
       },
       "content": {
-        "en": "Peacock just got more expensive, but Walmart+ members have a way around the latest price hike. The NBC streamer raised prices across all three of its plans on Aug. 18, with its ad-supported Peacock Premium tier jumping from $10.99 to $12.99 per month, or from $109.99 to $129.99 annually. Premium Plus, which removes most ads […]",
-        "fa": "Peacock به تازگی گران شده است، اما اعضای Walmart+ راهی برای دور زدن آخرین افزایش قیمت دارند. پخش‌کننده NBC قیمت‌ها را در هر سه طرح خود در 18 آگوست افزایش داد و ردیف Peacock Premium با پشتیبانی تبلیغات از 10.99 دلار به 12.99 دلار در ماه یا از 109.99 دلار به 129.99 دلار در سال افزایش یافت. Premium Plus که اکثر تبلیغات را حذف می کند"
+        "en": "“I love you, Hayden. I’ll miss you. I’m so sorry you suffered,“ the actor, who played the actress‘ TV dad on the NBC series.",
+        "fa": "بازیگر نقش پدر تلویزیونی بازیگر زن در سریال NBC: \"دوستت دارم هیدن. دلم برایت تنگ خواهد شد. خیلی متاسفم که رنج کشیدی.\""
       },
       "source": {
-        "en": "Variety",
-        "fa": "Variety"
+        "en": "The Hollywood Reporter",
+        "fa": "The Hollywood Reporter"
       },
-      "link": "https://variety.com/2026/shopping/news/how-to-get-peacock-free-walmart-plus-1236838518/",
-      "date": "2026-08-19T22:15:06.553355+00:00",
-      "image": "https://variety.com/wp-content/uploads/2026/06/Peacock.png",
+      "link": "https://www.hollywoodreporter.com/news/general-news/jack-coleman-heroes-hayden-panettiere-tribute-1236677430/",
+      "date": "2026-08-19T23:14:42.605621+00:00",
+      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/TCDHERO_EC065.jpg?w=1296&#038;h=730&#038;crop=1",
       "important": false,
       "score": 0
     },
     {
-      "id": "3d7bd596d76d",
+      "id": "bb881cb3cd2a",
       "title": {
-        "en": "Paramount-Warner Bros. Merger Will Cost 4,500 L.A. Production Jobs, Report Finds",
-        "fa": "گزارش یافته ها، ادغام برادران پارامونت وارنر 4500 هزینه در تولید لس آنجلس دارد."
+        "en": "Doc Talk Podcast: Rebecca Miller On Her Emmy-Nominated ‘Mr. Scorsese’, A Journey Into The Mind And Mastery Of Martin Scorsese",
+        "fa": "پادکست Doc Talk: ربکا میلر در مورد نامزد امی «Mr. اسکورسیزی، سفری به ذهن و تسلط مارتین اسکورسیزی"
       },
       "excerpt": {
-        "en": "The merger of Paramount and Warner Bros. could cost about 4,500 film and TV jobs over three years, according to a new report issued by Los Angeles County. The report, prepared by CVL Economics, argues that the merger would accelerate the downturn in L.A. production, which has already cost 52,000 jobs over the last four […]",
-        "fa": "بر اساس گزارش جدید منتشر شده توسط لس آنجلس کانتی، ادغام پارامونت و برادران وارنر ممکن است طی سه سال حدود 4500 شغل در سینما و تلویزیون هزینه داشته باشد. این گزارش که توسط CVL Economics تهیه شده است، استدلال می‌کند که این ادغام رکود در تولید لس‌آنجلس را تسریع می‌کند، که در حال حاضر 52000 شغل در چهار سال گذشته هزینه داشته است."
+        "en": "Director Rebecca Miller calls Martin Scorsese “the maestro,” and who would disagree with that? Scorsese has been making cinematic masterpieces for many decades now – Taxi Driver, Raging Bull, GoodFellas, Casino, The Departed, The Wolf of Wall Street, to name only a few. Miller explores the filmmaker’s complex personality and extraordinary career in her Apple TV documentary series Mr. Scorsese, which is […]",
+        "fa": "کارگردان ربکا میلر، مارتین اسکورسیزی را \"استاد\" خطاب می کند، و چه کسی با آن مخالف است؟ اسکورسیزی چندین دهه است که در حال ساخت شاهکارهای سینمایی است - راننده تاکسی، گاو خشمگین، دوستان خوب، کازینو، جدا شده، گرگ وال استریت، فقط چند مورد را نام ببریم. میلر شخصیت پیچیده و حرفه خارق العاده فیلمساز را در مجموعه مستند اپل تی وی آقای اسکورسیزی بررسی می کند."
       },
       "content": {
-        "en": "The merger of Paramount and Warner Bros. could cost about 4,500 film and TV jobs over three years, according to a new report issued by Los Angeles County. The report, prepared by CVL Economics, argues that the merger would accelerate the downturn in L.A. production, which has already cost 52,000 jobs over the last four […]",
-        "fa": "بر اساس گزارش جدید منتشر شده توسط لس آنجلس کانتی، ادغام پارامونت و برادران وارنر ممکن است طی سه سال حدود 4500 شغل در سینما و تلویزیون هزینه داشته باشد. این گزارش که توسط CVL Economics تهیه شده است، استدلال می‌کند که این ادغام رکود در تولید لس‌آنجلس را تسریع می‌کند، که در حال حاضر 52000 شغل در چهار سال گذشته هزینه داشته است."
+        "en": "Director Rebecca Miller calls Martin Scorsese “the maestro,” and who would disagree with that? Scorsese has been making cinematic masterpieces for many decades now – Taxi Driver, Raging Bull, GoodFellas, Casino, The Departed, The Wolf of Wall Street, to name only a few. Miller explores the filmmaker’s complex personality and extraordinary career in her Apple TV documentary series Mr. Scorsese, which is […]",
+        "fa": "کارگردان ربکا میلر، مارتین اسکورسیزی را \"استاد\" خطاب می کند، و چه کسی با آن مخالف است؟ اسکورسیزی چندین دهه است که در حال ساخت شاهکارهای سینمایی است - راننده تاکسی، گاو خشمگین، دوستان خوب، کازینو، جدا شده، گرگ وال استریت، فقط چند مورد را نام ببریم. میلر شخصیت پیچیده و حرفه خارق العاده فیلمساز را در مجموعه مستند اپل تی وی آقای اسکورسیزی بررسی می کند."
       },
       "source": {
-        "en": "Variety",
-        "fa": "Variety"
+        "en": "Deadline",
+        "fa": "Deadline"
       },
-      "link": "https://variety.com/2026/film/news/paramount-warner-bros-merger-la-job-loss-production-1236838567/",
-      "date": "2026-08-19T22:15:06.552479+00:00",
-      "image": "https://variety.com/wp-content/uploads/2026/07/Paramount-Skydance.jpg",
+      "link": "https://deadline.com/2026/08/doc-talk-podcast-rebecca-miller-mr-scorsese-1237044610/",
+      "date": "2026-08-19T23:14:42.605149+00:00",
+      "image": "https://deadline.com/wp-content/uploads/2026/08/Martin-Scorsese-and-Rebecca-Millerr.jpg",
       "important": false,
       "score": 0
     },
     {
-      "id": "6cba5cab7702",
+      "id": "d8ca968a983b",
       "title": {
-        "en": "Academy Museum Fall Film Events Include ‘Marie Antoinette,’ ‘The Craft,’ ‘Pan’s Labyrinth’ – Film News in Brief",
-        "fa": "رویدادهای فیلم پاییز موزه آکادمی شامل «ماری آنتوانت»، «صنعت»، «هزارتوی پان» - اخبار فیلم به طور خلاصه"
+        "en": "‘Degree of Certainty’ Filmmaker Simon Schneider Tackles The Ironic Origins Of Climate Change Data — HollyShorts Film Festival",
+        "fa": "سایمون اشنایدر، فیلمساز «درجه یقین» با ریشه‌های طعنه‌آمیز داده‌های تغییرات اقلیمی - جشنواره فیلم هالی‌شورتس مقابله می‌کند"
       },
       "excerpt": {
-        "en": "The Academy Museum of Motion Pictures fall programming celebrates several anniversary milestones along with a focus on horror. There will be a 50th anniversary screening of “Carrie” (1976) with Sissy Spacek, a 30th anniversary screening of “The Craft” (1996) with Rachel True and Robin Tunney and a 30th anniversary screening of “Get on the Bus” […]",
-        "fa": "برنامه‌های پاییزی موزه آکادمی تصاویر متحرک چندین نقطه عطف سالگرد را همراه با تمرکز بر ترسناک جشن می‌گیرد. اکران پنجاهمین سالگرد «کری» با سیسی اسپیسک، اکران سی‌امین سالگرد «صنعت» با بازی ریچل ترو و رابین تونی و اکران سی‌امین سالگرد «سوار اتوبوس» خواهد بود."
+        "en": "In Simon Schneider’s Degree of Certainty, knowing the truth and acting on it are two very different things. Set in 1982, the 16-minute short follows Jackson Miller (Trace Guzmán), a young risk analyst at a major U.S. oil company facing mounting pressure as plunging oil prices cost the corporation millions. Looking for a way to […]",
+        "fa": "در کتاب درجه یقین اثر سایمون اشنایدر، دانستن حقیقت و عمل به آن دو چیز کاملا متفاوت هستند. این فیلم کوتاه 16 دقیقه‌ای در سال 1982 اتفاق می‌افتد، جکسون میلر، تحلیلگر ریسک جوان در یک شرکت نفتی بزرگ ایالات متحده که با فشار فزاینده‌ای مواجه می‌شود، زیرا کاهش قیمت نفت میلیون‌ها ضرر برای شرکت دارد. به دنبال راهی برای"
       },
       "content": {
-        "en": "The Academy Museum of Motion Pictures fall programming celebrates several anniversary milestones along with a focus on horror. There will be a 50th anniversary screening of “Carrie” (1976) with Sissy Spacek, a 30th anniversary screening of “The Craft” (1996) with Rachel True and Robin Tunney and a 30th anniversary screening of “Get on the Bus” […]",
-        "fa": "برنامه‌های پاییزی موزه آکادمی تصاویر متحرک چندین نقطه عطف سالگرد را همراه با تمرکز بر ترسناک جشن می‌گیرد. اکران پنجاهمین سالگرد «کری» با سیسی اسپیسک، اکران سی‌امین سالگرد «صنعت» با بازی ریچل ترو و رابین تونی و اکران سی‌امین سالگرد «سوار اتوبوس» خواهد بود."
+        "en": "In Simon Schneider’s Degree of Certainty, knowing the truth and acting on it are two very different things. Set in 1982, the 16-minute short follows Jackson Miller (Trace Guzmán), a young risk analyst at a major U.S. oil company facing mounting pressure as plunging oil prices cost the corporation millions. Looking for a way to […]",
+        "fa": "در کتاب درجه یقین اثر سایمون اشنایدر، دانستن حقیقت و عمل به آن دو چیز کاملا متفاوت هستند. این فیلم کوتاه 16 دقیقه‌ای در سال 1982 اتفاق می‌افتد، جکسون میلر، تحلیلگر ریسک جوان در یک شرکت نفتی بزرگ ایالات متحده که با فشار فزاینده‌ای مواجه می‌شود، زیرا کاهش قیمت نفت میلیون‌ها ضرر برای شرکت دارد. به دنبال راهی برای"
       },
       "source": {
-        "en": "Variety",
-        "fa": "Variety"
+        "en": "Deadline",
+        "fa": "Deadline"
       },
-      "link": "https://variety.com/2026/film/news/film-news-in-brief-august-17-1236836442/",
-      "date": "2026-08-19T22:15:06.552154+00:00",
-      "image": "https://variety.com/wp-content/uploads/2022/05/marie-antoinette.png",
-      "important": false,
-      "score": 0
-    },
-    {
-      "id": "0df82f09eb70",
-      "title": {
-        "en": "Prince Harry and Meghan Markle Moving Back to U.K. in Shock Decision",
-        "fa": "بازگشت شاهزاده هری و مگان مارکل به بریتانیا در تصمیم شوک"
-      },
-      "excerpt": {
-        "en": "Prince Harry and Meghan Markle are moving back to the U.K. with their children after living in California for the past six years, according to People. The transition back to Britain, which the outlet says will last for “an extended period,” is set to begin in the coming weeks. The Duke and Duchess of Sussex […]",
-        "fa": "به گزارش پیپل، شاهزاده هری و مگان مارکل پس از شش سال زندگی در کالیفرنیا با فرزندان خود به بریتانیا بازگشتند. انتقال دوباره به بریتانیا، که این رسانه می گوید برای \"یک دوره طولانی\" ادامه خواهد داشت، قرار است در هفته های آینده آغاز شود. دوک و دوشس ساسکس"
-      },
-      "content": {
-        "en": "Prince Harry and Meghan Markle are moving back to the U.K. with their children after living in California for the past six years, according to People. The transition back to Britain, which the outlet says will last for “an extended period,” is set to begin in the coming weeks. The Duke and Duchess of Sussex […]",
-        "fa": "به گزارش پیپل، شاهزاده هری و مگان مارکل پس از شش سال زندگی در کالیفرنیا با فرزندان خود به بریتانیا بازگشتند. انتقال دوباره به بریتانیا، که این رسانه می گوید برای \"یک دوره طولانی\" ادامه خواهد داشت، قرار است در هفته های آینده آغاز شود. دوک و دوشس ساسکس"
-      },
-      "source": {
-        "en": "Variety",
-        "fa": "Variety"
-      },
-      "link": "https://variety.com/2026/film/news/prince-harry-meghan-markle-moving-back-to-uk-1236838650/",
-      "date": "2026-08-19T22:15:06.551611+00:00",
-      "image": "https://variety.com/wp-content/uploads/2025/08/GettyImages-1685133404.jpg",
-      "important": false,
-      "score": 0
-    },
-    {
-      "id": "e03fd3117a09",
-      "title": {
-        "en": "Ariana Grande Granted Permission to Issue Expedited Subpoenas to Reveal Hacker Identities",
-        "fa": "آریانا گرانده مجوز صدور احضاریه های سریع برای افشای هویت هکرها را صادر کرد."
-      },
-      "excerpt": {
-        "en": "Ariana Grande has been granted permission to subpoena information that will help reveal the identities of anonymous hackers who allegedly leaked unreleased songs and footage from recording sessions and music videos. A Los Angeles judge approved Grande’s proposed order for expedited discovery on Tuesday, explaining that because she is unable to identify the hackers, a […]",
-        "fa": "به آریانا گرانده اجازه داده شده است تا اطلاعاتی را احضار کند که به افشای هویت هکرهای ناشناس کمک می کند که ظاهراً آهنگ ها و فیلم های منتشر نشده را از جلسات ضبط و نماهنگ ها فاش کرده اند. یک قاضی لس آنجلس دستور پیشنهادی گرانده برای کشف سریع را در روز سه شنبه تایید کرد و توضیح داد که چون او قادر به شناسایی هکرها نیست،"
-      },
-      "content": {
-        "en": "Ariana Grande has been granted permission to subpoena information that will help reveal the identities of anonymous hackers who allegedly leaked unreleased songs and footage from recording sessions and music videos. A Los Angeles judge approved Grande’s proposed order for expedited discovery on Tuesday, explaining that because she is unable to identify the hackers, a […]",
-        "fa": "به آریانا گرانده اجازه داده شده است تا اطلاعاتی را احضار کند که به افشای هویت هکرهای ناشناس کمک می کند که ظاهراً آهنگ ها و فیلم های منتشر نشده را از جلسات ضبط و نماهنگ ها فاش کرده اند. یک قاضی لس آنجلس دستور پیشنهادی گرانده برای کشف سریع را در روز سه شنبه تایید کرد و توضیح داد که چون او قادر به شناسایی هکرها نیست،"
-      },
-      "source": {
-        "en": "Variety",
-        "fa": "Variety"
-      },
-      "link": "https://variety.com/2026/music/news/ariana-grande-permitted-subpoena-reveal-hacker-identities-1236838661/",
-      "date": "2026-08-19T22:15:06.551454+00:00",
-      "image": "https://variety.com/wp-content/uploads/2026/08/GettyImages-2254668725.jpg",
+      "link": "https://deadline.com/2026/08/degree-of-uncertainty-interview-simon-schneider-1237044928/",
+      "date": "2026-08-19T23:14:42.604237+00:00",
+      "image": "https://deadline.com/wp-content/uploads/2026/08/DC1.jpg",
       "important": false,
       "score": 0
     }
