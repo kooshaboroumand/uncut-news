@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-08-19T12:26:10.853237+00:00",
+  "updated_at": "2026-08-19T13:36:57.729519+00:00",
   "count": 24,
   "news": [
+    {
+      "id": "67d588331bad",
+      "title": {
+        "en": "Jo Koy Sets Sixth Netflix Comedy Special ‘Blue In The Face’",
+        "fa": "جو کوی ششمین کمدی ویژه نتفلیکس «آبی در چهره» را تنظیم می کند"
+      },
+      "excerpt": {
+        "en": "EXCLUSIVE: Comedian Jo Koy has announced his sixth Netflix special, Blue in the Face, which will premiere globally on September 15. Filmed before a sold-out crowd at Stockton Arena, Koy’s new hour sees him relive a wild dental disaster, recount getting fired from McDonald’s, and celebrate his veteran stepdad. Check out a clip above. With Blue in the […]",
+        "fa": "اختصاصی: جو کوی، کمدین، ششمین ویژه نتفلیکس خود را با نام Blue in the Face اعلام کرده است که در 15 سپتامبر در سطح جهانی به نمایش در خواهد آمد. در ساعت جدید کوی که در استوکتون آرنا فیلمبرداری شده است، یک فاجعه دندانپزشکی وحشی را دوباره تجربه می کند، اخراج شدن از مک دونالد را بازگو می کند و قدمت را جشن می گیرد. یک کلیپ بالا را ببینید. با آبی در"
+      },
+      "content": {
+        "en": "EXCLUSIVE: Comedian Jo Koy has announced his sixth Netflix special, Blue in the Face, which will premiere globally on September 15. Filmed before a sold-out crowd at Stockton Arena, Koy’s new hour sees him relive a wild dental disaster, recount getting fired from McDonald’s, and celebrate his veteran stepdad. Check out a clip above. With Blue in the […]",
+        "fa": "اختصاصی: جو کوی، کمدین، ششمین ویژه نتفلیکس خود را با نام Blue in the Face اعلام کرده است که در 15 سپتامبر در سطح جهانی به نمایش در خواهد آمد. در ساعت جدید کوی که در استوکتون آرنا فیلمبرداری شده است، یک فاجعه دندانپزشکی وحشی را دوباره تجربه می کند، اخراج شدن از مک دونالد را بازگو می کند و قدمت را جشن می گیرد. یک کلیپ بالا را ببینید. با آبی در"
+      },
+      "source": {
+        "en": "Deadline",
+        "fa": "Deadline"
+      },
+      "link": "https://deadline.com/2026/08/jo-koy-new-netflix-special-premiere-date-blue-in-the-face-1237044411/",
+      "date": "2026-08-19T13:36:57.327511+00:00",
+      "image": "https://deadline.com/wp-content/uploads/2026/08/JKSS_2026_Unit_00967R2.jpg",
+      "important": true,
+      "score": 9
+    },
     {
       "id": "d1f656b1940b",
       "title": {
@@ -21,7 +45,7 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/sasha-buhler-netflix-director-international-film-exiting-1237045014/",
-      "date": "2026-08-19T12:26:10.427496+00:00",
+      "date": "2026-08-19T13:36:57.329984+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/Sasha-Buhler.jpg",
       "important": true,
       "score": 6
@@ -45,56 +69,32 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/nbcu-marketing-whizz-kevin-harrington-lpatrick-patrick-1237045133/",
-      "date": "2026-08-19T12:26:10.425962+00:00",
+      "date": "2026-08-19T13:36:57.328958+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/MixCollage-19-Aug-2026-01-45-PM-5913.jpg",
       "important": true,
       "score": 6
     },
     {
-      "id": "a38406f31053",
+      "id": "bb2ab1b62529",
       "title": {
-        "en": "‘The Rivals of Amziah King’ Wasn’t the Sleeper Indie Box Office Darling We Hoped",
-        "fa": "«رقبای امزیا کینگ» باکس آفیس مستقل خواب‌آلود نبود عزیزم که امیدوار بودیم"
+        "en": "Hook, AI-Powered Music Remixing App, Strikes UMG Deal as It Takes Social-Forward Approach to Fan-Created Remixes (EXCLUSIVE)",
+        "fa": "هوک، برنامه ریمیکس موسیقی مبتنی بر هوش مصنوعی، معامله UMG را به‌عنوان یک رویکرد اجتماعی رو به جلو برای ریمیکس‌های ایجاد شده توسط طرفداران انجام می‌دهد."
       },
       "excerpt": {
-        "en": "With just over $1 million from a limited release, Matthew McConaughey's return to the big screen wasn't as heralded as a strong SXSW premiere suggested.",
-        "fa": "با کمی بیش از 1 میلیون دلار از یک اکران محدود، بازگشت متیو مک‌کانهی به صفحه بزرگ آنطور که اولین نمایش قدرتمند SXSW پیشنهاد می‌شد، اعلام نشده بود."
+        "en": "In an era where AI music generation has ruptured the music industry, a social-forward music remixing app is aiming to stand out among the rest — with the help of one of the major labels. Hook, an AI-powered app where fans can create minute-long clips that remixes or mashes up a licensed artist’s track to share […]",
+        "fa": "در دوره‌ای که نسل موسیقی هوش مصنوعی صنعت موسیقی را متلاشی کرده است، یک برنامه بازمیکس موسیقی اجتماعی با کمک یکی از برچسب‌های اصلی قصد دارد در میان بقیه متمایز شود. هوک، یک برنامه مجهز به هوش مصنوعی که در آن طرفداران می‌توانند کلیپ‌های چند دقیقه‌ای ایجاد کنند که آهنگ یک هنرمند دارای مجوز را برای اشتراک‌گذاری مجددا میکس یا ترکیب می‌کند."
       },
       "content": {
-        "en": "With just over $1 million from a limited release, Matthew McConaughey's return to the big screen wasn't as heralded as a strong SXSW premiere suggested.",
-        "fa": "با کمی بیش از 1 میلیون دلار از یک اکران محدود، بازگشت متیو مک‌کانهی به صفحه بزرگ آنطور که اولین نمایش قدرتمند SXSW پیشنهاد می‌شد، اعلام نشده بود."
-      },
-      "source": {
-        "en": "IndieWire",
-        "fa": "IndieWire"
-      },
-      "link": "https://www.indiewire.com/news/box-office/rivals-amziah-king-box-office-black-bear-1235210853/",
-      "date": "2026-08-19T12:26:10.438915+00:00",
-      "image": "https://www.indiewire.com/wp-content/uploads/2025/03/the-rivals-of-amziah-king-319857_c200b9.webp?w=650",
-      "important": true,
-      "score": 4
-    },
-    {
-      "id": "9337e7fa7310",
-      "title": {
-        "en": "Catherine Zeta-Jones Thriller Series ‘Kill Jackie’ Sets October Release Date on Prime Video",
-        "fa": "سریال هیجان انگیز کاترین زتا جونز با نام Kill Jackie تاریخ اکران اکتبر را در پرایم ویدیو تعیین می کند"
-      },
-      "excerpt": {
-        "en": "Catherine Zeta-Jones’ highly anticipated thriller series, “Kill Jackie,” has set a premiere date on Prime Video. The Fremantle and Steel Springs Pictures production will release all eight episodes Oct. 2 on the streamer in the U.K., Ireland, Netherlands, Turkey, Germany, Austria, Switzerland, Liechtenstein, Luxembourg and Canada. It will also launch on the same day on AMC+ […]",
-        "fa": "سریال هیجان‌انگیز موردانتظار کاترین زتا جونز، «جکی را بکش»، تاریخ نمایش خود را در پرایم ویدیو تعیین کرده است. محصول Fremantle و Steel Springs Pictures هر هشت قسمت را در تاریخ 2 اکتبر روی استریمر در بریتانیا، ایرلند، هلند، ترکیه، آلمان، اتریش، سوئیس، لیختن اشتاین، لوکزامبورگ و کانادا منتشر خواهد کرد. همچنین در همان روز در +AMC راه اندازی خواهد شد"
-      },
-      "content": {
-        "en": "Catherine Zeta-Jones’ highly anticipated thriller series, “Kill Jackie,” has set a premiere date on Prime Video. The Fremantle and Steel Springs Pictures production will release all eight episodes Oct. 2 on the streamer in the U.K., Ireland, Netherlands, Turkey, Germany, Austria, Switzerland, Liechtenstein, Luxembourg and Canada. It will also launch on the same day on AMC+ […]",
-        "fa": "سریال هیجان‌انگیز موردانتظار کاترین زتا جونز، «جکی را بکش»، تاریخ نمایش خود را در پرایم ویدیو تعیین کرده است. محصول Fremantle و Steel Springs Pictures هر هشت قسمت را در تاریخ 2 اکتبر روی استریمر در بریتانیا، ایرلند، هلند، ترکیه، آلمان، اتریش، سوئیس، لیختن اشتاین، لوکزامبورگ و کانادا منتشر خواهد کرد. همچنین در همان روز در +AMC راه اندازی خواهد شد"
+        "en": "In an era where AI music generation has ruptured the music industry, a social-forward music remixing app is aiming to stand out among the rest — with the help of one of the major labels. Hook, an AI-powered app where fans can create minute-long clips that remixes or mashes up a licensed artist’s track to share […]",
+        "fa": "در دوره‌ای که نسل موسیقی هوش مصنوعی صنعت موسیقی را متلاشی کرده است، یک برنامه بازمیکس موسیقی اجتماعی با کمک یکی از برچسب‌های اصلی قصد دارد در میان بقیه متمایز شود. هوک، یک برنامه مجهز به هوش مصنوعی که در آن طرفداران می‌توانند کلیپ‌های چند دقیقه‌ای ایجاد کنند که آهنگ یک هنرمند دارای مجوز را برای اشتراک‌گذاری مجددا میکس یا ترکیب می‌کند."
       },
       "source": {
         "en": "Variety",
         "fa": "Variety"
       },
-      "link": "https://variety.com/2026/tv/global/catherine-zeta-jones-kill-jackie-release-date-prime-video-1236838064/",
-      "date": "2026-08-19T12:26:10.431238+00:00",
-      "image": "https://variety.com/wp-content/uploads/2026/08/Catherine-Zeta-Jones-as-Jackie-Price-_-Unai-Mateo-Fremantle-and-Steel-Springs-Pictures-2026-1.jpg",
+      "link": "https://variety.com/2026/digital/news/hook-ai-powered-music-remixing-app-strikes-umg-deal-1236838121/",
+      "date": "2026-08-19T13:36:57.332282+00:00",
+      "image": "https://variety.com/wp-content/uploads/2026/08/hook-x-umg-horizontal-1.png",
       "important": true,
       "score": 4
     },
@@ -102,7 +102,7 @@
       "id": "5b6c016e10ba",
       "title": {
         "en": "SXSW 2027 Shifts Film Premieres from Paramount Theatre to ACL Live, Adds Podcast Festival",
-        "fa": "جشنواره پادکست SXSW 2027 اولین نمایش فیلم را از سالن پارامونت به ACL Live تغییر می‌دهد"
+        "fa": "جشنواره پادکست SXSW 2027 اولین نمایش فیلم را از تئاتر پارامونت به ACL Live تغییر می‌دهد"
       },
       "excerpt": {
         "en": "The multidisciplinary festival continues to navigate a series of renovations to its most iconic venues.",
@@ -117,7 +117,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/news/festivals/sxsw-2027-venue-changes-podcast-festival-1235211013/",
-      "date": "2026-08-19T12:26:10.438334+00:00",
+      "date": "2026-08-19T13:36:57.339490+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/03-14-26_Over_Your_Dead_Body_Chris_Saucedo-40.jpg?w=650",
       "important": false,
       "score": 3
@@ -141,7 +141,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/news/festivals/nyff-2026-revivals-ken-russell-the-devils-1235210928/",
-      "date": "2026-08-19T12:26:10.438238+00:00",
+      "date": "2026-08-19T13:36:57.339392+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/57097357-4bf5-4f7f-9db5-43513d5746bc.jpeg?w=650",
       "important": false,
       "score": 3
@@ -165,7 +165,7 @@
         "fa": "The Wrap"
       },
       "link": "https://www.thewrap.com/industry-news/public-policy-legal/band-demon-hunter-sues-netflix-aeg-over-kpop-demon-hunters-trademark/",
-      "date": "2026-08-19T12:26:10.434582+00:00",
+      "date": "2026-08-19T13:36:57.337272+00:00",
       "image": "https://www.thewrap.com/wp-content/uploads/2026/08/Untitled-design-2026-08-18T214329.905.jpg",
       "important": false,
       "score": 3
@@ -189,7 +189,7 @@
         "fa": "The Hollywood Reporter"
       },
       "link": "https://www.hollywoodreporter.com/movies/movie-news/brad-pitt-exec-producer-on-wim-wenders-peter-zumthor-doc-1236676826/",
-      "date": "2026-08-19T12:26:10.433373+00:00",
+      "date": "2026-08-19T13:36:57.335909+00:00",
       "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/GettyImages-2221770051.jpg?crop=0px%2C29px%2C3000px%2C1679px&#038;resize=1440%2C810",
       "important": false,
       "score": 3
@@ -213,32 +213,56 @@
         "fa": "Variety"
       },
       "link": "https://variety.com/2026/film/reviews/northbound-review-bruce-dern-1236836684/",
-      "date": "2026-08-19T12:26:10.429915+00:00",
+      "date": "2026-08-19T13:36:57.333688+00:00",
       "image": "https://variety.com/wp-content/uploads/2026/08/Northbound2_bf5891.jpg",
       "important": false,
       "score": 3
     },
     {
-      "id": "7ab85008fed7",
+      "id": "6d1ed12c1ad7",
       "title": {
-        "en": "Hulu Buys ‘The Promise: Finding My Mother’s Killer’ & Australia Drama ‘Invisible Boys’",
-        "fa": "Hulu خرید «وعده: پیدا کردن قاتل مادرم» و درام استرالیایی «پسران نامرئی»"
+        "en": "Estúdios Globo to Produce Feature ‘Macacos,’ Based on Clayton Nascimento’s Play (EXCLUSIVE)",
+        "fa": "Estúdios Globo فیلم «Macacos» را بر اساس نمایشنامه کلایتون ناسیمنتو تولید خواهد کرد."
       },
       "excerpt": {
-        "en": "EXCLUSIVE: Hulu is on the hunt for a killer in its latest true-crime series. The Disney streamer has become the first buyer to board true-crime doc The Promise: Finding My Mother’s Killer from Banijay Rights and also acquired Australian LQBT drama series Invisible Boys from the London-based distributor. The Promise comes from Workerbee, which is […]",
-        "fa": "اختصاصی: Hulu در آخرین سریال جنایی واقعی خود به دنبال یک قاتل است. استریمر دیزنی اولین خریدار است که بر روی مستند جنایت واقعی The Promise: Finding My Mother's Killer از Banijay Rights وارد شده است و همچنین سریال درام استرالیایی LQBT پسران نامرئی را از توزیع کننده مستقر در لندن خریداری کرده است. Promise از Workerbee می آید، که این است"
+        "en": "GRAMADO, Brazil — Local media giant Globo’s Estúdios Globo will produce feature film “Macacos” (“Monkeys”), based on a play of Clayton Nascimento, and telefilm “Os Tatuyos,” as part of the company’s ambitious Brazilian film production expansion, according to Amauri Soares, director of TV Globo and Estúdios Globo. “Macacos” is in the development stage and will […]",
+        "fa": "گرامادو، برزیل - به گفته آمائوری سوآرس، مدیر تی وی گلو بولوست، غول رسانه ای محلی Globo's Estúdios Globo، فیلم بلند «Macacos» را بر اساس نمایشنامه ای از کلایتون ناسیمنتو و تله فیلم «Os Tatuyos» را به عنوان بخشی از توسعه جاه طلبانه فیلم برزیلی این شرکت تولید خواهد کرد. \"ماکاکو\" در مرحله توسعه است و اراده خواهد کرد"
       },
       "content": {
-        "en": "EXCLUSIVE: Hulu is on the hunt for a killer in its latest true-crime series. The Disney streamer has become the first buyer to board true-crime doc The Promise: Finding My Mother’s Killer from Banijay Rights and also acquired Australian LQBT drama series Invisible Boys from the London-based distributor. The Promise comes from Workerbee, which is […]",
-        "fa": "اختصاصی: Hulu در آخرین سریال جنایی واقعی خود به دنبال یک قاتل است. استریمر دیزنی اولین خریدار است که بر روی مستند جنایت واقعی The Promise: Finding My Mother's Killer از Banijay Rights وارد شده است و همچنین سریال درام استرالیایی LQBT پسران نامرئی را از توزیع کننده مستقر در لندن خریداری کرده است. Promise از Workerbee می آید، که این است"
+        "en": "GRAMADO, Brazil — Local media giant Globo’s Estúdios Globo will produce feature film “Macacos” (“Monkeys”), based on a play of Clayton Nascimento, and telefilm “Os Tatuyos,” as part of the company’s ambitious Brazilian film production expansion, according to Amauri Soares, director of TV Globo and Estúdios Globo. “Macacos” is in the development stage and will […]",
+        "fa": "گرامادو، برزیل - به گفته آمائوری سوآرس، مدیر تی وی گلو بولوست، غول رسانه ای محلی Globo's Estúdios Globo، فیلم بلند «Macacos» را بر اساس نمایشنامه ای از کلایتون ناسیمنتو و تله فیلم «Os Tatuyos» را به عنوان بخشی از توسعه جاه طلبانه فیلم برزیلی این شرکت تولید خواهد کرد. \"ماکاکو\" در مرحله توسعه است و اراده خواهد کرد"
       },
       "source": {
-        "en": "Deadline",
-        "fa": "Deadline"
+        "en": "Variety",
+        "fa": "Variety"
       },
-      "link": "https://deadline.com/2026/08/hulu-buys-promise-finding-my-mothers-killer-invisible-boys-1237044117/",
-      "date": "2026-08-19T12:26:10.429554+00:00",
-      "image": "https://deadline.com/wp-content/uploads/2026/08/The-Promise_HORIZONTAL.png",
+      "link": "https://variety.com/2026/film/global/globo-produces-macacos-based-clayton-nascimento-play-1236838109/",
+      "date": "2026-08-19T13:36:57.333240+00:00",
+      "image": "https://variety.com/wp-content/uploads/2026/08/Antartida-Lazaro-Ramos.-Credit-Fabio-Rocha-Globo.jpg",
+      "important": false,
+      "score": 3
+    },
+    {
+      "id": "855c1810c7a8",
+      "title": {
+        "en": "Bloomberg Media Sets Interview Series ‘Post Credits’ Hosted by Ian Schafer (EXCLUSIVE)",
+        "fa": "مجموعه‌های رسانه‌ای بلومبرگ مجموعه‌های مصاحبه «اعتبارات پست» به میزبانی ایان شفر"
+      },
+      "excerpt": {
+        "en": "Variety has learned exclusively that Bloomberg Media is launching a new conversational series titled “Post Credits” with host Ian Schafer. The series hails from Ensemble, a Hoorae Media Company, of which Schafer is the co-founder and president. The show will feature conversations with creators, executives, entrepreneurs and cultural leaders about the intersection of the creator […]",
+        "fa": "ورایتی به طور انحصاری دریافته است که رسانه بلومبرگ در حال راه اندازی یک مجموعه مکالمه جدید با عنوان \"اعتبارات پست\" با میزبان ایان شفر است. این سریال متعلق به Ensemble است، یک شرکت رسانه ای هورا، که شفر یکی از بنیانگذاران و رئیس آن است. این نمایش با سازندگان، مدیران اجرایی، کارآفرینان و رهبران فرهنگی درباره تقاطع خالق گفتگو خواهد داشت."
+      },
+      "content": {
+        "en": "Variety has learned exclusively that Bloomberg Media is launching a new conversational series titled “Post Credits” with host Ian Schafer. The series hails from Ensemble, a Hoorae Media Company, of which Schafer is the co-founder and president. The show will feature conversations with creators, executives, entrepreneurs and cultural leaders about the intersection of the creator […]",
+        "fa": "ورایتی به طور انحصاری دریافته است که رسانه بلومبرگ در حال راه اندازی یک مجموعه مکالمه جدید با عنوان \"اعتبارات پست\" با میزبان ایان شفر است. این سریال متعلق به Ensemble است، یک شرکت رسانه ای هورا، که شفر یکی از بنیانگذاران و رئیس آن است. این نمایش با سازندگان، مدیران اجرایی، کارآفرینان و رهبران فرهنگی درباره تقاطع خالق گفتگو خواهد داشت."
+      },
+      "source": {
+        "en": "Variety",
+        "fa": "Variety"
+      },
+      "link": "https://variety.com/2026/tv/news/bloomberg-media-post-credits-ian-schafer-1236837684/",
+      "date": "2026-08-19T13:36:57.332936+00:00",
+      "image": "https://variety.com/wp-content/uploads/2026/08/Ian_Schafer_202549-e1787085924651.jpg",
       "important": false,
       "score": 3
     },
@@ -261,7 +285,7 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/sidemen-nfts-training-unscripted-producers-uk-1237044990/",
-      "date": "2026-08-19T12:26:10.429074+00:00",
+      "date": "2026-08-19T13:36:57.331343+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/Sidemen.jpg",
       "important": false,
       "score": 3
@@ -274,18 +298,18 @@
       },
       "excerpt": {
         "en": "There’s a third chapter coming for Gabriel Book. Mark Gatiss’s cozy crime drama, Bookish, has landed a Season 3 order at UKTV’s U&Alibi channel, and a two-part Christmas special for this year. The third season will run to six episodes and is set to launch in 2027. Bookish: The Crown of Destiny, the festive special, […]",
-        "fa": "فصل سومی برای کتاب گابریل در راه است. درام جنایی دنج مارک گیتیس، Bookish، سفارش فصل 3 را در کانال U&Alibi UKTV و یک ویژه کریسمس دو قسمتی برای امسال دریافت کرد. فصل سوم شش قسمت خواهد بود و قرار است در سال 2027 پخش شود. Bookish: The Crown of Destiny، ویژه جشن،"
+        "fa": "فصل سومی برای کتاب گابریل در راه است. درام جنایی دنج مارک گیتیس، Bookish، سفارش فصل 3 را در کانال U&Alibi UKTV و یک ویژه دو قسمتی کریسمس برای امسال دریافت کرد. فصل سوم شش قسمت خواهد بود و قرار است در سال 2027 پخش شود. Bookish: The Crown of Destiny، ویژه جشن،"
       },
       "content": {
         "en": "There’s a third chapter coming for Gabriel Book. Mark Gatiss’s cozy crime drama, Bookish, has landed a Season 3 order at UKTV’s U&Alibi channel, and a two-part Christmas special for this year. The third season will run to six episodes and is set to launch in 2027. Bookish: The Crown of Destiny, the festive special, […]",
-        "fa": "فصل سومی برای کتاب گابریل در راه است. درام جنایی دنج مارک گیتیس، Bookish، سفارش فصل 3 را در کانال U&Alibi UKTV و یک ویژه کریسمس دو قسمتی برای امسال دریافت کرد. فصل سوم شش قسمت خواهد بود و قرار است در سال 2027 پخش شود. Bookish: The Crown of Destiny، ویژه جشن،"
+        "fa": "فصل سومی برای کتاب گابریل در راه است. درام جنایی دنج مارک گیتیس، Bookish، سفارش فصل 3 را در کانال U&Alibi UKTV و یک ویژه دو قسمتی کریسمس برای امسال دریافت کرد. فصل سوم شش قسمت خواهد بود و قرار است در سال 2027 پخش شود. Bookish: The Crown of Destiny، ویژه جشن،"
       },
       "source": {
         "en": "Deadline",
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/bookish-season-3-festive-special-mark-gatiss-drama-1237045024/",
-      "date": "2026-08-19T12:26:10.428767+00:00",
+      "date": "2026-08-19T13:36:57.331056+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/Bookish-e1787129549682.jpg",
       "important": false,
       "score": 3
@@ -309,8 +333,32 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/chulpan-khamatova-star-in-alexander-molochnikov-extremists-1237045109/",
-      "date": "2026-08-19T12:26:10.426952+00:00",
+      "date": "2026-08-19T13:36:57.329478+00:00",
       "image": "https://deadline.com/wp-content/uploads/2022/03/MEGA770748_013-e1648305269612.jpg",
+      "important": false,
+      "score": 3
+    },
+    {
+      "id": "7671b7313888",
+      "title": {
+        "en": "Zero Gravity Management Signs Horror Director Alex Kahuam",
+        "fa": "الکس کاهوم کارگردان ترسناک مدیریت جاذبه صفر نشانه ها"
+      },
+      "excerpt": {
+        "en": "EXCLUSIVE: Alex Kahuam, director of Failure! and The Remedy, has signed with Zero Gravity Management. The Mexican filmmaker, who is best known for his work in the indie horror features space, will be represented by Zero Gravity’s David Romero. Kahuam was the writer and director of Tallinn Black Nights pic Failure! and Forgiveness, which screened […]",
+        "fa": "اختصاصی: الکس کاهوم، کارگردان فیلم Failure! و The Remedy با Zero Gravity Management قرارداد امضا کرده است. این فیلمساز مکزیکی که بیشتر به خاطر آثارش در فضای ترسناک مستقل شناخته می شود، توسط دیوید رومرو از Zero Gravity نماینده خواهد شد. کاهوم نویسنده و کارگردان فیلم شکست شب های سیاه تالین بود! و بخشش که نمایش داده شد"
+      },
+      "content": {
+        "en": "EXCLUSIVE: Alex Kahuam, director of Failure! and The Remedy, has signed with Zero Gravity Management. The Mexican filmmaker, who is best known for his work in the indie horror features space, will be represented by Zero Gravity’s David Romero. Kahuam was the writer and director of Tallinn Black Nights pic Failure! and Forgiveness, which screened […]",
+        "fa": "اختصاصی: الکس کاهوم، کارگردان فیلم Failure! و The Remedy با Zero Gravity Management قرارداد امضا کرده است. این فیلمساز مکزیکی که بیشتر به خاطر آثارش در فضای ترسناک مستقل شناخته می شود، توسط دیوید رومرو از Zero Gravity نماینده خواهد شد. کاهوم نویسنده و کارگردان فیلم شکست شب های سیاه تالین بود! و بخشش که نمایش داده شد"
+      },
+      "source": {
+        "en": "Deadline",
+        "fa": "Deadline"
+      },
+      "link": "https://deadline.com/2026/08/zero-gravity-management-signs-alex-kahuam-1237045046/",
+      "date": "2026-08-19T13:36:57.328604+00:00",
+      "image": "https://deadline.com/wp-content/uploads/2026/08/Alex-Kahuam-e1787130767388.jpg",
       "important": false,
       "score": 3
     },
@@ -333,8 +381,32 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/awards/industry/sean-baker-samantha-quan-chair-academy-marquee-theater-list-1235211131/",
-      "date": "2026-08-19T12:26:10.437906+00:00",
+      "date": "2026-08-19T13:36:57.339100+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/P10ZCQ5.jpg?w=650",
+      "important": false,
+      "score": 1
+    },
+    {
+      "id": "e46e0cac0726",
+      "title": {
+        "en": "Warner Bros.’ Box Office Cold Streak Continues",
+        "fa": "فیلم سرد باکس آفیس برادران وارنر ادامه دارد"
+      },
+      "excerpt": {
+        "en": "Reel to Real: \"The End of Oak Street\" marks the latest disappointing release from the studio after its red-hot 2025 The post Warner Bros.’ Box Office Cold Streak Continues appeared first on TheWrap .",
+        "fa": "Reel to Real: \"The End of Oak Street\" آخرین نسخه ناامید کننده استودیو را پس از داغ سال 2025 نشان می دهد."
+      },
+      "content": {
+        "en": "Reel to Real: \"The End of Oak Street\" marks the latest disappointing release from the studio after its red-hot 2025 The post Warner Bros.’ Box Office Cold Streak Continues appeared first on TheWrap .",
+        "fa": "Reel to Real: \"The End of Oak Street\" آخرین نسخه ناامید کننده استودیو را پس از داغ سال 2025 نشان می دهد."
+      },
+      "source": {
+        "en": "The Wrap",
+        "fa": "The Wrap"
+      },
+      "link": "https://www.thewrap.com/creative-content/movies/warner-bros-box-office-cold-streak-end-of-oak-street/",
+      "date": "2026-08-19T13:36:57.336267+00:00",
+      "image": "https://www.thewrap.com/wp-content/uploads/2026/08/the-end-of-oak-street-ewan-mcgregor.jpg",
       "important": false,
       "score": 1
     },
@@ -357,32 +429,32 @@
         "fa": "The Hollywood Reporter"
       },
       "link": "https://www.hollywoodreporter.com/movies/movie-features/sandra-wollner-everytime-sarajevo-film-festival-competition-1236676154/",
-      "date": "2026-08-19T12:26:10.433144+00:00",
+      "date": "2026-08-19T13:36:57.335711+00:00",
       "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/FotoJet-2026-08-19T090718.984.jpg?w=1440&#038;h=810&#038;crop=1",
       "important": false,
       "score": 1
     },
     {
-      "id": "d4e38094ce10",
+      "id": "33a9ef4c0148",
       "title": {
-        "en": "‘Club Kid’ Trailer: Jordan Firstman Is a Party Promoter With a Surprise Son in His A24 Cannes Sensation",
-        "fa": "تریلر «Club Kid»: Jordan Firstman یک تبلیغ کننده مهمانی با پسری سورپرایز در فیلم A24 Cannes Sensation است"
+        "en": "‘Wildwood’ Trailer: Carey Mulligan Voices a Grieving Mother Ready to Tear Apart an Enchanted Forest in New Laika Stop-Motion Film",
+        "fa": "تریلر «Wildwood»: کری مولیگان صدای یک مادر غمگین را می گوید که آماده است جنگلی مسحور شده را در فیلم جدید لایکا استاپ موشن جدا کند."
       },
       "excerpt": {
-        "en": "After making a splash at this year’s Cannes Film Festival — and sparking a studio bidding war that culminated in a $17 million sale from A24 — Jordan Firstman’s film “Club Kid” has its first trailer. Firstman wrote and directed the film, which stars Cara Delevingne, Diego Calva, Kirby Howell-Baptiste and Reggie Absolom. It follows […]",
-        "fa": "پس از سر و صدا در جشنواره فیلم کن امسال - و جرقه جنگ پیشنهادات استودیویی که با فروش 17 میلیون دلاری A24 به اوج خود رسید - فیلم «کلاب بچه» ساخته جردن فرستمن اولین تریلر خود را منتشر کرد. Firstman این فیلم را نوشته و کارگردانی کرده است که در آن کارا دلوین، دیگو کالوا، کربی هاول-باپتیست و رجی ابسولوم ایفای نقش می کنند. به دنبال دارد"
+        "en": "After six years, Laika is back with a new stop-motion animated film. In the new trailer for “Wildwood,” a young girl named Prue (Peyton Elizabeth Lee) launches a desperate rescue mission, joined by her classmate Curtis (Jacob Tremblay), to save her baby brother from a murder of crows. It’s a quest that takes her into […]",
+        "fa": "پس از شش سال، لایکا با یک انیمیشن جدید استاپ موشن بازگشته است. در تریلر جدید «Wildwood»، دختری جوان به نام پرو یک ماموریت نجات ناامیدانه را آغاز می‌کند و همکلاسی‌اش کورتیس به او ملحق می‌شود تا برادر بچه‌اش را از قتل کلاغ‌ها نجات دهد. این تلاشی است که او را به درون می برد"
       },
       "content": {
-        "en": "After making a splash at this year’s Cannes Film Festival — and sparking a studio bidding war that culminated in a $17 million sale from A24 — Jordan Firstman’s film “Club Kid” has its first trailer. Firstman wrote and directed the film, which stars Cara Delevingne, Diego Calva, Kirby Howell-Baptiste and Reggie Absolom. It follows […]",
-        "fa": "پس از سر و صدا در جشنواره فیلم کن امسال - و جرقه جنگ پیشنهادات استودیویی که با فروش 17 میلیون دلاری A24 به اوج خود رسید - فیلم «کلاب بچه» ساخته جردن فرستمن اولین تریلر خود را منتشر کرد. Firstman این فیلم را نوشته و کارگردانی کرده است که در آن کارا دلوین، دیگو کالوا، کربی هاول-باپتیست و رجی ابسولوم ایفای نقش می کنند. به دنبال دارد"
+        "en": "After six years, Laika is back with a new stop-motion animated film. In the new trailer for “Wildwood,” a young girl named Prue (Peyton Elizabeth Lee) launches a desperate rescue mission, joined by her classmate Curtis (Jacob Tremblay), to save her baby brother from a murder of crows. It’s a quest that takes her into […]",
+        "fa": "پس از شش سال، لایکا با یک انیمیشن جدید استاپ موشن بازگشته است. در تریلر جدید «Wildwood»، دختری جوان به نام پرو یک ماموریت نجات ناامیدانه را آغاز می‌کند و همکلاسی‌اش کورتیس به او ملحق می‌شود تا برادر بچه‌اش را از قتل کلاغ‌ها نجات دهد. این تلاشی است که او را به درون می برد"
       },
       "source": {
         "en": "Variety",
         "fa": "Variety"
       },
-      "link": "https://variety.com/2026/film/news/club-kid-trailer-a24-jordan-firstman-cannes-1236837607/",
-      "date": "2026-08-19T12:26:10.430777+00:00",
-      "image": "https://variety.com/wp-content/uploads/2026/08/club.png",
+      "link": "https://variety.com/2026/film/news/wildwood-trailer-new-stopmotion-laika-film-1236837290/",
+      "date": "2026-08-19T13:36:57.333362+00:00",
+      "image": "https://variety.com/wp-content/uploads/2026/08/1e795f68-9513-11f1-b569-1e077de57b30_WW_PrueGeneral_2048x858px_RGB_1909ed0a-2.jpg",
       "important": false,
       "score": 1
     },
@@ -405,8 +477,32 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/the-beatles-apple-corps-universal-music-group-partnership-1237045043/",
-      "date": "2026-08-19T12:26:10.428581+00:00",
+      "date": "2026-08-19T13:36:57.330908+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/img-3ff6ebaa-058a-481e-a5b4-0ff5f2a535cc-e1787130881174.jpeg",
+      "important": false,
+      "score": 1
+    },
+    {
+      "id": "7070a454997a",
+      "title": {
+        "en": "‘Club Kid’ Trailer: Jordan Firstman Is A Messy Father In His Buzzy Directorial Debut",
+        "fa": "تریلر «Club Kid»: جردن فرستمن پدری آشفته در اولین کارگردانی پر سر و صدا است"
+      },
+      "excerpt": {
+        "en": "Here’s the first trailer for Jordan Firstman’s buzzy feature debut, Club Kid. A24, which acquired the film out of Cannes, will place the title in a limited theatrical release from Nov. 6. The movie follows Firstman as a hard-partying New York City club promoter whose life is upended by the arrival of the 10-year-old son […]",
+        "fa": "این اولین تریلر اولین فیلم پرهیاهوی جردن فرستمن، کلاب کید است. A24 که این فیلم را از کن خریداری کرد، این عنوان را در یک اکران محدود سینما از 6 نوامبر قرار خواهد داد. فیلم Firstman را به عنوان یک مروج باشگاه نیویورک سیتی دنبال می کند که زندگی اش با آمدن پسر 10 ساله به هم می ریزد."
+      },
+      "content": {
+        "en": "Here’s the first trailer for Jordan Firstman’s buzzy feature debut, Club Kid. A24, which acquired the film out of Cannes, will place the title in a limited theatrical release from Nov. 6. The movie follows Firstman as a hard-partying New York City club promoter whose life is upended by the arrival of the 10-year-old son […]",
+        "fa": "این اولین تریلر اولین فیلم پرهیاهوی جردن فرستمن، کلاب کید است. A24 که این فیلم را از کن خریداری کرد، این عنوان را در یک اکران محدود سینما از 6 نوامبر قرار خواهد داد. فیلم Firstman را به عنوان یک مروج باشگاه نیویورک سیتی دنبال می کند که زندگی اش با آمدن پسر 10 ساله به هم می ریزد."
+      },
+      "source": {
+        "en": "Deadline",
+        "fa": "Deadline"
+      },
+      "link": "https://deadline.com/2026/08/club-kid-trailer-jordan-firstman-a24-1237045141/",
+      "date": "2026-08-19T13:36:57.328740+00:00",
+      "image": "https://deadline.com/wp-content/uploads/2026/05/Club-Kid_Credit-Adam-Newport-Berra.jpg",
       "important": false,
       "score": 1
     },
@@ -429,7 +525,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/awards/industry/independent-spirit-awards-categories-creators-international-1235211062/",
-      "date": "2026-08-19T12:26:10.438544+00:00",
+      "date": "2026-08-19T13:36:57.339745+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/P10442BC.jpg?w=650",
       "important": false,
       "score": 0
@@ -453,32 +549,8 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/news/festivals/fantastic-fest-2026-lineup-resident-evil-carrie-1235210870/",
-      "date": "2026-08-19T12:26:10.438128+00:00",
+      "date": "2026-08-19T13:36:57.339294+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/RESIDENT_EVIL_Still.jpg?w=650",
-      "important": false,
-      "score": 0
-    },
-    {
-      "id": "9ab41b71d5f7",
-      "title": {
-        "en": "Cinemark Joins Regal and AMC in Supporting Paramount-Warner Bros. Merger as Movie Theaters’ Opposition Crumbles",
-        "fa": "Cinemark به Regal و AMC در حمایت از ادغام برادران پارامونت-وارنر در حالی که مخالفت سینماها در حال فروپاشی است می‌پیوندد."
-      },
-      "excerpt": {
-        "en": "The three largest exhibitors are signing up for David Ellison's vision in a blow to critics.",
-        "fa": "سه غرفه‌دار بزرگ در حال ثبت نام برای دیدگاه دیوید الیسون در ضربه‌ای به منتقدان هستند."
-      },
-      "content": {
-        "en": "The three largest exhibitors are signing up for David Ellison's vision in a blow to critics.",
-        "fa": "سه غرفه‌دار بزرگ در حال ثبت نام برای دیدگاه دیوید الیسون در ضربه‌ای به منتقدان هستند."
-      },
-      "source": {
-        "en": "IndieWire",
-        "fa": "IndieWire"
-      },
-      "link": "https://www.indiewire.com/news/business/cinemark-regal-amc-support-paramount-warner-bros-merger-1235211181/",
-      "date": "2026-08-19T12:26:10.437686+00:00",
-      "image": "https://www.indiewire.com/wp-content/uploads/2024/08/GettyImages-2163358707.jpg?w=650",
       "important": false,
       "score": 0
     },
@@ -501,80 +573,8 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/awards/consider-this/widows-bay-kate-oflynn-patricia-weirdo-interview-1235210474/",
-      "date": "2026-08-19T12:26:10.437477+00:00",
+      "date": "2026-08-19T13:36:57.338731+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/GettyImages-2289884113.jpg?w=650",
-      "important": false,
-      "score": 0
-    },
-    {
-      "id": "d41cbb4ab96f",
-      "title": {
-        "en": "Early YouTube Pioneer Felicia Day’s ‘The Guild’ Movie Is About to Break a Kickstarter Record",
-        "fa": "فیلم The Guild از پیشگامان یوتیوب Felicia Day در آستانه شکستن یک رکورد کیک استارتر"
-      },
-      "excerpt": {
-        "en": "\"The Guild\" was one of the first breakout web series on YouTube in 2007. Now, Felicia Day and friends are bringing it back, and it's already one of the most successful film Kickstarters of all time.",
-        "fa": "«The Guild» یکی از اولین سریال‌های وب پرفروش در YouTube در سال 2007 بود. اکنون، Felicia Day و دوستانش آن را برمی‌گردانند، و در حال حاضر یکی از موفق‌ترین فیلم‌های Kickstarter در تمام دوران است."
-      },
-      "content": {
-        "en": "\"The Guild\" was one of the first breakout web series on YouTube in 2007. Now, Felicia Day and friends are bringing it back, and it's already one of the most successful film Kickstarters of all time.",
-        "fa": "«The Guild» یکی از اولین سریال‌های وب پرفروش در YouTube در سال 2007 بود. اکنون، Felicia Day و دوستانش آن را برمی‌گردانند، و در حال حاضر یکی از موفق‌ترین فیلم‌های Kickstarter در تمام دوران است."
-      },
-      "source": {
-        "en": "IndieWire",
-        "fa": "IndieWire"
-      },
-      "link": "https://www.indiewire.com/features/craft/the-guild-ren-faired-felicia-day-kickstarter-interview-1235211080/",
-      "date": "2026-08-19T12:26:10.437326+00:00",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/08/Screenshot-2026-08-18-at-10.35.18.png?w=650",
-      "important": false,
-      "score": 0
-    },
-    {
-      "id": "bd37b3300be9",
-      "title": {
-        "en": "Disney and ABC Pushing Back on the Trump FCC Is a Sneaky, Low-Risk Move That Could Make Them Look Like Heroes",
-        "fa": "عقب نشینی دیزنی و ABC به FCC ترامپ یک حرکت ابلهانه و کم خطر است که می تواند آنها را شبیه به قهرمانان کند."
-      },
-      "excerpt": {
-        "en": "Disney and ABC sued the federal government Tuesday, accusing it of violating Disney's free speech rights, a response to threats over Jimmy Kimmel, \"The View,\" and ABC News.",
-        "fa": "دیزنی و ABC روز سه شنبه از دولت فدرال شکایت کردند و آن را به نقض حقوق آزادی بیان دیزنی، پاسخی به تهدیدهای جیمی کیمل، \"نما\" و ABC News متهم کردند."
-      },
-      "content": {
-        "en": "Disney and ABC sued the federal government Tuesday, accusing it of violating Disney's free speech rights, a response to threats over Jimmy Kimmel, \"The View,\" and ABC News.",
-        "fa": "دیزنی و ABC روز سه شنبه از دولت فدرال شکایت کردند و آن را به نقض حقوق آزادی بیان دیزنی، پاسخی به تهدیدهای جیمی کیمل، \"نما\" و ABC News متهم کردند."
-      },
-      "source": {
-        "en": "IndieWire",
-        "fa": "IndieWire"
-      },
-      "link": "https://www.indiewire.com/news/business/abc-pushing-back-trump-fcc-lawsuit-analysis-1235211108/",
-      "date": "2026-08-19T12:26:10.437067+00:00",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/03/GettyImages-2262359610.jpg?w=650",
-      "important": false,
-      "score": 0
-    },
-    {
-      "id": "b8361f26f3b1",
-      "title": {
-        "en": "Anne Hathaway “Pushed Really Hard” Trying to Get Julie Andrews to Return for ‘Princess Diaries 3’",
-        "fa": "آن هاتاوی «واقعاً سخت فشار آورد» در تلاش برای بازگشت جولی اندروز برای «خاطرات پرنسس 3»"
-      },
-      "excerpt": {
-        "en": "'The Sound of Music' star recently told The Hollywood Reporter that she doesn't \"think I should be a part of\" the upcoming film.",
-        "fa": "ستاره «صدای موسیقی» اخیراً به هالیوود ریپورتر گفته است که «فکر نمی‌کند من باید بخشی از» فیلم آینده باشم."
-      },
-      "content": {
-        "en": "'The Sound of Music' star recently told The Hollywood Reporter that she doesn't \"think I should be a part of\" the upcoming film.",
-        "fa": "ستاره «صدای موسیقی» اخیراً به هالیوود ریپورتر گفته است که «فکر نمی‌کند من باید بخشی از» فیلم آینده باشم."
-      },
-      "source": {
-        "en": "The Hollywood Reporter",
-        "fa": "The Hollywood Reporter"
-      },
-      "link": "https://www.hollywoodreporter.com/movies/movie-news/anne-hathaway-pushed-julie-andrews-return-princess-diaries-3-1236676722/",
-      "date": "2026-08-19T12:26:10.434276+00:00",
-      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/Princess-Diaries-2-everett-H-2026.png?w=1296&#038;h=730&#038;crop=1",
       "important": false,
       "score": 0
     }
