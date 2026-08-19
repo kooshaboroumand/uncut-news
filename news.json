@@ -1,31 +1,7 @@
 {
-  "updated_at": "2026-08-19T21:17:26.843829+00:00",
+  "updated_at": "2026-08-19T22:15:06.761027+00:00",
   "count": 24,
   "news": [
-    {
-      "id": "70967845e5af",
-      "title": {
-        "en": "Anna Camp, Jasmine Cephas Jones, Finn Jones & Martin Marquez To Star In Off-Broadway’s ‘2:22 — A Ghost Story’",
-        "fa": "آنا کمپ، یاسمین سفاس جونز، فین جونز و مارتین مارکز برای بازی در فیلم آف-برادوی «2:22 — یک داستان روح»"
-      },
-      "excerpt": {
-        "en": "EXCLUSIVE: Anna Camp (True Blood, Pitch Perfect), Jasmine Cephas Jones (Hamilton, Blindspotting), Finn Jones (Marvel’s Iron Fist, Game of Thrones) and Martin Marquez (Billy Elliot The Musical, Hotel Babylon) are set to lead the cast of the Olivier-nominated play 2:22 — A Ghost Story in its New York premiere. Produced by Tony and Olivier Award-winning Runaway […]",
-        "fa": "اختصاصی: آنا کمپ، یاسمین سفاس جونز، فین جونز و مارتین مارکز قرار است نقش آفرینی بازیگران نمایشنامه نامزدی اولیویه 2:22 — A Ghost Story را در اولین نمایش خود در نیویورک بر عهده بگیرند. ساخته شده توسط تونی و اولیویه برنده جایزه Runaway"
-      },
-      "content": {
-        "en": "EXCLUSIVE: Anna Camp (True Blood, Pitch Perfect), Jasmine Cephas Jones (Hamilton, Blindspotting), Finn Jones (Marvel’s Iron Fist, Game of Thrones) and Martin Marquez (Billy Elliot The Musical, Hotel Babylon) are set to lead the cast of the Olivier-nominated play 2:22 — A Ghost Story in its New York premiere. Produced by Tony and Olivier Award-winning Runaway […]",
-        "fa": "اختصاصی: آنا کمپ، یاسمین سفاس جونز، فین جونز و مارتین مارکز قرار است نقش آفرینی بازیگران نمایشنامه نامزدی اولیویه 2:22 — A Ghost Story را در اولین نمایش خود در نیویورک بر عهده بگیرند. ساخته شده توسط تونی و اولیویه برنده جایزه Runaway"
-      },
-      "source": {
-        "en": "Deadline",
-        "fa": "Deadline"
-      },
-      "link": "https://deadline.com/2026/08/anna-camp-jasmine-cephas-jones-cast-222-a-ghost-story-1237045455/",
-      "date": "2026-08-19T21:17:26.542708+00:00",
-      "image": "https://deadline.com/wp-content/uploads/2026/08/Anna-Camp-Jasmine-Cephas-Jones-Finn-Jones-and-Martin-Marquez.jpg",
-      "important": true,
-      "score": 6
-    },
     {
       "id": "d78d2a9bbdee",
       "title": {
@@ -45,8 +21,32 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/nicola-coughlan-smaller-bridgerton-season-5-role-1237045587/",
-      "date": "2026-08-19T21:17:26.540491+00:00",
+      "date": "2026-08-19T22:15:06.549902+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/BRIDGERTON_407_Unit_02146R.jpg",
+      "important": true,
+      "score": 6
+    },
+    {
+      "id": "6e69864866d4",
+      "title": {
+        "en": "Everything We Know About ‘Outer Banks’ Season 5 So Far",
+        "fa": "هر آنچه که تاکنون درباره «Outer Banks» فصل 5 می‌دانیم"
+      },
+      "excerpt": {
+        "en": "Outer Banks will soon come to a close. The Netflix action adventure series, which debuted with its first season during peak COVID pandemic in 2020, has its fifth and final season on the way. For everything we know about Outer Banks Season 5, read below: When does Outer Banks Season 5 come out? The fifth […]",
+        "fa": "بانک های بیرونی به زودی به پایان می رسد. سریال ماجراجویی اکشن نتفلیکس که اولین فصل آن در اوج همه‌گیری کووید در سال 2020 آغاز شد، فصل پنجم و آخرین آن در راه است. برای همه چیزهایی که درباره Outer Banks Season 5 می دانیم، زیر را بخوانید: چه زمانی فصل 5 Outer Banks منتشر می شود؟ پنجمین"
+      },
+      "content": {
+        "en": "Outer Banks will soon come to a close. The Netflix action adventure series, which debuted with its first season during peak COVID pandemic in 2020, has its fifth and final season on the way. For everything we know about Outer Banks Season 5, read below: When does Outer Banks Season 5 come out? The fifth […]",
+        "fa": "بانک های بیرونی به زودی به پایان می رسد. سریال ماجراجویی اکشن نتفلیکس که اولین فصل آن در اوج همه‌گیری کووید در سال 2020 آغاز شد، فصل پنجم و آخرین آن در راه است. برای همه چیزهایی که درباره Outer Banks Season 5 می دانیم، زیر را بخوانید: چه زمانی فصل 5 Outer Banks منتشر می شود؟ پنجمین"
+      },
+      "source": {
+        "en": "Deadline",
+        "fa": "Deadline"
+      },
+      "link": "https://deadline.com/feature/outer-banks-season-5-news-updates-everything-we-know-1237012550/",
+      "date": "2026-08-19T22:15:06.549229+00:00",
+      "image": "https://deadline.com/wp-content/uploads/2026/07/OUTERBANKS_508_Unit_01793RC.jpg",
       "important": true,
       "score": 6
     },
@@ -69,7 +69,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/news/trailers/brotherhood-a-cinematic-musical-trailer-1235211243/",
-      "date": "2026-08-19T21:17:26.550867+00:00",
+      "date": "2026-08-19T22:15:06.557363+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/Mauricio-Martinez-the-Cast-of-Brotherhood-2.png?w=650",
       "important": true,
       "score": 4
@@ -93,7 +93,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/features/commentary/disney-kingdom-hearts-series-commentary-1235211019/",
-      "date": "2026-08-19T21:17:26.551893+00:00",
+      "date": "2026-08-19T22:15:06.558198+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/VIA_D23_16x9_DCD.jpg?w=650",
       "important": false,
       "score": 3
@@ -117,7 +117,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/news/business/val-kilmer-ai-movie-footage-as-deep-as-the-grave-1235211459/",
-      "date": "2026-08-19T21:17:26.551104+00:00",
+      "date": "2026-08-19T22:15:06.557559+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/Screen-Shot-2026-08-19-at-7.08.47-AM.png?w=650",
       "important": false,
       "score": 3
@@ -141,32 +141,8 @@
         "fa": "The Hollywood Reporter"
       },
       "link": "https://www.hollywoodreporter.com/movies/movie-reviews/love-lessons-review-fabrice-luchini-martin-provost-1236674557/",
-      "date": "2026-08-19T21:17:26.546994+00:00",
+      "date": "2026-08-19T22:15:06.554470+00:00",
       "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/Love-Lessons-Main-2026.jpg?w=1296&#038;h=730&#038;crop=1",
-      "important": false,
-      "score": 3
-    },
-    {
-      "id": "49db0f1ab76b",
-      "title": {
-        "en": "Ji.hlava’s Emerging Producers 2026 Reveal Pitches for Upcoming Projects (EXCLUSIVE)",
-        "fa": "تهیه کنندگان نوظهور Ji.hlava 2026، طرح هایی را برای پروژه های آینده نشان می دهند"
-      },
-      "excerpt": {
-        "en": "Ji.hlava Documentary Film Festival has revealed to Variety the projects that the participants of its 2026 Emerging Producers program are working on. The producers were asked to deliver an elevator pitch for their projects. Since 2010, the festival has selected 18 up-and-coming documentary producers — 17 from Europe and one from outside the continent (Japan […]",
-        "fa": "جشنواره فیلم مستند Ji. از تولیدکنندگان خواسته شد تا برای پروژه های خود یک زمین آسانسور تحویل دهند. از سال 2010، این جشنواره 18 تهیه کننده مستند پیشرو - 17 از اروپا و یک نفر از خارج از قاره (ژاپن) را انتخاب کرده است."
-      },
-      "content": {
-        "en": "Ji.hlava Documentary Film Festival has revealed to Variety the projects that the participants of its 2026 Emerging Producers program are working on. The producers were asked to deliver an elevator pitch for their projects. Since 2010, the festival has selected 18 up-and-coming documentary producers — 17 from Europe and one from outside the continent (Japan […]",
-        "fa": "جشنواره فیلم مستند Ji. از تولیدکنندگان خواسته شد تا برای پروژه های خود یک زمین آسانسور تحویل دهند. از سال 2010، این جشنواره 18 تهیه کننده مستند پیشرو - 17 از اروپا و یک نفر از خارج از قاره (ژاپن) را انتخاب کرده است."
-      },
-      "source": {
-        "en": "Variety",
-        "fa": "Variety"
-      },
-      "link": "https://variety.com/2026/film/news/jihlavas-emerging-producers-2026-projects-1236838471/",
-      "date": "2026-08-19T21:17:26.545250+00:00",
-      "image": "https://variety.com/wp-content/uploads/2026/08/2026-Emerging-Producers-.jpg",
       "important": false,
       "score": 3
     },
@@ -189,32 +165,8 @@
         "fa": "Variety"
       },
       "link": "https://variety.com/2026/tv/news/christy-carlson-romano-hayden-panettiere-death-child-fame-cte-even-stevens-1236838299/",
-      "date": "2026-08-19T21:17:26.543171+00:00",
+      "date": "2026-08-19T22:15:06.552248+00:00",
       "image": "https://variety.com/wp-content/uploads/2026/08/Ice-Princess-Even-Stevens-2.jpg",
-      "important": false,
-      "score": 3
-    },
-    {
-      "id": "c09351392474",
-      "title": {
-        "en": "Daniel Roher, Lord Miller Set Universal Pictures Adaptation Of Forrest Brazeal Novel ‘Paradox Inc.’",
-        "fa": "دانیل روهر، لرد میلر مجموعه تصاویر جهانی اقتباسی از رمان فارست برازیل \"Paradox Inc.\""
-      },
-      "excerpt": {
-        "en": "EXCLUSIVE: Lord Miller, the production shingle for Academy Award-winning Project Hail Mary helmers Phil Lord and Christopher Miller, is set to produce a feature adaptation of Forrest Brazeal’s forthcoming debut novel Paradox Inc. for Universal Pictures. Daniel Roher, the Academy Award-winning Canadian filmmaker behind Navalny and this year’s Tuner, will direct and co-write a treatment for the film with Matthew Robinson. Writer […]",
-        "fa": "اختصاصی: لرد میلر، سازنده فیلم برنده جایزه اسکار پروژه درود مری، فیل لرد و کریستوفر میلر، قرار است اقتباسی بلند از اولین رمان آینده Forrest Brazeal، Paradox Inc. برای یونیورسال پیکچرز تولید کند. دانیل روهر، فیلمساز کانادایی برنده جایزه اسکار پشت ناوالنی و تیونر امسال، کارگردانی و نویسندگی فیلم را با متیو رابینسون خواهد داشت. نویسنده"
-      },
-      "content": {
-        "en": "EXCLUSIVE: Lord Miller, the production shingle for Academy Award-winning Project Hail Mary helmers Phil Lord and Christopher Miller, is set to produce a feature adaptation of Forrest Brazeal’s forthcoming debut novel Paradox Inc. for Universal Pictures. Daniel Roher, the Academy Award-winning Canadian filmmaker behind Navalny and this year’s Tuner, will direct and co-write a treatment for the film with Matthew Robinson. Writer […]",
-        "fa": "اختصاصی: لرد میلر، سازنده فیلم برنده جایزه اسکار پروژه درود مری، فیل لرد و کریستوفر میلر، قرار است اقتباسی بلند از اولین رمان آینده Forrest Brazeal، Paradox Inc. برای یونیورسال پیکچرز تولید کند. دانیل روهر، فیلمساز کانادایی برنده جایزه اسکار پشت ناوالنی و تیونر امسال، کارگردانی و نویسندگی فیلم را با متیو رابینسون خواهد داشت. نویسنده"
-      },
-      "source": {
-        "en": "Deadline",
-        "fa": "Deadline"
-      },
-      "link": "https://deadline.com/2026/08/paradox-inc-movie-daniel-roher-lord-miller-universal-1237045364/",
-      "date": "2026-08-19T21:17:26.542584+00:00",
-      "image": "https://deadline.com/wp-content/uploads/2026/08/Paradox-Inc.-.jpg",
       "important": false,
       "score": 3
     },
@@ -237,7 +189,7 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/jane-curtin-little-five-film-anne-hathaway-producing-1237045480/",
-      "date": "2026-08-19T21:17:26.542364+00:00",
+      "date": "2026-08-19T22:15:06.551326+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/GettyImages-2199446507.jpg",
       "important": false,
       "score": 3
@@ -261,8 +213,32 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/alison-hurbert-made-up-stories-launch-the-set-up-australia-1237044057/",
-      "date": "2026-08-19T21:17:26.541522+00:00",
+      "date": "2026-08-19T22:15:06.550625+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/The-Set-Up-execs.jpg",
+      "important": false,
+      "score": 3
+    },
+    {
+      "id": "fedfe547d748",
+      "title": {
+        "en": "Josh Radnor Says He’s Not Close To His ‘How I Met Your Mother’ Co-Stars “Not Even A Little Bit”: “I Have Love For All These People”",
+        "fa": "جاش رادنور می‌گوید که به بازیگران «چگونه با مادرت آشنا شدم» نزدیک نیست، «حتی کمی»: «من به همه این افراد عشق دارم»"
+      },
+      "excerpt": {
+        "en": "Josh Radnor is opening up about where he stands with the rest of the cast of How I Met Your Mother, 12 years after the series completed a nine-season run. The CBS sitcom followed Radnor’s Ted Mosby and his group of friends in New York City as he recounts to his children the events that […]",
+        "fa": "12 سال پس از اتمام نه فصل سریال، جاش رادنر در حال صحبت درباره جایگاهش با بقیه بازیگران سریال How I Met Your Mother است. کمدی سی‌بی‌اس، تد ماسبی از رادنور و گروه دوستانش را در شهر نیویورک دنبال می‌کرد که او برای فرزندانش وقایعی را تعریف می‌کرد."
+      },
+      "content": {
+        "en": "Josh Radnor is opening up about where he stands with the rest of the cast of How I Met Your Mother, 12 years after the series completed a nine-season run. The CBS sitcom followed Radnor’s Ted Mosby and his group of friends in New York City as he recounts to his children the events that […]",
+        "fa": "12 سال پس از اتمام نه فصل سریال، جاش رادنر در حال صحبت درباره جایگاهش با بقیه بازیگران سریال How I Met Your Mother است. کمدی سی‌بی‌اس، تد ماسبی از رادنور و گروه دوستانش را در شهر نیویورک دنبال می‌کرد که او برای فرزندانش وقایعی را تعریف می‌کرد."
+      },
+      "source": {
+        "en": "Deadline",
+        "fa": "Deadline"
+      },
+      "link": "https://deadline.com/2026/08/josh-radnor-not-close-how-i-met-your-mother-co-stars-1237045701/",
+      "date": "2026-08-19T22:15:06.549074+00:00",
+      "image": "https://deadline.com/wp-content/uploads/2026/08/josh-radnor-how-i-met-your-mother.jpg",
       "important": false,
       "score": 3
     },
@@ -285,7 +261,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/news/trailers/wildwood-trailer-laika-1235211327/",
-      "date": "2026-08-19T21:17:26.552161+00:00",
+      "date": "2026-08-19T22:15:06.558424+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/05/WW_PrueCurtis_Still_16x9_3578x2013px_72DPI_RGB_WIDE-2.jpg?w=650",
       "important": false,
       "score": 1
@@ -309,32 +285,8 @@
         "fa": "The Wrap"
       },
       "link": "https://www.thewrap.com/culture-lifestyle/culture/larry-david-trump-lawyer-alan-dershowitz-fight-friendship-ended/",
-      "date": "2026-08-19T21:17:26.548552+00:00",
+      "date": "2026-08-19T22:15:06.555674+00:00",
       "image": "https://www.thewrap.com/wp-content/uploads/2026/08/Larry-David-red-carpet.jpg",
-      "important": false,
-      "score": 1
-    },
-    {
-      "id": "4f0a743d01d8",
-      "title": {
-        "en": "How ‘The Pitt,’ ‘Widow’s Bay’ and ‘Pluribus’ Casting Directors Found Their Emmy-Worthy Town Locals, Hospital Patients and Hive Mind Members",
-        "fa": "چگونه کارگردانان بازیگری «The Pitt»، «Widow's Bay» و «Pluribus» مردم محلی شهر، بیماران بیمارستانی و اعضای Hive Mind خود را یافتند که ارزش امی را داشتند."
-      },
-      "excerpt": {
-        "en": "For casting directors, there is no such thing as a small part. Shows like “Widow’s Bay,” “Hacks,” “Pluribus” and “The Pitt” not only made an impression with the Television Academy across the board, but saw many of their supporting actors and guest stars land nominations. Working character actors like Kate O’Flynn, Carlos Manuel Vesga, Lauren […]",
-        "fa": "برای مدیران بازیگری، چیزی به نام یک بخش کوچک وجود ندارد. نمایش‌هایی مانند «خلیج بیوه»، «هک»، «پلوریباس» و «پیت» نه‌تنها در آکادمی تلویزیون تاثیرگذار بودند، بلکه بسیاری از بازیگران مکمل و ستاره‌های مهمان نامزد دریافت جایزه شدند. بازیگرانی مانند کیت اوفلین، کارلوس مانوئل وسگا، لورن"
-      },
-      "content": {
-        "en": "For casting directors, there is no such thing as a small part. Shows like “Widow’s Bay,” “Hacks,” “Pluribus” and “The Pitt” not only made an impression with the Television Academy across the board, but saw many of their supporting actors and guest stars land nominations. Working character actors like Kate O’Flynn, Carlos Manuel Vesga, Lauren […]",
-        "fa": "برای مدیران بازیگری، چیزی به نام یک بخش کوچک وجود ندارد. نمایش‌هایی مانند «خلیج بیوه»، «هک»، «پلوریباس» و «پیت» نه‌تنها در آکادمی تلویزیون تاثیرگذار بودند، بلکه بسیاری از بازیگران مکمل و ستاره‌های مهمان نامزد دریافت جایزه شدند. بازیگرانی مانند کیت اوفلین، کارلوس مانوئل وسگا، لورن"
-      },
-      "source": {
-        "en": "Variety",
-        "fa": "Variety"
-      },
-      "link": "https://variety.com/2026/artisans/features/hacks-widows-bay-the-pitt-casting-small-emmy-nominated-parts-1236837488/",
-      "date": "2026-08-19T21:17:26.545402+00:00",
-      "image": "https://variety.com/wp-content/uploads/2026/08/Widows_Bay_Photo_010403.jpg",
       "important": false,
       "score": 1
     },
@@ -357,7 +309,7 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/chris-hansen-questions-hollywoods-motive-primetime-1237045541/",
-      "date": "2026-08-19T21:17:26.540648+00:00",
+      "date": "2026-08-19T22:15:06.550018+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/Robert-Pattinson-Primetime-Chris-Hansen-2-shot.jpg",
       "important": false,
       "score": 1
@@ -381,7 +333,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/features/interviews/jordana-brewster-fast-and-the-furious-25th-anniversary-1235210010/",
-      "date": "2026-08-19T21:17:26.551730+00:00",
+      "date": "2026-08-19T22:15:06.558077+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/2275_K01_0029.jpg?w=650",
       "important": false,
       "score": 0
@@ -405,7 +357,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/criticism/movies/tony-movie-review-anthony-bourdain-1235207248/",
-      "date": "2026-08-19T21:17:26.551487+00:00",
+      "date": "2026-08-19T22:15:06.557877+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/07/image-w1280-2.webp?w=650",
       "important": false,
       "score": 0
@@ -429,32 +381,8 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/features/interviews/ai-filmmaking-will-fail-james-gray-paper-tiger-director-1235211572/",
-      "date": "2026-08-19T21:17:26.550640+00:00",
+      "date": "2026-08-19T22:15:06.557186+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/GettyImages-2276688682.jpg?w=650",
-      "important": false,
-      "score": 0
-    },
-    {
-      "id": "acc71fa06265",
-      "title": {
-        "en": "Warner Bros. in Talks to Land ‘Theo of Golden’ Film Rights, Tom Hanks Eyed to Star",
-        "fa": "برادران وارنر در گفتگو با سرزمین «تئو از حقوق فیلم طلایی»، تام هنکس چشم به ستاره"
-      },
-      "excerpt": {
-        "en": "Allen Levi's book has sold over 3.5 million copies and is the highest-selling print book in America for 2026 The post Warner Bros. in Talks to Land ‘Theo of Golden’ Film Rights, Tom Hanks Eyed to Star appeared first on TheWrap .",
-        "fa": "کتاب آلن لوی بیش از 3.5 میلیون نسخه فروخته است و پرفروش‌ترین کتاب چاپی آمریکا در سال 2026 است."
-      },
-      "content": {
-        "en": "Allen Levi's book has sold over 3.5 million copies and is the highest-selling print book in America for 2026 The post Warner Bros. in Talks to Land ‘Theo of Golden’ Film Rights, Tom Hanks Eyed to Star appeared first on TheWrap .",
-        "fa": "کتاب آلن لوی بیش از 3.5 میلیون نسخه فروخته است و پرفروش‌ترین کتاب چاپی آمریکا در سال 2026 است."
-      },
-      "source": {
-        "en": "The Wrap",
-        "fa": "The Wrap"
-      },
-      "link": "https://www.thewrap.com/creative-content/movies/warner-bros-theo-of-golden-film-rights-tom-hanks/",
-      "date": "2026-08-19T21:17:26.550068+00:00",
-      "image": "https://www.thewrap.com/wp-content/uploads/2026/03/Tom-Hanks.jpeg",
       "important": false,
       "score": 0
     },
@@ -477,7 +405,7 @@
         "fa": "The Wrap"
       },
       "link": "https://www.thewrap.com/industry-news/business/avengers-doomsday-excitement-ebbs-despite-splashy-d23-tease-chart/",
-      "date": "2026-08-19T21:17:26.549574+00:00",
+      "date": "2026-08-19T22:15:06.556517+00:00",
       "image": "https://www.thewrap.com/wp-content/uploads/2026/08/081926-TOP-TEN-MENTIONS.png",
       "important": false,
       "score": 0
@@ -501,32 +429,8 @@
         "fa": "The Wrap"
       },
       "link": "https://www.thewrap.com/commentary-analysis/columns/creatorverse-alex-cooper-unwell-uta-breakdown/",
-      "date": "2026-08-19T21:17:26.548783+00:00",
+      "date": "2026-08-19T22:15:06.555851+00:00",
       "image": "https://www.thewrap.com/wp-content/uploads/2026/08/alex-cooper.jpg",
-      "important": false,
-      "score": 0
-    },
-    {
-      "id": "4d78ee7b01d6",
-      "title": {
-        "en": "‘Insidious: Out of the Further’ Review: This Horror Franchise Is Past the Point of Diminishing Returns",
-        "fa": "نقد \"موذیانه: خارج از آینده\": این فرانچایز ترسناک از نقطه کاهش بازده گذشته است"
-      },
-      "excerpt": {
-        "en": "A young mother and her daughter encounter supernatural forces in the latest entry in the hit film series created by Leigh Whannell and James Wan.",
-        "fa": "یک مادر جوان و دخترش با نیروهای ماوراءالطبیعه در آخرین ورودی از سری فیلم های موفق ساخته شده توسط لی وانل و جیمز وان مواجه می شوند."
-      },
-      "content": {
-        "en": "A young mother and her daughter encounter supernatural forces in the latest entry in the hit film series created by Leigh Whannell and James Wan.",
-        "fa": "یک مادر جوان و دخترش با نیروهای ماوراءالطبیعه در آخرین ورودی از سری فیلم های موفق ساخته شده توسط لی وانل و جیمز وان مواجه می شوند."
-      },
-      "source": {
-        "en": "The Hollywood Reporter",
-        "fa": "The Hollywood Reporter"
-      },
-      "link": "https://www.hollywoodreporter.com/movies/movie-reviews/insidious-out-of-the-further-review-1236676021/",
-      "date": "2026-08-19T21:17:26.547626+00:00",
-      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/Insidious-Further-Main-2026.jpg?w=1296&#038;h=730&#038;crop=1",
       "important": false,
       "score": 0
     },
@@ -549,7 +453,7 @@
         "fa": "The Hollywood Reporter"
       },
       "link": "https://www.hollywoodreporter.com/movies/movie-features/ana-urushadze-supporting-role-georgia-sarajevo-film-1236677153/",
-      "date": "2026-08-19T21:17:26.546173+00:00",
+      "date": "2026-08-19T22:15:06.553796+00:00",
       "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/FotoJet-2026-08-19T202546.555.jpg?w=1440&#038;h=810&#038;crop=1",
       "important": false,
       "score": 0
@@ -573,8 +477,104 @@
         "fa": "Variety"
       },
       "link": "https://variety.com/2026/shopping/news/how-to-get-peacock-free-walmart-plus-1236838518/",
-      "date": "2026-08-19T21:17:26.544587+00:00",
+      "date": "2026-08-19T22:15:06.553355+00:00",
       "image": "https://variety.com/wp-content/uploads/2026/06/Peacock.png",
+      "important": false,
+      "score": 0
+    },
+    {
+      "id": "3d7bd596d76d",
+      "title": {
+        "en": "Paramount-Warner Bros. Merger Will Cost 4,500 L.A. Production Jobs, Report Finds",
+        "fa": "گزارش یافته ها، ادغام برادران پارامونت وارنر 4500 هزینه در تولید لس آنجلس دارد."
+      },
+      "excerpt": {
+        "en": "The merger of Paramount and Warner Bros. could cost about 4,500 film and TV jobs over three years, according to a new report issued by Los Angeles County. The report, prepared by CVL Economics, argues that the merger would accelerate the downturn in L.A. production, which has already cost 52,000 jobs over the last four […]",
+        "fa": "بر اساس گزارش جدید منتشر شده توسط لس آنجلس کانتی، ادغام پارامونت و برادران وارنر ممکن است طی سه سال حدود 4500 شغل در سینما و تلویزیون هزینه داشته باشد. این گزارش که توسط CVL Economics تهیه شده است، استدلال می‌کند که این ادغام رکود در تولید لس‌آنجلس را تسریع می‌کند، که در حال حاضر 52000 شغل در چهار سال گذشته هزینه داشته است."
+      },
+      "content": {
+        "en": "The merger of Paramount and Warner Bros. could cost about 4,500 film and TV jobs over three years, according to a new report issued by Los Angeles County. The report, prepared by CVL Economics, argues that the merger would accelerate the downturn in L.A. production, which has already cost 52,000 jobs over the last four […]",
+        "fa": "بر اساس گزارش جدید منتشر شده توسط لس آنجلس کانتی، ادغام پارامونت و برادران وارنر ممکن است طی سه سال حدود 4500 شغل در سینما و تلویزیون هزینه داشته باشد. این گزارش که توسط CVL Economics تهیه شده است، استدلال می‌کند که این ادغام رکود در تولید لس‌آنجلس را تسریع می‌کند، که در حال حاضر 52000 شغل در چهار سال گذشته هزینه داشته است."
+      },
+      "source": {
+        "en": "Variety",
+        "fa": "Variety"
+      },
+      "link": "https://variety.com/2026/film/news/paramount-warner-bros-merger-la-job-loss-production-1236838567/",
+      "date": "2026-08-19T22:15:06.552479+00:00",
+      "image": "https://variety.com/wp-content/uploads/2026/07/Paramount-Skydance.jpg",
+      "important": false,
+      "score": 0
+    },
+    {
+      "id": "6cba5cab7702",
+      "title": {
+        "en": "Academy Museum Fall Film Events Include ‘Marie Antoinette,’ ‘The Craft,’ ‘Pan’s Labyrinth’ – Film News in Brief",
+        "fa": "رویدادهای فیلم پاییز موزه آکادمی شامل «ماری آنتوانت»، «صنعت»، «هزارتوی پان» - اخبار فیلم به طور خلاصه"
+      },
+      "excerpt": {
+        "en": "The Academy Museum of Motion Pictures fall programming celebrates several anniversary milestones along with a focus on horror. There will be a 50th anniversary screening of “Carrie” (1976) with Sissy Spacek, a 30th anniversary screening of “The Craft” (1996) with Rachel True and Robin Tunney and a 30th anniversary screening of “Get on the Bus” […]",
+        "fa": "برنامه‌های پاییزی موزه آکادمی تصاویر متحرک چندین نقطه عطف سالگرد را همراه با تمرکز بر ترسناک جشن می‌گیرد. اکران پنجاهمین سالگرد «کری» با سیسی اسپیسک، اکران سی‌امین سالگرد «صنعت» با بازی ریچل ترو و رابین تونی و اکران سی‌امین سالگرد «سوار اتوبوس» خواهد بود."
+      },
+      "content": {
+        "en": "The Academy Museum of Motion Pictures fall programming celebrates several anniversary milestones along with a focus on horror. There will be a 50th anniversary screening of “Carrie” (1976) with Sissy Spacek, a 30th anniversary screening of “The Craft” (1996) with Rachel True and Robin Tunney and a 30th anniversary screening of “Get on the Bus” […]",
+        "fa": "برنامه‌های پاییزی موزه آکادمی تصاویر متحرک چندین نقطه عطف سالگرد را همراه با تمرکز بر ترسناک جشن می‌گیرد. اکران پنجاهمین سالگرد «کری» با سیسی اسپیسک، اکران سی‌امین سالگرد «صنعت» با بازی ریچل ترو و رابین تونی و اکران سی‌امین سالگرد «سوار اتوبوس» خواهد بود."
+      },
+      "source": {
+        "en": "Variety",
+        "fa": "Variety"
+      },
+      "link": "https://variety.com/2026/film/news/film-news-in-brief-august-17-1236836442/",
+      "date": "2026-08-19T22:15:06.552154+00:00",
+      "image": "https://variety.com/wp-content/uploads/2022/05/marie-antoinette.png",
+      "important": false,
+      "score": 0
+    },
+    {
+      "id": "0df82f09eb70",
+      "title": {
+        "en": "Prince Harry and Meghan Markle Moving Back to U.K. in Shock Decision",
+        "fa": "بازگشت شاهزاده هری و مگان مارکل به بریتانیا در تصمیم شوک"
+      },
+      "excerpt": {
+        "en": "Prince Harry and Meghan Markle are moving back to the U.K. with their children after living in California for the past six years, according to People. The transition back to Britain, which the outlet says will last for “an extended period,” is set to begin in the coming weeks. The Duke and Duchess of Sussex […]",
+        "fa": "به گزارش پیپل، شاهزاده هری و مگان مارکل پس از شش سال زندگی در کالیفرنیا با فرزندان خود به بریتانیا بازگشتند. انتقال دوباره به بریتانیا، که این رسانه می گوید برای \"یک دوره طولانی\" ادامه خواهد داشت، قرار است در هفته های آینده آغاز شود. دوک و دوشس ساسکس"
+      },
+      "content": {
+        "en": "Prince Harry and Meghan Markle are moving back to the U.K. with their children after living in California for the past six years, according to People. The transition back to Britain, which the outlet says will last for “an extended period,” is set to begin in the coming weeks. The Duke and Duchess of Sussex […]",
+        "fa": "به گزارش پیپل، شاهزاده هری و مگان مارکل پس از شش سال زندگی در کالیفرنیا با فرزندان خود به بریتانیا بازگشتند. انتقال دوباره به بریتانیا، که این رسانه می گوید برای \"یک دوره طولانی\" ادامه خواهد داشت، قرار است در هفته های آینده آغاز شود. دوک و دوشس ساسکس"
+      },
+      "source": {
+        "en": "Variety",
+        "fa": "Variety"
+      },
+      "link": "https://variety.com/2026/film/news/prince-harry-meghan-markle-moving-back-to-uk-1236838650/",
+      "date": "2026-08-19T22:15:06.551611+00:00",
+      "image": "https://variety.com/wp-content/uploads/2025/08/GettyImages-1685133404.jpg",
+      "important": false,
+      "score": 0
+    },
+    {
+      "id": "e03fd3117a09",
+      "title": {
+        "en": "Ariana Grande Granted Permission to Issue Expedited Subpoenas to Reveal Hacker Identities",
+        "fa": "آریانا گرانده مجوز صدور احضاریه های سریع برای افشای هویت هکرها را صادر کرد."
+      },
+      "excerpt": {
+        "en": "Ariana Grande has been granted permission to subpoena information that will help reveal the identities of anonymous hackers who allegedly leaked unreleased songs and footage from recording sessions and music videos. A Los Angeles judge approved Grande’s proposed order for expedited discovery on Tuesday, explaining that because she is unable to identify the hackers, a […]",
+        "fa": "به آریانا گرانده اجازه داده شده است تا اطلاعاتی را احضار کند که به افشای هویت هکرهای ناشناس کمک می کند که ظاهراً آهنگ ها و فیلم های منتشر نشده را از جلسات ضبط و نماهنگ ها فاش کرده اند. یک قاضی لس آنجلس دستور پیشنهادی گرانده برای کشف سریع را در روز سه شنبه تایید کرد و توضیح داد که چون او قادر به شناسایی هکرها نیست،"
+      },
+      "content": {
+        "en": "Ariana Grande has been granted permission to subpoena information that will help reveal the identities of anonymous hackers who allegedly leaked unreleased songs and footage from recording sessions and music videos. A Los Angeles judge approved Grande’s proposed order for expedited discovery on Tuesday, explaining that because she is unable to identify the hackers, a […]",
+        "fa": "به آریانا گرانده اجازه داده شده است تا اطلاعاتی را احضار کند که به افشای هویت هکرهای ناشناس کمک می کند که ظاهراً آهنگ ها و فیلم های منتشر نشده را از جلسات ضبط و نماهنگ ها فاش کرده اند. یک قاضی لس آنجلس دستور پیشنهادی گرانده برای کشف سریع را در روز سه شنبه تایید کرد و توضیح داد که چون او قادر به شناسایی هکرها نیست،"
+      },
+      "source": {
+        "en": "Variety",
+        "fa": "Variety"
+      },
+      "link": "https://variety.com/2026/music/news/ariana-grande-permitted-subpoena-reveal-hacker-identities-1236838661/",
+      "date": "2026-08-19T22:15:06.551454+00:00",
+      "image": "https://variety.com/wp-content/uploads/2026/08/GettyImages-2254668725.jpg",
       "important": false,
       "score": 0
     }
