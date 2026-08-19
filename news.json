@@ -1,31 +1,7 @@
 {
-  "updated_at": "2026-08-19T00:42:21.399667+00:00",
+  "updated_at": "2026-08-19T02:13:13.833569+00:00",
   "count": 24,
   "news": [
-    {
-      "id": "003ca8fddf08",
-      "title": {
-        "en": "Jason Schmidt, Julia Lester & Piper Runge Join Hulu Pilot ‘Chicks’; Max Winkler To Direct & EP",
-        "fa": "جیسون اشمیت، جولیا لستر و پایپر رانج به Hulu Pilot 'Chicks' می پیوندند. Max Winkler به کارگردانی و EP"
-      },
-      "excerpt": {
-        "en": "EXCLUSIVE: Jason Schmidt (Grease: Rise of the Pink Ladies), Julia Lester (The Four Seasons), and Piper Runge have joined the main cast of the Hulu pilot Chicks, starring Ellen Pompeo and Jodie Whittaker. Additionally, Max Winkler joins the series as director and executive producer of the pilot. Winkler has directed and executive produced a slew of TV […]",
-        "fa": "اختصاصی: جیسون اشمیت، جولیا لستر، و پایپر رانج به بازیگران اصلی جوجه‌های خلبان Hulu با بازی الن پمپئو و جودی ویتاکر پیوستند. علاوه بر این، مکس وینکلر به عنوان کارگردان و تهیه کننده اجرایی پایلوت به سریال می پیوندد. وینکلر کارگردانی و تهیه کنندگی اجرایی بسیاری از تلویزیون ها را بر عهده داشته است"
-      },
-      "content": {
-        "en": "EXCLUSIVE: Jason Schmidt (Grease: Rise of the Pink Ladies), Julia Lester (The Four Seasons), and Piper Runge have joined the main cast of the Hulu pilot Chicks, starring Ellen Pompeo and Jodie Whittaker. Additionally, Max Winkler joins the series as director and executive producer of the pilot. Winkler has directed and executive produced a slew of TV […]",
-        "fa": "اختصاصی: جیسون اشمیت، جولیا لستر، و پایپر رانج به بازیگران اصلی جوجه‌های خلبان Hulu با بازی الن پمپئو و جودی ویتاکر پیوستند. علاوه بر این، مکس وینکلر به عنوان کارگردان و تهیه کننده اجرایی پایلوت به سریال می پیوندد. وینکلر کارگردانی و تهیه کنندگی اجرایی بسیاری از تلویزیون ها را بر عهده داشته است"
-      },
-      "source": {
-        "en": "Deadline",
-        "fa": "Deadline"
-      },
-      "link": "https://deadline.com/2026/08/hulu-chicks-pilot-cast-three-leads-max-winkler-director-1237044434/",
-      "date": "2026-08-19T00:42:21.171635+00:00",
-      "image": "https://deadline.com/wp-content/uploads/2026/08/Jason-Schmidt-Julia-Lester-Piper-Runge-and-Max-Winkler.jpg",
-      "important": true,
-      "score": 6
-    },
     {
       "id": "a38406f31053",
       "title": {
@@ -45,7 +21,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/news/box-office/rivals-amziah-king-box-office-black-bear-1235210853/",
-      "date": "2026-08-19T00:42:21.178824+00:00",
+      "date": "2026-08-19T02:13:13.592449+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2025/03/the-rivals-of-amziah-king-319857_c200b9.webp?w=650",
       "important": true,
       "score": 4
@@ -69,7 +45,7 @@
         "fa": "Variety"
       },
       "link": "https://variety.com/2026/digital/news/clive-barker-kickstarter-series-library-of-the-dead-1236837367/",
-      "date": "2026-08-19T00:42:21.173171+00:00",
+      "date": "2026-08-19T02:13:13.584607+00:00",
       "image": "https://variety.com/wp-content/uploads/2026/08/CLIVE-BARKER-3-NEW-BOOKS-LIBRARY-OF-THE-DEAD-ANGLE.png",
       "important": true,
       "score": 4
@@ -93,7 +69,7 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/david-heyman-film-deal-amazon-mgm-studios-exit-warner-bros-1237044515/",
-      "date": "2026-08-19T00:42:21.171047+00:00",
+      "date": "2026-08-19T02:13:13.582575+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/David-Heyman-.jpg",
       "important": true,
       "score": 4
@@ -117,7 +93,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/news/festivals/sxsw-2027-venue-changes-podcast-festival-1235211013/",
-      "date": "2026-08-19T00:42:21.178248+00:00",
+      "date": "2026-08-19T02:13:13.591871+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/03-14-26_Over_Your_Dead_Body_Chris_Saucedo-40.jpg?w=650",
       "important": false,
       "score": 3
@@ -141,8 +117,32 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/news/festivals/nyff-2026-revivals-ken-russell-the-devils-1235210928/",
-      "date": "2026-08-19T00:42:21.178152+00:00",
+      "date": "2026-08-19T02:13:13.591778+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/57097357-4bf5-4f7f-9db5-43513d5746bc.jpeg?w=650",
+      "important": false,
+      "score": 3
+    },
+    {
+      "id": "8bc4119e43fb",
+      "title": {
+        "en": "How Keke Palmer Is Using Microdramas to Realize Her Lady Miss Jacqueline Variety Show Dreams | Exclusive",
+        "fa": "چگونه ککه پالمر از میکرودرام ها برای تحقق رویاهای بانوی خانم ژاکلین ورایتی شو استفاده می کند | انحصاری"
+      },
+      "excerpt": {
+        "en": "“If I wanted to show people what I could do in comedy, I had to produce the content myself,” the entertainer tells TheWrap of her comedy persona The post How Keke Palmer Is Using Microdramas to Realize Her Lady Miss Jacqueline Variety Show Dreams | Exclusive appeared first on TheWrap .",
+        "fa": "این هنرمند در مورد شخصیت کمدی خود به TheWrap می گوید: «اگر می خواستم به مردم نشان دهم در کمدی چه کاری می توانم انجام دهم، باید محتوا را خودم تولید می کردم."
+      },
+      "content": {
+        "en": "“If I wanted to show people what I could do in comedy, I had to produce the content myself,” the entertainer tells TheWrap of her comedy persona The post How Keke Palmer Is Using Microdramas to Realize Her Lady Miss Jacqueline Variety Show Dreams | Exclusive appeared first on TheWrap .",
+        "fa": "این هنرمند در مورد شخصیت کمدی خود به TheWrap می گوید: «اگر می خواستم به مردم نشان دهم در کمدی چه کاری می توانم انجام دهم، باید محتوا را خودم تولید می کردم."
+      },
+      "source": {
+        "en": "The Wrap",
+        "fa": "The Wrap"
+      },
+      "link": "https://www.thewrap.com/creative-content/tv-shows/keke-palmer-microdrama-lady-miss-jacqueline-audible-exclusive/",
+      "date": "2026-08-19T02:13:13.589565+00:00",
+      "image": "https://www.thewrap.com/wp-content/uploads/2026/08/Becoming-Lady-Miss-Jacqueline-COVER.jpg",
       "important": false,
       "score": 3
     },
@@ -165,7 +165,7 @@
         "fa": "The Hollywood Reporter"
       },
       "link": "https://www.hollywoodreporter.com/tv/tv-news/shawn-hatosy-the-pitt-night-shift-spinoff-breaking-bad-1236676193/",
-      "date": "2026-08-19T00:42:21.176336+00:00",
+      "date": "2026-08-19T02:13:13.587881+00:00",
       "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/Awards-Chatter-Shawn-Hatosy-Main-2026.jpg?w=1296&#038;h=730&#038;crop=1",
       "important": false,
       "score": 3
@@ -189,7 +189,7 @@
         "fa": "Variety"
       },
       "link": "https://variety.com/2026/tv/news/john-oliver-wanted-to-be-slapped-days-of-our-lives-1236837667/",
-      "date": "2026-08-19T00:42:21.173418+00:00",
+      "date": "2026-08-19T02:13:13.584905+00:00",
       "image": "https://variety.com/wp-content/uploads/2026/08/DanFeuerriegel-MaggieCarney-JO.jpg",
       "important": false,
       "score": 3
@@ -213,7 +213,7 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/the-pitt-production-designer-interview-season-2-1237044580/",
-      "date": "2026-08-19T00:42:21.169704+00:00",
+      "date": "2026-08-19T02:13:13.581494+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/thepitt2.jpeg",
       "important": false,
       "score": 3
@@ -237,7 +237,7 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/the-diplomat-netflix-creative-team-interview-1237044316/",
-      "date": "2026-08-19T00:42:21.169352+00:00",
+      "date": "2026-08-19T02:13:13.581163+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/Backstory_Diplomat_Thumbnail.png",
       "important": false,
       "score": 3
@@ -261,7 +261,7 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/leslie-grossman-cast-power-origins-flossie-1237043664/",
-      "date": "2026-08-19T00:42:21.169047+00:00",
+      "date": "2026-08-19T02:13:13.580837+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/Leslie-Grossman_4d7ffa.jpg",
       "important": false,
       "score": 3
@@ -274,18 +274,18 @@
       },
       "excerpt": {
         "en": "The Academy of Motion Picture Arts and Sciences revealed the chairs and vice chairs for its 2026-2027 committees and affinity groups.",
-        "fa": "آکادمی علوم و هنرهای تصاویر متحرک، رئیس‌ها و معاونان کمیته‌های 2026-2027 و گروه‌های وابسته خود را معرفی کرد."
+        "fa": "آکادمی علوم و هنرهای تصاویر متحرک، رئیس‌ها و معاونان کمیته‌های ۲۰۲۶-۲۰۲۷ و گروه‌های وابسته خود را معرفی کرد."
       },
       "content": {
         "en": "The Academy of Motion Picture Arts and Sciences revealed the chairs and vice chairs for its 2026-2027 committees and affinity groups.",
-        "fa": "آکادمی علوم و هنرهای تصاویر متحرک، رئیس‌ها و معاونان کمیته‌های 2026-2027 و گروه‌های وابسته خود را معرفی کرد."
+        "fa": "آکادمی علوم و هنرهای تصاویر متحرک، رئیس‌ها و معاونان کمیته‌های ۲۰۲۶-۲۰۲۷ و گروه‌های وابسته خود را معرفی کرد."
       },
       "source": {
         "en": "IndieWire",
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/awards/industry/sean-baker-samantha-quan-chair-academy-marquee-theater-list-1235211131/",
-      "date": "2026-08-19T00:42:21.177829+00:00",
+      "date": "2026-08-19T02:13:13.591462+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/P10ZCQ5.jpg?w=650",
       "important": false,
       "score": 1
@@ -309,7 +309,7 @@
         "fa": "Variety"
       },
       "link": "https://variety.com/2026/film/news/california-tax-cap-deal-film-credits-1236836863/",
-      "date": "2026-08-19T00:42:21.174593+00:00",
+      "date": "2026-08-19T02:13:13.585951+00:00",
       "image": "https://variety.com/wp-content/uploads/2025/05/GettyImages-1760960350.jpg",
       "important": false,
       "score": 1
@@ -326,14 +326,14 @@
       },
       "content": {
         "en": "Walmart is offering up some new deals, discounts and special offers right now, including a way to get a Peacock streaming subscription for free. While Walmart is touting its back to school deals right now, the retailer is also offering access to its Walmart+ membership program for just $1 for your first month. Regularly $12.95/month, […]",
-        "fa": "Walmart is offering up some new deals, discounts and special offers right now, including a way to get a Peacock streaming subscription for free. While Walmart is touting its back to school deals right now, the retailer is also offering access to its Walmart+ membership program for just $1 for your first month. Regularly $12.95/month, […]"
+        "fa": "والمارت در حال حاضر برخی از معاملات جدید، تخفیف‌ها و پیشنهادهای ویژه را ارائه می‌کند، از جمله راهی برای دریافت اشتراک پخش رایگان Peacock. در حالی که Walmart در حال حاضر در حال تبلیغ برای بازگشت به مدارس است، خرده فروش همچنین دسترسی به برنامه عضویت Walmart+ خود را تنها با 1 دلار در ماه اول شما ارائه می دهد. به طور منظم 12.95 دلار در ماه،"
       },
       "source": {
         "en": "Variety",
         "fa": "Variety"
       },
       "link": "https://variety.com/2026/shopping/news/best-walmart-plus-deals-streaming-offers-1236040212/",
-      "date": "2026-08-19T00:42:21.172959+00:00",
+      "date": "2026-08-19T02:13:13.584395+00:00",
       "image": "https://variety.com/wp-content/uploads/2024/06/GettyImages-2152961478.jpg",
       "important": false,
       "score": 1
@@ -357,7 +357,7 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/john-irvin-dead-hamburger-hill-raw-deal-director-1237044695/",
-      "date": "2026-08-19T00:42:21.168724+00:00",
+      "date": "2026-08-19T02:13:13.580515+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/MBDHAHI_EC011.jpg",
       "important": false,
       "score": 1
@@ -366,22 +366,22 @@
       "id": "2e444a5895aa",
       "title": {
         "en": "The Film Independent Spirit Awards Are Adding Categories for Creators and International Features",
-        "fa": "The Film Independent Spirit Awards Are Adding Categories for Creators and International Features"
+        "fa": "جوایز روح مستقل فیلم دسته‌هایی را برای سازندگان و فیلم‌های بین‌المللی اضافه می‌کنند"
       },
       "excerpt": {
         "en": "In addition to the Best International First Feature and Digital Creator Award categories, Film Independent has added the Berlinale as a qualifying festival for the 2027 Film Independent Spirit Awards.",
-        "fa": "علاوه بر دسته‌های جایزه بهترین فیلم اول بین‌المللی و جایزه خلاق دیجیتال، فیلم مستقل جشنواره برلیناله را به عنوان جشنواره واجد شرایط برای جوایز روح مستقل فیلم ۲۰۲۷ اضافه کرده است."
+        "fa": "علاوه بر دسته‌های جایزه بهترین فیلم اول بین‌المللی و جایزه خلاق دیجیتال، فیلم مستقل برلیناله را به عنوان جشنواره واجد شرایط برای جوایز روح مستقل فیلم ۲۰۲۷ اضافه کرده است."
       },
       "content": {
         "en": "In addition to the Best International First Feature and Digital Creator Award categories, Film Independent has added the Berlinale as a qualifying festival for the 2027 Film Independent Spirit Awards.",
-        "fa": "علاوه بر دسته‌های جایزه بهترین فیلم اول بین‌المللی و جایزه خلاق دیجیتال، فیلم مستقل جشنواره برلیناله را به عنوان جشنواره واجد شرایط برای جوایز روح مستقل فیلم ۲۰۲۷ اضافه کرده است."
+        "fa": "علاوه بر دسته‌های جایزه بهترین فیلم اول بین‌المللی و جایزه خلاق دیجیتال، فیلم مستقل برلیناله را به عنوان جشنواره واجد شرایط برای جوایز روح مستقل فیلم ۲۰۲۷ اضافه کرده است."
       },
       "source": {
         "en": "IndieWire",
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/awards/industry/independent-spirit-awards-categories-creators-international-1235211062/",
-      "date": "2026-08-19T00:42:21.178465+00:00",
+      "date": "2026-08-19T02:13:13.592119+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/P10442BC.jpg?w=650",
       "important": false,
       "score": 0
@@ -405,7 +405,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/news/festivals/fantastic-fest-2026-lineup-resident-evil-carrie-1235210870/",
-      "date": "2026-08-19T00:42:21.178039+00:00",
+      "date": "2026-08-19T02:13:13.591668+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/RESIDENT_EVIL_Still.jpg?w=650",
       "important": false,
       "score": 0
@@ -429,7 +429,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/awards/consider-this/widows-bay-kate-oflynn-patricia-weirdo-interview-1235210474/",
-      "date": "2026-08-19T00:42:21.177401+00:00",
+      "date": "2026-08-19T02:13:13.590991+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/GettyImages-2289884113.jpg?w=650",
       "important": false,
       "score": 0
@@ -453,8 +453,56 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/news/business/abc-pushing-back-trump-fcc-lawsuit-analysis-1235211108/",
-      "date": "2026-08-19T00:42:21.177008+00:00",
+      "date": "2026-08-19T02:13:13.590605+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/03/GettyImages-2262359610.jpg?w=650",
+      "important": false,
+      "score": 0
+    },
+    {
+      "id": "e44d798561b4",
+      "title": {
+        "en": "Hollywood Unions Race to Protect California’s Film Incentive From New Tax Credit Cap",
+        "fa": "اتحادیه های هالیوود برای محافظت از انگیزه فیلم کالیفرنیا از سقف اعتبار مالیاتی جدید رقابت می کنند"
+      },
+      "excerpt": {
+        "en": "A new law that caps the amount of tax credits businesses can receive to $5 million a year could derail the fight against production flight, advocates warn The post Hollywood Unions Race to Protect California’s Film Incentive From New Tax Credit Cap appeared first on TheWrap .",
+        "fa": "مدافعان هشدار می دهند که قانون جدیدی که میزان اعتبارات مالیاتی کسب و کارها را تا 5 میلیون دلار در سال محدود می کند، می تواند مبارزه با فرار تولید را از مسیر خارج کند."
+      },
+      "content": {
+        "en": "A new law that caps the amount of tax credits businesses can receive to $5 million a year could derail the fight against production flight, advocates warn The post Hollywood Unions Race to Protect California’s Film Incentive From New Tax Credit Cap appeared first on TheWrap .",
+        "fa": "مدافعان هشدار می دهند که قانون جدیدی که میزان اعتبارات مالیاتی کسب و کارها را تا 5 میلیون دلار در سال محدود می کند، می تواند مبارزه با فرار تولید را از مسیر خارج کند."
+      },
+      "source": {
+        "en": "The Wrap",
+        "fa": "The Wrap"
+      },
+      "link": "https://www.thewrap.com/industry-news/public-policy-legal/california-tax-incentive-program-sb-122/",
+      "date": "2026-08-19T02:13:13.590100+00:00",
+      "image": "https://www.thewrap.com/wp-content/uploads/2025/06/CMS_GettyImages-1242729536.jpg",
+      "important": false,
+      "score": 0
+    },
+    {
+      "id": "7285fe14f070",
+      "title": {
+        "en": "Stephen Colbert’s Director Breaks Down ‘Nonstop Craziness’ of ‘Late Show’ Series Finale",
+        "fa": "کارگردان استفن کولبرت «دیوانگی بی‌وقفه» فینال سریال «Late Show» را شکست."
+      },
+      "excerpt": {
+        "en": "TheWrap magazine: \"We all just hunkered down trying to get through that day,” Yvonne De Mare says of the CBS broadcast The post Stephen Colbert’s Director Breaks Down ‘Nonstop Craziness’ of ‘Late Show’ Series Finale appeared first on TheWrap .",
+        "fa": "مجله TheWrap: \"همه ما فقط سعی کردیم آن روز را پشت سر بگذاریم.\" ایوان دی ماره در مورد پخش CBS می گوید"
+      },
+      "content": {
+        "en": "TheWrap magazine: \"We all just hunkered down trying to get through that day,” Yvonne De Mare says of the CBS broadcast The post Stephen Colbert’s Director Breaks Down ‘Nonstop Craziness’ of ‘Late Show’ Series Finale appeared first on TheWrap .",
+        "fa": "مجله TheWrap: \"همه ما فقط سعی کردیم آن روز را پشت سر بگذاریم.\" ایوان دی ماره در مورد پخش CBS می گوید"
+      },
+      "source": {
+        "en": "The Wrap",
+        "fa": "The Wrap"
+      },
+      "link": "https://www.thewrap.com/industry-news/awards/stephen-colberts-director-final-episode-nonstop-craziness/",
+      "date": "2026-08-19T02:13:13.589255+00:00",
+      "image": "https://www.thewrap.com/wp-content/uploads/2026/08/Stephen-Colbert-Last-Show.jpg",
       "important": false,
       "score": 0
     },
@@ -477,7 +525,7 @@
         "fa": "The Hollywood Reporter"
       },
       "link": "https://www.hollywoodreporter.com/lifestyle/shopping/marilyn-monroe-100th-birthday-book-collectibles-memorabilia-1236526925/",
-      "date": "2026-08-19T00:42:21.175790+00:00",
+      "date": "2026-08-19T02:13:13.587335+00:00",
       "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/03/Marilyn-Monroes-100th-Birthday-Brings-Official-Coffee-Table-Book-and-Collectibles-MAIN.jpg?w=1296&#038;h=730&#038;crop=1",
       "important": false,
       "score": 0
@@ -501,7 +549,7 @@
         "fa": "The Hollywood Reporter"
       },
       "link": "https://www.hollywoodreporter.com/movies/movie-reviews/down-the-arm-of-god-review-caleb-landry-jones-1236675972/",
-      "date": "2026-08-19T00:42:21.175679+00:00",
+      "date": "2026-08-19T02:13:13.587225+00:00",
       "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/Down-the-Arm-of-God-film-still-6-EuropaCorp-H-2026.webp?w=969&#038;h=545&#038;crop=1",
       "important": false,
       "score": 0
@@ -510,7 +558,7 @@
       "id": "653a866c03b4",
       "title": {
         "en": "For Jacob Whiteduck-Lavoie, Everyday on ‘Sterling Point‘ Was the “Best Day Ever”",
-        "fa": "برای جیکوب وایتداک-لاووی، هر روز در «استرلینگ پوینت» «بهترین روز تاریخ» بود."
+        "fa": "برای Jacob Whiteduck-Lavoie، Everyday در \"Sterling Point\" \"بهترین روز تاریخ\" بود."
       },
       "excerpt": {
         "en": "The 23-year-old Canadian actor digs into booking the Prime Video YA series and how he made the jump to English-speaking roles.",
@@ -525,56 +573,8 @@
         "fa": "The Hollywood Reporter"
       },
       "link": "https://www.hollywoodreporter.com/tv/tv-features/jacob-whiteduck-lavoie-sterling-point-interview-1236676550/",
-      "date": "2026-08-19T00:42:21.175282+00:00",
+      "date": "2026-08-19T02:13:13.586797+00:00",
       "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/Jacob_SP.png?w=1440&#038;h=810&#038;crop=1",
-      "important": false,
-      "score": 0
-    },
-    {
-      "id": "83b75fe7d79b",
-      "title": {
-        "en": "Hayden Panettiere ‘Stuck Up for Background Actors When They Were Mistreated’ on ‘Heroes’ Set and ‘Knew Every Crew Members Name’",
-        "fa": "هیدن پانتی‌یر «هنگامی که با آنها بدرفتاری می‌شد برای بازیگران پس‌زمینه گیر افتاد» در مجموعه «قهرمانان» و «نام هر خدمه را می‌دانستم»"
-      },
-      "excerpt": {
-        "en": "Hayden Panettiere “stuck up for background actors when they were mistreated” on the “Heroes” set and “knew every crew members name,” her co-star Sendhil Ramamurthy lovingly remembered in a social media tribute to the late actor. Panettiere died on Aug. 16 at the age of 36. “Heroes” marked one of her most prolific TV series. She starred […]",
-        "fa": "سندهیل رامورتی، همبازی او، در ادای احترام به این بازیگر فقید، هیدن پانتی یر \"هنگامی که با آنها بدرفتاری می شد\" در مجموعه \"قهرمانان\" به دنبال بازیگران پس زمینه بود و \"اسم اعضای گروه را می دانست.\" پانتییر در 16 اوت در سن 36 سالگی درگذشت. \"قهرمانان\" یکی از پربارترین سریال های تلویزیونی او بود. او ستاره دار شد"
-      },
-      "content": {
-        "en": "Hayden Panettiere “stuck up for background actors when they were mistreated” on the “Heroes” set and “knew every crew members name,” her co-star Sendhil Ramamurthy lovingly remembered in a social media tribute to the late actor. Panettiere died on Aug. 16 at the age of 36. “Heroes” marked one of her most prolific TV series. She starred […]",
-        "fa": "سندهیل رامورتی، همبازی او، در ادای احترام به این بازیگر فقید، هیدن پانتی یر \"هنگامی که با آنها بدرفتاری می شد\" در مجموعه \"قهرمانان\" به دنبال بازیگران پس زمینه بود و \"اسم اعضای گروه را می دانست.\" پانتییر در 16 اوت در سن 36 سالگی درگذشت. \"قهرمانان\" یکی از پربارترین سریال های تلویزیونی او بود. او ستاره دار شد"
-      },
-      "source": {
-        "en": "Variety",
-        "fa": "Variety"
-      },
-      "link": "https://variety.com/2026/tv/news/hayden-panettiere-defended-mistreated-background-actors-heroes-set-1236837264/",
-      "date": "2026-08-19T00:42:21.173782+00:00",
-      "image": "https://variety.com/wp-content/uploads/2026/08/TCDHERO_EC191-e1787074640885.jpg",
-      "important": false,
-      "score": 0
-    },
-    {
-      "id": "2e3313f88d28",
-      "title": {
-        "en": "Felicia Day, Wil Wheaton on New Tabletop Gaming Show ‘Conludo,’ How ‘The Guild’ Reunion Movie Will Be Impacted by a Denied California Tax Credit",
-        "fa": "Felicia Day، Wil Wheaton در برنامه جدید بازی‌های رومیزی «Conludo»، چگونه فیلم «The Guild» تحت تأثیر اعتبار مالیاتی کالیفرنیا رد می‌شود"
-      },
-      "excerpt": {
-        "en": "Reunions all around for Felicia Day these days: Amid a massive fundraiser for a movie reunion of her series “The Guild,” Day is reteaming with longtime friend and collaborator Wil Wheaton for a new kind of board game TV series. Launching as fan-unlocked content tied to “The Guild: Ren Faire’d” movie’s ongoing Kickstarter campaign (which […]",
-        "fa": "این روزها گردهمایی‌های همه جانبه برای Felicia Day: در میان جمع‌آوری کمک مالی گسترده برای یک فیلم سینمایی از مجموعه او \"The Guild\"، دی دوباره با دوست و همکار قدیمی ویل ویتون برای نوع جدیدی از مجموعه تلویزیونی بازی‌های رومیزی همراه می‌شود. عرضه به عنوان محتوای بدون قفل توسط طرفداران مرتبط با کمپین در حال انجام فیلم «The Guild: Ren Faire'd» در Kickstarter (که"
-      },
-      "content": {
-        "en": "Reunions all around for Felicia Day these days: Amid a massive fundraiser for a movie reunion of her series “The Guild,” Day is reteaming with longtime friend and collaborator Wil Wheaton for a new kind of board game TV series. Launching as fan-unlocked content tied to “The Guild: Ren Faire’d” movie’s ongoing Kickstarter campaign (which […]",
-        "fa": "این روزها گردهمایی‌های همه جانبه برای Felicia Day: در میان جمع‌آوری کمک مالی گسترده برای یک فیلم سینمایی از مجموعه او \"The Guild\"، دی دوباره با دوست و همکار قدیمی ویل ویتون برای نوع جدیدی از مجموعه تلویزیونی بازی‌های رومیزی همراه می‌شود. عرضه به عنوان محتوای بدون قفل توسط طرفداران مرتبط با کمپین در حال انجام فیلم «The Guild: Ren Faire'd» در Kickstarter (که"
-      },
-      "source": {
-        "en": "Variety",
-        "fa": "Variety"
-      },
-      "link": "https://variety.com/2026/tv/news/felicia-day-wil-wheaton-the-guild-movie-show-conludo-1236837516/",
-      "date": "2026-08-19T00:42:21.172667+00:00",
-      "image": "https://variety.com/wp-content/uploads/2026/08/Felicia-Day-Wil-Wheaton.jpeg",
       "important": false,
       "score": 0
     }
