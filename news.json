@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-20T13:38:41.637727+00:00",
+  "updated_at": "2026-08-20T14:26:16.436284+00:00",
   "count": 24,
   "news": [
     {
@@ -21,7 +21,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/news/trailers/brotherhood-a-cinematic-musical-trailer-1235211243/",
-      "date": "2026-08-20T13:38:41.397928+00:00",
+      "date": "2026-08-20T14:26:16.226118+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/Mauricio-Martinez-the-Cast-of-Brotherhood-2.png?w=650",
       "important": true,
       "score": 4
@@ -45,8 +45,32 @@
         "fa": "Variety"
       },
       "link": "https://variety.com/2026/film/news/soccer-drama-forza-indonesia-release-global-rollout-1236838816/",
-      "date": "2026-08-20T13:38:41.390776+00:00",
+      "date": "2026-08-20T14:26:16.220248+00:00",
       "image": "https://variety.com/wp-content/uploads/2026/08/Forza.jpg",
+      "important": true,
+      "score": 4
+    },
+    {
+      "id": "9250c0aaae8e",
+      "title": {
+        "en": "‘Never After Dark’ Trailer: Stephen King Raves This Psychic Medium Thriller Is ‘Amazing and Haunting’ (EXCLUSIVE)",
+        "fa": "تریلر «هرگز پس از تاریکی»: استیون کینگ این تریلر روانی متوسط ​​را «شگفت‌انگیز و ترسناک» را ریو می‌کند"
+      },
+      "excerpt": {
+        "en": "The first trailer for dark festival hit “Never After Dark” has been released, and it has some big-time fans. Horror icon Stephen King has called the film, about a psychic trying to unravel the mystery behind an evil house, “amazing and haunting.” Director Scott Derrickson, whose films include “The Black Phone” and “Sinister,” called it […]",
+        "fa": "اولین تریلر فیلم موفق جشنواره تاریک \"Never After Dark\" منتشر شد و طرفداران زیادی دارد. استفن کینگ، نماد ترسناک، این فیلم را که درباره یک روانی است که سعی می‌کند راز پشت یک خانه شیطانی را کشف کند، «شگفت‌انگیز و دلهره‌آور» نامیده است. اسکات دریکسون کارگردان، که از جمله فیلم‌هایش می‌توان به «تلفن سیاه» و «شوم» نام برد"
+      },
+      "content": {
+        "en": "The first trailer for dark festival hit “Never After Dark” has been released, and it has some big-time fans. Horror icon Stephen King has called the film, about a psychic trying to unravel the mystery behind an evil house, “amazing and haunting.” Director Scott Derrickson, whose films include “The Black Phone” and “Sinister,” called it […]",
+        "fa": "اولین تریلر فیلم موفق جشنواره تاریک \"Never After Dark\" منتشر شد و طرفداران زیادی دارد. استفن کینگ، نماد ترسناک، این فیلم را که درباره یک روانی است که سعی می‌کند راز پشت یک خانه شیطانی را کشف کند، «شگفت‌انگیز و دلهره‌آور» نامیده است. اسکات دریکسون کارگردان، که از جمله فیلم‌هایش می‌توان به «تلفن سیاه» و «شوم» نام برد"
+      },
+      "source": {
+        "en": "Variety",
+        "fa": "Variety"
+      },
+      "link": "https://variety.com/2026/film/news/never-after-dark-trailer-stephen-king-psychic-thriller-1236838731/",
+      "date": "2026-08-20T14:26:16.217994+00:00",
+      "image": "https://variety.com/wp-content/uploads/2026/08/Never-After-Dark.png",
       "important": true,
       "score": 4
     },
@@ -69,7 +93,7 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/chris-pratt-james-reece-the-terminal-list-season-2-trailer-1237045899/",
-      "date": "2026-08-20T13:38:41.387232+00:00",
+      "date": "2026-08-20T14:26:16.216226+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/TMLT_S2_UT_201_250414_LUBJUS_00132RC2.jpg",
       "important": true,
       "score": 4
@@ -93,7 +117,7 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/monster-the-lizzie-borden-story-trailer-ryan-murphy-netflix-1237030567/",
-      "date": "2026-08-20T13:38:41.386451+00:00",
+      "date": "2026-08-20T14:26:16.215479+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/Monster__The_Lizzie_Borden_Story_n_S1_E1_00_52_19_02R.jpg",
       "important": true,
       "score": 4
@@ -117,7 +141,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/news/business/val-kilmer-ai-movie-footage-as-deep-as-the-grave-1235211459/",
-      "date": "2026-08-20T13:38:41.398179+00:00",
+      "date": "2026-08-20T14:26:16.226381+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/Screen-Shot-2026-08-19-at-7.08.47-AM.png?w=650",
       "important": false,
       "score": 3
@@ -141,7 +165,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/awards/predictions/hbo-emmy-campaign-perseverance-should-pay-off-1235211458/",
-      "date": "2026-08-20T13:38:41.396859+00:00",
+      "date": "2026-08-20T14:26:16.224986+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/2290751324.jpg?w=650",
       "important": false,
       "score": 3
@@ -165,32 +189,8 @@
         "fa": "The Hollywood Reporter"
       },
       "link": "https://www.hollywoodreporter.com/tv/tv-news/hbo-max-names-european-writers-for-script-engine-program-1236677587/",
-      "date": "2026-08-20T13:38:41.393468+00:00",
+      "date": "2026-08-20T14:26:16.221843+00:00",
       "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/Frank-Spotnitz-headshot.jpg?crop=0px%2C0px%2C1000px%2C560px&#038;resize=1440%2C810",
-      "important": false,
-      "score": 3
-    },
-    {
-      "id": "d1a637331bc8",
-      "title": {
-        "en": "Jonah Hauer-King Joins Season 2 of Rose Ayling-Ellis Drama ‘Code of Silence’ for ITV, BritBox",
-        "fa": "Jonah Hauer-King به فصل 2 درام Rose Ayling-Ellis \"Code of Silence\" برای ITV، BritBox پیوست"
-      },
-      "excerpt": {
-        "en": "New cast members of the Mammoth Screen series, created by Catherine Moulton, also include Jo Joyner ('Little Disasters'), Sophie McShera ('Downton Abbey') and John Hollingworth ('The Crown').",
-        "fa": "از دیگر بازیگران سریال Mammoth Screen که توسط کاترین مولتون ساخته شده است، جو جوینر، سوفی مک‌شرا و جان هالینگ‌ورث نیز حضور دارند."
-      },
-      "content": {
-        "en": "New cast members of the Mammoth Screen series, created by Catherine Moulton, also include Jo Joyner ('Little Disasters'), Sophie McShera ('Downton Abbey') and John Hollingworth ('The Crown').",
-        "fa": "از دیگر بازیگران سریال Mammoth Screen که توسط کاترین مولتون ساخته شده است، جو جوینر، سوفی مک‌شرا و جان هالینگ‌ورث نیز حضور دارند."
-      },
-      "source": {
-        "en": "The Hollywood Reporter",
-        "fa": "The Hollywood Reporter"
-      },
-      "link": "https://www.hollywoodreporter.com/tv/tv-news/jonah-hauer-king-joins-rose-ayling-ellis-code-of-silence-1236677602/",
-      "date": "2026-08-20T13:38:41.393042+00:00",
-      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/Rose-Ayling-Ellis-as-Alison-Brooks-and-Jonah-Hauer-King-as-DS-Daniel-Henshaw-in-Code-of-Silence-season-2-Mammoth-Screen_ITV-H-2026.jpg?w=1440&#038;h=810&#038;crop=1",
       "important": false,
       "score": 3
     },
@@ -198,7 +198,7 @@
       "id": "f7d24389dc58",
       "title": {
         "en": "Chelsea Freeman Signs With The Team (Exclusive)",
-        "fa": "چلسی فریمن با تیم قرارداد امضا کرد"
+        "fa": "چلسی فریمن با این تیم قرارداد امضا کرد"
       },
       "excerpt": {
         "en": "The influencer and wife of Dodgers star Freddie Freeman is looking beyond the ballpark to expand her presence in the sports, fashion, lifestyle and family content spaces.",
@@ -213,32 +213,8 @@
         "fa": "The Hollywood Reporter"
       },
       "link": "https://www.hollywoodreporter.com/business/business-news/chelsea-freeman-the-team-1236677166/",
-      "date": "2026-08-20T13:38:41.392614+00:00",
+      "date": "2026-08-20T14:26:16.220945+00:00",
       "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/GettyImages-2224768529.jpg?crop=0px%2C129px%2C6000px%2C3357px&#038;resize=1440%2C810",
-      "important": false,
-      "score": 3
-    },
-    {
-      "id": "4e739894e846",
-      "title": {
-        "en": "The Freyas, a New Awards Ceremony Celebrating Nordic Film and TV Talent, to Launch in Helsinki (EXCLUSIVE)",
-        "fa": "The Freyas، مراسم جوایز جدید برای تجلیل از استعدادهای سینمایی و تلویزیونی شمال اروپا، در هلسینکی راه اندازی می شود."
-      },
-      "excerpt": {
-        "en": "Helsinki is to host a new awards ceremony, to be known as The Freyas, which will celebrate Nordic film and TV talent, bringing together the region’s leading filmmakers as well as international industry guests. Its launch follows the recent global success of Nordic titles such as “Sentimental Value,” which won the Oscar for Best International […]",
-        "fa": "هلسینکی میزبان مراسم اهدای جوایز جدیدی است که به نام The Freyas شناخته می شود و استعدادهای سینما و تلویزیون نوردیک را جشن می گیرد و فیلمسازان برجسته منطقه و همچنین مهمانان صنعت بین المللی را گرد هم می آورد. راه اندازی آن به دنبال موفقیت جهانی اخیر عناوین نوردیک مانند \"ارزش احساسی\" است که برنده اسکار بهترین بین المللی شد."
-      },
-      "content": {
-        "en": "Helsinki is to host a new awards ceremony, to be known as The Freyas, which will celebrate Nordic film and TV talent, bringing together the region’s leading filmmakers as well as international industry guests. Its launch follows the recent global success of Nordic titles such as “Sentimental Value,” which won the Oscar for Best International […]",
-        "fa": "هلسینکی میزبان مراسم اهدای جوایز جدیدی است که به نام The Freyas شناخته می شود و استعدادهای سینما و تلویزیون نوردیک را جشن می گیرد و فیلمسازان برجسته منطقه و همچنین مهمانان صنعت بین المللی را گرد هم می آورد. راه اندازی آن به دنبال موفقیت جهانی اخیر عناوین نوردیک مانند \"ارزش احساسی\" است که برنده اسکار بهترین بین المللی شد."
-      },
-      "source": {
-        "en": "Variety",
-        "fa": "Variety"
-      },
-      "link": "https://variety.com/2026/film/global/the-freyas-nordic-film-and-tv-awards-helsinki-1236838943/",
-      "date": "2026-08-20T13:38:41.391086+00:00",
-      "image": "https://variety.com/wp-content/uploads/2026/08/Freyas.jpg",
       "important": false,
       "score": 3
     },
@@ -246,7 +222,7 @@
       "id": "7e1f2c4b9898",
       "title": {
         "en": "Netflix’s Engaging Crime Drama ‘Blood Sacrifice’ Spotlights Inept Policing: TV Review",
-        "fa": "درام جنایی جذاب «Blood Sacrifice» نتفلیکس، پلیسی نادرست را در کانون توجه قرار داد: نقد تلویزیونی"
+        "fa": "Netflix’s Engaging Crime Drama ‘Blood Sacrifice’ Spotlights Inept Policing: TV Review"
       },
       "excerpt": {
         "en": "“Hijack” and “Lupin” creator George Kay is no stranger to engrossing dramas, and in his newest Netflix series, “Blood Sacrifice,” a grisly Swedish crime thriller, Kay unpacks the unending mental toll of police work. It’s a psychological load that extends beyond law enforcers and spills onto their closest friends and family members. Intense, bloody and […]",
@@ -261,8 +237,32 @@
         "fa": "Variety"
       },
       "link": "https://variety.com/2026/tv/reviews/blood-sacrifice-review-netflix-1236838260/",
-      "date": "2026-08-20T13:38:41.389552+00:00",
+      "date": "2026-08-20T14:26:16.218976+00:00",
       "image": "https://variety.com/wp-content/uploads/2026/08/L1121482_AdamKlingeteg_Netflix_Blodsoffer.jpg",
+      "important": false,
+      "score": 3
+    },
+    {
+      "id": "acfa8eedeaae",
+      "title": {
+        "en": "AI Music Companies Udio and GRAI License Swath of Patents From UMG-Backed Music IP Holdings (EXCLUSIVE)",
+        "fa": "شرکت های موسیقی هوش مصنوعی Udio و GRAI مجوز ثبت اختراعات از هولدینگ های IP Music تحت حمایت UMG"
+      },
+      "excerpt": {
+        "en": "Patents are often the bedrock of new innovation, and a suite of patents defining how AI-generated music can be created, licensed and monetized has hit the market — with multiple AI companies lined up to license them. Music IP Holdings, a company formed last year out of a strategic partnership with Universal Music Group and the […]",
+        "fa": "پتنت ها اغلب بستر نوآوری های جدید هستند و مجموعه ای از پتنت ها که نحوه ایجاد، مجوز و کسب درآمد موسیقی تولید شده توسط هوش مصنوعی را تعریف می کند، به بازار راه یافته است – با شرکت های متعدد هوش مصنوعی که برای صدور مجوز به آن ها صف کشیده اند. Music IP Holdings، شرکتی که سال گذشته از طریق یک مشارکت استراتژیک با گروه موسیقی یونیورسال و گروه موسیقی تاسیس شد"
+      },
+      "content": {
+        "en": "Patents are often the bedrock of new innovation, and a suite of patents defining how AI-generated music can be created, licensed and monetized has hit the market — with multiple AI companies lined up to license them. Music IP Holdings, a company formed last year out of a strategic partnership with Universal Music Group and the […]",
+        "fa": "پتنت ها اغلب بستر نوآوری های جدید هستند و مجموعه ای از پتنت ها که نحوه ایجاد، مجوز و کسب درآمد موسیقی تولید شده توسط هوش مصنوعی را تعریف می کند، به بازار راه یافته است – با شرکت های متعدد هوش مصنوعی که برای صدور مجوز به آن ها صف کشیده اند. Music IP Holdings، شرکتی که سال گذشته از طریق یک مشارکت استراتژیک با گروه موسیقی یونیورسال و گروه موسیقی تاسیس شد"
+      },
+      "source": {
+        "en": "Variety",
+        "fa": "Variety"
+      },
+      "link": "https://variety.com/2026/biz/news/ai-music-udio-grai-patents-umg-backed-music-ip-holdings-1236838763/",
+      "date": "2026-08-20T14:26:16.218366+00:00",
+      "image": "https://variety.com/wp-content/uploads/2020/06/var_universal223910.jpg",
       "important": false,
       "score": 3
     },
@@ -285,7 +285,7 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/daniel-peddle-cold-moon-rising-michael-sledge-1237046137/",
-      "date": "2026-08-20T13:38:41.388620+00:00",
+      "date": "2026-08-20T14:26:16.217512+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/Daniel-Peddle-e1787226825501.jpg",
       "important": false,
       "score": 3
@@ -309,7 +309,7 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/kate-beckinsale-movie-drifter-boarded-by-the-syndicate-tiff-1237046149/",
-      "date": "2026-08-20T13:38:41.387611+00:00",
+      "date": "2026-08-20T14:26:16.216554+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/Kate-Beckinsale-Dermot-Mulroney-Robert-Knepper-and-rapper-Sticky-Fingaz.jpg",
       "important": false,
       "score": 3
@@ -333,7 +333,7 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/2026-tca-awards-winners-heated-rivalry-1237045534/",
-      "date": "2026-08-20T13:38:41.387092+00:00",
+      "date": "2026-08-20T14:26:16.216087+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/Heated-Rivalry-and-Widows-Bay.jpg",
       "important": false,
       "score": 3
@@ -342,7 +342,7 @@
       "id": "54c6ceb13855",
       "title": {
         "en": "Creator Talent Agency Ponte Firm Expands Teams On Both Coasts",
-        "fa": "آژانس استعدادهای خلاق شرکت پونته تیم‌های خود را در هر دو سواحل گسترش می‌دهد"
+        "fa": "آژانس استعدادهای خلاق Ponte شرکت تیم‌های خود را در هر دو ساحل گسترش می‌دهد"
       },
       "excerpt": {
         "en": "EXCLUSIVE: Another creator-focused management business is building out on both coasts. Shana Davis-Ross’s Ponte Firm, which represents lifestyle creators such as Kit Keenan and Audrey Peters, has hired hired four leadership-level execs – two in New York and two in L.A. – and promoted another to a senior role in Texas. Jenna Bissonnette has hired […]",
@@ -357,8 +357,32 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/creator-talent-agency-ponte-firm-expands-1237045155/",
-      "date": "2026-08-20T13:38:41.386837+00:00",
+      "date": "2026-08-20T14:26:16.215814+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/Ponte-leadership.jpg",
+      "important": false,
+      "score": 3
+    },
+    {
+      "id": "de024fb31482",
+      "title": {
+        "en": "Martin Scorsese Joins Paul Schrader’s Venice Drama ‘The Basics Of Philosophy’; Noora Films Boards Sales",
+        "fa": "مارتین اسکورسیزی به درام ونیز پل شریدر «مبانی فلسفه» می‌پیوندد. فروش تابلوهای فیلم نورا"
+      },
+      "excerpt": {
+        "en": "EXCLUSIVE: Ahead of its launch at the Venice Film Festival, Paul Schrader’s drama The Basics Of Philosophy has got some key support. Noora Films has joined the film to represent international sales and Schrader’s old collaborator Martin Scorsese is aboard as an executive producer. Scorsese and Schrader formed one of the most potent writing-directing partnerships […]",
+        "fa": "اختصاصی: پیش از عرضه در جشنواره فیلم ونیز، درام «مبانی فلسفه» ساخته پل شریدر از حمایت های کلیدی برخوردار شده است. نورا فیلمز برای نمایندگی فروش بین المللی به فیلم پیوست و مارتین اسکورسیزی همکار قدیمی شریدر به عنوان تهیه کننده اجرایی در این فیلم حضور دارد. اسکورسیزی و شریدر یکی از قوی ترین همکاری های نویسندگی و کارگردانی را تشکیل دادند"
+      },
+      "content": {
+        "en": "EXCLUSIVE: Ahead of its launch at the Venice Film Festival, Paul Schrader’s drama The Basics Of Philosophy has got some key support. Noora Films has joined the film to represent international sales and Schrader’s old collaborator Martin Scorsese is aboard as an executive producer. Scorsese and Schrader formed one of the most potent writing-directing partnerships […]",
+        "fa": "اختصاصی: پیش از عرضه در جشنواره فیلم ونیز، درام «مبانی فلسفه» ساخته پل شریدر از حمایت های کلیدی برخوردار شده است. نورا فیلمز برای نمایندگی فروش بین المللی به فیلم پیوست و مارتین اسکورسیزی همکار قدیمی شریدر به عنوان تهیه کننده اجرایی در این فیلم حضور دارد. اسکورسیزی و شریدر یکی از قوی ترین همکاری های نویسندگی و کارگردانی را تشکیل دادند"
+      },
+      "source": {
+        "en": "Deadline",
+        "fa": "Deadline"
+      },
+      "link": "https://deadline.com/2026/08/martin-scorsese-joins-paul-schrader-film-basics-philosophy-1237046163/",
+      "date": "2026-08-20T14:26:16.214200+00:00",
+      "image": "https://deadline.com/wp-content/uploads/2026/07/The-Basics-of-Philosophy-Jack-x-Sofia-Still.jpg",
       "important": false,
       "score": 3
     },
@@ -381,7 +405,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/news/box-office/indie-specialized-box-office-camp-miasma-tony-expansion-1235211578/",
-      "date": "2026-08-20T13:38:41.397820+00:00",
+      "date": "2026-08-20T14:26:16.225992+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/MCDTESE_K3001.jpg?w=650",
       "important": false,
       "score": 1
@@ -405,82 +429,34 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/news/trailers/chronovisor-movie-trailer-1235211641/",
-      "date": "2026-08-20T13:38:41.396409+00:00",
+      "date": "2026-08-20T14:26:16.224661+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/MCDCHRO_EC087.jpg?w=650",
       "important": false,
       "score": 1
     },
     {
-      "id": "03285ff74216",
+      "id": "79e67eef436d",
       "title": {
-        "en": "Charter Closes $34.5 Billion Cox Deal in Cable Megamerger, Company to Adopt Cox Communications Name",
-        "fa": "منشور قرارداد 34.5 میلیارد دلاری کاکس را در Cable Megamerger بسته می‌شود، شرکتی که نام Cox Communications را می‌پذیرد."
+        "en": "New Cable Giant Emerges: Charter Closes $34.5 Billion Deal For Cox and Liberty",
+        "fa": "غول کابلی جدید ظهور می کند: منشور قرارداد 34.5 میلیارد دلاری را برای کاکس و لیبرتی بسته است"
       },
       "excerpt": {
-        "en": "Charter Communications, already the No. 1 cable operator in the U.S., closed its acquisition of Cox Communications, creating a cable giant with operations in 45 states serving roughly 37 million customers. The closing of the deal, valued at $34.5 billion, comes after the California Public Utility Commission (CPUC) last week voted to approve the transaction, […]",
-        "fa": "Charter Communications که قبلا اپراتور شماره 1 کابل در ایالات متحده بود، خرید Cox Communications را تعطیل کرد و یک غول کابلی با عملیات در 45 ایالت ایجاد کرد که تقریباً به 37 میلیون مشتری خدمات رسانی می کرد. بسته شدن این معامله، به ارزش 34.5 میلیارد دلار، پس از آن صورت گرفت که کمیسیون خدمات عمومی کالیفرنیا هفته گذشته رای به تایید این معامله داد."
+        "en": "\"When Liberty first invested in Charter more than a decade ago, we saw an opportunity to build scale behind a great management team and operating model,\" said John Malone.",
+        "fa": "جان مالون گفت: «زمانی که لیبرتی برای اولین بار بیش از یک دهه پیش در منشور سرمایه گذاری کرد، ما فرصتی برای ایجاد مقیاس در پشت یک تیم مدیریتی عالی و مدل عملیاتی دیدیم."
       },
       "content": {
-        "en": "Charter Communications, already the No. 1 cable operator in the U.S., closed its acquisition of Cox Communications, creating a cable giant with operations in 45 states serving roughly 37 million customers. The closing of the deal, valued at $34.5 billion, comes after the California Public Utility Commission (CPUC) last week voted to approve the transaction, […]",
-        "fa": "Charter Communications که قبلا اپراتور شماره 1 کابل در ایالات متحده بود، خرید Cox Communications را تعطیل کرد و یک غول کابلی با عملیات در 45 ایالت ایجاد کرد که تقریباً به 37 میلیون مشتری خدمات رسانی می کرد. بسته شدن این معامله، به ارزش 34.5 میلیارد دلار، پس از آن صورت گرفت که کمیسیون خدمات عمومی کالیفرنیا هفته گذشته رای به تایید این معامله داد."
+        "en": "\"When Liberty first invested in Charter more than a decade ago, we saw an opportunity to build scale behind a great management team and operating model,\" said John Malone.",
+        "fa": "جان مالون گفت: «زمانی که لیبرتی برای اولین بار بیش از یک دهه پیش در منشور سرمایه گذاری کرد، ما فرصتی برای ایجاد مقیاس در پشت یک تیم مدیریتی عالی و مدل عملیاتی دیدیم."
       },
       "source": {
-        "en": "Variety",
-        "fa": "Variety"
+        "en": "The Hollywood Reporter",
+        "fa": "The Hollywood Reporter"
       },
-      "link": "https://variety.com/2026/tv/news/charter-closes-cox-merger-new-company-name-1236838902/",
-      "date": "2026-08-20T13:38:41.391854+00:00",
-      "image": "https://variety.com/wp-content/uploads/2026/08/Chris-Winfrey.jpg",
+      "link": "https://www.hollywoodreporter.com/business/business-news/charter-communications-completes-cox-liberty-broadband-deal-1236677613/",
+      "date": "2026-08-20T14:26:16.221669+00:00",
+      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2021/10/Chris-Winfrey-_-Charter-_Horizontal-copy-H-2021.jpg?w=1296&#038;h=730&#038;crop=1",
       "important": false,
       "score": 1
-    },
-    {
-      "id": "f9e031100825",
-      "title": {
-        "en": "Edinburgh Film Festival: Kieron J. Walsh’s ‘Skintown’ Wins Sean Connery Prize For Feature Filmmaking",
-        "fa": "جشنواره فیلم ادینبورگ: فیلم «اسکین‌تاون» ساخته کیرون جی والش برنده جایزه شان کانری برای فیلم‌سازی بلند شد."
-      },
-      "excerpt": {
-        "en": "Skintown, the latest feature by Kieron J.Walsh, has won the Sean Connery Prize for Feature Filmmaking Excellence at this year’s Edinburgh Film Festival. Walsh’s Skintown beat out nine other features in the EIFF competition. The prize comes with £50,000 to support future projects. Skintown follows best friends Vinny and Jonty who party, cut deals and […]",
-        "fa": "Skintown, the latest feature by Kieron J.Walsh, has won the Sean Connery Prize for Feature Filmmaking Excellence at this year’s Edinburgh Film Festival. Walsh’s Skintown beat out nine other features in the EIFF competition. The prize comes with £50,000 to support future projects. Skintown follows best friends Vinny and Jonty who party, cut deals and […]"
-      },
-      "content": {
-        "en": "Skintown, the latest feature by Kieron J.Walsh, has won the Sean Connery Prize for Feature Filmmaking Excellence at this year’s Edinburgh Film Festival. Walsh’s Skintown beat out nine other features in the EIFF competition. The prize comes with £50,000 to support future projects. Skintown follows best friends Vinny and Jonty who party, cut deals and […]",
-        "fa": "Skintown، جدیدترین فیلم کیرون جی والش، برنده جایزه شان کانری برای برتری فیلم بلند در جشنواره فیلم ادینبورگ امسال شد. Walsh’s Skintown در رقابت EIFF 9 ویژگی دیگر را شکست داد. این جایزه با 50000 پوند برای حمایت از پروژه های آینده همراه است. اسکین‌تاون دنبال بهترین دوستان وینی و جانتی است که مهمانی می‌دهند، معامله می‌کنند و"
-      },
-      "source": {
-        "en": "Deadline",
-        "fa": "Deadline"
-      },
-      "link": "https://deadline.com/2026/08/kieron-j-walsh-skintown-edinburgh-film-festival-1237046127/",
-      "date": "2026-08-20T13:38:41.389153+00:00",
-      "image": "https://deadline.com/wp-content/uploads/2026/08/EIFF2026_Skintown_KeyStill.jpeg",
-      "important": false,
-      "score": 1
-    },
-    {
-      "id": "cca24eac908c",
-      "title": {
-        "en": "‘Tony’ Review: Dominic Sessa Shines in a Briny, Bittersweet Coming-of-Age Comedy That Just Happens to Be About a Young Anthony Bourdain",
-        "fa": "نقد و بررسی «تونی»: دومینیک سسا در یک کمدی تلخ و شیرین در دوران بلوغ می درخشد که اتفاقاً درباره آنتونی بوردین جوان است."
-      },
-      "excerpt": {
-        "en": "Matt Johnson's most straightforward movie is a summery ode to pretentious young louts everywhere.",
-        "fa": "سرراست ترین فیلم مت جانسون یک قصیده تابستانی برای لوت های جوان پرمدعا در همه جا است."
-      },
-      "content": {
-        "en": "Matt Johnson's most straightforward movie is a summery ode to pretentious young louts everywhere.",
-        "fa": "سرراست ترین فیلم مت جانسون یک قصیده تابستانی برای لوت های جوان پرمدعا در همه جا است."
-      },
-      "source": {
-        "en": "IndieWire",
-        "fa": "IndieWire"
-      },
-      "link": "https://www.indiewire.com/criticism/movies/tony-movie-review-anthony-bourdain-1235207248/",
-      "date": "2026-08-20T13:38:41.398606+00:00",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/07/image-w1280-2.webp?w=650",
-      "important": false,
-      "score": 0
     },
     {
       "id": "794a67f8aca5",
@@ -501,7 +477,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/features/interviews/ai-filmmaking-will-fail-james-gray-paper-tiger-director-1235211572/",
-      "date": "2026-08-20T13:38:41.397683+00:00",
+      "date": "2026-08-20T14:26:16.225817+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/GettyImages-2276688682.jpg?w=650",
       "important": false,
       "score": 0
@@ -525,7 +501,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/news/business/paramount-warner-bros-merger-4500-tv-film-production-jobs-lost-1235211693/",
-      "date": "2026-08-20T13:38:41.397068+00:00",
+      "date": "2026-08-20T14:26:16.225200+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/04/P105O250.jpg?w=650",
       "important": false,
       "score": 0
@@ -549,32 +525,56 @@
         "fa": "The Wrap"
       },
       "link": "https://www.thewrap.com/creative-content/tv-shows/rosie-odonnell-name-drops-natalie-harp-trump-jab-jimmy-kimmel-live-monologue/",
-      "date": "2026-08-20T13:38:41.395733+00:00",
+      "date": "2026-08-20T14:26:16.223803+00:00",
       "image": "https://www.thewrap.com/wp-content/uploads/2026/08/Untitled-design-2026-08-19T214338.496.jpg",
       "important": false,
       "score": 0
     },
     {
-      "id": "d8f0f43833b6",
+      "id": "6f6c45441c32",
       "title": {
-        "en": "Christine Vachon on Why Landing Pedro Pascal to Replace Joaquin Phoenix in ‘De Noche’ Gave Todd Haynes the ‘Happy Ending’ He Deserved",
-        "fa": "کریستین واشون در مورد چرا فرود آمدن پدرو پاسکال به جای خواکین فینیکس در «De Noche» به تاد هاینس «پایان خوش» را داد که شایسته آن بود."
+        "en": "ESPN Will Test ‘Alumni Cast’ for MLB Little League Classic",
+        "fa": "ESPN \"بازیگران فارغ التحصیل\" را برای MLB Little League Classic آزمایش خواهد کرد"
       },
       "excerpt": {
-        "en": "“Being a film producer is like childbirth. You really have to forget the pain or else you wouldn’t keep doing it.” So claimed Christine Vachon, speaking at the Variety Lounge at Edinburgh International Film Festival, where the prolific indie film icon gave a brief insight into the pain — but also joy — of producing. It’s something she’s famously […]",
-        "fa": "\"تهیه کننده فیلم بودن مانند زایمان است. شما واقعا باید درد را فراموش کنید وگرنه به این کار ادامه نمی دهید.\" کریستین واچون، در سخنرانی در ورایتی لانژ در جشنواره بین‌المللی فیلم ادینبورگ، که در آن نماد پرکار فیلم مستقل بینشی کوتاه از درد - اما همچنین لذت - تولید ارائه کرد، چنین ادعا کرد. این چیزی است که او مشهور است"
+        "en": "ESPN has tapped Pixar and Marvel characters in sundry bids to create new ways for viewers to watch their favorite games. Now the sports-media giant will investigate the use of a different kind of character. While the ninth annual MLB Little League Classic airs August 23 on ESPN, ESPN2 will feature an “alumni alt-cast” of […]",
+        "fa": "ESPN از شخصیت‌های Pixar و Marvel در مناقصه‌های مختلف استفاده کرده است تا راه‌های جدیدی برای تماشاگران برای تماشای بازی‌های مورد علاقه‌شان ایجاد کند. حالا غول ورزشی-رسانه ای استفاده از شخصیت متفاوتی را بررسی خواهد کرد. در حالی که نهمین دوره سالانه MLB Little League Classic در 23 آگوست از ESPN پخش می شود، ESPN2 یک \"Alumni Alt-cast\" را ارائه خواهد کرد."
       },
       "content": {
-        "en": "“Being a film producer is like childbirth. You really have to forget the pain or else you wouldn’t keep doing it.” So claimed Christine Vachon, speaking at the Variety Lounge at Edinburgh International Film Festival, where the prolific indie film icon gave a brief insight into the pain — but also joy — of producing. It’s something she’s famously […]",
-        "fa": "\"تهیه کننده فیلم بودن مانند زایمان است. شما واقعا باید درد را فراموش کنید وگرنه به این کار ادامه نمی دهید.\" کریستین واچون، در سخنرانی در ورایتی لانژ در جشنواره بین‌المللی فیلم ادینبورگ، که در آن نماد پرکار فیلم مستقل بینشی کوتاه از درد - اما همچنین لذت - تولید ارائه کرد، چنین ادعا کرد. این چیزی است که او مشهور است"
+        "en": "ESPN has tapped Pixar and Marvel characters in sundry bids to create new ways for viewers to watch their favorite games. Now the sports-media giant will investigate the use of a different kind of character. While the ninth annual MLB Little League Classic airs August 23 on ESPN, ESPN2 will feature an “alumni alt-cast” of […]",
+        "fa": "ESPN از شخصیت‌های Pixar و Marvel در مناقصه‌های مختلف استفاده کرده است تا راه‌های جدیدی برای تماشاگران برای تماشای بازی‌های مورد علاقه‌شان ایجاد کند. حالا غول ورزشی-رسانه ای استفاده از شخصیت متفاوتی را بررسی خواهد کرد. در حالی که نهمین دوره سالانه MLB Little League Classic در 23 آگوست از ESPN پخش می شود، ESPN2 یک \"Alumni Alt-cast\" را ارائه خواهد کرد."
       },
       "source": {
         "en": "Variety",
         "fa": "Variety"
       },
-      "link": "https://variety.com/2026/film/global/christine-vachon-pedro-pascal-joaquin-phoenix-de-noche-1236838882/",
-      "date": "2026-08-20T13:38:41.392192+00:00",
-      "image": "https://variety.com/wp-content/uploads/2026/08/EIFF-2026-Variety-Lounge-with-Christine-Vachon_August-14-2026_Photo-Credit-Robin-Mair.jpg",
+      "link": "https://variety.com/2026/tv/news/espn-mlb-little-league-classic-alumni-alt-cast-1236838737/",
+      "date": "2026-08-20T14:26:16.219802+00:00",
+      "image": "https://variety.com/wp-content/uploads/2026/08/IMG_5465.jpeg",
+      "important": false,
+      "score": 0
+    },
+    {
+      "id": "3c821794769d",
+      "title": {
+        "en": "Hayden Panettiere’s Team Discussed an ‘Intervention’ Before Her Death, Says Director of One of Her Final Movies: ‘I Got Asked to Participate’",
+        "fa": "کارگردان یکی از فیلم‌های پایانی او می‌گوید که تیم هیدن پانتی‌یر قبل از مرگ او درباره یک «مداخله» صحبت کردند: «از من خواسته شد که شرکت کنم»"
+      },
+      "excerpt": {
+        "en": "Griff Furst, who directed one of Hayden Panettiere’s final films before her shocking death Sunday at 36, said that her team had asked him to participate in an intervention after they filmed his 2025 movie, “A Breed Apart.” “When I think about this, it’s not just a Hayden story. I grew up on movie sets […]",
+        "fa": "گریف فورست که یکی از آخرین فیلم‌های هیدن پانتی‌یر را قبل از مرگ تکان‌دهنده‌اش در روز یکشنبه در سن 36 سالگی کارگردانی کرد، گفت که تیم او پس از فیلمبرداری فیلم سال 2025 او به نام «یک نژاد جدا» از او خواسته بود تا در مداخله‌ای شرکت کند. وقتی به این موضوع فکر می‌کنم، این فقط یک داستان هیدن نیست، من در صحنه فیلم‌برداری بزرگ شدم"
+      },
+      "content": {
+        "en": "Griff Furst, who directed one of Hayden Panettiere’s final films before her shocking death Sunday at 36, said that her team had asked him to participate in an intervention after they filmed his 2025 movie, “A Breed Apart.” “When I think about this, it’s not just a Hayden story. I grew up on movie sets […]",
+        "fa": "گریف فورست که یکی از آخرین فیلم‌های هیدن پانتی‌یر را قبل از مرگ تکان‌دهنده‌اش در روز یکشنبه در سن 36 سالگی کارگردانی کرد، گفت که تیم او پس از فیلمبرداری فیلم سال 2025 او به نام «یک نژاد جدا» از او خواسته بود تا در مداخله‌ای شرکت کند. وقتی به این موضوع فکر می‌کنم، این فقط یک داستان هیدن نیست، من در صحنه فیلم‌برداری بزرگ شدم"
+      },
+      "source": {
+        "en": "Variety",
+        "fa": "Variety"
+      },
+      "link": "https://variety.com/2026/film/news/hayden-panettiere-intervention-death-director-1236838972/",
+      "date": "2026-08-20T14:26:16.218732+00:00",
+      "image": "https://variety.com/wp-content/uploads/2026/08/MixCollage-20-Aug-2026-09-56-AM-2066.jpg",
       "important": false,
       "score": 0
     }
