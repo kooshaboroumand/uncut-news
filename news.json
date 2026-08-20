@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-20T09:24:35.017650+00:00",
+  "updated_at": "2026-08-20T10:20:26.201751+00:00",
   "count": 24,
   "news": [
     {
@@ -21,8 +21,32 @@
         "fa": "Variety"
       },
       "link": "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805/",
-      "date": "2026-08-20T09:24:34.811074+00:00",
+      "date": "2026-08-20T10:20:25.911251+00:00",
       "image": "https://variety.com/wp-content/uploads/2026/08/Epic-Rusk.jpg",
+      "important": true,
+      "score": 7
+    },
+    {
+      "id": "77922c20a0aa",
+      "title": {
+        "en": "Podcast Giant Goalhanger Hires Tom Miceli to Lead TV and Film Expansion (EXCLUSIVE)",
+        "fa": "پادکست Giant Goalhanger تام میسلی را برای رهبری گسترش تلویزیون و فیلم استخدام می کند"
+      },
+      "excerpt": {
+        "en": "Goalhanger, the British podcasting giant behind series such as as “The Rest is Football,” which recently launched as a Netflix show covering the World Cup, is looking to accelerate its growth on screen with the hire of Tom Miceli. Miceli joins from WME in the newly created role of head of IP development and will […]",
+        "fa": "Goalhanger، غول پادکست بریتانیایی پشت سریال‌هایی مانند «بقیه فوتبال است»، که اخیراً به عنوان یک برنامه نتفلیکس برای پوشش جام جهانی راه اندازی شده است، با استخدام تام میسلی به دنبال سرعت بخشیدن به رشد خود در صفحه نمایش است. Miceli از WME در نقش تازه ایجاد شده رئیس توسعه IP و اراده می‌پیوندد"
+      },
+      "content": {
+        "en": "Goalhanger, the British podcasting giant behind series such as as “The Rest is Football,” which recently launched as a Netflix show covering the World Cup, is looking to accelerate its growth on screen with the hire of Tom Miceli. Miceli joins from WME in the newly created role of head of IP development and will […]",
+        "fa": "Goalhanger، غول پادکست بریتانیایی پشت سریال‌هایی مانند «بقیه فوتبال است»، که اخیراً به عنوان یک برنامه نتفلیکس برای پوشش جام جهانی راه اندازی شده است، با استخدام تام میسلی به دنبال سرعت بخشیدن به رشد خود در صفحه نمایش است. Miceli از WME در نقش تازه ایجاد شده رئیس توسعه IP و اراده می‌پیوندد"
+      },
+      "source": {
+        "en": "Variety",
+        "fa": "Variety"
+      },
+      "link": "https://variety.com/2026/digital/global/goalhanger-hires-tom-miceli-tv-and-film-expansion-1236838833/",
+      "date": "2026-08-20T10:20:25.909791+00:00",
+      "image": "https://variety.com/wp-content/uploads/2026/08/Tom.jpg",
       "important": true,
       "score": 7
     },
@@ -45,34 +69,10 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/snl-showcases-2026-new-talent-standout-auditions-1237045776/",
-      "date": "2026-08-20T09:24:34.809013+00:00",
+      "date": "2026-08-20T10:20:25.908794+00:00",
       "image": "https://deadline.com/wp-content/uploads/2025/09/snl-mobile-min.webp",
       "important": true,
       "score": 7
-    },
-    {
-      "id": "5687ae36a1a7",
-      "title": {
-        "en": "‘Widow’s Bay’ Ups Jeff Hiller To Series Regular For Season 2",
-        "fa": "«خلیج بیوه» جف هیلر را به سریال معمولی برای فصل 2 سوق می دهد"
-      },
-      "excerpt": {
-        "en": "EXCLUSIVE: Widow’s Bay fans can look forward to a lot more laughs (and possibly screams) with Jeff Hiller in future, Deadline has learned. Come Season 2, Hiller will make the jump from guest star to series regular on the mega-hit much Emmy-nominated show about a haunted Massachusetts island. Hiller, who is repped by Innovative Artists […]",
-        "fa": "انحصاری: طرفداران Widow’s Bay می توانند در آینده منتظر خنده های بسیار بیشتری با جف هیلر باشند، ددلاین آموخته است. بیایید در فصل دوم، هیلر از ستاره مهمان به سریالی دیگر در سریال پرفروش و نامزد دریافت جایزه امی درباره جزیره جن زده ماساچوست پرش خواهد کرد. هیلر، که توسط هنرمندان مبتکر تکرار شده است"
-      },
-      "content": {
-        "en": "EXCLUSIVE: Widow’s Bay fans can look forward to a lot more laughs (and possibly screams) with Jeff Hiller in future, Deadline has learned. Come Season 2, Hiller will make the jump from guest star to series regular on the mega-hit much Emmy-nominated show about a haunted Massachusetts island. Hiller, who is repped by Innovative Artists […]",
-        "fa": "انحصاری: طرفداران Widow’s Bay می توانند در آینده منتظر خنده های بسیار بیشتری با جف هیلر باشند، ددلاین آموخته است. بیایید در فصل دوم، هیلر از ستاره مهمان به سریالی دیگر در سریال پرفروش و نامزد دریافت جایزه امی درباره جزیره جن زده ماساچوست پرش خواهد کرد. هیلر، که توسط هنرمندان مبتکر تکرار شده است"
-      },
-      "source": {
-        "en": "Deadline",
-        "fa": "Deadline"
-      },
-      "link": "https://deadline.com/2026/08/widows-bay-season-2-jeff-hiller-1237045620/",
-      "date": "2026-08-20T09:24:34.809797+00:00",
-      "image": "https://deadline.com/wp-content/uploads/2026/08/Widows_Bay_Photo_010401.jpg",
-      "important": true,
-      "score": 6
     },
     {
       "id": "ae9511bdfa62",
@@ -93,56 +93,32 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/news/trailers/brotherhood-a-cinematic-musical-trailer-1235211243/",
-      "date": "2026-08-20T09:24:34.815983+00:00",
+      "date": "2026-08-20T10:20:25.917668+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/Mauricio-Martinez-the-Cast-of-Brotherhood-2.png?w=650",
       "important": true,
       "score": 4
     },
     {
-      "id": "95573848ba31",
+      "id": "642b5ac0eea6",
       "title": {
-        "en": "‘Earle Meets World’ Trailer Goes Inside Alix Earle’s Dramatic, Rumor-Filled Year: “Nothing Is Off Limits”",
-        "fa": "تریلر «Earle Meets World» وارد سال دراماتیک و پر شایعه Alix Earle شد: «Nothing Is Off Limits»"
+        "en": "FlareFlow & Europe’s Shorts Strike Four-Title Microdrama Pact",
+        "fa": "FlareFlow & Europe’s Shorts Strike Four-Title Microdrama Pact"
       },
       "excerpt": {
-        "en": "The Netflix reality series will release its eight episodes on the streamer on Sept. 4.",
-        "fa": "سریال واقعیت نتفلیکس هشت قسمت خود را در تاریخ 4 سپتامبر روی استریمر منتشر خواهد کرد."
+        "en": "EXCLUSIVE: Microdrama platforms FlareFlow and Shorts are sharing the vertical love. The Singapore-based, COL Group-owned FlareFlow and Europe’s Shorts will team on a four-strong slate that they say will “broaden the landscape of microdrama” by dipping into fantasy-led, action, supernatural and revenge-themed storytelling. They say the deal “reflects a shared ambition to move vertical entertainment […]",
+        "fa": "انحصاری: پلتفرم های میکرودرام FlareFlow و Shorts عشق عمودی را به اشتراک می گذارند. FlareFlow مستقر در سنگاپور، متعلق به COL Group و Europe’s Shorts بر روی یک لوح چهارتایی با هم تیم خواهند شد که به گفته آنها با فرو رفتن در داستان سرایی فانتزی، اکشن، فراطبیعی و با مضمون انتقام، «چشم انداز میکرودرام را گسترش خواهد داد». آنها می گویند این معامله \"منعکس کننده یک جاه طلبی مشترک برای حرکت دادن سرگرمی های عمودی است"
       },
       "content": {
-        "en": "The Netflix reality series will release its eight episodes on the streamer on Sept. 4.",
-        "fa": "سریال واقعیت نتفلیکس هشت قسمت خود را در تاریخ 4 سپتامبر روی استریمر منتشر خواهد کرد."
-      },
-      "source": {
-        "en": "The Hollywood Reporter",
-        "fa": "The Hollywood Reporter"
-      },
-      "link": "https://www.hollywoodreporter.com/tv/tv-news/earle-meets-world-trailer-alix-earle-tom-brady-1236677198/",
-      "date": "2026-08-20T09:24:34.813157+00:00",
-      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/Earle-Meets-World.jpg?w=986&#038;h=555&#038;crop=1",
-      "important": true,
-      "score": 4
-    },
-    {
-      "id": "3ab0226cb140",
-      "title": {
-        "en": "Prince Harry & Meghan Markle Leaving L.A. & Heading Back To The UK",
-        "fa": "شاهزاده هری و مگان مارکل در حال ترک لس آنجلس و بازگشت به بریتانیا"
-      },
-      "excerpt": {
-        "en": "Prince Harry and Meghan Markle may still have a first look deal at Netflix, but the duo has decided to decamp from Hollywood. The Duke and Duchess of Sussex will be taking their children back to the UK for an extended period of time. The duo made headlines in 2020 when they stepped away from […]",
-        "fa": "شاهزاده هری و مگان مارکل ممکن است هنوز یک قرارداد نگاه اول به نتفلیکس داشته باشند، اما این دو تصمیم گرفته اند از هالیوود دور شوند. دوک و دوشس ساسکس فرزندان خود را برای مدت طولانی به بریتانیا خواهند برد. این دو در سال 2020 زمانی که از آن کنار رفتند، خبرساز شدند"
-      },
-      "content": {
-        "en": "Prince Harry and Meghan Markle may still have a first look deal at Netflix, but the duo has decided to decamp from Hollywood. The Duke and Duchess of Sussex will be taking their children back to the UK for an extended period of time. The duo made headlines in 2020 when they stepped away from […]",
-        "fa": "شاهزاده هری و مگان مارکل ممکن است هنوز یک قرارداد نگاه اول به نتفلیکس داشته باشند، اما این دو تصمیم گرفته اند از هالیوود دور شوند. دوک و دوشس ساسکس فرزندان خود را برای مدت طولانی به بریتانیا خواهند برد. این دو در سال 2020 زمانی که از آن کنار رفتند، خبرساز شدند"
+        "en": "EXCLUSIVE: Microdrama platforms FlareFlow and Shorts are sharing the vertical love. The Singapore-based, COL Group-owned FlareFlow and Europe’s Shorts will team on a four-strong slate that they say will “broaden the landscape of microdrama” by dipping into fantasy-led, action, supernatural and revenge-themed storytelling. They say the deal “reflects a shared ambition to move vertical entertainment […]",
+        "fa": "انحصاری: پلتفرم های میکرودرام FlareFlow و Shorts عشق عمودی را به اشتراک می گذارند. FlareFlow مستقر در سنگاپور، متعلق به COL Group و Europe’s Shorts بر روی یک لوح چهارتایی با هم تیم خواهند شد که به گفته آنها با فرو رفتن در داستان سرایی فانتزی، اکشن، فراطبیعی و با مضمون انتقام، «چشم انداز میکرودرام را گسترش خواهد داد». آنها می گویند این معامله \"منعکس کننده یک جاه طلبی مشترک برای حرکت دادن سرگرمی های عمودی است"
       },
       "source": {
         "en": "Deadline",
         "fa": "Deadline"
       },
-      "link": "https://deadline.com/2026/08/prince-harry-meghan-markle-moving-to-uk-1237045751/",
-      "date": "2026-08-20T09:24:34.809942+00:00",
-      "image": "https://deadline.com/wp-content/uploads/2026/05/GettyImages-2271530771.jpg",
+      "link": "https://deadline.com/2026/08/flareflow-shorts-microdrama-deal-1237044053/",
+      "date": "2026-08-20T10:20:25.906664+00:00",
+      "image": "https://deadline.com/wp-content/uploads/2026/08/AJ-Letterel-and-Timothy-Oh.png",
       "important": true,
       "score": 4
     },
@@ -165,7 +141,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/features/commentary/disney-kingdom-hearts-series-commentary-1235211019/",
-      "date": "2026-08-20T09:24:34.816793+00:00",
+      "date": "2026-08-20T10:20:25.918816+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/VIA_D23_16x9_DCD.jpg?w=650",
       "important": false,
       "score": 3
@@ -189,7 +165,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/news/business/val-kilmer-ai-movie-footage-as-deep-as-the-grave-1235211459/",
-      "date": "2026-08-20T09:24:34.816181+00:00",
+      "date": "2026-08-20T10:20:25.917929+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/Screen-Shot-2026-08-19-at-7.08.47-AM.png?w=650",
       "important": false,
       "score": 3
@@ -213,8 +189,32 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/awards/predictions/hbo-emmy-campaign-perseverance-should-pay-off-1235211458/",
-      "date": "2026-08-20T09:24:34.815216+00:00",
+      "date": "2026-08-20T10:20:25.916573+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/2290751324.jpg?w=650",
+      "important": false,
+      "score": 3
+    },
+    {
+      "id": "fb21cccb5259",
+      "title": {
+        "en": "HBO Max Picks 12 European Writers for Script Engine Program",
+        "fa": "HBO Max 12 نویسنده اروپایی را برای برنامه موتور اسکریپت انتخاب می کند"
+      },
+      "excerpt": {
+        "en": "Veteran showrunner Frank Spotnitz ('The X-Files,''The Man in the High Castle') will mentor the program, aimed at helping European writers develop locally-rooted original series to pitch to HBO Max in November.",
+        "fa": "فرانک اسپاتنیتز، مجری کهنه کار برنامه، با هدف کمک به نویسندگان اروپایی در ساخت سریال های اصلی محلی برای ارائه به HBO Max در ماه نوامبر، راهنمای این برنامه خواهد بود."
+      },
+      "content": {
+        "en": "Veteran showrunner Frank Spotnitz ('The X-Files,''The Man in the High Castle') will mentor the program, aimed at helping European writers develop locally-rooted original series to pitch to HBO Max in November.",
+        "fa": "فرانک اسپاتنیتز، مجری کهنه کار برنامه، با هدف کمک به نویسندگان اروپایی در ساخت سریال های اصلی محلی برای ارائه به HBO Max در ماه نوامبر، راهنمای این برنامه خواهد بود."
+      },
+      "source": {
+        "en": "The Hollywood Reporter",
+        "fa": "The Hollywood Reporter"
+      },
+      "link": "https://www.hollywoodreporter.com/tv/tv-news/hbo-max-names-european-writers-for-script-engine-program-1236677587/",
+      "date": "2026-08-20T10:20:25.912296+00:00",
+      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/Frank-Spotnitz-headshot.jpg?crop=0px%2C0px%2C1000px%2C560px&#038;resize=1440%2C810",
       "important": false,
       "score": 3
     },
@@ -237,7 +237,7 @@
         "fa": "Variety"
       },
       "link": "https://variety.com/2026/tv/news/josh-radnor-not-close-how-i-met-your-mother-co-stars-1236838802/",
-      "date": "2026-08-20T09:24:34.811670+00:00",
+      "date": "2026-08-20T10:20:25.912127+00:00",
       "image": "https://variety.com/wp-content/uploads/2022/03/How-I-Met-Your-Mother-Ted-Robyn.jpg",
       "important": false,
       "score": 3
@@ -261,7 +261,7 @@
         "fa": "Variety"
       },
       "link": "https://variety.com/2026/film/news/manoj-bajpayee-gandhi-film-plot-cast-producer-1236838081/",
-      "date": "2026-08-20T09:24:34.811435+00:00",
+      "date": "2026-08-20T10:20:25.911799+00:00",
       "image": "https://variety.com/wp-content/uploads/2026/08/Manoj-Bajpayee-Anubhav-Sinha-Sudhir-Mishra.jpg",
       "important": false,
       "score": 3
@@ -285,7 +285,7 @@
         "fa": "Variety"
       },
       "link": "https://variety.com/2026/film/global/you-dont-belong-here-florin-serban-follow-up-locarno-1236838137/",
-      "date": "2026-08-20T09:24:34.810976+00:00",
+      "date": "2026-08-20T10:20:25.911124+00:00",
       "image": "https://variety.com/wp-content/uploads/2026/08/MixCollage-19-Aug-2026-03-29-PM-3698.jpg",
       "important": false,
       "score": 3
@@ -309,7 +309,7 @@
         "fa": "Variety"
       },
       "link": "https://variety.com/2026/theater/global/game-of-thrones-the-mad-king-behind-the-scenes-video-1236838551/",
-      "date": "2026-08-20T09:24:34.810468+00:00",
+      "date": "2026-08-20T10:20:25.910424+00:00",
       "image": "https://variety.com/wp-content/uploads/2026/08/Game-of-Thrones-the-Mad-King.jpg",
       "important": false,
       "score": 3
@@ -333,8 +333,32 @@
         "fa": "Variety"
       },
       "link": "https://variety.com/2026/film/global/san-sebastian-michael-roskam-le-faux-soir-closing-film-1236838841/",
-      "date": "2026-08-20T09:24:34.810206+00:00",
+      "date": "2026-08-20T10:20:25.910037+00:00",
       "image": "https://variety.com/wp-content/uploads/2026/08/LE-FAUX-SOIR.jpg",
+      "important": false,
+      "score": 3
+    },
+    {
+      "id": "2c98507cb255",
+      "title": {
+        "en": "China’s Pingyao Film Festival Sets 10th Edition Dates – Global Bulletin",
+        "fa": "تاریخ برگزاری دهمین دوره جشنواره فیلم پینگ یائو چین - بولتن جهانی"
+      },
+      "excerpt": {
+        "en": "PINGYAO PREMIERE The Pingyao International Film Festival will mark its 10th edition with a run set for Sept. 24–30, at the Pingyao Festival Palace in Shanxi Province. Founded in 2017 by director Jia Zhangke, the festival spans four programs: Screening, Market, Cultivation and Academics. The Screening slate will include Crouching Tigers, dedicated to emerging directors’ […]",
+        "fa": "اولین نمایش پینگ یائو جشنواره بین‌المللی فیلم پینگ یائو دهمین دوره خود را در تاریخ 24 تا 30 سپتامبر در کاخ جشنواره پینگ یائو در استان شانشی برگزار می‌کند. این جشنواره که در سال 2017 توسط کارگردان جیا ژانگکه تأسیس شد، شامل چهار برنامه است: نمایش، بازار، کشت و دانشگاه. صفحه نمایش شامل ببرهای خیزان است که به کارگردانان نوظهور اختصاص دارد."
+      },
+      "content": {
+        "en": "PINGYAO PREMIERE The Pingyao International Film Festival will mark its 10th edition with a run set for Sept. 24–30, at the Pingyao Festival Palace in Shanxi Province. Founded in 2017 by director Jia Zhangke, the festival spans four programs: Screening, Market, Cultivation and Academics. The Screening slate will include Crouching Tigers, dedicated to emerging directors’ […]",
+        "fa": "اولین نمایش پینگ یائو جشنواره بین‌المللی فیلم پینگ یائو دهمین دوره خود را در تاریخ 24 تا 30 سپتامبر در کاخ جشنواره پینگ یائو در استان شانشی برگزار می‌کند. این جشنواره که در سال 2017 توسط کارگردان جیا ژانگکه تأسیس شد، شامل چهار برنامه است: نمایش، بازار، کشت و دانشگاه. صفحه نمایش شامل ببرهای خیزان است که به کارگردانان نوظهور اختصاص دارد."
+      },
+      "source": {
+        "en": "Variety",
+        "fa": "Variety"
+      },
+      "link": "https://variety.com/2026/film/festivals/pingyao-film-festival-10th-edition-dates-1236838876/",
+      "date": "2026-08-20T10:20:25.909911+00:00",
+      "image": "https://variety.com/wp-content/uploads/2020/09/pingyao-film-festival.jpg",
       "important": false,
       "score": 3
     },
@@ -357,7 +381,7 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/tracy-tutor-real-housewives-of-beverly-hills-season-16-cast-1237045906/",
-      "date": "2026-08-20T09:24:34.809137+00:00",
+      "date": "2026-08-20T10:20:25.908950+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/tracy-tutor-rhobh-cast.jpg",
       "important": false,
       "score": 3
@@ -370,19 +394,43 @@
       },
       "excerpt": {
         "en": "EXCLUSIVE: The BFI Film Academy, the UK film body’s flagship skills incubator for young people aged 16-25, is expanding with the launch of 12 new BFI Film Academy Hubs across the UK. The BFI has said the scheme will focus on “local provision and devolving funding across the UK.” The 12 hubs will be led […]",
-        "fa": "اختصاصی: آکادمی فیلم BFI، مرکز رشد مهارت های شاخص بدنه فیلم بریتانیا برای جوانان 16 تا 25 ساله، با راه اندازی 12 مرکز جدید آکادمی فیلم BFI در سراسر بریتانیا در حال گسترش است. BFI گفته است که این طرح بر \"تامین محلی و واگذاری بودجه در سراسر بریتانیا\" تمرکز خواهد کرد. 12 هاب هدایت خواهند شد"
+        "fa": "انحصاری: آکادمی فیلم BFI، مرکز رشد مهارت‌های شاخص بدنه فیلم بریتانیا برای جوانان 16 تا 25 ساله، با راه‌اندازی 12 مرکز جدید آکادمی فیلم BFI در سراسر بریتانیا در حال گسترش است. BFI گفته است که این طرح بر \"تامین محلی و واگذاری بودجه در سراسر بریتانیا\" تمرکز خواهد کرد. 12 هاب هدایت خواهند شد"
       },
       "content": {
         "en": "EXCLUSIVE: The BFI Film Academy, the UK film body’s flagship skills incubator for young people aged 16-25, is expanding with the launch of 12 new BFI Film Academy Hubs across the UK. The BFI has said the scheme will focus on “local provision and devolving funding across the UK.” The 12 hubs will be led […]",
-        "fa": "اختصاصی: آکادمی فیلم BFI، مرکز رشد مهارت های شاخص بدنه فیلم بریتانیا برای جوانان 16 تا 25 ساله، با راه اندازی 12 مرکز جدید آکادمی فیلم BFI در سراسر بریتانیا در حال گسترش است. BFI گفته است که این طرح بر \"تامین محلی و واگذاری بودجه در سراسر بریتانیا\" تمرکز خواهد کرد. 12 هاب هدایت خواهند شد"
+        "fa": "انحصاری: آکادمی فیلم BFI، مرکز رشد مهارت‌های شاخص بدنه فیلم بریتانیا برای جوانان 16 تا 25 ساله، با راه‌اندازی 12 مرکز جدید آکادمی فیلم BFI در سراسر بریتانیا در حال گسترش است. BFI گفته است که این طرح بر \"تامین محلی و واگذاری بودجه در سراسر بریتانیا\" تمرکز خواهد کرد. 12 هاب هدایت خواهند شد"
       },
       "source": {
         "en": "Deadline",
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/bfi-film-academy-12-hubs-uk-1237045305/",
-      "date": "2026-08-20T09:24:34.808375+00:00",
+      "date": "2026-08-20T10:20:25.907945+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/High-Res_BFI-Academy-Cinematography-Lincoln_Photo-by-Millie-Turner_1MT5169.jpg",
+      "important": false,
+      "score": 3
+    },
+    {
+      "id": "5ce29ea8bb29",
+      "title": {
+        "en": "Lav Diaz’s Venice Title ‘Let Us Through, Dear Ancestors’ Boarded By Heretic For Sales",
+        "fa": "عنوان ونیز لاو دیاز «اجازه دهید ما از اجداد عزیز عبور کنیم» توسط Heretic برای فروش"
+      },
+      "excerpt": {
+        "en": "EXCLUSIVE: Lav Diaz’s Venice Film Festival title Let Us Through, Dear Ancestors (Makikiraan Po) has been boarded by Greek international sales firm Heretic. The film, about Spain’s colonial subjugation of the Philippines, is one of the Filipino auteur’s shorter features running ‘only’ 2 hours 31 minutes. The film, which is playing Out of Competition on […]",
+        "fa": "انحصاری: عنوان جشنواره فیلم ونیز لاو دیاز، اجازه دهید از اجداد عزیز عبور کنیم، توسط شرکت فروش بین المللی یونانی Heretic انتخاب شده است. این فیلم که درباره انقیاد استعماری اسپانیا بر فیلیپین است، یکی از فیلم‌های کوتاه‌تر نویسنده فیلیپینی است که «فقط» ۲ ساعت و ۳۱ دقیقه است. این فیلم که خارج از رقابت در حال پخش است"
+      },
+      "content": {
+        "en": "EXCLUSIVE: Lav Diaz’s Venice Film Festival title Let Us Through, Dear Ancestors (Makikiraan Po) has been boarded by Greek international sales firm Heretic. The film, about Spain’s colonial subjugation of the Philippines, is one of the Filipino auteur’s shorter features running ‘only’ 2 hours 31 minutes. The film, which is playing Out of Competition on […]",
+        "fa": "انحصاری: عنوان جشنواره فیلم ونیز لاو دیاز، اجازه دهید از اجداد عزیز عبور کنیم، توسط شرکت فروش بین المللی یونانی Heretic انتخاب شده است. این فیلم که درباره انقیاد استعماری اسپانیا بر فیلیپین است، یکی از فیلم‌های کوتاه‌تر نویسنده فیلیپینی است که «فقط» ۲ ساعت و ۳۱ دقیقه است. این فیلم که خارج از رقابت در حال پخش است"
+      },
+      "source": {
+        "en": "Deadline",
+        "fa": "Deadline"
+      },
+      "link": "https://deadline.com/2026/08/lav-diaz-venice-let-us-through-dear-ancestors-sales-heretic-1237046091/",
+      "date": "2026-08-20T10:20:25.906990+00:00",
+      "image": "https://deadline.com/wp-content/uploads/2026/08/Let-Us-Through-Dear-Ancestors.jpg",
       "important": false,
       "score": 3
     },
@@ -405,8 +453,32 @@
         "fa": "The Hollywood Reporter"
       },
       "link": "https://www.hollywoodreporter.com/movies/movie-news/spider-man-brand-new-day-box-office-insidious-mutiny-1236677495/",
-      "date": "2026-08-20T09:24:34.812328+00:00",
+      "date": "2026-08-20T10:20:25.912934+00:00",
       "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/07/DF-06647_r-H-2026.jpg?w=1296&#038;h=730&#038;crop=1",
+      "important": false,
+      "score": 1
+    },
+    {
+      "id": "ce76e3041481",
+      "title": {
+        "en": "Prime Video To Tell Gary Lineker’s Life Story In Docu-Series",
+        "fa": "ویدیوی اصلی برای گفتن داستان زندگی گری لاینکر در مجموعه مستند"
+      },
+      "excerpt": {
+        "en": "Prime Video is to tell the story of footballer-turned-broadcaster Gary Lineker. A four-part miniseries, Lineker, will look at his 50-year career, which has mostly recently seen him become a media and entertainment business owner through his successful podcasting operation Goalhanger. It will also explore how he went from his ‘Mr Nice Guy’ reputation on the […]",
+        "fa": "فیلم Prime Video داستان فوتبالیستی است که به پخش کننده تبدیل شده است، گری لاینکر. یک مینی سریال چهار قسمتی، Lineker، به حرفه 50 ساله او می پردازد، که عمدتاً به تازگی شاهد تبدیل شدن او به یک تجارت رسانه ای و سرگرمی از طریق عملیات موفق پادکست Goalhanger است. همچنین بررسی می‌کند که او چگونه از شهرت «Mr Nice Guy» خود خارج شد"
+      },
+      "content": {
+        "en": "Prime Video is to tell the story of footballer-turned-broadcaster Gary Lineker. A four-part miniseries, Lineker, will look at his 50-year career, which has mostly recently seen him become a media and entertainment business owner through his successful podcasting operation Goalhanger. It will also explore how he went from his ‘Mr Nice Guy’ reputation on the […]",
+        "fa": "فیلم Prime Video داستان فوتبالیستی است که به پخش کننده تبدیل شده است، گری لاینکر. یک مینی سریال چهار قسمتی، Lineker، به حرفه 50 ساله او می پردازد، که عمدتاً به تازگی شاهد تبدیل شدن او به یک تجارت رسانه ای و سرگرمی از طریق عملیات موفق پادکست Goalhanger است. همچنین بررسی می‌کند که او چگونه از شهرت «Mr Nice Guy» خود خارج شد"
+      },
+      "source": {
+        "en": "Deadline",
+        "fa": "Deadline"
+      },
+      "link": "https://deadline.com/2026/08/prime-video-gary-lineker-documentary-series-1237046098/",
+      "date": "2026-08-20T10:20:25.905902+00:00",
+      "image": "https://deadline.com/wp-content/uploads/2026/08/Gary-Lineker-e1787218493595.jpg",
       "important": false,
       "score": 1
     },
@@ -414,7 +486,7 @@
       "id": "a5803383f616",
       "title": {
         "en": "‘None of Us Knew What We Had’: Jordana Brewster Looks Back at 25 Years of ‘The Fast and the Furious’",
-        "fa": "«هیچ یک از ما نمی‌دانستیم چه داریم»: جوردانا بروستر به 25 سال فیلم «سریع و خشمگین» نگاه می‌کند."
+        "fa": "«هیچ‌کدام از ما نمی‌دانستیم چه داریم»: جوردانا بروستر به 25 سال فیلم «سریع و خشمگین» نگاه می‌کند."
       },
       "excerpt": {
         "en": "As the modest street-racing movie that launched a seven-billion-dollar franchise returns to theaters, the actor tells IndieWire about channeling Anna Magnani, finding chemistry with Paul Walker, and revisiting the film at Cannes.",
@@ -429,7 +501,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/features/interviews/jordana-brewster-fast-and-the-furious-25th-anniversary-1235210010/",
-      "date": "2026-08-20T09:24:34.816673+00:00",
+      "date": "2026-08-20T10:20:25.918640+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/2275_K01_0029.jpg?w=650",
       "important": false,
       "score": 0
@@ -453,7 +525,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/criticism/movies/tony-movie-review-anthony-bourdain-1235207248/",
-      "date": "2026-08-20T09:24:34.816481+00:00",
+      "date": "2026-08-20T10:20:25.918368+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/07/image-w1280-2.webp?w=650",
       "important": false,
       "score": 0
@@ -477,7 +549,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/features/interviews/ai-filmmaking-will-fail-james-gray-paper-tiger-director-1235211572/",
-      "date": "2026-08-20T09:24:34.815813+00:00",
+      "date": "2026-08-20T10:20:25.917419+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/GettyImages-2276688682.jpg?w=650",
       "important": false,
       "score": 0
@@ -501,80 +573,8 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/news/business/paramount-warner-bros-merger-4500-tv-film-production-jobs-lost-1235211693/",
-      "date": "2026-08-20T09:24:34.815370+00:00",
+      "date": "2026-08-20T10:20:25.916792+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/04/P105O250.jpg?w=650",
-      "important": false,
-      "score": 0
-    },
-    {
-      "id": "4ef79a19f657",
-      "title": {
-        "en": "Rosie O’Donnell Name-Drops Natalie Harp in Trump Jab, Gets Big Reaction From Studio Audience",
-        "fa": "نام رزی اودانل - ناتالی هارپ را در فیلم ترامپ Jab رها کرد و با واکنش شدید تماشاگران استودیو مواجه شد."
-      },
-      "excerpt": {
-        "en": "\"That's all I'm going to say about you tonight, sweetheart,\" the \"Jimmy Kimmel Live\" guest host says before ripping one more zinger The post Rosie O’Donnell Name-Drops Natalie Harp in Trump Jab, Gets Big Reaction From Studio Audience appeared first on TheWrap .",
-        "fa": "میزبان مهمان \"جیمی کیمل لایو\" قبل از اینکه یک زنگ دیگر را پاره کند، می گوید: \"این تمام چیزی است که امشب در مورد تو خواهم گفت، عزیزم.\""
-      },
-      "content": {
-        "en": "\"That's all I'm going to say about you tonight, sweetheart,\" the \"Jimmy Kimmel Live\" guest host says before ripping one more zinger The post Rosie O’Donnell Name-Drops Natalie Harp in Trump Jab, Gets Big Reaction From Studio Audience appeared first on TheWrap .",
-        "fa": "میزبان مهمان \"جیمی کیمل لایو\" قبل از اینکه یک زنگ دیگر را پاره کند، می گوید: \"این تمام چیزی است که امشب در مورد تو خواهم گفت، عزیزم.\""
-      },
-      "source": {
-        "en": "The Wrap",
-        "fa": "The Wrap"
-      },
-      "link": "https://www.thewrap.com/creative-content/tv-shows/rosie-odonnell-name-drops-natalie-harp-trump-jab-jimmy-kimmel-live-monologue/",
-      "date": "2026-08-20T09:24:34.813606+00:00",
-      "image": "https://www.thewrap.com/wp-content/uploads/2026/08/Untitled-design-2026-08-19T214338.496.jpg",
-      "important": false,
-      "score": 0
-    },
-    {
-      "id": "b11cfde69cc8",
-      "title": {
-        "en": "How to Watch 2026 Little League World Series Live Online",
-        "fa": "نحوه تماشای زنده آنلاین Little League World Series 2026"
-      },
-      "excerpt": {
-        "en": "The top 20 teams — 10 from the U.S. and 10 international — take on Williamsport, Pennsylvania for the annual 12-day tournament.",
-        "fa": "20 تیم برتر - 10 تیم از ایالات متحده و 10 تیم بین المللی - برای مسابقات سالانه 12 روزه به مصاف ویلیام اسپورت، پنسیلوانیا می روند."
-      },
-      "content": {
-        "en": "The top 20 teams — 10 from the U.S. and 10 international — take on Williamsport, Pennsylvania for the annual 12-day tournament.",
-        "fa": "20 تیم برتر - 10 تیم از ایالات متحده و 10 تیم بین المللی - برای مسابقات سالانه 12 روزه به مصاف ویلیام اسپورت، پنسیلوانیا می روند."
-      },
-      "source": {
-        "en": "The Hollywood Reporter",
-        "fa": "The Hollywood Reporter"
-      },
-      "link": "https://www.hollywoodreporter.com/tv/tv-news/watch-little-league-world-series-2026-baseball-stream-free-1236677338/",
-      "date": "2026-08-20T09:24:34.812799+00:00",
-      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/little-league.jpg?crop=0px%2C645px%2C6000px%2C3357px&#038;resize=1440%2C810",
-      "important": false,
-      "score": 0
-    },
-    {
-      "id": "964611dc883e",
-      "title": {
-        "en": "Hayden Panettiere’s Death: DEA Joins Investigation",
-        "fa": "مرگ هایدن پانتییر: DEA به تحقیقات می پیوندد"
-      },
-      "excerpt": {
-        "en": "The Drug Enforcement Administration has joined the investigation into Hayden Panettiere’s death, according to ABC News. The DEA is entering a joint effort with South Carolina’s Greenville Police Department and the local coroner’s office, according to TMZ. Panettiere died Sunday night at age 36. The official cause of death has not yet been determined. In […]",
-        "fa": "به گزارش ای بی سی نیوز، اداره مبارزه با مواد مخدر به تحقیقات در مورد مرگ هایدن پانتییر پیوسته است. به گزارش TMZ، DEA در حال وارد شدن به تلاش مشترک با اداره پلیس گرین ویل کارولینای جنوبی و دفتر پزشکی قانونی محلی است. پانتییر یکشنبه شب در سن 36 سالگی درگذشت. علت رسمی مرگ هنوز مشخص نشده است. در"
-      },
-      "content": {
-        "en": "The Drug Enforcement Administration has joined the investigation into Hayden Panettiere’s death, according to ABC News. The DEA is entering a joint effort with South Carolina’s Greenville Police Department and the local coroner’s office, according to TMZ. Panettiere died Sunday night at age 36. The official cause of death has not yet been determined. In […]",
-        "fa": "به گزارش ای بی سی نیوز، اداره مبارزه با مواد مخدر به تحقیقات در مورد مرگ هایدن پانتییر پیوسته است. به گزارش TMZ، DEA در حال وارد شدن به تلاش مشترک با اداره پلیس گرین ویل کارولینای جنوبی و دفتر پزشکی قانونی محلی است. پانتییر یکشنبه شب در سن 36 سالگی درگذشت. علت رسمی مرگ هنوز مشخص نشده است. در"
-      },
-      "source": {
-        "en": "Variety",
-        "fa": "Variety"
-      },
-      "link": "https://variety.com/2026/film/news/hayden-panettiere-death-dea-joins-investigation-1236838724/",
-      "date": "2026-08-20T09:24:34.811979+00:00",
-      "image": "https://variety.com/wp-content/uploads/2026/08/hayden.jpg",
       "important": false,
       "score": 0
     }
