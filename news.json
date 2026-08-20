@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-20T04:28:18.963549+00:00",
+  "updated_at": "2026-08-20T05:22:31.227948+00:00",
   "count": 24,
   "news": [
     {
@@ -21,7 +21,7 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/snl-showcases-2026-new-talent-standout-auditions-1237045776/",
-      "date": "2026-08-20T04:28:18.714493+00:00",
+      "date": "2026-08-20T05:22:30.992944+00:00",
       "image": "https://deadline.com/wp-content/uploads/2025/09/snl-mobile-min.webp",
       "important": true,
       "score": 7
@@ -45,7 +45,7 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/feature/outer-banks-season-5-news-updates-everything-we-know-1237012550/",
-      "date": "2026-08-20T04:28:18.717167+00:00",
+      "date": "2026-08-20T05:22:30.995372+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/07/OUTERBANKS_508_Unit_01793RC.jpg",
       "important": true,
       "score": 6
@@ -69,7 +69,7 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/widows-bay-season-2-jeff-hiller-1237045620/",
-      "date": "2026-08-20T04:28:18.715674+00:00",
+      "date": "2026-08-20T05:22:30.994016+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/Widows_Bay_Photo_010401.jpg",
       "important": true,
       "score": 6
@@ -93,7 +93,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/news/trailers/brotherhood-a-cinematic-musical-trailer-1235211243/",
-      "date": "2026-08-20T04:28:18.725218+00:00",
+      "date": "2026-08-20T05:22:31.003098+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/Mauricio-Martinez-the-Cast-of-Brotherhood-2.png?w=650",
       "important": true,
       "score": 4
@@ -117,7 +117,7 @@
         "fa": "The Hollywood Reporter"
       },
       "link": "https://www.hollywoodreporter.com/tv/tv-news/earle-meets-world-trailer-alix-earle-tom-brady-1236677198/",
-      "date": "2026-08-20T04:28:18.721449+00:00",
+      "date": "2026-08-20T05:22:30.999404+00:00",
       "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/Earle-Meets-World.jpg?w=986&#038;h=555&#038;crop=1",
       "important": true,
       "score": 4
@@ -141,7 +141,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/features/commentary/disney-kingdom-hearts-series-commentary-1235211019/",
-      "date": "2026-08-20T04:28:18.726368+00:00",
+      "date": "2026-08-20T05:22:31.004135+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/VIA_D23_16x9_DCD.jpg?w=650",
       "important": false,
       "score": 3
@@ -165,7 +165,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/news/business/val-kilmer-ai-movie-footage-as-deep-as-the-grave-1235211459/",
-      "date": "2026-08-20T04:28:18.725503+00:00",
+      "date": "2026-08-20T05:22:31.003340+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/Screen-Shot-2026-08-19-at-7.08.47-AM.png?w=650",
       "important": false,
       "score": 3
@@ -189,32 +189,32 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/awards/predictions/hbo-emmy-campaign-perseverance-should-pay-off-1235211458/",
-      "date": "2026-08-20T04:28:18.724047+00:00",
+      "date": "2026-08-20T05:22:31.002111+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/2290751324.jpg?w=650",
       "important": false,
       "score": 3
     },
     {
-      "id": "fedfe547d748",
+      "id": "77e2b684e130",
       "title": {
-        "en": "Josh Radnor Says He’s Not Close To His ‘How I Met Your Mother’ Co-Stars “Not Even A Little Bit”: “I Have Love For All These People”",
-        "fa": "جاش رادنور می‌گوید که به بازیگران «چگونه با مادرت آشنا شدم» نزدیک نیست، «حتی کمی»: «من به همه این افراد عشق دارم»"
+        "en": "Josh Radnor Is ‘Not Even a Little Bit’ Close to His ‘How I Met Your Mother’ Co-Stars: ‘You Just Go Out and Live Your Life’",
+        "fa": "جاش رادنر «حتی کمی» به بازیگران «چگونه مادرت را ملاقات کردم» نزدیک است: «تو فقط برو بیرون و زندگیت را زندگی کن»"
       },
       "excerpt": {
-        "en": "Josh Radnor is opening up about where he stands with the rest of the cast of How I Met Your Mother, 12 years after the series completed a nine-season run. The CBS sitcom followed Radnor’s Ted Mosby and his group of friends in New York City as he recounts to his children the events that […]",
-        "fa": "12 سال پس از اتمام نه فصل سریال، جاش رادنر در حال صحبت درباره جایگاهش با بقیه بازیگران سریال How I Met Your Mother است. کمدی سی‌بی‌اس، تد ماسبی از رادنور و گروه دوستانش را در شهر نیویورک دنبال می‌کرد که او برای فرزندانش وقایعی را تعریف می‌کرد."
+        "en": "Josh Radnor recently told the “Half the Picture” podcast that he is “not even a little bit” close to his “How I Met Your Mother” co-stars, despite filming together for 208 episodes across 9 seasons. When asked if he’s still tight with his “How I Met Your Mother” family, Radnor said, “No. Not even a […]",
+        "fa": "جاش رادنر اخیراً به پادکست «نیمی از تصویر» گفته است که با وجود فیلم‌برداری 208 قسمتی در 9 فصل، «حتی کمی» به همبازی‌هایش در «How I Met Your Mother» نزدیک نیست. وقتی از رادنور پرسیده شد که آیا او هنوز با خانواده‌اش «چگونه با مادرت آشنا شدم» صمیمی است، گفت: «نه."
       },
       "content": {
-        "en": "Josh Radnor is opening up about where he stands with the rest of the cast of How I Met Your Mother, 12 years after the series completed a nine-season run. The CBS sitcom followed Radnor’s Ted Mosby and his group of friends in New York City as he recounts to his children the events that […]",
-        "fa": "12 سال پس از اتمام نه فصل سریال، جاش رادنر در حال صحبت درباره جایگاهش با بقیه بازیگران سریال How I Met Your Mother است. کمدی سی‌بی‌اس، تد ماسبی از رادنور و گروه دوستانش را در شهر نیویورک دنبال می‌کرد که او برای فرزندانش وقایعی را تعریف می‌کرد."
+        "en": "Josh Radnor recently told the “Half the Picture” podcast that he is “not even a little bit” close to his “How I Met Your Mother” co-stars, despite filming together for 208 episodes across 9 seasons. When asked if he’s still tight with his “How I Met Your Mother” family, Radnor said, “No. Not even a […]",
+        "fa": "جاش رادنر اخیراً به پادکست «نیمی از تصویر» گفته است که با وجود فیلم‌برداری 208 قسمتی در 9 فصل، «حتی کمی» به همبازی‌هایش در «How I Met Your Mother» نزدیک نیست. وقتی از رادنور پرسیده شد که آیا او هنوز با خانواده‌اش «چگونه با مادرت آشنا شدم» صمیمی است، گفت: «نه."
       },
       "source": {
-        "en": "Deadline",
-        "fa": "Deadline"
+        "en": "Variety",
+        "fa": "Variety"
       },
-      "link": "https://deadline.com/2026/08/josh-radnor-not-close-how-i-met-your-mother-co-stars-1237045701/",
-      "date": "2026-08-20T04:28:18.716968+00:00",
-      "image": "https://deadline.com/wp-content/uploads/2026/08/josh-radnor-how-i-met-your-mother.jpg",
+      "link": "https://variety.com/2026/tv/news/josh-radnor-not-close-how-i-met-your-mother-co-stars-1236838802/",
+      "date": "2026-08-20T05:22:30.995671+00:00",
+      "image": "https://variety.com/wp-content/uploads/2022/03/How-I-Met-Your-Mother-Ted-Robyn.jpg",
       "important": false,
       "score": 3
     },
@@ -237,7 +237,7 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/adele-exarchopoulos-joins-megan-park-apple-movie-1237045734/",
-      "date": "2026-08-20T04:28:18.716451+00:00",
+      "date": "2026-08-20T05:22:30.994714+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/PHOTO-2026-08-19-12-56-24.jpg",
       "important": false,
       "score": 3
@@ -261,7 +261,7 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/tracy-tutor-real-housewives-of-beverly-hills-season-16-cast-1237045906/",
-      "date": "2026-08-20T04:28:18.714702+00:00",
+      "date": "2026-08-20T05:22:30.993130+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/tracy-tutor-rhobh-cast.jpg",
       "important": false,
       "score": 3
@@ -285,7 +285,7 @@
         "fa": "The Hollywood Reporter"
       },
       "link": "https://www.hollywoodreporter.com/movies/movie-news/spider-man-brand-new-day-box-office-insidious-mutiny-1236677495/",
-      "date": "2026-08-20T04:28:18.720341+00:00",
+      "date": "2026-08-20T05:22:30.998344+00:00",
       "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/07/DF-06647_r-H-2026.jpg?w=1296&#038;h=730&#038;crop=1",
       "important": false,
       "score": 1
@@ -294,7 +294,7 @@
       "id": "a5803383f616",
       "title": {
         "en": "‘None of Us Knew What We Had’: Jordana Brewster Looks Back at 25 Years of ‘The Fast and the Furious’",
-        "fa": "«هیچ‌کدام از ما نمی‌دانستیم چه داریم»: جوردانا بروستر به 25 سال فیلم «سریع و خشمگین» نگاه می‌کند."
+        "fa": "«هیچ یک از ما نمی‌دانستیم چه داریم»: جوردانا بروستر به 25 سال فیلم «سریع و خشمگین» نگاه می‌کند."
       },
       "excerpt": {
         "en": "As the modest street-racing movie that launched a seven-billion-dollar franchise returns to theaters, the actor tells IndieWire about channeling Anna Magnani, finding chemistry with Paul Walker, and revisiting the film at Cannes.",
@@ -309,7 +309,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/features/interviews/jordana-brewster-fast-and-the-furious-25th-anniversary-1235210010/",
-      "date": "2026-08-20T04:28:18.726178+00:00",
+      "date": "2026-08-20T05:22:31.003982+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/2275_K01_0029.jpg?w=650",
       "important": false,
       "score": 0
@@ -333,7 +333,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/criticism/movies/tony-movie-review-anthony-bourdain-1235207248/",
-      "date": "2026-08-20T04:28:18.725915+00:00",
+      "date": "2026-08-20T05:22:31.003735+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/07/image-w1280-2.webp?w=650",
       "important": false,
       "score": 0
@@ -357,7 +357,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/features/interviews/ai-filmmaking-will-fail-james-gray-paper-tiger-director-1235211572/",
-      "date": "2026-08-20T04:28:18.724970+00:00",
+      "date": "2026-08-20T05:22:31.002878+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/GettyImages-2276688682.jpg?w=650",
       "important": false,
       "score": 0
@@ -381,8 +381,32 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/news/business/paramount-warner-bros-merger-4500-tv-film-production-jobs-lost-1235211693/",
-      "date": "2026-08-20T04:28:18.724376+00:00",
+      "date": "2026-08-20T05:22:31.002304+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/04/P105O250.jpg?w=650",
+      "important": false,
+      "score": 0
+    },
+    {
+      "id": "4ef79a19f657",
+      "title": {
+        "en": "Rosie O’Donnell Name-Drops Natalie Harp in Trump Jab, Gets Big Reaction From Studio Audience",
+        "fa": "نام رزی اودانل - ناتالی هارپ را در فیلم ترامپ Jab رها کرد و با واکنش شدید تماشاگران استودیو مواجه شد."
+      },
+      "excerpt": {
+        "en": "\"That's all I'm going to say about you tonight, sweetheart,\" the \"Jimmy Kimmel Live\" guest host says before ripping one more zinger The post Rosie O’Donnell Name-Drops Natalie Harp in Trump Jab, Gets Big Reaction From Studio Audience appeared first on TheWrap .",
+        "fa": "میزبان مهمان \"جیمی کیمل لایو\" قبل از اینکه یک زنگ دیگر را پاره کند، می گوید: \"این تمام چیزی است که امشب در مورد تو خواهم گفت، عزیزم.\""
+      },
+      "content": {
+        "en": "\"That's all I'm going to say about you tonight, sweetheart,\" the \"Jimmy Kimmel Live\" guest host says before ripping one more zinger The post Rosie O’Donnell Name-Drops Natalie Harp in Trump Jab, Gets Big Reaction From Studio Audience appeared first on TheWrap .",
+        "fa": "میزبان مهمان \"جیمی کیمل لایو\" قبل از اینکه یک زنگ دیگر را پاره کند، می گوید: \"این تمام چیزی است که امشب در مورد تو خواهم گفت، عزیزم.\""
+      },
+      "source": {
+        "en": "The Wrap",
+        "fa": "The Wrap"
+      },
+      "link": "https://www.thewrap.com/creative-content/tv-shows/rosie-odonnell-name-drops-natalie-harp-trump-jab-jimmy-kimmel-live-monologue/",
+      "date": "2026-08-20T05:22:30.999851+00:00",
+      "image": "https://www.thewrap.com/wp-content/uploads/2026/08/Untitled-design-2026-08-19T214338.496.jpg",
       "important": false,
       "score": 0
     },
@@ -405,32 +429,8 @@
         "fa": "The Hollywood Reporter"
       },
       "link": "https://www.hollywoodreporter.com/tv/tv-news/watch-little-league-world-series-2026-baseball-stream-free-1236677338/",
-      "date": "2026-08-20T04:28:18.720955+00:00",
+      "date": "2026-08-20T05:22:30.998958+00:00",
       "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/little-league.jpg?crop=0px%2C645px%2C6000px%2C3357px&#038;resize=1440%2C810",
-      "important": false,
-      "score": 0
-    },
-    {
-      "id": "6cba5cab7702",
-      "title": {
-        "en": "Academy Museum Fall Film Events Include ‘Marie Antoinette,’ ‘The Craft,’ ‘Pan’s Labyrinth’ – Film News in Brief",
-        "fa": "رویدادهای فیلم پاییز موزه آکادمی شامل «ماری آنتوانت»، «صنعت»، «هزارتوی پان» - اخبار فیلم به طور خلاصه"
-      },
-      "excerpt": {
-        "en": "The Academy Museum of Motion Pictures fall programming celebrates several anniversary milestones along with a focus on horror. There will be a 50th anniversary screening of “Carrie” (1976) with Sissy Spacek, a 30th anniversary screening of “The Craft” (1996) with Rachel True and Robin Tunney and a 30th anniversary screening of “Get on the Bus” […]",
-        "fa": "برنامه‌های پاییزی موزه آکادمی تصاویر متحرک چندین نقطه عطف سالگرد را همراه با تمرکز بر ترسناک جشن می‌گیرد. اکران پنجاهمین سالگرد «کری» با سیسی اسپیسک، اکران سی‌امین سالگرد «صنعت» با بازی ریچل ترو و رابین تونی و اکران سی‌امین سالگرد «سوار اتوبوس» خواهد بود."
-      },
-      "content": {
-        "en": "The Academy Museum of Motion Pictures fall programming celebrates several anniversary milestones along with a focus on horror. There will be a 50th anniversary screening of “Carrie” (1976) with Sissy Spacek, a 30th anniversary screening of “The Craft” (1996) with Rachel True and Robin Tunney and a 30th anniversary screening of “Get on the Bus” […]",
-        "fa": "برنامه‌های پاییزی موزه آکادمی تصاویر متحرک چندین نقطه عطف سالگرد را همراه با تمرکز بر ترسناک جشن می‌گیرد. اکران پنجاهمین سالگرد «کری» با سیسی اسپیسک، اکران سی‌امین سالگرد «صنعت» با بازی ریچل ترو و رابین تونی و اکران سی‌امین سالگرد «سوار اتوبوس» خواهد بود."
-      },
-      "source": {
-        "en": "Variety",
-        "fa": "Variety"
-      },
-      "link": "https://variety.com/2026/film/news/film-news-in-brief-august-17-1236836442/",
-      "date": "2026-08-20T04:28:18.720013+00:00",
-      "image": "https://variety.com/wp-content/uploads/2022/05/marie-antoinette.png",
       "important": false,
       "score": 0
     },
@@ -453,7 +453,7 @@
         "fa": "Variety"
       },
       "link": "https://variety.com/2026/film/news/prince-harry-meghan-markle-moving-back-to-uk-1236838650/",
-      "date": "2026-08-20T04:28:18.719352+00:00",
+      "date": "2026-08-20T05:22:30.997710+00:00",
       "image": "https://variety.com/wp-content/uploads/2025/08/GettyImages-1685133404.jpg",
       "important": false,
       "score": 0
@@ -477,7 +477,7 @@
         "fa": "Variety"
       },
       "link": "https://variety.com/2026/music/news/ariana-grande-permitted-subpoena-reveal-hacker-identities-1236838661/",
-      "date": "2026-08-20T04:28:18.719130+00:00",
+      "date": "2026-08-20T05:22:30.997528+00:00",
       "image": "https://variety.com/wp-content/uploads/2026/08/GettyImages-2254668725.jpg",
       "important": false,
       "score": 0
@@ -501,7 +501,7 @@
         "fa": "Variety"
       },
       "link": "https://variety.com/2026/tv/news/dane-cook-brother-stole-12-million-cash-pasta-sauce-1236838675/",
-      "date": "2026-08-20T04:28:18.718294+00:00",
+      "date": "2026-08-20T05:22:30.996719+00:00",
       "image": "https://variety.com/wp-content/uploads/2026/08/1316759218-e1787179806969.jpg",
       "important": false,
       "score": 0
@@ -525,7 +525,7 @@
         "fa": "Variety"
       },
       "link": "https://variety.com/2026/film/news/hayden-panettiere-death-dea-joins-investigation-1236838724/",
-      "date": "2026-08-20T04:28:18.717612+00:00",
+      "date": "2026-08-20T05:22:30.996079+00:00",
       "image": "https://variety.com/wp-content/uploads/2026/08/hayden.jpg",
       "important": false,
       "score": 0
@@ -549,7 +549,7 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/degree-of-uncertainty-interview-simon-schneider-1237044928/",
-      "date": "2026-08-20T04:28:18.716803+00:00",
+      "date": "2026-08-20T05:22:30.995041+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/DC1.jpg",
       "important": false,
       "score": 0
@@ -573,7 +573,7 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/furious-steve-way-praises-liz-meriwether-disabled-romance-1237045759/",
-      "date": "2026-08-20T04:28:18.716112+00:00",
+      "date": "2026-08-20T05:22:30.994417+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/179484_0143_V1.jpg",
       "important": false,
       "score": 0
