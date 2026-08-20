@@ -1,7 +1,55 @@
 {
-  "updated_at": "2026-08-20T15:24:44.366516+00:00",
+  "updated_at": "2026-08-20T16:23:45.731331+00:00",
   "count": 24,
   "news": [
+    {
+      "id": "de92004456e2",
+      "title": {
+        "en": "‘America’s Sweethearts: Dallas Cowboys Cheerleaders’ Renewed For Season 4 At Netflix",
+        "fa": "«Sweethearts آمریکا: Dallas Cowboys Cheerleaders» برای فصل 4 در نتفلیکس تمدید شد"
+      },
+      "excerpt": {
+        "en": "America’s Sweethearts: Dallas Cowboys Cheerleaders will be back for another go-round. Netflix has renewed the fan-favorite series for a fourth season for premiere in 2027. Check out the renewal announcement below. From Emmy-winning director Greg Whiteley, Season 4 will follow the 2026-27 Dallas Cowboys Cheerleaders team as highly competitive auditions give way to training camp […]",
+        "fa": "American's Sweethearts: Dallas Cowboys Cheerleaders برای یک دور دیگر بازخواهد گشت. نتفلیکس سریال مورد علاقه طرفداران را برای فصل چهارم برای اولین بار در سال 2027 تمدید کرده است. اعلامیه تمدید را در زیر ببینید. از کارگردان برنده امی، گرگ وایتلی، فصل 4 با تیم Cheerleaders 2026-2027 Dallas Cowboys دنبال می شود، زیرا تست های بسیار رقابتی جای خود را به کمپ آموزشی می دهد."
+      },
+      "content": {
+        "en": "America’s Sweethearts: Dallas Cowboys Cheerleaders will be back for another go-round. Netflix has renewed the fan-favorite series for a fourth season for premiere in 2027. Check out the renewal announcement below. From Emmy-winning director Greg Whiteley, Season 4 will follow the 2026-27 Dallas Cowboys Cheerleaders team as highly competitive auditions give way to training camp […]",
+        "fa": "American's Sweethearts: Dallas Cowboys Cheerleaders برای یک دور دیگر بازخواهد گشت. نتفلیکس سریال مورد علاقه طرفداران را برای فصل چهارم برای اولین بار در سال 2027 تمدید کرده است. اعلامیه تمدید را در زیر ببینید. از کارگردان برنده امی، گرگ وایتلی، فصل 4 با تیم Cheerleaders 2026-2027 Dallas Cowboys دنبال می شود، زیرا تست های بسیار رقابتی جای خود را به کمپ آموزشی می دهد."
+      },
+      "source": {
+        "en": "Deadline",
+        "fa": "Deadline"
+      },
+      "link": "https://deadline.com/2026/08/americas-sweethearts-dallas-cowboys-cheerleaders-renewed-s4-1237046409/",
+      "date": "2026-08-20T16:23:45.530629+00:00",
+      "image": "https://deadline.com/wp-content/uploads/2025/08/Americas-Sweethearts-Dallas-Cowboys-Cheerleaders-netflix-series.jpg",
+      "important": true,
+      "score": 12
+    },
+    {
+      "id": "e0048b3725cc",
+      "title": {
+        "en": "All The Songs In ‘Outer Banks’ Season 5: Tame Impala, Stevie Wonder & More",
+        "fa": "همه آهنگ‌های فصل 5 Outer Banks: Tame Impala، Stevie Wonder و بیشتر"
+      },
+      "excerpt": {
+        "en": "EXCLUSIVE: Outer Banks has come to an end after five seasons on Netflix, but a prequel set in the same world is in the works. A memorable needle drop early on in Season 1 of the series, which arrived in 2020, was Alt-J’s “Left Hand Free,” which became an anthem for the Pogues and reminiscent […]",
+        "fa": "انحصاری: Outer Banks پس از پنج فصل در نتفلیکس به پایان خود رسیده است، اما پیش درآمدی در همان دنیا در دست ساخت است. یک سر سوزن به یاد ماندنی در اوایل فصل 1 سریال که در سال 2020 منتشر شد، \"Left Hand Free\" Alt-J بود که به سرود Pogues تبدیل شد و یادآور شد."
+      },
+      "content": {
+        "en": "EXCLUSIVE: Outer Banks has come to an end after five seasons on Netflix, but a prequel set in the same world is in the works. A memorable needle drop early on in Season 1 of the series, which arrived in 2020, was Alt-J’s “Left Hand Free,” which became an anthem for the Pogues and reminiscent […]",
+        "fa": "انحصاری: Outer Banks پس از پنج فصل در نتفلیکس به پایان خود رسیده است، اما پیش درآمدی در همان دنیا در دست ساخت است. یک سر سوزن به یاد ماندنی در اوایل فصل 1 سریال که در سال 2020 منتشر شد، \"Left Hand Free\" Alt-J بود که به سرود Pogues تبدیل شد و یادآور شد."
+      },
+      "source": {
+        "en": "Deadline",
+        "fa": "Deadline"
+      },
+      "link": "https://deadline.com/2026/08/outer-banks-season-5-soundtrack-songs-tame-impala-1237045918/",
+      "date": "2026-08-20T16:23:45.531974+00:00",
+      "image": "https://deadline.com/wp-content/uploads/2026/06/OUTERBANKS_503_Unit_06167RC.jpg",
+      "important": true,
+      "score": 9
+    },
     {
       "id": "bb8f923c7bdf",
       "title": {
@@ -21,7 +69,7 @@
         "fa": "Variety"
       },
       "link": "https://variety.com/2026/film/global/watermelon-pictures-buys-diego-lunas-migration-drama-ashes-1236838941/",
-      "date": "2026-08-20T15:24:44.168721+00:00",
+      "date": "2026-08-20T16:23:45.534141+00:00",
       "image": "https://variety.com/wp-content/uploads/2026/05/Ashes.webp",
       "important": true,
       "score": 8
@@ -45,7 +93,7 @@
         "fa": "Variety"
       },
       "link": "https://variety.com/2026/tv/news/yellowjackets-final-season-4-release-date-1236839026/",
-      "date": "2026-08-20T15:24:44.168612+00:00",
+      "date": "2026-08-20T16:23:45.534056+00:00",
       "image": "https://variety.com/wp-content/uploads/2025/05/Yellowjackets_309_DS_0923_1431_RT.jpg",
       "important": true,
       "score": 7
@@ -54,7 +102,7 @@
       "id": "330b20581501",
       "title": {
         "en": "‘Yellowjackets’ Final Season Will Premiere in November on Paramount+",
-        "fa": "فصل پایانی «Jellowjackets» در ماه نوامبر در Paramount+ نمایش داده می‌شود"
+        "fa": "فصل آخر «Jellowjackets» در ماه نوامبر در پارامونت پلاس پخش خواهد شد"
       },
       "excerpt": {
         "en": "The Emmy-nominated series will be available to watch through the streamer's Premium Plan The post ‘Yellowjackets’ Final Season Will Premiere in November on Paramount+ appeared first on TheWrap .",
@@ -69,7 +117,7 @@
         "fa": "The Wrap"
       },
       "link": "https://www.thewrap.com/creative-content/tv-shows/yellowjackets-season-4-premiere-date-paramount-plus/",
-      "date": "2026-08-20T15:24:44.172233+00:00",
+      "date": "2026-08-20T16:23:45.537412+00:00",
       "image": "https://www.thewrap.com/wp-content/uploads/2025/04/Yellowjackets_309-lynskey.jpg",
       "important": true,
       "score": 6
@@ -93,7 +141,7 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/dominque-perry-signs-colorcreative-1237046264/",
-      "date": "2026-08-20T15:24:44.165250+00:00",
+      "date": "2026-08-20T16:23:45.533309+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/Photo-Aug-04-2026-6-39-34-PM-2.jpg",
       "important": true,
       "score": 6
@@ -117,8 +165,56 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/news/trailers/brotherhood-a-cinematic-musical-trailer-1235211243/",
-      "date": "2026-08-20T15:24:44.175521+00:00",
+      "date": "2026-08-20T16:23:45.539237+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/Mauricio-Martinez-the-Cast-of-Brotherhood-2.png?w=650",
+      "important": true,
+      "score": 4
+    },
+    {
+      "id": "ee108f99a2d8",
+      "title": {
+        "en": "‘Monster: The Lizzie Borden Story’ Trailer: Ryan Murphy Takes a Whack at Oft-Adapted Murder Story",
+        "fa": "تریلر «Monster: The Lizzie Borden Story»: رایان مورفی در فیلم «داستان قتل» اقتباس شده ضربه می زند"
+      },
+      "excerpt": {
+        "en": "Following controversial seasons focusing on Jeffrey Dahmer, the Menendez Brothers, and Ed Gein, the \"Monster\" anthology franchise turns its focus to less recent history for the notorious 19th-century murder case of Lizzie Borden.",
+        "fa": "پس از فصل‌های بحث‌برانگیز با تمرکز بر جفری دامر، برادران منندز و اد جین، مجموعه گلچین «هیولا» تمرکز خود را به تاریخچه کمتر اخیر برای پرونده بدنام قتل لیزی بوردن در قرن نوزدهم معطوف می‌کند."
+      },
+      "content": {
+        "en": "Following controversial seasons focusing on Jeffrey Dahmer, the Menendez Brothers, and Ed Gein, the \"Monster\" anthology franchise turns its focus to less recent history for the notorious 19th-century murder case of Lizzie Borden.",
+        "fa": "پس از فصل‌های بحث‌برانگیز با تمرکز بر جفری دامر، برادران منندز و اد جین، مجموعه گلچین «هیولا» تمرکز خود را به تاریخچه کمتر اخیر برای پرونده بدنام قتل لیزی بوردن در قرن نوزدهم معطوف می‌کند."
+      },
+      "source": {
+        "en": "IndieWire",
+        "fa": "IndieWire"
+      },
+      "link": "https://www.indiewire.com/news/trailers/monster-lizzie-borden-story-trailer-ryan-murphy-1235211644/",
+      "date": "2026-08-20T16:23:45.538340+00:00",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/08/Monster__The_Lizzie_Borden_Story_n_S1_E2_00_37_26_19R.jpg?w=650",
+      "important": true,
+      "score": 4
+    },
+    {
+      "id": "1a37f629bb90",
+      "title": {
+        "en": "Chris Pratt Returns to Battle for Redemption in ‘Terminal List’ Season 2 Trailer",
+        "fa": "بازگشت کریس پرت به نبرد برای رستگاری در تریلر فصل دوم «Terminal List»"
+      },
+      "excerpt": {
+        "en": "His now-fugitive character James Reece is offered newfound purpose helping the U.S. government pursue a shadowy former Iraqi commando to unravel a geopolitical conspiracy.",
+        "fa": "جیمز ریس به شخصیت فراری او که اکنون فراری است، پیشنهاد می‌شود که به دولت ایالات متحده کمک کند تا یک کماندوی سابق عراقی را برای کشف یک توطئه ژئوپلیتیکی تعقیب کند."
+      },
+      "content": {
+        "en": "His now-fugitive character James Reece is offered newfound purpose helping the U.S. government pursue a shadowy former Iraqi commando to unravel a geopolitical conspiracy.",
+        "fa": "جیمز ریس به شخصیت فراری او که اکنون فراری است، پیشنهاد می‌شود که به دولت ایالات متحده کمک کند تا یک کماندوی سابق عراقی را برای کشف یک توطئه ژئوپلیتیکی تعقیب کند."
+      },
+      "source": {
+        "en": "The Hollywood Reporter",
+        "fa": "The Hollywood Reporter"
+      },
+      "link": "https://www.hollywoodreporter.com/tv/tv-news/chris-pratt-terminal-list-season-2-trailer-1236677647/",
+      "date": "2026-08-20T16:23:45.535988+00:00",
+      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/TMLT_S2_UT_203_250516_GROMAR_00373RC2.jpg?crop=0px%2C0px%2C3900px%2C2182px&#038;resize=1440%2C810",
       "important": true,
       "score": 4
     },
@@ -134,89 +230,17 @@
       },
       "content": {
         "en": "The first trailer for dark festival hit “Never After Dark” has been released, and it has some big-time fans. Horror icon Stephen King has called the film, about a psychic trying to unravel the mystery behind an evil house, “amazing and haunting.” Director Scott Derrickson, whose films include “The Black Phone” and “Sinister,” called it […]",
-        "fa": "اولین تریلر فیلم موفق جشنواره تاریک \"Never After Dark\" منتشر شد و طرفداران زیادی دارد. استفن کینگ، نماد ترسناک، این فیلم را که درباره یک روانی است که سعی می‌کند راز پشت یک خانه شیطانی را کشف کند، «شگفت‌انگیز و دلهره‌آور» نامیده است. کارگردان اسکات دریکسون که از جمله فیلم‌هایش می‌توان به «تلفن سیاه» و «شوم» نام برد"
+        "fa": "اولین تریلر فیلم موفق جشنواره تاریک \"Never After Dark\" منتشر شد و طرفداران زیادی دارد. استفن کینگ، نماد ترسناک، این فیلم را که درباره یک روانی است که سعی می‌کند راز پشت یک خانه شیطانی را کشف کند، «شگفت‌انگیز و دلهره‌آور» نامیده است. اسکات دریکسون کارگردان، که از جمله فیلم‌هایش می‌توان به «تلفن سیاه» و «شوم» نام برد"
       },
       "source": {
         "en": "Variety",
         "fa": "Variety"
       },
       "link": "https://variety.com/2026/film/news/never-after-dark-trailer-stephen-king-psychic-thriller-1236838731/",
-      "date": "2026-08-20T15:24:44.168950+00:00",
+      "date": "2026-08-20T16:23:45.534314+00:00",
       "image": "https://variety.com/wp-content/uploads/2026/08/Never-After-Dark.png",
       "important": true,
       "score": 4
-    },
-    {
-      "id": "08e874da52bd",
-      "title": {
-        "en": "Chris Pratt’s James Reece Is On A Road To Redemption In ‘The Terminal List’ Season 2 Trailer",
-        "fa": "تریلر فصل دوم «جیمز ریس» ساخته کریس پرت در مسیر رستگاری در «فهرست ترمینال» است."
-      },
-      "excerpt": {
-        "en": "Prime Video has dropped the first trailer for Season 2 of The Terminal List, which finds Chris Pratt’s Jame Reece seeking redemption and a new purpose. “Before he was a fugitive, James Reece made a career out of putting terrorists in the dirt,” a voiceover is heard in the trailer. “He may be exactly what […]",
-        "fa": "Prime Video اولین تریلر فصل 2 سریال The Terminal List را منتشر کرده است که در آن جیم ریس به کارگردانی کریس پرت به دنبال رستگاری و هدفی جدید است. صداپیشگی در تریلر شنیده می‌شود: «جیمز ریس قبل از فراری بودن، کار حرفه‌ای را با قرار دادن تروریست‌ها در خاک انجام داد». او ممکن است دقیقاً همان چیزی باشد"
-      },
-      "content": {
-        "en": "Prime Video has dropped the first trailer for Season 2 of The Terminal List, which finds Chris Pratt’s Jame Reece seeking redemption and a new purpose. “Before he was a fugitive, James Reece made a career out of putting terrorists in the dirt,” a voiceover is heard in the trailer. “He may be exactly what […]",
-        "fa": "Prime Video اولین تریلر فصل 2 سریال The Terminal List را منتشر کرده است که در آن جیم ریس به کارگردانی کریس پرت به دنبال رستگاری و هدفی جدید است. صداپیشگی در تریلر شنیده می‌شود: «جیمز ریس قبل از فراری بودن، کار حرفه‌ای را با قرار دادن تروریست‌ها در خاک انجام داد». او ممکن است دقیقاً همان چیزی باشد"
-      },
-      "source": {
-        "en": "Deadline",
-        "fa": "Deadline"
-      },
-      "link": "https://deadline.com/2026/08/chris-pratt-james-reece-the-terminal-list-season-2-trailer-1237045899/",
-      "date": "2026-08-20T15:24:44.168075+00:00",
-      "image": "https://deadline.com/wp-content/uploads/2026/08/TMLT_S2_UT_201_250414_LUBJUS_00132RC2.jpg",
-      "important": true,
-      "score": 4
-    },
-    {
-      "id": "57864dcde63a",
-      "title": {
-        "en": "‘Monster: The Lizzie Borden Story’ Trailer: First Look At Sarah Paulson, Charlie Hunnam, Rebecca Hall In Bloody Ax Murder Tale",
-        "fa": "تریلر فیلم Monster: The Lizzie Borden Story: اولین نگاه به سارا پالسون، چارلی هانام، ربکا هال در داستان قتل با تبر خونین"
-      },
-      "excerpt": {
-        "en": "UPDATED: “There’s nothing wrong with blood. Blood is power. Blood is freedom.” So begins the dark and disturbing full trailer for Monster: The LIzzie Borden Story, the fourth season of Ryan Murphy and Ian Brennan’s anthology series. In it, we get the first reveals of Charlie Hunnam and Rebecca Hall, Lizzie’s (Ella Beatty) father and […]",
-        "fa": "به روز شده: \"خون هیچ ایرادی ندارد. خون قدرت است. خون آزادی است.\" بنابراین، تریلر کامل تاریک و ناراحت کننده Monster: The LIzzie Borden Story، فصل چهارم سریال گلچین رایان مورفی و ایان برنان آغاز می شود. در آن، ما اولین افشاگری های چارلی هانام و ربکا هال، پدر لیزی و"
-      },
-      "content": {
-        "en": "UPDATED: “There’s nothing wrong with blood. Blood is power. Blood is freedom.” So begins the dark and disturbing full trailer for Monster: The LIzzie Borden Story, the fourth season of Ryan Murphy and Ian Brennan’s anthology series. In it, we get the first reveals of Charlie Hunnam and Rebecca Hall, Lizzie’s (Ella Beatty) father and […]",
-        "fa": "به روز شده: \"خون هیچ ایرادی ندارد. خون قدرت است. خون آزادی است.\" بنابراین، تریلر کامل تاریک و ناراحت کننده Monster: The LIzzie Borden Story، فصل چهارم سریال گلچین رایان مورفی و ایان برنان آغاز می شود. در آن، ما اولین افشاگری های چارلی هانام و ربکا هال، پدر لیزی و"
-      },
-      "source": {
-        "en": "Deadline",
-        "fa": "Deadline"
-      },
-      "link": "https://deadline.com/2026/08/monster-the-lizzie-borden-story-trailer-ryan-murphy-netflix-1237030567/",
-      "date": "2026-08-20T15:24:44.167409+00:00",
-      "image": "https://deadline.com/wp-content/uploads/2026/08/Monster__The_Lizzie_Borden_Story_n_S1_E1_00_52_19_02R.jpg",
-      "important": true,
-      "score": 4
-    },
-    {
-      "id": "e861477c37a1",
-      "title": {
-        "en": "Val Kilmer Resurrected by AI: ‘As Deep as the Grave’ Releases Seven Minutes of Footage Featuring Younger Version of Actor",
-        "fa": "وال کیلمر با هوش مصنوعی زنده شد: «به اعماق قبر» هفت دقیقه فیلم منتشر کرد که شامل نسخه جوان‌تر از بازیگر است."
-      },
-      "excerpt": {
-        "en": "Exclusive: Filmmaker Coerte Voorhees used family archives and studied Kilmer's work in \"Heat\" and \"Batman Forever\" to create the generative AI performance.",
-        "fa": "اختصاصی: فیلمساز Coerte Voorhees از آرشیوهای خانوادگی استفاده کرد و کارهای کیلمر را در \"Heat\" و \"Batman Forever\" مطالعه کرد تا عملکرد مولد هوش مصنوعی را ایجاد کند."
-      },
-      "content": {
-        "en": "Exclusive: Filmmaker Coerte Voorhees used family archives and studied Kilmer's work in \"Heat\" and \"Batman Forever\" to create the generative AI performance.",
-        "fa": "اختصاصی: فیلمساز Coerte Voorhees از آرشیوهای خانوادگی استفاده کرد و کارهای کیلمر را در \"Heat\" و \"Batman Forever\" مطالعه کرد تا عملکرد مولد هوش مصنوعی را ایجاد کند."
-      },
-      "source": {
-        "en": "IndieWire",
-        "fa": "IndieWire"
-      },
-      "link": "https://www.indiewire.com/news/business/val-kilmer-ai-movie-footage-as-deep-as-the-grave-1235211459/",
-      "date": "2026-08-20T15:24:44.175761+00:00",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/08/Screen-Shot-2026-08-19-at-7.08.47-AM.png?w=650",
-      "important": false,
-      "score": 3
     },
     {
       "id": "24d4b0011f3a",
@@ -237,8 +261,56 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/awards/predictions/hbo-emmy-campaign-perseverance-should-pay-off-1235211458/",
-      "date": "2026-08-20T15:24:44.174516+00:00",
+      "date": "2026-08-20T16:23:45.538479+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/2290751324.jpg?w=650",
+      "important": false,
+      "score": 3
+    },
+    {
+      "id": "67071567c38d",
+      "title": {
+        "en": "Disney Historian Jeff Kurtti Launches New Film Series at Orange County’s Frida Cinema | Exclusive",
+        "fa": "جف کورتی، مورخ دیزنی، مجموعه فیلم های جدیدی را در سینما فریدا اورنج کانتی راه اندازی کرد | انحصاری"
+      },
+      "excerpt": {
+        "en": "The inaugural slate of programming includes “20,000 Leagues Under the Sea” and two Leslie Iwerks documentaries The post Disney Historian Jeff Kurtti Launches New Film Series at Orange County’s Frida Cinema | Exclusive appeared first on TheWrap .",
+        "fa": "فهرست افتتاحیه برنامه شامل \"20000 لیگ زیر دریا\" و دو مستند Leslie Iwerks است."
+      },
+      "content": {
+        "en": "The inaugural slate of programming includes “20,000 Leagues Under the Sea” and two Leslie Iwerks documentaries The post Disney Historian Jeff Kurtti Launches New Film Series at Orange County’s Frida Cinema | Exclusive appeared first on TheWrap .",
+        "fa": "فهرست افتتاحیه برنامه شامل \"20000 لیگ زیر دریا\" و دو مستند Leslie Iwerks است."
+      },
+      "source": {
+        "en": "The Wrap",
+        "fa": "The Wrap"
+      },
+      "link": "https://www.thewrap.com/creative-content/movies/disney-film-series-jeff-kurtti-frida-cinema-dates-movies-speakers/",
+      "date": "2026-08-20T16:23:45.536416+00:00",
+      "image": "https://www.thewrap.com/wp-content/uploads/2026/08/Swiss-Family-Robinson.jpg",
+      "important": false,
+      "score": 3
+    },
+    {
+      "id": "2d3fb7e2a559",
+      "title": {
+        "en": "The Cloning Company Trying to Bring Back the Woolly Mammoth Enlists ‘Paw Patrol’ in Its Efforts (Exclusive)",
+        "fa": "شرکت کلونینگ در تلاش برای بازگرداندن ماموت پشمالو در تلاش‌های خود از «گشت پنجه» استفاده می‌کند."
+      },
+      "excerpt": {
+        "en": "Some real 'Jurassic Park' stuff from the 'Dino Movie' gang.",
+        "fa": "چند چیز واقعی \"پارک ژوراسیک\" از باند \"دینو مووی\"."
+      },
+      "content": {
+        "en": "Some real 'Jurassic Park' stuff from the 'Dino Movie' gang.",
+        "fa": "Some real 'Jurassic Park' stuff from the 'Dino Movie' gang."
+      },
+      "source": {
+        "en": "The Hollywood Reporter",
+        "fa": "The Hollywood Reporter"
+      },
+      "link": "https://www.hollywoodreporter.com/movies/movie-news/paw-patrol-genetic-engineering-bioscience-film-1236677672/",
+      "date": "2026-08-20T16:23:45.535290+00:00",
+      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/PP3_FRAME_068-H-2026.jpg?w=1296&#038;h=730&#038;crop=1",
       "important": false,
       "score": 3
     },
@@ -261,7 +333,7 @@
         "fa": "Variety"
       },
       "link": "https://variety.com/2026/tv/reviews/blood-sacrifice-review-netflix-1236838260/",
-      "date": "2026-08-20T15:24:44.169821+00:00",
+      "date": "2026-08-20T16:23:45.534978+00:00",
       "image": "https://variety.com/wp-content/uploads/2026/08/L1121482_AdamKlingeteg_Netflix_Blodsoffer.jpg",
       "important": false,
       "score": 3
@@ -285,128 +357,128 @@
         "fa": "Variety"
       },
       "link": "https://variety.com/2026/biz/news/ai-music-udio-grai-patents-umg-backed-music-ip-holdings-1236838763/",
-      "date": "2026-08-20T15:24:44.169290+00:00",
+      "date": "2026-08-20T16:23:45.534572+00:00",
       "image": "https://variety.com/wp-content/uploads/2020/06/var_universal223910.jpg",
       "important": false,
       "score": 3
     },
     {
-      "id": "addc128dafc0",
+      "id": "9a428d110f17",
       "title": {
-        "en": "Kate Beckinsale Action-Thriller ‘Drifter’ Boarded By The Syndicate For Sales At TIFF & AFM",
-        "fa": "کیت بکینسیل اکشن هیجان انگیز \"Drifter\" توسط The Syndicate برای فروش در TIFF & AFM"
+        "en": "Black Bear Management Signs Rising Directors Sandra Wollner & Stephanie Ahn",
+        "fa": "مدیریت خرس سیاه امضا مدیران در حال ظهور ساندرا وولنر و استفانی آن"
       },
       "excerpt": {
-        "en": "EXCLUSIVE: Shaun Sanghani’s The Syndicate has boarded sales rights to Kate Beckinsale action-thriller Drifter, which it will be shopping at the upcoming TIFF and AFM markets. Beckinsale (Underworld) stars with Dermot Mulroney (Chicago Fire), Robert Knepper (Prison Break) and rapper Sticky Fingaz in the project which is filming on location this month throughout Cleveland and Northeast […]",
-        "fa": "اختصاصی: سندیکای Shaun Sanghani حقوق فروش اکشن و هیجان انگیز Kate Beckinsale Drifter را که در بازارهای آتی TIFF و AFM خریداری خواهد کرد، دریافت کرده است. بکینسیل با درموت مولرونی، رابرت نپر و رپر استیکی فینگاز در این پروژه که این ماه در لوکیشن در سراسر کلیولند و شمال شرقی فیلمبرداری می‌شود بازی می‌کند."
+        "en": "EXCLUSIVE: Black Bear’s management division has signed rising directors Sandra Wollner and Stephanie Ahn. Wollner’s Everytime recently played in the Un Certain Regard section of the 2026 Cannes Film Festival, where it received the section’s top honor. The film wasacquired by 1-2 Special for U.S. distribution and will continue its festival run this fall, screening […]",
+        "fa": "اختصاصی: بخش مدیریت Black Bear با مدیران در حال رشد ساندرا وولنر و استفانی آن قرارداد امضا کرده است. Wollner's Everytime اخیراً در بخش Un Certain Regard جشنواره فیلم کن 2026 بازی کرد و در آنجا جایزه برتر این بخش را دریافت کرد. این فیلم توسط 1-2 Special برای توزیع در ایالات متحده خریداری شد و در پاییز امسال به نمایش جشنواره ادامه خواهد داد."
       },
       "content": {
-        "en": "EXCLUSIVE: Shaun Sanghani’s The Syndicate has boarded sales rights to Kate Beckinsale action-thriller Drifter, which it will be shopping at the upcoming TIFF and AFM markets. Beckinsale (Underworld) stars with Dermot Mulroney (Chicago Fire), Robert Knepper (Prison Break) and rapper Sticky Fingaz in the project which is filming on location this month throughout Cleveland and Northeast […]",
-        "fa": "اختصاصی: سندیکای Shaun Sanghani حقوق فروش اکشن و هیجان انگیز Kate Beckinsale Drifter را که در بازارهای آتی TIFF و AFM خریداری خواهد کرد، دریافت کرده است. بکینسیل با درموت مولرونی، رابرت نپر و رپر استیکی فینگاز در این پروژه که این ماه در لوکیشن در سراسر کلیولند و شمال شرقی فیلمبرداری می‌شود بازی می‌کند."
+        "en": "EXCLUSIVE: Black Bear’s management division has signed rising directors Sandra Wollner and Stephanie Ahn. Wollner’s Everytime recently played in the Un Certain Regard section of the 2026 Cannes Film Festival, where it received the section’s top honor. The film wasacquired by 1-2 Special for U.S. distribution and will continue its festival run this fall, screening […]",
+        "fa": "اختصاصی: بخش مدیریت Black Bear با مدیران در حال رشد ساندرا وولنر و استفانی آن قرارداد امضا کرده است. Wollner's Everytime اخیراً در بخش Un Certain Regard جشنواره فیلم کن 2026 بازی کرد و در آنجا جایزه برتر این بخش را دریافت کرد. این فیلم توسط 1-2 Special برای توزیع در ایالات متحده خریداری شد و در پاییز امسال به نمایش جشنواره ادامه خواهد داد."
       },
       "source": {
         "en": "Deadline",
         "fa": "Deadline"
       },
-      "link": "https://deadline.com/2026/08/kate-beckinsale-movie-drifter-boarded-by-the-syndicate-tiff-1237046149/",
-      "date": "2026-08-20T15:24:44.168399+00:00",
-      "image": "https://deadline.com/wp-content/uploads/2026/08/Kate-Beckinsale-Dermot-Mulroney-Robert-Knepper-and-rapper-Sticky-Fingaz.jpg",
+      "link": "https://deadline.com/2026/08/black-bear-signs-directors-sandra-wollner-stephanie-ahn-1237046254/",
+      "date": "2026-08-20T16:23:45.533018+00:00",
+      "image": "https://deadline.com/wp-content/uploads/2026/08/Sandra-Wollner-and-Stephanie-Ahn.jpg",
       "important": false,
       "score": 3
     },
     {
-      "id": "87105e4409a4",
+      "id": "a4e4c48bff8b",
       "title": {
-        "en": "‘Heated Rivalry,’ ‘Widow’s Bay’ & ‘The Pitt’ Lead 2026 TCA Awards: Full Winners List",
-        "fa": "«رقابت شدید»، «خلیج بیوه» و «پیت» پیشتازان جوایز TCA 2026: فهرست کامل برندگان"
+        "en": "Dennis Haysbert & Ashley Greene Among Seven Final Additions To Indie Horror Film ‘Deify’",
+        "fa": "دنیس هایسبرت و اشلی گرین در میان هفت ضمیمه نهایی فیلم ترسناک مستقل «Deify»"
       },
       "excerpt": {
-        "en": "Hockey, horror comedy and hospital drama lead the way at the 2026 TCA Awards. Heated Rivalry skated off with the marquee Program of the Year prize Thursday as the Television Critics Association revealed the winners of its 42nd annual awards. Widow’s Bay topped all programs with three trophies including Outstanding Comedy, and HBO Max’s The […]",
-        "fa": "هاکی، کمدی ترسناک و درام بیمارستانی در جوایز TCA 2026 پیشتاز هستند. رقابت داغ روز پنجشنبه با معرفی برندگان چهل و دومین جوایز سالانه خود توسط انجمن منتقدان تلویزیونی، با جایزه برنامه سال خیمه شب بازی به پایان رسید. Widow’s Bay با سه جایزه از جمله کمدی برجسته و The HBO Max در صدر همه برنامه ها قرار گرفت."
+        "en": "EXCLUSIVE: Brother filmmakers Carmelo and Nicholas Chimera have announced seven new principal cast members for Deify, their indie psychological horror film starring Neal McDonough and Skeet Ulrich, which we announced last week. Dennis Haysbert (Far from Heaven), Ashley Greene (Twilight), Kirk Acevedo (Dawn of the Planet of the Apes), Casey Hartnett (Terrifier 2) and Anji White (Ironheart) […]",
+        "fa": "اختصاصی: فیلمسازان برادر، کارملو و نیکلاس کایمرا، هفت بازیگر اصلی جدید را برای Deify، فیلم ترسناک روان‌شناختی مستقل خود با بازی نیل مک‌دوناف و اسکیت اولریخ، معرفی کردند، که ما هفته گذشته معرفی کردیم. دنیس هایسبرت، اشلی گرین، کرک آسودو، کیسی هارتنت و آنجی وایت"
       },
       "content": {
-        "en": "Hockey, horror comedy and hospital drama lead the way at the 2026 TCA Awards. Heated Rivalry skated off with the marquee Program of the Year prize Thursday as the Television Critics Association revealed the winners of its 42nd annual awards. Widow’s Bay topped all programs with three trophies including Outstanding Comedy, and HBO Max’s The […]",
-        "fa": "هاکی، کمدی ترسناک و درام بیمارستانی در جوایز TCA 2026 پیشتاز هستند. رقابت داغ روز پنجشنبه با معرفی برندگان چهل و دومین جوایز سالانه خود توسط انجمن منتقدان تلویزیونی، با جایزه برنامه سال خیمه شب بازی به پایان رسید. Widow’s Bay با سه جایزه از جمله کمدی برجسته و The HBO Max در صدر همه برنامه ها قرار گرفت."
+        "en": "EXCLUSIVE: Brother filmmakers Carmelo and Nicholas Chimera have announced seven new principal cast members for Deify, their indie psychological horror film starring Neal McDonough and Skeet Ulrich, which we announced last week. Dennis Haysbert (Far from Heaven), Ashley Greene (Twilight), Kirk Acevedo (Dawn of the Planet of the Apes), Casey Hartnett (Terrifier 2) and Anji White (Ironheart) […]",
+        "fa": "اختصاصی: فیلمسازان برادر، کارملو و نیکلاس کایمرا، هفت بازیگر اصلی جدید را برای Deify، فیلم ترسناک روان‌شناختی مستقل خود با بازی نیل مک‌دوناف و اسکیت اولریخ، معرفی کردند، که ما هفته گذشته معرفی کردیم. دنیس هایسبرت، اشلی گرین، کرک آسودو، کیسی هارتنت و آنجی وایت"
       },
       "source": {
         "en": "Deadline",
         "fa": "Deadline"
       },
-      "link": "https://deadline.com/2026/08/2026-tca-awards-winners-heated-rivalry-1237045534/",
-      "date": "2026-08-20T15:24:44.167951+00:00",
-      "image": "https://deadline.com/wp-content/uploads/2026/08/Heated-Rivalry-and-Widows-Bay.jpg",
+      "link": "https://deadline.com/2026/08/deify-dennis-haysbert-ashley-greene-join-horror-movie-1237046306/",
+      "date": "2026-08-20T16:23:45.532791+00:00",
+      "image": "https://deadline.com/wp-content/uploads/2026/08/Dennis-Haysbert-Ashley-Greene-Kirk-Acevedo-Mike-Manning-Nicholas-Chimera.jpg",
       "important": false,
       "score": 3
     },
     {
-      "id": "54c6ceb13855",
+      "id": "33b03b54f0c0",
       "title": {
-        "en": "Creator Talent Agency Ponte Firm Expands Teams On Both Coasts",
-        "fa": "آژانس استعدادهای خلاق شرکت پونته تیم‌های خود را در هر دو سواحل گسترش می‌دهد"
+        "en": "Formation Talent Agency Names Matt Gogal Head Of Talent",
+        "fa": "نام آژانس استعدادهای درخشان مت گوگال رئیس استعداد"
       },
       "excerpt": {
-        "en": "EXCLUSIVE: Another creator-focused management business is building out on both coasts. Shana Davis-Ross’s Ponte Firm, which represents lifestyle creators such as Kit Keenan and Audrey Peters, has hired four leadership-level execs – two in New York and two in L.A. – and promoted another to a senior role in Texas. Jenna Bissonnette has been hired […]",
-        "fa": "انحصاری: یکی دیگر از مشاغل مدیریتی متمرکز بر خالق در هر دو سواحل ایجاد شده است. شرکت پونته شانا دیویس راس، که نماینده سازندگان سبک زندگی مانند کیت کینان و آدری پیترز است، چهار مدیر اجرایی در سطح رهبری - دو نفر در نیویورک و دو نفر در لس آنجلس - را استخدام کرده است و دیگری را به یک نقش ارشد در تگزاس ارتقا داده است. جنا بیسونت استخدام شده است"
+        "en": "EXCLUSIVE: Formation Talent Agency is bolstering its talent division, naming veteran representative Matt Gogal Head of Talent. In his new role, Gogal will oversee the strategy, development and day-to-day operations of Formation’s adult theatrical and emerging talent departments. He will report to president Rick Estimond. “Matt is a tremendous addition to Formation and to the continued growth of […]",
+        "fa": "اختصاصی: آژانس استعدادهای درخشان در حال تقویت بخش استعدادهای خود است و نماینده کهنه کار مت گوگال را به عنوان رئیس استعدادهای درخشان معرفی می کند. در نقش جدید خود، گوگال بر استراتژی، توسعه و عملیات روزانه بخش تئاتر بزرگسالان و استعدادهای نوظهور Formation نظارت خواهد کرد. او به رئیس جمهور ریک استیموند گزارش خواهد داد. «مت افزودنی فوق‌العاده برای Formation و رشد مداوم است"
       },
       "content": {
-        "en": "EXCLUSIVE: Another creator-focused management business is building out on both coasts. Shana Davis-Ross’s Ponte Firm, which represents lifestyle creators such as Kit Keenan and Audrey Peters, has hired four leadership-level execs – two in New York and two in L.A. – and promoted another to a senior role in Texas. Jenna Bissonnette has been hired […]",
-        "fa": "انحصاری: یکی دیگر از مشاغل مدیریتی متمرکز بر خالق در هر دو سواحل ایجاد شده است. شرکت پونته شانا دیویس راس، که نماینده سازندگان سبک زندگی مانند کیت کینان و آدری پیترز است، چهار مدیر اجرایی در سطح رهبری - دو نفر در نیویورک و دو نفر در لس آنجلس - را استخدام کرده است و دیگری را به یک نقش ارشد در تگزاس ارتقا داده است. جنا بیسونت استخدام شده است"
+        "en": "EXCLUSIVE: Formation Talent Agency is bolstering its talent division, naming veteran representative Matt Gogal Head of Talent. In his new role, Gogal will oversee the strategy, development and day-to-day operations of Formation’s adult theatrical and emerging talent departments. He will report to president Rick Estimond. “Matt is a tremendous addition to Formation and to the continued growth of […]",
+        "fa": "EXCLUSIVE: Formation Talent Agency is bolstering its talent division, naming veteran representative Matt Gogal Head of Talent. In his new role, Gogal will oversee the strategy, development and day-to-day operations of Formation’s adult theatrical and emerging talent departments. He will report to president Rick Estimond. “Matt is a tremendous addition to Formation and to the continued growth of […]"
       },
       "source": {
         "en": "Deadline",
         "fa": "Deadline"
       },
-      "link": "https://deadline.com/2026/08/creator-talent-agency-ponte-firm-expands-1237045155/",
-      "date": "2026-08-20T15:24:44.167720+00:00",
-      "image": "https://deadline.com/wp-content/uploads/2026/08/Ponte-leadership.jpg",
+      "link": "https://deadline.com/2026/08/formation-talent-agency-matt-gogal-head-of-talent-1237045932/",
+      "date": "2026-08-20T16:23:45.532377+00:00",
+      "image": "https://deadline.com/wp-content/uploads/2026/08/Matt-Gogal-.jpg",
       "important": false,
       "score": 3
     },
     {
-      "id": "18d8b1a7044b",
+      "id": "751dd4af4548",
       "title": {
-        "en": "Martin Scorsese Joins Paul Schrader’s Venice Drama ‘The Basics Of Philosophy’ As EP; Noora Films Boards Sales",
-        "fa": "مارتین اسکورسیزی به درام ونیز پل شریدر «مبانی فلسفه» به عنوان EP می‌پیوندد. فروش تابلوهای فیلم نورا"
+        "en": "Sony’s 3000 Pictures & Temple Hill Land ‘Dolly All The Time’ With Gemma Burgess Set To Adapt",
+        "fa": "3000 عکس سونی و تپه هیل لند «دالی همه وقت» با جما برگس آماده سازگاری"
       },
       "excerpt": {
-        "en": "EXCLUSIVE: Ahead of its launch at the Venice Film Festival, Paul Schrader’s drama The Basics of Philosophy has got some key support. Noora Films has joined the film to represent international sales and Schrader’s old collaborator Martin Scorsese is aboard as an executive producer. Scorsese and Schrader formed one of the most potent writing-directing partnerships […]",
-        "fa": "اختصاصی: پیش از آغاز به کار در جشنواره فیلم ونیز، درام «مبانی فلسفه» اثر پل شریدر از حمایت های کلیدی برخوردار شده است. نورا فیلمز برای نمایندگی فروش بین المللی به فیلم پیوست و مارتین اسکورسیزی همکار قدیمی شریدر به عنوان تهیه کننده اجرایی در این فیلم حضور دارد. اسکورسیزی و شریدر یکی از قوی ترین همکاری های نویسندگی و کارگردانی را تشکیل دادند"
+        "en": "EXCLUSIVE: In a competitive situation, Sony’s 3000 Pictures has acquired the bestselling hot summer novel Dolly All the Time. Gemma Burgess will adapt the novel by Annabel Monaghan, and Temple Hill Entertainment is set to produce with Annika Patton overseeing it for the producer. Dolly All the Time came out at the beginning of the summer and […]",
+        "fa": "انحصاری: در شرایط رقابتی، Sony’s 3000 Pictures پرفروش ترین رمان داغ تابستانی Dolly All Time را به دست آورد. جما برگس اقتباسی از رمان آنابل موناگان خواهد داشت و تمپل هیل اینترتینمنت قرار است با نظارت آنیکا پاتون برای تهیه‌کننده آن را تولید کند. Dolly All the Time در ابتدای تابستان منتشر شد و"
       },
       "content": {
-        "en": "EXCLUSIVE: Ahead of its launch at the Venice Film Festival, Paul Schrader’s drama The Basics of Philosophy has got some key support. Noora Films has joined the film to represent international sales and Schrader’s old collaborator Martin Scorsese is aboard as an executive producer. Scorsese and Schrader formed one of the most potent writing-directing partnerships […]",
-        "fa": "اختصاصی: پیش از آغاز به کار در جشنواره فیلم ونیز، درام «مبانی فلسفه» اثر پل شریدر از حمایت های کلیدی برخوردار شده است. نورا فیلمز برای نمایندگی فروش بین المللی به فیلم پیوست و مارتین اسکورسیزی همکار قدیمی شریدر به عنوان تهیه کننده اجرایی در این فیلم حضور دارد. اسکورسیزی و شریدر یکی از قوی ترین همکاری های نویسندگی و کارگردانی را تشکیل دادند"
+        "en": "EXCLUSIVE: In a competitive situation, Sony’s 3000 Pictures has acquired the bestselling hot summer novel Dolly All the Time. Gemma Burgess will adapt the novel by Annabel Monaghan, and Temple Hill Entertainment is set to produce with Annika Patton overseeing it for the producer. Dolly All the Time came out at the beginning of the summer and […]",
+        "fa": "انحصاری: در شرایط رقابتی، Sony’s 3000 Pictures پرفروش ترین رمان داغ تابستانی Dolly All Time را به دست آورد. جما برگس اقتباسی از رمان آنابل موناگان خواهد داشت و تمپل هیل اینترتینمنت قرار است با نظارت آنیکا پاتون برای تهیه‌کننده آن را تولید کند. Dolly All the Time در ابتدای تابستان منتشر شد و"
       },
       "source": {
         "en": "Deadline",
         "fa": "Deadline"
       },
-      "link": "https://deadline.com/2026/08/martin-scorsese-joins-paul-schrader-film-basics-philosophy-1237046163/",
-      "date": "2026-08-20T15:24:44.166323+00:00",
-      "image": "https://deadline.com/wp-content/uploads/2026/07/The-Basics-of-Philosophy-Jack-x-Sofia-Still.jpg",
+      "link": "https://deadline.com/2026/08/dolly-all-the-time-movie-gemma-burgess-writer-1237046317/",
+      "date": "2026-08-20T16:23:45.532124+00:00",
+      "image": "https://deadline.com/wp-content/uploads/2026/08/Gemma-Burgess-Dolly-All-The-Time.jpg",
       "important": false,
       "score": 3
     },
     {
-      "id": "bba9333d8245",
+      "id": "c6f7f4cda459",
       "title": {
-        "en": "Mark O’Brien & Anneke Sluiters Leading Sci-fi Drama ‘Soma’ With Filming Underway In Estonia & Netherlands",
-        "fa": "مارک اوبراین و آنکه اسلایترز درام علمی تخیلی «سوما» با فیلمبرداری در استونی و هلند در حال انجام است"
+        "en": "Billy Zane, Kevin Chapman & C.S. Lee Among Cast In Creature Feature ‘Wekiwa’ From Oscar Winner Richard L. Anderson",
+        "fa": "بیلی زین، کوین چپمن و سی اس لی در میان بازیگران فیلم «Wekiwa» از برنده اسکار ریچارد ال اندرسون"
       },
       "excerpt": {
-        "en": "EXCLUSIVE: Production is underway on the feature film Soma, the feature film debut from Belgian-Hungarian director Miklós Keleti (Patterns). The sci-fi drama stars Nuremberg and Ready or Not actor Mark O’Brien alongside Dutch actress Anneke Sluiters (Heresay). An international co-production with Belgium-Canada-Netherlands-Estonia, filming is taking place through to mid-September in Estonia (Tallinn and Käsmu) and […]",
-        "fa": "اختصاصی: تولید فیلم بلند سوما، اولین فیلم بلند کارگردان بلژیکی-مجارستانی Miklós Keleti در حال انجام است. در این درام علمی-تخیلی نورنبرگ و بازیگر Ready or Not Mark O'Brien در کنار بازیگر هلندی Anneke Sluiters حضور دارند. یک محصول مشترک بین المللی با بلژیک-کانادا-هلند-استونی، فیلمبرداری تا اواسط سپتامبر در استونی و"
+        "en": "EXCLUSIVE: Billy Zane (Titanic), Kevin Chapman (Person of Interest) and C.S. Lee (Dexter) have joined Alex Trumble in Wekiwa, an original creature feature set in the summer of 1983, written and directed by Oscar-winning sound veteran Richard L. Anderson. Anderson won an Academy Award for his sound work on Raiders of the Lost Ark, shared […]",
+        "fa": "انحصاری: بیلی زین، کوین چپمن و سی اس لی به الکس ترامبل در Wekiwa ملحق شده اند، یک فیلم مخلوق اصلی که در تابستان 1983 اتفاق می افتد و توسط ریچارد ال اندرسون کهنه کار برنده اسکار صدا نوشته و کارگردانی شده است. اندرسون برای صداپیشگی خود در Raiders of the Lost Ark، به اشتراک گذاشته شده، برنده جایزه اسکار شد"
       },
       "content": {
-        "en": "EXCLUSIVE: Production is underway on the feature film Soma, the feature film debut from Belgian-Hungarian director Miklós Keleti (Patterns). The sci-fi drama stars Nuremberg and Ready or Not actor Mark O’Brien alongside Dutch actress Anneke Sluiters (Heresay). An international co-production with Belgium-Canada-Netherlands-Estonia, filming is taking place through to mid-September in Estonia (Tallinn and Käsmu) and […]",
-        "fa": "اختصاصی: تولید فیلم بلند سوما، اولین فیلم بلند کارگردان بلژیکی-مجارستانی Miklós Keleti در حال انجام است. در این درام علمی-تخیلی نورنبرگ و بازیگر Ready or Not Mark O'Brien در کنار بازیگر هلندی Anneke Sluiters حضور دارند. یک محصول مشترک بین المللی با بلژیک-کانادا-هلند-استونی، فیلمبرداری تا اواسط سپتامبر در استونی و"
+        "en": "EXCLUSIVE: Billy Zane (Titanic), Kevin Chapman (Person of Interest) and C.S. Lee (Dexter) have joined Alex Trumble in Wekiwa, an original creature feature set in the summer of 1983, written and directed by Oscar-winning sound veteran Richard L. Anderson. Anderson won an Academy Award for his sound work on Raiders of the Lost Ark, shared […]",
+        "fa": "انحصاری: بیلی زین، کوین چپمن و سی اس لی به الکس ترامبل در Wekiwa ملحق شده اند، یک فیلم مخلوق اصلی که در تابستان 1983 اتفاق می افتد و توسط ریچارد ال اندرسون کهنه کار برنده اسکار صدا نوشته و کارگردانی شده است. اندرسون برای صداپیشگی خود در Raiders of the Lost Ark، به اشتراک گذاشته شده، برنده جایزه اسکار شد"
       },
       "source": {
         "en": "Deadline",
         "fa": "Deadline"
       },
-      "link": "https://deadline.com/2026/08/mark-obrien-anneke-sluiters-cast-in-sci-fi-drama-soma-1237046222/",
-      "date": "2026-08-20T15:24:44.165985+00:00",
-      "image": "https://deadline.com/wp-content/uploads/2026/08/Mark-OBrien-and-Anneke-Sluiters.jpg",
+      "link": "https://deadline.com/2026/08/billy-zane-kevin-chapman-cs-lee-cast-in-wekiwa-1237046327/",
+      "date": "2026-08-20T16:23:45.531820+00:00",
+      "image": "https://deadline.com/wp-content/uploads/2026/08/Billy-Zane-Kevin-Chapman-and-C.S.-Lee.jpg",
       "important": false,
       "score": 3
     },
@@ -414,22 +486,22 @@
       "id": "61f010d3f39c",
       "title": {
         "en": "Indie Specialized Box Office: ‘Teenage Sex and Death at Camp Miasma’ and ‘Tony’ Nearly Tied After Expansion",
-        "fa": "باکس آفیس تخصصی Indie: «سکس و مرگ نوجوان در کمپ میاسما» و «تونی» تقریباً پس از گسترش به هم پیوستند"
+        "fa": "Indie Specialized Box Office: ‘Teenage Sex and Death at Camp Miasma’ and ‘Tony’ Nearly Tied After Expansion"
       },
       "excerpt": {
         "en": "The MUBI and A24 films have each grossed $1.268M while still in limited release.",
-        "fa": "فیلم‌های MUBI و A24 هر کدام ۱.۲۶۸ میلیون دلار در حالی که هنوز اکران محدودی دارند، فروش داشته‌اند."
+        "fa": "فیلم‌های MUBI و A24 هرکدام 1.268 میلیون دلار در حالی که اکران محدودی دارند، فروش داشته‌اند."
       },
       "content": {
         "en": "The MUBI and A24 films have each grossed $1.268M while still in limited release.",
-        "fa": "فیلم‌های MUBI و A24 هر کدام ۱.۲۶۸ میلیون دلار در حالی که هنوز اکران محدودی دارند، فروش داشته‌اند."
+        "fa": "فیلم‌های MUBI و A24 هرکدام 1.268 میلیون دلار در حالی که اکران محدودی دارند، فروش داشته‌اند."
       },
       "source": {
         "en": "IndieWire",
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/news/box-office/indie-specialized-box-office-camp-miasma-tony-expansion-1235211578/",
-      "date": "2026-08-20T15:24:44.175422+00:00",
+      "date": "2026-08-20T16:23:45.539165+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/MCDTESE_K3001.jpg?w=650",
       "important": false,
       "score": 1
@@ -453,32 +525,8 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/news/trailers/chronovisor-movie-trailer-1235211641/",
-      "date": "2026-08-20T15:24:44.174209+00:00",
+      "date": "2026-08-20T16:23:45.538254+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/MCDCHRO_EC087.jpg?w=650",
-      "important": false,
-      "score": 1
-    },
-    {
-      "id": "8bb61c4a8c80",
-      "title": {
-        "en": "Charter Closes $34.5 Billion Cox Merger",
-        "fa": "منشور ادغام 34.5 میلیارد دلاری کاکس را بسته است"
-      },
-      "excerpt": {
-        "en": "The deal will create the nation's largest Internet and video provider by subscriber base The post Charter Closes $34.5 Billion Cox Merger appeared first on TheWrap .",
-        "fa": "این قرارداد بزرگترین ارائه دهنده اینترنت و ویدئو در کشور را بر اساس پایگاه مشترک ایجاد می کند"
-      },
-      "content": {
-        "en": "The deal will create the nation's largest Internet and video provider by subscriber base The post Charter Closes $34.5 Billion Cox Merger appeared first on TheWrap .",
-        "fa": "این قرارداد بزرگترین ارائه دهنده اینترنت و ویدئو در کشور را بر اساس پایگاه مشترک ایجاد می کند"
-      },
-      "source": {
-        "en": "The Wrap",
-        "fa": "The Wrap"
-      },
-      "link": "https://www.thewrap.com/industry-news/deals-ma/charter-cox-merger-closes/",
-      "date": "2026-08-20T15:24:44.173701+00:00",
-      "image": "https://www.thewrap.com/wp-content/uploads/2026/08/Charter-Cox.jpg",
       "important": false,
       "score": 1
     },
@@ -501,7 +549,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/features/interviews/ai-filmmaking-will-fail-james-gray-paper-tiger-director-1235211572/",
-      "date": "2026-08-20T15:24:44.175301+00:00",
+      "date": "2026-08-20T16:23:45.539073+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/GettyImages-2276688682.jpg?w=650",
       "important": false,
       "score": 0
@@ -525,56 +573,8 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/news/business/paramount-warner-bros-merger-4500-tv-film-production-jobs-lost-1235211693/",
-      "date": "2026-08-20T15:24:44.174716+00:00",
+      "date": "2026-08-20T16:23:45.538627+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/04/P105O250.jpg?w=650",
-      "important": false,
-      "score": 0
-    },
-    {
-      "id": "3c821794769d",
-      "title": {
-        "en": "Hayden Panettiere’s Team Discussed an ‘Intervention’ Before Her Death, Says Director of One of Her Final Movies: ‘I Got Asked to Participate’",
-        "fa": "کارگردان یکی از فیلم‌های پایانی او می‌گوید که تیم هیدن پانتی‌یر قبل از مرگ او درباره یک «مداخله» صحبت کردند: «از من خواسته شد که شرکت کنم»"
-      },
-      "excerpt": {
-        "en": "Griff Furst, who directed one of Hayden Panettiere’s final films before her shocking death Sunday at 36, said that her team had asked him to participate in an intervention after they filmed his 2025 movie, “A Breed Apart.” “When I think about this, it’s not just a Hayden story. I grew up on movie sets […]",
-        "fa": "گریف فورست که یکی از آخرین فیلم‌های هیدن پانتی‌یر را قبل از مرگ تکان‌دهنده‌اش در روز یکشنبه در سن 36 سالگی کارگردانی کرد، گفت که تیم او پس از فیلمبرداری فیلم سال 2025 او به نام «یک نژاد جدا» از او خواسته بود تا در مداخله‌ای شرکت کند. وقتی به این موضوع فکر می‌کنم، این فقط یک داستان هیدن نیست، من در صحنه فیلم‌برداری بزرگ شدم"
-      },
-      "content": {
-        "en": "Griff Furst, who directed one of Hayden Panettiere’s final films before her shocking death Sunday at 36, said that her team had asked him to participate in an intervention after they filmed his 2025 movie, “A Breed Apart.” “When I think about this, it’s not just a Hayden story. I grew up on movie sets […]",
-        "fa": "گریف فورست که یکی از آخرین فیلم‌های هیدن پانتی‌یر را قبل از مرگ تکان‌دهنده‌اش در روز یکشنبه در سن 36 سالگی کارگردانی کرد، گفت که تیم او پس از فیلمبرداری فیلم سال 2025 او به نام «یک نژاد جدا» از او خواسته بود تا در مداخله‌ای شرکت کند. وقتی به این موضوع فکر می‌کنم، این فقط یک داستان هیدن نیست، من در صحنه فیلم‌برداری بزرگ شدم"
-      },
-      "source": {
-        "en": "Variety",
-        "fa": "Variety"
-      },
-      "link": "https://variety.com/2026/film/news/hayden-panettiere-intervention-death-director-1236838972/",
-      "date": "2026-08-20T15:24:44.169621+00:00",
-      "image": "https://variety.com/wp-content/uploads/2026/08/MixCollage-20-Aug-2026-09-56-AM-2066.jpg",
-      "important": false,
-      "score": 0
-    },
-    {
-      "id": "3d0d5e034b34",
-      "title": {
-        "en": "Josiah Green-Mhlanga, Karla Crome & Tom Stourton Join BBC & Starz Love Story ‘You Are Here’",
-        "fa": "Josiah Green-Mhlanga، Karla Crome و Tom Stourton به BBC و Starz Love Story \"You Are Here\" بپیوندید"
-      },
-      "excerpt": {
-        "en": "Josiah Green-Mhlanga (Andy and the Band), Karla Crome (Possession) and Tom Stourton (Barbie) have joined Claire Foy and Matthew Macfadyen to star in BBC and Starz drama You Are Here. Based on David Nicholls’ bestselling book, the series stars Marnie (Foy) and Michael (Macfadyen), who unexpectedly fall in love when their mutual friend Cleo (Crome) […]",
-        "fa": "Josiah Green-Mhlanga، Karla Crome و Tom Stourton به Claire Foy و Matthew Macfadyen پیوستند تا در درام You Are Here در BBC و Starz بازی کنند. بر اساس کتاب پرفروش دیوید نیکولز، این سریال با بازی مارنی و مایکل که به طور غیرمنتظره ای با دوست مشترکشان، کلیو، عاشق می شوند."
-      },
-      "content": {
-        "en": "Josiah Green-Mhlanga (Andy and the Band), Karla Crome (Possession) and Tom Stourton (Barbie) have joined Claire Foy and Matthew Macfadyen to star in BBC and Starz drama You Are Here. Based on David Nicholls’ bestselling book, the series stars Marnie (Foy) and Michael (Macfadyen), who unexpectedly fall in love when their mutual friend Cleo (Crome) […]",
-        "fa": "Josiah Green-Mhlanga، Karla Crome و Tom Stourton به Claire Foy و Matthew Macfadyen پیوستند تا در درام You Are Here در BBC و Starz بازی کنند. بر اساس کتاب پرفروش دیوید نیکولز، این سریال با بازی مارنی و مایکل که به طور غیرمنتظره ای با دوست مشترکشان، کلیو، عاشق می شوند."
-      },
-      "source": {
-        "en": "Deadline",
-        "fa": "Deadline"
-      },
-      "link": "https://deadline.com/2026/08/bbc-starz-drama-you-are-here-more-cast-1237046105/",
-      "date": "2026-08-20T15:24:44.166670+00:00",
-      "image": "https://deadline.com/wp-content/uploads/2026/08/Josiah-Green-Mhlanga-Headshot-Karla-Crome-and-Tom-Stourton.png",
       "important": false,
       "score": 0
     }
