@@ -1,79 +1,7 @@
 {
-  "updated_at": "2026-08-20T19:23:58.084845+00:00",
+  "updated_at": "2026-08-20T20:18:15.826754+00:00",
   "count": 24,
   "news": [
-    {
-      "id": "9fe3c47cc67f",
-      "title": {
-        "en": "‘The Pitt’ Adds 7 To Season 3 Recurring Cast",
-        "fa": "«The Pitt» 7 را به بازیگران تکراری فصل 3 اضافه می کند"
-      },
-      "excerpt": {
-        "en": "EXCLUSIVE: A slew of new patients, a doctor, and a hospital executive will be welcomed to the Pittsburgh Trauma Medical Center on HBO Max’s medical drama The Pitt, as 7 new actors have been cast in Season 3. Stephen Chang (Bosch: Legacy, The Last of Us: Part II), Barry Clifton (The Madison, The Thing About Pam), Chris Diamantopoulos (Dark Matter, The Lincoln […]",
-        "fa": "انحصاری: تعداد زیادی از بیماران جدید، یک پزشک و یک مدیر بیمارستان به مرکز پزشکی ترومای پیتسبورگ در درام پزشکی HBO Max به نام پیت استقبال خواهند شد، زیرا 7 بازیگر جدید در فصل 3 انتخاب شده اند. استفن چانگ، بری کلیفتون، کریس دیامانتوپولوس (ماده تاریک، لینکلن)"
-      },
-      "content": {
-        "en": "EXCLUSIVE: A slew of new patients, a doctor, and a hospital executive will be welcomed to the Pittsburgh Trauma Medical Center on HBO Max’s medical drama The Pitt, as 7 new actors have been cast in Season 3. Stephen Chang (Bosch: Legacy, The Last of Us: Part II), Barry Clifton (The Madison, The Thing About Pam), Chris Diamantopoulos (Dark Matter, The Lincoln […]",
-        "fa": "انحصاری: تعداد زیادی از بیماران جدید، یک پزشک و یک مدیر بیمارستان به مرکز پزشکی ترومای پیتسبورگ در درام پزشکی HBO Max به نام پیت استقبال خواهند شد، زیرا 7 بازیگر جدید در فصل 3 انتخاب شده اند. استفن چانگ، بری کلیفتون، کریس دیامانتوپولوس (ماده تاریک، لینکلن)"
-      },
-      "source": {
-        "en": "Deadline",
-        "fa": "Deadline"
-      },
-      "link": "https://deadline.com/2026/08/the-pitt-recurring-guest-cast-season-3-1237046447/",
-      "date": "2026-08-20T19:23:57.831327+00:00",
-      "image": "https://deadline.com/wp-content/uploads/2026/08/Stephen-Chang-Barry-Clifton-Chris-Diamantopoulos-Lawrence-Kao-Brent-Sexton-JB-Tadena-and-Hannah-Ware.jpg",
-      "important": true,
-      "score": 9
-    },
-    {
-      "id": "11eed0827942",
-      "title": {
-        "en": "‘Saturday Night Live’ Wraps 2026 Showcases For New Cast: Who Scored A Screen Test? — The Dish",
-        "fa": "«Saturday Night Live» نمایش‌های ۲۰۲۶ را برای بازیگران جدید به پایان می‌رساند: چه کسی در یک تست صفحه نمایش امتیاز گرفت؟ - ظرف"
-      },
-      "excerpt": {
-        "en": "EXCLUSIVE — UPDATED, 10:07 a.m.: On Wednesday, as we finalized reporting on standouts in SNL Season 52 casting showcases across three cities, calls began going out to those who will advance to the next stage and screen test for the NBC late-night show. Those names are beginning to come in: Trenton Mason and Saidah Belo-Osagie, […]",
-        "fa": "انحصاری — به روز شده، ساعت 10:07 صبح: روز چهارشنبه، در حالی که ما گزارش نهایی بازیگران را در ویترین های بازیگری فصل 52 SNL در سه شهر نهایی کردیم، تماس هایی با کسانی که به مرحله بعدی و تست صفحه نمایش برای نمایش آخر شب NBC خواهند رفت آغاز شد. این نام ها در حال آمدن هستند: ترنتون میسون و سعیده بلو-اوساگی،"
-      },
-      "content": {
-        "en": "EXCLUSIVE — UPDATED, 10:07 a.m.: On Wednesday, as we finalized reporting on standouts in SNL Season 52 casting showcases across three cities, calls began going out to those who will advance to the next stage and screen test for the NBC late-night show. Those names are beginning to come in: Trenton Mason and Saidah Belo-Osagie, […]",
-        "fa": "EXCLUSIVE — UPDATED, 10:07 a.m.: On Wednesday, as we finalized reporting on standouts in SNL Season 52 casting showcases across three cities, calls began going out to those who will advance to the next stage and screen test for the NBC late-night show. Those names are beginning to come in: Trenton Mason and Saidah Belo-Osagie, […]"
-      },
-      "source": {
-        "en": "Deadline",
-        "fa": "Deadline"
-      },
-      "link": "https://deadline.com/2026/08/snl-showcases-2026-new-talent-standout-auditions-1237045776/",
-      "date": "2026-08-20T19:23:57.830473+00:00",
-      "image": "https://deadline.com/wp-content/uploads/2025/09/snl-mobile-min.webp",
-      "important": true,
-      "score": 7
-    },
-    {
-      "id": "b67e82ebd701",
-      "title": {
-        "en": "Jessica Simpson Doc Set at Netflix From ‘Robbie Williams’ Director Joe Pearlman (EXCLUSIVE)",
-        "fa": "فیلمبرداری فیلم جسیکا سیمپسون در نتفلیکس توسط کارگردان «رابی ویلیامز»، جو پرلمن"
-      },
-      "excerpt": {
-        "en": "A documentary feature about Jessica Simpson has proved to be irresistible to Netflix, who’ve snapped up the project, Variety has learned. Directed by “Robbie Williams” helmer Joe Pearlman, the feature doc will give fans a deeper look into Simpson’s life and career. The singer and entrepreneur first came to public attention in the same era […]",
-        "fa": "ورایتی دریافت که یک فیلم مستند در مورد جسیکا سیمپسون برای نتفلیکس که پروژه را ضبط کرده است، مقاومت ناپذیر است. این مستند به کارگردانی جو پرلمن، کارگردان «رابی ویلیامز»، به طرفداران نگاه عمیق‌تری به زندگی و حرفه سیمپسون خواهد داد. این خواننده و کارآفرین برای اولین بار در همان دوران مورد توجه عموم قرار گرفت"
-      },
-      "content": {
-        "en": "A documentary feature about Jessica Simpson has proved to be irresistible to Netflix, who’ve snapped up the project, Variety has learned. Directed by “Robbie Williams” helmer Joe Pearlman, the feature doc will give fans a deeper look into Simpson’s life and career. The singer and entrepreneur first came to public attention in the same era […]",
-        "fa": "ورایتی دریافت که یک فیلم مستند در مورد جسیکا سیمپسون برای نتفلیکس که پروژه را ضبط کرده است، مقاومت ناپذیر است. این مستند به کارگردانی جو پرلمن، کارگردان «رابی ویلیامز»، به طرفداران نگاه عمیق‌تری به زندگی و حرفه سیمپسون خواهد داد. این خواننده و کارآفرین برای اولین بار در همان دوران مورد توجه عموم قرار گرفت"
-      },
-      "source": {
-        "en": "Variety",
-        "fa": "Variety"
-      },
-      "link": "https://variety.com/2026/music/global/jessica-simpson-documentary-netflix-joe-pearlman-1236838927/",
-      "date": "2026-08-20T19:23:57.833350+00:00",
-      "image": "https://variety.com/wp-content/uploads/2026/08/Jessica-Simpson.jpg",
-      "important": true,
-      "score": 6
-    },
     {
       "id": "f483eca5b4c7",
       "title": {
@@ -93,32 +21,8 @@
         "fa": "Variety"
       },
       "link": "https://variety.com/2026/tv/news/yahya-abdul-mateen-calls-out-marvel-wonder-man-blade-failures-1236839058/",
-      "date": "2026-08-20T19:23:57.832608+00:00",
+      "date": "2026-08-20T20:18:15.635193+00:00",
       "image": "https://variety.com/wp-content/uploads/2026/08/woder-man-blade.png",
-      "important": true,
-      "score": 6
-    },
-    {
-      "id": "079428ca567a",
-      "title": {
-        "en": "‘The Audacity’ Season 2 Adds Usman Ally As Series Regular",
-        "fa": "فصل 2 The Audacity، Usman Ally را به عنوان سریال معمولی اضافه می کند"
-      },
-      "excerpt": {
-        "en": "EXCLUSIVE: Usman Ally has joined the upcoming second season of AMC’s The Audacity as a series regular. He will portray Byron Zandani, a senior Silicon Valley lawyer, who is constantly trying to put out proverbial fires and to navigate ethically ambiguous decisions. Composed and thoughtful, he’s worn down by the relentless drive of tech CEOs. […]",
-        "fa": "اختصاصی: عثمان الی به عنوان یک سریال معمولی به فصل دوم سریال The Audacity از AMC پیوست. او بایرون زاندانی، وکیل ارشد دره سیلیکون را به تصویر می کشد که دائماً در تلاش است تا آتش های ضرب المثلی را خاموش کند و تصمیمات مبهم اخلاقی را هدایت کند. متشکل و متفکر، از تلاش بی امان مدیران عامل فناوری فرسوده شده است."
-      },
-      "content": {
-        "en": "EXCLUSIVE: Usman Ally has joined the upcoming second season of AMC’s The Audacity as a series regular. He will portray Byron Zandani, a senior Silicon Valley lawyer, who is constantly trying to put out proverbial fires and to navigate ethically ambiguous decisions. Composed and thoughtful, he’s worn down by the relentless drive of tech CEOs. […]",
-        "fa": "اختصاصی: عثمان الی به عنوان یک سریال معمولی به فصل دوم سریال The Audacity از AMC پیوست. او بایرون زاندانی، وکیل ارشد دره سیلیکون را به تصویر می کشد که دائماً در تلاش است تا آتش های ضرب المثلی را خاموش کند و تصمیمات مبهم اخلاقی را هدایت کند. متشکل و متفکر، از تلاش بی امان مدیران عامل فناوری فرسوده شده است."
-      },
-      "source": {
-        "en": "Deadline",
-        "fa": "Deadline"
-      },
-      "link": "https://deadline.com/2026/08/usman-ally-the-audacity-season-2-cast-1237045607/",
-      "date": "2026-08-20T19:23:57.830904+00:00",
-      "image": "https://deadline.com/wp-content/uploads/2026/08/Usman-Ally.jpg",
       "important": true,
       "score": 6
     },
@@ -141,7 +45,7 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/colman-domingo-netflix-the-headlands-house-limited-series-1237045729/",
-      "date": "2026-08-20T19:23:57.830181+00:00",
+      "date": "2026-08-20T20:18:15.633176+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/Colman-Domingo-Raul-Domingo-and-Cameron-B.-Dupont.jpg",
       "important": true,
       "score": 6
@@ -165,8 +69,32 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/news/trailers/monster-lizzie-borden-story-trailer-ryan-murphy-1235211644/",
-      "date": "2026-08-20T19:23:57.838720+00:00",
+      "date": "2026-08-20T20:18:15.641762+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/Monster__The_Lizzie_Borden_Story_n_S1_E2_00_37_26_19R.jpg?w=650",
+      "important": true,
+      "score": 4
+    },
+    {
+      "id": "2ed8f86e3040",
+      "title": {
+        "en": "Harry and Meghan Are Leaving California — But Are They Leaving Hollywood?",
+        "fa": "هری و مگان در حال ترک کالیفرنیا هستند - اما آیا آنها هالیوود را ترک می کنند؟"
+      },
+      "excerpt": {
+        "en": "The former Duke and Duchess of Sussex, once Hollywood's hottest couple to court, have a hit documentary in theaters but a dwindling Netflix deal. Is it curtains for Archewell Productions?",
+        "fa": "دوک و دوشس سابق ساسکس که زمانی داغ‌ترین زوج هالیوود در دادگاه بودند، یک مستند موفق در سینماها دارند اما قراردادی با نتفلیکس رو به کاهش است. آیا این پرده برای Archewell Productions است؟"
+      },
+      "content": {
+        "en": "The former Duke and Duchess of Sussex, once Hollywood's hottest couple to court, have a hit documentary in theaters but a dwindling Netflix deal. Is it curtains for Archewell Productions?",
+        "fa": "دوک و دوشس سابق ساسکس که زمانی داغ‌ترین زوج هالیوود در دادگاه بودند، یک مستند موفق در سینماها دارند اما قراردادی با نتفلیکس رو به کاهش است. آیا این پرده برای Archewell Productions است؟"
+      },
+      "source": {
+        "en": "The Hollywood Reporter",
+        "fa": "The Hollywood Reporter"
+      },
+      "link": "https://www.hollywoodreporter.com/tv/tv-news/prince-harry-meghan-markle-uk-move-what-it-means-netflix-deal-1236677752/",
+      "date": "2026-08-20T20:18:15.635986+00:00",
+      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/GettyImages-2289543786-H-2026.jpg?w=1296&#038;h=730&#038;crop=1",
       "important": true,
       "score": 4
     },
@@ -189,7 +117,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/awards/predictions/hbo-emmy-campaign-perseverance-should-pay-off-1235211458/",
-      "date": "2026-08-20T19:23:57.838877+00:00",
+      "date": "2026-08-20T20:18:15.641942+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/2290751324.jpg?w=650",
       "important": false,
       "score": 3
@@ -213,56 +141,8 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/news/festivals/diego-luna-migrant-drama-ashes-sells-watermelon-pictures-1235211826/",
-      "date": "2026-08-20T19:23:57.838330+00:00",
+      "date": "2026-08-20T20:18:15.641311+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/05/Screenshot-2026-05-09-at-9.14.00 PM.png?w=650",
-      "important": false,
-      "score": 3
-    },
-    {
-      "id": "9a7bd920102f",
-      "title": {
-        "en": "‘Sterling Point’ Scores Season 2 Renewal at Prime Video",
-        "fa": "امتیازات «Sterling Point» در پرایم ویدیو تمدید شد"
-      },
-      "excerpt": {
-        "en": "\"We cannot wait to dive deeper into these characters,\" creator Megan Park says The post ‘Sterling Point’ Scores Season 2 Renewal at Prime Video appeared first on TheWrap .",
-        "fa": "مگان پارک، خالق آن می‌گوید: «ما نمی‌توانیم صبر کنیم تا عمیق‌تر به این شخصیت‌ها بپردازیم"
-      },
-      "content": {
-        "en": "\"We cannot wait to dive deeper into these characters,\" creator Megan Park says The post ‘Sterling Point’ Scores Season 2 Renewal at Prime Video appeared first on TheWrap .",
-        "fa": "مگان پارک، خالق آن می‌گوید: «ما نمی‌توانیم صبر کنیم تا عمیق‌تر به این شخصیت‌ها بپردازیم"
-      },
-      "source": {
-        "en": "The Wrap",
-        "fa": "The Wrap"
-      },
-      "link": "https://www.thewrap.com/creative-content/tv-shows/sterling-point-season-2-renewed-prime-video/",
-      "date": "2026-08-20T19:23:57.837155+00:00",
-      "image": "https://www.thewrap.com/wp-content/uploads/2026/05/Sterling_Point__Ella_Rubin-Amelie_Elisabeth_Hoeferle_3000.jpg",
-      "important": false,
-      "score": 3
-    },
-    {
-      "id": "815b12dc7998",
-      "title": {
-        "en": "Steven Yeun to Topline ‘Pagans’ Drama at Netflix",
-        "fa": "استیون یون در تاپ لاین درام «بت پرستان» در نتفلیکس"
-      },
-      "excerpt": {
-        "en": "The 'Beef' Emmy winner will also be an executive producer on the series from creator Joshua Zetumer.",
-        "fa": "برنده امی «بیف» همچنین تهیه کننده اجرایی سریال توسط خالق جاشوا زتومر خواهد بود."
-      },
-      "content": {
-        "en": "The 'Beef' Emmy winner will also be an executive producer on the series from creator Joshua Zetumer.",
-        "fa": "برنده امی «بیف» همچنین تهیه کننده اجرایی سریال توسط خالق جاشوا زتومر خواهد بود."
-      },
-      "source": {
-        "en": "The Hollywood Reporter",
-        "fa": "The Hollywood Reporter"
-      },
-      "link": "https://www.hollywoodreporter.com/tv/tv-news/steven-yeun-pagans-netflix-1236677846/",
-      "date": "2026-08-20T19:23:57.835338+00:00",
-      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/SY-Headshot-PC-Charles-Murphy.jpg?w=1296&#038;h=730&#038;crop=1",
       "important": false,
       "score": 3
     },
@@ -285,7 +165,7 @@
         "fa": "The Hollywood Reporter"
       },
       "link": "https://www.hollywoodreporter.com/lifestyle/shopping/directv-free-premium-add-ons-paramount-plus-peacock-hbo-max-1236669155/",
-      "date": "2026-08-20T19:23:57.834435+00:00",
+      "date": "2026-08-20T20:18:15.636830+00:00",
       "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/DIRECTV-Promotes-Its-Premium-Channel-Offerings-With-Three-Months-of-HBO-Max-Paramount-and-More-MAIN.jpg?w=1296&#038;h=730&#038;crop=1",
       "important": false,
       "score": 3
@@ -309,7 +189,7 @@
         "fa": "Variety"
       },
       "link": "https://variety.com/2026/tv/awards/emmy-drama-nominees-paradise-the-pitt-troubled-times-1236837769/",
-      "date": "2026-08-20T19:23:57.833116+00:00",
+      "date": "2026-08-20T20:18:15.635815+00:00",
       "image": "https://variety.com/wp-content/uploads/2026/08/177613_0345_V1.jpg",
       "important": false,
       "score": 3
@@ -333,80 +213,8 @@
         "fa": "Variety"
       },
       "link": "https://variety.com/2026/gaming/news/naruto-digital-card-app-sekai-tv-tokyo-1236839122/",
-      "date": "2026-08-20T19:23:57.831447+00:00",
+      "date": "2026-08-20T20:18:15.634133+00:00",
       "image": "https://variety.com/wp-content/uploads/2026/08/Naruto-Ninja-Cards.png",
-      "important": false,
-      "score": 3
-    },
-    {
-      "id": "f570f53298f0",
-      "title": {
-        "en": "Manager Alyssa Manning Joins Untitled",
-        "fa": "مدیر آلیسا منینگ بدون عنوان می پیوندد"
-      },
-      "excerpt": {
-        "en": "EXCLUSIVE: Alyssa Manning has joined Untitled as a manager based in the company’s New York office. Most recently at Mgmt Entertainment, Manning reps digital creator and crossover talent whose careers span traditional entertainment, digital platforms and new media. In joining Untitled, she brings along Samantha Coulter, who has been part of her team and will serve […]",
-        "fa": "انحصاری: آلیسا منینگ به عنوان مدیر مستقر در دفتر این شرکت در نیویورک به Untitled پیوست. اخیراً در Mgmt Entertainment، منینگ از خالقان دیجیتال و استعدادهای متقاطع استفاده می‌کند که حرفه‌شان شامل سرگرمی‌های سنتی، پلتفرم‌های دیجیتال و رسانه‌های جدید است. در پیوستن به Untitled، او سامانتا کولتر را که بخشی از تیم او بوده و خدمت خواهد کرد، همراه می‌کند."
-      },
-      "content": {
-        "en": "EXCLUSIVE: Alyssa Manning has joined Untitled as a manager based in the company’s New York office. Most recently at Mgmt Entertainment, Manning reps digital creator and crossover talent whose careers span traditional entertainment, digital platforms and new media. In joining Untitled, she brings along Samantha Coulter, who has been part of her team and will serve […]",
-        "fa": "انحصاری: آلیسا منینگ به عنوان مدیر مستقر در دفتر این شرکت در نیویورک به Untitled پیوست. اخیراً در Mgmt Entertainment، منینگ از خالقان دیجیتال و استعدادهای متقاطع استفاده می‌کند که حرفه‌شان شامل سرگرمی‌های سنتی، پلتفرم‌های دیجیتال و رسانه‌های جدید است. در پیوستن به Untitled، او سامانتا کولتر را که بخشی از تیم او بوده و خدمت خواهد کرد، همراه می‌کند."
-      },
-      "source": {
-        "en": "Deadline",
-        "fa": "Deadline"
-      },
-      "link": "https://deadline.com/2026/08/alyssa-manning-joins-untitled-1237046166/",
-      "date": "2026-08-20T19:23:57.831187+00:00",
-      "image": "https://deadline.com/wp-content/uploads/2026/08/Alyssa-3_1.jpg",
-      "important": false,
-      "score": 3
-    },
-    {
-      "id": "dba2df51f854",
-      "title": {
-        "en": "‘Power’ Actor Marcus Callender Sets ‘Spades: The Play’ National Tour Dates",
-        "fa": "مارکوس کالندر بازیگر «قدرت» تاریخ‌های تور ملی «Spades: The Play» را تنظیم می‌کند"
-      },
-      "excerpt": {
-        "en": "EXCLUSIVE: Marcus Callender, best known for starring in Power and Wu-Tang: An American Saga, is taking his Spades: The Play on a national tour. The stage play is set to run 76 performances across Washington, D.C., Los Angeles, Atlanta, New Orleans and Miami this fall, following a four-week debut run in Harlem last November. “I […]",
-        "fa": "اختصاصی: مارکوس کالندر، که بیشتر به خاطر بازی در فیلم‌های Power و Wu-Tang: An American Saga شناخته می‌شود، در یک تور ملی، Spades: The Play را می‌برد. این نمایش روی صحنه قرار است در پاییز امسال 76 اجرا در سراسر واشنگتن، دی سی، لس آنجلس، آتلانتا، نیواورلئان و میامی اجرا کند، پس از اولین اجرای چهار هفته ای در نوامبر گذشته در هارلم. \"من"
-      },
-      "content": {
-        "en": "EXCLUSIVE: Marcus Callender, best known for starring in Power and Wu-Tang: An American Saga, is taking his Spades: The Play on a national tour. The stage play is set to run 76 performances across Washington, D.C., Los Angeles, Atlanta, New Orleans and Miami this fall, following a four-week debut run in Harlem last November. “I […]",
-        "fa": "اختصاصی: مارکوس کالندر، که بیشتر به خاطر بازی در فیلم‌های Power و Wu-Tang: An American Saga شناخته می‌شود، در یک تور ملی، Spades: The Play را می‌برد. این نمایش روی صحنه قرار است در پاییز امسال 76 اجرا در سراسر واشنگتن، دی سی، لس آنجلس، آتلانتا، نیواورلئان و میامی اجرا کند، پس از اولین اجرای چهار هفته ای در نوامبر گذشته در هارلم. \"من"
-      },
-      "source": {
-        "en": "Deadline",
-        "fa": "Deadline"
-      },
-      "link": "https://deadline.com/2026/08/power-marcus-callender-spades-the-play-national-tour-dates-1237046474/",
-      "date": "2026-08-20T19:23:57.830655+00:00",
-      "image": "https://deadline.com/wp-content/uploads/2026/08/marcus-callender-spades-the-play-tour.jpg",
-      "important": false,
-      "score": 3
-    },
-    {
-      "id": "d4382a5337c5",
-      "title": {
-        "en": "Lukas Gage & Alex Akpobome Join Thriller ‘Pumping Black’ Starring Jonathan Bailey & Natalie Portman",
-        "fa": "لوکاس گیج و الکس آکپوبوم به فیلم هیجان انگیز Pumping Black با بازی جاناتان بیلی و ناتالی پورتمن پیوستند."
-      },
-      "excerpt": {
-        "en": "EXCLUSIVE: Lukas Gage and Alex Akpobome have joined the cast of the psychological thriller Pumping Black starring Jonathan Bailey and Natalie Portman. Set in the cutthroat world of professional cycling and described as being in the vein of Whiplash and Black Swan, Pumping Black follows cyclist Taylor Mace, who at 35 is finding himself aging out of the sport. He […]",
-        "fa": "اختصاصی: لوکاس گیج و الکس آکپوبوم به بازیگران فیلم هیجانی روانشناختی Pumping Black با بازی جاناتان بیلی و ناتالی پورتمن پیوستند. پمپینگ بلک که در دنیای بی‌نظیر دوچرخه‌سواری حرفه‌ای اتفاق می‌افتد و توصیف می‌شود که در رگ‌های Whiplash و Black Swan است، دوچرخه‌سوار تیلور میس را دنبال می‌کند که در ۳۵ سالگی خود را در حال ترک این ورزش می‌بیند. او"
-      },
-      "content": {
-        "en": "EXCLUSIVE: Lukas Gage and Alex Akpobome have joined the cast of the psychological thriller Pumping Black starring Jonathan Bailey and Natalie Portman. Set in the cutthroat world of professional cycling and described as being in the vein of Whiplash and Black Swan, Pumping Black follows cyclist Taylor Mace, who at 35 is finding himself aging out of the sport. He […]",
-        "fa": "اختصاصی: لوکاس گیج و الکس آکپوبوم به بازیگران فیلم هیجانی روانشناختی Pumping Black با بازی جاناتان بیلی و ناتالی پورتمن پیوستند. پمپینگ بلک که در دنیای بی‌نظیر دوچرخه‌سواری حرفه‌ای اتفاق می‌افتد و توصیف می‌شود که در رگ‌های Whiplash و Black Swan است، دوچرخه‌سوار تیلور میس را دنبال می‌کند که در ۳۵ سالگی خود را در حال ترک این ورزش می‌بیند. او"
-      },
-      "source": {
-        "en": "Deadline",
-        "fa": "Deadline"
-      },
-      "link": "https://deadline.com/2026/08/lukas-gage-alex-akpobome-natalie-portman-pumping-black-1237046266/",
-      "date": "2026-08-20T19:23:57.830335+00:00",
-      "image": "https://deadline.com/wp-content/uploads/2026/08/Lukas-Gage-and-Alex-Akpobome-.jpg",
       "important": false,
       "score": 3
     },
@@ -429,7 +237,7 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/andrew-mccarthy-orion-hyde-park-international-1237045916/",
-      "date": "2026-08-20T19:23:57.829760+00:00",
+      "date": "2026-08-20T20:18:15.632690+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/Screenshot-2026-08-19-at-4.45.07-PM-e1787183200424.png",
       "important": false,
       "score": 3
@@ -453,7 +261,7 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/love-love-movie-adeline-rudolph-audra-mcdonald-dylan-mcdermott-1237046392/",
-      "date": "2026-08-20T19:23:57.829607+00:00",
+      "date": "2026-08-20T20:18:15.632526+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/Adeline-Rudolph-Audra-McDonald-and-Dylan-McDermott.jpg",
       "important": false,
       "score": 3
@@ -465,20 +273,68 @@
         "fa": "کیت فاسل از A24 به عنوان رئیس روابط و روابط استعدادهای درخشان به آری استر می پیوندد"
       },
       "excerpt": {
-        "en": "EXCLUSIVE: A24 vet Kate Fassl is heading to Ari Aster’s Square Peg as its new Head of Communications and Talent Relations. In her new role, Fassl will lead comms for the Aster and Lars Knudsen founded and led Square Peg, overseeing strategy, press, and brand while working closely with filmmakers and talent. Fassl joins Square […]",
-        "fa": "اختصاصی: کیت فاسل، دامپزشک A24، به عنوان رئیس جدید ارتباطات و روابط استعدادها، به میدان Ari Aster’s Square Peg می رود. در نقش جدیدش، فاسل به رهبری استر و لارس نادسن که Square Peg را تأسیس و رهبری می‌کند، بر استراتژی، مطبوعات و برند نظارت می‌کند و در عین حال همکاری نزدیک با فیلمسازان و استعدادها دارد. فسل به میدان می پیوندد"
+        "en": "EXCLUSIVE: A24 vet Kate Fassl is heading to Ari Aster’s Square Peg as its new Head of Communications and Talent Relations. In her new role, Fassl will lead comms for Square Peg, overseeing strategy, press and brand while working closely with filmmakers and talent. Fassl joins Square Peg, founded and led by Asher and Lars […]",
+        "fa": "اختصاصی: کیت فاسل، دامپزشک A24، به عنوان رئیس جدید ارتباطات و روابط استعدادها، به میدان Ari Aster’s Square Peg می رود. در نقش جدیدش، فاسل در حالی که از نزدیک با فیلمسازان و استعدادها کار می‌کند، پیام‌هایی را برای Square Peg، نظارت بر استراتژی، مطبوعات و برند رهبری خواهد کرد. Fassl به Square Peg می‌پیوندد که توسط آشر و لارس تأسیس و رهبری می‌شود"
       },
       "content": {
-        "en": "EXCLUSIVE: A24 vet Kate Fassl is heading to Ari Aster’s Square Peg as its new Head of Communications and Talent Relations. In her new role, Fassl will lead comms for the Aster and Lars Knudsen founded and led Square Peg, overseeing strategy, press, and brand while working closely with filmmakers and talent. Fassl joins Square […]",
-        "fa": "اختصاصی: کیت فاسل، دامپزشک A24، به عنوان رئیس جدید ارتباطات و روابط استعدادها، به میدان Ari Aster’s Square Peg می رود. در نقش جدیدش، فاسل به رهبری استر و لارس نادسن که Square Peg را تأسیس و رهبری می‌کند، بر استراتژی، مطبوعات و برند نظارت می‌کند و در عین حال همکاری نزدیک با فیلمسازان و استعدادها دارد. فسل به میدان می پیوندد"
+        "en": "EXCLUSIVE: A24 vet Kate Fassl is heading to Ari Aster’s Square Peg as its new Head of Communications and Talent Relations. In her new role, Fassl will lead comms for Square Peg, overseeing strategy, press and brand while working closely with filmmakers and talent. Fassl joins Square Peg, founded and led by Asher and Lars […]",
+        "fa": "اختصاصی: کیت فاسل، دامپزشک A24، به عنوان رئیس جدید ارتباطات و روابط استعدادها، به میدان Ari Aster’s Square Peg می رود. در نقش جدیدش، فاسل در حالی که از نزدیک با فیلمسازان و استعدادها کار می‌کند، پیام‌هایی را برای Square Peg، نظارت بر استراتژی، مطبوعات و برند رهبری خواهد کرد. Fassl به Square Peg می‌پیوندد که توسط آشر و لارس تأسیس و رهبری می‌شود"
       },
       "source": {
         "en": "Deadline",
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/ari-aster-square-peg-kate-fassl-1237046664/",
-      "date": "2026-08-20T19:23:57.829095+00:00",
+      "date": "2026-08-20T20:18:15.632017+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/Kate-Fassl.jpg",
+      "important": false,
+      "score": 3
+    },
+    {
+      "id": "8a3beb0fa70e",
+      "title": {
+        "en": "Kali Bailey Adapting L. Frank Baum’s ‘The Life And Adventures Of Santa Claus’ For Monarch Media",
+        "fa": "کالی بیلی در حال اقتباس از «زندگی و ماجراهای بابا نوئل» اثر L. Frank Baum برای رسانه Monarch"
+      },
+      "excerpt": {
+        "en": "EXCLUSIVE: Monarch Media has enlisted Kali Bailey to adapt the screenplay for The Life and Adventures of Santa Claus, a live-action feature adaptation of the children’s book by L. Frank Baum. First published in 1902, Baum’s book follows Santa Claus from an abandoned baby in a magical forest near Oz, to his beloved role of spreading peace, […]",
+        "fa": "اختصاصی: Monarch Media کالی بیلی را برای اقتباس از فیلمنامه The Life and Adventures of Santa Claus، اقتباسی لایو اکشن از کتاب کودکان اثر L. Frank Baum، استخدام کرده است. کتاب باوم که اولین بار در سال 1902 منتشر شد، بابانوئل را از یک نوزاد رها شده در جنگلی جادویی در نزدیکی اوز، به نقش محبوبش در گسترش صلح دنبال می کند."
+      },
+      "content": {
+        "en": "EXCLUSIVE: Monarch Media has enlisted Kali Bailey to adapt the screenplay for The Life and Adventures of Santa Claus, a live-action feature adaptation of the children’s book by L. Frank Baum. First published in 1902, Baum’s book follows Santa Claus from an abandoned baby in a magical forest near Oz, to his beloved role of spreading peace, […]",
+        "fa": "اختصاصی: Monarch Media کالی بیلی را برای اقتباس از فیلمنامه The Life and Adventures of Santa Claus، اقتباسی لایو اکشن از کتاب کودکان اثر L. Frank Baum، استخدام کرده است. کتاب باوم که اولین بار در سال 1902 منتشر شد، بابانوئل را از یک نوزاد رها شده در جنگلی جادویی در نزدیکی اوز، به نقش محبوبش در گسترش صلح دنبال می کند."
+      },
+      "source": {
+        "en": "Deadline",
+        "fa": "Deadline"
+      },
+      "link": "https://deadline.com/2026/08/the-life-and-adventures-of-santa-claus-movie-monarch-media-1237046625/",
+      "date": "2026-08-20T20:18:15.631275+00:00",
+      "image": "https://deadline.com/wp-content/uploads/2026/08/The-Life-and-Adventures-of-Santa-Claus-Kali-Bailey.jpg",
+      "important": false,
+      "score": 3
+    },
+    {
+      "id": "73c6e8a9ffd3",
+      "title": {
+        "en": "‘Miami Vice ’85’ Sets Camila Morrone To Star Alongside Michael B. Jordan And Austin Butler",
+        "fa": "«Miami Vice 85» کامیلا مورونه را در کنار مایکل بی جردن و آستین باتلر قرار می دهد"
+      },
+      "excerpt": {
+        "en": "EXCLUSIVE: Universal and Joseph Kosinski’s Miami Vice ’85 movie is adding even more star power to its growing ensemble as Camila Morrone is set to co-star opposite Michael B. Jordan and Austin Butler. Kosinski will direct the latest feature adaptation of the classic ’80s crime series, which has a script by Dan Gilroy. Alden Ehrenreich […]",
+        "fa": "انحصاری: فیلم Miami Vice 85 ساخته یونیورسال و جوزف کوسینسکی قدرت ستارگان بیشتری را به گروه رو به رشد خود اضافه می کند زیرا کامیلا مورونه قرار است در کنار مایکل بی جردن و آستین باتلر همبازی شود. کوسینسکی کارگردانی جدیدترین اقتباس از مجموعه جنایی کلاسیک دهه 80 را برعهده خواهد داشت که فیلمنامه ای از دن گیلروی دارد. آلدن ارنرایش"
+      },
+      "content": {
+        "en": "EXCLUSIVE: Universal and Joseph Kosinski’s Miami Vice ’85 movie is adding even more star power to its growing ensemble as Camila Morrone is set to co-star opposite Michael B. Jordan and Austin Butler. Kosinski will direct the latest feature adaptation of the classic ’80s crime series, which has a script by Dan Gilroy. Alden Ehrenreich […]",
+        "fa": "انحصاری: فیلم Miami Vice 85 ساخته یونیورسال و جوزف کوسینسکی قدرت ستارگان بیشتری را به گروه رو به رشد خود اضافه می کند زیرا کامیلا مورونه قرار است در کنار مایکل بی جردن و آستین باتلر همبازی شود. کوسینسکی کارگردانی جدیدترین اقتباس از مجموعه جنایی کلاسیک دهه 80 را برعهده خواهد داشت که فیلمنامه ای از دن گیلروی دارد. آلدن ارنرایش"
+      },
+      "source": {
+        "en": "Deadline",
+        "fa": "Deadline"
+      },
+      "link": "https://deadline.com/2026/08/miami-vice-85-camila-morrone-cast-1237046532/",
+      "date": "2026-08-20T20:18:15.629609+00:00",
+      "image": "https://deadline.com/wp-content/uploads/2026/08/Camilla-Marone-Michael-B-Jordan-and-Austin-Butler-.jpg",
       "important": false,
       "score": 3
     },
@@ -501,7 +357,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/news/trailers/chronovisor-movie-trailer-1235211641/",
-      "date": "2026-08-20T19:23:57.838613+00:00",
+      "date": "2026-08-20T20:18:15.641643+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/MCDCHRO_EC087.jpg?w=650",
       "important": false,
       "score": 1
@@ -525,7 +381,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/features/craft/the-top-chef-reality-show-casting-interview-1235211638/",
-      "date": "2026-08-20T19:23:57.837840+00:00",
+      "date": "2026-08-20T20:18:15.640741+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/NUP_208397_02672.jpg?w=650",
       "important": false,
       "score": 1
@@ -549,7 +405,7 @@
         "fa": "Variety"
       },
       "link": "https://variety.com/2026/film/news/charles-melton-naruto-movie-kakashi-1236839318/",
-      "date": "2026-08-20T19:23:57.832125+00:00",
+      "date": "2026-08-20T20:18:15.634607+00:00",
       "image": "https://variety.com/wp-content/uploads/2026/08/charles-melton.png",
       "important": false,
       "score": 1
@@ -562,7 +418,7 @@
       },
       "excerpt": {
         "en": "A study commissioned by Los Angeles County argues that David Ellison's plans to unite Paramount and Warner Bros. could be an economic calamity",
-        "fa": "A study commissioned by Los Angeles County argues that David Ellison's plans to unite Paramount and Warner Bros. could be an economic calamity"
+        "fa": "یک مطالعه به سفارش لس آنجلس کانتی استدلال می کند که برنامه های دیوید الیسون برای متحد کردن پارامونت و برادران وارنر می تواند یک فاجعه اقتصادی باشد."
       },
       "content": {
         "en": "A study commissioned by Los Angeles County argues that David Ellison's plans to unite Paramount and Warner Bros. could be an economic calamity",
@@ -573,8 +429,152 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/news/business/paramount-warner-bros-merger-4500-tv-film-production-jobs-lost-1235211693/",
-      "date": "2026-08-20T19:23:57.839060+00:00",
+      "date": "2026-08-20T20:18:15.642172+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/04/P105O250.jpg?w=650",
+      "important": false,
+      "score": 0
+    },
+    {
+      "id": "337fec796939",
+      "title": {
+        "en": "San Francisco Is Building Its First New Movie Theater in More Than a Decade",
+        "fa": "سانفرانسیسکو در حال ساخت اولین سینمای جدید خود در بیش از یک دهه است"
+      },
+      "excerpt": {
+        "en": "Coming this fall to the Mission District, the single-screen Portal Cinema will host new global releases, repertory films, and Academy-tailored screenings and events.",
+        "fa": "در پاییز امسال به منطقه Mission District، سینمای پرتال تک‌صفحه میزبان اکران‌های جهانی جدید، فیلم‌های رپرتوار، و نمایش‌ها و رویدادهای آکادمی خواهد بود."
+      },
+      "content": {
+        "en": "Coming this fall to the Mission District, the single-screen Portal Cinema will host new global releases, repertory films, and Academy-tailored screenings and events.",
+        "fa": "در پاییز امسال به منطقه Mission District، سینمای پرتال تک‌صفحه میزبان اکران‌های جهانی جدید، فیلم‌های رپرتوار، و نمایش‌ها و رویدادهای آکادمی خواهد بود."
+      },
+      "source": {
+        "en": "IndieWire",
+        "fa": "IndieWire"
+      },
+      "link": "https://www.indiewire.com/news/breaking-news/san-francisco-portal-cinema-opening-fall-2026-1235211735/",
+      "date": "2026-08-20T20:18:15.641209+00:00",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/08/Portal_rendering-by-Stephen-Atkinson.jpeg?w=650",
+      "important": false,
+      "score": 0
+    },
+    {
+      "id": "5f694cdfb04c",
+      "title": {
+        "en": "‘It Ends’ Review: College Grads Find Themselves on Long Road to Nowhere in Promising but Underdeveloped Indie Horror Movie",
+        "fa": "نقد و بررسی «این پایان می‌یابد»: فارغ‌التحصیلان کالج در فیلم ترسناک ایندی امیدوارکننده اما توسعه نیافته خود را در جاده طولانی به سوی ناکجاآباد می‌یابند."
+      },
+      "excerpt": {
+        "en": "Alexander Ullom's clever debut feature aspires to be a Gen Z riff on Sartre, but its journey isn't always worth its lack of a destination.",
+        "fa": "اولین ویژگی هوشمندانه الکساندر اولوم آرزو دارد یک ریف Gen Z بر روی سارتر باشد، اما سفر آن همیشه ارزش نداشتن مقصد را ندارد."
+      },
+      "content": {
+        "en": "Alexander Ullom's clever debut feature aspires to be a Gen Z riff on Sartre, but its journey isn't always worth its lack of a destination.",
+        "fa": "اولین ویژگی هوشمندانه الکساندر اولوم آرزو دارد یک ریف Gen Z بر روی سارتر باشد، اما سفر آن همیشه ارزش نداشتن مقصد را ندارد."
+      },
+      "source": {
+        "en": "IndieWire",
+        "fa": "IndieWire"
+      },
+      "link": "https://www.indiewire.com/criticism/movies/it-ends-indie-horror-movie-review-1235101708/",
+      "date": "2026-08-20T20:18:15.640976+00:00",
+      "image": "https://www.indiewire.com/wp-content/uploads/2025/03/it-ends-318958.jpeg?w=650",
+      "important": false,
+      "score": 0
+    },
+    {
+      "id": "f1503b0bda34",
+      "title": {
+        "en": "Paramount Sports Entertainment Chief Ushers in New Era of Storytelling and Experiences",
+        "fa": "رئیس بخش سرگرمی های ورزشی پارامونت در عصر جدید داستان سرایی و تجربیات وارد می شود."
+      },
+      "excerpt": {
+        "en": "Office With a View: \"We have this unique opportunity to be part of a big rocket ship but still be entrepreneurial,\" Jesse Sisgold tells TheWrap The post Paramount Sports Entertainment Chief Ushers in New Era of Storytelling and Experiences appeared first on TheWrap .",
+        "fa": "جسی سیسگلد به TheWrap می گوید: «ما این فرصت منحصر به فرد را داریم تا بخشی از یک کشتی موشکی بزرگ باشیم اما همچنان کارآفرین باشیم."
+      },
+      "content": {
+        "en": "Office With a View: \"We have this unique opportunity to be part of a big rocket ship but still be entrepreneurial,\" Jesse Sisgold tells TheWrap The post Paramount Sports Entertainment Chief Ushers in New Era of Storytelling and Experiences appeared first on TheWrap .",
+        "fa": "جسی سیسگلد به TheWrap می گوید: «ما این فرصت منحصر به فرد را داریم تا بخشی از یک کشتی موشکی بزرگ باشیم اما همچنان کارآفرین باشیم."
+      },
+      "source": {
+        "en": "The Wrap",
+        "fa": "The Wrap"
+      },
+      "link": "https://www.thewrap.com/culture-lifestyle/sports/paramount-sports-entertainment-jesse-sisgold-interview/",
+      "date": "2026-08-20T20:18:15.639091+00:00",
+      "image": "https://www.thewrap.com/wp-content/uploads/2026/08/owav-jesse-sisgold.jpg",
+      "important": false,
+      "score": 0
+    },
+    {
+      "id": "94e3a119c792",
+      "title": {
+        "en": "Anna Faris Opens Up About Drinking, Depression and Sobriety: ‘Had to Take a Step Back’",
+        "fa": "آنا فارس در مورد نوشیدن، افسردگی و هوشیاری می گوید: \"باید یک قدم به عقب برمی داشت\""
+      },
+      "excerpt": {
+        "en": "“Turns out there’s a correlation,\" the \"Scary Movie\" alum adds The post Anna Faris Opens Up About Drinking, Depression and Sobriety: ‘Had to Take a Step Back’ appeared first on TheWrap .",
+        "fa": "آلوم «فیلم ترسناک» می افزاید: «معلوم شد که یک همبستگی وجود دارد"
+      },
+      "content": {
+        "en": "“Turns out there’s a correlation,\" the \"Scary Movie\" alum adds The post Anna Faris Opens Up About Drinking, Depression and Sobriety: ‘Had to Take a Step Back’ appeared first on TheWrap .",
+        "fa": "آلوم «فیلم ترسناک» می افزاید: «معلوم شد که یک همبستگی وجود دارد"
+      },
+      "source": {
+        "en": "The Wrap",
+        "fa": "The Wrap"
+      },
+      "link": "https://www.thewrap.com/culture-lifestyle/culture/anna-faris-sober-drinking-depression-moms-scary-movie-6/",
+      "date": "2026-08-20T20:18:15.638838+00:00",
+      "image": "https://www.thewrap.com/wp-content/uploads/2026/06/anna-faris-scary-movie.jpg",
+      "important": false,
+      "score": 0
+    },
+    {
+      "id": "07bcfc47437c",
+      "title": {
+        "en": "Film and TV Spending Dropped In New Mexico. But There’s a Silver Lining",
+        "fa": "هزینه فیلم و تلویزیون در نیومکزیکو کاهش یافت. اما یک پوشش نقره ای وجود دارد"
+      },
+      "excerpt": {
+        "en": "As major studios slash budgets for tentpole features and series, there's fewer big-ticket projects. There's also more indies and an uptick in shoot activity, the state's film office director says.",
+        "fa": "از آنجایی که استودیوهای بزرگ بودجه‌های خود را برای ویژگی‌ها و سریال‌های اصلی کاهش می‌دهند، پروژه‌های پرفروش کمتری وجود دارد. مدیر دفتر فیلم ایالتی می‌گوید که هند بیشتر است و فعالیت فیلمبرداری افزایش یافته است."
+      },
+      "content": {
+        "en": "As major studios slash budgets for tentpole features and series, there's fewer big-ticket projects. There's also more indies and an uptick in shoot activity, the state's film office director says.",
+        "fa": "از آنجایی که استودیوهای بزرگ بودجه‌های خود را برای ویژگی‌ها و سریال‌های اصلی کاهش می‌دهند، پروژه‌های پرفروش کمتری وجود دارد. مدیر دفتر فیلم ایالتی می‌گوید که هند بیشتر است و فعالیت فیلمبرداری افزایش یافته است."
+      },
+      "source": {
+        "en": "The Hollywood Reporter",
+        "fa": "The Hollywood Reporter"
+      },
+      "link": "https://www.hollywoodreporter.com/business/business-news/new-mexico-film-tv-spending-production-1236677757/",
+      "date": "2026-08-20T20:18:15.637264+00:00",
+      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/TCDDAWI_IZ009.jpg?w=1440&#038;h=810&#038;crop=1",
+      "important": false,
+      "score": 0
+    },
+    {
+      "id": "5b3f8bed8e45",
+      "title": {
+        "en": "Faye Dunaway and Nicola Peltz Beckham Among Honorees at Kinéo Awards During Venice Film Fest",
+        "fa": "فی داناوی و نیکولا پلتز بکهام در میان برگزیدگان جوایز Kinéo در جشنواره فیلم ونیز"
+      },
+      "excerpt": {
+        "en": "The awards, conceived by Kinéo Cultural Association president Rosetta Sannelli, toasts a milestone 25th anniversary next month with the ceremony set to take place at Casa Cinema Giovani on Sept. 5.",
+        "fa": "این جوایز که توسط روزتا سانلی، رئیس انجمن فرهنگی Kinéo طراحی شده است، بیست و پنجمین سالگرد آن را در ماه آینده با مراسمی که قرار است در 5 سپتامبر در کاسا سینما جیووانی برگزار شود، نشان می دهد."
+      },
+      "content": {
+        "en": "The awards, conceived by Kinéo Cultural Association president Rosetta Sannelli, toasts a milestone 25th anniversary next month with the ceremony set to take place at Casa Cinema Giovani on Sept. 5.",
+        "fa": "این جوایز که توسط روزتا سانلی، رئیس انجمن فرهنگی Kinéo طراحی شده است، بیست و پنجمین سالگرد آن را در ماه آینده با مراسمی که قرار است در 5 سپتامبر در کاسا سینما جیووانی برگزار شود، نشان می دهد."
+      },
+      "source": {
+        "en": "The Hollywood Reporter",
+        "fa": "The Hollywood Reporter"
+      },
+      "link": "https://www.hollywoodreporter.com/movies/movie-news/kineo-awards-2026-faye-dunaway-nicola-peltz-beckham-1236677778/",
+      "date": "2026-08-20T20:18:15.636677+00:00",
+      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/Faye-Dunaway-and-Nicola-Peltz-Beckham-Split-Getty-H-2026.jpg?w=1296&#038;h=730&#038;crop=1",
       "important": false,
       "score": 0
     }
