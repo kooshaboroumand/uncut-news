@@ -1,31 +1,7 @@
 {
-  "updated_at": "2026-08-20T21:19:35.603640+00:00",
+  "updated_at": "2026-08-20T22:17:14.655586+00:00",
   "count": 24,
   "news": [
-    {
-      "id": "cce62eea7db1",
-      "title": {
-        "en": "Netflix Veteran Andy Weil Joins Amazon MGM Studios As Head Of Comedy",
-        "fa": "اندی ویل کهنه کار نتفلیکس به عنوان رئیس کمدی به استودیو ام جی ام آمازون می پیوندد"
-      },
-      "excerpt": {
-        "en": "EXCLUSIVE: Andy Weil, Netflix’s VP Comedy and the streamer’s second-longest-serving programming executive, is leaving to join Amazon MGM Studios as Head of Comedy. Amazon MGM Studios‘ Head of Global Television Peter Friedlander just announced the hire internally in a memo, which you can see below. Weil’s first day is September 14. The Head of Comedy […]",
-        "fa": "انحصاری: اندی ویل، معاون کمدی نتفلیکس و دومین مدیر اجرایی برنامه‌نویسی طولانی‌مدت این استریمر، برای پیوستن به استودیو ام‌جی‌ام آمازون به‌عنوان رئیس کمدی می‌رود. پیتر فریدلندر، رئیس بخش تلویزیون جهانی آمازون MGM Studios به تازگی در یادداشتی استخدام خود را به صورت داخلی اعلام کرده است که در زیر می توانید مشاهده کنید. اولین روز وایل 14 سپتامبر است. سر کمدی"
-      },
-      "content": {
-        "en": "EXCLUSIVE: Andy Weil, Netflix’s VP Comedy and the streamer’s second-longest-serving programming executive, is leaving to join Amazon MGM Studios as Head of Comedy. Amazon MGM Studios‘ Head of Global Television Peter Friedlander just announced the hire internally in a memo, which you can see below. Weil’s first day is September 14. The Head of Comedy […]",
-        "fa": "انحصاری: اندی ویل، معاون کمدی نتفلیکس و دومین مدیر اجرایی برنامه‌نویسی طولانی‌مدت این استریمر، برای پیوستن به استودیو ام‌جی‌ام آمازون به‌عنوان رئیس کمدی می‌رود. پیتر فریدلندر، رئیس بخش تلویزیون جهانی آمازون MGM Studios به تازگی در یادداشتی استخدام خود را به صورت داخلی اعلام کرده است که در زیر می توانید مشاهده کنید. اولین روز وایل 14 سپتامبر است. سر کمدی"
-      },
-      "source": {
-        "en": "Deadline",
-        "fa": "Deadline"
-      },
-      "link": "https://deadline.com/2026/08/netflix-andy-weil-amazon-mgm-studios-head-of-comedy-1237045395/",
-      "date": "2026-08-20T21:19:35.393477+00:00",
-      "image": "https://deadline.com/wp-content/uploads/2026/08/Andy-Weil_fa4240.jpg",
-      "important": true,
-      "score": 6
-    },
     {
       "id": "f5cd9b5579cf",
       "title": {
@@ -45,7 +21,7 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/yahya-abdul-mateen-ii-optics-obvious-wonder-man-cancellation-blade-reboot-1237046695/",
-      "date": "2026-08-20T21:19:35.392570+00:00",
+      "date": "2026-08-20T22:17:14.392280+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/yahya-abdul-mateen-wonderman-blade.jpg",
       "important": true,
       "score": 6
@@ -69,7 +45,7 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/lanterns-premiere-ratings-viewers-hbo-max-dc-studios-1237046768/",
-      "date": "2026-08-20T21:19:35.392233+00:00",
+      "date": "2026-08-20T22:17:14.391951+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/07/aaron-pierre-kyle-chandler.jpg",
       "important": true,
       "score": 6
@@ -93,7 +69,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/news/trailers/monster-lizzie-borden-story-trailer-ryan-murphy-1235211644/",
-      "date": "2026-08-20T21:19:35.403412+00:00",
+      "date": "2026-08-20T22:17:14.401967+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/Monster__The_Lizzie_Borden_Story_n_S1_E2_00_37_26_19R.jpg?w=650",
       "important": true,
       "score": 4
@@ -117,7 +93,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/awards/predictions/hbo-emmy-campaign-perseverance-should-pay-off-1235211458/",
-      "date": "2026-08-20T21:19:35.403593+00:00",
+      "date": "2026-08-20T22:17:14.402150+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/2290751324.jpg?w=650",
       "important": false,
       "score": 3
@@ -134,135 +110,87 @@
       },
       "content": {
         "en": "The film debuted at the Cannes Film Festival and marks the \"Andor\" star's return to directing.",
-        "fa": "این فیلم برای اولین بار در جشنواره فیلم کن به نمایش درآمد و نشان دهنده بازگشت ستاره «اندور» به کارگردانی است."
+        "fa": "The film debuted at the Cannes Film Festival and marks the \"Andor\" star's return to directing."
       },
       "source": {
         "en": "IndieWire",
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/news/festivals/diego-luna-migrant-drama-ashes-sells-watermelon-pictures-1235211826/",
-      "date": "2026-08-20T21:19:35.402967+00:00",
+      "date": "2026-08-20T22:17:14.401503+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/05/Screenshot-2026-05-09-at-9.14.00 PM.png?w=650",
       "important": false,
       "score": 3
     },
     {
-      "id": "d1464e1915f6",
+      "id": "367a2fe9d5c5",
       "title": {
-        "en": "How an Indie Studio Convinced ‘Naruto’ Creator, TV Tokyo to Let Them Make Franchise’s First Official Digital Cards App (EXCLUSIVE)",
-        "fa": "چگونه یک استودیوی مستقل، خالق «ناروتو»، تلویزیون توکیو را متقاعد کرد که به آنها اجازه دهد اولین برنامه رسمی کارت دیجیتال فرانچایز را بسازند"
+        "en": "Pave Studios Names Jennifer Passovoy Head of Unscripted Video | Exclusive",
+        "fa": "استودیو Pave نام جنیفر پاسووی رئیس ویدیوی بدون اسکریپت | انحصاری"
       },
       "excerpt": {
-        "en": "“Naruto” fans will have access to the popular anime franchise’s first-ever official digital cards app with Thursday’s worldwide launch of “Naruto Ninja Cards.” Described as “a gamified card-collecting experience,” “Naruto Ninja Cards” lets app users collect the series’ most iconic characters in card form, uncover exclusive artworks, and enjoy real-time strategic activities with friends. While […]",
-        "fa": "طرفداران «ناروتو» با عرضه جهانی «کارت های ناروتو نینجا» در روز پنجشنبه، به اولین برنامه رسمی کارت های دیجیتال این مجموعه محبوب انیمه دسترسی خواهند داشت. «کارت‌های ناروتو نینجا» که به‌عنوان «تجربه جمع‌آوری کارت بازی‌شده» توصیف می‌شود، به کاربران برنامه اجازه می‌دهد نمادین‌ترین شخصیت‌های سری را به شکل کارت جمع‌آوری کنند، آثار هنری انحصاری را کشف کنند و از فعالیت‌های استراتژیک بی‌درنگ با دوستان لذت ببرند. در حالی که"
+        "en": "The five-time Emmy-winning producer will oversee a new vertical for the media company, focused on unscripted streaming series and celebrity content The post Pave Studios Names Jennifer Passovoy Head of Unscripted Video | Exclusive appeared first on TheWrap .",
+        "fa": "این تهیه کننده برنده پنج جایزه امی، بر یک عمودی جدید برای این شرکت رسانه ای نظارت خواهد کرد که بر سریال های پخش بدون فیلمنامه و محتوای افراد مشهور تمرکز دارد."
       },
       "content": {
-        "en": "“Naruto” fans will have access to the popular anime franchise’s first-ever official digital cards app with Thursday’s worldwide launch of “Naruto Ninja Cards.” Described as “a gamified card-collecting experience,” “Naruto Ninja Cards” lets app users collect the series’ most iconic characters in card form, uncover exclusive artworks, and enjoy real-time strategic activities with friends. While […]",
-        "fa": "طرفداران «ناروتو» با عرضه جهانی «کارت های ناروتو نینجا» در روز پنجشنبه، به اولین برنامه رسمی کارت های دیجیتال این مجموعه محبوب انیمه دسترسی خواهند داشت. «کارت‌های ناروتو نینجا» که به‌عنوان «تجربه جمع‌آوری کارت بازی‌شده» توصیف می‌شود، به کاربران برنامه اجازه می‌دهد نمادین‌ترین شخصیت‌های سری را به شکل کارت جمع‌آوری کنند، آثار هنری انحصاری را کشف کنند و از فعالیت‌های استراتژیک بی‌درنگ با دوستان لذت ببرند. در حالی که"
+        "en": "The five-time Emmy-winning producer will oversee a new vertical for the media company, focused on unscripted streaming series and celebrity content The post Pave Studios Names Jennifer Passovoy Head of Unscripted Video | Exclusive appeared first on TheWrap .",
+        "fa": "این تهیه کننده برنده پنج جایزه امی، بر یک عمودی جدید برای این شرکت رسانه ای نظارت خواهد کرد که بر سریال های پخش بدون فیلمنامه و محتوای افراد مشهور تمرکز دارد."
+      },
+      "source": {
+        "en": "The Wrap",
+        "fa": "The Wrap"
+      },
+      "link": "https://www.thewrap.com/industry-news/business/pave-studios-jennifer-passovoy-head-of-unscripted-video/",
+      "date": "2026-08-20T22:17:14.398647+00:00",
+      "image": "https://www.thewrap.com/wp-content/uploads/2026/08/Pave.jpg",
+      "important": false,
+      "score": 3
+    },
+    {
+      "id": "4d765e0c1078",
+      "title": {
+        "en": "Netflix, AMC Studios Team for ‘Bannerman’ Spy Thriller From Shane Black, Craig Silverstein",
+        "fa": "نتفلیکس، تیم استودیو AMC برای تریلر جاسوسی «Bannerman» از شین بلک، کریگ سیلورستاین"
+      },
+      "excerpt": {
+        "en": "The series based on novels by John R. Maxim is the first co-production between the two companies.",
+        "fa": "سریالی که بر اساس رمان‌های جان آر ماکسیم ساخته شده است، اولین محصول مشترک این دو شرکت است."
+      },
+      "content": {
+        "en": "The series based on novels by John R. Maxim is the first co-production between the two companies.",
+        "fa": "سریالی که بر اساس رمان‌های جان آر ماکسیم ساخته شده است، اولین محصول مشترک این دو شرکت است."
+      },
+      "source": {
+        "en": "The Hollywood Reporter",
+        "fa": "The Hollywood Reporter"
+      },
+      "link": "https://www.hollywoodreporter.com/tv/tv-news/netflix-bannerman-spy-series-shane-black-amc-studios-1236677923/",
+      "date": "2026-08-20T22:17:14.397423+00:00",
+      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/Shane-Black-and-Craig-Silverstein-Split-Getty-H-2026.jpg?w=1296&#038;h=730&#038;crop=1",
+      "important": false,
+      "score": 3
+    },
+    {
+      "id": "867c38ea56d2",
+      "title": {
+        "en": "Netflix Exec Andy Weil Jumping to Amazon as Head of Comedy",
+        "fa": "اندی ویل، مدیر اجرایی نتفلیکس، به عنوان رئیس کمدی به آمازون می‌رود"
+      },
+      "excerpt": {
+        "en": "Comedy development exec Andy Weil is exiting Netflix after 11 years to join Amazon as its new head of comedy. The exec rejoins his former Netflix boss Peter Friedlander, now head of global TV at Amazon MGM Studios. Weil is a well-known comedy buff who has championed some of Netflix’s biggest laffers, including “Master of […]",
+        "fa": "اندی ویل، مدیر توسعه کمدی، پس از 11 سال از نتفلیکس خارج می شود تا به عنوان مدیر جدید کمدی آمازون به آمازون بپیوندد. مدیر اجرایی مجدداً به رئیس سابق نتفلیکس پیتر فریدلندر که اکنون رئیس تلویزیون جهانی در استودیو ام جی ام آمازون است، می پیوندد. ویل یک علاقه مند به کمدی معروف است که از برخی از بزرگترین بازیگران نتفلیکس، از جمله \"Master of\" دفاع کرده است."
+      },
+      "content": {
+        "en": "Comedy development exec Andy Weil is exiting Netflix after 11 years to join Amazon as its new head of comedy. The exec rejoins his former Netflix boss Peter Friedlander, now head of global TV at Amazon MGM Studios. Weil is a well-known comedy buff who has championed some of Netflix’s biggest laffers, including “Master of […]",
+        "fa": "اندی ویل، مدیر توسعه کمدی، پس از 11 سال از نتفلیکس خارج می شود تا به عنوان مدیر جدید کمدی آمازون به آمازون بپیوندد. مدیر اجرایی مجدداً به رئیس سابق نتفلیکس پیتر فریدلندر که اکنون رئیس تلویزیون جهانی در استودیو ام جی ام آمازون است، می پیوندد. ویل یک علاقه مند به کمدی معروف است که از برخی از بزرگترین بازیگران نتفلیکس، از جمله \"Master of\" دفاع کرده است."
       },
       "source": {
         "en": "Variety",
         "fa": "Variety"
       },
-      "link": "https://variety.com/2026/gaming/news/naruto-digital-card-app-sekai-tv-tokyo-1236839122/",
-      "date": "2026-08-20T21:19:35.397008+00:00",
-      "image": "https://variety.com/wp-content/uploads/2026/08/Naruto-Ninja-Cards.png",
-      "important": false,
-      "score": 3
-    },
-    {
-      "id": "3d4be150f3ce",
-      "title": {
-        "en": "Netflix, AMC Team for ‘Bannerman’ Series Based on John R. Maxim Spy Novels, Shane Black and Craig Silverstein to Write",
-        "fa": "Netflix, AMC Team for ‘Bannerman’ Series Based on John R. Maxim Spy Novels, Shane Black and Craig Silverstein to Write"
-      },
-      "excerpt": {
-        "en": "Netflix and AMC Studios are set to co-produce the drama series “Bannerman,” Variety has learned. The series is based on John R. Maxim’s Paul Bannerman novels, of which five were published. This marks the first Netflix/AMC Studios co-production. The show will air on AMC in the US and Canada and then become available on Netflix […]",
-        "fa": "ورایتی دریافته است که نتفلیکس و استودیو AMC قرار است سریال درام «Bannerman» را با هم تولید کنند. این مجموعه بر اساس رمان‌های پل بنرمن اثر جان آر ماکسیم ساخته شده است که پنج تای آن منتشر شده است. این اولین تولید مشترک نتفلیکس و استودیو AMC است. این برنامه از شبکه AMC در ایالات متحده و کانادا پخش خواهد شد و سپس در نتفلیکس در دسترس قرار خواهد گرفت"
-      },
-      "content": {
-        "en": "Netflix and AMC Studios are set to co-produce the drama series “Bannerman,” Variety has learned. The series is based on John R. Maxim’s Paul Bannerman novels, of which five were published. This marks the first Netflix/AMC Studios co-production. The show will air on AMC in the US and Canada and then become available on Netflix […]",
-        "fa": "ورایتی دریافته است که نتفلیکس و استودیو AMC قرار است سریال درام «Bannerman» را با هم تولید کنند. این مجموعه بر اساس رمان‌های پل بنرمن اثر جان آر ماکسیم ساخته شده است که پنج تای آن منتشر شده است. این اولین تولید مشترک نتفلیکس و استودیو AMC است. این برنامه از شبکه AMC در ایالات متحده و کانادا پخش خواهد شد و سپس در نتفلیکس در دسترس قرار خواهد گرفت"
-      },
-      "source": {
-        "en": "Variety",
-        "fa": "Variety"
-      },
-      "link": "https://variety.com/2026/tv/news/bannerman-series-amc-netflix-john-r-maxim-novels-1236839301/",
-      "date": "2026-08-20T21:19:35.396871+00:00",
-      "image": "https://variety.com/wp-content/uploads/2026/08/Shane-Black-Craig-Silverstein-Bannerman.jpg",
-      "important": false,
-      "score": 3
-    },
-    {
-      "id": "142c6ba73663",
-      "title": {
-        "en": "Chuck Saftler, Top TV Acquisition Executive & FX Veteran, Leaving Disney After 32 Years",
-        "fa": "چاک سافتلر، مدیر اجرایی برتر خرید تلویزیون و کهنه سرباز FX، پس از 32 سال دیزنی را ترک کرد"
-      },
-      "excerpt": {
-        "en": "EXCLUSIVE: Chuck Saftler, one of the biggest names in TV acquisitions and who helped build FX Networks, is leaving Disney after a 32-year tenure that dates to pre-Disney-merger FX, which he joined in December 1993 as director of scheduling, seven months prior to the network’s launch. His last day in the office will be October […]",
-        "fa": "انحصاری: چاک سافتلر، یکی از بزرگ‌ترین نام‌های خرید تلویزیون و که به ساخت شبکه‌های FX کمک کرد، دیزنی را پس از 32 سال تصدی که مربوط به قبل از ادغام دیزنی FX است، ترک می‌کند، که در دسامبر 1993 به عنوان مدیر برنامه‌ریزی، هفت ماه قبل از راه‌اندازی شبکه به آن ملحق شد. آخرین روز او در دفتر، اکتبر خواهد بود"
-      },
-      "content": {
-        "en": "EXCLUSIVE: Chuck Saftler, one of the biggest names in TV acquisitions and who helped build FX Networks, is leaving Disney after a 32-year tenure that dates to pre-Disney-merger FX, which he joined in December 1993 as director of scheduling, seven months prior to the network’s launch. His last day in the office will be October […]",
-        "fa": "انحصاری: چاک سافتلر، یکی از بزرگ‌ترین نام‌های خرید تلویزیون و که به ساخت شبکه‌های FX کمک کرد، دیزنی را پس از 32 سال تصدی که مربوط به قبل از ادغام دیزنی FX است، ترک می‌کند، که در دسامبر 1993 به عنوان مدیر برنامه‌ریزی، هفت ماه قبل از راه‌اندازی شبکه به آن ملحق شد. آخرین روز او در دفتر، اکتبر خواهد بود"
-      },
-      "source": {
-        "en": "Deadline",
-        "fa": "Deadline"
-      },
-      "link": "https://deadline.com/2026/08/chuck-saftler-leaving-disney-acquisitions-executive-fx-1237046388/",
-      "date": "2026-08-20T21:19:35.394308+00:00",
-      "image": "https://deadline.com/wp-content/uploads/2026/08/Chuck-Saftler.jpg",
-      "important": false,
-      "score": 3
-    },
-    {
-      "id": "30c0df7d8dea",
-      "title": {
-        "en": "A24’s Kate Fassl Joins Ari Aster’s Square Peg As Head Of Comms & Talent Relations",
-        "fa": "کیت فاسل از A24 به عنوان رئیس روابط و روابط استعدادهای درخشان به آری استر می پیوندد"
-      },
-      "excerpt": {
-        "en": "EXCLUSIVE: A24 vet Kate Fassl is heading to Ari Aster and Lars Knudsen’s Square Peg as its new Head of Communications and Talent Relations. In her new role, Fassl will lead comms for Square Peg, overseeing strategy, press and brand while working closely with filmmakers and talent. Fassl joins Square Peg, founded and led by […]",
-        "fa": "انحصاری: کیت فاسل، دامپزشک A24، به عنوان رئیس جدید ارتباطات و روابط استعدادها به میدان آری استر و لارس نادسن می‌رود. در نقش جدیدش، فاسل در حالی که از نزدیک با فیلمسازان و استعدادها کار می‌کند، پیام‌هایی را برای Square Peg، نظارت بر استراتژی، مطبوعات و برند رهبری خواهد کرد. Fassl به Square Peg می پیوندد که توسط آن تأسیس و رهبری می شود"
-      },
-      "content": {
-        "en": "EXCLUSIVE: A24 vet Kate Fassl is heading to Ari Aster and Lars Knudsen’s Square Peg as its new Head of Communications and Talent Relations. In her new role, Fassl will lead comms for Square Peg, overseeing strategy, press and brand while working closely with filmmakers and talent. Fassl joins Square Peg, founded and led by […]",
-        "fa": "انحصاری: کیت فاسل، دامپزشک A24، به عنوان رئیس جدید ارتباطات و روابط استعدادها به میدان آری استر و لارس نادسن می‌رود. در نقش جدیدش، فاسل در حالی که از نزدیک با فیلمسازان و استعدادها کار می‌کند، پیام‌هایی را برای Square Peg، نظارت بر استراتژی، مطبوعات و برند رهبری خواهد کرد. Fassl به Square Peg می پیوندد که توسط آن تأسیس و رهبری می شود"
-      },
-      "source": {
-        "en": "Deadline",
-        "fa": "Deadline"
-      },
-      "link": "https://deadline.com/2026/08/ari-aster-square-peg-kate-fassl-1237046664/",
-      "date": "2026-08-20T21:19:35.394075+00:00",
-      "image": "https://deadline.com/wp-content/uploads/2026/08/Kate-Fassl.jpg",
-      "important": false,
-      "score": 3
-    },
-    {
-      "id": "8a3beb0fa70e",
-      "title": {
-        "en": "Kali Bailey Adapting L. Frank Baum’s ‘The Life And Adventures Of Santa Claus’ For Monarch Media",
-        "fa": "کالی بیلی در حال اقتباس از «زندگی و ماجراهای بابا نوئل» اثر L. Frank Baum برای رسانه Monarch"
-      },
-      "excerpt": {
-        "en": "EXCLUSIVE: Monarch Media has enlisted Kali Bailey to adapt the screenplay for The Life and Adventures of Santa Claus, a live-action feature adaptation of the children’s book by L. Frank Baum. First published in 1902, Baum’s book follows Santa Claus from an abandoned baby in a magical forest near Oz, to his beloved role of spreading peace, […]",
-        "fa": "اختصاصی: Monarch Media کالی بیلی را برای اقتباس از فیلمنامه The Life and Adventures of Santa Claus، اقتباسی لایو اکشن از کتاب کودکان اثر L. Frank Baum، استخدام کرده است. کتاب باوم که اولین بار در سال 1902 منتشر شد، بابانوئل را از یک نوزاد رها شده در جنگلی جادویی در نزدیکی اوز، به نقش محبوبش در گسترش صلح دنبال می کند."
-      },
-      "content": {
-        "en": "EXCLUSIVE: Monarch Media has enlisted Kali Bailey to adapt the screenplay for The Life and Adventures of Santa Claus, a live-action feature adaptation of the children’s book by L. Frank Baum. First published in 1902, Baum’s book follows Santa Claus from an abandoned baby in a magical forest near Oz, to his beloved role of spreading peace, […]",
-        "fa": "اختصاصی: Monarch Media کالی بیلی را برای اقتباس از فیلمنامه The Life and Adventures of Santa Claus، اقتباسی لایو اکشن از کتاب کودکان اثر L. Frank Baum، استخدام کرده است. کتاب باوم که اولین بار در سال 1902 منتشر شد، بابانوئل را از یک نوزاد رها شده در جنگلی جادویی در نزدیکی اوز، به نقش محبوبش در گسترش صلح دنبال می کند."
-      },
-      "source": {
-        "en": "Deadline",
-        "fa": "Deadline"
-      },
-      "link": "https://deadline.com/2026/08/the-life-and-adventures-of-santa-claus-movie-monarch-media-1237046625/",
-      "date": "2026-08-20T21:19:35.393260+00:00",
-      "image": "https://deadline.com/wp-content/uploads/2026/08/The-Life-and-Adventures-of-Santa-Claus-Kali-Bailey.jpg",
+      "link": "https://variety.com/2026/tv/news/netflix-exec-andy-weil-amazon-head-of-comedy-1236839544/",
+      "date": "2026-08-20T22:17:14.393945+00:00",
+      "image": "https://variety.com/wp-content/uploads/2026/08/P101KPP2-e1787260897339.jpg",
       "important": false,
       "score": 3
     },
@@ -285,7 +213,7 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/miami-vice-85-camila-morrone-cast-1237046532/",
-      "date": "2026-08-20T21:19:35.392449+00:00",
+      "date": "2026-08-20T22:17:14.392162+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/Camilla-Marone-Michael-B-Jordan-and-Austin-Butler-.jpg",
       "important": false,
       "score": 3
@@ -302,15 +230,63 @@
       },
       "content": {
         "en": "EXCLUSIVE: Teyonah Parris is joining the Apple Original Films pic Running from director Gavin O’Connor that stars Spike Fearn, Brian Tyree Henry and Rhea Seehorn. Bill Dubuque penned the script, which is based on a story by O’Connor and Dubuque. The film, a co-production between Makeready and Waffle Iron Entertainment, follows a homeless high school […]",
-        "fa": "EXCLUSIVE: Teyonah Parris is joining the Apple Original Films pic Running from director Gavin O’Connor that stars Spike Fearn, Brian Tyree Henry and Rhea Seehorn. Bill Dubuque penned the script, which is based on a story by O’Connor and Dubuque. The film, a co-production between Makeready and Waffle Iron Entertainment, follows a homeless high school […]"
+        "fa": "اختصاصی: Teyonah Parris به فیلم Apple Original Films می‌پیوندد که توسط کارگردان Gavin O'Connor اجرا می‌شود و اسپایک فیرن، برایان تایری هنری و ریا سیهورن در آن بازی می‌کنند. بیل دوبوک این فیلمنامه را نوشته است که بر اساس داستانی از اوکانر و دوبوک ساخته شده است. این فیلم که محصول مشترک Makeready و Waffle Iron Entertainment است، یک دبیرستان بی خانمان را دنبال می کند."
       },
       "source": {
         "en": "Deadline",
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/teyonah-parris-gavin-oconnor-running-1237046706/",
-      "date": "2026-08-20T21:19:35.392101+00:00",
+      "date": "2026-08-20T22:17:14.391830+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/Teyonah-Parris-and-Gavin-OConnor.jpg",
+      "important": false,
+      "score": 3
+    },
+    {
+      "id": "c14dd26e7f95",
+      "title": {
+        "en": "From Vintage Levi’s To Playing Cards: ‘Hacks’ Costume Designer Kathleen Felix-Hager On Dressing Season 5",
+        "fa": "از Vintage Levi's تا Playing Cards: کاتلین فلیکس-هیگر طراح لباس «Hacks» در مورد لباس پوشیدن فصل 5"
+      },
+      "excerpt": {
+        "en": "By the time Hacks reached its fifth and final season, Deborah Vance (Jean Smart) was still Deborah Vance — big earrings, bold looks and all. But for costume designer Kathleen Felix-Hager, it was Ava Daniels (Hannah Einbinder) whose wardrobe told the story of just how much the young writer had changed since Season 1. As […]",
+        "fa": "زمانی که Hacks به فصل پنجم و آخر خود رسید، دبورا ونس هنوز دبورا ونس بود - گوشواره های بزرگ، ظاهر جسورانه و همه چیز. اما برای طراح صحنه و لباس کاتلین فلیکس هاگر، آوا دنیلز بود که کمد لباس او حکایت از تغییر این نویسنده جوان از فصل 1 داشت."
+      },
+      "content": {
+        "en": "By the time Hacks reached its fifth and final season, Deborah Vance (Jean Smart) was still Deborah Vance — big earrings, bold looks and all. But for costume designer Kathleen Felix-Hager, it was Ava Daniels (Hannah Einbinder) whose wardrobe told the story of just how much the young writer had changed since Season 1. As […]",
+        "fa": "زمانی که Hacks به فصل پنجم و آخر خود رسید، دبورا ونس هنوز دبورا ونس بود - گوشواره های بزرگ، ظاهر جسورانه و همه چیز. اما برای طراح صحنه و لباس کاتلین فلیکس هاگر، آوا دنیلز بود که کمد لباس او حکایت از تغییر این نویسنده جوان از فصل 1 داشت."
+      },
+      "source": {
+        "en": "Deadline",
+        "fa": "Deadline"
+      },
+      "link": "https://deadline.com/2026/08/hacks-costume-designer-interview-season-5-1237046866/",
+      "date": "2026-08-20T22:17:14.390934+00:00",
+      "image": "https://deadline.com/wp-content/uploads/2026/08/Screenshot-2026-08-20-at-1.50.03-PM.png",
+      "important": false,
+      "score": 3
+    },
+    {
+      "id": "7a9f0f48b88c",
+      "title": {
+        "en": "Sacramento’s Mad Legislative Dash To Fix Tax Credits SNAFU, Get Post-Production Incentive Passed, Or Not",
+        "fa": "طرح قانون‌گذاری دیوانه‌وار ساکرامنتو برای رفع اعتبارات مالیاتی SNAFU، تصویب مشوق‌های پس از تولید، یا خیر"
+      },
+      "excerpt": {
+        "en": "EXCLUSIVE: With a very hard out of less than two weeks, state legislators in Sacramento are either going to be Scrooge or Santa with California’s film and TV tax incentives for the near moribund L.A. industry. It’s a mix result right now with a lot of good intentions, a lot of cooks in the […]",
+        "fa": "انحصاری: قانونگذاران ایالتی در ساکرامنتو در کمتر از دو هفته، یا اسکروج یا سانتا با مشوق های مالیاتی فیلم و تلویزیون کالیفرنیا برای صنعت تقریباً رو به مرگ لس آنجلس خواهند بود. این یک نتیجه ترکیبی در حال حاضر با نیت های خوب بسیاری است، تعداد زیادی آشپز در آن"
+      },
+      "content": {
+        "en": "EXCLUSIVE: With a very hard out of less than two weeks, state legislators in Sacramento are either going to be Scrooge or Santa with California’s film and TV tax incentives for the near moribund L.A. industry. It’s a mix result right now with a lot of good intentions, a lot of cooks in the […]",
+        "fa": "انحصاری: قانونگذاران ایالتی در ساکرامنتو در کمتر از دو هفته، یا اسکروج یا سانتا با مشوق های مالیاتی فیلم و تلویزیون کالیفرنیا برای صنعت تقریباً رو به مرگ لس آنجلس خواهند بود. این یک نتیجه ترکیبی در حال حاضر با نیت های خوب بسیاری است، تعداد زیادی آشپز در آن"
+      },
+      "source": {
+        "en": "Deadline",
+        "fa": "Deadline"
+      },
+      "link": "https://deadline.com/2026/08/california-film-tax-credits-latest-1237045968/",
+      "date": "2026-08-20T22:17:14.390336+00:00",
+      "image": "https://deadline.com/wp-content/uploads/2026/08/Sacramento-.jpg",
       "important": false,
       "score": 3
     },
@@ -333,7 +309,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/news/trailers/chronovisor-movie-trailer-1235211641/",
-      "date": "2026-08-20T21:19:35.403290+00:00",
+      "date": "2026-08-20T22:17:14.401843+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/MCDCHRO_EC087.jpg?w=650",
       "important": false,
       "score": 1
@@ -357,7 +333,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/features/craft/the-top-chef-reality-show-casting-interview-1235211638/",
-      "date": "2026-08-20T21:19:35.402394+00:00",
+      "date": "2026-08-20T22:17:14.400950+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/NUP_208397_02672.jpg?w=650",
       "important": false,
       "score": 1
@@ -381,8 +357,56 @@
         "fa": "The Hollywood Reporter"
       },
       "link": "https://www.hollywoodreporter.com/lifestyle/lifestyle-news/best-peacock-subscription-streaming-deal-1235500478/",
-      "date": "2026-08-20T21:19:35.398035+00:00",
+      "date": "2026-08-20T22:17:14.396505+00:00",
       "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/03/The-Best-Peacock-Subscription-Deals-and-Free-Trial-Hacks-MAIN.jpg?w=1296&#038;h=730&#038;crop=1",
+      "important": false,
+      "score": 1
+    },
+    {
+      "id": "87d990f9fd53",
+      "title": {
+        "en": "Dave Bautista Set To Play Kratos In ‘God Of War’ As Amazon Series Recasts Lead",
+        "fa": "دیو باتیستا قرار است نقش کریتوس را در «خدای جنگ» بازی کند، در حالی که سریال آمازون نقش اصلی را بازنشر می کند."
+      },
+      "excerpt": {
+        "en": "Dave Bautista has closed his deal to play Kratos in Prime Video’s God of War fantasy drama series. Series co-studios Amazon MGM Studios and Sony Pictures Television reached out to Bautista and initiated talks shortly after they had made a decision to recast the role following original lead Ryan Hurst’s serious on-set injury. As Deadline […]",
+        "fa": "دیو باتیستا قرارداد خود را برای ایفای نقش کریتوس در سریال درام فانتزی خدای جنگ Prime Video بسته است. استودیوهای مشترک سری آمازون ام‌جی‌ام و تلویزیون سونی پیکچرز با باوتیستا تماس گرفتند و مدت کوتاهی پس از تصمیم‌گیری برای تغییر نقش پس از مجروحیت جدی رایان هرست در سر صحنه، مذاکرات را آغاز کردند. به عنوان مهلت"
+      },
+      "content": {
+        "en": "Dave Bautista has closed his deal to play Kratos in Prime Video’s God of War fantasy drama series. Series co-studios Amazon MGM Studios and Sony Pictures Television reached out to Bautista and initiated talks shortly after they had made a decision to recast the role following original lead Ryan Hurst’s serious on-set injury. As Deadline […]",
+        "fa": "دیو باتیستا قرارداد خود را برای ایفای نقش کریتوس در سریال درام فانتزی خدای جنگ Prime Video بسته است. استودیوهای مشترک سری آمازون ام‌جی‌ام و تلویزیون سونی پیکچرز با باوتیستا تماس گرفتند و مدت کوتاهی پس از تصمیم‌گیری برای تغییر نقش پس از مجروحیت جدی رایان هرست در سر صحنه، مذاکرات را آغاز کردند. به عنوان مهلت"
+      },
+      "source": {
+        "en": "Deadline",
+        "fa": "Deadline"
+      },
+      "link": "https://deadline.com/2026/08/dave-bautista-cast-kratos-god-of-war-amazon-series-recast-1237046959/",
+      "date": "2026-08-20T22:17:14.389553+00:00",
+      "image": "https://deadline.com/wp-content/uploads/2026/08/Dave-Bautista-Kratos-from-God-of-War.jpg",
+      "important": false,
+      "score": 1
+    },
+    {
+      "id": "190c3132483d",
+      "title": {
+        "en": "‘Insidious: Out Of The Further’ To Scare Up $50M+ WW; ‘Spider-Man: Brand New Day’ To Prevail With $85M+ WW In Fourth Frame – Box Office Preview",
+        "fa": "\"موذیانه: خارج از آن\" برای ترساندن 50 میلیون دلار + WW; «Spider-Man: Brand New Day» با 85 میلیون دلار + WW در فریم چهارم - پیش‌نمایش باکس آفیس."
+      },
+      "excerpt": {
+        "en": "Dog days of August? What dog days of August do you speak of? Absolutely none here as Spider-Man: Brand New Day heads for a healthy fourth weekend of $35 million at this weekend’s domestic box office, and $85M worldwide. That 50% fourth-weekend decline is on par with Disney/Marvel’s Avengers: Endgame. As we told you, Spider-Man‘s […]",
+        "fa": "روزهای سگی مرداد؟ از چه روزهای سگی مرداد صحبت می کنید؟ مطلقاً هیچ کدام در اینجا به عنوان Spider-Man: Brand New Day برای چهارمین آخر هفته سالم با 35 میلیون دلار در باکس آفیس داخلی این آخر هفته و 85 میلیون دلار در سراسر جهان پیش می روند. این کاهش 50 درصدی در آخر هفته چهارم با فیلم Avengers: Endgame دیزنی/مارول برابری می کند. همانطور که به شما گفتیم، مرد عنکبوتی"
+      },
+      "content": {
+        "en": "Dog days of August? What dog days of August do you speak of? Absolutely none here as Spider-Man: Brand New Day heads for a healthy fourth weekend of $35 million at this weekend’s domestic box office, and $85M worldwide. That 50% fourth-weekend decline is on par with Disney/Marvel’s Avengers: Endgame. As we told you, Spider-Man‘s […]",
+        "fa": "روزهای سگی مرداد؟ از چه روزهای سگی مرداد صحبت می کنید؟ مطلقاً هیچ کدام در اینجا به عنوان Spider-Man: Brand New Day برای چهارمین آخر هفته سالم با 35 میلیون دلار در باکس آفیس داخلی این آخر هفته و 85 میلیون دلار در سراسر جهان پیش می روند. این کاهش 50 درصدی در آخر هفته چهارم با فیلم Avengers: Endgame دیزنی/مارول برابری می کند. همانطور که به شما گفتیم، مرد عنکبوتی"
+      },
+      "source": {
+        "en": "Deadline",
+        "fa": "Deadline"
+      },
+      "link": "https://deadline.com/2026/08/spider-man-insidious-out-of-the-further-global-box-office-1237046811/",
+      "date": "2026-08-20T22:17:14.389222+00:00",
+      "image": "https://deadline.com/wp-content/uploads/2026/08/Insidious-Out-of-the-Further-and-Spider-Man-Brand-New-Day.jpg",
       "important": false,
       "score": 1
     },
@@ -405,7 +429,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/news/breaking-news/san-francisco-portal-cinema-opening-fall-2026-1235211735/",
-      "date": "2026-08-20T21:19:35.402865+00:00",
+      "date": "2026-08-20T22:17:14.401400+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/Portal_rendering-by-Stephen-Atkinson.jpeg?w=650",
       "important": false,
       "score": 0
@@ -429,8 +453,32 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/criticism/movies/it-ends-indie-horror-movie-review-1235101708/",
-      "date": "2026-08-20T21:19:35.402656+00:00",
+      "date": "2026-08-20T22:17:14.401195+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2025/03/it-ends-318958.jpeg?w=650",
+      "important": false,
+      "score": 0
+    },
+    {
+      "id": "b2192e90742e",
+      "title": {
+        "en": "‘Spa Weekend’ Review: These Funny Women Deserve a Much Better Break",
+        "fa": "نقد و بررسی «آخر هفته اسپا»: این زنان بامزه سزاوار استراحتی بسیار بهتر هستند"
+      },
+      "excerpt": {
+        "en": "Leslie Mann, Isla Fisher, Michelle Buteau, and Anna Faris make for a spirited foursome in \"The Hangover\" writers and \"Bad Moms\" filmmakers Jon Lucas and Scott Moore's messy, unhinged, sometimes funny new film.",
+        "fa": "لزلی مان، ایسلا فیشر، میشل بوتو و آنا فاریس در فیلم جدید ژولیده، بی‌هیچ و گاهی خنده‌دار، نویسندگان «خماری» و فیلم‌سازان «مامان‌های بد»، جون لوکاس و اسکات مور، چهار نفری پرشور را تشکیل می‌دهند."
+      },
+      "content": {
+        "en": "Leslie Mann, Isla Fisher, Michelle Buteau, and Anna Faris make for a spirited foursome in \"The Hangover\" writers and \"Bad Moms\" filmmakers Jon Lucas and Scott Moore's messy, unhinged, sometimes funny new film.",
+        "fa": "لزلی مان، ایسلا فیشر، میشل بوتو و آنا فاریس در فیلم جدید ژولیده، بی‌هیچ و گاهی خنده‌دار، نویسندگان «خماری» و فیلم‌سازان «مامان‌های بد»، جون لوکاس و اسکات مور، چهار نفری پرشور را تشکیل می‌دهند."
+      },
+      "source": {
+        "en": "IndieWire",
+        "fa": "IndieWire"
+      },
+      "link": "https://www.indiewire.com/criticism/movies/spa-weekend-review-leslie-mann-isla-fisher-michelle-buteau-1235211346/",
+      "date": "2026-08-20T22:17:14.400202+00:00",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/08/bf1ab8bc408ccac7cdff2b637cf9f6cae1181667-8192x5464-1.avif?w=650",
       "important": false,
       "score": 0
     },
@@ -453,7 +501,7 @@
         "fa": "The Wrap"
       },
       "link": "https://www.thewrap.com/creative-content/movies/state-of-california-production-roundtable-video/",
-      "date": "2026-08-20T21:19:35.400399+00:00",
+      "date": "2026-08-20T22:17:14.399956+00:00",
       "image": "https://www.thewrap.com/wp-content/uploads/2026/08/baywatch-california-film-production-e1787189318405.jpg",
       "important": false,
       "score": 0
@@ -477,8 +525,32 @@
         "fa": "The Wrap"
       },
       "link": "https://www.thewrap.com/creative-content/tv-shows/reacher-season-4-streaming-chart/",
-      "date": "2026-08-20T21:19:35.399869+00:00",
+      "date": "2026-08-20T22:17:14.399398+00:00",
       "image": "https://www.thewrap.com/wp-content/uploads/2026/08/reacher-alan-ritchson-hanging-prime-video.jpg",
+      "important": false,
+      "score": 0
+    },
+    {
+      "id": "8ea49a8b2a05",
+      "title": {
+        "en": "Streaming Ratings: ‘Masters of the Universe’ Powers to No. 1 Debut",
+        "fa": "رتبه‌بندی‌های جریانی: «Masters of the Universe» قدرت اول را برای اولین بار دارد"
+      },
+      "excerpt": {
+        "en": "'The Hawk' and 'Ride or Die' are the two biggest original series for the week of July 20.",
+        "fa": "«شاهین» و «سوار یا بمیر» دو سریال اصلی هفته 20 جولای هستند."
+      },
+      "content": {
+        "en": "'The Hawk' and 'Ride or Die' are the two biggest original series for the week of July 20.",
+        "fa": "«شاهین» و «سوار یا بمیر» دو سریال اصلی هفته 20 جولای هستند."
+      },
+      "source": {
+        "en": "The Hollywood Reporter",
+        "fa": "The Hollywood Reporter"
+      },
+      "link": "https://www.hollywoodreporter.com/tv/tv-news/streaming-ratings-july-20-26-2026-1236678107/",
+      "date": "2026-08-20T22:17:14.395879+00:00",
+      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/05/MOTU_2026_UT_250331_KEYGIL_12674_R4_COMP_rgb-H-2026.jpg?w=1296&#038;h=730&#038;crop=1",
       "important": false,
       "score": 0
     },
@@ -501,80 +573,8 @@
         "fa": "Variety"
       },
       "link": "https://variety.com/2026/film/news/la-mayor-karen-bass-paramount-warner-bros-merger-settle-antitrust-case-1236839410/",
-      "date": "2026-08-20T21:19:35.395486+00:00",
+      "date": "2026-08-20T22:17:14.394834+00:00",
       "image": "https://variety.com/wp-content/uploads/2026/08/Karen-Bass.jpg",
-      "important": false,
-      "score": 0
-    },
-    {
-      "id": "31c4b31a198a",
-      "title": {
-        "en": "Judge Plans October Hearing In ABC’s First Amendment Lawsuit Against FCC, Says It Will Be Sooner If Agency Takes Action On Licenses",
-        "fa": "قاضی برنامه استماع ماه اکتبر را در اولین شکایت متمم ABC علیه FCC دارد، می گوید اگر آژانس در مورد مجوزها اقدام کند، زودتر خواهد بود."
-      },
-      "excerpt": {
-        "en": "UPDATED with hearing date: A federal judge had ordered a hearing in ABC’s First Amendment lawsuit against the FCC for sometime during the week of October 5. But U.S. District Judge Loren L. AliKhan signaled that there would a hearing sooner than that if the FCC took action on its review of ABC station licenses. […]",
-        "fa": "به روز شده با تاریخ استماع: یک قاضی فدرال دستور داده بود تا در هفته 5 اکتبر در شکایت متمم اول ABC علیه FCC جلسه استماع شود. اما قاضی ناحیه ایالات متحده، لورن ال. علی خان، اعلام کرد که اگر FCC در مورد بررسی مجوزهای ایستگاه ABC اقدام کند، زودتر از آن جلسه رسیدگی خواهد شد."
-      },
-      "content": {
-        "en": "UPDATED with hearing date: A federal judge had ordered a hearing in ABC’s First Amendment lawsuit against the FCC for sometime during the week of October 5. But U.S. District Judge Loren L. AliKhan signaled that there would a hearing sooner than that if the FCC took action on its review of ABC station licenses. […]",
-        "fa": "به روز شده با تاریخ استماع: یک قاضی فدرال دستور داده بود تا در هفته 5 اکتبر در شکایت متمم اول ABC علیه FCC جلسه استماع شود. اما قاضی ناحیه ایالات متحده، لورن ال. علی خان، اعلام کرد که اگر FCC در مورد بررسی مجوزهای ایستگاه ABC اقدام کند، زودتر از آن جلسه رسیدگی خواهد شد."
-      },
-      "source": {
-        "en": "Deadline",
-        "fa": "Deadline"
-      },
-      "link": "https://deadline.com/2026/08/abc-trump-fcc-lawsuit-hearing-1237046311/",
-      "date": "2026-08-20T21:19:35.392766+00:00",
-      "image": "https://deadline.com/wp-content/uploads/2026/08/Brendan-Carr_04cdd3.jpg",
-      "important": false,
-      "score": 0
-    },
-    {
-      "id": "c4f991b9b2e4",
-      "title": {
-        "en": "The ParaBros Backlash: Threats To Leave L.A. & An AG Who Won’t Back Down Divide Hollywood",
-        "fa": "واکنش منفی ParaBros: تهدیدات برای ترک لس آنجلس و یک AG که عقب نشینی نمی کند هالیوود را تقسیم می کند"
-      },
-      "excerpt": {
-        "en": "Paramount’s pending acquisition of Warner Bros Discovery has evoked a range of emotion in Hollywood, mainly fear among creatives at the planned merger of two more major studios. But now that uncertainty is tinged with panic after CEO David Ellison threatened to relocate his Los Angeles-based company to Tennessee, Texas or Georgia. Separately, the risks […]",
-        "fa": "خرید معلق پارامونت برای برادران وارنر دیسکاوری طیفی از احساسات را در هالیوود برانگیخته است، عمدتاً ترس در میان خلاقان در ادغام برنامه ریزی شده دو استودیو بزرگ دیگر. اما اکنون پس از تهدید مدیر عامل شرکت دیوید الیسون مبنی بر انتقال شرکت مستقر در لس آنجلس خود به تنسی، تگزاس یا جورجیا، این عدم اطمینان با وحشت همراه شده است. به طور جداگانه، خطرات"
-      },
-      "content": {
-        "en": "Paramount’s pending acquisition of Warner Bros Discovery has evoked a range of emotion in Hollywood, mainly fear among creatives at the planned merger of two more major studios. But now that uncertainty is tinged with panic after CEO David Ellison threatened to relocate his Los Angeles-based company to Tennessee, Texas or Georgia. Separately, the risks […]",
-        "fa": "خرید معلق پارامونت برای برادران وارنر دیسکاوری طیفی از احساسات را در هالیوود برانگیخته است، عمدتاً ترس در میان خلاقان در ادغام برنامه ریزی شده دو استودیو بزرگ دیگر. اما اکنون پس از تهدید مدیر عامل شرکت دیوید الیسون مبنی بر انتقال شرکت مستقر در لس آنجلس خود به تنسی، تگزاس یا جورجیا، این عدم اطمینان با وحشت همراه شده است. به طور جداگانه، خطرات"
-      },
-      "source": {
-        "en": "Deadline",
-        "fa": "Deadline"
-      },
-      "link": "https://deadline.com/2026/08/paramount-warner-bros-divides-hollwyood-threats-to-leave-1237045520/",
-      "date": "2026-08-20T21:19:35.391622+00:00",
-      "image": "https://deadline.com/wp-content/uploads/2026/08/Paramount.jpg",
-      "important": false,
-      "score": 0
-    },
-    {
-      "id": "2f8792a3e381",
-      "title": {
-        "en": "WGA Rips L.A. Mayor Karen Bass For Supporting “False Choice” In Paramount-WBD Merger Tangle",
-        "fa": "WGA شهردار لس‌آنجلس، کارن باس را برای حمایت از «انتخاب نادرست» در پارامونت-WBD Merger Tangle می‌کند."
-      },
-      "excerpt": {
-        "en": "The Writers Guild of America fired back at Los Angeles Mayor Karen Bass on Thursday after she expressed support for a settlement in the Paramount-Warner Bros. Discovery merger lawsuit. Bass joined other Democratic officials, including Gov. Gavin Newsom and his likely successor, Xavier Becerra, in urging negotiations in the antitrust lawsuit seeking to foil the […]",
-        "fa": "انجمن نویسندگان آمریکا روز پنجشنبه پس از اینکه کارن باس، شهردار لس آنجلس، از توافق در پرونده ادغام دیسکاوری پارامونت و برادران وارنر حمایت کرد، واکنش نشان داد. باس به دیگر مقامات دموکرات، از جمله فرماندار گاوین نیوسام و جانشین احتمالی او، خاویر بسرا، پیوست و خواستار مذاکره در دعوای ضد انحصار برای خنثی کردن این پرونده شد."
-      },
-      "content": {
-        "en": "The Writers Guild of America fired back at Los Angeles Mayor Karen Bass on Thursday after she expressed support for a settlement in the Paramount-Warner Bros. Discovery merger lawsuit. Bass joined other Democratic officials, including Gov. Gavin Newsom and his likely successor, Xavier Becerra, in urging negotiations in the antitrust lawsuit seeking to foil the […]",
-        "fa": "انجمن نویسندگان آمریکا روز پنجشنبه پس از اینکه کارن باس، شهردار لس آنجلس، از توافق در پرونده ادغام دیسکاوری پارامونت و برادران وارنر حمایت کرد، واکنش نشان داد. باس به دیگر مقامات دموکرات، از جمله فرماندار گاوین نیوسام و جانشین احتمالی او، خاویر بسرا، پیوست و خواستار مذاکره در دعوای ضد انحصار برای خنثی کردن این پرونده شد."
-      },
-      "source": {
-        "en": "Deadline",
-        "fa": "Deadline"
-      },
-      "link": "https://deadline.com/2026/08/wga-rips-la-mayor-karen-bass-paramount-wbd-merger-1237046818/",
-      "date": "2026-08-20T21:19:35.391305+00:00",
-      "image": "https://deadline.com/wp-content/uploads/2026/08/Karen-Bass.jpg",
       "important": false,
       "score": 0
     }
