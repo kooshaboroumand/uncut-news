@@ -1,52 +1,76 @@
 {
-  "updated_at": "2026-08-21T00:45:19.360399+00:00",
+  "updated_at": "2026-08-21T02:18:33.938695+00:00",
   "count": 24,
   "news": [
     {
-      "id": "862f70bb8e77",
+      "id": "58efd8eb981b",
       "title": {
-        "en": "‘Lanterns’ Premieres Among HBO Max’s Top Titles, Besting DC Studios Predecessor ‘The Penguin’",
-        "fa": "«Lanterns» در میان عناوین برتر HBO Max، بهترین فیلم «پنگوئن» از استودیوی دی سی"
+        "en": "‘Blue Eye Samurai’ Renewed For Third & Final Season At Netflix; Season 2 Gets Premiere Window — Watch The Teaser",
+        "fa": "«سامورایی چشم آبی» برای فصل سوم و آخر در نتفلیکس تمدید شد. فصل 2 اولین پنجره می شود - تیزر را تماشا کنید"
       },
       "excerpt": {
-        "en": "Lanterns is shining brightly on upon its series debut. The DC Studios series raked in 9.3 million global cross-platform viewers and 6.6 million in the U.S. in its first three days of availability on HBO and HBO Max, per Warner Bros. Discovery. With regard to streaming, it now ranks among the top five series premieres on […]",
-        "fa": "Lanterns در اولین سریال خود به خوبی می درخشد. مجموعه استودیوی دی سی در سه روز اول عرضه در HBO و HBO Max، 9.3 میلیون بیننده بین پلتفرم بین پلتفرم جهانی و 6.6 میلیون بیننده در ایالات متحده به دست آورد. با توجه به پخش جریانی، اکنون در بین پنج سریال برتر در رتبه بندی قرار می گیرد"
+        "en": "Mizu’s journey for justice is coming to an end as Blue Eye Samurai is renewed for a third and final season. On Thursday, Netflix announced the animated action series is ending after three seasons, while sharing the teaser and an January 2027 launch date for Season 2, which has recently finished production. Meanwhile, Season 3 […]",
+        "fa": "سفر میزو برای عدالت در حالی به پایان می رسد که سامورایی چشم آبی برای فصل سوم و آخرین فصل تمدید می شود. روز پنجشنبه، نتفلیکس اعلام کرد که سریال اکشن انیمیشن پس از سه فصل به پایان می رسد، در حالی که تیزر و تاریخ شروع ژانویه 2027 برای فصل دوم که به تازگی تولید آن به پایان رسیده است را به اشتراک گذاشت. در ضمن فصل 3"
       },
       "content": {
-        "en": "Lanterns is shining brightly on upon its series debut. The DC Studios series raked in 9.3 million global cross-platform viewers and 6.6 million in the U.S. in its first three days of availability on HBO and HBO Max, per Warner Bros. Discovery. With regard to streaming, it now ranks among the top five series premieres on […]",
-        "fa": "Lanterns در اولین سریال خود به خوبی می درخشد. مجموعه استودیوی دی سی در سه روز اول عرضه در HBO و HBO Max، 9.3 میلیون بیننده بین پلتفرم بین پلتفرم جهانی و 6.6 میلیون بیننده در ایالات متحده به دست آورد. با توجه به پخش جریانی، اکنون در بین پنج سریال برتر در رتبه بندی قرار می گیرد"
+        "en": "Mizu’s journey for justice is coming to an end as Blue Eye Samurai is renewed for a third and final season. On Thursday, Netflix announced the animated action series is ending after three seasons, while sharing the teaser and an January 2027 launch date for Season 2, which has recently finished production. Meanwhile, Season 3 […]",
+        "fa": "سفر میزو برای عدالت در حالی به پایان می رسد که سامورایی چشم آبی برای فصل سوم و آخرین فصل تمدید می شود. روز پنجشنبه، نتفلیکس اعلام کرد که سریال اکشن انیمیشن پس از سه فصل به پایان می رسد، در حالی که تیزر و تاریخ شروع ژانویه 2027 برای فصل دوم که به تازگی تولید آن به پایان رسیده است را به اشتراک گذاشت. در ضمن فصل 3"
       },
       "source": {
         "en": "Deadline",
         "fa": "Deadline"
       },
-      "link": "https://deadline.com/2026/08/lanterns-premiere-ratings-viewers-hbo-max-dc-studios-1237046768/",
-      "date": "2026-08-21T00:45:19.127149+00:00",
-      "image": "https://deadline.com/wp-content/uploads/2026/07/aaron-pierre-kyle-chandler.jpg",
+      "link": "https://deadline.com/2026/08/blue-eye-samurai-renewed-third-final-season-netflix-1237047184/",
+      "date": "2026-08-21T02:18:33.700483+00:00",
+      "image": "https://deadline.com/wp-content/uploads/2026/08/50_bes_202_R.jpg",
+      "important": true,
+      "score": 13
+    },
+    {
+      "id": "ca15ccfe4bb1",
+      "title": {
+        "en": "‘Lanterns’ Premiere Lights Up Strong Ratings on HBO, HBO Max",
+        "fa": "اولین نمایش «فانوس‌ها» در HBO، HBO Max رتبه‌بندی قوی‌تری را به نمایش می‌گذارد"
+      },
+      "excerpt": {
+        "en": "The DC series racks up more than 9 million viewers worldwide over its first three days.",
+        "fa": "سریال DC در سه روز اول بیش از 9 میلیون بیننده در سراسر جهان جذب کرده است."
+      },
+      "content": {
+        "en": "The DC series racks up more than 9 million viewers worldwide over its first three days.",
+        "fa": "سریال DC در سه روز اول بیش از 9 میلیون بیننده در سراسر جهان جذب کرده است."
+      },
+      "source": {
+        "en": "The Hollywood Reporter",
+        "fa": "The Hollywood Reporter"
+      },
+      "link": "https://www.hollywoodreporter.com/tv/tv-news/lanterns-premiere-ratings-hbo-max-1236678072/",
+      "date": "2026-08-21T02:18:33.707751+00:00",
+      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/05/aaron-pierre-kyle-chandler_0.jpg?w=1296&#038;h=730&#038;crop=1",
       "important": true,
       "score": 6
     },
     {
-      "id": "ecf1acaa053a",
+      "id": "02e2cf3e4288",
       "title": {
-        "en": "‘Outer Banks’ Creators Break Down Season 5’s “Earned” Ending, Supernatural Lean & JJ’s Presence",
-        "fa": "سازندگان «Outer Banks» فصل پنجم «Earned» پایان، Supernatural Lean و حضور JJ را شکست دادند"
+        "en": "‘Outer Banks’ Star Madison Bailey On Show’s “Lack Of Queer Representation,” Desire To Play LGBTQ Role: “I’ve Been Manifesting It”",
+        "fa": "‘Outer Banks’ Star Madison Bailey On Show’s “Lack Of Queer Representation,” Desire To Play LGBTQ Role: “I’ve Been Manifesting It”"
       },
       "excerpt": {
-        "en": "SPOILER ALERT: The story includes details about Season 5 of Netflix’s Outer Banks. There were a lot of full-circle elements in the fifth and final season of Outer Banks. The series ended the way it started, with a hurricane. Sarah (Madelyn Cline) wore a version of her iconic Midsummers white dress from Season 1 to […]",
-        "fa": "SPOILER ALERT: داستان شامل جزئیاتی در مورد فصل 5 سریال Outer Banks Netflix است. در فصل پنجم و آخر سریال Outer Banks عناصر کاملا دایره ای زیادی وجود داشت. سریال همانطور که شروع شد با طوفان به پایان رسید. سارا نسخه ای از لباس سفید نمادین Midsummers خود را از فصل اول تا"
+        "en": "With Outer Banks coming to an end, Madison Bailey wants to spread her wings as she contemplates the future of her career. The openly pansexual actress recently discussed the “lack of queer representation” on the Netflix show, which released its fifth and final season on Thursday, revealing that she wishes her character Kiara came out […]",
+        "fa": "با پایان یافتن Outer Banks، مدیسون بیلی می خواهد بال های خود را در حالی که به آینده شغلی خود فکر می کند باز کند. این بازیگر آشکارا پان‌جنس‌گرا اخیراً در مورد «عدم نمایش عجیب و غریب» در برنامه نت‌فلیکس که پنجمین و آخرین فصل آن در روز پنجشنبه منتشر شد، صحبت کرد و فاش کرد که ای کاش شخصیت او کیارا بیرون می‌آمد."
       },
       "content": {
-        "en": "SPOILER ALERT: The story includes details about Season 5 of Netflix’s Outer Banks. There were a lot of full-circle elements in the fifth and final season of Outer Banks. The series ended the way it started, with a hurricane. Sarah (Madelyn Cline) wore a version of her iconic Midsummers white dress from Season 1 to […]",
-        "fa": "SPOILER ALERT: داستان شامل جزئیاتی در مورد فصل 5 سریال Outer Banks Netflix است. در فصل پنجم و آخر سریال Outer Banks عناصر کاملا دایره ای زیادی وجود داشت. سریال همانطور که شروع شد با طوفان به پایان رسید. سارا نسخه ای از لباس سفید نمادین Midsummers خود را از فصل اول تا"
+        "en": "With Outer Banks coming to an end, Madison Bailey wants to spread her wings as she contemplates the future of her career. The openly pansexual actress recently discussed the “lack of queer representation” on the Netflix show, which released its fifth and final season on Thursday, revealing that she wishes her character Kiara came out […]",
+        "fa": "با پایان یافتن Outer Banks، مدیسون بیلی می خواهد بال های خود را در حالی که به آینده شغلی خود فکر می کند باز کند. این بازیگر آشکارا پان‌جنس‌گرا اخیراً در مورد «عدم نمایش عجیب و غریب» در برنامه نت‌فلیکس که پنجمین و آخرین فصل آن در روز پنجشنبه منتشر شد، صحبت کرد و فاش کرد که ای کاش شخصیت او کیارا بیرون می‌آمد."
       },
       "source": {
         "en": "Deadline",
         "fa": "Deadline"
       },
-      "link": "https://deadline.com/2026/08/outer-banks-season-5-ending-explained-by-creators-interview-1237044830/",
-      "date": "2026-08-21T00:45:19.124426+00:00",
-      "image": "https://deadline.com/wp-content/uploads/2026/06/Outer_Banks_n_S5_E3_00_00_26_03R.jpg",
+      "link": "https://deadline.com/2026/08/outer-banks-madison-bailey-lack-queer-representation-1237047181/",
+      "date": "2026-08-21T02:18:33.700314+00:00",
+      "image": "https://deadline.com/wp-content/uploads/2026/08/P107OMWA-e1787275456846.jpg",
       "important": true,
       "score": 6
     },
@@ -69,7 +93,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/news/trailers/monster-lizzie-borden-story-trailer-ryan-murphy-1235211644/",
-      "date": "2026-08-21T00:45:19.133734+00:00",
+      "date": "2026-08-21T02:18:33.710314+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/Monster__The_Lizzie_Borden_Story_n_S1_E2_00_37_26_19R.jpg?w=650",
       "important": true,
       "score": 4
@@ -93,7 +117,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/awards/predictions/hbo-emmy-campaign-perseverance-should-pay-off-1235211458/",
-      "date": "2026-08-21T00:45:19.133937+00:00",
+      "date": "2026-08-21T02:18:33.710519+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/2290751324.jpg?w=650",
       "important": false,
       "score": 3
@@ -117,7 +141,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/news/festivals/diego-luna-migrant-drama-ashes-sells-watermelon-pictures-1235211826/",
-      "date": "2026-08-21T00:45:19.133277+00:00",
+      "date": "2026-08-21T02:18:33.709870+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/05/Screenshot-2026-05-09-at-9.14.00 PM.png?w=650",
       "important": false,
       "score": 3
@@ -141,7 +165,7 @@
         "fa": "Variety"
       },
       "link": "https://variety.com/2026/tv/news/netflix-exec-andy-weil-amazon-head-of-comedy-1236839544/",
-      "date": "2026-08-21T00:45:19.129439+00:00",
+      "date": "2026-08-21T02:18:33.706327+00:00",
       "image": "https://variety.com/wp-content/uploads/2026/08/P101KPP2-e1787260897339.jpg",
       "important": false,
       "score": 3
@@ -165,7 +189,7 @@
         "fa": "Variety"
       },
       "link": "https://variety.com/2026/film/global/prime-video-2-billion-investment-latin-america-1236839446/",
-      "date": "2026-08-21T00:45:19.128350+00:00",
+      "date": "2026-08-21T02:18:33.705321+00:00",
       "image": "https://variety.com/wp-content/uploads/2026/08/event_24.jpeg",
       "important": false,
       "score": 3
@@ -189,32 +213,8 @@
         "fa": "Variety"
       },
       "link": "https://variety.com/2026/tv/news/star-trek-strange-new-worlds-puppet-episode-1236833011/",
-      "date": "2026-08-21T00:45:19.128128+00:00",
+      "date": "2026-08-21T02:18:33.705107+00:00",
       "image": "https://variety.com/wp-content/uploads/2026/08/SNW_405_JT_0704_0610_RT.jpg",
-      "important": false,
-      "score": 3
-    },
-    {
-      "id": "dea099366a74",
-      "title": {
-        "en": "Teyonah Parris Joins Gavin O’Connor’s Next Film ‘Running’ At Apple",
-        "fa": "Teyonah Parris به فیلم بعدی Gavin O'Connor با نام Running در اپل پیوست"
-      },
-      "excerpt": {
-        "en": "EXCLUSIVE: Teyonah Parris is joining the Apple Original Films pic Running from director Gavin O’Connor that stars Spike Fearn, Brian Tyree Henry and Rhea Seehorn. Bill Dubuque penned the script, which is based on a story by O’Connor and Dubuque. The film, a co-production between Makeready and Waffle Iron Entertainment, follows a homeless high school […]",
-        "fa": "اختصاصی: Teyonah Parris به فیلم Apple Original Films می‌پیوندد که توسط کارگردان Gavin O'Connor اجرا می‌شود و اسپایک فیرن، برایان تایری هنری و ریا سیهورن در آن بازی می‌کنند. بیل دوبوک این فیلمنامه را نوشته است که بر اساس داستانی از اوکانر و دوبوک ساخته شده است. این فیلم که محصول مشترک Makeready و Waffle Iron Entertainment است، یک دبیرستان بی خانمان را دنبال می کند."
-      },
-      "content": {
-        "en": "EXCLUSIVE: Teyonah Parris is joining the Apple Original Films pic Running from director Gavin O’Connor that stars Spike Fearn, Brian Tyree Henry and Rhea Seehorn. Bill Dubuque penned the script, which is based on a story by O’Connor and Dubuque. The film, a co-production between Makeready and Waffle Iron Entertainment, follows a homeless high school […]",
-        "fa": "اختصاصی: Teyonah Parris به فیلم Apple Original Films می‌پیوندد که توسط کارگردان Gavin O'Connor اجرا می‌شود و اسپایک فیرن، برایان تایری هنری و ریا سیهورن در آن بازی می‌کنند. بیل دوبوک این فیلمنامه را نوشته است که بر اساس داستانی از اوکانر و دوبوک ساخته شده است. این فیلم که محصول مشترک Makeready و Waffle Iron Entertainment است، یک دبیرستان بی خانمان را دنبال می کند."
-      },
-      "source": {
-        "en": "Deadline",
-        "fa": "Deadline"
-      },
-      "link": "https://deadline.com/2026/08/teyonah-parris-gavin-oconnor-running-1237046706/",
-      "date": "2026-08-21T00:45:19.127034+00:00",
-      "image": "https://deadline.com/wp-content/uploads/2026/08/Teyonah-Parris-and-Gavin-OConnor.jpg",
       "important": false,
       "score": 3
     },
@@ -237,7 +237,7 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/hacks-costume-designer-interview-season-5-1237046866/",
-      "date": "2026-08-21T00:45:19.126142+00:00",
+      "date": "2026-08-21T02:18:33.703724+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/Screenshot-2026-08-20-at-1.50.03-PM.png",
       "important": false,
       "score": 3
@@ -261,8 +261,32 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/california-film-tax-credits-latest-1237045968/",
-      "date": "2026-08-21T00:45:19.125554+00:00",
+      "date": "2026-08-21T02:18:33.703134+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/Sacramento-.jpg",
+      "important": false,
+      "score": 3
+    },
+    {
+      "id": "b4a73c700eba",
+      "title": {
+        "en": "Trouble In Paradise: John Ross Bowie & Brian Posehn On Who Ruined Utopia In ‘Stuart Fails’ E5",
+        "fa": "مشکل در بهشت: جان راس بووی و برایان پوسن درباره چه کسی اتوپیا را در «استوارت شکست می‌خورد» E5"
+      },
+      "excerpt": {
+        "en": "SPOILER ALERT: The story includes details about Episode 5 of HBO Max’s Stuart Fails To Save the Universe. In Episode 5 of Big Bang Theory spinoff Stuart Fails To Save the Universe, our quartet of inter-dimensional travelers Stuart Bloom (Kevin Sussman), Denise (Lauren Lapkus), Bert (Brian Posehn) and Barry Kripke (John Ross Bowie), land in […]",
+        "fa": "SPOILER ALERT: داستان شامل جزئیات قسمت 5 سریال HBO Max استوارت در نجات جهان نیست. در قسمت 5 اسپین آف بیگ بنگ تئوری استوارت موفق به نجات جهان نمی شود، چهار نفر از مسافران بین بعدی ما استوارت بلوم، دنیز، برت و بری کریپکه در"
+      },
+      "content": {
+        "en": "SPOILER ALERT: The story includes details about Episode 5 of HBO Max’s Stuart Fails To Save the Universe. In Episode 5 of Big Bang Theory spinoff Stuart Fails To Save the Universe, our quartet of inter-dimensional travelers Stuart Bloom (Kevin Sussman), Denise (Lauren Lapkus), Bert (Brian Posehn) and Barry Kripke (John Ross Bowie), land in […]",
+        "fa": "SPOILER ALERT: داستان شامل جزئیات قسمت 5 سریال HBO Max استوارت در نجات جهان نیست. در قسمت 5 اسپین آف بیگ بنگ تئوری استوارت موفق به نجات جهان نمی شود، چهار نفر از مسافران بین بعدی ما استوارت بلوم، دنیز، برت و بری کریپکه در"
+      },
+      "source": {
+        "en": "Deadline",
+        "fa": "Deadline"
+      },
+      "link": "https://deadline.com/2026/08/stuart-fails-john-ross-bowie-brian-posehn-episode-5-1237047095/",
+      "date": "2026-08-21T02:18:33.700854+00:00",
+      "image": "https://deadline.com/wp-content/uploads/2026/08/stuart-copy.jpg",
       "important": false,
       "score": 3
     },
@@ -285,7 +309,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/news/trailers/chronovisor-movie-trailer-1235211641/",
-      "date": "2026-08-21T00:45:19.133615+00:00",
+      "date": "2026-08-21T02:18:33.710192+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/MCDCHRO_EC087.jpg?w=650",
       "important": false,
       "score": 1
@@ -309,7 +333,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/features/craft/the-top-chef-reality-show-casting-interview-1235211638/",
-      "date": "2026-08-21T00:45:19.132658+00:00",
+      "date": "2026-08-21T02:18:33.709285+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/NUP_208397_02672.jpg?w=650",
       "important": false,
       "score": 1
@@ -333,7 +357,7 @@
         "fa": "The Hollywood Reporter"
       },
       "link": "https://www.hollywoodreporter.com/lifestyle/lifestyle-news/best-peacock-subscription-streaming-deal-1235500478/",
-      "date": "2026-08-21T00:45:19.131674+00:00",
+      "date": "2026-08-21T02:18:33.708282+00:00",
       "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/03/The-Best-Peacock-Subscription-Deals-and-Free-Trial-Hacks-MAIN.jpg?w=1296&#038;h=730&#038;crop=1",
       "important": false,
       "score": 1
@@ -346,18 +370,18 @@
       },
       "excerpt": {
         "en": "Dave Bautista has closed his deal to play Kratos in Prime Video’s God of War fantasy drama series. Series co-studios Amazon MGM Studios and Sony Pictures Television reached out to Bautista and initiated talks shortly after they had made a decision to recast the role following original lead Ryan Hurst’s serious on-set injury. As Deadline […]",
-        "fa": "دیو باتیستا قرارداد خود را برای ایفای نقش کریتوس در سریال درام فانتزی God of War Prime Video بسته است. استودیوهای مشترک سری آمازون ام جی ام استودیو و تلویزیون سونی پیکچرز با باوتیستا تماس گرفتند و مدت کوتاهی پس از اینکه تصمیم گرفتند نقش را پس از مجروحیت جدی رایان هرست در سر صحنه فیلمبرداری دوباره ایفا کنند، مذاکرات را آغاز کردند. به عنوان مهلت"
+        "fa": "دیو باتیستا قرارداد خود را برای ایفای نقش کریتوس در سریال درام فانتزی خدای جنگ Prime Video بسته است. استودیوهای مشترک سری آمازون ام‌جی‌ام و تلویزیون سونی پیکچرز با باوتیستا تماس گرفتند و مدت کوتاهی پس از تصمیم‌گیری برای تغییر نقش پس از مجروحیت جدی رایان هرست در سر صحنه، مذاکرات را آغاز کردند. به عنوان مهلت"
       },
       "content": {
         "en": "Dave Bautista has closed his deal to play Kratos in Prime Video’s God of War fantasy drama series. Series co-studios Amazon MGM Studios and Sony Pictures Television reached out to Bautista and initiated talks shortly after they had made a decision to recast the role following original lead Ryan Hurst’s serious on-set injury. As Deadline […]",
-        "fa": "دیو باتیستا قرارداد خود را برای ایفای نقش کریتوس در سریال درام فانتزی God of War Prime Video بسته است. استودیوهای مشترک سری آمازون ام جی ام استودیو و تلویزیون سونی پیکچرز با باوتیستا تماس گرفتند و مدت کوتاهی پس از اینکه تصمیم گرفتند نقش را پس از مجروحیت جدی رایان هرست در سر صحنه فیلمبرداری دوباره ایفا کنند، مذاکرات را آغاز کردند. به عنوان مهلت"
+        "fa": "دیو باتیستا قرارداد خود را برای ایفای نقش کریتوس در سریال درام فانتزی خدای جنگ Prime Video بسته است. استودیوهای مشترک سری آمازون ام‌جی‌ام و تلویزیون سونی پیکچرز با باوتیستا تماس گرفتند و مدت کوتاهی پس از تصمیم‌گیری برای تغییر نقش پس از مجروحیت جدی رایان هرست در سر صحنه، مذاکرات را آغاز کردند. به عنوان مهلت"
       },
       "source": {
         "en": "Deadline",
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/dave-bautista-cast-kratos-god-of-war-amazon-series-recast-1237046959/",
-      "date": "2026-08-21T00:45:19.125249+00:00",
+      "date": "2026-08-21T02:18:33.702833+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/Dave-Bautista-Kratos-from-God-of-War.jpg",
       "important": false,
       "score": 1
@@ -381,7 +405,7 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/spider-man-insidious-out-of-the-further-global-box-office-1237046811/",
-      "date": "2026-08-21T00:45:19.125040+00:00",
+      "date": "2026-08-21T02:18:33.702631+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/Insidious-Out-of-the-Further-and-Spider-Man-Brand-New-Day.jpg",
       "important": false,
       "score": 1
@@ -405,7 +429,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/news/breaking-news/san-francisco-portal-cinema-opening-fall-2026-1235211735/",
-      "date": "2026-08-21T00:45:19.133167+00:00",
+      "date": "2026-08-21T02:18:33.709759+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/Portal_rendering-by-Stephen-Atkinson.jpeg?w=650",
       "important": false,
       "score": 0
@@ -429,7 +453,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/criticism/movies/it-ends-indie-horror-movie-review-1235101708/",
-      "date": "2026-08-21T00:45:19.132954+00:00",
+      "date": "2026-08-21T02:18:33.709552+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2025/03/it-ends-318958.jpeg?w=650",
       "important": false,
       "score": 0
@@ -442,18 +466,18 @@
       },
       "excerpt": {
         "en": "Leslie Mann, Isla Fisher, Michelle Buteau, and Anna Faris make for a spirited foursome in \"The Hangover\" writers and \"Bad Moms\" filmmakers Jon Lucas and Scott Moore's messy, unhinged, sometimes funny new film.",
-        "fa": "لسلی مان، ایسلا فیشر، میشل بوتو و آنا فاریس در فیلم جدید ژان لوکاس، فیلمسازان «مامان‌های بد» و جان لوکاس و اسکات مور، چهار نفری پرشور را تشکیل می‌دهند."
+        "fa": "لزلی مان، ایسلا فیشر، میشل بوتو و آنا فاریس در فیلم جدید ژولیده، بی‌هیچ و گاهی خنده‌دار، نویسندگان «خماری» و فیلم‌سازان «مامان‌های بد»، جون لوکاس و اسکات مور، چهار نفری پرشور را تشکیل می‌دهند."
       },
       "content": {
         "en": "Leslie Mann, Isla Fisher, Michelle Buteau, and Anna Faris make for a spirited foursome in \"The Hangover\" writers and \"Bad Moms\" filmmakers Jon Lucas and Scott Moore's messy, unhinged, sometimes funny new film.",
-        "fa": "لسلی مان، ایسلا فیشر، میشل بوتو و آنا فاریس در فیلم جدید ژان لوکاس، فیلمسازان «مامان‌های بد» و جان لوکاس و اسکات مور، چهار نفری پرشور را تشکیل می‌دهند."
+        "fa": "لزلی مان، ایسلا فیشر، میشل بوتو و آنا فاریس در فیلم جدید ژولیده، بی‌هیچ و گاهی خنده‌دار، نویسندگان «خماری» و فیلم‌سازان «مامان‌های بد»، جون لوکاس و اسکات مور، چهار نفری پرشور را تشکیل می‌دهند."
       },
       "source": {
         "en": "IndieWire",
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/criticism/movies/spa-weekend-review-leslie-mann-isla-fisher-michelle-buteau-1235211346/",
-      "date": "2026-08-21T00:45:19.131942+00:00",
+      "date": "2026-08-21T02:18:33.708551+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/bf1ab8bc408ccac7cdff2b637cf9f6cae1181667-8192x5464-1.avif?w=650",
       "important": false,
       "score": 0
@@ -477,32 +501,8 @@
         "fa": "The Hollywood Reporter"
       },
       "link": "https://www.hollywoodreporter.com/tv/tv-news/streaming-ratings-july-20-26-2026-1236678107/",
-      "date": "2026-08-21T00:45:19.131060+00:00",
+      "date": "2026-08-21T02:18:33.707655+00:00",
       "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/05/MOTU_2026_UT_250331_KEYGIL_12674_R4_COMP_rgb-H-2026.jpg?w=1296&#038;h=730&#038;crop=1",
-      "important": false,
-      "score": 0
-    },
-    {
-      "id": "157894f3b369",
-      "title": {
-        "en": "TV Vet Chuck Saftler to Depart Disney and FX After Nearly 33 Years",
-        "fa": "تلویزیون دامپزشک چاک سافتلر پس از نزدیک به 33 سال دیزنی و FX را ترک می کند"
-      },
-      "excerpt": {
-        "en": "Longtime TV exec Chuck Saftler, who helped build FX into the powerhouse it is — having joined the company in 1993, prior to its before its June 1994 launch date — is departing the company after nearly 33 years. The well-regarded Saftler most recently served as head of acquisitions for Disney networks including ABC, Freeform, […]",
-        "fa": "چاک سافتلر، مدیر قدیمی تلویزیون، که به ساخت FX در نیروگاهی که هست کمک کرد - که در سال 1993 به شرکت ملحق شد، قبل از تاریخ راه اندازی آن در ژوئن 1994 - پس از نزدیک به 33 سال شرکت را ترک می کند. Saftler شناخته شده اخیراً به عنوان رئیس خرید شبکه های دیزنی از جمله ABC، Freeform،"
-      },
-      "content": {
-        "en": "Longtime TV exec Chuck Saftler, who helped build FX into the powerhouse it is — having joined the company in 1993, prior to its before its June 1994 launch date — is departing the company after nearly 33 years. The well-regarded Saftler most recently served as head of acquisitions for Disney networks including ABC, Freeform, […]",
-        "fa": "چاک سافتلر، مدیر قدیمی تلویزیون، که به ساخت FX در نیروگاهی که هست کمک کرد - که در سال 1993 به شرکت ملحق شد، قبل از تاریخ راه اندازی آن در ژوئن 1994 - پس از نزدیک به 33 سال شرکت را ترک می کند. Saftler شناخته شده اخیراً به عنوان رئیس خرید شبکه های دیزنی از جمله ABC، Freeform،"
-      },
-      "source": {
-        "en": "Variety",
-        "fa": "Variety"
-      },
-      "link": "https://variety.com/2026/tv/news/chuck-saftler-to-depart-disney-and-fx-1236839456/",
-      "date": "2026-08-21T00:45:19.129996+00:00",
-      "image": "https://variety.com/wp-content/uploads/2026/08/P1162OY3.jpg",
       "important": false,
       "score": 0
     },
@@ -525,7 +525,7 @@
         "fa": "Variety"
       },
       "link": "https://variety.com/2026/film/news/lawmakers-film-industry-tax-fix-1236839543/",
-      "date": "2026-08-21T00:45:19.129236+00:00",
+      "date": "2026-08-21T02:18:33.706134+00:00",
       "image": "https://variety.com/wp-content/uploads/2015/12/sacramento-california-state-capitol-legislature-2.jpg",
       "important": false,
       "score": 0
@@ -534,7 +534,7 @@
       "id": "607f3706a860",
       "title": {
         "en": "Jaafar Jackson: ‘Michael’ Sequel Will Give ‘More Insight’ Into Child Abuse Allegations and ‘Let His Voice Be Heard’",
-        "fa": "Jaafar Jackson: ‘Michael’ Sequel Will Give ‘More Insight’ Into Child Abuse Allegations and ‘Let His Voice Be Heard’"
+        "fa": "جعفر جکسون: دنباله «مایکل» در مورد اتهامات کودک آزاری و «صدای او شنیده شود» «بینش بیشتری» ارائه خواهد کرد."
       },
       "excerpt": {
         "en": "Now that the second “Michael” movie is closer to starting production, star Jaafar Jackson says it will indeed address the criticisms and child abuse allegations Michael Jackson faced in the ’90s. Michael Jackson’s nephew Jaafar Jackson says that while he doesn’t have much say in how the screenplay is written, he tells GQ Middle East […]",
@@ -549,32 +549,32 @@
         "fa": "Variety"
       },
       "link": "https://variety.com/2026/film/news/jaafar-jackson-michael-sequel-insight-child-abuse-allegations-1236839600/",
-      "date": "2026-08-21T00:45:19.127495+00:00",
+      "date": "2026-08-21T02:18:33.704520+00:00",
       "image": "https://variety.com/wp-content/uploads/2026/04/maven-trailer-grab-00001r2.jpg",
       "important": false,
       "score": 0
     },
     {
-      "id": "c4f991b9b2e4",
+      "id": "6bd0ad0dc583",
       "title": {
-        "en": "The ParaBros Backlash: Threats To Leave L.A. & An AG Who Won’t Back Down Divide Hollywood",
-        "fa": "واکنش منفی ParaBros: تهدیدات برای ترک لس آنجلس و یک AG که عقب نشینی نمی کند هالیوود را تقسیم می کند"
+        "en": "Chris Hansen Says He Refused to Sign His Rights Away in Order to Screen Robert Pattinson’s ‘Primetime’",
+        "fa": "کریس هنسن می‌گوید برای نمایش فیلم «Primetime» رابرت پتینسون از امضای حقوق خود امتناع کرده است."
       },
       "excerpt": {
-        "en": "Paramount’s pending acquisition of Warner Bros Discovery has evoked a range of emotion in Hollywood, mainly fear among creatives at the planned merger of two more major studios. But now that uncertainty is tinged with panic after CEO David Ellison threatened to relocate his Los Angeles-based company to Tennessee, Texas or Georgia. Separately, the risks […]",
-        "fa": "خرید معلق پارامونت برای برادران وارنر دیسکاوری طیفی از احساسات را در هالیوود برانگیخته است، عمدتاً ترس در میان خلاقان در ادغام برنامه ریزی شده دو استودیو بزرگ دیگر. اما اکنون پس از تهدید مدیر عامل شرکت دیوید الیسون مبنی بر انتقال شرکت مستقر در لس آنجلس خود به تنسی، تگزاس یا جورجیا، این عدم اطمینان با وحشت همراه شده است. به طور جداگانه، خطرات"
+        "en": "Chris Hansen didn’t get to take a seat for the new A24 movie “Primetime.” The 66-year-old veteran journalist went to the offices of indie distributor A24 to watch the Lance Oppenheim film, in which he is played by Robert Pattinson, before it bows at the Venice Film Festival. He left without seeing it. The former […]",
+        "fa": "کریس هنسن نتوانست برای فیلم جدید A24 «Primetime» بنشیند. این روزنامه‌نگار کهنه‌کار 66 ساله برای تماشای فیلم لنس اوپنهایم که در آن رابرت پتینسون بازی می‌کند، به دفاتر توزیع‌کننده مستقل A24 رفت، قبل از اینکه در جشنواره فیلم ونیز تعظیم کند. بدون دیدنش رفت. سابق"
       },
       "content": {
-        "en": "Paramount’s pending acquisition of Warner Bros Discovery has evoked a range of emotion in Hollywood, mainly fear among creatives at the planned merger of two more major studios. But now that uncertainty is tinged with panic after CEO David Ellison threatened to relocate his Los Angeles-based company to Tennessee, Texas or Georgia. Separately, the risks […]",
-        "fa": "خرید معلق پارامونت برای برادران وارنر دیسکاوری طیفی از احساسات را در هالیوود برانگیخته است، عمدتاً ترس در میان خلاقان در ادغام برنامه ریزی شده دو استودیو بزرگ دیگر. اما اکنون پس از تهدید مدیر عامل شرکت دیوید الیسون مبنی بر انتقال شرکت مستقر در لس آنجلس خود به تنسی، تگزاس یا جورجیا، این عدم اطمینان با وحشت همراه شده است. به طور جداگانه، خطرات"
+        "en": "Chris Hansen didn’t get to take a seat for the new A24 movie “Primetime.” The 66-year-old veteran journalist went to the offices of indie distributor A24 to watch the Lance Oppenheim film, in which he is played by Robert Pattinson, before it bows at the Venice Film Festival. He left without seeing it. The former […]",
+        "fa": "کریس هنسن نتوانست برای فیلم جدید A24 «Primetime» بنشیند. این روزنامه‌نگار کهنه‌کار 66 ساله برای تماشای فیلم لنس اوپنهایم که در آن رابرت پتینسون بازی می‌کند، به دفاتر توزیع‌کننده مستقل A24 رفت، قبل از اینکه در جشنواره فیلم ونیز تعظیم کند. بدون دیدنش رفت. سابق"
       },
       "source": {
-        "en": "Deadline",
-        "fa": "Deadline"
+        "en": "Variety",
+        "fa": "Variety"
       },
-      "link": "https://deadline.com/2026/08/paramount-warner-bros-divides-hollwyood-threats-to-leave-1237045520/",
-      "date": "2026-08-21T00:45:19.126712+00:00",
-      "image": "https://deadline.com/wp-content/uploads/2026/08/Paramount.jpg",
+      "link": "https://variety.com/2026/film/awards/chris-hansen-a24-primetime-screening-refused-1236839630/",
+      "date": "2026-08-21T02:18:33.704168+00:00",
+      "image": "https://variety.com/wp-content/uploads/2026/08/Chris-Hansen-Primetime.jpg",
       "important": false,
       "score": 0
     }
