@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-21T02:18:33.938695+00:00",
+  "updated_at": "2026-08-21T03:42:52.420122+00:00",
   "count": 24,
   "news": [
     {
@@ -21,7 +21,7 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/blue-eye-samurai-renewed-third-final-season-netflix-1237047184/",
-      "date": "2026-08-21T02:18:33.700483+00:00",
+      "date": "2026-08-21T03:42:52.155608+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/50_bes_202_R.jpg",
       "important": true,
       "score": 13
@@ -45,7 +45,7 @@
         "fa": "The Hollywood Reporter"
       },
       "link": "https://www.hollywoodreporter.com/tv/tv-news/lanterns-premiere-ratings-hbo-max-1236678072/",
-      "date": "2026-08-21T02:18:33.707751+00:00",
+      "date": "2026-08-21T03:42:52.163377+00:00",
       "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/05/aaron-pierre-kyle-chandler_0.jpg?w=1296&#038;h=730&#038;crop=1",
       "important": true,
       "score": 6
@@ -54,7 +54,7 @@
       "id": "02e2cf3e4288",
       "title": {
         "en": "‘Outer Banks’ Star Madison Bailey On Show’s “Lack Of Queer Representation,” Desire To Play LGBTQ Role: “I’ve Been Manifesting It”",
-        "fa": "‘Outer Banks’ Star Madison Bailey On Show’s “Lack Of Queer Representation,” Desire To Play LGBTQ Role: “I’ve Been Manifesting It”"
+        "fa": "مدیسون بیلی، ستاره «Outer Banks» در سریال «عدم نمایش عجیب و غریب»، تمایل به ایفای نقش LGBTQ: «من آن را نشان داده‌ام»"
       },
       "excerpt": {
         "en": "With Outer Banks coming to an end, Madison Bailey wants to spread her wings as she contemplates the future of her career. The openly pansexual actress recently discussed the “lack of queer representation” on the Netflix show, which released its fifth and final season on Thursday, revealing that she wishes her character Kiara came out […]",
@@ -69,7 +69,7 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/outer-banks-madison-bailey-lack-queer-representation-1237047181/",
-      "date": "2026-08-21T02:18:33.700314+00:00",
+      "date": "2026-08-21T03:42:52.155495+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/P107OMWA-e1787275456846.jpg",
       "important": true,
       "score": 6
@@ -93,7 +93,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/news/trailers/monster-lizzie-borden-story-trailer-ryan-murphy-1235211644/",
-      "date": "2026-08-21T02:18:33.710314+00:00",
+      "date": "2026-08-21T03:42:52.165417+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/Monster__The_Lizzie_Borden_Story_n_S1_E2_00_37_26_19R.jpg?w=650",
       "important": true,
       "score": 4
@@ -117,7 +117,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/awards/predictions/hbo-emmy-campaign-perseverance-should-pay-off-1235211458/",
-      "date": "2026-08-21T02:18:33.710519+00:00",
+      "date": "2026-08-21T03:42:52.165602+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/2290751324.jpg?w=650",
       "important": false,
       "score": 3
@@ -141,8 +141,32 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/news/festivals/diego-luna-migrant-drama-ashes-sells-watermelon-pictures-1235211826/",
-      "date": "2026-08-21T02:18:33.709870+00:00",
+      "date": "2026-08-21T03:42:52.164941+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/05/Screenshot-2026-05-09-at-9.14.00 PM.png?w=650",
+      "important": false,
+      "score": 3
+    },
+    {
+      "id": "d1fd8f1dd251",
+      "title": {
+        "en": "Neon Sets Early Premium-Format Release for Na Hong-jin’s ‘Hope’ (Exclusive)",
+        "fa": "نئون نسخه اولیه با فرمت ممتاز را برای «Hope» Na Hong-jin تنظیم می کند"
+      },
+      "excerpt": {
+        "en": "The Korean action spectacle, now opening on Sept. 7 at 175 large-format locations, was one of the buzziest films to emerge from this year's Cannes Film Festival, where THR's critic hailed it an “instant cult classic.”",
+        "fa": "نمایش اکشن کره‌ای که اکنون در 7 سپتامبر در 175 مکان بزرگ اکران می‌شود، یکی از پرهیاهوترین فیلم‌هایی بود که از جشنواره فیلم کن امسال ظاهر شد، جایی که منتقد THR آن را یک «کلاسیک کالت فوری» توصیف کرد."
+      },
+      "content": {
+        "en": "The Korean action spectacle, now opening on Sept. 7 at 175 large-format locations, was one of the buzziest films to emerge from this year's Cannes Film Festival, where THR's critic hailed it an “instant cult classic.”",
+        "fa": "نمایش اکشن کره‌ای که اکنون در 7 سپتامبر در 175 مکان بزرگ اکران می‌شود، یکی از پرهیاهوترین فیلم‌هایی بود که از جشنواره فیلم کن امسال ظاهر شد، جایی که منتقد THR آن را یک «کلاسیک کالت فوری» توصیف کرد."
+      },
+      "source": {
+        "en": "The Hollywood Reporter",
+        "fa": "The Hollywood Reporter"
+      },
+      "link": "https://www.hollywoodreporter.com/movies/movie-news/neon-premium-format-release-na-hong-jin-hope-1236678228/",
+      "date": "2026-08-21T03:42:52.161986+00:00",
+      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/05/HOPE-MCDHOPE_EC035-H-2026.jpg?w=1296&#038;h=730&#038;crop=1",
       "important": false,
       "score": 3
     },
@@ -165,7 +189,7 @@
         "fa": "Variety"
       },
       "link": "https://variety.com/2026/tv/news/netflix-exec-andy-weil-amazon-head-of-comedy-1236839544/",
-      "date": "2026-08-21T02:18:33.706327+00:00",
+      "date": "2026-08-21T03:42:52.161231+00:00",
       "image": "https://variety.com/wp-content/uploads/2026/08/P101KPP2-e1787260897339.jpg",
       "important": false,
       "score": 3
@@ -189,7 +213,7 @@
         "fa": "Variety"
       },
       "link": "https://variety.com/2026/film/global/prime-video-2-billion-investment-latin-america-1236839446/",
-      "date": "2026-08-21T02:18:33.705321+00:00",
+      "date": "2026-08-21T03:42:52.160152+00:00",
       "image": "https://variety.com/wp-content/uploads/2026/08/event_24.jpeg",
       "important": false,
       "score": 3
@@ -213,7 +237,7 @@
         "fa": "Variety"
       },
       "link": "https://variety.com/2026/tv/news/star-trek-strange-new-worlds-puppet-episode-1236833011/",
-      "date": "2026-08-21T02:18:33.705107+00:00",
+      "date": "2026-08-21T03:42:52.159938+00:00",
       "image": "https://variety.com/wp-content/uploads/2026/08/SNW_405_JT_0704_0610_RT.jpg",
       "important": false,
       "score": 3
@@ -237,7 +261,7 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/hacks-costume-designer-interview-season-5-1237046866/",
-      "date": "2026-08-21T02:18:33.703724+00:00",
+      "date": "2026-08-21T03:42:52.158837+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/Screenshot-2026-08-20-at-1.50.03-PM.png",
       "important": false,
       "score": 3
@@ -261,7 +285,7 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/california-film-tax-credits-latest-1237045968/",
-      "date": "2026-08-21T02:18:33.703134+00:00",
+      "date": "2026-08-21T03:42:52.158276+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/Sacramento-.jpg",
       "important": false,
       "score": 3
@@ -285,7 +309,7 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/stuart-fails-john-ross-bowie-brian-posehn-episode-5-1237047095/",
-      "date": "2026-08-21T02:18:33.700854+00:00",
+      "date": "2026-08-21T03:42:52.155964+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/stuart-copy.jpg",
       "important": false,
       "score": 3
@@ -309,7 +333,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/news/trailers/chronovisor-movie-trailer-1235211641/",
-      "date": "2026-08-21T02:18:33.710192+00:00",
+      "date": "2026-08-21T03:42:52.165293+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/MCDCHRO_EC087.jpg?w=650",
       "important": false,
       "score": 1
@@ -333,32 +357,8 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/features/craft/the-top-chef-reality-show-casting-interview-1235211638/",
-      "date": "2026-08-21T02:18:33.709285+00:00",
+      "date": "2026-08-21T03:42:52.164377+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/NUP_208397_02672.jpg?w=650",
-      "important": false,
-      "score": 1
-    },
-    {
-      "id": "f31aa477dc67",
-      "title": {
-        "en": "Peacock Plans Get Another Price Hike — Here Are the Best Subscription Deals and Free Trial Hacks",
-        "fa": "برنامه‌های Peacock افزایش قیمت دیگری دریافت می‌کنند — در اینجا بهترین تخفیف‌های اشتراک و هک‌های آزمایشی رایگان وجود دارد"
-      },
-      "excerpt": {
-        "en": "See how deal-savvy streamers can save on the NBCUniversal-owned service, including three little-known ways to get it for free.",
-        "fa": "مشاهده کنید که پخش‌کننده‌های هوشمند چگونه می‌توانند در سرویس متعلق به NBCUniversal صرفه‌جویی کنند، از جمله سه روش کمتر شناخته شده برای دریافت رایگان آن."
-      },
-      "content": {
-        "en": "See how deal-savvy streamers can save on the NBCUniversal-owned service, including three little-known ways to get it for free.",
-        "fa": "مشاهده کنید که پخش‌کننده‌های هوشمند چگونه می‌توانند در سرویس متعلق به NBCUniversal صرفه‌جویی کنند، از جمله سه روش کمتر شناخته شده برای دریافت رایگان آن."
-      },
-      "source": {
-        "en": "The Hollywood Reporter",
-        "fa": "The Hollywood Reporter"
-      },
-      "link": "https://www.hollywoodreporter.com/lifestyle/lifestyle-news/best-peacock-subscription-streaming-deal-1235500478/",
-      "date": "2026-08-21T02:18:33.708282+00:00",
-      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/03/The-Best-Peacock-Subscription-Deals-and-Free-Trial-Hacks-MAIN.jpg?w=1296&#038;h=730&#038;crop=1",
       "important": false,
       "score": 1
     },
@@ -369,19 +369,19 @@
         "fa": "دیو باتیستا قرار است نقش کریتوس را در «خدای جنگ» بازی کند، در حالی که سریال آمازون نقش اصلی را بازنشر می کند."
       },
       "excerpt": {
-        "en": "Dave Bautista has closed his deal to play Kratos in Prime Video’s God of War fantasy drama series. Series co-studios Amazon MGM Studios and Sony Pictures Television reached out to Bautista and initiated talks shortly after they had made a decision to recast the role following original lead Ryan Hurst’s serious on-set injury. As Deadline […]",
-        "fa": "دیو باتیستا قرارداد خود را برای ایفای نقش کریتوس در سریال درام فانتزی خدای جنگ Prime Video بسته است. استودیوهای مشترک سری آمازون ام‌جی‌ام و تلویزیون سونی پیکچرز با باوتیستا تماس گرفتند و مدت کوتاهی پس از تصمیم‌گیری برای تغییر نقش پس از مجروحیت جدی رایان هرست در سر صحنه، مذاکرات را آغاز کردند. به عنوان مهلت"
+        "en": "Dave Bautista has closed his deal to play Kratos in Prime Video’s God of War fantasy drama series. Series co-studios Amazon MGM Studios and Sony Pictures Television reached out to Bautista and initiated talks shortly after they made the decision to recast the role following original lead Ryan Hurst’s serious on-set injury. As Deadline reported, […]",
+        "fa": "دیو باتیستا قرارداد خود را برای ایفای نقش کریتوس در سریال درام فانتزی خدای جنگ Prime Video بسته است. استودیوهای مشترک سری آمازون ام جی ام استودیو و تلویزیون سونی پیکچرز با باوتیستا تماس گرفتند و مدت کوتاهی پس از اینکه تصمیم گرفتند نقش را پس از مجروحیت جدی رایان هرست در صحنه فیلم‌برداری دوباره بازی کنند، مذاکرات را آغاز کردند. همانطور که ددلاین گزارش داد،"
       },
       "content": {
-        "en": "Dave Bautista has closed his deal to play Kratos in Prime Video’s God of War fantasy drama series. Series co-studios Amazon MGM Studios and Sony Pictures Television reached out to Bautista and initiated talks shortly after they had made a decision to recast the role following original lead Ryan Hurst’s serious on-set injury. As Deadline […]",
-        "fa": "دیو باتیستا قرارداد خود را برای ایفای نقش کریتوس در سریال درام فانتزی خدای جنگ Prime Video بسته است. استودیوهای مشترک سری آمازون ام‌جی‌ام و تلویزیون سونی پیکچرز با باوتیستا تماس گرفتند و مدت کوتاهی پس از تصمیم‌گیری برای تغییر نقش پس از مجروحیت جدی رایان هرست در سر صحنه، مذاکرات را آغاز کردند. به عنوان مهلت"
+        "en": "Dave Bautista has closed his deal to play Kratos in Prime Video’s God of War fantasy drama series. Series co-studios Amazon MGM Studios and Sony Pictures Television reached out to Bautista and initiated talks shortly after they made the decision to recast the role following original lead Ryan Hurst’s serious on-set injury. As Deadline reported, […]",
+        "fa": "دیو باتیستا قرارداد خود را برای ایفای نقش کریتوس در سریال درام فانتزی خدای جنگ Prime Video بسته است. استودیوهای مشترک سری آمازون ام جی ام استودیو و تلویزیون سونی پیکچرز با باوتیستا تماس گرفتند و مدت کوتاهی پس از اینکه تصمیم گرفتند نقش را پس از مجروحیت جدی رایان هرست در صحنه فیلم‌برداری دوباره بازی کنند، مذاکرات را آغاز کردند. همانطور که ددلاین گزارش داد،"
       },
       "source": {
         "en": "Deadline",
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/dave-bautista-cast-kratos-god-of-war-amazon-series-recast-1237046959/",
-      "date": "2026-08-21T02:18:33.702833+00:00",
+      "date": "2026-08-21T03:42:52.157947+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/Dave-Bautista-Kratos-from-God-of-War.jpg",
       "important": false,
       "score": 1
@@ -405,7 +405,7 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/spider-man-insidious-out-of-the-further-global-box-office-1237046811/",
-      "date": "2026-08-21T02:18:33.702631+00:00",
+      "date": "2026-08-21T03:42:52.157747+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/Insidious-Out-of-the-Further-and-Spider-Man-Brand-New-Day.jpg",
       "important": false,
       "score": 1
@@ -429,7 +429,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/news/breaking-news/san-francisco-portal-cinema-opening-fall-2026-1235211735/",
-      "date": "2026-08-21T02:18:33.709759+00:00",
+      "date": "2026-08-21T03:42:52.164831+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/Portal_rendering-by-Stephen-Atkinson.jpeg?w=650",
       "important": false,
       "score": 0
@@ -453,7 +453,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/criticism/movies/it-ends-indie-horror-movie-review-1235101708/",
-      "date": "2026-08-21T02:18:33.709552+00:00",
+      "date": "2026-08-21T03:42:52.164622+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2025/03/it-ends-318958.jpeg?w=650",
       "important": false,
       "score": 0
@@ -466,18 +466,18 @@
       },
       "excerpt": {
         "en": "Leslie Mann, Isla Fisher, Michelle Buteau, and Anna Faris make for a spirited foursome in \"The Hangover\" writers and \"Bad Moms\" filmmakers Jon Lucas and Scott Moore's messy, unhinged, sometimes funny new film.",
-        "fa": "لزلی مان، ایسلا فیشر، میشل بوتو و آنا فاریس در فیلم جدید ژولیده، بی‌هیچ و گاهی خنده‌دار، نویسندگان «خماری» و فیلم‌سازان «مامان‌های بد»، جون لوکاس و اسکات مور، چهار نفری پرشور را تشکیل می‌دهند."
+        "fa": "لسلی مان، ایسلا فیشر، میشل بوتو و آنا فاریس در فیلم جدید ژان لوکاس، فیلمسازان «مامان‌های بد» و جان لوکاس و اسکات مور، چهار نفری پرشور را تشکیل می‌دهند."
       },
       "content": {
         "en": "Leslie Mann, Isla Fisher, Michelle Buteau, and Anna Faris make for a spirited foursome in \"The Hangover\" writers and \"Bad Moms\" filmmakers Jon Lucas and Scott Moore's messy, unhinged, sometimes funny new film.",
-        "fa": "لزلی مان، ایسلا فیشر، میشل بوتو و آنا فاریس در فیلم جدید ژولیده، بی‌هیچ و گاهی خنده‌دار، نویسندگان «خماری» و فیلم‌سازان «مامان‌های بد»، جون لوکاس و اسکات مور، چهار نفری پرشور را تشکیل می‌دهند."
+        "fa": "لسلی مان، ایسلا فیشر، میشل بوتو و آنا فاریس در فیلم جدید ژان لوکاس، فیلمسازان «مامان‌های بد» و جان لوکاس و اسکات مور، چهار نفری پرشور را تشکیل می‌دهند."
       },
       "source": {
         "en": "IndieWire",
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/criticism/movies/spa-weekend-review-leslie-mann-isla-fisher-michelle-buteau-1235211346/",
-      "date": "2026-08-21T02:18:33.708551+00:00",
+      "date": "2026-08-21T03:42:52.163627+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/bf1ab8bc408ccac7cdff2b637cf9f6cae1181667-8192x5464-1.avif?w=650",
       "important": false,
       "score": 0
@@ -486,7 +486,7 @@
       "id": "8ea49a8b2a05",
       "title": {
         "en": "Streaming Ratings: ‘Masters of the Universe’ Powers to No. 1 Debut",
-        "fa": "رتبه‌بندی‌های جریانی: «Masters of the Universe» قدرت اول را برای اولین بار دارد"
+        "fa": "رتبه‌بندی‌های استریم: «Masters of the Universe» قدرت اول را برای اولین بار دارد"
       },
       "excerpt": {
         "en": "'The Hawk' and 'Ride or Die' are the two biggest original series for the week of July 20.",
@@ -501,8 +501,56 @@
         "fa": "The Hollywood Reporter"
       },
       "link": "https://www.hollywoodreporter.com/tv/tv-news/streaming-ratings-july-20-26-2026-1236678107/",
-      "date": "2026-08-21T02:18:33.707655+00:00",
+      "date": "2026-08-21T03:42:52.163278+00:00",
       "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/05/MOTU_2026_UT_250331_KEYGIL_12674_R4_COMP_rgb-H-2026.jpg?w=1296&#038;h=730&#038;crop=1",
+      "important": false,
+      "score": 0
+    },
+    {
+      "id": "a8ce6b150d4f",
+      "title": {
+        "en": "L.A. Mayoral Candidate Nithya Raman Says Legality of Paramount-Warner Bros. Merger “Should Be Decided in Court”",
+        "fa": "نیتیا رامان، کاندیدای شهرداری لس‌آنجلس می‌گوید قانونی بودن ادغام برادران پارامونت وارنر «باید در دادگاه تصمیم‌گیری شود»"
+      },
+      "excerpt": {
+        "en": "As Mayor Karen Bass called for a quick resolution to the standoff, her rival in the 2026 elections, Nithya Raman, said the legal process should take its course.",
+        "fa": "همانطور که شهردار کارن باس خواستار حل و فصل سریع این بن بست شد، رقیب او در انتخابات 2026، نیتیا رامان، گفت که روند قانونی باید مسیر خود را طی کند."
+      },
+      "content": {
+        "en": "As Mayor Karen Bass called for a quick resolution to the standoff, her rival in the 2026 elections, Nithya Raman, said the legal process should take its course.",
+        "fa": "همانطور که شهردار کارن باس خواستار حل و فصل سریع این بن بست شد، رقیب او در انتخابات 2026، نیتیا رامان، گفت که روند قانونی باید مسیر خود را طی کند."
+      },
+      "source": {
+        "en": "The Hollywood Reporter",
+        "fa": "The Hollywood Reporter"
+      },
+      "link": "https://www.hollywoodreporter.com/business/business-news/nithya-raman-paramount-warner-bros-court-1236678117/",
+      "date": "2026-08-21T03:42:52.162956+00:00",
+      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/GettyImages-2281484805-H-2026.jpg?w=1296&#038;h=730&#038;crop=1",
+      "important": false,
+      "score": 0
+    },
+    {
+      "id": "06b2bfb61cb9",
+      "title": {
+        "en": "Gwyneth Paltrow Pokes Fun at That Viral Dinner Party Invite for OpenAI’s Sam Altman",
+        "fa": "گوئینت پالترو در آن مهمانی شام ویروسی برای سم آلتمن از OpenAI سرگرم کننده است."
+      },
+      "excerpt": {
+        "en": "She's going to need more chairs: The Goop founder posts a tongue-in-cheek series of dinner party invites in honor of 'Sex and the City' siren Samantha Jones, Shrek, Jessica Rabbit and Chanty Beluga.",
+        "fa": "او به صندلی‌های بیشتری نیاز دارد: بنیانگذار Goop یک سری دعوت‌نامه‌های مهمانی شام را به افتخار سامانتا جونز، شرک، جسیکا رابیت و چانتی بلوگا، آژیر «سکس و شهر» منتشر می‌کند."
+      },
+      "content": {
+        "en": "She's going to need more chairs: The Goop founder posts a tongue-in-cheek series of dinner party invites in honor of 'Sex and the City' siren Samantha Jones, Shrek, Jessica Rabbit and Chanty Beluga.",
+        "fa": "او به صندلی‌های بیشتری نیاز دارد: بنیانگذار Goop یک سری دعوت‌نامه‌های مهمانی شام را به افتخار سامانتا جونز، شرک، جسیکا رابیت و چانتی بلوگا، آژیر «سکس و شهر» منتشر می‌کند."
+      },
+      "source": {
+        "en": "The Hollywood Reporter",
+        "fa": "The Hollywood Reporter"
+      },
+      "link": "https://www.hollywoodreporter.com/lifestyle/lifestyle-news/gwyneth-paltrow-sam-altman-dinner-invite-openai-1236678196/",
+      "date": "2026-08-21T03:42:52.162247+00:00",
+      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2025/12/Gwyneth-Paltrow-WIE-Main-2025.jpg?w=1296&#038;h=730&#038;crop=1",
       "important": false,
       "score": 0
     },
@@ -525,56 +573,8 @@
         "fa": "Variety"
       },
       "link": "https://variety.com/2026/film/news/lawmakers-film-industry-tax-fix-1236839543/",
-      "date": "2026-08-21T02:18:33.706134+00:00",
+      "date": "2026-08-21T03:42:52.161009+00:00",
       "image": "https://variety.com/wp-content/uploads/2015/12/sacramento-california-state-capitol-legislature-2.jpg",
-      "important": false,
-      "score": 0
-    },
-    {
-      "id": "607f3706a860",
-      "title": {
-        "en": "Jaafar Jackson: ‘Michael’ Sequel Will Give ‘More Insight’ Into Child Abuse Allegations and ‘Let His Voice Be Heard’",
-        "fa": "جعفر جکسون: دنباله «مایکل» در مورد اتهامات کودک آزاری و «صدای او شنیده شود» «بینش بیشتری» ارائه خواهد کرد."
-      },
-      "excerpt": {
-        "en": "Now that the second “Michael” movie is closer to starting production, star Jaafar Jackson says it will indeed address the criticisms and child abuse allegations Michael Jackson faced in the ’90s. Michael Jackson’s nephew Jaafar Jackson says that while he doesn’t have much say in how the screenplay is written, he tells GQ Middle East […]",
-        "fa": "اکنون که دومین فیلم «مایکل» به آغاز تولید نزدیک‌تر است، جعفر جکسون، ستاره سینما، می‌گوید که این فیلم واقعاً به انتقادات و اتهامات کودک آزاری که مایکل جکسون در دهه 90 با آن‌ها مواجه شده بود، رسیدگی خواهد کرد. جعفر جکسون، برادرزاده مایکل جکسون، می‌گوید که با وجود اینکه حرف زیادی در مورد نحوه نگارش فیلمنامه ندارد، به GQ Middle East می‌گوید."
-      },
-      "content": {
-        "en": "Now that the second “Michael” movie is closer to starting production, star Jaafar Jackson says it will indeed address the criticisms and child abuse allegations Michael Jackson faced in the ’90s. Michael Jackson’s nephew Jaafar Jackson says that while he doesn’t have much say in how the screenplay is written, he tells GQ Middle East […]",
-        "fa": "اکنون که دومین فیلم «مایکل» به آغاز تولید نزدیک‌تر است، جعفر جکسون، ستاره سینما، می‌گوید که این فیلم واقعاً به انتقادات و اتهامات کودک آزاری که مایکل جکسون در دهه 90 با آن‌ها مواجه شده بود، رسیدگی خواهد کرد. جعفر جکسون، برادرزاده مایکل جکسون، می‌گوید که با وجود اینکه حرف زیادی در مورد نحوه نگارش فیلمنامه ندارد، به GQ Middle East می‌گوید."
-      },
-      "source": {
-        "en": "Variety",
-        "fa": "Variety"
-      },
-      "link": "https://variety.com/2026/film/news/jaafar-jackson-michael-sequel-insight-child-abuse-allegations-1236839600/",
-      "date": "2026-08-21T02:18:33.704520+00:00",
-      "image": "https://variety.com/wp-content/uploads/2026/04/maven-trailer-grab-00001r2.jpg",
-      "important": false,
-      "score": 0
-    },
-    {
-      "id": "6bd0ad0dc583",
-      "title": {
-        "en": "Chris Hansen Says He Refused to Sign His Rights Away in Order to Screen Robert Pattinson’s ‘Primetime’",
-        "fa": "کریس هنسن می‌گوید برای نمایش فیلم «Primetime» رابرت پتینسون از امضای حقوق خود امتناع کرده است."
-      },
-      "excerpt": {
-        "en": "Chris Hansen didn’t get to take a seat for the new A24 movie “Primetime.” The 66-year-old veteran journalist went to the offices of indie distributor A24 to watch the Lance Oppenheim film, in which he is played by Robert Pattinson, before it bows at the Venice Film Festival. He left without seeing it. The former […]",
-        "fa": "کریس هنسن نتوانست برای فیلم جدید A24 «Primetime» بنشیند. این روزنامه‌نگار کهنه‌کار 66 ساله برای تماشای فیلم لنس اوپنهایم که در آن رابرت پتینسون بازی می‌کند، به دفاتر توزیع‌کننده مستقل A24 رفت، قبل از اینکه در جشنواره فیلم ونیز تعظیم کند. بدون دیدنش رفت. سابق"
-      },
-      "content": {
-        "en": "Chris Hansen didn’t get to take a seat for the new A24 movie “Primetime.” The 66-year-old veteran journalist went to the offices of indie distributor A24 to watch the Lance Oppenheim film, in which he is played by Robert Pattinson, before it bows at the Venice Film Festival. He left without seeing it. The former […]",
-        "fa": "کریس هنسن نتوانست برای فیلم جدید A24 «Primetime» بنشیند. این روزنامه‌نگار کهنه‌کار 66 ساله برای تماشای فیلم لنس اوپنهایم که در آن رابرت پتینسون بازی می‌کند، به دفاتر توزیع‌کننده مستقل A24 رفت، قبل از اینکه در جشنواره فیلم ونیز تعظیم کند. بدون دیدنش رفت. سابق"
-      },
-      "source": {
-        "en": "Variety",
-        "fa": "Variety"
-      },
-      "link": "https://variety.com/2026/film/awards/chris-hansen-a24-primetime-screening-refused-1236839630/",
-      "date": "2026-08-21T02:18:33.704168+00:00",
-      "image": "https://variety.com/wp-content/uploads/2026/08/Chris-Hansen-Primetime.jpg",
       "important": false,
       "score": 0
     }
