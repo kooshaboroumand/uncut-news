@@ -1,55 +1,7 @@
 {
-  "updated_at": "2026-08-21T13:38:05.327333+00:00",
-  "count": 24,
+  "updated_at": "2026-08-21T14:25:15.099441+00:00",
+  "count": 23,
   "news": [
-    {
-      "id": "58efd8eb981b",
-      "title": {
-        "en": "‘Blue Eye Samurai’ Renewed For Third & Final Season At Netflix; Season 2 Gets Premiere Window — Watch The Teaser",
-        "fa": "«سامورایی چشم آبی» برای فصل سوم و آخر در نتفلیکس تمدید شد. فصل 2 اولین پنجره می شود - تیزر را تماشا کنید"
-      },
-      "excerpt": {
-        "en": "Mizu’s journey for justice is coming to an end as Blue Eye Samurai is renewed for a third and final season. On Thursday, Netflix announced the animated action series is ending after three seasons, while sharing the teaser and an January 2027 launch date for Season 2, which has recently finished production. Meanwhile, Season 3 […]",
-        "fa": "سفر میزو برای عدالت در حالی به پایان می رسد که سامورایی چشم آبی برای فصل سوم و آخرین فصل تمدید می شود. روز پنجشنبه، نتفلیکس اعلام کرد که سریال اکشن انیمیشن پس از سه فصل به پایان می رسد، در حالی که تیزر و تاریخ شروع ژانویه 2027 برای فصل دوم که به تازگی تولید آن به پایان رسیده است را به اشتراک گذاشت. در ضمن فصل 3"
-      },
-      "content": {
-        "en": "Mizu’s journey for justice is coming to an end as Blue Eye Samurai is renewed for a third and final season. On Thursday, Netflix announced the animated action series is ending after three seasons, while sharing the teaser and an January 2027 launch date for Season 2, which has recently finished production. Meanwhile, Season 3 […]",
-        "fa": "سفر میزو برای عدالت در حالی به پایان می رسد که سامورایی چشم آبی برای فصل سوم و آخرین فصل تمدید می شود. روز پنجشنبه، نتفلیکس اعلام کرد که سریال اکشن انیمیشن پس از سه فصل به پایان می رسد، در حالی که تیزر و تاریخ شروع ژانویه 2027 برای فصل دوم که به تازگی تولید آن به پایان رسیده است را به اشتراک گذاشت. در ضمن فصل 3"
-      },
-      "source": {
-        "en": "Deadline",
-        "fa": "Deadline"
-      },
-      "link": "https://deadline.com/2026/08/blue-eye-samurai-renewed-third-final-season-netflix-1237047184/",
-      "date": "2026-08-21T13:38:05.080763+00:00",
-      "image": "https://deadline.com/wp-content/uploads/2026/08/50_bes_202_R.jpg",
-      "important": true,
-      "score": 13
-    },
-    {
-      "id": "f2d882097b1f",
-      "title": {
-        "en": "Sriram Raghavan Developing New Thriller in the ‘Johnny Gaddaar’ Zone for India’s Matchbox Shots as ‘Operation Safed Sagar’ Soars on Netflix Charts (EXCLUSIVE)",
-        "fa": "Sriram Raghavan در حال توسعه تریلر جدید در منطقه \"Johnny Gaddaar\" برای شات های جعبه کبریت هندی به عنوان \"Operation Safed Sagar\" در نمودارهای نتفلیکس بالا می رود."
-      },
-      "excerpt": {
-        "en": "Indian auteur Sriram Raghavan is developing a new thriller for Matchbox Shots set in the tonal zone of his 2007 film “Johnny Gaddaar,” as the Mumbai production house grows its slate on the strength of the global Netflix success of war series “Operation Safed Sagar.” “Johnny Gaddaar” was a twist-laden neo-noir heist thriller that marked […]",
-        "fa": "سریرام راغوان نویسنده هندی در حال ساخت تریلر جدیدی برای Matchbox Shots است که در منطقه تونال فیلم سال 2007 او \"Johnny Gaddaar\" اتفاق می‌افتد، در حالی که خانه تولید بمبئی با توجه به موفقیت سریال جنگی \"عملیات Safed Sagar\" در نتفلیکس، نقشه خود را افزایش می‌دهد. «جانی گدار» یک دزدی مهیج نئو نوآر پر پیچ و خم بود که مشخص شد"
-      },
-      "content": {
-        "en": "Indian auteur Sriram Raghavan is developing a new thriller for Matchbox Shots set in the tonal zone of his 2007 film “Johnny Gaddaar,” as the Mumbai production house grows its slate on the strength of the global Netflix success of war series “Operation Safed Sagar.” “Johnny Gaddaar” was a twist-laden neo-noir heist thriller that marked […]",
-        "fa": "سریرام راغوان نویسنده هندی در حال ساخت تریلر جدیدی برای Matchbox Shots است که در منطقه تونال فیلم سال 2007 او \"Johnny Gaddaar\" اتفاق می‌افتد، در حالی که خانه تولید بمبئی با توجه به موفقیت سریال جنگی \"عملیات Safed Sagar\" در نتفلیکس، نقشه خود را افزایش می‌دهد. «جانی گدار» یک دزدی مهیج نئو نوآر پر پیچ و خم بود که مشخص شد"
-      },
-      "source": {
-        "en": "Variety",
-        "fa": "Variety"
-      },
-      "link": "https://variety.com/2026/film/news/sriram-raghavan-johnny-gaddaar-thriller-matchbox-shots-1236839812/",
-      "date": "2026-08-21T13:38:05.083688+00:00",
-      "image": "https://variety.com/wp-content/uploads/2026/08/Matchbox-Shots-team.jpg",
-      "important": true,
-      "score": 9
-    },
     {
       "id": "d3654a070571",
       "title": {
@@ -69,34 +21,10 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/adult-supervision-sells-wb-discovery-more-fantastic-fest-1237047254/",
-      "date": "2026-08-21T13:38:05.079860+00:00",
+      "date": "2026-08-21T14:25:14.964718+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/04/Adult-Supervision.jpg",
       "important": true,
       "score": 7
-    },
-    {
-      "id": "02e2cf3e4288",
-      "title": {
-        "en": "‘Outer Banks’ Star Madison Bailey On Show’s “Lack Of Queer Representation,” Desire To Play LGBTQ Role: “I’ve Been Manifesting It”",
-        "fa": "مدیسون بیلی، ستاره «Outer Banks» در سریال «عدم نمایش عجیب و غریب»، تمایل به ایفای نقش LGBTQ: «من آن را نشان داده‌ام»"
-      },
-      "excerpt": {
-        "en": "With Outer Banks coming to an end, Madison Bailey wants to spread her wings as she contemplates the future of her career. The openly pansexual actress recently discussed the “lack of queer representation” on the Netflix show, which released its fifth and final season on Thursday, revealing that she wishes her character Kiara came out […]",
-        "fa": "با پایان یافتن Outer Banks، مدیسون بیلی می خواهد بال های خود را در حالی که به آینده شغلی خود فکر می کند باز کند. این بازیگر آشکارا پان‌جنس‌گرا اخیراً در مورد «عدم نمایش عجیب و غریب» در برنامه نت‌فلیکس که پنجمین و آخرین فصل آن در روز پنجشنبه منتشر شد، صحبت کرد و فاش کرد که ای کاش شخصیت او کیارا بیرون می‌آمد."
-      },
-      "content": {
-        "en": "With Outer Banks coming to an end, Madison Bailey wants to spread her wings as she contemplates the future of her career. The openly pansexual actress recently discussed the “lack of queer representation” on the Netflix show, which released its fifth and final season on Thursday, revealing that she wishes her character Kiara came out […]",
-        "fa": "با پایان یافتن Outer Banks، مدیسون بیلی می خواهد بال های خود را در حالی که به آینده شغلی خود فکر می کند باز کند. این بازیگر آشکارا پان‌جنس‌گرا اخیراً در مورد «عدم نمایش عجیب و غریب» در برنامه نت‌فلیکس که پنجمین و آخرین فصل آن در روز پنجشنبه منتشر شد، صحبت کرد و فاش کرد که ای کاش شخصیت او کیارا بیرون می‌آمد."
-      },
-      "source": {
-        "en": "Deadline",
-        "fa": "Deadline"
-      },
-      "link": "https://deadline.com/2026/08/outer-banks-madison-bailey-lack-queer-representation-1237047181/",
-      "date": "2026-08-21T13:38:05.080663+00:00",
-      "image": "https://deadline.com/wp-content/uploads/2026/08/P107OMWA-e1787275456846.jpg",
-      "important": true,
-      "score": 6
     },
     {
       "id": "68a726d682d2",
@@ -117,7 +45,7 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/sxsw-true-crime-i-got-bombed-at-harveys-us-deal-release-1237047256/",
-      "date": "2026-08-21T13:38:05.078462+00:00",
+      "date": "2026-08-21T14:25:14.963877+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/I-Got-Bombed-At-Harveys-.jpg",
       "important": true,
       "score": 4
@@ -141,7 +69,7 @@
         "fa": "The Hollywood Reporter"
       },
       "link": "https://www.hollywoodreporter.com/movies/movie-news/bad-day-cameron-diaz-netflix-release-first-look-1236678165/",
-      "date": "2026-08-21T13:38:05.085618+00:00",
+      "date": "2026-08-21T14:25:14.967933+00:00",
       "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/BADDAY_20251201_16572_R3.jpg?w=1296&#038;h=730&#038;crop=1",
       "important": false,
       "score": 3
@@ -165,8 +93,32 @@
         "fa": "The Hollywood Reporter"
       },
       "link": "https://www.hollywoodreporter.com/movies/movie-news/neon-premium-format-release-na-hong-jin-hope-1236678228/",
-      "date": "2026-08-21T13:38:05.085015+00:00",
+      "date": "2026-08-21T14:25:14.967563+00:00",
       "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/05/HOPE-MCDHOPE_EC035-H-2026.jpg?w=1296&#038;h=730&#038;crop=1",
+      "important": false,
+      "score": 3
+    },
+    {
+      "id": "9c9670fd34e6",
+      "title": {
+        "en": "Chase Stokes Bids Farewell to ‘Outer Banks’",
+        "fa": "خداحافظی چیس استوکس با \"بانک های بیرونی\""
+      },
+      "excerpt": {
+        "en": "As the 33-year-old actor moves on from his breakout role in the hit Netflix series, he's opening up about what comes next and the struggles he's overcome since wrapping the show: \"I had so much shit wrong.\"",
+        "fa": "در حالی که این بازیگر 33 ساله از نقش آفرینی خود در سریال پرطرفدار نتفلیکس می گذرد، درباره چیزهای بعدی و مشکلاتی که از زمان پایان دادن به سریال بر آن غلبه کرده است صحبت می کند: \"من خیلی اشتباه داشتم.\""
+      },
+      "content": {
+        "en": "As the 33-year-old actor moves on from his breakout role in the hit Netflix series, he's opening up about what comes next and the struggles he's overcome since wrapping the show: \"I had so much shit wrong.\"",
+        "fa": "در حالی که این بازیگر 33 ساله از نقش آفرینی خود در سریال پرطرفدار نتفلیکس می گذرد، درباره چیزهای بعدی و مشکلاتی که از زمان پایان دادن به سریال بر آن غلبه کرده است صحبت می کند: \"من خیلی اشتباه داشتم.\""
+      },
+      "source": {
+        "en": "The Hollywood Reporter",
+        "fa": "The Hollywood Reporter"
+      },
+      "link": "https://www.hollywoodreporter.com/tv/tv-features/chase-stokes-outer-banks-finale-goodbye-interview-1236677412/",
+      "date": "2026-08-21T14:25:14.966963+00:00",
+      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/CS-2_Cred_-Maggie-Nutley.png?w=1440&#038;h=810&#038;crop=1",
       "important": false,
       "score": 3
     },
@@ -189,7 +141,7 @@
         "fa": "Variety"
       },
       "link": "https://variety.com/2026/film/global/supporting-role-ana-urushadze-fear-of-butterflies-1236839801/",
-      "date": "2026-08-21T13:38:05.082401+00:00",
+      "date": "2026-08-21T14:25:14.966658+00:00",
       "image": "https://variety.com/wp-content/uploads/2024/05/Supporting-Role.jpg",
       "important": false,
       "score": 3
@@ -213,32 +165,8 @@
         "fa": "Variety"
       },
       "link": "https://variety.com/2026/film/global/canada-h264-where-the-river-begins-toronto-fest-premiere-1236838810/",
-      "date": "2026-08-21T13:38:05.082017+00:00",
+      "date": "2026-08-21T14:25:14.966433+00:00",
       "image": "https://variety.com/wp-content/uploads/2026/08/01.DCR_Stills_TC03082115_1.37.0-2.jpeg",
-      "important": false,
-      "score": 3
-    },
-    {
-      "id": "b4a73c700eba",
-      "title": {
-        "en": "Trouble In Paradise: John Ross Bowie & Brian Posehn On Who Ruined Utopia In ‘Stuart Fails’ E5",
-        "fa": "مشکل در بهشت: جان راس بووی و برایان پوسن درباره چه کسی اتوپیا را در «استوارت شکست می‌خورد» E5"
-      },
-      "excerpt": {
-        "en": "SPOILER ALERT: The story includes details about Episode 5 of HBO Max’s Stuart Fails To Save the Universe. In Episode 5 of Big Bang Theory spinoff Stuart Fails To Save the Universe, our quartet of inter-dimensional travelers Stuart Bloom (Kevin Sussman), Denise (Lauren Lapkus), Bert (Brian Posehn) and Barry Kripke (John Ross Bowie), land in […]",
-        "fa": "SPOILER ALERT: داستان شامل جزئیات قسمت 5 سریال HBO Max استوارت در نجات جهان نیست. در قسمت 5 اسپین آف بیگ بنگ تئوری استوارت موفق به نجات جهان نمی شود، چهار نفر از مسافران بین بعدی ما استوارت بلوم، دنیز، برت و بری کریپکه در"
-      },
-      "content": {
-        "en": "SPOILER ALERT: The story includes details about Episode 5 of HBO Max’s Stuart Fails To Save the Universe. In Episode 5 of Big Bang Theory spinoff Stuart Fails To Save the Universe, our quartet of inter-dimensional travelers Stuart Bloom (Kevin Sussman), Denise (Lauren Lapkus), Bert (Brian Posehn) and Barry Kripke (John Ross Bowie), land in […]",
-        "fa": "SPOILER ALERT: داستان شامل جزئیات قسمت 5 سریال HBO Max استوارت در نجات جهان نیست. در قسمت 5 اسپین آف بیگ بنگ تئوری استوارت موفق به نجات جهان نمی شود، چهار نفر از مسافران بین بعدی ما استوارت بلوم، دنیز، برت و بری کریپکه در"
-      },
-      "source": {
-        "en": "Deadline",
-        "fa": "Deadline"
-      },
-      "link": "https://deadline.com/2026/08/stuart-fails-john-ross-bowie-brian-posehn-episode-5-1237047095/",
-      "date": "2026-08-21T13:38:05.081017+00:00",
-      "image": "https://deadline.com/wp-content/uploads/2026/08/stuart-copy.jpg",
       "important": false,
       "score": 3
     },
@@ -261,7 +189,7 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/rogan-productions-opens-south-africa-office-1237047249/",
-      "date": "2026-08-21T13:38:05.080227+00:00",
+      "date": "2026-08-21T14:25:14.964957+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/Rogan-Prods-e1787299913128.jpg",
       "important": false,
       "score": 3
@@ -285,34 +213,58 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/international-insider-australia-attention-battle-1237046111/",
-      "date": "2026-08-21T13:38:05.079463+00:00",
+      "date": "2026-08-21T14:25:14.964490+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/Colin-Narrow-Road-and-Top-End-Bub.png",
       "important": false,
       "score": 3
     },
     {
-      "id": "d46b3a45bbeb",
+      "id": "fe8def9e97b0",
       "title": {
-        "en": "‘Chronovisor’ Trailer: Vatican Conspiracy and Time Travel Turn Academic Research Into a Thrillingly Freaky Brain Tease",
-        "fa": "تریلر «Chronovisor»: توطئه واتیکان و سفر در زمان، تحقیقات آکادمیک را به یک بازی مغزی هیجان انگیز تبدیل می کند"
+        "en": "How ‘Monsters Of God’ Director Eric Goode’s Personal Avocation Led Him To The World’s Most Notorious Reptile Traffickers For HBO Docuseries",
+        "fa": "چگونه رفتار شخصی اریک گود کارگردان «هیولاهای خدا» او را به بدنام ترین قاچاقچیان خزندگان برای سریال های HBO هدایت کرد."
       },
       "excerpt": {
-        "en": "Filmmakers Kevin Walker and Jack Auen dig into Vatican history to craft this shoestring but highly effective academic conspiracy thriller about a supposed occult device that can photograph the distant past.",
-        "fa": "فیلمسازان کوین واکر و جک اوئن تاریخ واتیکان را بررسی می‌کنند تا این تریلر توطئه آکادمیک کم‌کفش اما بسیار مؤثر را درباره یک وسیله مخفی فرضی که می‌تواند از گذشته‌های دور عکاسی کند بسازند."
+        "en": "SPOILER ALERT! This post contains details from HBO’s docuseries Monsters of God. Eric Goode is no stranger to eclectic interview subjects. The director behind Chimp Crazy and Tiger King is even quite familiar with interviewees who are willing to look past the law. And yet, his latest docuseries Monsters of God might just have brought […]",
+        "fa": "هشدار اسپویلر! این پست حاوی جزئیاتی از سریال مستند هیولاهای خدا از HBO است. اریک گود با موضوعات مصاحبه التقاطی غریبه نیست. کارگردان فیلم Chimp Crazy و Tiger King حتی با مصاحبه شوندگانی که مایلند قانون را پشت سر بگذارند کاملاً آشنا است. و با این حال، آخرین سریال مستند او Monsters of God ممکن است به تازگی آورده شده باشد"
       },
       "content": {
-        "en": "Filmmakers Kevin Walker and Jack Auen dig into Vatican history to craft this shoestring but highly effective academic conspiracy thriller about a supposed occult device that can photograph the distant past.",
-        "fa": "فیلمسازان کوین واکر و جک اوئن تاریخ واتیکان را بررسی می‌کنند تا این تریلر توطئه آکادمیک کم‌کفش اما بسیار مؤثر را درباره یک وسیله مخفی فرضی که می‌تواند از گذشته‌های دور عکاسی کند بسازند."
+        "en": "SPOILER ALERT! This post contains details from HBO’s docuseries Monsters of God. Eric Goode is no stranger to eclectic interview subjects. The director behind Chimp Crazy and Tiger King is even quite familiar with interviewees who are willing to look past the law. And yet, his latest docuseries Monsters of God might just have brought […]",
+        "fa": "هشدار اسپویلر! این پست حاوی جزئیاتی از سریال مستند هیولاهای خدا از HBO است. اریک گود با موضوعات مصاحبه التقاطی غریبه نیست. کارگردان فیلم Chimp Crazy و Tiger King حتی با مصاحبه شوندگانی که مایلند قانون را پشت سر بگذارند کاملاً آشنا است. و با این حال، آخرین سریال مستند او Monsters of God ممکن است به تازگی آورده شده باشد"
       },
       "source": {
-        "en": "IndieWire",
-        "fa": "IndieWire"
+        "en": "Deadline",
+        "fa": "Deadline"
       },
-      "link": "https://www.indiewire.com/news/trailers/chronovisor-movie-trailer-1235211641/",
-      "date": "2026-08-21T13:38:05.090690+00:00",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/08/MCDCHRO_EC087.jpg?w=650",
+      "link": "https://deadline.com/2026/08/monsters-of-god-eric-goode-interview-reptile-trafficking-1237045213/",
+      "date": "2026-08-21T14:25:14.963258+00:00",
+      "image": "https://deadline.com/wp-content/uploads/2026/08/reptile-dealer-mike-van-nostrand-with-jackson-s-chameleon.jpg",
       "important": false,
-      "score": 1
+      "score": 3
+    },
+    {
+      "id": "4c53271f573b",
+      "title": {
+        "en": "Terrence Terrell, Jayne Taini, Sachin Bhatt, Mario Cantone & William Sadler Lead Dramedy ‘The Summer They Came’",
+        "fa": "ترنس ترل، جین تاینی، ساچین بات، ماریو کانتونه و ویلیام سادلر بازیگران درامدی «تابستان آنها آمدند»"
+      },
+      "excerpt": {
+        "en": "EXCLUSIVE: Terrence Terrell (Giants), Jayne Taini (Station 19), Sachin Bhatt (The Company You Keep), Mario Cantone (Sex And The City) and William Sadler (The Shawshank Redemption) are starring in dramedy The Summer They Came, which is in post-production. America Young directs the seaside movie from writer and executive producer Nick Wauters. Principal photography took place this […]",
+        "fa": "اختصاصی: ترنس ترل، جین تاینی، ساچین بات، ماریو کانتونه و ویلیام سادلر در فیلم درام The Summer They Came که در مرحله پس از تولید قرار دارد، بازی می کنند. آمریکا یانگ فیلم ساحلی را توسط نویسنده و تهیه کننده اجرایی نیک واترز کارگردانی می کند. عکاسی اصلی این اتفاق افتاد"
+      },
+      "content": {
+        "en": "EXCLUSIVE: Terrence Terrell (Giants), Jayne Taini (Station 19), Sachin Bhatt (The Company You Keep), Mario Cantone (Sex And The City) and William Sadler (The Shawshank Redemption) are starring in dramedy The Summer They Came, which is in post-production. America Young directs the seaside movie from writer and executive producer Nick Wauters. Principal photography took place this […]",
+        "fa": "اختصاصی: ترنس ترل، جین تاینی، ساچین بات، ماریو کانتونه و ویلیام سادلر در فیلم درام The Summer They Came که در مرحله پس از تولید قرار دارد، بازی می کنند. آمریکا یانگ فیلم ساحلی را توسط نویسنده و تهیه کننده اجرایی نیک واترز کارگردانی می کند. عکاسی اصلی این اتفاق افتاد"
+      },
+      "source": {
+        "en": "Deadline",
+        "fa": "Deadline"
+      },
+      "link": "https://deadline.com/2026/08/terrence-terrell-sachin-bhatt-the-summer-they-came-film-1237047319/",
+      "date": "2026-08-21T14:25:14.962947+00:00",
+      "image": "https://deadline.com/wp-content/uploads/2026/08/Terrence-Terrell-Jayne-Taini-Sachin-Bhatt-Mario-Cantone-and-William-Sadler.jpg",
+      "important": false,
+      "score": 3
     },
     {
       "id": "54adb692f486",
@@ -333,7 +285,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/features/craft/the-top-chef-reality-show-casting-interview-1235211638/",
-      "date": "2026-08-21T13:38:05.089807+00:00",
+      "date": "2026-08-21T14:25:14.970704+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/NUP_208397_02672.jpg?w=650",
       "important": false,
       "score": 1
@@ -357,7 +309,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/news/box-office/hadestown-the-musical-breaks-box-office-records-hamilton-1235212066/",
-      "date": "2026-08-21T13:38:05.088847+00:00",
+      "date": "2026-08-21T14:25:14.970087+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/07/HADESTOWN_-THE-MUSICAL-Still-8-_-Courtesy-of-Crosswalk-and-LD-Entertainment.png?w=650",
       "important": false,
       "score": 1
@@ -381,7 +333,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/criticism/movies/it-ends-indie-horror-movie-review-1235101708/",
-      "date": "2026-08-21T13:38:05.090039+00:00",
+      "date": "2026-08-21T14:25:14.970855+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2025/03/it-ends-318958.jpeg?w=650",
       "important": false,
       "score": 0
@@ -405,32 +357,8 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/criticism/movies/spa-weekend-review-leslie-mann-isla-fisher-michelle-buteau-1235211346/",
-      "date": "2026-08-21T13:38:05.089080+00:00",
+      "date": "2026-08-21T14:25:14.970234+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/bf1ab8bc408ccac7cdff2b637cf9f6cae1181667-8192x5464-1.avif?w=650",
-      "important": false,
-      "score": 0
-    },
-    {
-      "id": "436435fd21b8",
-      "title": {
-        "en": "Nithya Raman Splits From Mayor Karen Bass on Paramount-Warner Merger: ‘Should Be Decided in Court’",
-        "fa": "جدایی نیتیا رامان از شهردار کارن باس در ادغام پارامونت-وارنر: \"باید در دادگاه تصمیم گیری شود\""
-      },
-      "excerpt": {
-        "en": "The mayoral candidate restated her support for California AG Rob Bonta's lawsuit hours after Bass called for a settlement The post Nithya Raman Splits From Mayor Karen Bass on Paramount-Warner Merger: ‘Should Be Decided in Court’ appeared first on TheWrap .",
-        "fa": "کاندیدای شهرداری چند ساعت پس از درخواست باس برای حل و فصل مجدداً حمایت خود را از شکایت راب بونتا AG کالیفرنیا اعلام کرد."
-      },
-      "content": {
-        "en": "The mayoral candidate restated her support for California AG Rob Bonta's lawsuit hours after Bass called for a settlement The post Nithya Raman Splits From Mayor Karen Bass on Paramount-Warner Merger: ‘Should Be Decided in Court’ appeared first on TheWrap .",
-        "fa": "کاندیدای شهرداری چند ساعت پس از درخواست باس برای حل و فصل مجدداً حمایت خود را از شکایت راب بونتا AG کالیفرنیا اعلام کرد."
-      },
-      "source": {
-        "en": "The Wrap",
-        "fa": "The Wrap"
-      },
-      "link": "https://www.thewrap.com/industry-news/public-policy-legal/nithya-raman-karen-bass-paramount-warner-merger/",
-      "date": "2026-08-21T13:38:05.088299+00:00",
-      "image": "https://www.thewrap.com/wp-content/uploads/2026/05/GettyImages-2274236251-1.jpg",
       "important": false,
       "score": 0
     },
@@ -438,7 +366,7 @@
       "id": "06b2bfb61cb9",
       "title": {
         "en": "Gwyneth Paltrow Pokes Fun at That Viral Dinner Party Invite for OpenAI’s Sam Altman",
-        "fa": "گوئینت پالترو در آن مهمانی شام ویروسی برای سم آلتمن از OpenAI سرگرم کننده است"
+        "fa": "گوئینت پالترو در آن مهمانی شام ویروسی برای سم آلتمن از OpenAI سرگرم کننده است."
       },
       "excerpt": {
         "en": "She's going to need more chairs: The Goop founder posts a tongue-in-cheek series of dinner party invites in honor of 'Sex and the City' siren Samantha Jones, Shrek, Jessica Rabbit and Chanty Beluga.",
@@ -453,7 +381,7 @@
         "fa": "The Hollywood Reporter"
       },
       "link": "https://www.hollywoodreporter.com/lifestyle/lifestyle-news/gwyneth-paltrow-sam-altman-dinner-invite-openai-1236678196/",
-      "date": "2026-08-21T13:38:05.085262+00:00",
+      "date": "2026-08-21T14:25:14.967723+00:00",
       "image": "https://www.hollywoodreporter.com/wp-content/uploads/2025/12/Gwyneth-Paltrow-WIE-Main-2025.jpg?w=1296&#038;h=730&#038;crop=1",
       "important": false,
       "score": 0
@@ -477,56 +405,8 @@
         "fa": "The Hollywood Reporter"
       },
       "link": "https://www.hollywoodreporter.com/business/business-news/movie-theater-owner-paramount-warner-bros-1236678084/",
-      "date": "2026-08-21T13:38:05.084363+00:00",
+      "date": "2026-08-21T14:25:14.967171+00:00",
       "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/DSC08433.jpg?w=1440&#038;h=810&#038;crop=1",
-      "important": false,
-      "score": 0
-    },
-    {
-      "id": "3bc6d5078c9d",
-      "title": {
-        "en": "Folk Horror ‘Wolf Days,’ Family Drama ‘The First Week of August’ Win at Sarajevo Industry Awards",
-        "fa": "فولکلور ترسناک «روزهای گرگ»، درام خانوادگی «هفته اول آگوست» در جوایز صنعت سارایوو برنده شدند"
-      },
-      "excerpt": {
-        "en": "Emilija Gašić’s folk horror “Wolf Days” and Filip Mojzeš’ family drama “The First Week of August” won the top prizes in the Sarajevo Film Festival’s CineLink Industry Days, the industry section focused on projects in different stages of development from Southeast Europe, the Middle East and North Africa. Gašić’s sophomore feature, which is produced by Serbia’s […]",
-        "fa": "فیلم ترسناک عامیانه امیلیا گاشیچ «روزهای گرگ» و درام خانوادگی فیلیپ موژش «هفته اول آگوست» برنده جوایز برتر جشنواره فیلم سارایوو در روزهای صنعت CineLink شدند، بخش صنعتی که بر پروژه‌هایی در مراحل مختلف توسعه از اروپای جنوب شرقی، خاورمیانه و شمال آفریقا متمرکز بود. فیلم دوم Gašić که توسط صربستان تولید می شود"
-      },
-      "content": {
-        "en": "Emilija Gašić’s folk horror “Wolf Days” and Filip Mojzeš’ family drama “The First Week of August” won the top prizes in the Sarajevo Film Festival’s CineLink Industry Days, the industry section focused on projects in different stages of development from Southeast Europe, the Middle East and North Africa. Gašić’s sophomore feature, which is produced by Serbia’s […]",
-        "fa": "فیلم ترسناک عامیانه امیلیا گاشیچ «روزهای گرگ» و درام خانوادگی فیلیپ موژش «هفته اول آگوست» برنده جوایز برتر جشنواره فیلم سارایوو در روزهای صنعت CineLink شدند، بخش صنعتی که بر پروژه‌هایی در مراحل مختلف توسعه از اروپای جنوب شرقی، خاورمیانه و شمال آفریقا متمرکز بود. فیلم دوم Gašić که توسط صربستان تولید می شود"
-      },
-      "source": {
-        "en": "Variety",
-        "fa": "Variety"
-      },
-      "link": "https://variety.com/2026/film/global/wolf-days-the-first-week-of-august-sarajevo-industry-awards-1236839656/",
-      "date": "2026-08-21T13:38:05.084019+00:00",
-      "image": "https://variety.com/wp-content/uploads/2026/08/MixCollage-21-Aug-2026-03-52-AM-4558.jpg",
-      "important": false,
-      "score": 0
-    },
-    {
-      "id": "05b9c6b82471",
-      "title": {
-        "en": "Woody Harrelson Ready to Direct Another Live Film, Compares Jason Bateman’s ‘The Cackling of the Dodos’ to Martin McDonagh and the Coen Brothers",
-        "fa": "وودی هارلسون آماده کارگردانی یک فیلم زنده دیگر است، فیلم جیسون بیتمن The Cackling of the Dodos را با مارتین مک دونا و برادران کوئن مقایسه می کند."
-      },
-      "excerpt": {
-        "en": "Almost a decade after taking on an unusually challenging directorial debut with the world’s first live-streamed feature film in “Lost in London,” Woody Harrelson is finally ready to direct again. The actor revealed his desire to be back behind a camera, as well as his latest creative venture as a budding stand-up comic, while at […]",
-        "fa": "تقریباً یک دهه پس از شروع یک کارگردانی غیرمعمول چالش برانگیز با اولین فیلم بلند پخش زنده جهان در «گمشده در لندن»، وودی هارلسون بالاخره آماده کارگردانی مجدد است. این بازیگر تمایل خود برای بازگشت به پشت دوربین و همچنین آخرین سرمایه گذاری خلاقانه خود را به عنوان یک استندآپ کمیک در حال ظهور آشکار کرد."
-      },
-      "content": {
-        "en": "Almost a decade after taking on an unusually challenging directorial debut with the world’s first live-streamed feature film in “Lost in London,” Woody Harrelson is finally ready to direct again. The actor revealed his desire to be back behind a camera, as well as his latest creative venture as a budding stand-up comic, while at […]",
-        "fa": "تقریباً یک دهه پس از شروع یک کارگردانی غیرمعمول چالش برانگیز با اولین فیلم بلند پخش زنده جهان در «گمشده در لندن»، وودی هارلسون بالاخره آماده کارگردانی مجدد است. این بازیگر تمایل خود برای بازگشت به پشت دوربین و همچنین آخرین سرمایه گذاری خلاقانه خود را به عنوان یک استندآپ کمیک در حال ظهور آشکار کرد."
-      },
-      "source": {
-        "en": "Variety",
-        "fa": "Variety"
-      },
-      "link": "https://variety.com/2026/film/global/woody-harrelson-jason-bateman-martin-mcdonagh-coen-brothers-1236838548/",
-      "date": "2026-08-21T13:38:05.083450+00:00",
-      "image": "https://variety.com/wp-content/uploads/2026/08/Woody.jpg",
       "important": false,
       "score": 0
     },
@@ -549,32 +429,128 @@
         "fa": "Variety"
       },
       "link": "https://variety.com/2026/film/global/kenneth-branagh-stunts-mayday-ryan-reynolds-soccer-1236839872/",
-      "date": "2026-08-21T13:38:05.081894+00:00",
+      "date": "2026-08-21T14:25:14.966363+00:00",
       "image": "https://variety.com/wp-content/uploads/2026/08/image_high.jpg",
       "important": false,
       "score": 0
     },
     {
-      "id": "04f5e7f03e52",
+      "id": "069087cef630",
       "title": {
-        "en": "Prince Harry, Elton John and More Ordered to Pay Initial $13 Million to Daily Mail Publisher After Losing Privacy Case",
-        "fa": "شاهزاده هری، التون جان و سایرین پس از از دست دادن پرونده حریم خصوصی، مجبور شدند 13 میلیون دلار اولیه به ناشر دیلی میل بپردازند."
+        "en": "‘Our Loves’: Director Avi Nesher on His October 7 Film, Netanyahu and Boycotts Over Israeli Art",
+        "fa": "«عشق‌های ما»: کارگردان آوی نشر در فیلم ۷ اکتبر خود، نتانیاهو و تحریم‌ها بر سر هنر اسرائیل"
       },
       "excerpt": {
-        "en": "Prince Harry looks like he might be returning back to the U.K. with a sizeable bill to pay. The Prince is among a group of seven high-profile figures — including Elton John and Liz Hurley — who have been ordered to pay £9.54 million ($13 million) in legal costs to the publishers of the Daily Mail […]",
-        "fa": "به نظر می رسد شاهزاده هری با قبض قابل توجهی به بریتانیا برمی گردد. شاهزاده در میان گروهی متشکل از هفت چهره سرشناس - از جمله التون جان و لیز هرلی - قرار دارد که به ناشران دیلی میل 9.54 میلیون پوند به عنوان هزینه های قانونی پرداخت کرده اند."
+        "en": "The terror attacks of Oct. 7, 2023, wherein Hamas and other Palestinian militants poured across the Gaza-Israel barrier into southern Israel, attacking 21 communities and killing 1,195 Israelis and foreign nationals (and abducting an additional 251 people), have been revisited a number of times via documentaries (“We Will Dance Again”) and miniseries (“One Day in […]",
+        "fa": "حملات تروریستی 7 اکتبر 2023، که در آن حماس و دیگر شبه نظامیان فلسطینی از طریق دیوار غزه-اسرائیل به سمت جنوب اسرائیل سرازیر شدند، به 21 جامعه حمله کردند و 1195 اسرائیلی و اتباع خارجی را کشتند، بارها از طریق مستندها و برنامه های روزانه مورد بازبینی قرار گرفته است."
       },
       "content": {
-        "en": "Prince Harry looks like he might be returning back to the U.K. with a sizeable bill to pay. The Prince is among a group of seven high-profile figures — including Elton John and Liz Hurley — who have been ordered to pay £9.54 million ($13 million) in legal costs to the publishers of the Daily Mail […]",
-        "fa": "به نظر می رسد شاهزاده هری با قبض قابل توجهی به بریتانیا برمی گردد. شاهزاده در میان گروهی متشکل از هفت چهره سرشناس - از جمله التون جان و لیز هرلی - قرار دارد که به ناشران دیلی میل 9.54 میلیون پوند به عنوان هزینه های قانونی پرداخت کرده اند."
+        "en": "The terror attacks of Oct. 7, 2023, wherein Hamas and other Palestinian militants poured across the Gaza-Israel barrier into southern Israel, attacking 21 communities and killing 1,195 Israelis and foreign nationals (and abducting an additional 251 people), have been revisited a number of times via documentaries (“We Will Dance Again”) and miniseries (“One Day in […]",
+        "fa": "حملات تروریستی 7 اکتبر 2023، که در آن حماس و دیگر شبه نظامیان فلسطینی از طریق دیوار غزه-اسرائیل به سمت جنوب اسرائیل سرازیر شدند، به 21 جامعه حمله کردند و 1195 اسرائیلی و اتباع خارجی را کشتند، بارها از طریق مستندها و برنامه های روزانه مورد بازبینی قرار گرفته است."
       },
       "source": {
         "en": "Variety",
         "fa": "Variety"
       },
-      "link": "https://variety.com/2026/global/news/prince-harry-ordered-to-pay-13-million-daily-mail-1236839928/",
-      "date": "2026-08-21T13:38:05.081180+00:00",
-      "image": "https://variety.com/wp-content/uploads/2026/08/harry-elton.jpg",
+      "link": "https://variety.com/2026/film/features/our-loves-avi-nesher-october-7-movie-1236839745/",
+      "date": "2026-08-21T14:25:14.965826+00:00",
+      "image": "https://variety.com/wp-content/uploads/2026/08/OurLoves-Lead.jpg",
+      "important": false,
+      "score": 0
+    },
+    {
+      "id": "c9f5de1e04fe",
+      "title": {
+        "en": "Sandra Bullock Joined Social Media to Fight Scammers ‘Using My Name and Likeness’ to Defraud Fans — Not Just to Promote ‘Practical Magic 2’",
+        "fa": "ساندرا بولاک برای مبارزه با کلاهبرداران «با استفاده از نام و شباهت من» برای کلاهبرداری از طرفداران - نه فقط برای تبلیغ «جادوی عملی 2» به رسانه های اجتماعی پیوست."
+      },
+      "excerpt": {
+        "en": "Sandra Bullock revealed on the “SmartLess” podcast (via People) that she was forced to join social media to combat scammers ripping off her likeness in order to defraud people out of money. The Oscar winner joined Instagram in April and has since amassed 6 million followers. While many assumed Bullock was joining social media simply to promote […]",
+        "fa": "ساندرا بولاک در پادکست \"SmartLess\" فاش کرد که مجبور شد به شبکه های اجتماعی بپیوندد تا با کلاهبردارانی که شباهت او را از بین می برند مبارزه کند تا از مردم پول کلاهبرداری کند. برنده اسکار در ماه آوریل به اینستاگرام پیوست و از آن زمان تاکنون 6 میلیون دنبال کننده جمع کرده است. در حالی که بسیاری تصور می کردند بولاک صرفاً برای تبلیغ به رسانه های اجتماعی می پیوندد"
+      },
+      "content": {
+        "en": "Sandra Bullock revealed on the “SmartLess” podcast (via People) that she was forced to join social media to combat scammers ripping off her likeness in order to defraud people out of money. The Oscar winner joined Instagram in April and has since amassed 6 million followers. While many assumed Bullock was joining social media simply to promote […]",
+        "fa": "ساندرا بولاک در پادکست \"SmartLess\" فاش کرد که مجبور شد به شبکه های اجتماعی بپیوندد تا با کلاهبردارانی که شباهت او را از بین می برند مبارزه کند تا از مردم پول کلاهبرداری کند. برنده اسکار در ماه آوریل به اینستاگرام پیوست و از آن زمان تاکنون 6 میلیون دنبال کننده جمع کرده است. در حالی که بسیاری تصور می کردند بولاک صرفاً برای تبلیغ به رسانه های اجتماعی می پیوندد"
+      },
+      "source": {
+        "en": "Variety",
+        "fa": "Variety"
+      },
+      "link": "https://variety.com/2026/film/news/sandra-bullock-social-media-scammers-defrauding-fans-1236839374/",
+      "date": "2026-08-21T14:25:14.965164+00:00",
+      "image": "https://variety.com/wp-content/uploads/2026/04/P105JQRL.jpg",
+      "important": false,
+      "score": 0
+    },
+    {
+      "id": "6ad4a75b1c56",
+      "title": {
+        "en": "Chris Hansen Was Turned Away From ‘Primetime’ Screening After Refusing To Sign Standard NDA, Not “Sign Away” His Rights",
+        "fa": "کریس هنسن پس از امتناع از امضای NDA استاندارد، و نه \"امضا کردن\" حقوق خود، از نمایش \"Primetime\" کنار گذاشته شد."
+      },
+      "excerpt": {
+        "en": "After Chris Hansen claimed he was turned away from a screening A24’s Primetime, it would appear he refused to sign a standard NDA. On Thursday, a source told Deadline that the former To Catch a Predator host was not asked to “sign away my rights” in order to see the Lance Oppenheim-helmed thriller about him, […]",
+        "fa": "پس از اینکه کریس هنسن ادعا کرد که از پخش برنامه پرایم تایم A24 دور شده است، به نظر می رسد که او از امضای یک NDA استاندارد خودداری کرده است. روز پنجشنبه، منبعی به ددلاین گفت که از مجری سابق To Catch a Predator خواسته نشد که «حقوقم را کنار بگذارد» تا فیلم هیجان انگیز لنس اوپنهایم را درباره او ببیند."
+      },
+      "content": {
+        "en": "After Chris Hansen claimed he was turned away from a screening A24’s Primetime, it would appear he refused to sign a standard NDA. On Thursday, a source told Deadline that the former To Catch a Predator host was not asked to “sign away my rights” in order to see the Lance Oppenheim-helmed thriller about him, […]",
+        "fa": "پس از اینکه کریس هنسن ادعا کرد که از پخش برنامه پرایم تایم A24 دور شده است، به نظر می رسد که او از امضای یک NDA استاندارد خودداری کرده است. روز پنجشنبه، منبعی به ددلاین گفت که از مجری سابق To Catch a Predator خواسته نشد که «حقوقم را کنار بگذارد» تا فیلم هیجان انگیز لنس اوپنهایم را درباره او ببیند."
+      },
+      "source": {
+        "en": "Deadline",
+        "fa": "Deadline"
+      },
+      "link": "https://deadline.com/2026/08/chris-hansen-turned-away-primetime-refusing-sign-nda-1237047193/",
+      "date": "2026-08-21T14:25:14.965060+00:00",
+      "image": "https://deadline.com/wp-content/uploads/2026/08/Chris-Hansen-A24.jpg",
+      "important": false,
+      "score": 0
+    },
+    {
+      "id": "ec68ca1e6b95",
+      "title": {
+        "en": "Prime Video Sets Plan To Invest $2 Billion In Latin America",
+        "fa": "مجموعه‌های ویدیوی پرایم قصد دارد ۲ میلیارد دلار در آمریکای لاتین سرمایه‌گذاری کند"
+      },
+      "excerpt": {
+        "en": "Prime Video has announced plans to invest more than $2 billion in Latin America between 2027 and 2030. Details of the plan were announced last night at a Prime Video showcase event in Mexico City. The investment will span original programming, locally produced and acquired content, and live sports rights across Mexico, Brazil, Argentina, Colombia, […]",
+        "fa": "Prime Video برنامه‌های خود را برای سرمایه‌گذاری بیش از 2 میلیارد دلار در آمریکای لاتین بین سال‌های 2027 تا 2030 اعلام کرده است. جزئیات این طرح شب گذشته در یک رویداد نمایشی Prime Video در مکزیکو سیتی اعلام شد. این سرمایه گذاری شامل برنامه نویسی اصلی، محتوای تولید شده و به دست آمده محلی، و حقوق ورزشی زنده در سراسر مکزیک، برزیل، آرژانتین، کلمبیا،"
+      },
+      "content": {
+        "en": "Prime Video has announced plans to invest more than $2 billion in Latin America between 2027 and 2030. Details of the plan were announced last night at a Prime Video showcase event in Mexico City. The investment will span original programming, locally produced and acquired content, and live sports rights across Mexico, Brazil, Argentina, Colombia, […]",
+        "fa": "Prime Video برنامه‌های خود را برای سرمایه‌گذاری بیش از 2 میلیارد دلار در آمریکای لاتین بین سال‌های 2027 تا 2030 اعلام کرده است. جزئیات این طرح شب گذشته در یک رویداد نمایشی Prime Video در مکزیکو سیتی اعلام شد. این سرمایه گذاری شامل برنامه نویسی اصلی، محتوای تولید شده و به دست آمده محلی، و حقوق ورزشی زنده در سراسر مکزیک، برزیل، آرژانتین، کلمبیا،"
+      },
+      "source": {
+        "en": "Deadline",
+        "fa": "Deadline"
+      },
+      "link": "https://deadline.com/2026/08/prime-video-2-billion-latin-america-1237047327/",
+      "date": "2026-08-21T14:25:14.964645+00:00",
+      "image": "https://deadline.com/wp-content/uploads/2026/08/untitled-august-20-2026-at-15-11-25.jpeg",
+      "important": false,
+      "score": 0
+    },
+    {
+      "id": "e75416a28819",
+      "title": {
+        "en": "Prince Harry, Elton John & Other Privacy Case Claimants Ordered To Pay Daily Mail Publisher $13 Million",
+        "fa": "شاهزاده هری، التون جان و سایر مدعیان پرونده حریم خصوصی به پرداخت 13 میلیون دلار به ناشر Daily Mail محکوم شدند"
+      },
+      "excerpt": {
+        "en": "Prince Harry, Elton John, and several other high-profile figures who lost a privacy lawsuit against the publisher of the Daily Mail have been ordered to pay $13 million (£9.5m) to cover the Mail’s legal costs. The seven claimants, also including Liz Hurley and Baroness Doreen Lawrence, must make the payment by August 28. The fee […]",
+        "fa": "شاهزاده هری، التون جان و چند شخصیت برجسته دیگر که در دعوای حقوق خصوصی علیه ناشر دیلی میل شکست خوردند، به پرداخت 13 میلیون دلار برای پوشش هزینه های حقوقی میل محکوم شدند. هفت مدعی، از جمله لیز هرلی و بارونس دورین لارنس، باید تا 28 آگوست پرداخت را انجام دهند."
+      },
+      "content": {
+        "en": "Prince Harry, Elton John, and several other high-profile figures who lost a privacy lawsuit against the publisher of the Daily Mail have been ordered to pay $13 million (£9.5m) to cover the Mail’s legal costs. The seven claimants, also including Liz Hurley and Baroness Doreen Lawrence, must make the payment by August 28. The fee […]",
+        "fa": "شاهزاده هری، التون جان و چند شخصیت برجسته دیگر که در دعوای حقوق خصوصی علیه ناشر دیلی میل شکست خوردند، به پرداخت 13 میلیون دلار برای پوشش هزینه های حقوقی میل محکوم شدند. هفت مدعی، از جمله لیز هرلی و بارونس دورین لارنس، باید تا 28 آگوست پرداخت را انجام دهند."
+      },
+      "source": {
+        "en": "Deadline",
+        "fa": "Deadline"
+      },
+      "link": "https://deadline.com/2026/08/prince-harry-elton-john-daily-mail-13-million-1237047367/",
+      "date": "2026-08-21T14:25:14.963087+00:00",
+      "image": "https://deadline.com/wp-content/uploads/2026/07/GettyImages-2257421965-e1783404081687.jpg",
       "important": false,
       "score": 0
     }
