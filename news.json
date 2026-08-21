@@ -1,7 +1,55 @@
 {
-  "updated_at": "2026-08-21T14:25:15.099441+00:00",
-  "count": 23,
+  "updated_at": "2026-08-21T15:23:52.820509+00:00",
+  "count": 24,
   "news": [
+    {
+      "id": "e722bb7942db",
+      "title": {
+        "en": "‘The Pitt’ Season 3 Trailer: Dr. Robby’s First Day Back Is Filled With More Medical Emergencies",
+        "fa": "تریلر فصل سوم «The Pitt»: اولین روز بازگشت دکتر رابی پر از اورژانس های پزشکی بیشتر است"
+      },
+      "excerpt": {
+        "en": "It’s time to clock back in for “The Pitt.” HBO has released the first trailer for Season 3 of the medical drama, which will premiere in January 2027. It follows the first day back on the job for Noah Wyle’s Dr. Robby, after he went on a three-month sabbatical at the end of Season 2. […]",
+        "fa": "زمان آن فرا رسیده است که به «پیت» بازگردیم. HBO اولین تریلر فصل 3 این درام پزشکی را منتشر کرده است که اولین تریلر آن در ژانویه 2027 خواهد بود. این تریلر پس از اولین روز کار برای دکتر رابی به کارگردانی نوآ وایل است، پس از آن که او در پایان فصل 2 تعطیلی سه ماهه را پشت سر گذاشت."
+      },
+      "content": {
+        "en": "It’s time to clock back in for “The Pitt.” HBO has released the first trailer for Season 3 of the medical drama, which will premiere in January 2027. It follows the first day back on the job for Noah Wyle’s Dr. Robby, after he went on a three-month sabbatical at the end of Season 2. […]",
+        "fa": "زمان آن فرا رسیده است که به «پیت» بازگردیم. HBO اولین تریلر فصل 3 این درام پزشکی را منتشر کرده است که اولین تریلر آن در ژانویه 2027 خواهد بود. این تریلر پس از اولین روز کار برای دکتر رابی به کارگردانی نوآ وایل است، پس از آن که او در پایان فصل 2 تعطیلی سه ماهه را پشت سر گذاشت."
+      },
+      "source": {
+        "en": "Variety",
+        "fa": "Variety"
+      },
+      "link": "https://variety.com/2026/tv/news/the-pitt-season-3-trailer-noah-wyle-dr-robby-1236840084/",
+      "date": "2026-08-21T15:23:52.564433+00:00",
+      "image": "https://variety.com/wp-content/uploads/2026/08/the-pitt.jpg",
+      "important": true,
+      "score": 10
+    },
+    {
+      "id": "1872e360892b",
+      "title": {
+        "en": "Yahya Abdul-Mateen II Opens Up About ‘Wonder Man’ Un-Renewal: “It’s a Lesson in Life”",
+        "fa": "یحیی عبدالمتین دوم درباره عدم تمدید «مرد شگفت‌انگیز» می‌گوید: «این یک درس در زندگی است»"
+      },
+      "excerpt": {
+        "en": "The Marvel series was renewed for a second season in March, but Disney+ reversed course last month: \"I was told that it had something to do with the viewership numbers. I wasn’t told what those numbers were, but ultimately ... I think they decided that it didn’t make sense for business.\"",
+        "fa": "سریال Marvel برای فصل دوم در ماه مارس تمدید شد، اما Disney+ ماه گذشته مسیر خود را تغییر داد: \"به من گفته شد که ربطی به تعداد بینندگان دارد. به من نگفتند که این اعداد چقدر هستند، اما در نهایت... فکر می‌کنم آنها تصمیم گرفتند که برای تجارت منطقی نیست.\""
+      },
+      "content": {
+        "en": "The Marvel series was renewed for a second season in March, but Disney+ reversed course last month: \"I was told that it had something to do with the viewership numbers. I wasn’t told what those numbers were, but ultimately ... I think they decided that it didn’t make sense for business.\"",
+        "fa": "سریال Marvel برای فصل دوم در ماه مارس تمدید شد، اما Disney+ ماه گذشته مسیر خود را تغییر داد: \"به من گفته شد که ربطی به تعداد بینندگان دارد. به من نگفتند که این اعداد چقدر هستند، اما در نهایت... فکر می‌کنم آنها تصمیم گرفتند که برای تجارت منطقی نیست.\""
+      },
+      "source": {
+        "en": "The Hollywood Reporter",
+        "fa": "The Hollywood Reporter"
+      },
+      "link": "https://www.hollywoodreporter.com/tv/tv-news/yahya-abdul-mateen-ii-wonder-man-cancellation-1236678382/",
+      "date": "2026-08-21T15:23:52.566959+00:00",
+      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/01/CBK-107-06639_R.jpg?crop=0px%2C47px%2C6000px%2C3357px&#038;resize=1440%2C810",
+      "important": true,
+      "score": 9
+    },
     {
       "id": "d3654a070571",
       "title": {
@@ -21,7 +69,7 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/adult-supervision-sells-wb-discovery-more-fantastic-fest-1237047254/",
-      "date": "2026-08-21T14:25:14.964718+00:00",
+      "date": "2026-08-21T15:23:52.563538+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/04/Adult-Supervision.jpg",
       "important": true,
       "score": 7
@@ -45,56 +93,32 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/sxsw-true-crime-i-got-bombed-at-harveys-us-deal-release-1237047256/",
-      "date": "2026-08-21T14:25:14.963877+00:00",
+      "date": "2026-08-21T15:23:52.562178+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/I-Got-Bombed-At-Harveys-.jpg",
       "important": true,
       "score": 4
     },
     {
-      "id": "57bf251bf659",
+      "id": "7f3791fa3c96",
       "title": {
-        "en": "Cameron Diaz’s Netflix Action-Comedy ‘Bad Day’ Gets December Release and First Look",
-        "fa": "اکشن-کمدی «روز بد» کامرون دیاز در نتفلیکس در ماه دسامبر منتشر می شود و اولین نگاه"
+        "en": "‘Pitt’ Crew: All 13 Emmy-Nominated Actors on Bedside Manners, Blow-Ups and Fan Theories",
+        "fa": "خدمه «پیت»: همه 13 بازیگر نامزد امی در رفتارهای کنار تخت، انفجارها و تئوری های طرفداران"
       },
       "excerpt": {
-        "en": "Ed O'Neill and Danielle Brooks also star in director Jake Szymanski's action-comedy.",
-        "fa": "اد اونیل و دنیل بروکس همچنین در فیلم اکشن کمدی کارگردان جیک شیمانسکی بازی می کنند."
+        "en": "TheWrap magazine: \"It's such a collective effort,\" Noah Wyle says of making the hit HBO Max hospital drama The post ‘Pitt’ Crew: All 13 Emmy-Nominated Actors on Bedside Manners, Blow-Ups and Fan Theories appeared first on TheWrap .",
+        "fa": "مجله TheWrap: «این یک تلاش جمعی است»، نوآ وایل درباره ساخت درام موفق بیمارستان HBO Max می گوید."
       },
       "content": {
-        "en": "Ed O'Neill and Danielle Brooks also star in director Jake Szymanski's action-comedy.",
-        "fa": "اد اونیل و دنیل بروکس همچنین در فیلم اکشن کمدی کارگردان جیک شیمانسکی بازی می کنند."
+        "en": "TheWrap magazine: \"It's such a collective effort,\" Noah Wyle says of making the hit HBO Max hospital drama The post ‘Pitt’ Crew: All 13 Emmy-Nominated Actors on Bedside Manners, Blow-Ups and Fan Theories appeared first on TheWrap .",
+        "fa": "مجله TheWrap: «این یک تلاش جمعی است»، نوآ وایل درباره ساخت درام موفق بیمارستان HBO Max می گوید."
       },
       "source": {
-        "en": "The Hollywood Reporter",
-        "fa": "The Hollywood Reporter"
+        "en": "The Wrap",
+        "fa": "The Wrap"
       },
-      "link": "https://www.hollywoodreporter.com/movies/movie-news/bad-day-cameron-diaz-netflix-release-first-look-1236678165/",
-      "date": "2026-08-21T14:25:14.967933+00:00",
-      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/BADDAY_20251201_16572_R3.jpg?w=1296&#038;h=730&#038;crop=1",
-      "important": false,
-      "score": 3
-    },
-    {
-      "id": "d1fd8f1dd251",
-      "title": {
-        "en": "Neon Sets Early Premium-Format Release for Na Hong-jin’s ‘Hope’ (Exclusive)",
-        "fa": "نئون نسخه اولیه با فرمت ممتاز را برای «Hope» Na Hong-jin تنظیم می کند"
-      },
-      "excerpt": {
-        "en": "The Korean action spectacle, now opening on Sept. 7 at 175 large-format locations, was one of the buzziest films to emerge from this year's Cannes Film Festival, where THR's critic hailed it an “instant cult classic.”",
-        "fa": "نمایش اکشن کره‌ای که اکنون در 7 سپتامبر در 175 مکان بزرگ اکران می‌شود، یکی از پرهیاهوترین فیلم‌هایی بود که از جشنواره فیلم کن امسال ظاهر شد، جایی که منتقد THR آن را یک «کلاسیک کالت فوری» توصیف کرد."
-      },
-      "content": {
-        "en": "The Korean action spectacle, now opening on Sept. 7 at 175 large-format locations, was one of the buzziest films to emerge from this year's Cannes Film Festival, where THR's critic hailed it an “instant cult classic.”",
-        "fa": "نمایش اکشن کره‌ای که اکنون در 7 سپتامبر در 175 مکان بزرگ اکران می‌شود، یکی از پرهیاهوترین فیلم‌هایی بود که از جشنواره فیلم کن امسال ظاهر شد، جایی که منتقد THR آن را یک «کلاسیک کالت فوری» توصیف کرد."
-      },
-      "source": {
-        "en": "The Hollywood Reporter",
-        "fa": "The Hollywood Reporter"
-      },
-      "link": "https://www.hollywoodreporter.com/movies/movie-news/neon-premium-format-release-na-hong-jin-hope-1236678228/",
-      "date": "2026-08-21T14:25:14.967563+00:00",
-      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/05/HOPE-MCDHOPE_EC035-H-2026.jpg?w=1296&#038;h=730&#038;crop=1",
+      "link": "https://www.thewrap.com/industry-news/awards/the-pitt-season-2-cast-interview-fan-theories/",
+      "date": "2026-08-21T15:23:52.568827+00:00",
+      "image": "https://www.thewrap.com/wp-content/uploads/2026/03/ThePittRobbyAbbott.jpg",
       "important": false,
       "score": 3
     },
@@ -117,80 +141,56 @@
         "fa": "The Hollywood Reporter"
       },
       "link": "https://www.hollywoodreporter.com/tv/tv-features/chase-stokes-outer-banks-finale-goodbye-interview-1236677412/",
-      "date": "2026-08-21T14:25:14.966963+00:00",
+      "date": "2026-08-21T15:23:52.567358+00:00",
       "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/CS-2_Cred_-Maggie-Nutley.png?w=1440&#038;h=810&#038;crop=1",
       "important": false,
       "score": 3
     },
     {
-      "id": "7542a8139906",
+      "id": "a4f77ce0d76e",
       "title": {
-        "en": "‘Supporting Role’ Director Ana Urushadze Preps ‘Fear of Butterflies,’ a Detective Story With ‘Mysticism and a Touch of Body Horror’ (EXCLUSIVE)",
-        "fa": "کارگردان «نقش پشتیبان»، آنا اوروشادزه، «ترس از پروانه‌ها» را آماده می‌کند، داستانی کارآگاهی با «عرفان و کمی ترس از بدن»"
+        "en": "Magenta Light Studios Nabs U.S. and Canadian Distribution Rights to Brazilian Crime Drama ‘The King of the Internet’ (EXCLUSIVE)",
+        "fa": "استودیوی Magenta Light حقوق توزیع ایالات متحده و کانادا را برای درام جنایی برزیلی \"پادشاه اینترنت\" قبضه می کند."
       },
       "excerpt": {
-        "en": "Georgian director Ana Urushadze (“Scary Mother”), whose Rotterdam prizewinner “Supporting Role” plays in competition this week at the Sarajevo Film Festival, is prepping her third feature film. “Fear of Butterflies” follows a young woman on the cusp of 30 who is “going through some bizarre things, mentally and physically,” Urushadze told Variety. The director described the […]",
-        "fa": "آنا اوروشادزه کارگردان گرجستانی که برنده جایزه روتردام \"نقش حمایتی\" او این هفته در جشنواره فیلم سارایوو در رقابت بازی می کند، سومین فیلم بلند خود را آماده می کند. اوروشادزه به ورایتی گفت: «ترس از پروانه‌ها» زن جوانی را دنبال می‌کند که در آستانه 30 سالگی قرار دارد که «از نظر روحی و جسمی در حال گذراندن چیزهای عجیب و غریب است». کارگردان شرح داد"
+        "en": "Magenta Light Studios has acquired the U.S. and Canadian distribution rights to “The King of the Internet” (“O Rei da Internet”), the acclaimed Brazilian crime drama from filmmaker Fabrício Bittar. Based on the true story of Daniel Nascimento, a teenage hacker who became one of Brazil’s most notorious cybercriminals, the film is vying to represent […]",
+        "fa": "استودیوی Magenta Light حق پخش در ایالات متحده و کانادا را برای «پادشاه اینترنت»، درام جنایی تحسین شده برزیلی فابریسیو بیتار، فیلمساز، به دست آورده است. این فیلم بر اساس داستان واقعی دانیل ناسیمنتو، یک هکر نوجوان که به یکی از بدنام ترین مجرمان سایبری برزیل تبدیل شد، برای نمایندگی رقابت می کند."
       },
       "content": {
-        "en": "Georgian director Ana Urushadze (“Scary Mother”), whose Rotterdam prizewinner “Supporting Role” plays in competition this week at the Sarajevo Film Festival, is prepping her third feature film. “Fear of Butterflies” follows a young woman on the cusp of 30 who is “going through some bizarre things, mentally and physically,” Urushadze told Variety. The director described the […]",
-        "fa": "آنا اوروشادزه کارگردان گرجستانی که برنده جایزه روتردام \"نقش حمایتی\" او این هفته در جشنواره فیلم سارایوو در رقابت بازی می کند، سومین فیلم بلند خود را آماده می کند. اوروشادزه به ورایتی گفت: «ترس از پروانه‌ها» زن جوانی را دنبال می‌کند که در آستانه 30 سالگی قرار دارد که «از نظر روحی و جسمی در حال گذراندن چیزهای عجیب و غریب است». کارگردان شرح داد"
+        "en": "Magenta Light Studios has acquired the U.S. and Canadian distribution rights to “The King of the Internet” (“O Rei da Internet”), the acclaimed Brazilian crime drama from filmmaker Fabrício Bittar. Based on the true story of Daniel Nascimento, a teenage hacker who became one of Brazil’s most notorious cybercriminals, the film is vying to represent […]",
+        "fa": "استودیوی Magenta Light حق پخش در ایالات متحده و کانادا را برای «پادشاه اینترنت»، درام جنایی تحسین شده برزیلی فابریسیو بیتار، فیلمساز، به دست آورده است. این فیلم بر اساس داستان واقعی دانیل ناسیمنتو، یک هکر نوجوان که به یکی از بدنام ترین مجرمان سایبری برزیل تبدیل شد، برای نمایندگی رقابت می کند."
       },
       "source": {
         "en": "Variety",
         "fa": "Variety"
       },
-      "link": "https://variety.com/2026/film/global/supporting-role-ana-urushadze-fear-of-butterflies-1236839801/",
-      "date": "2026-08-21T14:25:14.966658+00:00",
-      "image": "https://variety.com/wp-content/uploads/2024/05/Supporting-Role.jpg",
+      "link": "https://variety.com/2026/film/global/magenta-light-studios-king-of-the-internet-fabricio-bittar-1236839795/",
+      "date": "2026-08-21T15:23:52.565923+00:00",
+      "image": "https://variety.com/wp-content/uploads/2026/08/King-of-the-Internet.jpg",
       "important": false,
       "score": 3
     },
     {
-      "id": "7defbc535e72",
+      "id": "fc39f96c033a",
       "title": {
-        "en": "Canada’s H264 Nabs Colombia’s ‘Where the River Begins’ Ahead of Toronto Fest World Premiere",
-        "fa": "H264 کانادا، «Where the River Begins» کلمبیا را پیش از اکران جهانی جشنواره تورنتو شکست می دهد."
+        "en": "Deauville American Film Festival Unveils Buzzy Lineup, Sets Honors for Brendan Fraser, Faye Dunaway, Ethan Hawke, Susan Surandon, Sophie Thatcher and Patrick Schwarzenegger",
+        "fa": "فستیوال فیلم آمریکایی دوویل از ترکیب Buzzy رونمایی کرد، برای برندان فریزر، فی داناوی، اتان هاوک، سوزان سوراندون، سوفی تاچر و پاتریک شوارتزنگر تقدیر کرد."
       },
       "excerpt": {
-        "en": "Canadian distributor h264 has pounced on worldwide sales rights to “Where the River Begins” (“Donde comienza el rio”) by Colombian-Canadian filmmaker Juan Andrés Arango (“La Playa DC”), ahead of its world premiere at the Toronto Film Festival (TIFF). Starring Girleza Duave Cerezo, Juan David Junca Linares and Ana Michell Nama Dumaza, “Where the River Begins” […]",
-        "fa": "توزیع‌کننده کانادایی h264 حقوق فروش جهانی «جایی که رودخانه آغاز می‌شود» ساخته خوان آندرس آرانگو، فیلمساز کلمبیایی-کانادایی، پیش از اکران جهانی آن در جشنواره فیلم تورنتو، افزایش یافته است. با بازی گرلزا دواو سرزو، خوان دیوید یونکا لینارس و آنا میشل ناما دومازا، «جایی که رودخانه آغاز می‌شود»"
+        "en": "The Deauville American Film Festival has unveiled the lineup of films screening at the upcoming 2026 edition, including numerous French premieres for some the year’s buzziest movies. Among the titles set to land at the festival in the French seaside town are Florian Zeller’s “Bunker,” fresh from its world premiere in Venice, plus “Butterfly Jam” […]",
+        "fa": "جشنواره فیلم آمریکایی دوویل از فهرست فیلم‌هایی که در دوره آتی ۲۰۲۶ به نمایش در می‌آیند، از جمله نمایش‌های متعدد در فرانسه برای پرهیاهوترین فیلم‌های سال رونمایی کرده است. از جمله عناوینی که قرار است در این جشنواره در شهر ساحلی فرانسه به نمایش درآیند، «Bunker» اثر فلوریان زلر، تازه از اولین نمایش جهانی آن در ونیز، به‌علاوه «مربا پروانه» است."
       },
       "content": {
-        "en": "Canadian distributor h264 has pounced on worldwide sales rights to “Where the River Begins” (“Donde comienza el rio”) by Colombian-Canadian filmmaker Juan Andrés Arango (“La Playa DC”), ahead of its world premiere at the Toronto Film Festival (TIFF). Starring Girleza Duave Cerezo, Juan David Junca Linares and Ana Michell Nama Dumaza, “Where the River Begins” […]",
-        "fa": "توزیع‌کننده کانادایی h264 حقوق فروش جهانی «جایی که رودخانه آغاز می‌شود» ساخته خوان آندرس آرانگو، فیلمساز کلمبیایی-کانادایی، پیش از اکران جهانی آن در جشنواره فیلم تورنتو، افزایش یافته است. با بازی گرلزا دواو سرزو، خوان دیوید یونکا لینارس و آنا میشل ناما دومازا، «جایی که رودخانه آغاز می‌شود»"
+        "en": "The Deauville American Film Festival has unveiled the lineup of films screening at the upcoming 2026 edition, including numerous French premieres for some the year’s buzziest movies. Among the titles set to land at the festival in the French seaside town are Florian Zeller’s “Bunker,” fresh from its world premiere in Venice, plus “Butterfly Jam” […]",
+        "fa": "جشنواره فیلم آمریکایی دوویل از فهرست فیلم‌هایی که در دوره آتی ۲۰۲۶ به نمایش در می‌آیند، از جمله نمایش‌های متعدد در فرانسه برای پرهیاهوترین فیلم‌های سال رونمایی کرده است. از جمله عناوینی که قرار است در این جشنواره در شهر ساحلی فرانسه به نمایش درآیند، «Bunker» اثر فلوریان زلر، تازه از اولین نمایش جهانی آن در ونیز، به‌علاوه «مربا پروانه» است."
       },
       "source": {
         "en": "Variety",
         "fa": "Variety"
       },
-      "link": "https://variety.com/2026/film/global/canada-h264-where-the-river-begins-toronto-fest-premiere-1236838810/",
-      "date": "2026-08-21T14:25:14.966433+00:00",
-      "image": "https://variety.com/wp-content/uploads/2026/08/01.DCR_Stills_TC03082115_1.37.0-2.jpeg",
-      "important": false,
-      "score": 3
-    },
-    {
-      "id": "bd2dcc7a4eb9",
-      "title": {
-        "en": "‘Free Nelson Mandela’ Maker Rogan Productions Opens South Africa Office & Tweaks Management Set Up",
-        "fa": "Rogan Productions سازنده «نلسون ماندلا را آزاد کنید» دفتر آفریقای جنوبی و تنظیمات مدیریت را راه‌اندازی کرد"
-      },
-      "excerpt": {
-        "en": "EXCLUSIVE: Fresh off producing Channel 4’s Free Nelson Mandela, Rogan Productions has opened an office in South Africa. The new unit, Rogan South Africa, will be a production base in Johannesburg with close links to Cape Town. This marks the first permanent international expansion for the 13-year-old London-based company. At the same time, Rogan is […]",
-        "fa": "انحصاری: Rogan Productions با تولید نلسون ماندلا رایگان از کانال 4، دفتری را در آفریقای جنوبی افتتاح کرده است. واحد جدید، روگان آفریقای جنوبی، یک پایگاه تولیدی در ژوهانسبورگ با پیوند نزدیک به کیپ تاون خواهد بود. این اولین توسعه دائمی بین المللی برای این شرکت 13 ساله مستقر در لندن است. در عین حال، روگان است"
-      },
-      "content": {
-        "en": "EXCLUSIVE: Fresh off producing Channel 4’s Free Nelson Mandela, Rogan Productions has opened an office in South Africa. The new unit, Rogan South Africa, will be a production base in Johannesburg with close links to Cape Town. This marks the first permanent international expansion for the 13-year-old London-based company. At the same time, Rogan is […]",
-        "fa": "انحصاری: Rogan Productions با تولید نلسون ماندلا رایگان از کانال 4، دفتری را در آفریقای جنوبی افتتاح کرده است. واحد جدید، روگان آفریقای جنوبی، یک پایگاه تولیدی در ژوهانسبورگ با پیوند نزدیک به کیپ تاون خواهد بود. این اولین توسعه دائمی بین المللی برای این شرکت 13 ساله مستقر در لندن است. در عین حال، روگان است"
-      },
-      "source": {
-        "en": "Deadline",
-        "fa": "Deadline"
-      },
-      "link": "https://deadline.com/2026/08/rogan-productions-opens-south-africa-office-1237047249/",
-      "date": "2026-08-21T14:25:14.964957+00:00",
-      "image": "https://deadline.com/wp-content/uploads/2026/08/Rogan-Prods-e1787299913128.jpg",
+      "link": "https://variety.com/2026/film/global/deauville-american-film-festival-unveils-lineup-honorees-1236839970/",
+      "date": "2026-08-21T15:23:52.564601+00:00",
+      "image": "https://variety.com/wp-content/uploads/2025/11/P1032VJW.jpg",
       "important": false,
       "score": 3
     },
@@ -213,7 +213,7 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/international-insider-australia-attention-battle-1237046111/",
-      "date": "2026-08-21T14:25:14.964490+00:00",
+      "date": "2026-08-21T15:23:52.563148+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/Colin-Narrow-Road-and-Top-End-Bub.png",
       "important": false,
       "score": 3
@@ -237,7 +237,7 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/monsters-of-god-eric-goode-interview-reptile-trafficking-1237045213/",
-      "date": "2026-08-21T14:25:14.963258+00:00",
+      "date": "2026-08-21T15:23:52.561125+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/reptile-dealer-mike-van-nostrand-with-jackson-s-chameleon.jpg",
       "important": false,
       "score": 3
@@ -261,7 +261,7 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/terrence-terrell-sachin-bhatt-the-summer-they-came-film-1237047319/",
-      "date": "2026-08-21T14:25:14.962947+00:00",
+      "date": "2026-08-21T15:23:52.560692+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/Terrence-Terrell-Jayne-Taini-Sachin-Bhatt-Mario-Cantone-and-William-Sadler.jpg",
       "important": false,
       "score": 3
@@ -285,32 +285,56 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/features/craft/the-top-chef-reality-show-casting-interview-1235211638/",
-      "date": "2026-08-21T14:25:14.970704+00:00",
+      "date": "2026-08-21T15:23:52.571948+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/NUP_208397_02672.jpg?w=650",
       "important": false,
       "score": 1
     },
     {
-      "id": "37e5e31b0a47",
+      "id": "643dfb0e00a0",
       "title": {
-        "en": "How ‘Hadestown: The Musical’ Topped $20 Million at the Box Office to Become an Unlikely Indie Blockbuster",
-        "fa": "چگونه «هدستون: موزیکال» در باکس آفیس به 20 میلیون دلار رسید تا به یک فیلم بلاک باستر مستقل بعید تبدیل شود"
+        "en": "Box Office: ‘Insidious: Out of the Further’ Makes $3 Million in Previews",
+        "fa": "باکس آفیس: فیلم Insidious: Out of the Further در پیش نمایش 3 میلیون دلار درآمد دارد"
       },
       "excerpt": {
-        "en": "The filmed version of ”Hadestown” has supplanted “Hamilton” as the highest-grossing live capture of a stage show in history.",
-        "fa": "نسخه فیلم‌برداری شده «هدستون» جایگزین «همیلتون» به عنوان پردرآمدترین فیلم زنده از یک نمایش صحنه در تاریخ شده است."
+        "en": "Halloween is coming a little early this year, as “Insidious: Out of the Further” is opening in theaters this weekend. The sixth entry in Sony’s horror franchise has made $3 million in Thursday previews at the box office. The new movie, which is a sequel to 2023’s “Insidious: The Red Door,” is aiming for a […]",
+        "fa": "هالووین امسال کمی زودتر از راه می رسد، زیرا فیلم Insidious: Out of the Further این آخر هفته در سینماها اکران می شود. ششمین فیلم از سری فیلم های ترسناک سونی در پیش نمایش های پنج شنبه در باکس آفیس 3 میلیون دلار فروش داشت. این فیلم جدید که دنباله ای بر فیلم Insidious: The Red Door در سال 2023 است، قصد دارد یک"
       },
       "content": {
-        "en": "The filmed version of ”Hadestown” has supplanted “Hamilton” as the highest-grossing live capture of a stage show in history.",
-        "fa": "نسخه فیلم‌برداری شده «هدستون» جایگزین «همیلتون» به عنوان پردرآمدترین فیلم زنده از یک نمایش صحنه در تاریخ شده است."
+        "en": "Halloween is coming a little early this year, as “Insidious: Out of the Further” is opening in theaters this weekend. The sixth entry in Sony’s horror franchise has made $3 million in Thursday previews at the box office. The new movie, which is a sequel to 2023’s “Insidious: The Red Door,” is aiming for a […]",
+        "fa": "هالووین امسال کمی زودتر از راه می رسد، زیرا فیلم Insidious: Out of the Further این آخر هفته در سینماها اکران می شود. ششمین فیلم از سری فیلم های ترسناک سونی در پیش نمایش های پنج شنبه در باکس آفیس 3 میلیون دلار فروش داشت. این فیلم جدید که دنباله ای بر فیلم Insidious: The Red Door در سال 2023 است، قصد دارد یک"
       },
       "source": {
-        "en": "IndieWire",
-        "fa": "IndieWire"
+        "en": "Variety",
+        "fa": "Variety"
       },
-      "link": "https://www.indiewire.com/news/box-office/hadestown-the-musical-breaks-box-office-records-hamilton-1235212066/",
-      "date": "2026-08-21T14:25:14.970087+00:00",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/07/HADESTOWN_-THE-MUSICAL-Still-8-_-Courtesy-of-Crosswalk-and-LD-Entertainment.png?w=650",
+      "link": "https://variety.com/2026/tv/box-office/insidious-6-out-of-further-box-office-previews-1236839269/",
+      "date": "2026-08-21T15:23:52.566415+00:00",
+      "image": "https://variety.com/wp-content/uploads/2026/08/MCDINOU_SP006.jpg",
+      "important": false,
+      "score": 1
+    },
+    {
+      "id": "d7d040edf569",
+      "title": {
+        "en": "Disney Inks Creator Content Deal With Dhar Mann Studios",
+        "fa": "قرارداد سازنده محتوای جوهرهای Disney با استودیو Dhar Mann"
+      },
+      "excerpt": {
+        "en": "The Walt Disney Company today announced a new original content deal with popular scripted creator Dhar Mann. The agreement calls for an initial 20-episode order to be produced by Dhar Mann Studios for Disney. The content will be crafted for kids, tweens, teens and families. Dhar Mann Studios has built one of the world’s largest digital […]",
+        "fa": "شرکت والت دیزنی امروز قرارداد جدیدی با محتوای اصلی با خالق فیلمنامه معروف دار من اعلام کرد. در این توافقنامه آمده است که یک سفارش اولیه 20 قسمتی توسط استودیو Dhar Mann برای دیزنی تولید شود. محتوا برای کودکان، نوجوانان، نوجوانان و خانواده ها ساخته خواهد شد. استودیو Dhar Mann یکی از بزرگترین دیجیتال های جهان را ساخته است"
+      },
+      "content": {
+        "en": "The Walt Disney Company today announced a new original content deal with popular scripted creator Dhar Mann. The agreement calls for an initial 20-episode order to be produced by Dhar Mann Studios for Disney. The content will be crafted for kids, tweens, teens and families. Dhar Mann Studios has built one of the world’s largest digital […]",
+        "fa": "شرکت والت دیزنی امروز قرارداد جدیدی با محتوای اصلی با خالق فیلمنامه معروف دار من اعلام کرد. در این توافقنامه آمده است که یک سفارش اولیه 20 قسمتی توسط استودیو Dhar Mann برای دیزنی تولید شود. محتوا برای کودکان، نوجوانان، نوجوانان و خانواده ها ساخته خواهد شد. استودیو Dhar Mann یکی از بزرگترین دیجیتال های جهان را ساخته است"
+      },
+      "source": {
+        "en": "Deadline",
+        "fa": "Deadline"
+      },
+      "link": "https://deadline.com/2026/08/disney-dhar-mann-studios-deal-1237047179/",
+      "date": "2026-08-21T15:23:52.560258+00:00",
+      "image": "https://deadline.com/wp-content/uploads/2026/01/GettyImages-2215118936-e1769473060861.jpg",
       "important": false,
       "score": 1
     },
@@ -333,7 +357,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/criticism/movies/it-ends-indie-horror-movie-review-1235101708/",
-      "date": "2026-08-21T14:25:14.970855+00:00",
+      "date": "2026-08-21T15:23:52.572190+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2025/03/it-ends-318958.jpeg?w=650",
       "important": false,
       "score": 0
@@ -357,32 +381,56 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/criticism/movies/spa-weekend-review-leslie-mann-isla-fisher-michelle-buteau-1235211346/",
-      "date": "2026-08-21T14:25:14.970234+00:00",
+      "date": "2026-08-21T15:23:52.571177+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/bf1ab8bc408ccac7cdff2b637cf9f6cae1181667-8192x5464-1.avif?w=650",
       "important": false,
       "score": 0
     },
     {
-      "id": "06b2bfb61cb9",
+      "id": "0cdaf16aaa0a",
       "title": {
-        "en": "Gwyneth Paltrow Pokes Fun at That Viral Dinner Party Invite for OpenAI’s Sam Altman",
-        "fa": "گوئینت پالترو در آن مهمانی شام ویروسی برای سم آلتمن از OpenAI سرگرم کننده است."
+        "en": "Michelle Pfeiffer Debunks Retirement Rumors: ‘It’s the Most Ridiculous Thing’",
+        "fa": "میشل فایفر شایعات بازنشستگی را رد کرد: \"این مضحک ترین چیز است\""
       },
       "excerpt": {
-        "en": "She's going to need more chairs: The Goop founder posts a tongue-in-cheek series of dinner party invites in honor of 'Sex and the City' siren Samantha Jones, Shrek, Jessica Rabbit and Chanty Beluga.",
-        "fa": "او به صندلی‌های بیشتری نیاز دارد: بنیانگذار Goop یک سری دعوت‌نامه‌های مهمانی شام را به افتخار سامانتا جونز، شرک، جسیکا رابیت و چانتی بلوگا، آژیر «سکس و شهر» منتشر می‌کند."
+        "en": "\"Of course I want to star in another movie!\" the \"Margo's Got Money Troubles\" star says The post Michelle Pfeiffer Debunks Retirement Rumors: ‘It’s the Most Ridiculous Thing’ appeared first on TheWrap .",
+        "fa": "\"البته که می خواهم در فیلم دیگری بازی کنم!\" ستاره \"مارگو مشکلات پول دارد\" می گوید"
       },
       "content": {
-        "en": "She's going to need more chairs: The Goop founder posts a tongue-in-cheek series of dinner party invites in honor of 'Sex and the City' siren Samantha Jones, Shrek, Jessica Rabbit and Chanty Beluga.",
-        "fa": "او به صندلی‌های بیشتری نیاز دارد: بنیانگذار Goop یک سری دعوت‌نامه‌های مهمانی شام را به افتخار سامانتا جونز، شرک، جسیکا رابیت و چانتی بلوگا، آژیر «سکس و شهر» منتشر می‌کند."
+        "en": "\"Of course I want to star in another movie!\" the \"Margo's Got Money Troubles\" star says The post Michelle Pfeiffer Debunks Retirement Rumors: ‘It’s the Most Ridiculous Thing’ appeared first on TheWrap .",
+        "fa": "\"البته که می خواهم در فیلم دیگری بازی کنم!\" ستاره \"مارگو مشکلات پول دارد\" می گوید"
+      },
+      "source": {
+        "en": "The Wrap",
+        "fa": "The Wrap"
+      },
+      "link": "https://www.thewrap.com/creative-content/tv-shows/michelle-pfeiffer-debunks-retirement-rumors/",
+      "date": "2026-08-21T15:23:52.569075+00:00",
+      "image": "https://www.thewrap.com/wp-content/uploads/2026/08/michelle-pfeiffer-fallon.jpg",
+      "important": false,
+      "score": 0
+    },
+    {
+      "id": "40e018fa6ac3",
+      "title": {
+        "en": "Chris Hansen Didn’t Watch ‘Primetime’ Screening Because “A24 Wanted Me to Sign Away My Rights”",
+        "fa": "کریس هنسن اکران «Primetime» را تماشا نکرد زیرا «A24 از من می‌خواست حقوقم را رد کنم»"
+      },
+      "excerpt": {
+        "en": "The former 'To Catch a Predator' host said he went to the studio's offices for a private screening of the Robert Pattinson-led film but left without seeing it.",
+        "fa": "مجری سابق «برای گرفتن شکارچی» گفت که برای نمایش خصوصی فیلم به رهبری رابرت پتینسون به دفاتر استودیو رفته اما بدون دیدن آن آنجا را ترک کرده است."
+      },
+      "content": {
+        "en": "The former 'To Catch a Predator' host said he went to the studio's offices for a private screening of the Robert Pattinson-led film but left without seeing it.",
+        "fa": "مجری سابق «برای گرفتن شکارچی» گفت که برای نمایش خصوصی فیلم به رهبری رابرت پتینسون به دفاتر استودیو رفته اما بدون دیدن آن آنجا را ترک کرده است."
       },
       "source": {
         "en": "The Hollywood Reporter",
         "fa": "The Hollywood Reporter"
       },
-      "link": "https://www.hollywoodreporter.com/lifestyle/lifestyle-news/gwyneth-paltrow-sam-altman-dinner-invite-openai-1236678196/",
-      "date": "2026-08-21T14:25:14.967723+00:00",
-      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2025/12/Gwyneth-Paltrow-WIE-Main-2025.jpg?w=1296&#038;h=730&#038;crop=1",
+      "link": "https://www.hollywoodreporter.com/movies/movie-news/chris-hansen-didnt-watch-primetime-a24-sign-his-rights-away-1236678240/",
+      "date": "2026-08-21T15:23:52.568106+00:00",
+      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/Chris-Hansen-getty-H-2026.png?w=1296&#038;h=730&#038;crop=1",
       "important": false,
       "score": 0
     },
@@ -405,104 +453,104 @@
         "fa": "The Hollywood Reporter"
       },
       "link": "https://www.hollywoodreporter.com/business/business-news/movie-theater-owner-paramount-warner-bros-1236678084/",
-      "date": "2026-08-21T14:25:14.967171+00:00",
+      "date": "2026-08-21T15:23:52.567717+00:00",
       "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/DSC08433.jpg?w=1440&#038;h=810&#038;crop=1",
       "important": false,
       "score": 0
     },
     {
-      "id": "3df5cdfae088",
+      "id": "084b3d25df91",
       "title": {
-        "en": "Kenneth Branagh on Doing His Own Stunts as a KGB Operative in ‘Mayday,’ Bonding With Ryan Reynolds Over Soccer: ‘We Can Be Pretty Nerdish’",
-        "fa": "کنت برانا در مورد انجام بدلکاری‌های خودش به عنوان یک عامل KGB در «می‌دی»، پیوند با رایان رینولدز بر سر فوتبال: «ما می‌توانیم خیلی نردیش باشیم»"
+        "en": "‘The Last Sunrise’ Star Maia Reficco Is Finally Facing Her Fears",
+        "fa": "مایا رفیکو، ستاره «آخرین طلوع آفتاب» سرانجام با ترس‌هایش روبرو می‌شود"
       },
       "excerpt": {
-        "en": "While he may not be known as an action star, Kenneth Branagh absolutely wanted to give it a go for “Mayday,” his upcoming Apple TV Cold War action-comedy in which he co-stars with Ryan Reynolds. He just needed to find out how best to get involved. “I asked the directors, ‘What’s the way to do […]",
-        "fa": "در حالی که او ممکن است به عنوان یک ستاره اکشن شناخته نشود، کنت برانا کاملاً می‌خواست آن را برای «می‌دی»، اکشن کمدی جنگ سرد اپل تی‌وی که در آن با رایان رینولدز همبازی است، اجرا کند. او فقط باید دریابد که چگونه به بهترین شکل درگیر شود. از کارگردانان پرسیدم، راه کار چیست؟"
+        "en": "The American-Argentine actress and singer is showing a whole new side of herself with her starring role in Prime Video's new coming-of-age romance film and her debut EP: \"I've kind of let go of all of those fears and understood that I need to go full force or don't go at all.\"",
+        "fa": "بازیگر و خواننده آمریکایی آرژانتینی با نقش اصلی خود در فیلم عاشقانه جدید پرایم ویدیو و اولین EP خود، جنبه کاملاً جدیدی از خود را نشان می دهد: \"من به نوعی همه این ترس ها را رها کردم و فهمیدم که باید با تمام قدرت بازی کنم یا اصلاً نمی روم.\""
       },
       "content": {
-        "en": "While he may not be known as an action star, Kenneth Branagh absolutely wanted to give it a go for “Mayday,” his upcoming Apple TV Cold War action-comedy in which he co-stars with Ryan Reynolds. He just needed to find out how best to get involved. “I asked the directors, ‘What’s the way to do […]",
-        "fa": "در حالی که او ممکن است به عنوان یک ستاره اکشن شناخته نشود، کنت برانا کاملاً می‌خواست آن را برای «می‌دی»، اکشن کمدی جنگ سرد اپل تی‌وی که در آن با رایان رینولدز همبازی است، اجرا کند. او فقط باید دریابد که چگونه به بهترین شکل درگیر شود. از کارگردانان پرسیدم، راه کار چیست؟"
+        "en": "The American-Argentine actress and singer is showing a whole new side of herself with her starring role in Prime Video's new coming-of-age romance film and her debut EP: \"I've kind of let go of all of those fears and understood that I need to go full force or don't go at all.\"",
+        "fa": "بازیگر و خواننده آمریکایی آرژانتینی با نقش اصلی خود در فیلم عاشقانه جدید پرایم ویدیو و اولین EP خود، جنبه کاملاً جدیدی از خود را نشان می دهد: \"من به نوعی همه این ترس ها را رها کردم و فهمیدم که باید با تمام قدرت بازی کنم یا اصلاً نمی روم.\""
+      },
+      "source": {
+        "en": "The Hollywood Reporter",
+        "fa": "The Hollywood Reporter"
+      },
+      "link": "https://www.hollywoodreporter.com/movies/movie-features/maia-reficco-the-last-sunrise-music-debut-ep-interview-1236677491/",
+      "date": "2026-08-21T15:23:52.567192+00:00",
+      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/Maia-Reficco-NBT-temp-getty-H-2026.png?w=1440&#038;h=810&#038;crop=1",
+      "important": false,
+      "score": 0
+    },
+    {
+      "id": "13d8397e8d29",
+      "title": {
+        "en": "Can Microdramas Save Hollywood? Why the New Vertical Boom Isn’t Quibi 2.0",
+        "fa": "آیا میکرودرام ها می توانند هالیوود را نجات دهند؟ چرا بوم عمودی جدید Quibi 2.0 نیست؟"
+      },
+      "excerpt": {
+        "en": "Kenan Thompson’s next project leans deep into camp. He’s set to star as a man who’s kidnapped at a Toys R Us and locked in the store’s basement. When he realizes his handcuffs are actually made of fuzz, he escapes and returns home. Back to safety, he discovers that his wife has already moved on […]",
+        "fa": "پروژه بعدی کنان تامپسون عمیقاً به اردوگاه متمایل است. او قرار است در نقش مردی بازی کند که در Toys R Us ربوده شده و در زیرزمین فروشگاه حبس شده است. وقتی متوجه می‌شود که دستبندهایش واقعاً از جنس فوز است، فرار می‌کند و به خانه بازمی‌گردد. با بازگشت به امن، او متوجه می شود که همسرش قبلا نقل مکان کرده است"
+      },
+      "content": {
+        "en": "Kenan Thompson’s next project leans deep into camp. He’s set to star as a man who’s kidnapped at a Toys R Us and locked in the store’s basement. When he realizes his handcuffs are actually made of fuzz, he escapes and returns home. Back to safety, he discovers that his wife has already moved on […]",
+        "fa": "پروژه بعدی کنان تامپسون عمیقاً به اردوگاه متمایل است. او قرار است در نقش مردی بازی کند که در Toys R Us ربوده شده و در زیرزمین فروشگاه حبس شده است. وقتی متوجه می‌شود که دستبندهایش واقعاً از جنس فوز است، فرار می‌کند و به خانه بازمی‌گردد. با بازگشت به امن، او متوجه می شود که همسرش قبلا نقل مکان کرده است"
       },
       "source": {
         "en": "Variety",
         "fa": "Variety"
       },
-      "link": "https://variety.com/2026/film/global/kenneth-branagh-stunts-mayday-ryan-reynolds-soccer-1236839872/",
-      "date": "2026-08-21T14:25:14.966363+00:00",
-      "image": "https://variety.com/wp-content/uploads/2026/08/image_high.jpg",
+      "link": "https://variety.com/2026/tv/features/can-microdramas-save-hollywood-why-vertical-boom-isnt-quibi-1236837033/",
+      "date": "2026-08-21T15:23:52.565225+00:00",
+      "image": "https://variety.com/wp-content/uploads/2026/08/Micro-Dramas-Illustration.jpg",
       "important": false,
       "score": 0
     },
     {
-      "id": "069087cef630",
+      "id": "e7637f9b5abc",
       "title": {
-        "en": "‘Our Loves’: Director Avi Nesher on His October 7 Film, Netanyahu and Boycotts Over Israeli Art",
-        "fa": "«عشق‌های ما»: کارگردان آوی نشر در فیلم ۷ اکتبر خود، نتانیاهو و تحریم‌ها بر سر هنر اسرائیل"
+        "en": "Korean Esports Group DRX Launches Digital Entertainment Division, Signs Two K-Drama Projects and Game Publishing Business",
+        "fa": "گروه ورزشی کره ای DRX بخش سرگرمی های دیجیتال را راه اندازی کرد، دو پروژه K-Drama و کسب و کار انتشار بازی را امضا کرد."
       },
       "excerpt": {
-        "en": "The terror attacks of Oct. 7, 2023, wherein Hamas and other Palestinian militants poured across the Gaza-Israel barrier into southern Israel, attacking 21 communities and killing 1,195 Israelis and foreign nationals (and abducting an additional 251 people), have been revisited a number of times via documentaries (“We Will Dance Again”) and miniseries (“One Day in […]",
-        "fa": "حملات تروریستی 7 اکتبر 2023، که در آن حماس و دیگر شبه نظامیان فلسطینی از طریق دیوار غزه-اسرائیل به سمت جنوب اسرائیل سرازیر شدند، به 21 جامعه حمله کردند و 1195 اسرائیلی و اتباع خارجی را کشتند، بارها از طریق مستندها و برنامه های روزانه مورد بازبینی قرار گرفته است."
+        "en": "DRX built its name inside competitive gaming, growing into one of Korea’s most recognized esports organizations with a young, globally engaged fan base. Now the group is betting that base can carry it somewhere new: a broader digital entertainment business spanning K-dramas, game publishing and original content IP. “I think the timing feels right because […]",
+        "fa": "DRX نام خود را در بازی‌های رقابتی ایجاد کرد و به یکی از شناخته‌شده‌ترین سازمان‌های ورزش‌های الکترونیکی کره تبدیل شد که دارای طرفداران جوان و فعال جهانی است. اکنون این گروه شرط می‌بندد که پایگاه می‌تواند آن را به جایی جدید برساند: یک تجارت سرگرمی دیجیتال گسترده‌تر که شامل درام‌های K، انتشار بازی و IP محتوای اصلی است. \"من فکر می کنم زمان مناسب به نظر می رسد زیرا"
       },
       "content": {
-        "en": "The terror attacks of Oct. 7, 2023, wherein Hamas and other Palestinian militants poured across the Gaza-Israel barrier into southern Israel, attacking 21 communities and killing 1,195 Israelis and foreign nationals (and abducting an additional 251 people), have been revisited a number of times via documentaries (“We Will Dance Again”) and miniseries (“One Day in […]",
-        "fa": "حملات تروریستی 7 اکتبر 2023، که در آن حماس و دیگر شبه نظامیان فلسطینی از طریق دیوار غزه-اسرائیل به سمت جنوب اسرائیل سرازیر شدند، به 21 جامعه حمله کردند و 1195 اسرائیلی و اتباع خارجی را کشتند، بارها از طریق مستندها و برنامه های روزانه مورد بازبینی قرار گرفته است."
+        "en": "DRX built its name inside competitive gaming, growing into one of Korea’s most recognized esports organizations with a young, globally engaged fan base. Now the group is betting that base can carry it somewhere new: a broader digital entertainment business spanning K-dramas, game publishing and original content IP. “I think the timing feels right because […]",
+        "fa": "DRX نام خود را در بازی‌های رقابتی ایجاد کرد و به یکی از شناخته‌شده‌ترین سازمان‌های ورزش‌های الکترونیکی کره تبدیل شد که دارای طرفداران جوان و فعال جهانی است. اکنون این گروه شرط می‌بندد که پایگاه می‌تواند آن را به جایی جدید برساند: یک تجارت سرگرمی دیجیتال گسترده‌تر که شامل درام‌های K، انتشار بازی و IP محتوای اصلی است. \"من فکر می کنم زمان مناسب به نظر می رسد زیرا"
       },
       "source": {
         "en": "Variety",
         "fa": "Variety"
       },
-      "link": "https://variety.com/2026/film/features/our-loves-avi-nesher-october-7-movie-1236839745/",
-      "date": "2026-08-21T14:25:14.965826+00:00",
-      "image": "https://variety.com/wp-content/uploads/2026/08/OurLoves-Lead.jpg",
+      "link": "https://variety.com/2026/tv/news/drx-digital-entertainment-k-drama-game-publishing-1236840077/",
+      "date": "2026-08-21T15:23:52.565028+00:00",
+      "image": "https://variety.com/wp-content/uploads/2026/08/Can-Yang.jpg",
       "important": false,
       "score": 0
     },
     {
-      "id": "c9f5de1e04fe",
+      "id": "1be2f9a122b9",
       "title": {
-        "en": "Sandra Bullock Joined Social Media to Fight Scammers ‘Using My Name and Likeness’ to Defraud Fans — Not Just to Promote ‘Practical Magic 2’",
-        "fa": "ساندرا بولاک برای مبارزه با کلاهبرداران «با استفاده از نام و شباهت من» برای کلاهبرداری از طرفداران - نه فقط برای تبلیغ «جادوی عملی 2» به رسانه های اجتماعی پیوست."
+        "en": "Seth Rogen, Colman Domingo, Danny Boyle Join Speakers Lineup at Toronto Market Summit",
+        "fa": "ست روگن، کولمن دومینگو، دنی بویل به صف سخنرانان در اجلاس بازار تورنتو می پیوندند"
       },
       "excerpt": {
-        "en": "Sandra Bullock revealed on the “SmartLess” podcast (via People) that she was forced to join social media to combat scammers ripping off her likeness in order to defraud people out of money. The Oscar winner joined Instagram in April and has since amassed 6 million followers. While many assumed Bullock was joining social media simply to promote […]",
-        "fa": "ساندرا بولاک در پادکست \"SmartLess\" فاش کرد که مجبور شد به شبکه های اجتماعی بپیوندد تا با کلاهبردارانی که شباهت او را از بین می برند مبارزه کند تا از مردم پول کلاهبرداری کند. برنده اسکار در ماه آوریل به اینستاگرام پیوست و از آن زمان تاکنون 6 میلیون دنبال کننده جمع کرده است. در حالی که بسیاری تصور می کردند بولاک صرفاً برای تبلیغ به رسانه های اجتماعی می پیوندد"
+        "en": "The Toronto Intl. Film Festival’s Market, which runs Sept. 10-16, has added Seth Rogen, Colman Domingo and Danny Boyle to its list of speakers. The industry program, known as TIFF: The Market, has finalized its lineup and schedule of its conference program, the Summit, which has more than 70 sessions. Rogen and Boyle join The […]",
+        "fa": "تورنتو بین المللی بازار جشنواره فیلم که از 10 تا 16 سپتامبر برگزار می شود، ست روگن، کولمن دومینگو و دنی بویل را به لیست سخنرانان خود اضافه کرده است. این برنامه صنعتی که به عنوان TIFF: The Market شناخته می شود، ترکیب و برنامه برنامه کنفرانس خود، Summit را که بیش از 70 جلسه دارد، نهایی کرده است. روگن و بویل به The"
       },
       "content": {
-        "en": "Sandra Bullock revealed on the “SmartLess” podcast (via People) that she was forced to join social media to combat scammers ripping off her likeness in order to defraud people out of money. The Oscar winner joined Instagram in April and has since amassed 6 million followers. While many assumed Bullock was joining social media simply to promote […]",
-        "fa": "ساندرا بولاک در پادکست \"SmartLess\" فاش کرد که مجبور شد به شبکه های اجتماعی بپیوندد تا با کلاهبردارانی که شباهت او را از بین می برند مبارزه کند تا از مردم پول کلاهبرداری کند. برنده اسکار در ماه آوریل به اینستاگرام پیوست و از آن زمان تاکنون 6 میلیون دنبال کننده جمع کرده است. در حالی که بسیاری تصور می کردند بولاک صرفاً برای تبلیغ به رسانه های اجتماعی می پیوندد"
+        "en": "The Toronto Intl. Film Festival’s Market, which runs Sept. 10-16, has added Seth Rogen, Colman Domingo and Danny Boyle to its list of speakers. The industry program, known as TIFF: The Market, has finalized its lineup and schedule of its conference program, the Summit, which has more than 70 sessions. Rogen and Boyle join The […]",
+        "fa": "تورنتو بین المللی بازار جشنواره فیلم که از 10 تا 16 سپتامبر برگزار می شود، ست روگن، کولمن دومینگو و دنی بویل را به لیست سخنرانان خود اضافه کرده است. این برنامه صنعتی که به عنوان TIFF: The Market شناخته می شود، ترکیب و برنامه برنامه کنفرانس خود، Summit را که بیش از 70 جلسه دارد، نهایی کرده است. روگن و بویل به The"
       },
       "source": {
         "en": "Variety",
         "fa": "Variety"
       },
-      "link": "https://variety.com/2026/film/news/sandra-bullock-social-media-scammers-defrauding-fans-1236839374/",
-      "date": "2026-08-21T14:25:14.965164+00:00",
-      "image": "https://variety.com/wp-content/uploads/2026/04/P105JQRL.jpg",
-      "important": false,
-      "score": 0
-    },
-    {
-      "id": "6ad4a75b1c56",
-      "title": {
-        "en": "Chris Hansen Was Turned Away From ‘Primetime’ Screening After Refusing To Sign Standard NDA, Not “Sign Away” His Rights",
-        "fa": "کریس هنسن پس از امتناع از امضای NDA استاندارد، و نه \"امضا کردن\" حقوق خود، از نمایش \"Primetime\" کنار گذاشته شد."
-      },
-      "excerpt": {
-        "en": "After Chris Hansen claimed he was turned away from a screening A24’s Primetime, it would appear he refused to sign a standard NDA. On Thursday, a source told Deadline that the former To Catch a Predator host was not asked to “sign away my rights” in order to see the Lance Oppenheim-helmed thriller about him, […]",
-        "fa": "پس از اینکه کریس هنسن ادعا کرد که از پخش برنامه پرایم تایم A24 دور شده است، به نظر می رسد که او از امضای یک NDA استاندارد خودداری کرده است. روز پنجشنبه، منبعی به ددلاین گفت که از مجری سابق To Catch a Predator خواسته نشد که «حقوقم را کنار بگذارد» تا فیلم هیجان انگیز لنس اوپنهایم را درباره او ببیند."
-      },
-      "content": {
-        "en": "After Chris Hansen claimed he was turned away from a screening A24’s Primetime, it would appear he refused to sign a standard NDA. On Thursday, a source told Deadline that the former To Catch a Predator host was not asked to “sign away my rights” in order to see the Lance Oppenheim-helmed thriller about him, […]",
-        "fa": "پس از اینکه کریس هنسن ادعا کرد که از پخش برنامه پرایم تایم A24 دور شده است، به نظر می رسد که او از امضای یک NDA استاندارد خودداری کرده است. روز پنجشنبه، منبعی به ددلاین گفت که از مجری سابق To Catch a Predator خواسته نشد که «حقوقم را کنار بگذارد» تا فیلم هیجان انگیز لنس اوپنهایم را درباره او ببیند."
-      },
-      "source": {
-        "en": "Deadline",
-        "fa": "Deadline"
-      },
-      "link": "https://deadline.com/2026/08/chris-hansen-turned-away-primetime-refusing-sign-nda-1237047193/",
-      "date": "2026-08-21T14:25:14.965060+00:00",
-      "image": "https://deadline.com/wp-content/uploads/2026/08/Chris-Hansen-A24.jpg",
+      "link": "https://variety.com/2026/film/global/seth-rogen-colman-domingo-danny-boyle-jtoronto-market-1236839972/",
+      "date": "2026-08-21T15:23:52.563871+00:00",
+      "image": "https://variety.com/wp-content/uploads/2026/08/TIFF-toffs.jpg",
       "important": false,
       "score": 0
     },
@@ -525,32 +573,8 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/prime-video-2-billion-latin-america-1237047327/",
-      "date": "2026-08-21T14:25:14.964645+00:00",
+      "date": "2026-08-21T15:23:52.563405+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/untitled-august-20-2026-at-15-11-25.jpeg",
-      "important": false,
-      "score": 0
-    },
-    {
-      "id": "e75416a28819",
-      "title": {
-        "en": "Prince Harry, Elton John & Other Privacy Case Claimants Ordered To Pay Daily Mail Publisher $13 Million",
-        "fa": "شاهزاده هری، التون جان و سایر مدعیان پرونده حریم خصوصی به پرداخت 13 میلیون دلار به ناشر Daily Mail محکوم شدند"
-      },
-      "excerpt": {
-        "en": "Prince Harry, Elton John, and several other high-profile figures who lost a privacy lawsuit against the publisher of the Daily Mail have been ordered to pay $13 million (£9.5m) to cover the Mail’s legal costs. The seven claimants, also including Liz Hurley and Baroness Doreen Lawrence, must make the payment by August 28. The fee […]",
-        "fa": "شاهزاده هری، التون جان و چند شخصیت برجسته دیگر که در دعوای حقوق خصوصی علیه ناشر دیلی میل شکست خوردند، به پرداخت 13 میلیون دلار برای پوشش هزینه های حقوقی میل محکوم شدند. هفت مدعی، از جمله لیز هرلی و بارونس دورین لارنس، باید تا 28 آگوست پرداخت را انجام دهند."
-      },
-      "content": {
-        "en": "Prince Harry, Elton John, and several other high-profile figures who lost a privacy lawsuit against the publisher of the Daily Mail have been ordered to pay $13 million (£9.5m) to cover the Mail’s legal costs. The seven claimants, also including Liz Hurley and Baroness Doreen Lawrence, must make the payment by August 28. The fee […]",
-        "fa": "شاهزاده هری، التون جان و چند شخصیت برجسته دیگر که در دعوای حقوق خصوصی علیه ناشر دیلی میل شکست خوردند، به پرداخت 13 میلیون دلار برای پوشش هزینه های حقوقی میل محکوم شدند. هفت مدعی، از جمله لیز هرلی و بارونس دورین لارنس، باید تا 28 آگوست پرداخت را انجام دهند."
-      },
-      "source": {
-        "en": "Deadline",
-        "fa": "Deadline"
-      },
-      "link": "https://deadline.com/2026/08/prince-harry-elton-john-daily-mail-13-million-1237047367/",
-      "date": "2026-08-21T14:25:14.963087+00:00",
-      "image": "https://deadline.com/wp-content/uploads/2026/07/GettyImages-2257421965-e1783404081687.jpg",
       "important": false,
       "score": 0
     }
