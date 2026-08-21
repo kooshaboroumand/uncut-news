@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-21T06:30:02.075473+00:00",
+  "updated_at": "2026-08-21T07:35:22.392657+00:00",
   "count": 24,
   "news": [
     {
@@ -21,7 +21,7 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/blue-eye-samurai-renewed-third-final-season-netflix-1237047184/",
-      "date": "2026-08-21T06:30:01.807858+00:00",
+      "date": "2026-08-21T07:35:22.079739+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/50_bes_202_R.jpg",
       "important": true,
       "score": 13
@@ -45,7 +45,7 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/outer-banks-madison-bailey-lack-queer-representation-1237047181/",
-      "date": "2026-08-21T06:30:01.807746+00:00",
+      "date": "2026-08-21T07:35:22.079601+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/P107OMWA-e1787275456846.jpg",
       "important": true,
       "score": 6
@@ -69,8 +69,32 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/news/trailers/monster-lizzie-borden-story-trailer-ryan-murphy-1235211644/",
-      "date": "2026-08-21T06:30:01.820345+00:00",
+      "date": "2026-08-21T07:35:22.092240+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/Monster__The_Lizzie_Borden_Story_n_S1_E2_00_37_26_19R.jpg?w=650",
+      "important": true,
+      "score": 4
+    },
+    {
+      "id": "605e6066c5b8",
+      "title": {
+        "en": "Amazon MGM Studios Unveils Teaser for Kunal Kemmu’s ‘Vibe’ (EXCLUSIVE)",
+        "fa": "استودیوی آمازون MGM از تیزر بازی Kunal Kemmu 'Vibe' رونمایی کرد."
+      },
+      "excerpt": {
+        "en": "Amazon MGM Studios has released the teaser for “Vibe,” an action comedy written and directed by Kunal Kemmu that follows two ordinary friends who unexpectedly become the country’s last line of defense. The teaser introduces Hardik (Kemmu) and Bugs (Sparsh Shrivastava), a pair of accidental heroes who are neither trained nor willing for the job […]",
+        "fa": "استودیوی آمازون ام جی ام تیزر «Vibe» را منتشر کرده است، یک کمدی اکشن به نویسندگی و کارگردانی Kunal Kemmu که داستان دو دوست معمولی را دنبال می کند که به طور غیرمنتظره ای به آخرین خط دفاعی کشور تبدیل می شوند. این تیزر هاردیک و باگ را معرفی می کند، یک جفت قهرمان تصادفی که نه آموزش دیده اند و نه مایل به این کار هستند."
+      },
+      "content": {
+        "en": "Amazon MGM Studios has released the teaser for “Vibe,” an action comedy written and directed by Kunal Kemmu that follows two ordinary friends who unexpectedly become the country’s last line of defense. The teaser introduces Hardik (Kemmu) and Bugs (Sparsh Shrivastava), a pair of accidental heroes who are neither trained nor willing for the job […]",
+        "fa": "استودیوی آمازون ام جی ام تیزر «Vibe» را منتشر کرده است، یک کمدی اکشن به نویسندگی و کارگردانی Kunal Kemmu که داستان دو دوست معمولی را دنبال می کند که به طور غیرمنتظره ای به آخرین خط دفاعی کشور تبدیل می شوند. این تیزر هاردیک و باگ را معرفی می کند، یک جفت قهرمان تصادفی که نه آموزش دیده اند و نه مایل به این کار هستند."
+      },
+      "source": {
+        "en": "Variety",
+        "fa": "Variety"
+      },
+      "link": "https://variety.com/2026/film/news/amazon-mgm-studios-kunal-kemmu-vibe-teaser-1236839782/",
+      "date": "2026-08-21T07:35:22.083891+00:00",
+      "image": "https://variety.com/wp-content/uploads/2026/08/Vibe-poster.jpg",
       "important": true,
       "score": 4
     },
@@ -93,7 +117,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/awards/predictions/hbo-emmy-campaign-perseverance-should-pay-off-1235211458/",
-      "date": "2026-08-21T06:30:01.820586+00:00",
+      "date": "2026-08-21T07:35:22.092427+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/2290751324.jpg?w=650",
       "important": false,
       "score": 3
@@ -117,8 +141,32 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/news/festivals/diego-luna-migrant-drama-ashes-sells-watermelon-pictures-1235211826/",
-      "date": "2026-08-21T06:30:01.819887+00:00",
+      "date": "2026-08-21T07:35:22.091777+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/05/Screenshot-2026-05-09-at-9.14.00 PM.png?w=650",
+      "important": false,
+      "score": 3
+    },
+    {
+      "id": "57bf251bf659",
+      "title": {
+        "en": "Cameron Diaz’s Netflix Action-Comedy ‘Bad Day’ Gets December Release and First Look",
+        "fa": "اکشن-کمدی «روز بد» کامرون دیاز در نتفلیکس در ماه دسامبر منتشر می شود و اولین نگاه"
+      },
+      "excerpt": {
+        "en": "Ed O'Neill and Danielle Brooks also star in director Jake Szymanski's action-comedy.",
+        "fa": "اد اونیل و دنیل بروکس همچنین در فیلم اکشن کمدی کارگردان جیک شیمانسکی بازی می کنند."
+      },
+      "content": {
+        "en": "Ed O'Neill and Danielle Brooks also star in director Jake Szymanski's action-comedy.",
+        "fa": "اد اونیل و دنیل بروکس همچنین در فیلم اکشن کمدی کارگردان جیک شیمانسکی بازی می کنند."
+      },
+      "source": {
+        "en": "The Hollywood Reporter",
+        "fa": "The Hollywood Reporter"
+      },
+      "link": "https://www.hollywoodreporter.com/movies/movie-news/bad-day-cameron-diaz-netflix-release-first-look-1236678165/",
+      "date": "2026-08-21T07:35:22.086935+00:00",
+      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/BADDAY_20251201_16572_R3.jpg?w=1296&#038;h=730&#038;crop=1",
       "important": false,
       "score": 3
     },
@@ -141,32 +189,8 @@
         "fa": "The Hollywood Reporter"
       },
       "link": "https://www.hollywoodreporter.com/movies/movie-news/neon-premium-format-release-na-hong-jin-hope-1236678228/",
-      "date": "2026-08-21T06:30:01.814360+00:00",
+      "date": "2026-08-21T07:35:22.086354+00:00",
       "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/05/HOPE-MCDHOPE_EC035-H-2026.jpg?w=1296&#038;h=730&#038;crop=1",
-      "important": false,
-      "score": 3
-    },
-    {
-      "id": "867c38ea56d2",
-      "title": {
-        "en": "Netflix Exec Andy Weil Jumping to Amazon as Head of Comedy",
-        "fa": "اندی ویل، مدیر اجرایی نتفلیکس، به عنوان رئیس کمدی به آمازون می‌رود"
-      },
-      "excerpt": {
-        "en": "Comedy development exec Andy Weil is exiting Netflix after 11 years to join Amazon as its new head of comedy. The exec rejoins his former Netflix boss Peter Friedlander, now head of global TV at Amazon MGM Studios. Weil is a well-known comedy buff who has championed some of Netflix’s biggest laffers, including “Master of […]",
-        "fa": "اندی ویل، مدیر توسعه کمدی، پس از 11 سال از نتفلیکس خارج می شود تا به عنوان مدیر جدید کمدی آمازون به آمازون بپیوندد. مدیر اجرایی مجدداً به رئیس سابق نتفلیکس پیتر فریدلندر که اکنون رئیس تلویزیون جهانی در استودیو ام جی ام آمازون است، می پیوندد. ویل یک علاقه مند به کمدی معروف است که از برخی از بزرگترین بازیگران نتفلیکس، از جمله \"Master of\" دفاع کرده است."
-      },
-      "content": {
-        "en": "Comedy development exec Andy Weil is exiting Netflix after 11 years to join Amazon as its new head of comedy. The exec rejoins his former Netflix boss Peter Friedlander, now head of global TV at Amazon MGM Studios. Weil is a well-known comedy buff who has championed some of Netflix’s biggest laffers, including “Master of […]",
-        "fa": "اندی ویل، مدیر توسعه کمدی، پس از 11 سال از نتفلیکس خارج می شود تا به عنوان مدیر جدید کمدی آمازون به آمازون بپیوندد. مدیر اجرایی مجدداً به رئیس سابق نتفلیکس پیتر فریدلندر که اکنون رئیس تلویزیون جهانی در استودیو ام جی ام آمازون است، می پیوندد. ویل یک علاقه مند به کمدی معروف است که از برخی از بزرگترین بازیگران نتفلیکس، از جمله \"Master of\" دفاع کرده است."
-      },
-      "source": {
-        "en": "Variety",
-        "fa": "Variety"
-      },
-      "link": "https://variety.com/2026/tv/news/netflix-exec-andy-weil-amazon-head-of-comedy-1236839544/",
-      "date": "2026-08-21T06:30:01.813390+00:00",
-      "image": "https://variety.com/wp-content/uploads/2026/08/P101KPP2-e1787260897339.jpg",
       "important": false,
       "score": 3
     },
@@ -189,7 +213,7 @@
         "fa": "Variety"
       },
       "link": "https://variety.com/2026/film/global/prime-video-2-billion-investment-latin-america-1236839446/",
-      "date": "2026-08-21T06:30:01.812382+00:00",
+      "date": "2026-08-21T07:35:22.085206+00:00",
       "image": "https://variety.com/wp-content/uploads/2026/08/event_24.jpeg",
       "important": false,
       "score": 3
@@ -213,8 +237,32 @@
         "fa": "Variety"
       },
       "link": "https://variety.com/2026/tv/news/star-trek-strange-new-worlds-puppet-episode-1236833011/",
-      "date": "2026-08-21T06:30:01.812170+00:00",
+      "date": "2026-08-21T07:35:22.084992+00:00",
       "image": "https://variety.com/wp-content/uploads/2026/08/SNW_405_JT_0704_0610_RT.jpg",
+      "important": false,
+      "score": 3
+    },
+    {
+      "id": "4951f8c5ebfe",
+      "title": {
+        "en": "Icelandic Producer Hlín Jóhannsdóttir Sets ‘Just a Kid’ With Alief Ahead of Haugesund and Reunites with ‘Driving Mum’ Team (EXCLUSIVE)",
+        "fa": "Hlín Jóhannsdóttir، تهیه‌کننده ایسلندی، «Just a Kid» را با Alief پیش از Haugesund تنظیم می‌کند و دوباره با تیم «Driving Mum» متحد می‌شود."
+      },
+      "excerpt": {
+        "en": "Veteran Icelandic producer Hlín Jóhannsdóttir of Ursus Parvus, behind titles from some Iceland’s most renowned filmmakers including Fridrik Thor Fridriksson, Dagur Kári and Rúnar Rúnarsson, has signed with French-U.K. sales outfit Alief on the coming-of-age “Just a Kid” (“Bara barn”) by up-and-coming writer-director Vala Ómarsdóttir. To be pitched at New Nordic Films’ Works in Progress […]",
+        "fa": "Hlín Jóhannsdóttir تهیه‌کننده کهنه‌کار ایسلندی از Ursus Parvus، پشت عناوین برخی از مشهورترین فیلم‌سازان ایسلندی از جمله Fridrik Thor Fridriksson، Dagur Kari و Rúnar Rúnarsson، با فرانسوی-بریتانیا قرارداد امضا کرده است. لباس فروش Alief در دوران بلوغ «فقط یک بچه» توسط نویسنده و کارگردان مطرح Vala Ómarsdóttir. برای نمایش در New Nordic Films’ Works in Progress"
+      },
+      "content": {
+        "en": "Veteran Icelandic producer Hlín Jóhannsdóttir of Ursus Parvus, behind titles from some Iceland’s most renowned filmmakers including Fridrik Thor Fridriksson, Dagur Kári and Rúnar Rúnarsson, has signed with French-U.K. sales outfit Alief on the coming-of-age “Just a Kid” (“Bara barn”) by up-and-coming writer-director Vala Ómarsdóttir. To be pitched at New Nordic Films’ Works in Progress […]",
+        "fa": "Hlín Jóhannsdóttir تهیه‌کننده کهنه‌کار ایسلندی از Ursus Parvus، پشت عناوین برخی از مشهورترین فیلم‌سازان ایسلندی از جمله Fridrik Thor Fridriksson، Dagur Kari و Rúnar Rúnarsson، با فرانسوی-بریتانیا قرارداد امضا کرده است. لباس فروش Alief در دوران بلوغ «فقط یک بچه» توسط نویسنده و کارگردان مطرح Vala Ómarsdóttir. برای نمایش در New Nordic Films’ Works in Progress"
+      },
+      "source": {
+        "en": "Variety",
+        "fa": "Variety"
+      },
+      "link": "https://variety.com/2026/film/global/driving-mum-iceland-alief-just-a-kid-1236839417/",
+      "date": "2026-08-21T07:35:22.083751+00:00",
+      "image": "https://variety.com/wp-content/uploads/2026/08/Just-a-Kid-courtesy-Ursus-Parvus-.jpg",
       "important": false,
       "score": 3
     },
@@ -237,7 +285,7 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/hacks-costume-designer-interview-season-5-1237046866/",
-      "date": "2026-08-21T06:30:01.811090+00:00",
+      "date": "2026-08-21T07:35:22.082999+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/Screenshot-2026-08-20-at-1.50.03-PM.png",
       "important": false,
       "score": 3
@@ -261,7 +309,7 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/california-film-tax-credits-latest-1237045968/",
-      "date": "2026-08-21T06:30:01.810531+00:00",
+      "date": "2026-08-21T07:35:22.082415+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/Sacramento-.jpg",
       "important": false,
       "score": 3
@@ -285,7 +333,7 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/stuart-fails-john-ross-bowie-brian-posehn-episode-5-1237047095/",
-      "date": "2026-08-21T06:30:01.808215+00:00",
+      "date": "2026-08-21T07:35:22.080109+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/stuart-copy.jpg",
       "important": false,
       "score": 3
@@ -309,7 +357,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/news/trailers/chronovisor-movie-trailer-1235211641/",
-      "date": "2026-08-21T06:30:01.820225+00:00",
+      "date": "2026-08-21T07:35:22.092118+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/MCDCHRO_EC087.jpg?w=650",
       "important": false,
       "score": 1
@@ -333,7 +381,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/features/craft/the-top-chef-reality-show-casting-interview-1235211638/",
-      "date": "2026-08-21T06:30:01.819242+00:00",
+      "date": "2026-08-21T07:35:22.091202+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/NUP_208397_02672.jpg?w=650",
       "important": false,
       "score": 1
@@ -357,7 +405,7 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/dave-bautista-cast-kratos-god-of-war-amazon-series-recast-1237046959/",
-      "date": "2026-08-21T06:30:01.810209+00:00",
+      "date": "2026-08-21T07:35:22.082113+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/Dave-Bautista-Kratos-from-God-of-War.jpg",
       "important": false,
       "score": 1
@@ -381,7 +429,7 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/spider-man-insidious-out-of-the-further-global-box-office-1237046811/",
-      "date": "2026-08-21T06:30:01.810007+00:00",
+      "date": "2026-08-21T07:35:22.081909+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/Insidious-Out-of-the-Further-and-Spider-Man-Brand-New-Day.jpg",
       "important": false,
       "score": 1
@@ -405,7 +453,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/news/breaking-news/san-francisco-portal-cinema-opening-fall-2026-1235211735/",
-      "date": "2026-08-21T06:30:01.819710+00:00",
+      "date": "2026-08-21T07:35:22.091639+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/Portal_rendering-by-Stephen-Atkinson.jpeg?w=650",
       "important": false,
       "score": 0
@@ -429,7 +477,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/criticism/movies/it-ends-indie-horror-movie-review-1235101708/",
-      "date": "2026-08-21T06:30:01.819477+00:00",
+      "date": "2026-08-21T07:35:22.091431+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2025/03/it-ends-318958.jpeg?w=650",
       "important": false,
       "score": 0
@@ -453,7 +501,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/criticism/movies/spa-weekend-review-leslie-mann-isla-fisher-michelle-buteau-1235211346/",
-      "date": "2026-08-21T06:30:01.818490+00:00",
+      "date": "2026-08-21T07:35:22.090476+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/bf1ab8bc408ccac7cdff2b637cf9f6cae1181667-8192x5464-1.avif?w=650",
       "important": false,
       "score": 0
@@ -477,7 +525,7 @@
         "fa": "The Wrap"
       },
       "link": "https://www.thewrap.com/industry-news/public-policy-legal/nithya-raman-karen-bass-paramount-warner-merger/",
-      "date": "2026-08-21T06:30:01.817766+00:00",
+      "date": "2026-08-21T07:35:22.089776+00:00",
       "image": "https://www.thewrap.com/wp-content/uploads/2026/05/GettyImages-2274236251-1.jpg",
       "important": false,
       "score": 0
@@ -501,7 +549,7 @@
         "fa": "The Hollywood Reporter"
       },
       "link": "https://www.hollywoodreporter.com/tv/tv-news/streaming-ratings-july-20-26-2026-1236678107/",
-      "date": "2026-08-21T06:30:01.815653+00:00",
+      "date": "2026-08-21T07:35:22.087623+00:00",
       "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/05/MOTU_2026_UT_250331_KEYGIL_12674_R4_COMP_rgb-H-2026.jpg?w=1296&#038;h=730&#038;crop=1",
       "important": false,
       "score": 0
@@ -525,56 +573,8 @@
         "fa": "The Hollywood Reporter"
       },
       "link": "https://www.hollywoodreporter.com/lifestyle/lifestyle-news/gwyneth-paltrow-sam-altman-dinner-invite-openai-1236678196/",
-      "date": "2026-08-21T06:30:01.814631+00:00",
+      "date": "2026-08-21T07:35:22.086593+00:00",
       "image": "https://www.hollywoodreporter.com/wp-content/uploads/2025/12/Gwyneth-Paltrow-WIE-Main-2025.jpg?w=1296&#038;h=730&#038;crop=1",
-      "important": false,
-      "score": 0
-    },
-    {
-      "id": "307f724c8551",
-      "title": {
-        "en": "Lawmakers Offer Film Industry a Fix on California Tax Credit Cap",
-        "fa": "قانونگذاران به صنعت فیلم راه حلی برای سقف اعتبار مالیاتی کالیفرنیا پیشنهاد می کنند"
-      },
-      "excerpt": {
-        "en": "Lawmakers in Sacramento introduced a budget fix on Thursday that helps film producers by adjusting a state cap on tax credits. The agreement, first reported by Variety on Tuesday, falls short of a full carveout for film and TV tax credits from a blanket $5 million annual cap, which industry leaders have been seeking since […]",
-        "fa": "قانونگذاران در ساکرامنتو روز پنجشنبه یک اصلاح بودجه را معرفی کردند که با تنظیم سقف ایالتی در اعتبارات مالیاتی به تهیه کنندگان فیلم کمک می کند. این توافق که اولین بار توسط ورایتی در روز سه‌شنبه گزارش شد، کمتر از حد نصاب کامل اعتبارات مالیاتی فیلم و تلویزیون از سقف سالانه 5 میلیون دلاری است که رهبران صنعت از آن زمان به دنبال آن هستند."
-      },
-      "content": {
-        "en": "Lawmakers in Sacramento introduced a budget fix on Thursday that helps film producers by adjusting a state cap on tax credits. The agreement, first reported by Variety on Tuesday, falls short of a full carveout for film and TV tax credits from a blanket $5 million annual cap, which industry leaders have been seeking since […]",
-        "fa": "قانونگذاران در ساکرامنتو روز پنجشنبه یک اصلاح بودجه را معرفی کردند که با تنظیم سقف ایالتی در اعتبارات مالیاتی به تهیه کنندگان فیلم کمک می کند. این توافق که اولین بار توسط ورایتی در روز سه‌شنبه گزارش شد، کمتر از حد نصاب کامل اعتبارات مالیاتی فیلم و تلویزیون از سقف سالانه 5 میلیون دلاری است که رهبران صنعت از آن زمان به دنبال آن هستند."
-      },
-      "source": {
-        "en": "Variety",
-        "fa": "Variety"
-      },
-      "link": "https://variety.com/2026/film/news/lawmakers-film-industry-tax-fix-1236839543/",
-      "date": "2026-08-21T06:30:01.813196+00:00",
-      "image": "https://variety.com/wp-content/uploads/2015/12/sacramento-california-state-capitol-legislature-2.jpg",
-      "important": false,
-      "score": 0
-    },
-    {
-      "id": "607f3706a860",
-      "title": {
-        "en": "Jaafar Jackson: ‘Michael’ Sequel Will Give ‘More Insight’ Into Child Abuse Allegations and ‘Let His Voice Be Heard’",
-        "fa": "جعفر جکسون: دنباله «مایکل» در مورد اتهامات کودک آزاری و «صدای او شنیده شود» «بینش بیشتری» ارائه خواهد کرد."
-      },
-      "excerpt": {
-        "en": "Now that the second “Michael” movie is closer to starting production, star Jaafar Jackson says it will indeed address the criticisms and child abuse allegations Michael Jackson faced in the ’90s. Michael Jackson’s nephew Jaafar Jackson says that while he doesn’t have much say in how the screenplay is written, he tells GQ Middle East […]",
-        "fa": "اکنون که دومین فیلم «مایکل» به آغاز تولید نزدیک‌تر است، جعفر جکسون، ستاره سینما، می‌گوید که این فیلم واقعاً به انتقادات و اتهامات کودک آزاری که مایکل جکسون در دهه 90 با آن‌ها مواجه شده بود، رسیدگی خواهد کرد. جعفر جکسون، برادرزاده مایکل جکسون، می‌گوید که با وجود اینکه حرف زیادی در مورد نحوه نگارش فیلمنامه ندارد، به GQ Middle East می‌گوید."
-      },
-      "content": {
-        "en": "Now that the second “Michael” movie is closer to starting production, star Jaafar Jackson says it will indeed address the criticisms and child abuse allegations Michael Jackson faced in the ’90s. Michael Jackson’s nephew Jaafar Jackson says that while he doesn’t have much say in how the screenplay is written, he tells GQ Middle East […]",
-        "fa": "اکنون که دومین فیلم «مایکل» به آغاز تولید نزدیک‌تر است، جعفر جکسون، ستاره سینما، می‌گوید که این فیلم واقعاً به انتقادات و اتهامات کودک آزاری که مایکل جکسون در دهه 90 با آن‌ها مواجه شده بود، رسیدگی خواهد کرد. جعفر جکسون، برادرزاده مایکل جکسون، می‌گوید که با وجود اینکه حرف زیادی در مورد نحوه نگارش فیلمنامه ندارد، به GQ Middle East می‌گوید."
-      },
-      "source": {
-        "en": "Variety",
-        "fa": "Variety"
-      },
-      "link": "https://variety.com/2026/film/news/jaafar-jackson-michael-sequel-insight-child-abuse-allegations-1236839600/",
-      "date": "2026-08-21T06:30:01.811596+00:00",
-      "image": "https://variety.com/wp-content/uploads/2026/04/maven-trailer-grab-00001r2.jpg",
       "important": false,
       "score": 0
     }
