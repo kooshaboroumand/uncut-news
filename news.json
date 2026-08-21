@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-21T04:29:00.979667+00:00",
+  "updated_at": "2026-08-21T05:23:53.328194+00:00",
   "count": 24,
   "news": [
     {
@@ -21,34 +21,10 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/blue-eye-samurai-renewed-third-final-season-netflix-1237047184/",
-      "date": "2026-08-21T04:29:00.732205+00:00",
+      "date": "2026-08-21T05:23:53.054793+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/50_bes_202_R.jpg",
       "important": true,
       "score": 13
-    },
-    {
-      "id": "ca15ccfe4bb1",
-      "title": {
-        "en": "‘Lanterns’ Premiere Lights Up Strong Ratings on HBO, HBO Max",
-        "fa": "اولین نمایش «فانوس‌ها» در HBO، HBO Max رتبه‌بندی قوی‌تری را به نمایش می‌گذارد"
-      },
-      "excerpt": {
-        "en": "The DC series racks up more than 9 million viewers worldwide over its first three days.",
-        "fa": "سریال DC در سه روز اول بیش از 9 میلیون بیننده در سراسر جهان جذب کرده است."
-      },
-      "content": {
-        "en": "The DC series racks up more than 9 million viewers worldwide over its first three days.",
-        "fa": "سریال DC در سه روز اول بیش از 9 میلیون بیننده در سراسر جهان جذب کرده است."
-      },
-      "source": {
-        "en": "The Hollywood Reporter",
-        "fa": "The Hollywood Reporter"
-      },
-      "link": "https://www.hollywoodreporter.com/tv/tv-news/lanterns-premiere-ratings-hbo-max-1236678072/",
-      "date": "2026-08-21T04:29:00.739243+00:00",
-      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/05/aaron-pierre-kyle-chandler_0.jpg?w=1296&#038;h=730&#038;crop=1",
-      "important": true,
-      "score": 6
     },
     {
       "id": "02e2cf3e4288",
@@ -69,7 +45,7 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/outer-banks-madison-bailey-lack-queer-representation-1237047181/",
-      "date": "2026-08-21T04:29:00.732108+00:00",
+      "date": "2026-08-21T05:23:53.054696+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/P107OMWA-e1787275456846.jpg",
       "important": true,
       "score": 6
@@ -93,7 +69,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/news/trailers/monster-lizzie-borden-story-trailer-ryan-murphy-1235211644/",
-      "date": "2026-08-21T04:29:00.741098+00:00",
+      "date": "2026-08-21T05:23:53.066205+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/Monster__The_Lizzie_Borden_Story_n_S1_E2_00_37_26_19R.jpg?w=650",
       "important": true,
       "score": 4
@@ -117,7 +93,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/awards/predictions/hbo-emmy-campaign-perseverance-should-pay-off-1235211458/",
-      "date": "2026-08-21T04:29:00.741262+00:00",
+      "date": "2026-08-21T05:23:53.066371+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/2290751324.jpg?w=650",
       "important": false,
       "score": 3
@@ -141,7 +117,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/news/festivals/diego-luna-migrant-drama-ashes-sells-watermelon-pictures-1235211826/",
-      "date": "2026-08-21T04:29:00.740682+00:00",
+      "date": "2026-08-21T05:23:53.065778+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/05/Screenshot-2026-05-09-at-9.14.00 PM.png?w=650",
       "important": false,
       "score": 3
@@ -165,7 +141,7 @@
         "fa": "The Hollywood Reporter"
       },
       "link": "https://www.hollywoodreporter.com/movies/movie-news/neon-premium-format-release-na-hong-jin-hope-1236678228/",
-      "date": "2026-08-21T04:29:00.737987+00:00",
+      "date": "2026-08-21T05:23:53.060691+00:00",
       "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/05/HOPE-MCDHOPE_EC035-H-2026.jpg?w=1296&#038;h=730&#038;crop=1",
       "important": false,
       "score": 3
@@ -189,7 +165,7 @@
         "fa": "Variety"
       },
       "link": "https://variety.com/2026/tv/news/netflix-exec-andy-weil-amazon-head-of-comedy-1236839544/",
-      "date": "2026-08-21T04:29:00.737235+00:00",
+      "date": "2026-08-21T05:23:53.059817+00:00",
       "image": "https://variety.com/wp-content/uploads/2026/08/P101KPP2-e1787260897339.jpg",
       "important": false,
       "score": 3
@@ -213,7 +189,7 @@
         "fa": "Variety"
       },
       "link": "https://variety.com/2026/film/global/prime-video-2-billion-investment-latin-america-1236839446/",
-      "date": "2026-08-21T04:29:00.736290+00:00",
+      "date": "2026-08-21T05:23:53.058898+00:00",
       "image": "https://variety.com/wp-content/uploads/2026/08/event_24.jpeg",
       "important": false,
       "score": 3
@@ -237,7 +213,7 @@
         "fa": "Variety"
       },
       "link": "https://variety.com/2026/tv/news/star-trek-strange-new-worlds-puppet-episode-1236833011/",
-      "date": "2026-08-21T04:29:00.736090+00:00",
+      "date": "2026-08-21T05:23:53.058684+00:00",
       "image": "https://variety.com/wp-content/uploads/2026/08/SNW_405_JT_0704_0610_RT.jpg",
       "important": false,
       "score": 3
@@ -261,7 +237,7 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/hacks-costume-designer-interview-season-5-1237046866/",
-      "date": "2026-08-21T04:29:00.735072+00:00",
+      "date": "2026-08-21T05:23:53.057662+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/Screenshot-2026-08-20-at-1.50.03-PM.png",
       "important": false,
       "score": 3
@@ -285,7 +261,7 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/california-film-tax-credits-latest-1237045968/",
-      "date": "2026-08-21T04:29:00.734551+00:00",
+      "date": "2026-08-21T05:23:53.057138+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/Sacramento-.jpg",
       "important": false,
       "score": 3
@@ -309,7 +285,7 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/stuart-fails-john-ross-bowie-brian-posehn-episode-5-1237047095/",
-      "date": "2026-08-21T04:29:00.732529+00:00",
+      "date": "2026-08-21T05:23:53.055133+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/stuart-copy.jpg",
       "important": false,
       "score": 3
@@ -333,7 +309,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/news/trailers/chronovisor-movie-trailer-1235211641/",
-      "date": "2026-08-21T04:29:00.740989+00:00",
+      "date": "2026-08-21T05:23:53.066097+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/MCDCHRO_EC087.jpg?w=650",
       "important": false,
       "score": 1
@@ -357,7 +333,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/features/craft/the-top-chef-reality-show-casting-interview-1235211638/",
-      "date": "2026-08-21T04:29:00.740163+00:00",
+      "date": "2026-08-21T05:23:53.065271+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/NUP_208397_02672.jpg?w=650",
       "important": false,
       "score": 1
@@ -370,18 +346,18 @@
       },
       "excerpt": {
         "en": "Dave Bautista has closed his deal to play Kratos in Prime Video’s God of War fantasy drama series. Series co-studios Amazon MGM Studios and Sony Pictures Television reached out to Bautista and initiated talks shortly after they made the decision to recast the role following original lead Ryan Hurst’s serious on-set injury. As Deadline reported, […]",
-        "fa": "دیو باتیستا قرارداد خود را برای ایفای نقش کریتوس در سریال درام فانتزی خدای جنگ Prime Video بسته است. استودیوهای مشترک سری آمازون ام جی ام استودیو و تلویزیون سونی پیکچرز با باوتیستا تماس گرفتند و مدت کوتاهی پس از اینکه تصمیم گرفتند نقش را پس از مجروحیت جدی رایان هرست در صحنه فیلم‌برداری دوباره بازی کنند، مذاکرات را آغاز کردند. همانطور که ددلاین گزارش داد،"
+        "fa": "دیو باتیستا قرارداد خود را برای ایفای نقش کریتوس در سریال درام فانتزی God of War Prime Video بسته است. استودیوهای مشترک سری آمازون ام جی ام استودیو و تلویزیون سونی پیکچرز با باوتیستا تماس گرفتند و مدت کوتاهی پس از اینکه تصمیم گرفتند نقش را پس از مجروحیت جدی رایان هرست در صحنه فیلم‌برداری دوباره بازی کنند، مذاکرات را آغاز کردند. همانطور که ددلاین گزارش داد،"
       },
       "content": {
         "en": "Dave Bautista has closed his deal to play Kratos in Prime Video’s God of War fantasy drama series. Series co-studios Amazon MGM Studios and Sony Pictures Television reached out to Bautista and initiated talks shortly after they made the decision to recast the role following original lead Ryan Hurst’s serious on-set injury. As Deadline reported, […]",
-        "fa": "دیو باتیستا قرارداد خود را برای ایفای نقش کریتوس در سریال درام فانتزی خدای جنگ Prime Video بسته است. استودیوهای مشترک سری آمازون ام جی ام استودیو و تلویزیون سونی پیکچرز با باوتیستا تماس گرفتند و مدت کوتاهی پس از اینکه تصمیم گرفتند نقش را پس از مجروحیت جدی رایان هرست در صحنه فیلم‌برداری دوباره بازی کنند، مذاکرات را آغاز کردند. همانطور که ددلاین گزارش داد،"
+        "fa": "دیو باتیستا قرارداد خود را برای ایفای نقش کریتوس در سریال درام فانتزی God of War Prime Video بسته است. استودیوهای مشترک سری آمازون ام جی ام استودیو و تلویزیون سونی پیکچرز با باوتیستا تماس گرفتند و مدت کوتاهی پس از اینکه تصمیم گرفتند نقش را پس از مجروحیت جدی رایان هرست در صحنه فیلم‌برداری دوباره بازی کنند، مذاکرات را آغاز کردند. همانطور که ددلاین گزارش داد،"
       },
       "source": {
         "en": "Deadline",
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/dave-bautista-cast-kratos-god-of-war-amazon-series-recast-1237046959/",
-      "date": "2026-08-21T04:29:00.734256+00:00",
+      "date": "2026-08-21T05:23:53.056841+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/Dave-Bautista-Kratos-from-God-of-War.jpg",
       "important": false,
       "score": 1
@@ -405,7 +381,7 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/spider-man-insidious-out-of-the-further-global-box-office-1237046811/",
-      "date": "2026-08-21T04:29:00.734072+00:00",
+      "date": "2026-08-21T05:23:53.056655+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/Insidious-Out-of-the-Further-and-Spider-Man-Brand-New-Day.jpg",
       "important": false,
       "score": 1
@@ -429,7 +405,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/news/breaking-news/san-francisco-portal-cinema-opening-fall-2026-1235211735/",
-      "date": "2026-08-21T04:29:00.740586+00:00",
+      "date": "2026-08-21T05:23:53.065684+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/Portal_rendering-by-Stephen-Atkinson.jpeg?w=650",
       "important": false,
       "score": 0
@@ -453,7 +429,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/criticism/movies/it-ends-indie-horror-movie-review-1235101708/",
-      "date": "2026-08-21T04:29:00.740389+00:00",
+      "date": "2026-08-21T05:23:53.065487+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2025/03/it-ends-318958.jpeg?w=650",
       "important": false,
       "score": 0
@@ -477,8 +453,32 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/criticism/movies/spa-weekend-review-leslie-mann-isla-fisher-michelle-buteau-1235211346/",
-      "date": "2026-08-21T04:29:00.739472+00:00",
+      "date": "2026-08-21T05:23:53.064567+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/bf1ab8bc408ccac7cdff2b637cf9f6cae1181667-8192x5464-1.avif?w=650",
+      "important": false,
+      "score": 0
+    },
+    {
+      "id": "436435fd21b8",
+      "title": {
+        "en": "Nithya Raman Splits From Mayor Karen Bass on Paramount-Warner Merger: ‘Should Be Decided in Court’",
+        "fa": "جدایی نیتیا رامان از شهردار کارن باس در ادغام پارامونت-وارنر: \"باید در دادگاه تصمیم گیری شود\""
+      },
+      "excerpt": {
+        "en": "The mayoral candidate restated her support for California AG Rob Bonta's lawsuit hours after Bass called for a settlement The post Nithya Raman Splits From Mayor Karen Bass on Paramount-Warner Merger: ‘Should Be Decided in Court’ appeared first on TheWrap .",
+        "fa": "کاندیدای شهرداری چند ساعت پس از درخواست باس برای حل و فصل مجدداً حمایت خود را از شکایت راب بونتا AG کالیفرنیا اعلام کرد."
+      },
+      "content": {
+        "en": "The mayoral candidate restated her support for California AG Rob Bonta's lawsuit hours after Bass called for a settlement The post Nithya Raman Splits From Mayor Karen Bass on Paramount-Warner Merger: ‘Should Be Decided in Court’ appeared first on TheWrap .",
+        "fa": "کاندیدای شهرداری چند ساعت پس از درخواست باس برای حل و فصل مجدداً حمایت خود را از شکایت راب بونتا AG کالیفرنیا اعلام کرد."
+      },
+      "source": {
+        "en": "The Wrap",
+        "fa": "The Wrap"
+      },
+      "link": "https://www.thewrap.com/industry-news/public-policy-legal/nithya-raman-karen-bass-paramount-warner-merger/",
+      "date": "2026-08-21T05:23:53.063882+00:00",
+      "image": "https://www.thewrap.com/wp-content/uploads/2026/05/GettyImages-2274236251-1.jpg",
       "important": false,
       "score": 0
     },
@@ -486,7 +486,7 @@
       "id": "8ea49a8b2a05",
       "title": {
         "en": "Streaming Ratings: ‘Masters of the Universe’ Powers to No. 1 Debut",
-        "fa": "رتبه‌بندی‌های استریم: «Masters of the Universe» قدرت اول را برای اولین بار دارد"
+        "fa": "رتبه‌بندی‌های جریانی: «Masters of the Universe» قدرت اول را برای اولین بار دارد"
       },
       "excerpt": {
         "en": "'The Hawk' and 'Ride or Die' are the two biggest original series for the week of July 20.",
@@ -501,32 +501,8 @@
         "fa": "The Hollywood Reporter"
       },
       "link": "https://www.hollywoodreporter.com/tv/tv-news/streaming-ratings-july-20-26-2026-1236678107/",
-      "date": "2026-08-21T04:29:00.739158+00:00",
+      "date": "2026-08-21T05:23:53.061868+00:00",
       "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/05/MOTU_2026_UT_250331_KEYGIL_12674_R4_COMP_rgb-H-2026.jpg?w=1296&#038;h=730&#038;crop=1",
-      "important": false,
-      "score": 0
-    },
-    {
-      "id": "a8ce6b150d4f",
-      "title": {
-        "en": "L.A. Mayoral Candidate Nithya Raman Says Legality of Paramount-Warner Bros. Merger “Should Be Decided in Court”",
-        "fa": "نیتیا رامان، کاندیدای شهرداری لس‌آنجلس می‌گوید قانونی بودن ادغام برادران پارامونت وارنر «باید در دادگاه تصمیم‌گیری شود»"
-      },
-      "excerpt": {
-        "en": "As Mayor Karen Bass called for a quick resolution to the standoff, her rival in the 2026 elections, Nithya Raman, said the legal process should take its course.",
-        "fa": "همانطور که شهردار کارن باس خواستار حل و فصل سریع این بن بست شد، رقیب او در انتخابات 2026، نیتیا رامان، گفت که روند قانونی باید مسیر خود را طی کند."
-      },
-      "content": {
-        "en": "As Mayor Karen Bass called for a quick resolution to the standoff, her rival in the 2026 elections, Nithya Raman, said the legal process should take its course.",
-        "fa": "همانطور که شهردار کارن باس خواستار حل و فصل سریع این بن بست شد، رقیب او در انتخابات 2026، نیتیا رامان، گفت که روند قانونی باید مسیر خود را طی کند."
-      },
-      "source": {
-        "en": "The Hollywood Reporter",
-        "fa": "The Hollywood Reporter"
-      },
-      "link": "https://www.hollywoodreporter.com/business/business-news/nithya-raman-paramount-warner-bros-court-1236678117/",
-      "date": "2026-08-21T04:29:00.738888+00:00",
-      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/GettyImages-2281484805-H-2026.jpg?w=1296&#038;h=730&#038;crop=1",
       "important": false,
       "score": 0
     },
@@ -534,7 +510,7 @@
       "id": "06b2bfb61cb9",
       "title": {
         "en": "Gwyneth Paltrow Pokes Fun at That Viral Dinner Party Invite for OpenAI’s Sam Altman",
-        "fa": "گوئینت پالترو در آن مهمانی شام ویروسی برای سم آلتمن از OpenAI سرگرم کننده است."
+        "fa": "گوئینت پالترو در آن مهمانی شام ویروسی برای سم آلتمن از OpenAI سرگرم کننده است"
       },
       "excerpt": {
         "en": "She's going to need more chairs: The Goop founder posts a tongue-in-cheek series of dinner party invites in honor of 'Sex and the City' siren Samantha Jones, Shrek, Jessica Rabbit and Chanty Beluga.",
@@ -549,7 +525,7 @@
         "fa": "The Hollywood Reporter"
       },
       "link": "https://www.hollywoodreporter.com/lifestyle/lifestyle-news/gwyneth-paltrow-sam-altman-dinner-invite-openai-1236678196/",
-      "date": "2026-08-21T04:29:00.738212+00:00",
+      "date": "2026-08-21T05:23:53.060925+00:00",
       "image": "https://www.hollywoodreporter.com/wp-content/uploads/2025/12/Gwyneth-Paltrow-WIE-Main-2025.jpg?w=1296&#038;h=730&#038;crop=1",
       "important": false,
       "score": 0
@@ -573,8 +549,32 @@
         "fa": "Variety"
       },
       "link": "https://variety.com/2026/film/news/lawmakers-film-industry-tax-fix-1236839543/",
-      "date": "2026-08-21T04:29:00.737053+00:00",
+      "date": "2026-08-21T05:23:53.059637+00:00",
       "image": "https://variety.com/wp-content/uploads/2015/12/sacramento-california-state-capitol-legislature-2.jpg",
+      "important": false,
+      "score": 0
+    },
+    {
+      "id": "607f3706a860",
+      "title": {
+        "en": "Jaafar Jackson: ‘Michael’ Sequel Will Give ‘More Insight’ Into Child Abuse Allegations and ‘Let His Voice Be Heard’",
+        "fa": "جعفر جکسون: دنباله «مایکل» در مورد اتهامات کودک آزاری و «صدای او شنیده شود» «بینش بیشتری» ارائه خواهد کرد."
+      },
+      "excerpt": {
+        "en": "Now that the second “Michael” movie is closer to starting production, star Jaafar Jackson says it will indeed address the criticisms and child abuse allegations Michael Jackson faced in the ’90s. Michael Jackson’s nephew Jaafar Jackson says that while he doesn’t have much say in how the screenplay is written, he tells GQ Middle East […]",
+        "fa": "اکنون که دومین فیلم «مایکل» به آغاز تولید نزدیک‌تر است، جعفر جکسون، ستاره سینما، می‌گوید که این فیلم واقعاً به انتقادات و اتهامات کودک آزاری که مایکل جکسون در دهه 90 با آن‌ها مواجه شده بود، رسیدگی خواهد کرد. جعفر جکسون، برادرزاده مایکل جکسون، می‌گوید که با وجود اینکه حرف زیادی در مورد نحوه نگارش فیلمنامه ندارد، به GQ Middle East می‌گوید."
+      },
+      "content": {
+        "en": "Now that the second “Michael” movie is closer to starting production, star Jaafar Jackson says it will indeed address the criticisms and child abuse allegations Michael Jackson faced in the ’90s. Michael Jackson’s nephew Jaafar Jackson says that while he doesn’t have much say in how the screenplay is written, he tells GQ Middle East […]",
+        "fa": "اکنون که دومین فیلم «مایکل» به آغاز تولید نزدیک‌تر است، جعفر جکسون، ستاره سینما، می‌گوید که این فیلم واقعاً به انتقادات و اتهامات کودک آزاری که مایکل جکسون در دهه 90 با آن‌ها مواجه شده بود، رسیدگی خواهد کرد. جعفر جکسون، برادرزاده مایکل جکسون، می‌گوید که با وجود اینکه حرف زیادی در مورد نحوه نگارش فیلمنامه ندارد، به GQ Middle East می‌گوید."
+      },
+      "source": {
+        "en": "Variety",
+        "fa": "Variety"
+      },
+      "link": "https://variety.com/2026/film/news/jaafar-jackson-michael-sequel-insight-child-abuse-allegations-1236839600/",
+      "date": "2026-08-21T05:23:53.058131+00:00",
+      "image": "https://variety.com/wp-content/uploads/2026/04/maven-trailer-grab-00001r2.jpg",
       "important": false,
       "score": 0
     }
