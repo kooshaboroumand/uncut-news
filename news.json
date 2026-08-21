@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-21T08:28:21.880794+00:00",
+  "updated_at": "2026-08-21T09:27:15.771863+00:00",
   "count": 24,
   "news": [
     {
@@ -21,10 +21,58 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/blue-eye-samurai-renewed-third-final-season-netflix-1237047184/",
-      "date": "2026-08-21T08:28:21.570379+00:00",
+      "date": "2026-08-21T09:27:15.451469+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/50_bes_202_R.jpg",
       "important": true,
       "score": 13
+    },
+    {
+      "id": "f2d882097b1f",
+      "title": {
+        "en": "Sriram Raghavan Developing New Thriller in the ‘Johnny Gaddaar’ Zone for India’s Matchbox Shots as ‘Operation Safed Sagar’ Soars on Netflix Charts (EXCLUSIVE)",
+        "fa": "Sriram Raghavan در حال توسعه تریلر جدید در منطقه \"Johnny Gaddaar\" برای شات های جعبه کبریت هندی به عنوان \"Operation Safed Sagar\" در نمودارهای نتفلیکس بالا می رود."
+      },
+      "excerpt": {
+        "en": "Indian auteur Sriram Raghavan is developing a new thriller for Matchbox Shots set in the tonal zone of his 2007 film “Johnny Gaddaar,” as the Mumbai production house grows its slate on the strength of the global Netflix success of war series “Operation Safed Sagar.” “Johnny Gaddaar” was a twist-laden neo-noir heist thriller that marked […]",
+        "fa": "سریرام راغوان نویسنده هندی در حال ساخت تریلر جدیدی برای Matchbox Shots است که در منطقه تونال فیلم سال 2007 او \"Johnny Gaddaar\" اتفاق می‌افتد، در حالی که خانه تولید بمبئی با توجه به موفقیت سریال جنگی \"عملیات Safed Sagar\" در نتفلیکس، نقشه خود را افزایش می‌دهد. «جانی گدار» یک دزدی مهیج نئو نوآر پر پیچ و خم بود که مشخص شد"
+      },
+      "content": {
+        "en": "Indian auteur Sriram Raghavan is developing a new thriller for Matchbox Shots set in the tonal zone of his 2007 film “Johnny Gaddaar,” as the Mumbai production house grows its slate on the strength of the global Netflix success of war series “Operation Safed Sagar.” “Johnny Gaddaar” was a twist-laden neo-noir heist thriller that marked […]",
+        "fa": "سریرام راغوان نویسنده هندی در حال ساخت تریلر جدیدی برای Matchbox Shots است که در منطقه تونال فیلم سال 2007 او \"Johnny Gaddaar\" اتفاق می‌افتد، در حالی که خانه تولید بمبئی با توجه به موفقیت سریال جنگی \"عملیات Safed Sagar\" در نتفلیکس، نقشه خود را افزایش می‌دهد. «جانی گدار» یک دزدی مهیج نئو نوآر پر پیچ و خم بود که مشخص شد"
+      },
+      "source": {
+        "en": "Variety",
+        "fa": "Variety"
+      },
+      "link": "https://variety.com/2026/film/news/sriram-raghavan-johnny-gaddaar-thriller-matchbox-shots-1236839812/",
+      "date": "2026-08-21T09:27:15.453934+00:00",
+      "image": "https://variety.com/wp-content/uploads/2026/08/Matchbox-Shots-team.jpg",
+      "important": true,
+      "score": 9
+    },
+    {
+      "id": "d3654a070571",
+      "title": {
+        "en": "Swedish Dramedy ‘Adult Supervision’ Sells To WB Discovery, Fandango, Palace, Vertigo & More Ahead Of Fantastic Fest Launch; Watch Trailer",
+        "fa": "درامدی سوئدی \"نظارت بزرگسالان\" به WB Discovery، Fandango، Palace، Vertigo و موارد دیگر قبل از راه اندازی فستیوال شگفت انگیز فروخته می شود. تریلر را تماشا کنید"
+      },
+      "excerpt": {
+        "en": "EXCLUSIVE: Heretic has closed multiple international sales on Alex Schulman’s Adult Supervision ahead of its world premiere at Fantastic Fest in Austin, where it will screen in the Next Wave Competition. The film has sold to Fandango for Italy, Palace Films for Australia and New Zealand, Vertigo Releasing for Hungary, CinemArt for the Czech Republic […]",
+        "fa": "انحصاری: هرتیک فروش بین المللی متعددی را برای نظارت بر بزرگسالان الکس شولمن پیش از نمایش جهانی آن در فستیوال شگفت انگیز در آستین بسته است، جایی که در مسابقه موج بعدی نمایش داده می شود. این فیلم به Fandango برای ایتالیا، Palace Films برای استرالیا و نیوزلند، Vertigo Releasing برای مجارستان، CinemArt برای جمهوری چک فروخته شده است."
+      },
+      "content": {
+        "en": "EXCLUSIVE: Heretic has closed multiple international sales on Alex Schulman’s Adult Supervision ahead of its world premiere at Fantastic Fest in Austin, where it will screen in the Next Wave Competition. The film has sold to Fandango for Italy, Palace Films for Australia and New Zealand, Vertigo Releasing for Hungary, CinemArt for the Czech Republic […]",
+        "fa": "انحصاری: هرتیک فروش بین المللی متعددی را برای نظارت بر بزرگسالان الکس شولمن پیش از نمایش جهانی آن در فستیوال شگفت انگیز در آستین بسته است، جایی که در مسابقه موج بعدی نمایش داده می شود. این فیلم به Fandango برای ایتالیا، Palace Films برای استرالیا و نیوزلند، Vertigo Releasing برای مجارستان، CinemArt برای جمهوری چک فروخته شده است."
+      },
+      "source": {
+        "en": "Deadline",
+        "fa": "Deadline"
+      },
+      "link": "https://deadline.com/2026/08/adult-supervision-sells-wb-discovery-more-fantastic-fest-1237047254/",
+      "date": "2026-08-21T09:27:15.449892+00:00",
+      "image": "https://deadline.com/wp-content/uploads/2026/04/Adult-Supervision.jpg",
+      "important": true,
+      "score": 7
     },
     {
       "id": "02e2cf3e4288",
@@ -45,7 +93,7 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/outer-banks-madison-bailey-lack-queer-representation-1237047181/",
-      "date": "2026-08-21T08:28:21.570265+00:00",
+      "date": "2026-08-21T09:27:15.451379+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/P107OMWA-e1787275456846.jpg",
       "important": true,
       "score": 6
@@ -69,7 +117,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/news/trailers/monster-lizzie-borden-story-trailer-ryan-murphy-1235211644/",
-      "date": "2026-08-21T08:28:21.582974+00:00",
+      "date": "2026-08-21T09:27:15.462310+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/Monster__The_Lizzie_Borden_Story_n_S1_E2_00_37_26_19R.jpg?w=650",
       "important": true,
       "score": 4
@@ -93,7 +141,7 @@
         "fa": "Variety"
       },
       "link": "https://variety.com/2026/film/news/amazon-mgm-studios-kunal-kemmu-vibe-teaser-1236839782/",
-      "date": "2026-08-21T08:28:21.574882+00:00",
+      "date": "2026-08-21T09:27:15.455503+00:00",
       "image": "https://variety.com/wp-content/uploads/2026/08/Vibe-poster.jpg",
       "important": true,
       "score": 4
@@ -117,32 +165,8 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/awards/predictions/hbo-emmy-campaign-perseverance-should-pay-off-1235211458/",
-      "date": "2026-08-21T08:28:21.583161+00:00",
+      "date": "2026-08-21T09:27:15.462477+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/2290751324.jpg?w=650",
-      "important": false,
-      "score": 3
-    },
-    {
-      "id": "24273678a1e9",
-      "title": {
-        "en": "Diego Luna Migrant Drama ‘Ashes’ Sells to Watermelon Pictures Ahead of Toronto Film Festival Premiere",
-        "fa": "فروش درام مهاجر دیگو لونا به نام «خاکستر» به هندوانه در آستانه اکران جشنواره فیلم تورنتو"
-      },
-      "excerpt": {
-        "en": "The film debuted at the Cannes Film Festival and marks the \"Andor\" star's return to directing.",
-        "fa": "این فیلم برای اولین بار در جشنواره فیلم کن به نمایش درآمد و نشان دهنده بازگشت ستاره «اندور» به کارگردانی است."
-      },
-      "content": {
-        "en": "The film debuted at the Cannes Film Festival and marks the \"Andor\" star's return to directing.",
-        "fa": "این فیلم برای اولین بار در جشنواره فیلم کن به نمایش درآمد و نشان دهنده بازگشت ستاره «اندور» به کارگردانی است."
-      },
-      "source": {
-        "en": "IndieWire",
-        "fa": "IndieWire"
-      },
-      "link": "https://www.indiewire.com/news/festivals/diego-luna-migrant-drama-ashes-sells-watermelon-pictures-1235211826/",
-      "date": "2026-08-21T08:28:21.582499+00:00",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/05/Screenshot-2026-05-09-at-9.14.00 PM.png?w=650",
       "important": false,
       "score": 3
     },
@@ -165,7 +189,7 @@
         "fa": "The Hollywood Reporter"
       },
       "link": "https://www.hollywoodreporter.com/movies/movie-news/bad-day-cameron-diaz-netflix-release-first-look-1236678165/",
-      "date": "2026-08-21T08:28:21.577630+00:00",
+      "date": "2026-08-21T09:27:15.457108+00:00",
       "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/BADDAY_20251201_16572_R3.jpg?w=1296&#038;h=730&#038;crop=1",
       "important": false,
       "score": 3
@@ -189,64 +213,16 @@
         "fa": "The Hollywood Reporter"
       },
       "link": "https://www.hollywoodreporter.com/movies/movie-news/neon-premium-format-release-na-hong-jin-hope-1236678228/",
-      "date": "2026-08-21T08:28:21.577056+00:00",
+      "date": "2026-08-21T09:27:15.456558+00:00",
       "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/05/HOPE-MCDHOPE_EC035-H-2026.jpg?w=1296&#038;h=730&#038;crop=1",
       "important": false,
       "score": 3
     },
     {
-      "id": "a6d5f6e7dbcd",
+      "id": "0353b0aad7f9",
       "title": {
-        "en": "Prime Video Unveils Landmark $2 Billion-Plus Investment in Latin American Entertainment",
-        "fa": "پرایم ویدیو از سرمایه گذاری برجسته 2 میلیارد دلاری در سرگرمی های آمریکای لاتین رونمایی کرد"
-      },
-      "excerpt": {
-        "en": "Prime Video has unveiled a landmark $2 billion-plus investment plan in Latin American entertainment spanning 2027 to 2030 in a concerted bid to increase viewership and engagement. The move comes in what is considered the second fastest growing region for streaming in the world, with Netflix the clear frontrunner. At an inaugural showcase event in […]",
-        "fa": "پرایم ویدیو از یک طرح سرمایه گذاری 2 میلیارد دلاری در سرگرمی های آمریکای لاتین از سال 2027 تا 2030 پرده برداری کرده است تا بینندگان و تعامل را افزایش دهد. این حرکت در منطقه‌ای انجام می‌شود که دومین منطقه با رشد سریع برای پخش جریانی در جهان در نظر گرفته می‌شود و نتفلیکس پیشتاز واضحی است. در مراسم افتتاحیه نمایشگاه در"
-      },
-      "content": {
-        "en": "Prime Video has unveiled a landmark $2 billion-plus investment plan in Latin American entertainment spanning 2027 to 2030 in a concerted bid to increase viewership and engagement. The move comes in what is considered the second fastest growing region for streaming in the world, with Netflix the clear frontrunner. At an inaugural showcase event in […]",
-        "fa": "پرایم ویدیو از یک طرح سرمایه گذاری 2 میلیارد دلاری در سرگرمی های آمریکای لاتین از سال 2027 تا 2030 پرده برداری کرده است تا بینندگان و تعامل را افزایش دهد. این حرکت در منطقه‌ای انجام می‌شود که دومین منطقه با رشد سریع برای پخش جریانی در جهان در نظر گرفته می‌شود و نتفلیکس پیشتاز واضحی است. در مراسم افتتاحیه نمایشگاه در"
-      },
-      "source": {
-        "en": "Variety",
-        "fa": "Variety"
-      },
-      "link": "https://variety.com/2026/film/global/prime-video-2-billion-investment-latin-america-1236839446/",
-      "date": "2026-08-21T08:28:21.576218+00:00",
-      "image": "https://variety.com/wp-content/uploads/2026/08/event_24.jpeg",
-      "important": false,
-      "score": 3
-    },
-    {
-      "id": "b057f68c8d3e",
-      "title": {
-        "en": "How ‘Star Trek: Strange New Worlds’ Pulled Off That Madcap Puppet Episode",
-        "fa": "چگونه «پیشتازان فضا: جهان‌های عجیب و غریب» آن اپیزود عروسکی دیوانه را به پایان رساند"
-      },
-      "excerpt": {
-        "en": "SPOILER ALERT: This article contains spoilers for “Star Trek: Strange New Worlds” Season 4 Episode 5, titled “Level Five Transporter Accident,” now streaming on Paramount+. At long last, the most anticipated event in recent “Star Trek” memory is here. No, not another movie or another series focused on a legacy character. We are of course […]",
-        "fa": "هشدار اسپویلر: این مقاله حاوی اسپویل‌هایی برای «پیشتازان فضا: جهان‌های عجیب و غریب» فصل 4 قسمت 5، با عنوان «حادثه حمل‌ونقل سطح پنج» است که اکنون در Paramount+ پخش می‌شود. در نهایت، مورد انتظارترین رویداد در خاطرات اخیر «پیشتازان فضا» اینجاست. نه، نه فیلم دیگری یا سریال دیگری که بر روی یک شخصیت میراثی متمرکز شده باشد. ما البته هستیم"
-      },
-      "content": {
-        "en": "SPOILER ALERT: This article contains spoilers for “Star Trek: Strange New Worlds” Season 4 Episode 5, titled “Level Five Transporter Accident,” now streaming on Paramount+. At long last, the most anticipated event in recent “Star Trek” memory is here. No, not another movie or another series focused on a legacy character. We are of course […]",
-        "fa": "هشدار اسپویلر: این مقاله حاوی اسپویل‌هایی برای «پیشتازان فضا: جهان‌های عجیب و غریب» فصل 4 قسمت 5، با عنوان «حادثه حمل‌ونقل سطح پنج» است که اکنون در Paramount+ پخش می‌شود. در نهایت، مورد انتظارترین رویداد در خاطرات اخیر «پیشتازان فضا» اینجاست. نه، نه فیلم دیگری یا سریال دیگری که بر روی یک شخصیت میراثی متمرکز شده باشد. ما البته هستیم"
-      },
-      "source": {
-        "en": "Variety",
-        "fa": "Variety"
-      },
-      "link": "https://variety.com/2026/tv/news/star-trek-strange-new-worlds-puppet-episode-1236833011/",
-      "date": "2026-08-21T08:28:21.576002+00:00",
-      "image": "https://variety.com/wp-content/uploads/2026/08/SNW_405_JT_0704_0610_RT.jpg",
-      "important": false,
-      "score": 3
-    },
-    {
-      "id": "4951f8c5ebfe",
-      "title": {
-        "en": "Icelandic Producer Hlín Jóhannsdóttir Sets ‘Just a Kid’ With Alief Ahead of Haugesund and Reunites with ‘Driving Mum’ Team (EXCLUSIVE)",
-        "fa": "Hlín Jóhannsdóttir، تهیه‌کننده ایسلندی، «Just a Kid» را با Alief پیش از Haugesund تنظیم می‌کند و دوباره با تیم «Driving Mum» متحد می‌شود."
+        "en": "Icelandic Producer Hlín Jóhannsdóttir Sets ‘Just a Kid’ With Alief Ahead of Haugesund and Reunites With ‘Driving Mum’ Team (EXCLUSIVE)",
+        "fa": "Hlín Jóhannsdóttir، تهیه‌کننده ایسلندی، «Just a Kid» را با Alief پیش از Haugesund قرار می‌دهد و دوباره با تیم «Driving Mum» متحد می‌شود."
       },
       "excerpt": {
         "en": "Veteran Icelandic producer Hlín Jóhannsdóttir of Ursus Parvus, behind titles from some Iceland’s most renowned filmmakers including Fridrik Thor Fridriksson, Dagur Kári and Rúnar Rúnarsson, has signed with French-U.K. sales outfit Alief on the coming-of-age “Just a Kid” (“Bara barn”) by up-and-coming writer-director Vala Ómarsdóttir. To be pitched at New Nordic Films’ Works in Progress […]",
@@ -261,32 +237,32 @@
         "fa": "Variety"
       },
       "link": "https://variety.com/2026/film/global/driving-mum-iceland-alief-just-a-kid-1236839417/",
-      "date": "2026-08-21T08:28:21.574741+00:00",
+      "date": "2026-08-21T09:27:15.455375+00:00",
       "image": "https://variety.com/wp-content/uploads/2026/08/Just-a-Kid-courtesy-Ursus-Parvus-.jpg",
       "important": false,
       "score": 3
     },
     {
-      "id": "c14dd26e7f95",
+      "id": "d0d887c8739d",
       "title": {
-        "en": "From Vintage Levi’s To Playing Cards: ‘Hacks’ Costume Designer Kathleen Felix-Hager On Dressing Season 5",
-        "fa": "از Vintage Levi's تا Playing Cards: کاتلین فلیکس-هیگر طراح لباس «Hacks» در مورد لباس پوشیدن فصل 5"
+        "en": "Jacob Elordi Ducks James Bond Question at London World Premiere of Ridley Scott’s ‘The Dog Stars’ When Asked if He’s Been Auditioning: ‘I’m Here on Holiday’",
+        "fa": "جیکوب الوردی اردک جیمز باند را در اولین نمایش جهانی فیلم «ستارگان سگی» ریدلی اسکات در لندن مطرح کرد، وقتی از او پرسیده شد که آیا در حال تست دادن است: «من در تعطیلات اینجا هستم»"
       },
       "excerpt": {
-        "en": "By the time Hacks reached its fifth and final season, Deborah Vance (Jean Smart) was still Deborah Vance — big earrings, bold looks and all. But for costume designer Kathleen Felix-Hager, it was Ava Daniels (Hannah Einbinder) whose wardrobe told the story of just how much the young writer had changed since Season 1. As […]",
-        "fa": "زمانی که Hacks به فصل پنجم و آخر خود رسید، دبورا ونس هنوز دبورا ونس بود - گوشواره های بزرگ، ظاهر جسورانه و همه چیز. اما برای طراح صحنه و لباس کاتلین فلیکس هاگر، آوا دنیلز بود که کمد لباس او حکایت از تغییر این نویسنده جوان از فصل 1 داشت."
+        "en": "Jacob Elordi was the star guest in London on Thursday night as he touched down for the world premiere of Ridley Scott’s latest feature “The Dog Stars.” The actor’s arrival in Leicester Square was immediately soundtracked by the noise of screams from fans, including from a group of girls leaning out of nearby window, who […]",
+        "fa": "جیکوب الوردی پنج‌شنبه شب در لندن مهمان ستاره‌ای بود که برای اولین بار برای نمایش جهانی جدیدترین فیلم ریدلی اسکات «ستارگان سگی» به نمایش درآمد. ورود این بازیگر به میدان لستر بلافاصله با صدای فریادهای طرفداران، از جمله گروهی از دخترانی که از پنجره نزدیک به بیرون خم شده بودند، ضبط شد."
       },
       "content": {
-        "en": "By the time Hacks reached its fifth and final season, Deborah Vance (Jean Smart) was still Deborah Vance — big earrings, bold looks and all. But for costume designer Kathleen Felix-Hager, it was Ava Daniels (Hannah Einbinder) whose wardrobe told the story of just how much the young writer had changed since Season 1. As […]",
-        "fa": "زمانی که Hacks به فصل پنجم و آخر خود رسید، دبورا ونس هنوز دبورا ونس بود - گوشواره های بزرگ، ظاهر جسورانه و همه چیز. اما برای طراح صحنه و لباس کاتلین فلیکس هاگر، آوا دنیلز بود که کمد لباس او حکایت از تغییر این نویسنده جوان از فصل 1 داشت."
+        "en": "Jacob Elordi was the star guest in London on Thursday night as he touched down for the world premiere of Ridley Scott’s latest feature “The Dog Stars.” The actor’s arrival in Leicester Square was immediately soundtracked by the noise of screams from fans, including from a group of girls leaning out of nearby window, who […]",
+        "fa": "جیکوب الوردی پنج‌شنبه شب در لندن مهمان ستاره‌ای بود که برای اولین بار برای نمایش جهانی جدیدترین فیلم ریدلی اسکات «ستارگان سگی» به نمایش درآمد. ورود این بازیگر به میدان لستر بلافاصله با صدای فریادهای طرفداران، از جمله گروهی از دخترانی که از پنجره نزدیک به بیرون خم شده بودند، ضبط شد."
       },
       "source": {
-        "en": "Deadline",
-        "fa": "Deadline"
+        "en": "Variety",
+        "fa": "Variety"
       },
-      "link": "https://deadline.com/2026/08/hacks-costume-designer-interview-season-5-1237046866/",
-      "date": "2026-08-21T08:28:21.573646+00:00",
-      "image": "https://deadline.com/wp-content/uploads/2026/08/Screenshot-2026-08-20-at-1.50.03-PM.png",
+      "link": "https://variety.com/2026/film/global/jacob-elordi-james-bond-ridley-scott-the-dog-stars-premiere-1236839014/",
+      "date": "2026-08-21T09:27:15.454355+00:00",
+      "image": "https://variety.com/wp-content/uploads/2026/08/GettyImages-2291321426.jpg",
       "important": false,
       "score": 3
     },
@@ -309,7 +285,7 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/california-film-tax-credits-latest-1237045968/",
-      "date": "2026-08-21T08:28:21.573064+00:00",
+      "date": "2026-08-21T09:27:15.453411+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/Sacramento-.jpg",
       "important": false,
       "score": 3
@@ -333,8 +309,32 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/stuart-fails-john-ross-bowie-brian-posehn-episode-5-1237047095/",
-      "date": "2026-08-21T08:28:21.570781+00:00",
+      "date": "2026-08-21T09:27:15.451696+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/stuart-copy.jpg",
+      "important": false,
+      "score": 3
+    },
+    {
+      "id": "bd2dcc7a4eb9",
+      "title": {
+        "en": "‘Free Nelson Mandela’ Maker Rogan Productions Opens South Africa Office & Tweaks Management Set Up",
+        "fa": "Rogan Productions سازنده «نلسون ماندلا را آزاد کنید» دفتر آفریقای جنوبی و تنظیمات مدیریت را راه‌اندازی کرد"
+      },
+      "excerpt": {
+        "en": "EXCLUSIVE: Fresh off producing Channel 4’s Free Nelson Mandela, Rogan Productions has opened an office in South Africa. The new unit, Rogan South Africa, will be a production base in Johannesburg with close links to Cape Town. This marks the first permanent international expansion for the 13-year-old London-based company. At the same time, Rogan is […]",
+        "fa": "انحصاری: Rogan Productions با تولید نلسون ماندلا رایگان از کانال 4، دفتری را در آفریقای جنوبی افتتاح کرده است. واحد جدید، روگان آفریقای جنوبی، یک پایگاه تولیدی در ژوهانسبورگ با پیوند نزدیک به کیپ تاون خواهد بود. این اولین توسعه دائمی بین المللی برای این شرکت 13 ساله مستقر در لندن است. در عین حال، روگان است"
+      },
+      "content": {
+        "en": "EXCLUSIVE: Fresh off producing Channel 4’s Free Nelson Mandela, Rogan Productions has opened an office in South Africa. The new unit, Rogan South Africa, will be a production base in Johannesburg with close links to Cape Town. This marks the first permanent international expansion for the 13-year-old London-based company. At the same time, Rogan is […]",
+        "fa": "انحصاری: Rogan Productions با تولید نلسون ماندلا رایگان از کانال 4، دفتری را در آفریقای جنوبی افتتاح کرده است. واحد جدید، روگان آفریقای جنوبی، یک پایگاه تولیدی در ژوهانسبورگ با پیوند نزدیک به کیپ تاون خواهد بود. این اولین توسعه دائمی بین المللی برای این شرکت 13 ساله مستقر در لندن است. در عین حال، روگان است"
+      },
+      "source": {
+        "en": "Deadline",
+        "fa": "Deadline"
+      },
+      "link": "https://deadline.com/2026/08/rogan-productions-opens-south-africa-office-1237047249/",
+      "date": "2026-08-21T09:27:15.450994+00:00",
+      "image": "https://deadline.com/wp-content/uploads/2026/08/Rogan-Prods-e1787299913128.jpg",
       "important": false,
       "score": 3
     },
@@ -357,7 +357,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/news/trailers/chronovisor-movie-trailer-1235211641/",
-      "date": "2026-08-21T08:28:21.582847+00:00",
+      "date": "2026-08-21T09:27:15.462203+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/MCDCHRO_EC087.jpg?w=650",
       "important": false,
       "score": 1
@@ -381,7 +381,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/features/craft/the-top-chef-reality-show-casting-interview-1235211638/",
-      "date": "2026-08-21T08:28:21.581942+00:00",
+      "date": "2026-08-21T09:27:15.461362+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/NUP_208397_02672.jpg?w=650",
       "important": false,
       "score": 1
@@ -405,7 +405,7 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/dave-bautista-cast-kratos-god-of-war-amazon-series-recast-1237046959/",
-      "date": "2026-08-21T08:28:21.572760+00:00",
+      "date": "2026-08-21T09:27:15.453128+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/Dave-Bautista-Kratos-from-God-of-War.jpg",
       "important": false,
       "score": 1
@@ -429,7 +429,7 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/spider-man-insidious-out-of-the-further-global-box-office-1237046811/",
-      "date": "2026-08-21T08:28:21.572535+00:00",
+      "date": "2026-08-21T09:27:15.452918+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/Insidious-Out-of-the-Further-and-Spider-Man-Brand-New-Day.jpg",
       "important": false,
       "score": 1
@@ -453,7 +453,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/news/breaking-news/san-francisco-portal-cinema-opening-fall-2026-1235211735/",
-      "date": "2026-08-21T08:28:21.582381+00:00",
+      "date": "2026-08-21T09:27:15.461784+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/Portal_rendering-by-Stephen-Atkinson.jpeg?w=650",
       "important": false,
       "score": 0
@@ -477,7 +477,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/criticism/movies/it-ends-indie-horror-movie-review-1235101708/",
-      "date": "2026-08-21T08:28:21.582173+00:00",
+      "date": "2026-08-21T09:27:15.461585+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2025/03/it-ends-318958.jpeg?w=650",
       "important": false,
       "score": 0
@@ -490,18 +490,18 @@
       },
       "excerpt": {
         "en": "Leslie Mann, Isla Fisher, Michelle Buteau, and Anna Faris make for a spirited foursome in \"The Hangover\" writers and \"Bad Moms\" filmmakers Jon Lucas and Scott Moore's messy, unhinged, sometimes funny new film.",
-        "fa": "لزلی مان، ایسلا فیشر، میشل بوتو و آنا فاریس در فیلم جدید ژولیده، بی‌هیچ و گاهی خنده‌دار، نویسندگان «خماری» و فیلم‌سازان «مامان‌های بد»، جون لوکاس و اسکات مور، چهار نفری پرشور را تشکیل می‌دهند."
+        "fa": "لسلی مان، ایسلا فیشر، میشل بوتو و آنا فاریس در فیلم جدید ژان لوکاس، فیلمسازان «مامان‌های بد» و جان لوکاس و اسکات مور، چهار نفری پرشور را تشکیل می‌دهند."
       },
       "content": {
         "en": "Leslie Mann, Isla Fisher, Michelle Buteau, and Anna Faris make for a spirited foursome in \"The Hangover\" writers and \"Bad Moms\" filmmakers Jon Lucas and Scott Moore's messy, unhinged, sometimes funny new film.",
-        "fa": "لزلی مان، ایسلا فیشر، میشل بوتو و آنا فاریس در فیلم جدید ژولیده، بی‌هیچ و گاهی خنده‌دار، نویسندگان «خماری» و فیلم‌سازان «مامان‌های بد»، جون لوکاس و اسکات مور، چهار نفری پرشور را تشکیل می‌دهند."
+        "fa": "لسلی مان، ایسلا فیشر، میشل بوتو و آنا فاریس در فیلم جدید ژان لوکاس، فیلمسازان «مامان‌های بد» و جان لوکاس و اسکات مور، چهار نفری پرشور را تشکیل می‌دهند."
       },
       "source": {
         "en": "IndieWire",
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/criticism/movies/spa-weekend-review-leslie-mann-isla-fisher-michelle-buteau-1235211346/",
-      "date": "2026-08-21T08:28:21.581206+00:00",
+      "date": "2026-08-21T09:27:15.460639+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/bf1ab8bc408ccac7cdff2b637cf9f6cae1181667-8192x5464-1.avif?w=650",
       "important": false,
       "score": 0
@@ -525,7 +525,7 @@
         "fa": "The Wrap"
       },
       "link": "https://www.thewrap.com/industry-news/public-policy-legal/nithya-raman-karen-bass-paramount-warner-merger/",
-      "date": "2026-08-21T08:28:21.580462+00:00",
+      "date": "2026-08-21T09:27:15.459926+00:00",
       "image": "https://www.thewrap.com/wp-content/uploads/2026/05/GettyImages-2274236251-1.jpg",
       "important": false,
       "score": 0
@@ -534,7 +534,7 @@
       "id": "8ea49a8b2a05",
       "title": {
         "en": "Streaming Ratings: ‘Masters of the Universe’ Powers to No. 1 Debut",
-        "fa": "رتبه‌بندی‌های جریانی: «Masters of the Universe» قدرت اول را برای اولین بار دارد"
+        "fa": "رتبه‌بندی‌های استریم: «Masters of the Universe» قدرت اول را برای اولین بار دارد"
       },
       "excerpt": {
         "en": "'The Hawk' and 'Ride or Die' are the two biggest original series for the week of July 20.",
@@ -549,7 +549,7 @@
         "fa": "The Hollywood Reporter"
       },
       "link": "https://www.hollywoodreporter.com/tv/tv-news/streaming-ratings-july-20-26-2026-1236678107/",
-      "date": "2026-08-21T08:28:21.578323+00:00",
+      "date": "2026-08-21T09:27:15.457749+00:00",
       "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/05/MOTU_2026_UT_250331_KEYGIL_12674_R4_COMP_rgb-H-2026.jpg?w=1296&#038;h=730&#038;crop=1",
       "important": false,
       "score": 0
@@ -573,7 +573,7 @@
         "fa": "The Hollywood Reporter"
       },
       "link": "https://www.hollywoodreporter.com/lifestyle/lifestyle-news/gwyneth-paltrow-sam-altman-dinner-invite-openai-1236678196/",
-      "date": "2026-08-21T08:28:21.577295+00:00",
+      "date": "2026-08-21T09:27:15.456787+00:00",
       "image": "https://www.hollywoodreporter.com/wp-content/uploads/2025/12/Gwyneth-Paltrow-WIE-Main-2025.jpg?w=1296&#038;h=730&#038;crop=1",
       "important": false,
       "score": 0
