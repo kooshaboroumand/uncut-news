@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-22T10:13:50.864931+00:00",
-  "count": 23,
+  "updated_at": "2026-08-22T11:12:56.872392+00:00",
+  "count": 24,
   "news": [
     {
       "id": "84f7b103e7fc",
@@ -21,7 +21,7 @@
         "fa": "The Hollywood Reporter"
       },
       "link": "https://www.hollywoodreporter.com/tv/tv-features/khloe-kardashian-the-girls-hulu-reality-show-1236677849/",
-      "date": "2026-08-22T10:13:50.659483+00:00",
+      "date": "2026-08-22T11:12:56.701847+00:00",
       "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/The-Girls-main.jpg?w=1440&#038;h=810&#038;crop=1",
       "important": true,
       "score": 9
@@ -45,8 +45,32 @@
         "fa": "Variety"
       },
       "link": "https://variety.com/2026/tv/awards/jason-bateman-emmys-black-rabbit-dtf-st-louis-podcast-1236840514/",
-      "date": "2026-08-22T10:13:50.657336+00:00",
+      "date": "2026-08-22T11:12:56.700438+00:00",
       "image": "https://variety.com/wp-content/uploads/2026/08/P104ESVD.jpg",
+      "important": true,
+      "score": 6
+    },
+    {
+      "id": "b7d38f24ac57",
+      "title": {
+        "en": "Emily Watson Says ‘Dune: Prophecy’ Season 2 Will Have ‘Lots of New Elements,’ Led Her on ‘A Quest in a Way Actors Always Get to Do and Actresses Don’t’",
+        "fa": "امیلی واتسون می‌گوید که فصل دوم «Dune: Prophecy» دارای «عناصر جدید زیادی» خواهد بود، او را در «جستجوی به روشی که بازیگران همیشه باید انجام دهند و بازیگران زن انجام نمی‌دهند» هدایت کرد."
+      },
+      "excerpt": {
+        "en": "Starring in HBO Max’s “Dune: Prophecy” has been a major “departure” for Emily Watson, whose lauded career was built upon major independent and arthouse successes such as Lars von Trier’s “Breaking the Waves” and Robert Altman’s “Gosford Park.” As she embarks on a second season of the hit show, the actress feels more settled in […]",
+        "fa": "بازی در سریال HBO Max «Dune: Prophecy» یک «خروج» بزرگ برای امیلی واتسون بوده است، که حرفه ستایش‌شده‌اش بر اساس موفقیت‌های بزرگ مستقل و هنری مانند «شکستن امواج» لارس فون تریر و «پارک گسفورد» ساخته رابرت آلتمن بنا شده است. با شروع فصل دوم سریال پرطرفدار، این بازیگر احساس می‌کند که در آن مستقر شده است"
+      },
+      "content": {
+        "en": "Starring in HBO Max’s “Dune: Prophecy” has been a major “departure” for Emily Watson, whose lauded career was built upon major independent and arthouse successes such as Lars von Trier’s “Breaking the Waves” and Robert Altman’s “Gosford Park.” As she embarks on a second season of the hit show, the actress feels more settled in […]",
+        "fa": "بازی در سریال HBO Max «Dune: Prophecy» یک «خروج» بزرگ برای امیلی واتسون بوده است، که حرفه ستایش‌شده‌اش بر اساس موفقیت‌های بزرگ مستقل و هنری مانند «شکستن امواج» لارس فون تریر و «پارک گسفورد» ساخته رابرت آلتمن بنا شده است. با شروع فصل دوم سریال پرطرفدار، این بازیگر احساس می‌کند که در آن مستقر شده است"
+      },
+      "source": {
+        "en": "Variety",
+        "fa": "Variety"
+      },
+      "link": "https://variety.com/2026/film/global/emily-watson-dune-prophecy-season-2-1236840725/",
+      "date": "2026-08-22T11:12:56.698515+00:00",
+      "image": "https://variety.com/wp-content/uploads/2026/08/Emily-Watson.jpg",
       "important": true,
       "score": 6
     },
@@ -69,7 +93,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/news/general-news/the-pitt-season-3-first-look-teaser-dr-robby-back-1235212128/",
-      "date": "2026-08-22T10:13:50.663517+00:00",
+      "date": "2026-08-22T11:12:56.704966+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/noah-wyle.jpg?w=650",
       "important": true,
       "score": 4
@@ -93,7 +117,7 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/chicago-fire-matthew-daddario-cast-season-15-1237047966/",
-      "date": "2026-08-22T10:13:50.653243+00:00",
+      "date": "2026-08-22T11:12:56.697078+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/Matthew-Daddario.jpg",
       "important": true,
       "score": 4
@@ -117,7 +141,7 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/michelle-pfeiffer-clarifies-never-said-retiring-1237047868/",
-      "date": "2026-08-22T10:13:50.654861+00:00",
+      "date": "2026-08-22T11:12:56.698323+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/P106TWU9-e1787347833611.jpg",
       "important": false,
       "score": 3
@@ -141,7 +165,7 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/taylor-swift-eras-tour-final-show-emmy-nominations-1237047840/",
-      "date": "2026-08-22T10:13:50.654558+00:00",
+      "date": "2026-08-22T11:12:56.698086+00:00",
       "image": "https://deadline.com/wp-content/uploads/2024/08/taylor-swift-austria-vienna-concert-eras-tour.jpg",
       "important": false,
       "score": 3
@@ -165,7 +189,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/features/interviews/letterboxd-distribution-pipeline-it-ends-1235212138/",
-      "date": "2026-08-22T10:13:50.663244+00:00",
+      "date": "2026-08-22T11:12:56.704754+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/07/Phinehas-Yoon-Akira-Jackson-Noah-Toth-in-IT-ENDS_Courtesy-of-NEON.jpeg?w=650",
       "important": false,
       "score": 1
@@ -189,7 +213,7 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/box-office-insidious-out-of-the-further-brand-new-day-1237047405/",
-      "date": "2026-08-22T10:13:50.653438+00:00",
+      "date": "2026-08-22T11:12:56.697220+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/Insidious-Out-of-the-Further-Spider-Man-Brand-New-Day.jpg",
       "important": false,
       "score": 1
@@ -213,7 +237,7 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/real-time-hunter-biden-shoots-down-presidential-bid-1237048042/",
-      "date": "2026-08-22T10:13:50.652448+00:00",
+      "date": "2026-08-22T11:12:56.696455+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/Hunter-Biden-Real-Time.png",
       "important": false,
       "score": 1
@@ -237,7 +261,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/criticism/movies/how-to-divorce-during-the-war-review-1235212055/",
-      "date": "2026-08-22T10:13:50.663913+00:00",
+      "date": "2026-08-22T11:12:56.705275+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/HowtoDivorce_still_04.jpg?w=650",
       "important": false,
       "score": 0
@@ -261,7 +285,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/features/commentary/indie-slop-definition-film-video-game-criticism-1235211844/",
-      "date": "2026-08-22T10:13:50.662766+00:00",
+      "date": "2026-08-22T11:12:56.704381+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/MCDIRLU_EC006_ece4a3.jpg?w=650",
       "important": false,
       "score": 0
@@ -285,7 +309,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/features/commentary/niu-lai-review-chinese-animated-movie-terrible-1235212156/",
-      "date": "2026-08-22T10:13:50.662587+00:00",
+      "date": "2026-08-22T11:12:56.704243+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/images-2.jpg?w=650",
       "important": false,
       "score": 0
@@ -309,7 +333,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/features/best-of/the-phantom-empire-1935-film-serials-after-dark-1235212213/",
-      "date": "2026-08-22T10:13:50.662123+00:00",
+      "date": "2026-08-22T11:12:56.703886+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/the-phantom-empire.jpg?w=650",
       "important": false,
       "score": 0
@@ -333,7 +357,7 @@
         "fa": "The Hollywood Reporter"
       },
       "link": "https://www.hollywoodreporter.com/business/business-news/raquel-lee-alleges-disney-negligent-sexual-abuse-1236678925/",
-      "date": "2026-08-22T10:13:50.658048+00:00",
+      "date": "2026-08-22T11:12:56.700731+00:00",
       "image": "https://www.hollywoodreporter.com/wp-content/uploads/2024/04/Raquel-Lee-Bolleau-Vulture-Festival-Carpet-GettyImages-1441247249-H-2024.jpg?w=1296&#038;h=730&#038;crop=1",
       "important": false,
       "score": 0
@@ -357,7 +381,7 @@
         "fa": "The Hollywood Reporter"
       },
       "link": "https://www.hollywoodreporter.com/movies/movie-news/sandra-wollner-everytime-honorary-heart-sarajevo-urushadze-1236678968/",
-      "date": "2026-08-22T10:13:50.657880+00:00",
+      "date": "2026-08-22T11:12:56.700601+00:00",
       "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/FotoJet-2026-08-22T100205.703.jpg?w=1440&#038;h=810&#038;crop=1",
       "important": false,
       "score": 0
@@ -381,7 +405,7 @@
         "fa": "Variety"
       },
       "link": "https://variety.com/2026/film/news/paramount-responds-mark-ruffalo-merger-attack-israel-1236840552/",
-      "date": "2026-08-22T10:13:50.657135+00:00",
+      "date": "2026-08-22T11:12:56.700283+00:00",
       "image": "https://variety.com/wp-content/uploads/2025/08/2219205177.jpg",
       "important": false,
       "score": 0
@@ -405,7 +429,7 @@
         "fa": "Variety"
       },
       "link": "https://variety.com/2026/film/reviews/spa-weekend-review-leslie-mann-anna-faris-1236840170/",
-      "date": "2026-08-22T10:13:50.656602+00:00",
+      "date": "2026-08-22T11:12:56.699866+00:00",
       "image": "https://variety.com/wp-content/uploads/2026/08/SPA-WEEKEND-c-Black-Bear_1-1.jpg",
       "important": false,
       "score": 0
@@ -429,7 +453,7 @@
         "fa": "Variety"
       },
       "link": "https://variety.com/2026/film/global/sandra-wollner-everytime-wins-sarajevo-film-festival-1236840695/",
-      "date": "2026-08-22T10:13:50.655994+00:00",
+      "date": "2026-08-22T11:12:56.699395+00:00",
       "image": "https://variety.com/wp-content/uploads/2026/05/VARIETY-SIZING-18.png",
       "important": false,
       "score": 0
@@ -453,7 +477,7 @@
         "fa": "Variety"
       },
       "link": "https://variety.com/2026/music/news/olivia-rodrigo-serena-joy-cd-single-handmaids-tale-1236840709/",
-      "date": "2026-08-22T10:13:50.655708+00:00",
+      "date": "2026-08-22T11:12:56.699172+00:00",
       "image": "https://variety.com/wp-content/uploads/2026/08/Screenshot-2026-08-21-at-10.22.50-PM.png",
       "important": false,
       "score": 0
@@ -477,7 +501,7 @@
         "fa": "Variety"
       },
       "link": "https://variety.com/2026/shopping/news/how-to-watch-indycar-freedom-250-grand-prix-live-online-free-1236838320/",
-      "date": "2026-08-22T10:13:50.655155+00:00",
+      "date": "2026-08-22T11:12:56.698743+00:00",
       "image": "https://variety.com/wp-content/uploads/2026/08/Indycar-Freedom-250-Grand-Prix-Getty-VR-Featured.jpg",
       "important": false,
       "score": 0
@@ -501,7 +525,7 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/miss-usa-miss-teen-usa-pageants-dropped-by-the-cw-1237047893/",
-      "date": "2026-08-22T10:13:50.653927+00:00",
+      "date": "2026-08-22T11:12:56.697599+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/GettyImages-2165306052.jpg",
       "important": false,
       "score": 0
@@ -525,7 +549,7 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/gavin-newsom-paramount-merger-settlement-talks-1237048002/",
-      "date": "2026-08-22T10:13:50.652767+00:00",
+      "date": "2026-08-22T11:12:56.696698+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/03/Rob-Bonta-and-David-Ellison.jpg",
       "important": false,
       "score": 0
@@ -549,7 +573,7 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/2026-imagen-awards-winners-acapulco-will-trent-scrubs-1237047159/",
-      "date": "2026-08-22T10:13:50.651296+00:00",
+      "date": "2026-08-22T11:12:56.695574+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/Imagen-AWards_db9287.jpg",
       "important": false,
       "score": 0
