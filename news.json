@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-22T02:10:00.597621+00:00",
-  "count": 21,
+  "updated_at": "2026-08-22T03:34:09.010669+00:00",
+  "count": 20,
   "news": [
     {
       "id": "84f7b103e7fc",
@@ -21,8 +21,8 @@
         "fa": "The Hollywood Reporter"
       },
       "link": "https://www.hollywoodreporter.com/tv/tv-features/khloe-kardashian-the-girls-hulu-reality-show-1236677849/",
-      "date": "2026-08-22T02:10:00.404303+00:00",
-      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/The-Girls-main.jpg?w=1440&#038;h=810&#038;crop=1",
+      "date": "2026-08-22T03:34:08.882862+00:00",
+      "image": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=900&q=80",
       "important": true,
       "score": 9
     },
@@ -45,7 +45,7 @@
         "fa": "Variety"
       },
       "link": "https://variety.com/2026/tv/awards/jason-bateman-emmys-black-rabbit-dtf-st-louis-podcast-1236840514/",
-      "date": "2026-08-22T02:10:00.401048+00:00",
+      "date": "2026-08-22T03:34:08.880456+00:00",
       "image": "https://variety.com/wp-content/uploads/2026/08/P104ESVD.jpg",
       "important": true,
       "score": 6
@@ -69,7 +69,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/news/general-news/the-pitt-season-3-first-look-teaser-dr-robby-back-1235212128/",
-      "date": "2026-08-22T02:10:00.408856+00:00",
+      "date": "2026-08-22T03:34:08.886159+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/noah-wyle.jpg?w=650",
       "important": true,
       "score": 4
@@ -93,34 +93,10 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/chicago-fire-matthew-daddario-cast-season-15-1237047966/",
-      "date": "2026-08-22T02:10:00.397259+00:00",
+      "date": "2026-08-22T03:34:08.877891+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/Matthew-Daddario.jpg",
       "important": true,
       "score": 4
-    },
-    {
-      "id": "565c6731cd18",
-      "title": {
-        "en": "The 7 Best Superhero Movies on HBO Max Right Now",
-        "fa": "7 بهترین فیلم ابرقهرمانی در HBO Max در حال حاضر"
-      },
-      "excerpt": {
-        "en": "From \"The Dark Knight\" to \"Spider-Man: Across the Spider-Verse\" The post The 7 Best Superhero Movies on HBO Max Right Now appeared first on TheWrap .",
-        "fa": "از \"شوالیه تاریکی\" تا \"مرد عنکبوتی: در سراسر آیه عنکبوتی\""
-      },
-      "content": {
-        "en": "From \"The Dark Knight\" to \"Spider-Man: Across the Spider-Verse\" The post The 7 Best Superhero Movies on HBO Max Right Now appeared first on TheWrap .",
-        "fa": "از \"شوالیه تاریکی\" تا \"مرد عنکبوتی: در سراسر آیه عنکبوتی\""
-      },
-      "source": {
-        "en": "The Wrap",
-        "fa": "The Wrap"
-      },
-      "link": "https://www.thewrap.com/creative-content/what-to-watch/best-superhero-movies-streaming-on-hbo-max-august-2026/",
-      "date": "2026-08-22T02:10:00.407083+00:00",
-      "image": "https://www.thewrap.com/wp-content/uploads/2025/09/The-Dark-Knight.jpg",
-      "important": false,
-      "score": 3
     },
     {
       "id": "22c6ad56c4ad",
@@ -141,7 +117,7 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/hacks-the-comeback-creators-ending-1237047693/",
-      "date": "2026-08-22T02:10:00.399268+00:00",
+      "date": "2026-08-22T03:34:08.879399+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/MixCollage-21-Aug-2026-12-02-PM-8845.jpg",
       "important": false,
       "score": 3
@@ -150,7 +126,7 @@
       "id": "19b575a9c450",
       "title": {
         "en": "Michelle Pfeiffer Clarifies She “Never Said” She’s Retiring: “The Most Ridiculous Thing”",
-        "fa": "میشل فایفر توضیح می دهد که او \"هرگز نگفت\" در حال بازنشستگی است: \"مضحک ترین چیز\""
+        "fa": "میشل فایفر توضیح می‌دهد که «هرگز نگفت» در حال بازنشستگی است: «مضحک‌ترین چیز»"
       },
       "excerpt": {
         "en": "With new seasons of The Madison and Margo’s Got Money Troubles just around the corner, Michelle Pfeiffer isn’t slowing down anytime soon. After a passing comment that she “never wants to star in another movie,” the 3x Oscar nominee clarified that she’s not retiring, but was talking about her preference for being part of an […]",
@@ -165,7 +141,7 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/michelle-pfeiffer-clarifies-never-said-retiring-1237047868/",
-      "date": "2026-08-22T02:10:00.399012+00:00",
+      "date": "2026-08-22T03:34:08.879222+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/P106TWU9-e1787347833611.jpg",
       "important": false,
       "score": 3
@@ -189,7 +165,7 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/taylor-swift-eras-tour-final-show-emmy-nominations-1237047840/",
-      "date": "2026-08-22T02:10:00.398680+00:00",
+      "date": "2026-08-22T03:34:08.878966+00:00",
       "image": "https://deadline.com/wp-content/uploads/2024/08/taylor-swift-austria-vienna-concert-eras-tour.jpg",
       "important": false,
       "score": 3
@@ -213,7 +189,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/features/interviews/letterboxd-distribution-pipeline-it-ends-1235212138/",
-      "date": "2026-08-22T02:10:00.408568+00:00",
+      "date": "2026-08-22T03:34:08.885944+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/07/Phinehas-Yoon-Akira-Jackson-Noah-Toth-in-IT-ENDS_Courtesy-of-NEON.jpeg?w=650",
       "important": false,
       "score": 1
@@ -237,7 +213,7 @@
         "fa": "Variety"
       },
       "link": "https://variety.com/2026/film/news/chris-aronson-paramount-lawsuit-1236840408/",
-      "date": "2026-08-22T02:10:00.402696+00:00",
+      "date": "2026-08-22T03:34:08.881722+00:00",
       "image": "https://variety.com/wp-content/uploads/2025/10/chris-aronson.jpg",
       "important": false,
       "score": 1
@@ -261,8 +237,32 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/box-office-insidious-out-of-the-further-brand-new-day-1237047405/",
-      "date": "2026-08-22T02:10:00.397468+00:00",
+      "date": "2026-08-22T03:34:08.878070+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/Insidious-Out-of-the-Further-Spider-Man-Brand-New-Day.jpg",
+      "important": false,
+      "score": 1
+    },
+    {
+      "id": "b13bd93f5a6c",
+      "title": {
+        "en": "‘Real Time’: Hunter Biden Shoots Down Presidential Bid, Jokes “Check If I Relapsed” If He Ever Announces Run",
+        "fa": "\"زمان واقعی\": هانتر بایدن پیشنهاد ریاست جمهوری را رد می کند، به شوخی می گوید: \"بررسی کن که آیا مجدداً نامزد شدم یا نه\""
+      },
+      "excerpt": {
+        "en": "With both sides of the aisle keeping an eye toward the 2028 presidential election, Hunter Biden isn’t even flirting with the idea of running. On Friday, the son of President Joe Biden joked on Real Time with Bill Maher that if he ever launches a campaign, it’s probably because he relapsed, having previously been open […]",
+        "fa": "هانتر بایدن با توجه به انتخابات ریاست‌جمهوری 2028 که هر دو طرف از راهرو چشم دوخته‌اند، حتی با ایده نامزدی هم معاشقه نمی‌کند. روز جمعه، پسر جو بایدن، رئیس‌جمهور جو بایدن با بیل ماهر به شوخی در Real Time گفت که اگر او یک کمپین راه‌اندازی می‌کند، احتمالاً به این دلیل است که او عود کرده است، زیرا قبلاً باز بوده است."
+      },
+      "content": {
+        "en": "With both sides of the aisle keeping an eye toward the 2028 presidential election, Hunter Biden isn’t even flirting with the idea of running. On Friday, the son of President Joe Biden joked on Real Time with Bill Maher that if he ever launches a campaign, it’s probably because he relapsed, having previously been open […]",
+        "fa": "هانتر بایدن با توجه به انتخابات ریاست‌جمهوری 2028 که هر دو طرف از راهرو چشم دوخته‌اند، حتی با ایده نامزدی هم معاشقه نمی‌کند. روز جمعه، پسر جو بایدن، رئیس‌جمهور جو بایدن با بیل ماهر به شوخی در Real Time گفت که اگر او یک کمپین راه‌اندازی می‌کند، احتمالاً به این دلیل است که او عود کرده است، زیرا قبلاً باز بوده است."
+      },
+      "source": {
+        "en": "Deadline",
+        "fa": "Deadline"
+      },
+      "link": "https://deadline.com/2026/08/real-time-hunter-biden-shoots-down-presidential-bid-1237048042/",
+      "date": "2026-08-22T03:34:08.877233+00:00",
+      "image": "https://deadline.com/wp-content/uploads/2026/08/Hunter-Biden-Real-Time.png",
       "important": false,
       "score": 1
     },
@@ -285,7 +285,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/criticism/movies/how-to-divorce-during-the-war-review-1235212055/",
-      "date": "2026-08-22T02:10:00.409319+00:00",
+      "date": "2026-08-22T03:34:08.886464+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/HowtoDivorce_still_04.jpg?w=650",
       "important": false,
       "score": 0
@@ -309,7 +309,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/news/events/scad-students-cannes-videos-american-pavilion-2026-1235196700/",
-      "date": "2026-08-22T02:10:00.409061+00:00",
+      "date": "2026-08-22T03:34:08.886303+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/Screen-Shot-2026-08-13-at-4.41.17-PM.png?w=650",
       "important": false,
       "score": 0
@@ -333,7 +333,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/features/commentary/indie-slop-definition-film-video-game-criticism-1235211844/",
-      "date": "2026-08-22T02:10:00.408021+00:00",
+      "date": "2026-08-22T03:34:08.885561+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/MCDIRLU_EC006_ece4a3.jpg?w=650",
       "important": false,
       "score": 0
@@ -357,7 +357,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/features/commentary/niu-lai-review-chinese-animated-movie-terrible-1235212156/",
-      "date": "2026-08-22T02:10:00.407838+00:00",
+      "date": "2026-08-22T03:34:08.885429+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/images-2.jpg?w=650",
       "important": false,
       "score": 0
@@ -381,32 +381,8 @@
         "fa": "The Wrap"
       },
       "link": "https://www.thewrap.com/industry-news/public-policy-legal/brad-pitt-angelina-jolie-daughter-vivienne-next-step-to-drop-dad-last-name/",
-      "date": "2026-08-22T02:10:00.406691+00:00",
+      "date": "2026-08-22T03:34:08.884887+00:00",
       "image": "https://www.thewrap.com/wp-content/uploads/2026/08/Untitled-design-2026-08-21T144352.281.jpg",
-      "important": false,
-      "score": 0
-    },
-    {
-      "id": "18aa7ca31acb",
-      "title": {
-        "en": "Alex Aster on Writing Barbie World’s First-Ever YA Book, Sending Her ‘Lightlark’ Movie Producers ‘Really Smart’ Fan Casts",
-        "fa": "الکس آستر در حال نوشتن اولین کتاب YA در دنیای باربی، فرستادن بازیگران طرفداران «واقعاً باهوش» به تهیه کنندگان فیلم «Lightlark»"
-      },
-      "excerpt": {
-        "en": "BookTok sensation Alex Aster stepped away from the worlds of her bestselling “Lightlark” and “Starside” novels this week to celebrate the debut of her new book, which is based on IP that predates her works by more than six decades: Barbie. Author Aster, who has now released 10 titles over the past six years, was […]",
-        "fa": "الکس آستر، خواننده محبوب BookTok، این هفته از دنیای پرفروش‌ترین رمان‌های خود \"Lightlark\" و \"Starside\" فاصله گرفت تا اولین کتاب جدیدش را جشن بگیرد، کتابی که بر اساس IP است که بیش از شش دهه قبل از آثار او پیش‌تر است: باربی. نویسنده Aster که اکنون 10 عنوان را در طول شش سال گذشته منتشر کرده است"
-      },
-      "content": {
-        "en": "BookTok sensation Alex Aster stepped away from the worlds of her bestselling “Lightlark” and “Starside” novels this week to celebrate the debut of her new book, which is based on IP that predates her works by more than six decades: Barbie. Author Aster, who has now released 10 titles over the past six years, was […]",
-        "fa": "الکس آستر، خواننده محبوب BookTok، این هفته از دنیای پرفروش‌ترین رمان‌های خود \"Lightlark\" و \"Starside\" فاصله گرفت تا اولین کتاب جدیدش را جشن بگیرد، کتابی که بر اساس IP است که بیش از شش دهه قبل از آثار او پیش‌تر است: باربی. نویسنده Aster که اکنون 10 عنوان را در طول شش سال گذشته منتشر کرده است"
-      },
-      "source": {
-        "en": "Variety",
-        "fa": "Variety"
-      },
-      "link": "https://variety.com/2026/film/news/alex-aster-barbie-book-lightlark-movie-update-1236840314/",
-      "date": "2026-08-22T02:10:00.403026+00:00",
-      "image": "https://variety.com/wp-content/uploads/2026/08/Alex-Aster.jpg",
       "important": false,
       "score": 0
     },
@@ -429,7 +405,7 @@
         "fa": "Variety"
       },
       "link": "https://variety.com/2026/film/news/paramount-responds-mark-ruffalo-merger-attack-israel-1236840552/",
-      "date": "2026-08-22T02:10:00.400835+00:00",
+      "date": "2026-08-22T03:34:08.880302+00:00",
       "image": "https://variety.com/wp-content/uploads/2025/08/2219205177.jpg",
       "important": false,
       "score": 0
@@ -453,7 +429,7 @@
         "fa": "Variety"
       },
       "link": "https://variety.com/2026/film/reviews/spa-weekend-review-leslie-mann-anna-faris-1236840170/",
-      "date": "2026-08-22T02:10:00.400272+00:00",
+      "date": "2026-08-22T03:34:08.879869+00:00",
       "image": "https://variety.com/wp-content/uploads/2026/08/SPA-WEEKEND-c-Black-Bear_1-1.jpg",
       "important": false,
       "score": 0
@@ -462,11 +438,11 @@
       "id": "dcc7b2ff0957",
       "title": {
         "en": "Miss USA & Miss Teen USA Pageants Dropped By The CW Days Before Air",
-        "fa": "Miss USA و Miss Teen USA که روزها قبل از پخش توسط CW رها شدند"
+        "fa": "Miss USA و Miss Teen USA که روزها قبل از پخش توسط CW رها شد"
       },
       "excerpt": {
         "en": "No stranger to controversy over the past several years, the Miss USA and Miss Teen USA pageants have just landed in another. Less than a week before the competitions were set to air on The CW, the network has pulled both from the schedule. It’s not clear why, but in a brief statement to Deadline, […]",
-        "fa": "جنجال‌های زیادی در چندین سال گذشته وجود ندارد، مسابقات Miss USA و Miss Teen USA به تازگی در یکی دیگر از مسابقات شرکت کرده‌اند. کمتر از یک هفته قبل از پخش این مسابقات در CW، این شبکه هر دو را از برنامه حذف کرده است. مشخص نیست چرا، اما در بیانیه ای کوتاه به Deadline،"
+        "fa": "No stranger to controversy over the past several years, the Miss USA and Miss Teen USA pageants have just landed in another. Less than a week before the competitions were set to air on The CW, the network has pulled both from the schedule. It’s not clear why, but in a brief statement to Deadline, […]"
       },
       "content": {
         "en": "No stranger to controversy over the past several years, the Miss USA and Miss Teen USA pageants have just landed in another. Less than a week before the competitions were set to air on The CW, the network has pulled both from the schedule. It’s not clear why, but in a brief statement to Deadline, […]",
@@ -477,7 +453,7 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/miss-usa-miss-teen-usa-pageants-dropped-by-the-cw-1237047893/",
-      "date": "2026-08-22T02:10:00.397990+00:00",
+      "date": "2026-08-22T03:34:08.878480+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/GettyImages-2165306052.jpg",
       "important": false,
       "score": 0
@@ -490,7 +466,7 @@
       },
       "excerpt": {
         "en": "After weeks of speculation about Gavin Newsom’s true position on Paramount’s $111 billion acquisition of Warner Bros Discovery and the antitrust suit filed a coalition of state attorneys general, the outgoing governor of California finally weighed in publicly today. His comments come as it appears that Paramount representatives and state attorneys general offices are said […]",
-        "fa": "پس از هفته‌ها گمانه‌زنی درباره موضع واقعی گاوین نیوسام در خرید 111 میلیارد دلاری شرکت برادران وارنر دیسکاوری توسط پارامونت و شکایت ضدانحصار ائتلافی از دادستان‌های کل ایالت، سرانجام فرماندار مستعفی کالیفرنیا امروز علناً به این موضوع پرداخت. اظهارات وی در حالی است که به نظر می رسد نمایندگان پارامونت و دفاتر دادستانی کل ایالت گفته می شود"
+        "fa": "پس از هفته‌ها گمانه‌زنی درباره موضع واقعی گاوین نیوسام در خرید 111 میلیارد دلاری شرکت برادران وارنر دیسکاوری توسط پارامونت و شکایت ضدانحصار تشکیل ائتلافی از دادستان‌های کل ایالت، سرانجام فرماندار مستعفی کالیفرنیا امروز علناً به این موضوع پرداخت. اظهارات وی در حالی است که به نظر می رسد نمایندگان پارامونت و دفاتر دادستانی کل ایالت گفته می شود"
       },
       "content": {
         "en": "After weeks of speculation about Gavin Newsom’s true position on Paramount’s $111 billion acquisition of Warner Bros Discovery and the antitrust suit filed a coalition of state attorneys general, the outgoing governor of California finally weighed in publicly today. His comments come as it appears that Paramount representatives and state attorneys general offices are said […]",
@@ -501,7 +477,7 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/gavin-newsom-paramount-merger-settlement-talks-1237048002/",
-      "date": "2026-08-22T02:10:00.396191+00:00",
+      "date": "2026-08-22T03:34:08.877515+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/03/Rob-Bonta-and-David-Ellison.jpg",
       "important": false,
       "score": 0
