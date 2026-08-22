@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-21T23:15:20.627518+00:00",
-  "count": 24,
+  "updated_at": "2026-08-22T00:42:20.355111+00:00",
+  "count": 20,
   "news": [
     {
       "id": "84f7b103e7fc",
@@ -21,10 +21,34 @@
         "fa": "The Hollywood Reporter"
       },
       "link": "https://www.hollywoodreporter.com/tv/tv-features/khloe-kardashian-the-girls-hulu-reality-show-1236677849/",
-      "date": "2026-08-21T23:15:20.419229+00:00",
+      "date": "2026-08-22T00:42:20.176022+00:00",
       "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/The-Girls-main.jpg?w=1440&#038;h=810&#038;crop=1",
       "important": true,
       "score": 9
+    },
+    {
+      "id": "e26a0a2b5ee6",
+      "title": {
+        "en": "Emmy Overachiever Jason Bateman on Whether He Considers Himself an Actor or Director First",
+        "fa": "جیسون بیتمن، مدیر امی، درباره اینکه آیا ابتدا خود را بازیگر یا کارگردان می‌داند"
+      },
+      "excerpt": {
+        "en": "Jason Bateman is this year’s Emmy overachiever, nominated for lead limited series actor and limited series directing on Netflix’s “Black Rabbit,” and as both supporting actor and executive producer on another limited series, HBO Max’s “DTF St. Louis.” So where does the multi-hyphenate’s brain reside more in these days, as an actor or director? “They […]",
+        "fa": "جیسون بیتمن برنده جایزه امی امسال است که نامزد بازیگری در سریال محدود و کارگردانی سریال محدود در «خرگوش سیاه» نتفلیکس و هم به‌عنوان بازیگر مکمل و هم تهیه‌کننده اجرایی در سریال محدود دیگری، «DTF سنت لوئیس» HBO Max. بنابراین، این روزها مغز چند خط فاصله بیشتر کجاست، به عنوان یک بازیگر یا کارگردان؟ آنها"
+      },
+      "content": {
+        "en": "Jason Bateman is this year’s Emmy overachiever, nominated for lead limited series actor and limited series directing on Netflix’s “Black Rabbit,” and as both supporting actor and executive producer on another limited series, HBO Max’s “DTF St. Louis.” So where does the multi-hyphenate’s brain reside more in these days, as an actor or director? “They […]",
+        "fa": "جیسون بیتمن برنده جایزه امی امسال است که نامزد بازیگری در سریال محدود و کارگردانی سریال محدود در «خرگوش سیاه» نتفلیکس و هم به‌عنوان بازیگر مکمل و هم تهیه‌کننده اجرایی در سریال محدود دیگری، «DTF سنت لوئیس» HBO Max. بنابراین، این روزها مغز چند خط فاصله بیشتر کجاست، به عنوان یک بازیگر یا کارگردان؟ آنها"
+      },
+      "source": {
+        "en": "Variety",
+        "fa": "Variety"
+      },
+      "link": "https://variety.com/2026/tv/awards/jason-bateman-emmys-black-rabbit-dtf-st-louis-podcast-1236840514/",
+      "date": "2026-08-22T00:42:20.172680+00:00",
+      "image": "https://variety.com/wp-content/uploads/2026/08/P104ESVD.jpg",
+      "important": true,
+      "score": 6
     },
     {
       "id": "2d53fc8d3e03",
@@ -45,8 +69,32 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/news/general-news/the-pitt-season-3-first-look-teaser-dr-robby-back-1235212128/",
-      "date": "2026-08-21T23:15:20.424741+00:00",
+      "date": "2026-08-22T00:42:20.180208+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/noah-wyle.jpg?w=650",
+      "important": true,
+      "score": 4
+    },
+    {
+      "id": "4ac1bf5bf04f",
+      "title": {
+        "en": "‘Chicago Fire’ Adds Matthew Daddario For Season 15",
+        "fa": "«Chicago Fire» متیو داداریو را برای فصل 15 اضافه کرد"
+      },
+      "excerpt": {
+        "en": "A new face is coming to Chicago Fire for Season 15. Matthew Daddario is set to join the upcoming season as a firefighter candidate, Deadline has confirmed. New series regular Da’Vinchi, whose character is the same rank, shared a photo from set on Thursday, August 20, teasing the casting. Alongside three fire emojis, he shared a […]",
+        "fa": "ددلاین تایید کرده است که چهره جدیدی به Chicago Fire برای فصل 15 می آید. متیو داداریو قرار است به عنوان کاندیدای آتش نشان به فصل آینده بپیوندد. داوینچی معمولی سریال جدید، که شخصیتش هم رتبه است، عکسی از صحنه فیلمبرداری در روز پنجشنبه 20 آگوست به اشتراک گذاشت و بازیگران را اذیت کرد. او در کنار سه ایموجی آتش، یک"
+      },
+      "content": {
+        "en": "A new face is coming to Chicago Fire for Season 15. Matthew Daddario is set to join the upcoming season as a firefighter candidate, Deadline has confirmed. New series regular Da’Vinchi, whose character is the same rank, shared a photo from set on Thursday, August 20, teasing the casting. Alongside three fire emojis, he shared a […]",
+        "fa": "ددلاین تایید کرده است که چهره جدیدی به Chicago Fire برای فصل 15 می آید. متیو داداریو قرار است به عنوان کاندیدای آتش نشان به فصل آینده بپیوندد. داوینچی معمولی سریال جدید، که شخصیتش هم رتبه است، عکسی از صحنه فیلمبرداری در روز پنجشنبه 20 آگوست به اشتراک گذاشت و بازیگران را اذیت کرد. او در کنار سه ایموجی آتش، یک"
+      },
+      "source": {
+        "en": "Deadline",
+        "fa": "Deadline"
+      },
+      "link": "https://deadline.com/2026/08/chicago-fire-matthew-daddario-cast-season-15-1237047966/",
+      "date": "2026-08-22T00:42:20.169109+00:00",
+      "image": "https://deadline.com/wp-content/uploads/2026/08/Matthew-Daddario.jpg",
       "important": true,
       "score": 4
     },
@@ -69,56 +117,8 @@
         "fa": "The Wrap"
       },
       "link": "https://www.thewrap.com/creative-content/what-to-watch/best-superhero-movies-streaming-on-hbo-max-august-2026/",
-      "date": "2026-08-21T23:15:20.422061+00:00",
+      "date": "2026-08-22T00:42:20.178407+00:00",
       "image": "https://www.thewrap.com/wp-content/uploads/2025/09/The-Dark-Knight.jpg",
-      "important": false,
-      "score": 3
-    },
-    {
-      "id": "f0fff8f10871",
-      "title": {
-        "en": "How Hollywood’s Veterans Are Chasing Emmy History: Sally Field, Harrison Ford, Martin Short and More",
-        "fa": "چگونه کهنه سربازان هالیوود به دنبال تاریخ امی هستند: سالی فیلد، هریسون فورد، مارتین شورت و غیره"
-      },
-      "excerpt": {
-        "en": "Awards season loves a fresh face, but this one also loves a weathered one. When the Television Academy announced its nominations in July, the story wasn’t about the ingenues. It was about the lifers, the character actors, the movie stars and the beloved figures we lost along the way. Voters have handed us a September […]",
-        "fa": "فصل جوایز چهره‌ای تازه را دوست دارد، اما این یکی چهره‌های هوازده را نیز دوست دارد. هنگامی که آکادمی تلویزیون در ماه جولای نامزدهای خود را اعلام کرد، داستان مربوط به داستان نبود. درباره محکومان ابد، بازیگران شخصیت، ستاره های سینما و چهره های محبوبی بود که در این راه از دست دادیم. رای دهندگان یک سپتامبر به ما تحویل داده اند"
-      },
-      "content": {
-        "en": "Awards season loves a fresh face, but this one also loves a weathered one. When the Television Academy announced its nominations in July, the story wasn’t about the ingenues. It was about the lifers, the character actors, the movie stars and the beloved figures we lost along the way. Voters have handed us a September […]",
-        "fa": "فصل جوایز چهره‌ای تازه را دوست دارد، اما این یکی چهره‌های هوازده را نیز دوست دارد. هنگامی که آکادمی تلویزیون در ماه جولای نامزدهای خود را اعلام کرد، داستان مربوط به داستان نبود. درباره محکومان ابد، بازیگران شخصیت، ستاره های سینما و چهره های محبوبی بود که در این راه از دست دادیم. رای دهندگان یک سپتامبر به ما تحویل داده اند"
-      },
-      "source": {
-        "en": "Variety",
-        "fa": "Variety"
-      },
-      "link": "https://variety.com/2026/tv/awards/harrison-ford-sally-field-emmys-2026-oldest-winner-history-1236831709/",
-      "date": "2026-08-21T23:15:20.418292+00:00",
-      "image": "https://variety.com/wp-content/uploads/2026/08/Sally-Field.jpg",
-      "important": false,
-      "score": 3
-    },
-    {
-      "id": "65f4695e744d",
-      "title": {
-        "en": "Book-To-Movie Adaptations Coming Out In 2026",
-        "fa": "اقتباس‌های کتاب به فیلم در سال 2026 منتشر می‌شود"
-      },
-      "excerpt": {
-        "en": "Many books will provide backbone to both theatrical and streaming releases in 2026. From the long-awaited rom com film adaptation of Emily Henry’s People We Meet on Vacation, which hit Netflix in January, to the Ridley Scott-directed adaptation of The Dog Stars starring Jacob Elordi, Josh Brolin and Margaret Qualley coming in August, several major […]",
-        "fa": "بسیاری از کتاب‌ها ستون فقرات اکران‌های نمایشی و استریم را در سال 2026 فراهم می‌کنند. از فیلم اقتباسی مدت‌ها موردانتظار رام کام از افرادی که در تعطیلات ملاقات می‌کنیم اثر امیلی هنری که در ماه ژانویه از نتفلیکس پخش شد تا اقتباسی به کارگردانی ریدلی اسکات از The Dog Stars با بازی ژاکوب الوردی، مارگار الوردی، جاش برولین و چندین بازیگر اصلی که در حال حاضر در فیلم‌های آگوست کوئل‌برولین هستند."
-      },
-      "content": {
-        "en": "Many books will provide backbone to both theatrical and streaming releases in 2026. From the long-awaited rom com film adaptation of Emily Henry’s People We Meet on Vacation, which hit Netflix in January, to the Ridley Scott-directed adaptation of The Dog Stars starring Jacob Elordi, Josh Brolin and Margaret Qualley coming in August, several major […]",
-        "fa": "Many books will provide backbone to both theatrical and streaming releases in 2026. From the long-awaited rom com film adaptation of Emily Henry’s People We Meet on Vacation, which hit Netflix in January, to the Ridley Scott-directed adaptation of The Dog Stars starring Jacob Elordi, Josh Brolin and Margaret Qualley coming in August, several major […]"
-      },
-      "source": {
-        "en": "Deadline",
-        "fa": "Deadline"
-      },
-      "link": "https://deadline.com/feature/book-to-movie-adaptations-1236035322/",
-      "date": "2026-08-21T23:15:20.415500+00:00",
-      "image": "https://deadline.com/wp-content/uploads/2026/08/Book-Movie-Adaptations.jpg",
       "important": false,
       "score": 3
     },
@@ -141,7 +141,7 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/hacks-the-comeback-creators-ending-1237047693/",
-      "date": "2026-08-21T23:15:20.413444+00:00",
+      "date": "2026-08-22T00:42:20.171025+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/MixCollage-21-Aug-2026-12-02-PM-8845.jpg",
       "important": false,
       "score": 3
@@ -150,7 +150,7 @@
       "id": "19b575a9c450",
       "title": {
         "en": "Michelle Pfeiffer Clarifies She “Never Said” She’s Retiring: “The Most Ridiculous Thing”",
-        "fa": "میشل فایفر توضیح می دهد که او \"هرگز نگفت\" در حال بازنشستگی است: \"مضحک ترین چیز\""
+        "fa": "میشل فایفر توضیح می‌دهد که «هرگز نگفت» در حال بازنشستگی است: «مضحک‌ترین چیز»"
       },
       "excerpt": {
         "en": "With new seasons of The Madison and Margo’s Got Money Troubles just around the corner, Michelle Pfeiffer isn’t slowing down anytime soon. After a passing comment that she “never wants to star in another movie,” the 3x Oscar nominee clarified that she’s not retiring, but was talking about her preference for being part of an […]",
@@ -165,7 +165,7 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/michelle-pfeiffer-clarifies-never-said-retiring-1237047868/",
-      "date": "2026-08-21T23:15:20.413177+00:00",
+      "date": "2026-08-22T00:42:20.170790+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/P106TWU9-e1787347833611.jpg",
       "important": false,
       "score": 3
@@ -189,34 +189,10 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/taylor-swift-eras-tour-final-show-emmy-nominations-1237047840/",
-      "date": "2026-08-21T23:15:20.412845+00:00",
+      "date": "2026-08-22T00:42:20.170488+00:00",
       "image": "https://deadline.com/wp-content/uploads/2024/08/taylor-swift-austria-vienna-concert-eras-tour.jpg",
       "important": false,
       "score": 3
-    },
-    {
-      "id": "37e5e31b0a47",
-      "title": {
-        "en": "How ‘Hadestown: The Musical’ Topped $20 Million at the Box Office to Become an Unlikely Indie Blockbuster",
-        "fa": "چگونه «هدستون: موزیکال» در باکس آفیس به 20 میلیون دلار رسید تا به یک فیلم بلاک باستر مستقل بعید تبدیل شود"
-      },
-      "excerpt": {
-        "en": "The filmed version of ”Hadestown” has supplanted “Hamilton” as the highest-grossing live capture of a stage show in history.",
-        "fa": "نسخه فیلم‌برداری شده «هدستون» جایگزین «همیلتون» به عنوان پردرآمدترین فیلم زنده از یک نمایش صحنه در تاریخ شده است."
-      },
-      "content": {
-        "en": "The filmed version of ”Hadestown” has supplanted “Hamilton” as the highest-grossing live capture of a stage show in history.",
-        "fa": "نسخه فیلم‌برداری شده «هدستون» جایگزین «همیلتون» به عنوان پردرآمدترین فیلم زنده از یک نمایش صحنه در تاریخ شده است."
-      },
-      "source": {
-        "en": "IndieWire",
-        "fa": "IndieWire"
-      },
-      "link": "https://www.indiewire.com/news/box-office/hadestown-the-musical-breaks-box-office-records-hamilton-1235212066/",
-      "date": "2026-08-21T23:15:20.425504+00:00",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/07/HADESTOWN_-THE-MUSICAL-Still-8-_-Courtesy-of-Crosswalk-and-LD-Entertainment.png?w=650",
-      "important": false,
-      "score": 1
     },
     {
       "id": "5a379a6d87c9",
@@ -237,80 +213,80 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/features/interviews/letterboxd-distribution-pipeline-it-ends-1235212138/",
-      "date": "2026-08-21T23:15:20.424455+00:00",
+      "date": "2026-08-22T00:42:20.179939+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/07/Phinehas-Yoon-Akira-Jackson-Noah-Toth-in-IT-ENDS_Courtesy-of-NEON.jpeg?w=650",
       "important": false,
       "score": 1
     },
     {
-      "id": "03486a2414a9",
+      "id": "5aa0e1b4eac5",
       "title": {
-        "en": "‘The Odyssey’ Sets Digital, 4K Blu-ray Release Dates",
-        "fa": "«اودیسه» تاریخ‌های عرضه دیجیتال و بلوری 4K را تعیین می‌کند"
+        "en": "Paramount and State A.G. to Meet Monday to Discuss Settlement of Antitrust Case",
+        "fa": "پارامونت و ایالت A.G روز دوشنبه برای بحث در مورد حل و فصل پرونده ضد انحصار ملاقات خواهند کرد"
       },
       "excerpt": {
-        "en": "Christopher Nolan’s “The Odyssey” is finally setting sail for home theaters. The blockbuster adaptation of Homer’s epic poem will be available to rent and purchase on digital beginning Nov. 17, following its theatrical debut on July 17. The film is also slated to arrive on 4K Ultra HD Blu-ray the same day. The digital release […]",
-        "fa": "«اودیسه» کریستوفر نولان بالاخره راهی سینماهای خانگی شد. اقتباس پرفروش شعر حماسی هومر از 17 نوامبر و پس از اولین نمایش آن در سینما در 17 ژوئیه برای اجاره و خرید دیجیتال در دسترس خواهد بود. همچنین قرار است این فیلم در همان روز با کیفیت 4K Ultra HD Blu-ray عرضه شود. انتشار دیجیتال"
+        "en": "Paramount Skydance representatives are expected to meet on Monday with the California Attorney General’s office to discuss a potential settlement of the states’ antitrust case, according to two sources familiar with the situation. Paramount has been pushing hard for a deal to allow its $111 billion merger with Warner Bros. Discovery to close. The deal […]",
+        "fa": "به گفته دو منبع آگاه، انتظار می رود نمایندگان پارامونت اسکای دنس روز دوشنبه با دفتر دادستان کل کالیفرنیا دیدار کنند تا درباره حل و فصل احتمالی پرونده ضد انحصار ایالت ها گفتگو کنند. پارامونت سخت تلاش می کند تا قراردادی را برای ادغام 111 میلیارد دلاری خود با برادران وارنر دیسکاوری به پایان برساند. معامله"
       },
       "content": {
-        "en": "Christopher Nolan’s “The Odyssey” is finally setting sail for home theaters. The blockbuster adaptation of Homer’s epic poem will be available to rent and purchase on digital beginning Nov. 17, following its theatrical debut on July 17. The film is also slated to arrive on 4K Ultra HD Blu-ray the same day. The digital release […]",
-        "fa": "«اودیسه» کریستوفر نولان بالاخره راهی سینماهای خانگی شد. اقتباس پرفروش شعر حماسی هومر از 17 نوامبر و پس از اولین نمایش آن در سینما در 17 ژوئیه برای اجاره و خرید دیجیتال در دسترس خواهد بود. همچنین قرار است این فیلم در همان روز با کیفیت 4K Ultra HD Blu-ray عرضه شود. انتشار دیجیتال"
+        "en": "Paramount Skydance representatives are expected to meet on Monday with the California Attorney General’s office to discuss a potential settlement of the states’ antitrust case, according to two sources familiar with the situation. Paramount has been pushing hard for a deal to allow its $111 billion merger with Warner Bros. Discovery to close. The deal […]",
+        "fa": "به گفته دو منبع آگاه، انتظار می رود نمایندگان پارامونت اسکای دنس روز دوشنبه با دفتر دادستان کل کالیفرنیا دیدار کنند تا درباره حل و فصل احتمالی پرونده ضد انحصار ایالت ها گفتگو کنند. پارامونت سخت تلاش می کند تا قراردادی را برای ادغام 111 میلیارد دلاری خود با برادران وارنر دیسکاوری به پایان برساند. معامله"
       },
       "source": {
         "en": "Variety",
         "fa": "Variety"
       },
-      "link": "https://variety.com/2026/film/news/odyssey-digital-4k-blu-ray-release-1236840376/",
-      "date": "2026-08-21T23:15:20.418943+00:00",
-      "image": "https://variety.com/wp-content/uploads/2026/07/MCDODYS_UV040-e1785170172245.jpg",
+      "link": "https://variety.com/2026/film/news/paramount-merger-warner-settlement-talks-bonta-california-1236840532/",
+      "date": "2026-08-22T00:42:20.172210+00:00",
+      "image": "https://variety.com/wp-content/uploads/2026/07/Paramount-Skydance.jpg",
       "important": false,
       "score": 1
     },
     {
-      "id": "142163b3b613",
+      "id": "9d430a3379b9",
       "title": {
-        "en": "Supreme Court Order Allows Construction To Continue On Donald Trump’s White House Ballroom",
-        "fa": "حکم دادگاه عالی اجازه می دهد تا ساخت و ساز سالن رقص دونالد ترامپ در کاخ سفید ادامه یابد"
+        "en": "Sony Double Feature At The B.O.: ‘Spider-Man: Brand New Day’ $35M, ‘Insidious 6’ $23M Opening – Box Office Update",
+        "fa": "ویژگی دوگانه سونی در B.O.: «Spider-Man: Brand New Day» 35 میلیون دلار، «Insidious 6» افتتاحیه 23 میلیون دلاری - به‌روزرسانی باکس آفیس"
       },
       "excerpt": {
-        "en": "The Supreme Court ruled that construction could continue on Donald Trump’s White House ballroom, sidelining lower court orders to halt the project. Chief Justice John Roberts signed an order on Friday that stays a preliminary injunction issued by a district court judge in April. The stay will be in effect “pending further order of the […]",
-        "fa": "دادگاه عالی حکم داد که ساخت و ساز سالن رقص کاخ سفید دونالد ترامپ می تواند ادامه یابد و دستورات دادگاه بدوی برای توقف پروژه را کنار بگذارد. جان رابرتز، رئیس قاضی روز جمعه دستوری را امضا کرد که در آن حکم اولیه صادر شده توسط قاضی دادگاه منطقه در ماه آوریل باقی می ماند. ماندن در حال اجرا خواهد بود \"در انتظار دستور بیشتر از"
+        "en": "FRIDAY AFTERNOON UPDATE: This weekend belongs to Sony, or at least the top two spots at the box office do, with Marvel Studios’ Spider-Man: Brand New Day‘s fourth frame of $35 million at 4,006 sites and Blumhouse/Atomic Monster/Stage 6’s Insidious: Out of the Further opening to $23M at 3,303 theaters. Both are coming in at […]",
+        "fa": "به‌روزرسانی بعدازظهر جمعه: این آخر هفته متعلق به سونی است، یا حداقل دو جایگاه برتر باکس آفیس، با چهارمین فریم Spider-Man: Brand New Day استودیوی مارول با قیمت 35 میلیون دلار در 4006 سایت و فیلم Blumhouse/Atomic Monster/Stage 6 در افتتاحیه Insidious: Out of the F3300 دلار. هر دو در حال ورود هستند"
       },
       "content": {
-        "en": "The Supreme Court ruled that construction could continue on Donald Trump’s White House ballroom, sidelining lower court orders to halt the project. Chief Justice John Roberts signed an order on Friday that stays a preliminary injunction issued by a district court judge in April. The stay will be in effect “pending further order of the […]",
-        "fa": "دادگاه عالی حکم داد که ساخت و ساز سالن رقص کاخ سفید دونالد ترامپ می تواند ادامه یابد و دستورات دادگاه بدوی برای توقف پروژه را کنار بگذارد. جان رابرتز، رئیس قاضی روز جمعه دستوری را امضا کرد که در آن حکم اولیه صادر شده توسط قاضی دادگاه منطقه در ماه آوریل باقی می ماند. ماندن در حال اجرا خواهد بود \"در انتظار دستور بیشتر از"
+        "en": "FRIDAY AFTERNOON UPDATE: This weekend belongs to Sony, or at least the top two spots at the box office do, with Marvel Studios’ Spider-Man: Brand New Day‘s fourth frame of $35 million at 4,006 sites and Blumhouse/Atomic Monster/Stage 6’s Insidious: Out of the Further opening to $23M at 3,303 theaters. Both are coming in at […]",
+        "fa": "به‌روزرسانی بعدازظهر جمعه: این آخر هفته متعلق به سونی است، یا حداقل دو جایگاه برتر باکس آفیس، با چهارمین فریم Spider-Man: Brand New Day استودیوی مارول با قیمت 35 میلیون دلار در 4006 سایت و فیلم Blumhouse/Atomic Monster/Stage 6 در افتتاحیه Insidious: Out of the F3300 دلار. هر دو در حال ورود هستند"
       },
       "source": {
         "en": "Deadline",
         "fa": "Deadline"
       },
-      "link": "https://deadline.com/2026/08/trump-white-house-ballroom-supreme-court-1237047641/",
-      "date": "2026-08-21T23:15:20.415658+00:00",
-      "image": "https://deadline.com/wp-content/uploads/2026/08/GettyImages-2283262309.jpg",
+      "link": "https://deadline.com/2026/08/box-office-insidious-out-of-the-further-brand-new-day-1237047405/",
+      "date": "2026-08-22T00:42:20.169344+00:00",
+      "image": "https://deadline.com/wp-content/uploads/2026/08/Insidious-Out-of-the-Further-Spider-Man-Brand-New-Day.jpg",
       "important": false,
       "score": 1
     },
     {
-      "id": "b2192e90742e",
+      "id": "3a25befb7fc3",
       "title": {
-        "en": "‘Spa Weekend’ Review: These Funny Women Deserve a Much Better Break",
-        "fa": "نقد و بررسی «آخر هفته اسپا»: این زنان بامزه سزاوار استراحتی بسیار بهتر هستند"
+        "en": "‘How to Divorce During the War’ Review: Lithuanian Sundance Winner Turns a Marriage Crisis Into a Darkly Funny War Drama",
+        "fa": "نقد و بررسی \"چگونه در طول جنگ طلاق بگیریم\": برنده ساندنس لیتوانیایی بحران ازدواج را به یک درام جنگی خنده دار تاریک تبدیل می کند"
       },
       "excerpt": {
-        "en": "Leslie Mann, Isla Fisher, Michelle Buteau, and Anna Faris make for a spirited foursome in \"The Hangover\" writers and \"Bad Moms\" filmmakers Jon Lucas and Scott Moore's messy, unhinged, sometimes funny new film.",
-        "fa": "لزلی مان، ایسلا فیشر، میشل بوتو و آنا فاریس در فیلم جدید ژولیده، بی‌هیچ و گاهی خنده‌دار، نویسندگان «خماری» و فیلم‌سازان «مامان‌های بد»، جون لوکاس و اسکات مور، چهار نفری پرشور را تشکیل می‌دهند."
+        "en": "Andrius Blaževičius' film contrasts the divorce between a struggling filmmaker and a media executive with the early days of Russia's invasion of Ukraine.",
+        "fa": "فیلم آندریوس بلاژویچیوس طلاق بین یک فیلمساز مبارز و یک مدیر رسانه ای را با روزهای اولیه حمله روسیه به اوکراین در تضاد قرار می دهد."
       },
       "content": {
-        "en": "Leslie Mann, Isla Fisher, Michelle Buteau, and Anna Faris make for a spirited foursome in \"The Hangover\" writers and \"Bad Moms\" filmmakers Jon Lucas and Scott Moore's messy, unhinged, sometimes funny new film.",
-        "fa": "Leslie Mann, Isla Fisher, Michelle Buteau, and Anna Faris make for a spirited foursome in \"The Hangover\" writers and \"Bad Moms\" filmmakers Jon Lucas and Scott Moore's messy, unhinged, sometimes funny new film."
+        "en": "Andrius Blaževičius' film contrasts the divorce between a struggling filmmaker and a media executive with the early days of Russia's invasion of Ukraine.",
+        "fa": "فیلم آندریوس بلاژویچیوس طلاق بین یک فیلمساز مبارز و یک مدیر رسانه ای را با روزهای اولیه حمله روسیه به اوکراین در تضاد قرار می دهد."
       },
       "source": {
         "en": "IndieWire",
         "fa": "IndieWire"
       },
-      "link": "https://www.indiewire.com/criticism/movies/spa-weekend-review-leslie-mann-isla-fisher-michelle-buteau-1235211346/",
-      "date": "2026-08-21T23:15:20.425744+00:00",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/08/bf1ab8bc408ccac7cdff2b637cf9f6cae1181667-8192x5464-1.avif?w=650",
+      "link": "https://www.indiewire.com/criticism/movies/how-to-divorce-during-the-war-review-1235212055/",
+      "date": "2026-08-22T00:42:20.180602+00:00",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/08/HowtoDivorce_still_04.jpg?w=650",
       "important": false,
       "score": 0
     },
@@ -333,7 +309,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/news/events/scad-students-cannes-videos-american-pavilion-2026-1235196700/",
-      "date": "2026-08-21T23:15:20.424945+00:00",
+      "date": "2026-08-22T00:42:20.180391+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/Screen-Shot-2026-08-13-at-4.41.17-PM.png?w=650",
       "important": false,
       "score": 0
@@ -357,7 +333,7 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/features/commentary/indie-slop-definition-film-video-game-criticism-1235211844/",
-      "date": "2026-08-21T23:15:20.423909+00:00",
+      "date": "2026-08-22T00:42:20.179464+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/MCDIRLU_EC006_ece4a3.jpg?w=650",
       "important": false,
       "score": 0
@@ -381,32 +357,8 @@
         "fa": "IndieWire"
       },
       "link": "https://www.indiewire.com/features/commentary/niu-lai-review-chinese-animated-movie-terrible-1235212156/",
-      "date": "2026-08-21T23:15:20.423716+00:00",
+      "date": "2026-08-22T00:42:20.179288+00:00",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/images-2.jpg?w=650",
-      "important": false,
-      "score": 0
-    },
-    {
-      "id": "a96c3a11ad4c",
-      "title": {
-        "en": "Ex-Paramount Domestic Distribution Chief Seeks Over $4 Million in Breach of Contract Lawsuit",
-        "fa": "رئیس سابق توزیع داخلی پارامونت به دنبال شکایت بیش از 4 میلیون دلار برای نقض قرارداد است."
-      },
-      "excerpt": {
-        "en": "Chris Aronson also accuses the media giant of age discrimination following his termination last year The post Ex-Paramount Domestic Distribution Chief Seeks Over $4 Million in Breach of Contract Lawsuit appeared first on TheWrap .",
-        "fa": "کریس آرونسون همچنین غول رسانه ای را به تبعیض سنی پس از پایان کار در سال گذشته متهم می کند"
-      },
-      "content": {
-        "en": "Chris Aronson also accuses the media giant of age discrimination following his termination last year The post Ex-Paramount Domestic Distribution Chief Seeks Over $4 Million in Breach of Contract Lawsuit appeared first on TheWrap .",
-        "fa": "کریس آرونسون همچنین غول رسانه ای را به تبعیض سنی پس از پایان کار در سال گذشته متهم می کند"
-      },
-      "source": {
-        "en": "The Wrap",
-        "fa": "The Wrap"
-      },
-      "link": "https://www.thewrap.com/industry-news/business/paramount-chris-aronson-breach-of-contract-lawsuit/",
-      "date": "2026-08-21T23:15:20.422545+00:00",
-      "image": "https://www.thewrap.com/wp-content/uploads/2026/05/Chris-Aronson.jpeg",
       "important": false,
       "score": 0
     },
@@ -429,104 +381,8 @@
         "fa": "The Wrap"
       },
       "link": "https://www.thewrap.com/industry-news/public-policy-legal/brad-pitt-angelina-jolie-daughter-vivienne-next-step-to-drop-dad-last-name/",
-      "date": "2026-08-21T23:15:20.421665+00:00",
+      "date": "2026-08-22T00:42:20.178050+00:00",
       "image": "https://www.thewrap.com/wp-content/uploads/2026/08/Untitled-design-2026-08-21T144352.281.jpg",
-      "important": false,
-      "score": 0
-    },
-    {
-      "id": "2006fecaac50",
-      "title": {
-        "en": "‘Spider-Man’ Is a $940 Million Streaming Revenue Engine | Charts",
-        "fa": "«مرد عنکبوتی» یک موتور درآمد 940 میلیون دلاری است | نمودارها"
-      },
-      "excerpt": {
-        "en": "A Parrot study shows movies and series based on the web-slinger generate far more revenue than any other superhero The post ‘Spider-Man’ Is a $940 Million Streaming Revenue Engine | Charts appeared first on TheWrap .",
-        "fa": "یک مطالعه طوطی نشان می‌دهد که فیلم‌ها و سریال‌های مبتنی بر وب‌اسلینگر بسیار بیشتر از هر ابرقهرمان دیگری درآمد کسب می‌کنند"
-      },
-      "content": {
-        "en": "A Parrot study shows movies and series based on the web-slinger generate far more revenue than any other superhero The post ‘Spider-Man’ Is a $940 Million Streaming Revenue Engine | Charts appeared first on TheWrap .",
-        "fa": "A Parrot study shows movies and series based on the web-slinger generate far more revenue than any other superhero The post ‘Spider-Man’ Is a $940 Million Streaming Revenue Engine | Charts appeared first on TheWrap ."
-      },
-      "source": {
-        "en": "The Wrap",
-        "fa": "The Wrap"
-      },
-      "link": "https://www.thewrap.com/commentary-analysis/data-analysis/spider-man-is-a-940-million-streaming-revenue-engine-charts/",
-      "date": "2026-08-21T23:15:20.421074+00:00",
-      "image": "https://www.thewrap.com/wp-content/uploads/2026/07/Spider-Man-Homecoming.jpg",
-      "important": false,
-      "score": 0
-    },
-    {
-      "id": "1c709534eb73",
-      "title": {
-        "en": "New Docuseries ‘9/11 Reunited’ Connects Survivors 25 Years Later: How to Watch the Three-Part Special",
-        "fa": "مستند جدید «11/11 Reunited» بازماندگان را 25 سال بعد به هم متصل می کند: چگونه فیلم ویژه سه قسمتی را تماشا کنیم"
-      },
-      "excerpt": {
-        "en": "The powerful limited series documents emotional reunions, thank-yous and joint reflections two and a half decades after the attacks.",
-        "fa": "مجموعه قدرتمند محدود دو دهه و نیم پس از حملات، دیدارهای احساسی، تشکر و انعکاس مشترک را مستند می کند."
-      },
-      "content": {
-        "en": "The powerful limited series documents emotional reunions, thank-yous and joint reflections two and a half decades after the attacks.",
-        "fa": "مجموعه قدرتمند محدود دو دهه و نیم پس از حملات، دیدارهای احساسی، تشکر و انعکاس مشترک را مستند می کند."
-      },
-      "source": {
-        "en": "The Hollywood Reporter",
-        "fa": "The Hollywood Reporter"
-      },
-      "link": "https://www.hollywoodreporter.com/tv/tv-news/watch-911-reunited-docuseries-national-geographic-streaming-1236678545/",
-      "date": "2026-08-21T23:15:20.420830+00:00",
-      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/New-Docuseries-911-Reunited-Connects-Survivors-25-Years-Later-When-and-Where-to-Watch-Online-MAIN.jpg?w=1296&#038;h=730&#038;crop=1",
-      "important": false,
-      "score": 0
-    },
-    {
-      "id": "463a5e704f6a",
-      "title": {
-        "en": "‘Task’ Star Tom Pelphrey on Finding Himself in His Devoted Dad Role — and Nearly Playing Professor X",
-        "fa": "‘Task’ Star Tom Pelphrey on Finding Himself in His Devoted Dad Role — and Nearly Playing Professor X"
-      },
-      "excerpt": {
-        "en": "The two-time Emmy nominee was a runner-up for the new 'X-Men' movie, and jokes that at least audiences won't have to see him bald: \"The only hat I can wear is a fitted size eight. It is empirically a big fat head, and I don't know if we want to see it shaved.\"",
-        "fa": "دو بار نامزد امی برای فیلم جدید «X-Men» نایب قهرمان شد و به شوخی می گوید که حداقل تماشاگران مجبور نخواهند بود او را طاس ببینند: \"تنها کلاهی که می توانم بر سر بگذارم سایز هشت است. از نظر تجربی یک سر بزرگ چاق است و نمی دانم می خواهیم ببینیم که تراشیده شده است.\""
-      },
-      "content": {
-        "en": "The two-time Emmy nominee was a runner-up for the new 'X-Men' movie, and jokes that at least audiences won't have to see him bald: \"The only hat I can wear is a fitted size eight. It is empirically a big fat head, and I don't know if we want to see it shaved.\"",
-        "fa": "دو بار نامزد امی برای فیلم جدید «X-Men» نایب قهرمان شد و به شوخی می گوید که حداقل تماشاگران مجبور نخواهند بود او را طاس ببینند: \"تنها کلاهی که می توانم بر سر بگذارم سایز هشت است. از نظر تجربی یک سر بزرگ چاق است و نمی دانم می خواهیم ببینیم که تراشیده شده است.\""
-      },
-      "source": {
-        "en": "The Hollywood Reporter",
-        "fa": "The Hollywood Reporter"
-      },
-      "link": "https://www.hollywoodreporter.com/tv/tv-features/tom-pelphrey-task-x-men-1236678604/",
-      "date": "2026-08-21T23:15:20.420429+00:00",
-      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/GettyImages-2290765723-H-2026.jpg?w=1296&#038;h=730&#038;crop=1",
-      "important": false,
-      "score": 0
-    },
-    {
-      "id": "51138b2c2a4d",
-      "title": {
-        "en": "‘The Yogurt Shop Murders’ Crew Thought Their Journey Was Done Until There Was a Big Break in the Case: ‘We Have to Rally Now’",
-        "fa": "خدمه «قتل‌های ماست‌فروشی» فکر می‌کردند که سفرشان تمام شده است تا زمانی که یک وقفه بزرگ در پرونده رخ داد: «ما باید اکنون تجمع کنیم»"
-      },
-      "excerpt": {
-        "en": "Two days’ notice is all director Margaret Brown had to figure out how to give her true-crime docuseries “The Yogurt Shop Murders” an ending. The original four-part series, chronicling the brutal 1991 murders of four young women in Austin, Texas, denied audiences what the victims’ families had similarly been robbed of for 35 years: closure. […]",
-        "fa": "دو روز قبل مارگارت براون، کارگردان، باید بفهمد که چگونه می‌تواند به فیلم مستند جنایی واقعی خود «قتل‌های ماست‌فروشی» پایان دهد. مجموعه اصلی چهار قسمتی، که داستان قتل وحشیانه چهار زن جوان در سال 1991 در آستین، تگزاس را روایت می‌کند، چیزی را که خانواده‌های قربانیان به مدت 35 سال به طور مشابه از آن دزدیده بودند، از بین می‌برد: بسته شدن."
-      },
-      "content": {
-        "en": "Two days’ notice is all director Margaret Brown had to figure out how to give her true-crime docuseries “The Yogurt Shop Murders” an ending. The original four-part series, chronicling the brutal 1991 murders of four young women in Austin, Texas, denied audiences what the victims’ families had similarly been robbed of for 35 years: closure. […]",
-        "fa": "دو روز قبل مارگارت براون، کارگردان، باید بفهمد که چگونه می‌تواند به فیلم مستند جنایی واقعی خود «قتل‌های ماست‌فروشی» پایان دهد. مجموعه اصلی چهار قسمتی، که داستان قتل وحشیانه چهار زن جوان در سال 1991 در آستین، تگزاس را روایت می‌کند، چیزی را که خانواده‌های قربانیان به مدت 35 سال به طور مشابه از آن دزدیده بودند، از بین می‌برد: بسته شدن."
-      },
-      "source": {
-        "en": "Variety",
-        "fa": "Variety"
-      },
-      "link": "https://variety.com/2026/tv/focus/yogurt-shop-murders-break-case-1236840276/",
-      "date": "2026-08-21T23:15:20.418654+00:00",
-      "image": "https://variety.com/wp-content/uploads/2026/05/YogurtShopMurders-billboard.jpg",
       "important": false,
       "score": 0
     },
@@ -549,8 +405,32 @@
         "fa": "Variety"
       },
       "link": "https://variety.com/2026/film/news/alex-aster-barbie-book-lightlark-movie-update-1236840314/",
-      "date": "2026-08-21T23:15:20.417678+00:00",
+      "date": "2026-08-22T00:42:20.174573+00:00",
       "image": "https://variety.com/wp-content/uploads/2026/08/Alex-Aster.jpg",
+      "important": false,
+      "score": 0
+    },
+    {
+      "id": "2622ee2a0f95",
+      "title": {
+        "en": "Paramount Slams Mark Ruffalo Merger Attack as ‘Antisemitic,’ Says Company Does Not ‘Tolerate Prejudice of Any Kind’",
+        "fa": "پارامونت حمله ادغام مارک روفالو را \"یهودی ستیزانه\" می خواند و می گوید شرکت \"هیچ نوع تعصب\" را تحمل نمی کند."
+      },
+      "excerpt": {
+        "en": "Paramount has come out swinging against a Friday screed from Mark Ruffalo, in which the award-winning actor accused moguls David and Larry Ellison of “powering some of the most destructive and inhuman forces in the world.” A spokesperson for the David Ellison-run enterprise said the company is “troubled when antisemitic tropes are invoked in purported […]",
+        "fa": "پارامونت در مخالفت با فیلم جمعه مارک روفالو، که در آن این بازیگر برنده جایزه، دیوید و لری الیسون غول‌ها را به «قدرت دادن به برخی از مخرب‌ترین و غیرانسانی‌ترین نیروهای جهان» متهم می‌کند، مخالفت کرده است. سخنگوی شرکتی که دیوید الیسون اداره می‌کند، گفت که این شرکت «وقتی ادعا می‌شود که از استعمارهای یهودستیزی استفاده می‌شود، دچار مشکل می‌شود."
+      },
+      "content": {
+        "en": "Paramount has come out swinging against a Friday screed from Mark Ruffalo, in which the award-winning actor accused moguls David and Larry Ellison of “powering some of the most destructive and inhuman forces in the world.” A spokesperson for the David Ellison-run enterprise said the company is “troubled when antisemitic tropes are invoked in purported […]",
+        "fa": "پارامونت در مخالفت با فیلم جمعه مارک روفالو، که در آن این بازیگر برنده جایزه، دیوید و لری الیسون غول‌ها را به «قدرت دادن به برخی از مخرب‌ترین و غیرانسانی‌ترین نیروهای جهان» متهم می‌کند، مخالفت کرده است. سخنگوی شرکتی که دیوید الیسون اداره می‌کند، گفت که این شرکت «وقتی ادعا می‌شود که از استعمارهای یهودستیزی استفاده می‌شود، دچار مشکل می‌شود."
+      },
+      "source": {
+        "en": "Variety",
+        "fa": "Variety"
+      },
+      "link": "https://variety.com/2026/film/news/paramount-responds-mark-ruffalo-merger-attack-israel-1236840552/",
+      "date": "2026-08-22T00:42:20.172481+00:00",
+      "image": "https://variety.com/wp-content/uploads/2025/08/2219205177.jpg",
       "important": false,
       "score": 0
     },
@@ -573,8 +453,32 @@
         "fa": "Deadline"
       },
       "link": "https://deadline.com/2026/08/chris-aronson-sues-paramount-age-discrimination-1237047629/",
-      "date": "2026-08-21T23:15:20.414739+00:00",
+      "date": "2026-08-22T00:42:20.171937+00:00",
       "image": "https://deadline.com/wp-content/uploads/2026/08/Chris-Aronson.jpg",
+      "important": false,
+      "score": 0
+    },
+    {
+      "id": "dcc7b2ff0957",
+      "title": {
+        "en": "Miss USA & Miss Teen USA Pageants Dropped By The CW Days Before Air",
+        "fa": "Miss USA و Miss Teen USA که روزها قبل از پخش توسط CW رها شد"
+      },
+      "excerpt": {
+        "en": "No stranger to controversy over the past several years, the Miss USA and Miss Teen USA pageants have just landed in another. Less than a week before the competitions were set to air on The CW, the network has pulled both from the schedule. It’s not clear why, but in a brief statement to Deadline, […]",
+        "fa": "جنجال‌های زیادی در چندین سال گذشته وجود ندارد، مسابقات Miss USA و Miss Teen USA به تازگی در یکی دیگر از مسابقات شرکت کرده‌اند. کمتر از یک هفته قبل از پخش این مسابقات در CW، این شبکه هر دو را از برنامه حذف کرده است. مشخص نیست چرا، اما در بیانیه ای کوتاه به Deadline،"
+      },
+      "content": {
+        "en": "No stranger to controversy over the past several years, the Miss USA and Miss Teen USA pageants have just landed in another. Less than a week before the competitions were set to air on The CW, the network has pulled both from the schedule. It’s not clear why, but in a brief statement to Deadline, […]",
+        "fa": "جنجال‌های زیادی در چندین سال گذشته وجود ندارد، مسابقات Miss USA و Miss Teen USA به تازگی در یکی دیگر از مسابقات شرکت کرده‌اند. کمتر از یک هفته قبل از پخش این مسابقات در CW، این شبکه هر دو را از برنامه حذف کرده است. مشخص نیست چرا، اما در بیانیه ای کوتاه به Deadline،"
+      },
+      "source": {
+        "en": "Deadline",
+        "fa": "Deadline"
+      },
+      "link": "https://deadline.com/2026/08/miss-usa-miss-teen-usa-pageants-dropped-by-the-cw-1237047893/",
+      "date": "2026-08-22T00:42:20.169834+00:00",
+      "image": "https://deadline.com/wp-content/uploads/2026/08/GettyImages-2165306052.jpg",
       "important": false,
       "score": 0
     }
